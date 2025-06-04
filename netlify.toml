@@ -5,7 +5,7 @@
   ignore = "false"
 
 [context.production.environment]
-  HUGO_VERSION = "0.114.3"    # or whatever Hugo version you’re using
+  HUGO_VERSION = "0.114.2"    # or whatever Hugo version you’re using
   HUGO_ENV     = "production"
   # Prevent Netlify from running 'npm install' by pointing at an empty install
   NPM_FLAGS    = "--ignore-scripts"
