@@ -1,31 +1,4 @@
 <header>
   <!-- Banner -->
   <img src="/banner.png" alt="BlockWireNews Banner" style="width: 100%; height: auto;" />
-
-  <!-- Navigation bar (Bulma‐style, matching Ananke) -->
-  <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <!-- You can put a logo or site title here if desired -->
-      <a class="navbar-item" href="{{ " /" | relURL }}">
-        {{ .Site.Title }}
-      </a>
-      <!-- This “burger” toggles the menu on mobile -->
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-
-    <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-end">
-        {{/* Iterate over the “main” menu defined in config.toml */}}
-        {{ range .Site.Menus.main }}
-        <a class="navbar-item" href="{{ .URL }}">
-          {{ .Name }}
-        </a>
-        {{ end }}
-      </div>
-    </div>
-  </nav>
 </header>
