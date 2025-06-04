@@ -1,49 +1,76 @@
 {{ define "main" }}
 <div class="container mt-6">
     <style>
+      /* Container centered with responsive padding */
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+
+      /* Make title bold and centered on large screens */
       .title {
         font-weight: bold;
       }
-      .container {
-        padding-left: 100px;
-        padding-right: 100px;
+
+      /* Responsive crypto item: flex layout that wraps */
+      .crypto-item {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 1.5rem;
       }
-      /* Thumbnail styling */
+
+      /* Responsive thumbnail styling */
       .crypto-item img {
+        width: 100%;
         max-width: 200px;
-        max-height: 200px;
-        margin-right: 20px;
-        float: left;
+        height: auto;
+        margin-right: 1rem;
+        flex-shrink: 0;
       }
-      /* Clear floats on parent */
-      .crypto-item::after {
-        content: "";
-        display: table;
-        clear: both;
-      }
+
+      /* Clear floats removed; flex handles layout */
+
       /* Title and summary container */
       .crypto-item-content {
-        overflow: hidden;
+        flex: 1 1 0;
       }
+
+      /* Story link styling */
       .crypto-item-content a {
         font-size: 1.25rem;
         color: black;
         text-decoration: none;
         font-weight: bold;
       }
-      /* Reduce section spacing */
+
+      /* Responsive section spacing */
       section.section {
-        padding: 1rem 0;
+        padding: 0.5rem 0;
         border-bottom: 1px solid #ddd;
       }
-      /* Reduce list padding */
+
+      /* Remove default list styling */
       ul {
         padding-left: 0;
         list-style: none;
       }
-      /* Reduce margins on list items */
-      li {
-        margin-bottom: 1.5rem;
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        /* On small screens, stack thumbnail above content */
+        .crypto-item {
+          flex-direction: column;
+        }
+
+        .crypto-item img {
+          max-width: 100%;
+          margin: 0 0 0.5rem 0;
+        }
+
+        .crypto-item-content a {
+          font-size: 1rem;
+        }
       }
     </style>
     <!-- <h1 class="title has-text-centered">Crypto News Aggregator</h1> -->
