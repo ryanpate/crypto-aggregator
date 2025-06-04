@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Vitalik Buterin Uses Privacy Tool Railgun Again, Signaling Ongoing Embrace of On-Chain Anonymity",
+      "link": "https://www.coindesk.com/tech/2025/06/04/vitalik-buterin-uses-privacy-tool-railgun-again-signaling-ongoing-embrace-of-on-chain-anonymity",
+      "summary": ""
+    },
+    {
+      "title": "The Protocol: Berachain Follows Ethereum\u2019s Pectra Upgrade With \u2018Bectra\u2019",
+      "link": "https://www.coindesk.com/tech/2025/06/04/the-protocol-berachain-follows-ethereum-s-pectra-upgrade-with-bectra",
+      "summary": ""
+    },
+    {
+      "title": "Trio of Soft Economic Reports Boost Fed Rate Cut Odds, but What About Bitcoin?",
+      "link": "https://www.coindesk.com/markets/2025/06/04/trio-of-soft-economic-reports-boost-fed-rate-cut-odds-but-what-about-bitcoin",
+      "summary": ""
+    },
+    {
       "title": "JPMorgan to Accept Bitcoin ETFs as Loan Collateral in Expansion of Crypto Access: Bloomberg",
       "link": "https://www.coindesk.com/business/2025/06/04/jpmorgan-to-accept-bitcoin-etfs-as-loan-collateral-in-expansion-of-crypto-access-bloomberg",
       "summary": ""
@@ -8,21 +23,6 @@
     {
       "title": "Trump's Crypto Ties at Forefront as U.S. Lawmakers Weigh Crypto Market Structure Bill",
       "link": "https://www.coindesk.com/policy/2025/06/04/trump-s-crypto-ties-at-forefront-as-u-s-lawmakers-weigh-crypto-market-structure-bill",
-      "summary": ""
-    },
-    {
-      "title": "South Korea Elects Crypto-Friendly Lee Jae-myung as New President",
-      "link": "https://www.coindesk.com/policy/2025/06/04/south-korea-elects-crypto-friendly-lee-jae-myung-as-new-president",
-      "summary": ""
-    },
-    {
-      "title": "BitFuFu Hits Record 34.1 EH/s Hashrate as Bitcoin Production Surges in May",
-      "link": "https://www.coindesk.com/markets/2025/06/04/bitfufu-hits-record-341-ehs-hashrate-as-bitcoin-production-surges-in-may",
-      "summary": ""
-    },
-    {
-      "title": "Circle IPO Pricing Could Jump Above Range as Investor Orders Surge: Bloomberg",
-      "link": "https://www.coindesk.com/markets/2025/06/04/circle-ipo-pricing-could-jump-above-range-after-investor-orders-surge-bloomberg",
       "summary": ""
     }
   ],
@@ -55,6 +55,16 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Brazil\u2019s central bank plans to use CBDC data to guide interest rate decisions",
+      "link": "https://cryptoslate.com/brazils-central-bank-plans-to-use-cbdc-data-to-guide-interest-rate-decisions/",
+      "summary": "<p>Brazil\u2019s Central Bank plans to treat transaction data from its central bank digital currency (CBDC) infrastructure, called Drex, as a direct input for setting the country\u2019s interest rate benchmark. Central bank executive Henrique Videira said on June 4 at the Token Nation conference in S\u00e3o Paulo that every payment and asset transfer recorded on Drex\u2019s [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Circle set to exceed IPO expectations after overwhelming investor demand",
+      "link": "https://cryptoslate.com/circle-set-to-exceed-ipo-expectations-after-overwhelming-investor-demand/",
+      "summary": "<p>Circle is poised to price its initial public offering above its marketed range after receiving investor orders for more than 25x the number of shares available, Bloomberg reported on June 4, citing people familiar with the matter. The stablecoin issuer and its backers are offering 32 million shares at a price range of $27 to [&#8230;]</p> <p>"
+    },
+    {
       "title": "US-based ETFs offering staking set for growth despite some regulatory, macro tailwinds",
       "link": "https://cryptoslate.com/us-based-etfs-offering-staking-set-for-growth-despite-some-regulatory-macro-tailwinds/",
       "summary": "<p>Upcoming exchange-traded funds (ETFs) that integrate staking yields stand to benefit significantly as US lawmakers and regulators clarify the legal status of on-chain rewards, according to a June 3 report. The report noted points to two parallel policy moves. First, the US Securities and Exchange Commission (SEC) confirmed on May 29 that staking does not [&#8230;]</p> <p>"
@@ -68,19 +78,14 @@
       "title": "JPMorgan to accept Bitcoin ETFs as loan collateral, consider digital holdings in evaluations",
       "link": "https://cryptoslate.com/jpmorgan-to-accept-bitcoin-etfs-as-loan-collateral-consider-digital-holdings-in-evaluations/",
       "summary": "<p>JPMorgan is set to begin accepting Bitcoin (BTC) exchange-traded funds as collateral for loans, Bloomberg News reported on June 4. The lender also plans to consider digital asset holdings when evaluating a client\u2019s net worth and liquid assets, placing crypto alongside traditional categories such as equities, vehicles, and fine art when assessing lending eligibility. The [&#8230;]</p> <p>"
-    },
-    {
-      "title": "WazirX relocates to Panama after Singapore court blocks restructuring efforts",
-      "link": "https://cryptoslate.com/wazirx-relocates-to-panama-after-singapore-court-blocks-restructuring-efforts/",
-      "summary": "<p>Crypto exchange WazirX suffered a major legal blow after the Singapore High Court rejected its restructuring proposal to relaunch operations following a $230 million hack in July 2024. On June 4, WazirX announced that its request for court approval had been denied, saying: &#8220;The Honourable Singapore High Court issued an order declining to approve our [&#8230;]</p> <p>"
-    },
-    {
-      "title": "XRP Ledger battles influx of scam crypto projects as Ripple eyes global financial role",
-      "link": "https://cryptoslate.com/xrpl-faces-scam-influx-amid-institutional-interest-boom/",
-      "summary": "<p>Institutional interest in the XRP Ledger (XRPL) continues to grow, as does the number of scams exploiting the ecosystem. On June 4, Panos Mekras, co-founder of Anodos Finance, a leading DeFi platform built on XRPL, raised concerns over the proliferation of fraudulent projects piggybacking on the blockchain network&#8217;s growing visibility. In the X post, Mekras [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin ATH Fails To Hype Retail\u2014Demand Is Actually Down",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-ath-fails-hype-retail-demand-actually-down/",
+      "summary": "On-chain data shows the retail interest in Bitcoin has been waning as small-holder volume has gone down during the past month. Bitcoin Retail Investor Demand Has Seen A Negative 30-Day Change In a CryptoQuant Quicktake post, an analyst has talked about the latest trend in the &#8220;Retail Investor Demand&#8221; of Bitcoin. This indicator provides an estimate for, as its name suggests, the amount of demand that the smallest of investors, the &#8216;retail,&#8217; have toward the cryptocurrency right now. The metric does so by referring to the transaction volume associated with this cohort. Considering the small wallet size attached to these holders, their transfers would typically remain under a value of $10,000, so the volume related to them can be separated from the rest of the market by only restricting to transfers below this size. Related Reading: Bitcoin 3\u20135 Year Holders Slow Selloff\u2014Waiting for Higher Prices? Now, here is the chart shared by the quant that shows the 30-day percentage change in the Bitcoin Retail Investor Demand over the past year: As is visible in the above graph, the Bitcoin Retail Investor Demand saw its 30-day change enter into the positive territory when the latest bull rally first started, suggesting that the small investors increased their transfer activity. The 30-day change continued a gradual rise as the run played out, but after the cryptocurrency set its new all-time high (ATH), it noted a reversal in direction. Today, the metric has declined enough to dip back into the negative territory, meaning that retail investor volume is now going down on the monthly timeframe. From the chart, it&#8217;s also apparent that even at its peak, the 30-day change in the Retail Investor Demand never actually touched a high level this rally, which is in sharp contrast to the run from the end of 2024. Thus, it would appear that the recent price surge not only failed to ignite any notable level of interest among the small hands but also failed to maintain the attention that it did gather. The switch to a negative monthly change for the Retail Investor Demand could be down to the bearish action that the coin&#8217;s price has seen since the ATH, but the fact of the matter is that Bitcoin is currently still very much in range of this record, so it&#8217;s interesting to see this sentiment among the group. Related Reading: Bitcoin Could Go \u2018Bananas\u2019 If Price Closes Above This Level, Top Analyst Says Speaking of transaction volume, the institutional DeFi solutions provider Sentora (formerly IntoTheBlock) has talked about the latest trend in the volume share of the Bitcoin miners. As displayed in the chart, the Bitcoin miners have seen their volume share sharply go down recently and drop to the lowest level since 2022. This implies these chain validators have seen their activity plummet relative to the rest of the network. BTC Price Bitcoin has taken to sideways movement recently as its price is still trading around the $105,200 mark. Featured image from Dall-E, IntoTheBlock.com, CryptoQuant.com, chart from TradingView.com"
+    },
     {
       "title": "Trump Crypto Venture Charges Into Digital Space With Wallet Launch Amid Uproar",
       "link": "https://www.newsbtc.com/altcoin/trump-crypto-venture-charges-into-digital-space-with-wallet-launch-amid-uproar/",
@@ -100,11 +105,6 @@
       "title": "Ethereum Consolidates Against BTC \u2013 Altseason Hopes Hinge On ETH/BTC Breakout",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-consolidates-against-btc-altseason-hopes-hinge-on-eth-btc-breakout/",
       "summary": "Ethereum is showing impressive resilience as it continues to hold above critical levels despite ongoing market volatility. While Bitcoin struggles to break past its all-time highs, ETH remains stable, maintaining bullish structure and fueling hopes for a broader altcoin rally. Analysts across the market are eyeing a potential altseason, with Ethereum expected to lead the charge once it clears major supply zones. Related Reading: Ethereum Daily Chart Signals Strength Amid Market Uncertainty \u2013 Analyst However, the spotlight is shifting to a less discussed but highly significant chart\u2014ETHBTC. According to top analyst Daan, the ETHBTC pair has been consolidating in a tight range between 0.022 and 0.026 since the last squeeze. This consolidation suggests a period of accumulation and reduced volatility, but it also acts as a crucial signal for altcoin momentum. If ETHBTC breaks above the 0.026 resistance level, Daan suggests it could trigger a temporary but powerful rally in ALT/BTC pairs. Sectors closely tied to Ethereum\u2014such as DeFi protocols, ETH-based memecoins, and Layer 2 ecosystems\u2014could benefit most from such a move. Until then, investors are closely monitoring ETH\u2019s performance relative to BTC, as it remains one of the most reliable indicators of capital rotation within the crypto market. ETHBTC Chart Becomes Key to Altseason Outlook Ethereum is currently trading at a pivotal range, with investors closely watching for a breakout that could lead to new highs and potentially ignite the long-anticipated altseason. Despite global tensions and continued macroeconomic uncertainty\u2014particularly surrounding the aggressive and unstable Bond market\u2014ETH has remained relatively strong. Bulls are optimistic, viewing the current consolidation as a healthy pause before the next leg up. One of the most important signals for altcoin momentum is not found on the USD chart, but in the ETHBTC pair. Daan points out that Ethereum\u2019s price relative to Bitcoin has been consolidating between the 0.022 and 0.026 BTC range since the recent squeeze. This range now acts as a pressure point for the market. A breakout above 0.026 would likely catalyze a surge in altcoin strength, especially among Ethereum-related assets like DeFi protocols, ETH-based memecoins, and Layer 2 solutions. However, Daan warns that if ETHBTC drops below 0.0224, it could signal weakness for alts relative to BTC. It\u2019s important to remember that ALT/BTC pairs can fall even if altcoin USD prices rise, particularly during aggressive BTC rallies. The same applies in reverse. For now, ETH\u2019s position in this range remains one of the most telling signs of where the broader crypto market might head next. Related Reading: Ethereum Reclaims Pivotal Level \u2013 Key Resistance Around $2,650 Ethereum Faces Resistance As Bulls Attempt Breakout Ethereum (ETH) is currently trading around $2,640, showing signs of strength after holding its ground above the $2,500 mark. On the daily chart, ETH is forming a clear consolidation pattern just below a key resistance zone defined by the 200-day moving average (currently at $2,676). This level has repeatedly capped price action over the past few weeks, signaling strong supply pressure in this area. Despite the lack of a decisive breakout, Ethereum is maintaining a bullish structure with higher lows and consistent volume support. The 34-day EMA has turned upward and currently sits at $2,418, providing dynamic support and reinforcing the short-term uptrend. If ETH can reclaim the 200-day SMA and push above $2,700, a broader rally could follow, potentially opening the path toward $3,000 and beyond. Related Reading: Solana Reclaims Key Support After Sweeping Lows \u2013 Early Signs Of Reversal? On the downside, if price fails to break this resistance and sellers take control, immediate support lies near $2,500, followed by stronger demand around $2,350\u2013$2,400 where the 50- and 100-day SMAs converge. For now, Ethereum remains in a balanced state, showing resilience, but still needs a strong catalyst to overcome the technical ceiling that continues to stall upward momentum. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "Certified Analyst Says Bitcoin Dominance Could Reverse At 64% \u2013 Is It Time For Altcoin Season?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-dominance-reverse-at-64/",
-      "summary": "Bitcoin&#8217;s current price action is marked by a consolidation around the $105,500 price level. Although it reached an intraday high of $106,807, it has since returned to $105,500, and its dominance also witnessed a minor fall. Notably, Bitcoin&#8217;s dominance metric, the BTC.D, which measures its share of the total crypto market capitalization, has stalled around the 64% level in recent weeks. This stalling behavior drew attention from a certified market analyst, especially in light of many altcoins struggling to gain momentum in an environment dominated by Bitcoin&#8217;s inflow. BTC Dominance Hits Resistance, Candlestick Flash Warnings According to certified Level III CMT analyst Tony &#8220;The Bull&#8221; Severino, the 64% region on the Bitcoin Dominance (BTC.D) chart could mark a meaningful reversal point. Sharing his insights alongside a technical chart of Bitcoin&#8217;s market cap dominance on the monthly timeframe, Severino pointed out that the latest monthly candlestick formed a Doji right at the bottom of a previous Falling Window. Related Reading: Altcoin Season: Bitcoin Dominance Reaches Critical Level Above 64% In Japanese candlestick theory, such &#8220;windows&#8221; are not just gaps to be filled but serve as critical zones of support or resistance. The fact that BTC.D formed a Doji candle precisely at this window, according to Severino, is a textbook reaction suggesting the dominance rally may be losing strength. This candlestick structure brings the focus onto how the current monthly candlestick plays out. If the current monthly candle becomes an Evening Star candlestick and closes below 62%, the odds of Bitcoin dominance rolling over increase significantly. Altcoin Season Not Quite There Yet As noted by Tony, if Bitcoin&#8217;s dominance candlestick this month forms an Evening Star pattern and closes below 62%, it has a high possibility of marking the end of the cryptocurrency&#8217;s current dominance. However, the analyst added a key caveat: the BTC.D Relative Strength Index (RSI) closed the previous month above 70, still suggesting strong momentum and keeping the larger trend in flux. Related Reading: Is Altcoin Season Over Or It Never Started? Here\u2019s What Historical Data Says Despite these early signals, Severino warned against jumping the gun. Although the technical evidence points to a possible short-term reversal in dominance, he clarified that it does not necessarily guarantee a full-fledged altcoin season. In his words, &#8220;I am still not of the mindset that we will get a typical altcoin season, but I am seeing some of the first signs that BTC.D might reverse here.&#8221; For now, Bitcoin continues to hold steady above $105,000, and until BTC.D breaks convincingly below 62%, the cryptocurrency is in dominance. Nonetheless, the altcoin market could soon be looking at its first real window of opportunity in months. At the time of writing, Bitcoin is trading at $105,500, down by 0.1% in the past 24 hours. Bitcoin dominance is currently at 63.1%, down by 0.57% in the past 24 hours. Ethereum, on the other hand, increased its market share by 2.13% to 9.6%. Featured image from Adobe Stock, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "\u2018Take Rent, Invest That\u2019: How Grant Cardone Is Mixing Real Estate and Bitcoin",
+      "link": "https://decrypt.co/323697/take-rent-invest-that-how-grant-cardone-is-mixing-real-estate-and-bitcoin",
+      "summary": "Real estate entrepreneur Grant Cardone wants his tenants to buy Bitcoin for you."
+    },
+    {
+      "title": "Chinese Company Takes a Shot at the Moon With $300 Million XRP Play",
+      "link": "https://decrypt.co/323720/chinese-company-webus-300-million-xrp-play",
+      "summary": "Nasdaq-listed travel booking firm Webus filed a Form 6-K to inform U.S. investors and regulators of its plans for a $300 million XRP treasury."
+    },
+    {
       "title": "Police Nab Alleged Mastermind Behind French Crypto Kidnappings: Report",
       "link": "https://decrypt.co/323693/police-arrest-alleged-amstermind-french-crypto-kidnappings-report",
       "summary": "A 24-year-old French-Moroccan national was arrested for his alleged role running a kidnapping scheme that targeted the crypto-rich in France."
@@ -149,16 +159,6 @@
       "title": "Crypto Payments Firm MoonPay Secures New York BitLicense",
       "link": "https://decrypt.co/323657/moonpay-secures-new-york-crypto-bitlicense",
       "summary": "MoonPay has obtained New York's key BitLicense to conduct crypto business, though NYC Mayor Eric Adams recently came out against the license."
-    },
-    {
-      "title": "'In His Digital Wallet': Democrats Blast Latest Trump-Backed Crypto Product During House Hearing",
-      "link": "https://decrypt.co/323663/in-his-digital-wallet-democrats-blast-latest-trump-backed-crypto-product-house-hearing",
-      "summary": "The last time House lawmakers convened to discuss crypto, Trump had announced a private dinner for $TRUMP holders a day before."
-    },
-    {
-      "title": "Trump-Backed World Liberty Financial Airdrops Millions of Stablecoins to 85,000 Wallets",
-      "link": "https://decrypt.co/323661/trump-backed-world-liberty-financial-airdrops-millions-stablecoins-85000-wallets",
-      "summary": "The airdrop was designed partly to test the platform\u2019s readiness for a full rollout of DeFi services."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Solana\u2019s memecoin powerhouse Pump.fun eyes $1B raise at $4B valuation",
+      "link": "https://ambcrypto.com/solanas-memecoin-powerhouse-pump-fun-eyes-1b-raise-at-4b-valuation/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Solana-Pumpfun-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's experts' outlook on Pump.fun's expected token launch."
+    },
+    {
       "title": "Shiba Inu burn surges 2,408%: Can SHIB finally escape bearish pressure?",
       "link": "https://ambcrypto.com/shiba-inu-burn-surges-2408-can-shib-finally-escape-bearish-pressure/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-84-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s massive burn rate fails to offset bearish on-chain signals and resistance levels."
@@ -208,11 +213,6 @@
       "title": "GENIUS Act faces intense scrutiny \u2013 Over 60 amendments and rising",
       "link": "https://ambcrypto.com/genius-act-faces-intense-scrutiny-over-60-amendments-and-rising/",
       "summary": "<img alt=\"GENIUS Act faces intense scrutiny - Over 60 amendments and rising\" class=\"attachment-full size-full wp-post-image\" height=\"605\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/GENIUS-Act-Amendment-Talks-.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1075\" />Could amendments halt the GENIUS Act before it even reaches a vote?"
-    },
-    {
-      "title": "Bitcoin ETF: $1.2B exit in 3 days, the most since March \u2013 What now?",
-      "link": "https://ambcrypto.com/bitcoin-etf-1-2b-exit-in-3-days-the-most-since-march-what-now/",
-      "summary": "<img alt=\"Bitcoin ETF: $1.2B exit in 3 days, the most since March - What now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-04T120803.476-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin faces rising pressure as ETF outflows and weakening fundamentals shake investor confidence."
     }
   ]
 }
