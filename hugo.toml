@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.blockwirenews.com'
 languageCode = 'en-us'
-title = ''
+title = 'BlockWireNews - Aggregated CryptoCurrency News'
 theme = 'ananke'
+enableRobotsTXT = true
+sitemap:
+  changefreq: "hourly"
+  priority: 0.5
+  filename: "sitemap.xml"
