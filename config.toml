@@ -3,3 +3,20 @@ languageCode = 'en-us'
 title = 'BlockWireNews - Aggregated CryptoCurrency News'
 theme = 'ananke'
 enableRobotsTXT = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Crypto News"
+    url  = "/"
+    weight = 3
