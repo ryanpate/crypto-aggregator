@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Suspect in French Crypto Kidnappings Arrested in Morocco",
+      "link": "https://www.coindesk.com/policy/2025/06/04/suspect-in-french-crypto-kidnappings-arrested-in-morocco",
+      "summary": ""
+    },
+    {
+      "title": "Circle Debuts on NYSE at $31 Per Share, Valuing Stablecoin Issuer at $6.2 Billion",
+      "link": "https://www.coindesk.com/markets/2025/06/04/circle-debuts-on-nyse-at-31-per-share-valuing-stablecoin-issuer-at-62-billion",
+      "summary": ""
+    },
+    {
       "title": "Vitalik Buterin Uses Privacy Tool Railgun Again, Signaling Ongoing Embrace of On-Chain Anonymity",
       "link": "https://www.coindesk.com/tech/2025/06/04/vitalik-buterin-uses-privacy-tool-railgun-again-signaling-ongoing-embrace-of-on-chain-anonymity",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Trio of Soft Economic Reports Boost Fed Rate Cut Odds, but What About Bitcoin?",
       "link": "https://www.coindesk.com/markets/2025/06/04/trio-of-soft-economic-reports-boost-fed-rate-cut-odds-but-what-about-bitcoin",
       "summary": ""
-    },
-    {
-      "title": "JPMorgan to Accept Bitcoin ETFs as Loan Collateral in Expansion of Crypto Access: Bloomberg",
-      "link": "https://www.coindesk.com/business/2025/06/04/jpmorgan-to-accept-bitcoin-etfs-as-loan-collateral-in-expansion-of-crypto-access-bloomberg",
-      "summary": ""
-    },
-    {
-      "title": "Trump's Crypto Ties at Forefront as U.S. Lawmakers Weigh Crypto Market Structure Bill",
-      "link": "https://www.coindesk.com/policy/2025/06/04/trump-s-crypto-ties-at-forefront-as-u-s-lawmakers-weigh-crypto-market-structure-bill",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Stablecoin giant Circle again boosts IPO to over $1 billion",
+      "link": "https://cointelegraph.com/news/stablecoin-issuer-circle-upsize-ipo-1-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNkMzEtNmNlOS03ODViLTljNmYtZmZmYmJhOWEwZTAz.jpg\" /></p><p>USDC issuer Circle has again upsized its initial public offering above the marketed range, selling 34 million shares at $31 each.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Senate committee to consider Trump\u2019s pick for CFTC chair",
       "link": "https://cointelegraph.com/news/senate-committee-consider-trump-pick-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNjNTYtZGFhZS03MWU4LWI4OGItNmFmMmVjZGYzNjFi.jpg\" /></p><p>Roughly four months since his nomination and amid announced departures at the CFTC, Brian Quintenz\u2019s nomination to head the financial regulator is moving forward.</p>"
-    },
-    {
-      "title": "Semler Scientific boosts Bitcoin reserve with $20M BTC top-up",
-      "link": "https://cointelegraph.com/news/semler-scientific-acquires-20m-more-bitcoin-fortifying-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUyZDQtNGM3Ni03NzgzLTljZTAtOWFmNTYxOGJkZGFi.jpg\" /></p><p>The company concluded its first year of Bitcoin reserve operations with 4,449 BTC on its balance sheet.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Systemic risk on the rise as leverage interdependencies tighten between CeFi, DeFi and crypto treasuries",
+      "link": "https://cryptoslate.com/systemic-risk-on-the-rise-as-leverage-interdependencies-tighten-between-cefi-defi-and-crypto-treasuries/",
+      "summary": "<p>Interconnections between centralized and decentralized crypto lending are heightening systemic risk, Galaxy Digital&#8217;s research arm said in a June 4 report on first-quarter borrowing data. The report estimated that as of March 31, over $39 billion in crypto-collateralized debt was outstanding across decentralized lending apps, centralized lenders, and crypto-backed stablecoin issuers. DeFi protocols accounted for [&#8230;]</p> <p>"
+    },
     {
       "title": "Ethereum Foundation unveils comprehensive treasury plan to balance capital and privacy commitments",
       "link": "https://cryptoslate.com/ethereum-foundation-unveils-comprehensive-treasury-plan-to-balance-capital-and-privacy-commitments/",
@@ -73,14 +78,14 @@
       "title": "US-based ETFs offering staking set for growth despite some regulatory, macro tailwinds",
       "link": "https://cryptoslate.com/us-based-etfs-offering-staking-set-for-growth-despite-some-regulatory-macro-tailwinds/",
       "summary": "<p>Upcoming exchange-traded funds (ETFs) that integrate staking yields stand to benefit significantly as US lawmakers and regulators clarify the legal status of on-chain rewards, according to a June 3 report. The report noted points to two parallel policy moves. First, the US Securities and Exchange Commission (SEC) confirmed on May 29 that staking does not [&#8230;]</p> <p>"
-    },
-    {
-      "title": "RIAs surpass hedge funds in Bitcoin ETF holdings, manage over $10 billion in BTC",
-      "link": "https://cryptoslate.com/insights/rias-surpass-hedge-funds-in-bitcoin-etf-holdings-manage-over-10-billion-in-btc/",
-      "summary": "<p>New data from the latest 13F filings reveals a sharp increase in institutional interest in spot Bitcoin ETFs, with registered investment advisors (RIAs) emerging as the dominant players. Bloomberg\u2019s senior ETF analyst, Eric Balchunas, highlighted that RIAs have now taken the lead among institutional holders of Bitcoin ETFs. Collectively, this group holds exposure to more [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "American Rapper Cardi B Endorses WAP Token Again\u2014But Is It A Rugpull?",
+      "link": "https://www.newsbtc.com/meme-coins/american-rapper-cardi-b-endorses-wap-token-again-but-is-it-a-rugpull/",
+      "summary": "Cardi B\u2019s recent post about the meme token Wet A*s P*ssy (WAP) turned into a dramatic market shakeup. Within minutes, WAP\u2019s market cap plunged from $2 million to just $150,000. The token\u2019s price shot up to $0.0020 briefly, then tumbled over 90% back to $0.00019, wiping away almost all of this week\u2019s gains. Related Reading: Is $250K Bitcoin Possible This Year? This Research Chief Thinks So Celebrity Tweet Sparks Chaos According to reports, Cardi B shared a wallet address on her official X account with the caption \u201ceven wetter than last time.\u201d That single message sent ripples through the crypto world. Prices leaped, then crashed. Market watchers were left scratching their heads as billions of dollars in value seemed to vanish in mere moments. Suspicious Wallet Activity Blockchain trackers spotted something odd. A handful of wallets bought big chunks of WAP just five days before the tweet. They offloaded their tokens almost immediately after Cardi B\u2019s post, banking roughly 10 times their original stake. So today, @iamcardib remembered that she still held a large portion of the $WAP supply and decided to run another pump and dump. The token went from 2.5M to 139k a couple of minutes after the tweet The dump was triggered by some wallets that bought the token around five days\u2026 pic.twitter.com/7Nwr27rcZA \u2014 dethective (@dethective) June 3, 2025 These sudden sells helped push the token\u2019s price back down to around $0.00019. Based on reports, this pattern looks like a classic pump-and-dump. It raises questions about whether insiders planned the entire move. POV you might owe millions pic.twitter.com/j9FGLgoSBM \u2014 ZachXBT (@zachxbt) June 4, 2025 History Of WAP Controversies This isn\u2019t the first time WAP caused trouble. Back in October 2024, Cardi B gave it a shout-out, and security firm PeckShield flagged the token for possible malicious deeds. That earlier buzz even led to an investigation by the UAE\u2019s Securities and Commodities Authority after investors raised alarms over fraud and market manipulation. Many in the crypto community thought everyone would steer clear this time. Instead, the past slipped from memory, leading to heavy losses all over again. Investors Left Holding The Bag In the last 24 hours, WAP\u2019s value dropped another 80%. Now it trades near the same levels it was at the end of May. Everyday traders who jumped on the hype found themselves staring at red numbers. Based on reports, some wallets walked away with tenfold returns in minutes. Meanwhile, others ended up with nearly worthless tokens. The speed of this rise-and-fall serves as a harsh reminder: if you buy a token right as it peaks, you might be stuck when the next crash hits. Related Reading: $500M Bet On Solana: Education Platform Aims To Supercharge Its Treasury Cardi B\u2019s follow-up post clarified that her account was not hacked, promising more from \u201c$WAP space\u201d soon. Yet this explanation did little to calm nerves. Critics say it\u2019s hard to separate the artist\u2019s genuine interest from a planned marketing push. Some point out that even if she didn\u2019t directly benefit, her endorsement gave insiders exactly the spotlight they needed to unload their shares. Featured image from Andrew Kelly/Reuters/USA Today, chart from TradingView"
+    },
     {
       "title": "Bitcoin Price Crash Below $100,000 Still Possible: Analysts Issue Downtrend Warnings",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-crash-below-100000/",
@@ -100,11 +105,6 @@
       "title": "XRP Price Could Hit $21 This Bull Cycle With 1.618 Fib Level As Next Target",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-to-21-this-bull-cycle/",
       "summary": "According to expert analysts, the XRP price is showing renewed bullish momentum, with projections suggesting a potential rally to the 1.618 Fib at $21 this bull cycle. While this projection may seem ambitious, the analyst\u2019s bullish outlook doesn\u2019t stop there. Once XRP hits $21, it is expected to continue its upward trajectory toward its next target of $152. XRP Price Eyes Powerful Breakout To New Targets A recent technical analysis of XRP\u2019s long-term price chart is igniting significant buzz in the crypto community, as the altcoin appears to be forming a familiar pattern that previously led to exponential gains. The chart, published by a well-known crypto expert, Javon Marks, suggests that XRP could be on the brink of a powerful price breakout, with expectations pointing toward the $21 price level and beyond. Related Reading: Wave Structure Puts XRP Price In The $18.22-$23.20 Range In The Short Term Marks\u2019 analysis identifies two major symmetrical triangle formations in XRP\u2019s price history\u2014one that preceded its explosive rally in 2017 and another that concluded with a fresh breakout in 2024. In the earlier cycle, XRP surged thousands of percent after breaking out of its consolidation pattern, topping near the 2.272 Fibonacci level. This historical price movement is now being used to forecast what could come next for the altcoin. According to the chart, XRP recently rose to the 1.0 Fibonacci level near $3.31 but retraced back toward $2. If the current cycle mirrors the previous one, Marks predicts that the next significant level of interest lies at the 1.618 Fibonacci Extension level, which aligns with the $21 price target. Notably, a surge to this double-digit territory would represent an over 800% increase from current levels around $2.23. However, Marks\u2019 optimistic projection does not stop there. Should XRP replicate the full extension it made in the past, the price is forecasted to reach the 2.272 Fibonacci level once again, this time sitting around a jaw-dropping $152. While this forecast may seem over the top, the analyst has shown strong confidence in XRP\u2019s future price outlook, utilizing past price action as a blueprint and technical indicator to determine the altcoin\u2019s upside potential. Analyst\u2019s XRP Forecast Met With Skepticism On one hand, Marks\u2019 bullish XRP price forecast was met with excitement, and on the other, the majority of crypto community members expressed doubts about the overly ambitious targets. The projection of a move to $21 and possibly even higher to $152 has been met with caution and skepticism among community members. Related Reading: Bullish Candle Formation Suggests The XRP Price Could Touch $22 While historical patterns can provide a roadmap to a potential price rally, critics responding to Marks\u2019 analysis argue that reaching the triple-digit territory is virtually impossible for XRP currently. One member suggested that a more realistic target for the altcoin was between $13 and $20. Others questioned the feasibility of hitting these bullish targets within the proposed timeline, debating whether it could happen by the end of 2025 or even Q1 2026. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Dogecoin Caught In Compression: Descending Triangle Warns Of Potential Collapse",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-in-descending-triangle/",
-      "summary": "Dogecoin (DOGE) is teetering on a critical edge as price action tightens within a descending triangle pattern, hinting at rising bearish pressure. The meme-inspired cryptocurrency has entered a phase of low volatility and narrowing price movement, a classic sign of market indecision that often precedes a significant breakout or breakdown. With the 200-period moving average applying dynamic resistance from above and horizontal support showing signs of strain, DOGE&#8217;s technical landscape suggests a potential collapse could be on the horizon if buyers fail to defend key levels. Price Coils Within Bearish Formation Ahead Of Potential Breakout Market analyst Thomas Anderson, in a recent post on X, pointed out that \u201cDOGE is consolidating within a descending triangle pattern on the M30 timeframe,\u201d signaling a period of indecision. This chart pattern, often seen in bearish continuations, is characterized by a flat support base with lower highs pressing from above. As Dogecoin trades deeper into this structure, the probability of a breakout, either upward or downward, is increasing with each narrowing move. Related Reading: Dogecoin\u2019s Fate Hinges On This Price Level, Analysts Agree Anderson further explained that DOGE is \u201ccurrently testing the upper resistance around $0.19998,\u201d a key level that has capped recent bullish attempts. This resistance aligns with the descending trendline of the triangle and is strengthened by the 200 MA (red line), acting as dynamic resistance. The presence of the 200-period moving average at this level adds extra weight to the upper line, making any potential breakout attempt more challenging for the bulls in the near term. Until price action breaks decisively in either direction, DOGE remains locked in a tightening range. For now, Anderson\u2019s observations underline the importance of this technical structure, as DOGE nears a critical inflection point. Triangle Compression Builds Tension For Dogecoin The analyst further emphasized that momentum appears to be weakening as Dogecoin\u2019s price action tightens near the apex of the descending triangle. According to the expert\u2019s observations, the 1-hour chart reinforces this broader consolidation phase, showing a clear compression of price within the pattern. This type of setup often leads to an explosive move once the market chooses a direction. Related Reading: Dogecoin Price Resistance In View: Why The Key Lies At $0.25 A confirmed breakout above the $0.19998 resistance could pave the way for a short-term bullish run, with higher targets potentially opening up if volume supports the move, potentially invalidating the bearish triangle pattern. However, failure to breach this resistance level may reinforce the bearish structure, increasing the likelihood of a pullback toward the lower triangle support around $0.19010, a critical area where buyers previously stepped in. Featured image from Getty Images, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "'Unclaimed' Bitcoin in California Could Be Seized\u2014But There's a Catch",
+      "link": "https://decrypt.co/323787/unclaimed-bitcoin-california-seized-theres-catch",
+      "summary": "The California House passed a bill that would let the state seize crypto sitting on exchanges\u2014but advocates say it's actually a good thing."
+    },
+    {
+      "title": "Bitcoin Dips But XRP and Dogecoin Fall Further Amid Tariff, Economic Uncertainty",
+      "link": "https://decrypt.co/323742/bitcoin-dips-xrp-dogecoin-fall-further",
+      "summary": "Bitcoin dropped by about 1% but major altcoins fell deeper into the red as investors weighed steel tariffs and wider macro uncertainties."
+    },
+    {
       "title": "'Flappy Bird' Is Making a Crypto Gaming Push After All",
       "link": "https://decrypt.co/323735/flappy-bird-crypto-gaming-push",
       "summary": "Popular mobile game Flappy Bird is once more taking flight in Web3 after closing down its Telegram game and launching on Android."
@@ -149,16 +159,6 @@
       "title": "Chinese Company Takes a Shot at the Moon With $300 Million XRP Play",
       "link": "https://decrypt.co/323720/chinese-company-webus-300-million-xrp-play",
       "summary": "Nasdaq-listed travel booking firm Webus filed a Form 6-K to inform U.S. investors and regulators of its plans for a $300 million XRP treasury."
-    },
-    {
-      "title": "Police Nab Alleged Mastermind Behind French Crypto Kidnappings: Report",
-      "link": "https://decrypt.co/323693/police-arrest-alleged-amstermind-french-crypto-kidnappings-report",
-      "summary": "A 24-year-old French-Moroccan national was arrested for his alleged role running a kidnapping scheme that targeted the crypto-rich in France."
-    },
-    {
-      "title": "K-Pop Firm's Stock Soars 143% After Revealing Bitcoin Purchase Plans",
-      "link": "https://decrypt.co/323671/k-pop-firms-stock-soars-115-after-bitcoin-purchase-plans",
-      "summary": "The Korean firm\u2019s stock skyrocketed on Wednesday, shortly after it announced its intentions to become the MetaPlanet of South Korea."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Satoshi Nakamoto surpasses Bill Gates in wealth with $116.7B net worth \u2013 Elon Musk next?",
+      "link": "https://ambcrypto.com/satoshi-nakamoto-surpasses-bill-gates-in-wealth-with-116-7b-net-worth-elon-musk-next/",
+      "summary": "<img alt=\"Satoshi Nakamoto surpasses Bill Gates in wealth with $116.7B net worth - Elon Musk next?\" class=\"attachment-full size-full wp-post-image\" height=\"1091\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Nakamoto-Is-Now-Richer-Than-Bill-Gate.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1939\" />He\u2019s never been seen, but his crypto stash could soon overtake Zuckerberg, Buffett, and maybe Musk next."
+    },
+    {
       "title": "Miners may shape Bitcoin\u2019s fate \u2013 But first, ETF outflows need to stop",
       "link": "https://ambcrypto.com/miners-may-shape-bitcoins-fate-but-first-etf-outflows-need-to-stop/",
       "summary": "<img alt=\"Miners may shape Bitcoin\u2019s fate - But first, ETF outflows need to stop\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_32_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />MARA Digital's BTC accumulation grows as ETF outflows surge, raising hopes for potential price stability."
@@ -208,11 +213,6 @@
       "title": "Bitcoin: How the $113K level can trigger a major price surge",
       "link": "https://ambcrypto.com/bitcoin-how-the-113k-level-can-trigger-a-major-price-surge/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-14.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish for now, but a long-term correction may follow."
-    },
-    {
-      "title": "Bitcoin sellers cash out $1.5B in profits \u2013 Is this the start of a deeper correction?",
-      "link": "https://ambcrypto.com/bitcoin-sellers-cash-out-1-5b-in-profits-is-this-the-start-of-a-deeper-correction/",
-      "summary": "<img alt=\"Bitcoin sellers cash out $1.5B in profits - Is this the start of a deeper correction?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin realized profit surges by $1.5 billion as STHs turn to aggressive selling."
     }
   ]
 }
