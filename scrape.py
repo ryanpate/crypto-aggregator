@@ -128,6 +128,6 @@ def scrape_all_sites():
 
 if __name__ == '__main__':
     crypto_data = scrape_all_sites()
-    with open('./crypto-aggregator/data/crypto.json', 'w') as f:
+    with open('data/crypto.json', 'w') as f:
         json.dump(crypto_data, f, indent=2)
     print("Scraping complete. Data saved to crypto.json")
