@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "JPMorgan to Accept Bitcoin ETFs as Loan Collateral in Expansion of Crypto Access: Bloomberg",
+      "link": "https://www.coindesk.com/business/2025/06/04/jpmorgan-to-accept-bitcoin-etfs-as-loan-collateral-in-expansion-of-crypto-access-bloomberg",
+      "summary": ""
+    },
+    {
       "title": "Trump's Crypto Ties at Forefront as U.S. Lawmakers Weigh Crypto Market Structure Bill",
       "link": "https://www.coindesk.com/policy/2025/06/04/trump-s-crypto-ties-at-forefront-as-u-s-lawmakers-weigh-crypto-market-structure-bill",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Circle IPO Pricing Could Jump Above Range as Investor Orders Surge: Bloomberg",
       "link": "https://www.coindesk.com/markets/2025/06/04/circle-ipo-pricing-could-jump-above-range-after-investor-orders-surge-bloomberg",
       "summary": ""
-    },
-    {
-      "title": "TON Dips as 'Double Top' Pattern Potentially Signals Short-Term Bearish Trend",
-      "link": "https://www.coindesk.com/markets/2025/06/04/ton-dips-as-double-top-pattern-potentially-signals-short-term-bearish-trend",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Senate committee to consider Trump\u2019s pick for CFTC chair",
+      "link": "https://cointelegraph.com/news/senate-committee-consider-trump-pick-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNjNTYtZGFhZS03MWU4LWI4OGItNmFmMmVjZGYzNjFi.jpg\" /></p><p>Roughly four months since his nomination and amid announced departures at the CFTC, Brian Quintenz\u2019s nomination to head the financial regulator is moving forward.</p>"
+    },
     {
       "title": "Semler Scientific boosts Bitcoin reserve with $20M BTC top-up",
       "link": "https://cointelegraph.com/news/semler-scientific-acquires-20m-more-bitcoin-fortifying-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "How to use ChatGPT to analyze crypto market movements",
       "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-analyze-crypto-market-movements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM2MTAtY2VhMC03ZjRlLWI5NjAtNGQ4ZDQ2YTU1ODJj.jpg\" /></p><p>Use ChatGPT to summarize market news, interpret on-chain data, compare token metrics, and spot sentiment shifts using structured prompts.</p>"
-    },
-    {
-      "title": "Canada will be left behind in the global crypto race",
-      "link": "https://cointelegraph.com/news/canada-will-be-left-behind-in-the-global-crypto-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDNkZDYtMGJkNS03N2VhLTg1NzYtNTZkMDAzZjQyZWU3.jpg\" /></p><p>While other countries move toward integrating crypto into their financial systems, Canada is lagging, costing the country capital, talent and competitiveness. Canada\u2019s direction on digital asset innovation remains uncertain.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "US-based ETFs offering staking set for growth despite some regulatory, macro tailwinds",
+      "link": "https://cryptoslate.com/us-based-etfs-offering-staking-set-for-growth-despite-some-regulatory-macro-tailwinds/",
+      "summary": "<p>Upcoming exchange-traded funds (ETFs) that integrate staking yields stand to benefit significantly as US lawmakers and regulators clarify the legal status of on-chain rewards, according to a June 3 report. The report noted points to two parallel policy moves. First, the US Securities and Exchange Commission (SEC) confirmed on May 29 that staking does not [&#8230;]</p> <p>"
+    },
+    {
+      "title": "RIAs surpass hedge funds in Bitcoin ETF holdings, manage over $10 billion in BTC",
+      "link": "https://cryptoslate.com/insights/rias-surpass-hedge-funds-in-bitcoin-etf-holdings-manage-over-10-billion-in-btc/",
+      "summary": "<p>New data from the latest 13F filings reveals a sharp increase in institutional interest in spot Bitcoin ETFs, with registered investment advisors (RIAs) emerging as the dominant players. Bloomberg\u2019s senior ETF analyst, Eric Balchunas, highlighted that RIAs have now taken the lead among institutional holders of Bitcoin ETFs. Collectively, this group holds exposure to more [&#8230;]</p> <p>"
+    },
     {
       "title": "JPMorgan to accept Bitcoin ETFs as loan collateral, consider digital holdings in evaluations",
       "link": "https://cryptoslate.com/jpmorgan-to-accept-bitcoin-etfs-as-loan-collateral-consider-digital-holdings-in-evaluations/",
@@ -68,19 +78,14 @@
       "title": "XRP Ledger battles influx of scam crypto projects as Ripple eyes global financial role",
       "link": "https://cryptoslate.com/xrpl-faces-scam-influx-amid-institutional-interest-boom/",
       "summary": "<p>Institutional interest in the XRP Ledger (XRPL) continues to grow, as does the number of scams exploiting the ecosystem. On June 4, Panos Mekras, co-founder of Anodos Finance, a leading DeFi platform built on XRPL, raised concerns over the proliferation of fraudulent projects piggybacking on the blockchain network&#8217;s growing visibility. In the X post, Mekras [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Sentient\u2019s AI chatbot Dobby Plus challenges OpenAI with open-source, user-governed AI model",
-      "link": "https://cryptoslate.com/sentients-ai-chatbot-dobby-plus-challenges-openai-with-open-source-user-governed-ai-model/",
-      "summary": "<p>Sentient, a decentralized AI company, has introduced Dobby Plus, an open-source chatbot now available on X and Hugging Face, according to a June 4 statement shared with . This new model challenges proprietary AI systems from major tech firms like OpenAI and Anthropic. Dobby Plus According to Sentient, Dobby Plus is built on a decentralized [&#8230;]</p> <p>"
-    },
-    {
-      "title": "South Korea\u2019s new president races to approve Bitcoin ETFs for 16 million traders",
-      "link": "https://cryptoslate.com/south-koreas-new-president-races-to-approve-bitcoin-etfs-for-16-million-traders/",
-      "summary": "<p>South Korea\u2019s newly elected president Lee Jae-myung has vowed to legalize spot Bitcoin exchange-traded funds and launch a national KRW-backed stablecoin, which could turbocharge crypto adoption across Asia\u2019s fourth-largest economy. Lee, a liberal firebrand and former mayor of Seongnam, clinched the presidency with 49.4% of the vote in the June 3rd snap election, ending months [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Trump Crypto Venture Charges Into Digital Space With Wallet Launch Amid Uproar",
+      "link": "https://www.newsbtc.com/altcoin/trump-crypto-venture-charges-into-digital-space-with-wallet-launch-amid-uproar/",
+      "summary": "US President Donald Trump\u2019s circle moved closer to rolling out two big crypto products this week. One announcement sparked a public mix\u2010up over who\u2019s doing what. The other took a formal step toward a Bitcoin exchange\u2010traded fund. Both moves show the family\u2019s push for more crypto ties. Related Reading: XRP Could Transform Your Finances Long Before $10K, Angel Investor Says Trump Token Wallet Claim Fuels Confusion According to reports, @GetTrumpMemes on X said on Tuesday that a new crypto wallet branded with US President Trump\u2019s picture is coming."
+    },
     {
       "title": "XRP Price Could Hit $21 This Bull Cycle With 1.618 Fib Level As Next Target",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-to-21-this-bull-cycle/",
@@ -100,14 +105,14 @@
       "title": "Certified Analyst Says Bitcoin Dominance Could Reverse At 64% \u2013 Is It Time For Altcoin Season?",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-dominance-reverse-at-64/",
       "summary": "Bitcoin&#8217;s current price action is marked by a consolidation around the $105,500 price level. Although it reached an intraday high of $106,807, it has since returned to $105,500, and its dominance also witnessed a minor fall. Notably, Bitcoin&#8217;s dominance metric, the BTC.D, which measures its share of the total crypto market capitalization, has stalled around the 64% level in recent weeks. This stalling behavior drew attention from a certified market analyst, especially in light of many altcoins struggling to gain momentum in an environment dominated by Bitcoin&#8217;s inflow. BTC Dominance Hits Resistance, Candlestick Flash Warnings According to certified Level III CMT analyst Tony &#8220;The Bull&#8221; Severino, the 64% region on the Bitcoin Dominance (BTC.D) chart could mark a meaningful reversal point. Sharing his insights alongside a technical chart of Bitcoin&#8217;s market cap dominance on the monthly timeframe, Severino pointed out that the latest monthly candlestick formed a Doji right at the bottom of a previous Falling Window. Related Reading: Altcoin Season: Bitcoin Dominance Reaches Critical Level Above 64% In Japanese candlestick theory, such &#8220;windows&#8221; are not just gaps to be filled but serve as critical zones of support or resistance. The fact that BTC.D formed a Doji candle precisely at this window, according to Severino, is a textbook reaction suggesting the dominance rally may be losing strength. This candlestick structure brings the focus onto how the current monthly candlestick plays out. If the current monthly candle becomes an Evening Star candlestick and closes below 62%, the odds of Bitcoin dominance rolling over increase significantly. Altcoin Season Not Quite There Yet As noted by Tony, if Bitcoin&#8217;s dominance candlestick this month forms an Evening Star pattern and closes below 62%, it has a high possibility of marking the end of the cryptocurrency&#8217;s current dominance. However, the analyst added a key caveat: the BTC.D Relative Strength Index (RSI) closed the previous month above 70, still suggesting strong momentum and keeping the larger trend in flux. Related Reading: Is Altcoin Season Over Or It Never Started? Here\u2019s What Historical Data Says Despite these early signals, Severino warned against jumping the gun. Although the technical evidence points to a possible short-term reversal in dominance, he clarified that it does not necessarily guarantee a full-fledged altcoin season. In his words, &#8220;I am still not of the mindset that we will get a typical altcoin season, but I am seeing some of the first signs that BTC.D might reverse here.&#8221; For now, Bitcoin continues to hold steady above $105,000, and until BTC.D breaks convincingly below 62%, the cryptocurrency is in dominance. Nonetheless, the altcoin market could soon be looking at its first real window of opportunity in months. At the time of writing, Bitcoin is trading at $105,500, down by 0.1% in the past 24 hours. Bitcoin dominance is currently at 63.1%, down by 0.57% in the past 24 hours. Ethereum, on the other hand, increased its market share by 2.13% to 9.6%. Featured image from Adobe Stock, chart from Tradingview.com"
-    },
-    {
-      "title": "Solana Analyst Sets $300 Target \u2013 Can Bulls Sustain A Rally?",
-      "link": "https://www.newsbtc.com/news/solana/solana-analyst-sets-300-target-can-bulls-sustain-a-rally/",
-      "summary": "Solana (SOL) continues to face resistance at the $160 level, failing to reclaim it despite multiple attempts over the past several days. As market momentum weakens and volatility rises, investors are growing cautious. Bitcoin and Ethereum\u2014typically leading indicators\u2014are also showing signs of exhaustion, unable to break past their recent highs. This has triggered concerns that a broader market retrace could follow. Related Reading: Ethereum Daily Chart Signals Strength Amid Market Uncertainty \u2013 Analyst Still, not all analysts are turning bearish. Prominent trader Kaleo shared a bullish technical outlook, suggesting that Solana remains one of the most promising altcoins if the crypto market regains strength. According to Kaleo, if momentum returns and the market heats up in the coming months, SOL could rally sharply and tag the $300 level\u2014a move that would nearly double its current price. However, such a scenario would likely require broader participation and renewed appetite for risk across digital assets. For now, SOL trades in a tight range, with its short-term outlook hinging on the behavior of Bitcoin and Ethereum. If leading assets stabilize and bulls step back in, Solana could be primed for a breakout. Otherwise, further downside cannot be ruled out as uncertainty weighs on sentiment. Solana Faces Uncertainty But Eyes Explosive Breakout Above Multi-Year Resistance Solana (SOL) is currently struggling to find strong demand as market conditions cool following an intense rally earlier this year. While trading has slowed and bullish momentum appears to be fading, optimism persists among long-term investors. Many expect that once broader market strength returns, SOL could initiate a powerful move into higher supply zones and potentially reach new all-time highs. This cautious optimism comes amid growing global tensions. The ongoing tariff conflict between the United States and China continues to unsettle financial markets, and stress signals in the US bond market are raising alarms about systemic risks. Should these macroeconomic pressures intensify, altcoins like Solana may face renewed headwinds as investors rotate into safer assets. However, despite the current uncertainty, Kaleo maintains a bullish long-term outlook for SOL. According to his analysis, once Solana reaches the $300 level\u2014a key historical resistance\u2014it could break into price discovery. This would mark the end of a multi-year consolidation phase and potentially unleash a parabolic rally. Such a breakout would not only validate the strength of Solana\u2019s fundamentals and ecosystem but also signal broader confidence returning to the altcoin sector. Until then, patience and strategic positioning remain crucial. Related Reading: Ethereum Reclaims Pivotal Level \u2013 Key Resistance Around $2,650 Key Support Holding But Momentum Remains Weak Solana (SOL) is trading at $157.46 after bouncing slightly from recent lows around $154, showing modest signs of stability. The price is testing the 34-day EMA near $162, which has acted as a dynamic resistance in recent sessions. SOL remains trapped below its 200-day SMA at $178.88, suggesting the broader trend remains under pressure. A reclaim of that level is crucial for bulls to regain confidence. Volume remains relatively muted, indicating a lack of strong conviction from either side. If SOL manages to push above the $162\u2013$165 range, it could open the door for a retest of the $180 resistance zone. However, failure to break above the 34-day EMA soon may result in another leg down toward the 100-day SMA support near $144. Related Reading: Ethereum Poised For A 5-Figure Breakout \u2013 Volatility Is Shaking \u2018Weak Hands\u2019 The chart shows lower highs forming since mid-May, adding pressure to the bullish structure. However, the fact that SOL continues to hold above the $150 zone shows that buyers are still defending key demand. A decisive break and close above $165 on strong volume could confirm a short-term reversal. Until then, SOL remains range-bound with a neutral-to-bearish bias unless momentum accelerates to the upside. Featured image from Dall-E, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Support The Blockchain Regulatory Certainty Act (BRCA) To Protect Noncustodial Services",
+      "link": "https://bitcoinmagazine.com/takes/support-the-blockchain-regulatory-certainty-act-brca-to-protect-noncustodial-services",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Blockchain-Regulatory-Certainty-Act-Save-Our-Wallets-Bitcoin-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/takes/support-the-blockchain-regulatory-certainty-act-brca-to-protect-noncustodial-services\" rel=\"nofollow\"> </a></p> <p>Call your local elected officials and tell them to support the BRCA, which protects developers of noncustodial technology as well as a variety of services that preserve privacy and make it easier to scale Bitcoin.</p> <p>"
+    },
     {
       "title": "Bitcoin Layer 2: The Key To Scaling Bitcoin",
       "link": "https://bitcoinmagazine.com/technical/bitcoin-layer-2-the-key-to-scaling-bitcoin",
@@ -127,11 +132,6 @@
       "title": "Semler Scientific Acquires 185 Bitcoin, Increasing Total Holdings to 4,449 BTC",
       "link": "https://bitcoinmagazine.com/news/semler-scientific-acquires-185-bitcoin-increasing-total-holdings-to-4449-btc",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Semler-Scientific-Acquires-185-Bitcoin-Increasing-Total-Holdings-to-4449-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/semler-scientific-acquires-185-bitcoin-increasing-total-holdings-to-4449-btc\" rel=\"nofollow\"> </a></p> <p>Semler Scientific now holds 4,449 BTC in their Bitcoin treasury, with an acquisition of 185 Bitcoin.</p> <p>"
-    },
-    {
-      "title": "Moscow Exchange Launches Bitcoin Futures For Qualified Investors",
-      "link": "https://bitcoinmagazine.com/news/moscow-exchange-launches-bitcoin-futures-for-qualified-investors",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Russias-Finance-Ministry-and-Central-Bank-to-Launch-Crypto-Exchange-for-Super-qualified-Investors-1.png\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/moscow-exchange-launches-bitcoin-futures-for-qualified-investors\" rel=\"nofollow\"> </a></p> <p>Russia's largest exchange, The Moscow Exchange has launched Bitcoin futures trading, targeting qualified investors.</p> <p>"
     }
   ],
   "Decrypt": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Shiba Inu burn surges 2,408%: Can SHIB finally escape bearish pressure?",
+      "link": "https://ambcrypto.com/shiba-inu-burn-surges-2408-can-shib-finally-escape-bearish-pressure/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-84-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s massive burn rate fails to offset bearish on-chain signals and resistance levels."
+    },
+    {
       "title": "Bitcoin: How the $113K level can trigger a major price surge",
       "link": "https://ambcrypto.com/bitcoin-how-the-113k-level-can-trigger-a-major-price-surge/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-14.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish for now, but a long-term correction may follow."
@@ -208,11 +213,6 @@
       "title": "Bitcoin ETF: $1.2B exit in 3 days, the most since March \u2013 What now?",
       "link": "https://ambcrypto.com/bitcoin-etf-1-2b-exit-in-3-days-the-most-since-march-what-now/",
       "summary": "<img alt=\"Bitcoin ETF: $1.2B exit in 3 days, the most since March - What now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-04T120803.476-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin faces rising pressure as ETF outflows and weakening fundamentals shake investor confidence."
-    },
-    {
-      "title": "Ethereum leads capital rotation as Bitcoin dominance falls \u2013 Altcoin rally soon?",
-      "link": "https://ambcrypto.com/ethereum-leads-capital-rotation-as-bitcoin-dominance-falls-altcoin-rally-soon/",
-      "summary": "<img alt=\"Ethereum leads capital rotation as Bitcoin dominance falls - Altcoin rally soon?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Benjamin44.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum's relative strength against BTC could offer the altcoin sector a lifeline."
     }
   ]
 }
