@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="container mt-6">
+    <h1 class="title has-text-centered">Crypto News Aggregator</h1>
+
+    {{ $all := .Site.Data.crypto }}
+    {{ if not $all }}
+    <div class="notification is-warning has-text-centered" style="margin-top: 1rem;">
+        ⚠️ No data found in .Site.Data.crypto
+    </div>
+    {{ else }}
+    {{ range $source, $articles := $all }}
+    <section class="section">
+        <h2 class="subtitle">{{ $source }}</h2>
+        {{ if not (len $articles) }}
+        <p><em>No articles for {{ $source }}</em></p>
+        {{ end }}
+        <ul>
+            {{ range $articles }}
+            <li style="margin-bottom: 1rem;">
+                <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+                {{ if .summary }}
+                <p class="is-size-7">{{ .summary | safeHTML }}</p>
+                {{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </section>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}
