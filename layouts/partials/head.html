@@ -1,0 +1,19 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}</title>
+  <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="BlockWireNews" />
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+  <meta property="og:title" content="{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}" />
+  <meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.png{{ end }}" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}" />
+  <meta name="twitter:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.png{{ end }}" />
+  <!-- …other head tags (CSS, favicon)… -->
+</head>
