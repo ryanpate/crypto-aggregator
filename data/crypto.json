@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "NEAR Surges 5% After Forming Bullish Support Pattern",
+      "link": "https://www.coindesk.com/business/2025/06/05/near-protocol-surges-5-after-forming-bullish-support-pattern",
+      "summary": ""
+    },
+    {
       "title": "ATOM Rebounds From 5% Drop as Buyers Defend Key Support Level",
       "link": "https://www.coindesk.com/business/2025/06/05/atom-rebounds-from-5-drop-as-buyers-defend-key-support-level",
       "summary": ""
@@ -19,18 +24,23 @@
       "title": "Investment Advisors Become Top Holders of Spot Bitcoin ETFs, Ether ETF Demand Rises",
       "link": "https://www.coindesk.com/markets/2025/06/05/investment-advisors-become-top-holders-of-spot-bitcoin-etfs-ether-etf-demand-rises",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin's 50-Day Average Hits Record High, but There's a Catch",
-      "link": "https://www.coindesk.com/markets/2025/06/05/bitcoin-s-50-day-average-hits-record-high-but-there-s-a-catch",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Safe unveils new unit to build enterprise-grade crypto wallets",
+      "link": "https://cointelegraph.com/news/safe-unveils-new-unit-to-build-enterprise-ethereum-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMyMTctYjQ0Ny03YjU0LWI0ZjYtZjkwYjhkZGE1MzAw.jpg\" /></p><p>Safe, formerly Gnosis Safe, has launched a subsidiary called Safe Labs to develop enterprise-grade self-custody solutions based on its smart contract wallet infrastructure.</p>"
+    },
+    {
+      "title": "USDC issuer Circle debuts public trading on New York Stock Exchange",
+      "link": "https://cointelegraph.com/news/circle-debuts-public-trading-nyse-crcl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwMWYtZmE2NS03MWRjLTk1MjMtOWQ3OTViMzhiZDQ3.jpg\" /></p><p>Circle\u2019s public trading launch follows multiple IPO upsizings in response to massive demand from investors.</p>"
+    },
+    {
       "title": "Bitcoin supply shock? Percentage of BTC on exchanges nears 2018 levels",
       "link": "https://cointelegraph.com/news/bitcoin-supply-shock-percentage-of-btc-on-exchanges-nears-2018-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2E5ODgtNTBlNS03MTY1LThiMDMtZWUxOWYwNGJmYjM0.jpg\" /></p><p>Institutional demand and increasing holding are pushing the percentage of Bitcoin on exchanges to the lowest since 2018, signaling a potential supply shock.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwMjAtZjM0Zi03Njk3LWJkMDEtNDQxMzVjNzZjMzA1.jpg\" /></p><p>Institutional demand and more holding are pushing the percentage of Bitcoin on exchanges to the lowest since 2018, signaling a potential supply shock.</p>"
     },
     {
       "title": "European Parliament to vote on tech sovereignty proposal in July",
@@ -41,19 +51,14 @@
       "title": "These 5 XRP charts hint at a price rally toward $3 in June",
       "link": "https://cointelegraph.com/news/these-5-xrp-charts-hint-at-a-price-rally-toward-3-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg\" /></p><p>Multiple technical, onchain and derivatives market indicators suggest a potential XRP price rally toward the $3 milestone in the coming days.</p>"
-    },
-    {
-      "title": "Bitcoin reserve, stablecoin regulations big 2025 market catalysts, says VC",
-      "link": "https://cointelegraph.com/news/bitcoin-stablecoin-regulation-drive-2025-market-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA3MGQtMDY1Mi03M2RkLWFmNzMtNzg3NWNkMThjYzlh.jpg\" /></p><p>Crypto policy developments may result in a Bitcoin cycle top of over $150,000, according to the head of US at Foresight Ventures.</p>"
-    },
-    {
-      "title": "Ethereum reclaims DeFi market as bots drive $480B stablecoin volume",
-      "link": "https://cointelegraph.com/news/ethereum-bots-stablecoin-defi-comeback-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNmYjItNWU5ZS03Y2U4LWI3YzMtZGQ2ZDBlN2JiNTMw.jpg\" /></p><p>Stablecoins may anchor Ethereum\u2019s real-world adoption, but an analyst warns that the network must solve cross-layer fragmentation to stay ahead in the next phase of DeFi.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Aave\u2019s USDT liquidity takes a hit after Justin Sun-linked HTX\u2019s $570 million withdrawal",
+      "link": "https://cryptoslate.com/aaves-usdt-liquidity-takes-a-hit-after-justin-sun-linked-htxs-570-million-withdrawal/",
+      "summary": "<p>Aave, the largest decentralized lending protocol, has experienced a sharp drop in USDT liquidity to under $100 million following a massive withdrawal by a wallet linked to HTX, a crypto exchange connected to Justin Sun. According to on-chain analyst EmberCN, the wallet removed $570 million USDT from Aave&#8217;s lending pool within three hours, slashing the [&#8230;]</p> <p>"
+    },
     {
       "title": "Bluebird gold mining company embraces Bitcoin in bold shift from tradition, shares soar 60%",
       "link": "https://cryptoslate.com/bluebird-gold-mining-company-embraces-bitcoin-in-bold-shift-from-gold-shares-soar-60/",
@@ -73,14 +78,14 @@
       "title": "Donald Trump\u2019s advisor Bo Hines meets Nayib Bukele as US eyes El Salvador\u2019s Bitcoin strategy",
       "link": "https://cryptoslate.com/donald-trumps-advisor-bo-hines-meets-nayib-bukele-as-us-eyes-el-salvadors-bitcoin-strategy/",
       "summary": "<p>Bo Hines, who leads President Donald Trump\u2019s advisory council on digital assets, recently met with El Salvador\u2019s President Nayib Bukele to discuss potential partnerships in the crypto space. In a post shared on June 5, Hines revealed that the meeting centered around digital asset development and a shared ambition to reshape global finance. He also [&#8230;]</p> <p>"
-    },
-    {
-      "title": "AEON Integrates TRON Network to Enable Seamless In-Store Payments",
-      "link": "https://cryptoslate.com/aeon-integrates-tron-network-to-enable-seamless-in-store-payments/",
-      "summary": "<p>Singapore &#8211; June 5, 2025 \u2013 AEON, the next-generation crypto framework built for payments, has integrated the TRON network to enable seamless in-store payments. Through AEON Pay, users can now transact using TRX, the native utility token of the TRON network. USDT and USDD on TRON for offline payments are also included to bring fast [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Mirrors Bitcoin 2020 Breakout Setup \u2013 Historic Run Incoming?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-mirrors-bitcoin-2020-breakout-setup-historic-run-incoming/",
+      "summary": "Ethereum is trading at critical levels after breaking past the $2,500 mark earlier this quarter, now attempting to reclaim momentum and push into higher resistance. Despite global macroeconomic pressures\u2014including rising US Treasury yields and persistent trade tensions between the US and China\u2014ETH continues to show resilience. Market analysts believe that Ethereum could be leading the charge into a long-anticipated altseason, provided it holds key levels and breaks above current supply. Related Reading: Solana Analyst Sets $300 Target \u2013 Can Bulls Sustain A Rally? Top analyst Ted Pillows recently pointed to a compelling technical pattern: Ethereum has now posted four consecutive two-week green candles, a formation that mirrors Bitcoin\u2019s price structure in early 2020 following the March crash. That period marked the beginning of Bitcoin\u2019s legendary bull run to $69,000. According to Pillows, the similarities between BTC in 2020 and ETH in 2025 are \u201cjust mind blowing,\u201d sparking renewed interest from traders who see Ethereum\u2019s current consolidation as a bullish continuation. With investor sentiment slowly recovering and technicals turning favorable, the market is watching ETH closely. If history is any guide, this consolidation could mark the calm before Ethereum\u2019s next major leg higher. However, macro risks still linger, and timing will be critical. Ethereum Resilience Sparks Hopes Of 2020-Like Rally Ethereum is holding strong above the $2,600 level, showing resilience amid global macro uncertainty and volatile market conditions. This consolidation around key support has many investors and analysts anticipating a breakout that could lead Ethereum into a new rally phase, potentially triggering a broader altseason. Despite growing concerns around systemic risk in the bond market and geopolitical tensions between the US and China, Ethereum continues to attract buyers, signaling confidence in its long-term strength. Analysts are watching this range closely. Many believe that if Ethereum can maintain support and break above near-term resistance, it could gain serious momentum. One of the more compelling arguments for a bullish outlook comes from Ted Pillows, who highlights a striking similarity between Ethereum\u2019s current structure and Bitcoin\u2019s behavior in 2020. According to Pillows, Ethereum has now printed four consecutive two-week green candles since bottoming, just as Bitcoin did after the March 2020 crash. That pattern marked the start of BTC\u2019s legendary run to $69,000. The comparison has sparked optimism that ETH may be preparing for a similar breakout, especially if it clears resistance near $2,700\u2013$2,800. While the macro environment remains tense, this technical structure\u2014paired with rising confidence in ETH\u2019s strength\u2014keeps bulls hopeful that a major move is on the horizon. Related Reading: Ethereum Consolidates Against BTC \u2013 Altseason Hopes Hinge On ETH/BTC Breakout ETH Price Analysis: Consolidation Above Support Ethereum (ETH) is holding steady around $2,607, consolidating just above the 34-period EMA on the 4-hour chart, which currently sits near $2,594. After the strong surge in early May that saw ETH rally from under $2,000 to highs near $2,850, the price has moved into a tight consolidation range. This sideways action reflects market indecision as buyers and sellers battle for control. Despite the recent volatility, ETH has continued to post higher lows, indicating ongoing bullish pressure. The 50, 100, and 200-period SMAs are aligned below the current price, all trending upward, signaling that the broader trend remains intact. The price is finding consistent support from the 50-period SMA around the $2,590\u2013$2,600 zone, which is a key level to watch. Related Reading: Ethereum Daily Chart Signals Strength Amid Market Uncertainty \u2013 Analyst A decisive break above the short-term resistance near $2,680 would be needed to confirm continuation toward $2,800 and potentially retest previous highs. On the downside, a break below $2,590 could trigger a pullback toward $2,500 or lower, especially if BTC shows weakness. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Dogecoin Needs $0.40 Breakout To Salvage Bull Case, Says Analyst",
       "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-needs-0-40-breakout-salvage-bull-case/",
@@ -100,11 +105,6 @@
       "title": "Solana Turns to Wall Street Investors, Pushing Meme Coins like Snorter to New Highs",
       "link": "https://www.newsbtc.com/news/solana-turns-to-wall-street-investors-pushing-meme-coins-like-snorter-to-new-highs/",
       "summary": "Solana\u2019s out to rebuild a digital empire, and it\u2019s doing it from an office building in Lower Manhattan. Having a physical headquarters might seem a bit counter-intuitive for a company focused on digital assets. But the move is fueling an ongoing shift at Solana Labs, from Solana the meme coin chain to Solana as a serious, \u2018Wall-Street-ready\u2019 DeFi chain. The offices opened back in 2023, and Solana Labs uses them as a staging board where potential partners and investors can come visit and chat directly with Solana\u2019s devs. The move is paying off; even as more and more companies adapt a \u2018Bitcoin reserve\u2019 strategy to use with $SOL. What does it all mean? Even as Solana takes aim at becoming the go-to blockchain for finance, top crypto presales set out to build on the blend of memes and finance provided by the Solana chain. Solana: Go-To Blockchain for Finance? Major companies like Upexi, Inc ($UPXI) are taking Michael Saylor\u2019s Bitcoin reserve strategy and applying it to Solana. Upexi purchased 77,879 $SOL, giving it a total of 679,677 $SOL valued at $121M. The company has gained roughly $24.5M from token appreciation so far, aided by a good month, performance-wise, from $SOL itself. &#160; Upexi isn\u2019t the only company looking to capitalize on Solana\u2019s success: SkyBridge Capital, led by Anthony Scaramucci, poured $50M into a Solana Staking ETF in Canada Apollo and Securitize partnered to launch tokenized credit funds on Solana and other blockchains SOL Strategies announced a $500M investment to facilitate SOL token acquisitions and partnerships Classover, an education company, will issue up to $500M in convertible notes to build a SOL treasury That\u2019s a lot of money starting to pour into Solana&#8217;s potential as a financial tool, instead of a simple platform for spamming new meme coins. Of course, degens being what they are, meme coins are still being spammed. A lot of them. A million of them, actually, just in May alone on Solana. Most of those launches fail almost immediately. But the sheer volume of new tokens launched demonstrates continued interest in Solana\u2019s speed and low fees, ideal factors for meme coin success. With a pump.fun token launch likely incoming, it\u2019s not like Solana\u2019s abandoning the meme coin world altogether. Instead, some of the most promising new crypto projects bring both sectors together. Snorter Token ($SNORT): Find 100x Opportunities On Telegram with Snorter Bot With so many tokens launching all the time, the question isn\u2019t \u2018will there be a 100x token.\u2019 The real question is \u2013 how do you find it? That\u2019s where the Snorter Token ($SNORT) and the Snorter Bot come in. Tons of Solana meme coins never make it to big CEX listings or major news coverage. Instead, they\u2019re traded on Telegram groups. If they do make it big, the best opportunities for buying low and selling high are long gone. Finding these underground opportunities takes a lot of effort, but thankfully, the Snorter Bot simplifies it all. Safety features like honeypot detection and rugpull alerts help minimize losses, while automated sniping and copy trading let you sniff out and snag the best opportunities. It\u2019s all powered by the $SNORT token, the native utility token for the Snorter Bot. This isn\u2019t a meme coin; it\u2019s a sophisticated trading bot designed to sort through the millions of Solana memes and find the real winners. That utility is driving a wave of interest in $SNORT, with well over $400K raised so far. The presale is in the early days, which makes it the perfect time to buy and stake your $SNORT tokens for an estimated 735% dynamic APY. Buy and stake now, claim your rewards at the token launch, and they\u2019ll be disbursed block-by-block over the next year. A full quarter of the token supply is reserved for product development, powering $SNORT into the future of Solana\u2019s meme coin development. Will the Snorter Bot Bridge the Gap Between Memes and Finance? With millions of dollars flowing into Solana and the $SOL token as a strategic reserve, there\u2019s room for a token that stays true to Solana\u2019s meme coin roots while also looking to the finance future. Do your own research \u2013 you\u2019ll need to decide for yourself. But given Solana\u2019s trajectory, $SNORT could be positioned perfectly. Don\u2019t miss out."
-    },
-    {
-      "title": "Dogecoin Price Crash Below $0.2: 4H Order Block Shows Exactly What\u2019s Happening",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-price-crash-0-2/",
-      "summary": "Following the Bitcoin price sweep down below the $104,000 level over the weekend, the Dogecoin price was pushed back down below $0.2 once again. This move understandably shocked the community as the $0.2 has held for a long time. However, using the 4-hour order block (OB), a crypto analyst has explained what is going on with the Dogecoin price, why the decline happened, and where it could be headed next. Dogecoin Price Experienced A Liquidity Sweep Crypto analyst Smart Flows, on the TradingView website, pointed out an interesting development on the Dogecoin price chart. This showed a clear delineation for why the meme coin\u2019s price dropped below the $0.2 psychological support level, and it came down to something as clean as a liquidity sweep. Related Reading: Ethereum Price Headed For Crash To $2,000 With Current Price Action The crypto analyst uses the 4-Hour order block on the Dogecoin price chart to explain this, starting just above the $0.22 price level. This saw a liquidity sweep through the Fair Value Gap (FVG) at the 0.5 Fibonacci level, breaking through the $0.2 support. This move, Smart Flows explains, was in no way emotional and was more of a \u2018mechanical\u2019 move, suggesting it was engineered to happen. The outcome of this liquidity sweep is that there has now been a reset of sentiment surrounding the Dogecoin price, setting the stage for a potential reversal. If this is the case, then Dogecoin may be sitting on the cusp of what could be the next major rally above $0.2. What To Expect Next From Here According to the crypto analyst, Dogecoin is now sitting in a 4-Hour demand order block zone that is in confluence with the Fair Value Gap (FVG) above $0.2. This makes the $0.20928 level the first \u201ckey reaction point,\u201d and the analyst points out two possibilities for the meme coin here: either the price continues to stall or consolidation begins at this level. Related Reading: Crypto Analyst Says XRP Community Should Pay Attention To June 4-6, Here\u2019s Why Basically, the Dogecoin price has to be able to beat the first major test at $0.209 before moving higher from here. This means it must complete a clean clearance of the FVG to grab liquidity above. After this, the real test begins at $0.22094, where the next major 4-Hour order block sits. The analyst explains that being able to clear the FVG will mean a continuation model is in play. However, there is still the possibility that the Dogecoin price is rejected before it is able to clear the FVG above $0.2. In this case, it could signal a further downtrend for the altcoin. \u201cIf we reject early \u2014 that tells me distribution is starting, and I\u2019ll prep for a secondary sweep below 0.18 to retest the deeper 4H OB near 0.16387,\u201d the analyst concluded. Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Donald Trump, Elon Musk Clash Over DOGE Sparks $53 Million Solana Meme Coin",
+      "link": "https://decrypt.co/323837/donald-trump-elon-musk-doge-solana-meme-coin",
+      "summary": "The spat between Elon Musk and President Trump has spawned an unflattering meme and the Kill Big Beautiful Bill, or KBBB, Solana meme coin."
+    },
+    {
       "title": "Curve Founder Warns of 'For-Hire' Hackers Coordinating Cross-Platform Attacks",
       "link": "https://decrypt.co/323835/curve-founder-for-hire-hackers-attacks",
       "summary": "Crypto hackers siphoned $302M in May alone as DNS attacks and code vulnerabilities expose fatal flaws in DeFi security\u2014and it's getting worse."
@@ -154,14 +159,19 @@
       "title": "Japanese Company Ispace's Probe Expected to Land On The Moon Tomorrow",
       "link": "https://decrypt.co/323812/japanese-company-ispaces-probe-land-moon-tomorrow",
       "summary": "The Tokyo-listed company aims to land its RESILIENCE probe on the moon Friday, marking its second attempt to reach the lunar surface."
-    },
-    {
-      "title": "US Seizes Crypto and 145 Domains Linked to Dark Web Marketplace",
-      "link": "https://decrypt.co/323809/us-seizes-crypto-145-domains-dark-web-marketplace",
-      "summary": "BidenCash served 117,000 users and trafficked over 15 million stolen credit cards and personal data before being taken down."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Gold miner Bluebird to convert gold revenues into Bitcoin reserve, stock jumps 63% intraday",
+      "link": "https://cryptobriefing.com/bitcoin-treasury-strategy-gold-miner/",
+      "summary": "<p>Bluebird's Bitcoin strategy highlights a shift in asset management, potentially influencing other firms to diversify into digital currencies.</p> <p>"
+    },
+    {
+      "title": "AEON integrates TRON Network to enable seamless in-store payments",
+      "link": "https://cryptobriefing.com/tron-network-payments-integration/",
+      "summary": "<p>AEON's integration with TRON could significantly boost crypto adoption in retail, enhancing the global reach and utility of digital currencies.</p> <p>"
+    },
     {
       "title": "JPMorgan Chase set to accept Bitcoin, crypto ETFs as loan collateral",
       "link": "https://cryptobriefing.com/jpmorgan-crypto-loan-collateral/",
@@ -176,19 +186,19 @@
       "title": "Nasdaq-listed Webus files with SEC for potential $300M XRP reserve strategy, stock surges pre-market",
       "link": "https://cryptobriefing.com/webus-xrp-reserve-strategy/",
       "summary": "<p>Webus's strategic XRP reserve plan could enhance global payment solutions, potentially transforming cross-border transactions and boosting investor confidence.</p> <p>"
-    },
-    {
-      "title": "Trump\u2019s top crypto advisor meets with Pakistan blockchain chief to discuss Bitcoin",
-      "link": "https://cryptobriefing.com/bitcoin-strategic-cooperation-pakistan/",
-      "summary": "<p>Pakistan's strategic Bitcoin initiatives could strain IMF relations, highlighting challenges for emerging markets in crypto adoption.</p> <p>"
-    },
-    {
-      "title": "Eric Trump threatens legal action over unauthorized Trump-branded crypto wallet",
-      "link": "https://cryptobriefing.com/eric-trump-crypto-wallet-warning/",
-      "summary": "<p>The incident highlights the complexities and potential legal challenges of using high-profile branding in the rapidly evolving crypto space.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Toobit Launches Zero-Fee Trading for All USDC Spot Pairs",
+      "link": "https://ambcrypto.com/toobit-launches-zero-fee-trading-for-all-usdc-spot-pairs/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"575\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-05-180939.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1025\" />Toobit, an award-winning global digital asset trading exchange, is launching a limited-time Zero-Fee Trading for [&#8230;]"
+    },
+    {
+      "title": "JPMorgan Chase to accept crypto ETF collaterals: BTC push in TradFi?",
+      "link": "https://ambcrypto.com/jpmorgan-chase-to-accept-crypto-etf-collaterals-btc-push-in-tradfi/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"929\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/JPMorgan-to-accept-BlackRock-Bitcoin-ETF.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1651\" />With IBIT\u2019s rise and JPMorgan\u2019s new rules, crypto isn\u2019t fringe anymore."
+    },
     {
       "title": "Playbet.io announce a new \u201cBonkers\u201d partnership with British Rapper and Icon Dizzee Rascal",
       "link": "https://ambcrypto.com/playbet-io-announce-a-new-bonkers-partnership-with-british-rapper-and-icon-dizzee-rascal/",
@@ -203,16 +213,6 @@
       "title": "Ethereum whales scoop up $364 mln \u2013 but why ETH isn\u2019t rallying yet",
       "link": "https://ambcrypto.com/ethereum-whales-scoop-up-364-mln-but-why-eth-isnt-rallying-yet/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The purchase is bold, but is it too quiet to move Ethereum out of its rut?"
-    },
-    {
-      "title": "South Korea\u2019s President Lee reveals why crypto is a \u2018national growth engine\u2019",
-      "link": "https://ambcrypto.com/south-koreas-president-lee-reveals-why-crypto-is-a-national-growth-engine/",
-      "summary": "<img alt=\"South Korea&#039;s President Lee reveals why crypto is a &#039;national growth engine&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"777\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/South-Koreas-crypto-push.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1382\" />Trump might be influencing more than just U.S. politics, Is South Korea mirroring his crypto stance?"
-    },
-    {
-      "title": "Ethereum Foundation\u2019s treasury plan \u2013 Will a 66% spending cut boost ETH\u2019s value?",
-      "link": "https://ambcrypto.com/ethereum-foundations-treasury-plan-will-a-66-spending-cut-boost-eths-value/",
-      "summary": "<img alt=\"Ethereum Foundation&#039;s treasury plan - Will a 66% spending cut boost ETH&#039;s value?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Benjamin47.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Arkham data showed the Ethereum Foundation has 216.15K ETH worth $565.18 million at current prices."
     }
   ]
 }
