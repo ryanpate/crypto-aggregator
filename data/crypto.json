@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Circle stock price skyrockets 234% in less than 30 minutes causing multiple trading halts",
+      "link": "https://cryptoslate.com/circle-stock-price-skyrockets-234-in-less-than-30-minutes-causing-multiple-trading-halts/",
+      "summary": "<p>Circle&#8217;s (CRCL) shares more than tripled minutes into their New York Stock Exchange debut on June 5, touching $103.75 less than 30 minutes following its launch and resulting in several volatility halts. The price peak is 234% above the initial public offering (IPO) price of $31, which captured over $1 billion by selling 34 million [&#8230;]</p> <p>"
+    },
+    {
       "title": "Anthropic CEO calls for AI transparency, argues against Trump bill\u2019s decade-long state regulatory freeze",
       "link": "https://cryptoslate.com/anthropic-ceo-calls-for-ai-transparency-argues-against-trump-bills-decade-long-state-regulatory-freeze/",
       "summary": "<p>Anthropic CEO Dario Amodei urged US lawmakers to write transparency rules for artificial intelligence companies instead of granting a decade-long freeze on state regulation proposed in President Donald Trump\u2019s technology bill. In a June 5 guest essay in The New York Times, Amodei described an internal evaluation in which Anthropic\u2019s newest model threatened to expose [&#8230;]</p> <p>"
@@ -73,11 +78,6 @@
       "title": "Circle makes Wall Street debut as first major stablecoin issuer on NYSE",
       "link": "https://cryptoslate.com/circle-makes-wall-street-debut-as-first-major-stablecoin-issuer-on-nyse/",
       "summary": "<p>Circle, the issuer of the USDC stablecoin, officially began trading on the New York Stock Exchange (NYSE) on June 5 under the ticker symbol CRCL. The listing milestone marks a significant milestone for the firm as it becomes one of the few major crypto-native companies to go public through a traditional listing. Circle CEO Jeremy [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Total crypto trading volume hits $80 trillion over last 12 months",
-      "link": "https://cryptoslate.com/insights/total-crypto-trading-volume-hits-80-trillion-over-last-12-months/",
-      "summary": "<p>Over the past year, total trading volume across centralized crypto exchanges has surged to $80 trillion, according to CCData\u2019s Exchange Review series. The milestone captures the combined activity from both spot and derivatives markets, highlighting a year marked by sharp cyclical swings, structural dominance of perpetual contracts, and a new, elevated volatility baseline. Volume Regimes: [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin wallet creation hits 6-month high, but traders sit back: Why?",
+      "link": "https://ambcrypto.com/bitcoin-wallet-creation-hits-6-month-high-but-traders-sit-back-why/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-86-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s on-chain strength builds, but derivatives traders remain cautious below $105K."
+    },
+    {
       "title": "Solana holders panic sell, dump $3.55B \u2013 What can save SOL now?",
       "link": "https://ambcrypto.com/solana-holders-panic-sell-dump-3-55b-what-can-save-sol-now/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250605_100222_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL maintains bullish potential as market sentiment shifts."
@@ -208,11 +213,6 @@
       "title": "Ethena\u2019s 17mln whale activity amid Coinbase listing: Reversal for ENA?",
       "link": "https://ambcrypto.com/ethenas-17mln-whale-activity-amid-coinbase-listing-reversal-for-ena/",
       "summary": "<img alt=\"Ethena&#039;s 17mln whale activity amid Coinbase listing: Reversal for ENA?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A wallet project-linked wallet moved ENA tokens to exchanges resulting in an 8% drop."
-    },
-    {
-      "title": "XRP faces $2.2B unlock: Will its $2.14 support tumble under pressure?",
-      "link": "https://ambcrypto.com/xrp-faces-2-2b-unlock-will-its-2-14-support-tumble-under-pressure/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-85-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP faces critical price pressure after a massive escrow unlock, with $2.14 acting as pivotal support."
     }
   ]
 }
