@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on BlockWireNews - Aggregated CryptoCurrency News</title>
-    <link>https://www.blockwirenews.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on BlockWireNews - Aggregated CryptoCurrency News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jun 2025 13:30:00 -0500</lastBuildDate>
-    <atom:link href="https://www.blockwirenews.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog Post</title>
-      <link>https://www.blockwirenews.com/blog/06042025/</link>
+      <title>“Weekly Crypto Vibes- XRP&#39;s Week in the Spotlight”</title>
+      <link>http://localhost:1313/blog/06042025/</link>
       <pubDate>Wed, 04 Jun 2025 13:30:00 -0500</pubDate>
-      <guid>https://www.blockwirenews.com/blog/06042025/</guid>
-      <description>&lt;p&gt;Over the past week (May 28–June 4, 2025), the cryptocurrency market oscillated between renewed bullish sentiment and cautious profit-taking. While Bitcoin reclaimed and held support above $105,000, Ethereum stabilized around $2,600, and various altcoins experienced mixed performance, XRP emerged as a standout performer. As an intermediate trader, I observed XRP’s price ascent alongside legal developments, ETF rumors, and on-chain activity, all of which contrasted with broader market headwinds—particularly macroeconomic uncertainty around U.S. trade policy and Federal Reserve signals  ￼ ￼.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/06042025/</guid>
+      <description>&lt;p&gt;Hey there! This week in crypto felt like riding a roller coaster with your eyes closed—thrilling, a bit scary, but mostly fun. Here’s what I noticed from May 28 to June 4, 2025, with a special shout-out to XRP for stealing the show.&lt;/p&gt;&#xA;&lt;p&gt;XRP’s Unexpected Glow-Up&#xA;I was sipping coffee on May 31 when I saw XRP drop to about $2.08. I nearly spit my coffee out when it shot up to $2.27 by June 4—like, overnight glow-up level. People online were losing their minds (in a good way). Volume was decent, so it wasn’t just bots having fun. If you’re thinking “Woohoo! Let’s buy!” just remember that $2.30–$2.35 is a solid ceiling—so don’t be that person who holds until it drops back down.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
