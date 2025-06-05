@@ -140,7 +140,11 @@
     {{ else }}
     {{ range $source, $articles := $all }}
     <section class="section">
-        <h2 class="subtitle">{{ $source }}</h2>
+        <h2 class="subtitle">
+          <a href="https://{{ lower $source }}.com" target="_blank" rel="noopener noreferrer">
+            From {{ $source }}.com
+          </a>
+        </h2>
         {{ if not (len $articles) }}
         <p><em>No articles for {{ $source }}</em></p>
         {{ end }}
