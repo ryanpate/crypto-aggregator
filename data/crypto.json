@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Dogecoin Struggles to Reclaim $0.19 Threshold as Bearish Sentiment Persists",
+      "link": "https://www.coindesk.com/markets/2025/06/05/dogecoin-struggles-to-reclaim-019-threshold-as-bearish-sentiment-persists",
+      "summary": ""
+    },
+    {
+      "title": "WazirX's Restructuring Plan Declined by Singapore Court, Hacked Indian Exchange Says",
+      "link": "https://www.coindesk.com/markets/2025/06/05/wazirxs-restructuring-plan-declined-by-singapore-court-hacked-indian-exchange-says",
+      "summary": ""
+    },
+    {
       "title": "Profit-Taking Continues in Crypto Market as Dogecoin, Cardano's ADA Lead Majors Slide",
       "link": "https://www.coindesk.com/markets/2025/06/05/profit-taking-continues-in-crypto-market-as-dogecoin-cardanos-ada-lead-majors-slide",
       "summary": ""
@@ -14,21 +24,16 @@
       "title": "Asia Morning Briefing: Vitalik's Plan Can Bring ETH to $3,000 and Crypto 'More Popular' Than Stocks in Korea",
       "link": "https://www.coindesk.com/markets/2025/06/04/asia-morning-briefing-vitaliks-plan-can-bring-eth-to-3000-and-crypto-more-popular-than-stocks-in-korea",
       "summary": ""
-    },
-    {
-      "title": "Suspect in French Crypto Kidnappings Arrested in Morocco",
-      "link": "https://www.coindesk.com/policy/2025/06/04/suspect-in-french-crypto-kidnappings-arrested-in-morocco",
-      "summary": ""
-    },
-    {
-      "title": "Circle Prices IPO at $31 Per Share, Valuing Stablecoin Issuer at $6.9 Billion",
-      "link": "https://www.coindesk.com/markets/2025/06/04/circle-debuts-on-nyse-at-31-per-share-valuing-stablecoin-issuer-at-62-billion",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "California moves forward bill on unclaimed crypto, merchant payments",
+      "title": "Crypto leverage trader James Wynn loses $25M on Bitcoin bet",
+      "link": "https://cointelegraph.com/news/crypto-leverage-trader-james-wynn-loses-25m-bitcoin-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNlMDctY2JmZi03NjEyLWI3OTAtMzdiY2MzZjVkYTA3.jpg\" /></p><p>Hyperliquid leverage trader James Wynn has claimed the market is being manipulated against him after he was liquidated for 240 Bitcoin, worth $25 million.</p>"
+    },
+    {
+      "title": "California advances bill on unclaimed crypto and merchant payments",
       "link": "https://cointelegraph.com/news/california-moves-forward-bill-unclaimed-crypto-merchant-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU5ZDEtNWRhOC03MjNlLWFmYzctMGRlNTQ4NWMxMTcw.jpg\" /></p><p>The bill has seen contention online, but Satoshi Action Fund\u2019s Eric Peterson says it updates the state\u2019s unclaimed property laws so crypto doesn\u2019t get liquidated.</p>"
     },
@@ -46,11 +51,6 @@
       "title": "Alleged French crypto kidnapping mastermind arrested in Morocco",
       "link": "https://cointelegraph.com/news/alleged-mastermind-behind-french-crypto-kidnappings-arrested-in-morocco?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2E5MmItZTQ1MS03YWFlLWI5YTktNzQxNGUzOWU3MzY5.jpg\" /></p><p>Moroccan police arrested Badiss Mohamed Amide Bajjou, who is accused of being one of the ringleaders behind a spate of recent crypto-related kidnappings in France.</p>"
-    },
-    {
-      "title": "Crypto.com sues Nevada gaming body over block on sports event contracts",
-      "link": "https://cointelegraph.com/news/cryptocom-sues-nevada-gaming-sport-event-contract-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE2ZjYtMzdlMS03MmY2LWFjNTEtNGRlZjcxNDkxMTdm.jpg\" /></p><p>The crypto exchange claims it is fully regulated, and the CFTC has jurisdiction over its sports contracts, not the state of Nevada.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,16 @@
   ],
   "NewsBTC": [
     {
+      "title": "Bitcoin\u2019s Key Investors Double Down, Buy Another 79,000 BTC",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-key-double-down-buy-another-79000-btc/",
+      "summary": "On-chain data shows the large Bitcoin investors have added to their holdings in the past week, a sign that could be bullish for BTC&#8217;s price. Bitcoin Investors With 10 To 10,000 BTC Have Added To Their Holdings In a new post on X, the on-chain analytics firm Santiment has talked about the latest trend in the Bitcoin supply held by the 10 to 10,000 BTC investors. The on-chain indicator of relevance here is the &#8220;Supply Distribution,&#8221; which tells us about the total number of tokens that a particular wallet group is carrying right now. Related Reading: Bitcoin ATH Fails To Hype Retail\u2014Demand Is Actually Down Addresses or investors are placed into these cohorts based on the size of their balance. For example, the 1 to 10 coins group includes all holders owning between 1 and 10 tokens of the cryptocurrency. In the context of the current discussion, the groups lying inside the 10 to 10,000 BTC range are of interest. This wide range includes some of the key holders of the sector like the sharks and whales. These investors own significant holdings, so their behavior can often be worth keeping an eye on. Now, here is the chart shared by the analytics firm that shows the trend in the Bitcoin Supply Distribution of the 10 to 10,000 BTC holders over the last few months: As is visible in the above graph, the Bitcoin supply held by the 10 to 10,000 BTC investors has registered a significant jump over the past week, implying this group has purchased a net number of coins. More specifically, the members of the cohort have collectively added 79,244 BTC to their wallets in this period. At the current exchange rate, this amount converts to a whopping $8.3 billion. Related Reading: Bitcoin 3\u20135 Year Holders Slow Selloff\u2014Waiting for Higher Prices? From the chart, it&#8217;s visible that this accumulation from the key investors has arrived while BTC has been going down after forming a new all-time high (ATH). This could be a potential indication that these holders still believe in the rally and see this drawdown as just a dip opportunity. That said, the 10 to 10,000 range is a bit wide, so while it does include the big-money investors, it also mixes up their behavior with some of the less-significant hands. Fortunately for Bitcoin, it would appear that the whales (1,000 to 10,000 BTC) agree with this trend of buying, as the chart shared by analyst Ali Martinez implies. As displayed in the graph, the whales of the cryptocurrency have added around 30,000 tokens to their holdings during the past few days, meaning that it&#8217;s not just the mid-sized hands buying this dip. BTC Price At the time of writing, Bitcoin is floating around $105,200, down over 2% in the last seven days. Featured image from Dall-E, Santiment.net, chart from TradingView.com"
+    },
+    {
+      "title": "Ethereum Eyes 15% Move Amid Key Resistance Retest \u2013 Breakout Or Rejection Next?",
+      "link": "https://www.newsbtc.com/news/ethereum-eyes-15-move-amid-key-resistance-retest-breakout-or-rejection-next/",
+      "summary": "Ethereum (ETH) is retesting a crucial resistance level amid its daily 3% recovery. The cryptocurrency has been rejected from this area since last month\u2019s market recovery, failing to continue its bullish rally. As its price continues its sideways trajectory, an analyst suggests that a 15% move is coming. Related Reading: Bitcoin To Face \u2018One Last Speed Bump\u2019 Before Rally To $140,000 \u2013 Analyst Ethereum Price Compressing Within Key Levels Since its early May breakout, Ethereum has been trading between the $2,475-$2,680 price range, failing to turn the range\u2019s upper boundary as support for nearly a month. Amid last week\u2019s market pullback, the cryptocurrency retraced around 11% from its three-month high of $2,788 to the range\u2019s lower boundary, bouncing from this area on Monday. At the start of the week, ETH reclaimed the $2,500 mark and continued its recovery rally toward the $2,600 resistance. On Wednesday, the King of Altcoins saw a 3.2% daily surge toward the local range high resistance before retracing to the $2,635 level. Carl Runefelt from The Moon Show highlighted the cryptocurrency\u2019s recent performance, affirming that Ethereum is \u201cshowing confidence\u201d by staying inside a key formation in the daily timeframe. According to the chart, Ethereum has been forming an ascending triangle since the May rally, with the upper line around the $2,680-$2,700 mark. Moreover, ETH\u2019s price has been compressing between the support and resistance lines, suggesting a potential 15% move if the price breaks out of the pattern. Runefelt forecasted a surge toward the $3,100 level if the Altcoin reclaims the crucial resistance level. However, if the price is rejected once again from this level, the analyst considers that Ethereum could drop to the $2,300 support zone. Crypto Bullet pointed out a similar pattern on multiple ETH charts, suggesting that a 15%-20% breakout is imminent for the cryptocurrency. Per"
+    },
+    {
       "title": "$63 Billion in Bitcoin Scooped Up by New Whales, Is $135K Still in Play?",
       "link": "https://www.newsbtc.com/bitcoin-news/63-billion-in-bitcoin-scooped-up-by-new-whales-is-135k-still-in-play/",
       "summary": "Bitcoin is so far facing a notable pullback in price, with its price now down roughly 5.8% from its all-time high recorded last month. At the time of writing, the asset currently trades at $105,062, marking a 1.1% decrease in the past day. Despite the pullback, on-chain data indicates a significant change in market behavior among large investors. A new set of Bitcoin whales\u2014wallets holding 1,000 BTC or more with coins aged less than six months\u2014has been accumulating the asset at an accelerated pace. Related Reading: Bitcoin Derivatives Reset: Neutral Funding And Whale Withdrawals Hint At Bullish Shift Young Whale Holdings Surge as Supply Share Tightens According to a recent analysis published by CryptoQuant contributor \u201conchained,\u201d this accumulation trend may reflect renewed conviction among high-capital participants preparing for future catalysts. Between March 1 and June 4, 2025, the amount of Bitcoin held by this group of \u201cnew whales\u201d more than doubled from approximately 500,000 BTC to over 1.1 million BTC. This represents an increase of around $63 billion in value. During the same period, their share of Bitcoin\u2019s total circulating supply grew from 2.5% to 5.6%, effectively removing an amount equivalent to nearly ten months of Bitcoin mining output from active circulation. Notably, this measure excludes long-dormant wallets, helping isolate recent capital inflows. This trend suggests a combination of long-term positioning and active supply absorption, which historically has preceded significant price volatility. Analysts view the emergence of new whale activity as a signal of shifting market structure, especially when paired with tightening supply conditions. If these entities continue to withdraw BTC from circulation without signs of immediate distribution, it could signal a period of price compression followed by upside volatility. Technical Patterns Suggest Possible Breakout Levels From a technical analysis perspective, Bitcoin may be forming a new bullish pattern. According to a recent post by the analyst known as \u201cTitan of Crypto,\u201d the asset has broken out of a right-angled descending broadening wedge, a chart pattern that can imply a trend reversal or continuation depending on confirmation. #Bitcoin to $135,000 in 2025? \ud83d\udcc8$BTC has broken out of a right-angled descending broadening wedge. If price holds above the breakout zone, $135,000 becomes a realistic target. Structure is clean. pic.twitter.com/KqTkquDNhn \u2014 Titan of Crypto (@Washigorira) June 3, 2025 If the price maintains levels above the wedge\u2019s breakout zone, historical analysis suggests a potential upside target near $135,000 in 2025. This technical view aligns with the broader narrative of positioning ahead of expected macroeconomic catalysts. Featured image created with DALL-E, Chart from TradingView"
@@ -95,16 +105,6 @@
       "title": "Cardano (ADA) Struggles Deepen: Price Slips Further, Investors on Edge",
       "link": "https://www.newsbtc.com/analysis/ada/cardano-ada-struggles-0-65/",
       "summary": "Cardano price started a fresh decline below the $0.70 zone. ADA is now consolidating and might aim decline further below the $0.650 zone. ADA price started a fresh decline below $0.720 and $0.700. The price is trading below $0.70 and the 100-hourly simple moving average. There was a break below a bullish trend line with support at $0.6840 on the hourly chart of the ADA/USD pair (data source from Kraken). The pair could start a fresh decline if it dips below the $0.650 support zone. Cardano Price Dips Further In the past few days, Cardano saw a fresh decline below the $0.750, unlike Bitcoin and Ethereum. ADA even declined below the $0.70 level to enter a bearish zone. Besides, there was a break below a bullish trend line with support at $0.6840 on the hourly chart of the ADA/USD pair. The bears even pushed the price below the $0.70 level. A low was formed at $0.6626 and the price is now consolidating losses. Cardano price is now trading below $0.70 and the 100-hourly simple moving average. On the upside, the price might face resistance near the $0.6720 zone. It is near the 23.6% Fib retracement level of the recent decline from the $0.7026 swing high to the $0.6626 low. The first resistance is near $0.6825 or the 50% Fib retracement level of the recent decline from the $0.7026 swing high to the $0.6626 low. The next key resistance might be $0.6920. If there is a close above the $0.6920 resistance, the price could start a strong rally. In the stated case, the price could rise toward the $0.7350 region. Any more gains might call for a move toward $0.750 in the near term. Another Decline In ADA? If Cardano\u2019s price fails to climb above the $0.6825 resistance level, it could start another decline. Immediate support on the downside is near the $0.6625 level. The next major support is near the $0.650 level. A downside break below the $0.650 level could open the doors for a test of $0.620. The next major support is near the $0.60 level where the bulls might emerge. Technical Indicators Hourly MACD \u2013 The MACD for ADA/USD is gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for ADA/USD is now below the 50 level. Major Support Levels \u2013 $0.650 and $0.620. Major Resistance Levels \u2013 $0.6825 and $0.700."
-    },
-    {
-      "title": "Bitcoin Pullback or Setup? On-Chain Metrics Hint at What\u2019s Coming Next",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-pullback-or-setup-on-chain-metrics-hint-at-whats-coming-next/",
-      "summary": "Bitcoin is experiencing a short-term price decline. In the past 24 hours, the asset has fallen by approximately 9.3% to a trading value of $105,062. This pullback places Bitcoin roughly 8% below its all-time high recorded last month. The dip comes amid broader market volatility, but on-chain indicators and exchange data suggest deeper structural trends that may influence the next phase of Bitcoin&#8217;s price trajectory. Recent market analysis points to renewed accumulation among long-term holders, a spike in exchange withdrawals, and rising spot trading activity on Binance. These developments are being interpreted as signals of underlying strength despite recent price weakness. CryptoQuant contributor Amr Taha has provided a detailed breakdown of these emerging patterns, offering a perspective on how long-term dynamics may be shaping Bitcoin\u2019s current market behavior. Related Reading: Bitcoin 3\u20135 Year Holders Slow Selloff\u2014Waiting for Higher Prices? Binance Trading Volume Rises, Long-Term Holders Accumulate Since early June, Binance has seen its share of Bitcoin spot trading volume increase from 26% to 35%, positioning it more firmly as the dominant platform in the market. This increase in trading activity has occurred as Bitcoin approaches and tests key price levels. According to Taha, this surge may indicate renewed interest from retail and institutional traders alike, particularly as volatility draws more short-term market participants to major exchanges. In addition to exchange volume shifts, on-chain data reveals growing confidence among long-term Bitcoin holders. The Long-Term Holder (LTH) Net Position Realized Cap, a metric that reflects the value of coins held by entities with a holding period of over 155 days, has returned above $20 billion. Historically, this type of accumulation pattern has preceded periods of price expansion, as long-term investors tend to hold through corrections and avoid frequent selling. The rise in LTH realized cap suggests these entities are not exiting positions during this market dip, which may reduce available supply and support future upward movement. Bitcoin Large Exchange Withdrawals Signal Tightening Supply Beyond trading activity and holder behavior, Taha pointed out that another notable trend is emerging on centralized exchanges. Over a two-day period, Kraken and Bitfinex recorded net Bitcoin outflows exceeding 20,000 BTC, among the largest short-term withdrawals in recent months. Such movements are often interpreted as signals of investors shifting assets into self-custody, possibly in anticipation of long-term holding or strategic redeployment. Related Reading: Bitcoin Could Go \u2018Bananas\u2019 If Price Closes Above This Level, Top Analyst Says Combined, the rise in Binance\u2019s market share, increased LTH accumulation, and exchange outflows present a picture of a market undergoing structural positioning rather than widespread exit activity. While the short-term price trend reflects a pullback from recent highs, the simultaneous withdrawal of supply and steady long-term holder confidence could act as foundational elements for potential future growth. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "XRP Price Dips to Support: Is a Bullish Rebound on the Horizon?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-dips-support-2-20/",
-      "summary": "XRP price started a fresh increase above the $2.220 resistance zone. The price is now consolidating and might aim for a move above the $2.250 resistance. XRP price started a fresh increase above the $2.220 zone. The price is now trading above $2.220 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2.185 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another increase if it clears the $2.250 resistance zone. XRP Price Holds Support XRP price remained stable above the $2.050 support and started a decent upward move, beating Bitcoin and Ethereum. There was a move above the $0.2150 and $0.20 levels. The bulls were able to clear the $2.25 resistance zone. A high was formed at $2.2816 and the price is now correcting gains. The price dipped below the $2.25 level and the 50% Fib retracement level of the upward move from the $2.137 swing low to the $2.2816 high. The price is now trading above $2.20 and the 100-hourly Simple Moving Average. There is also a key bullish trend line forming with support at $2.185 on the hourly chart of the XRP/USD pair. It is near the 61.8% Fib retracement level of the upward move from the $2.137 swing low to the $2.2816 high. On the upside, the price might face resistance near the $2.2320 level. The first major resistance is near the $2.250 level. The next resistance is $2.2850. A clear move above the $2.2850 resistance might send the price toward the $2.320 resistance. Any more gains might send the price toward the $2.350 resistance or even $2.380 in the near term. The next major hurdle for the bulls might be $2.40. Downside Break? If XRP fails to clear the $2.25 resistance zone, it could start another decline. Initial support on the downside is near the $2.20 level. The next major support is near the $2.1850 level. If there is a downside break and a close below the $2.1850 level, the price might continue to decline toward the $2.150 support. The next major support sits near the $2.120 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now below the 50 level. Major Support Levels \u2013 $2.20 and $2.1850. Major Resistance Levels \u2013 $2.250 and $2.30."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Amazon to Spend $10 Billion on North Carolina Data Centers for AI Expansion",
+      "link": "https://decrypt.co/323815/amazon-10-billion-north-carolina-data-centers-ai-expansion",
+      "summary": "Amazon\u2019s AI expansion may boost jobs, but it risks concentrating innovation in Big Tech\u2019s hands, an expert told ."
+    },
+    {
+      "title": "Japanese Company Ispace's Probe Expected to Land On The Moon Tomorrow",
+      "link": "https://decrypt.co/323812/japanese-company-ispaces-probe-land-moon-tomorrow",
+      "summary": "The Tokyo-listed company aims to land its RESILIENCE probe on the moon Friday, marking its second attempt to reach the lunar surface."
+    },
+    {
       "title": "US Seizes Crypto and 145 Domains Linked to Dark Web Marketplace",
       "link": "https://decrypt.co/323809/us-seizes-crypto-145-domains-dark-web-marketplace",
       "summary": "BidenCash served 117,000 users and trafficked over 15 million stolen credit cards and personal data before being taken down."
@@ -149,16 +159,6 @@
       "title": "Reddit Files Lawsuit Against Anthropic Over Alleged Unauthorized Data Scraping",
       "link": "https://decrypt.co/323802/reddit-lawsuit-anthropic-alleged-unauthorized-data-scraping",
       "summary": "Reddit is accusing AI firm Anthropic of scraping content to train Claude, fueling a broader legal battle over the use of online data."
-    },
-    {
-      "title": "Why Democrat Zoltan Istvan Is Backing Basic Income, Home Robots in California Governor Bid",
-      "link": "https://decrypt.co/323798/democrat-zoltan-istvan-basic-income-home-robots-california-governor-bid",
-      "summary": "Running to lead California, Zoltan Istvan said the state needs Universal Basic Income and robots before jobs begin to vanish."
-    },
-    {
-      "title": "Stablecoin Giant Circle Raises $1.1B in IPO, Valued at $6.9B Ahead of NYSE Debut",
-      "link": "https://decrypt.co/323795/stablecoin-giant-circle-raises-1-billion-ipo-nyse-debut",
-      "summary": "Stablecoin firm Circle priced its shares at $31, above the marketed range, ahead of its trading debut on the NYSE under ticker CRCL."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Joe Lubin says sovereign wealth funds are eyeing Ethereum \u2013 Is a mega ETH buy incoming?",
+      "link": "https://ambcrypto.com/joe-lubin-says-sovereign-wealth-funds-are-eyeing-ethereum-is-a-mega-eth-buy-incoming/",
+      "summary": "<img alt=\"Joe Lubin says sovereign wealth funds are eyeing Ethereum - Is a mega ETH buy Incoming?\" class=\"attachment-full size-full wp-post-image\" height=\"821\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lubin-says-Sovereign-Wealth-Funds-eye-Ethereum.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1459\" />What\u2019s driving major sovereign funds to eye Ethereum now?"
+    },
+    {
+      "title": "All about SPX6900\u2019s uptrend \u2013 Why $1.2 level could be next buying opportunity",
+      "link": "https://ambcrypto.com/all-about-spx6900s-uptrend-why-1-2-level-could-be-the-next-buying-opportunity/",
+      "summary": "<img alt=\"All about SPX6900&#039;s uptrend - Why $1.2 level could be the next buying opportunity\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/SPX-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Fibonacci retracement levels served as resistance, but they were broken and flipped to support by SPX bulls."
+    },
+    {
       "title": "Strategy\u2019s MSTR stock leads with 5% gains thanks to bold capital moves, Bitcoin\u2019s recovery",
       "link": "https://ambcrypto.com/strategys-mstr-stock-leads-with-5-gains-thanks-to-bold-capital-moves-bitcoins-recovery/",
       "summary": "<img alt=\"Strategy&#039;s MSTR stock leads with 5% gains thanks to bold capital moves, Bitcoin&#039;s recovery\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/MSTRstock.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />MSTR's mid-week rally may be at risk ahead of potential macro-driven volatility."
@@ -203,16 +213,6 @@
       "title": "California moves to accept crypto for state payments \u2013 Bill passes unanimously!",
       "link": "https://ambcrypto.com/california-moves-to-accept-crypto-for-state-payments-bill-passes-unanimously/",
       "summary": "<img alt=\"California moves to accept crypto for state payments - Bill passes unanimously!\" class=\"attachment-full size-full wp-post-image\" height=\"540\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/California-to-Accept-Crypto-for-State-Payments.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"960\" />California now joins Florida, Colorado, and Louisiana in pioneering state acceptance of cryptocurrency for official payments."
-    },
-    {
-      "title": "Can BNB break new highs? 2 factors suggest strong upside",
-      "link": "https://ambcrypto.com/can-bnb-break-new-highs-2-factors-suggest-strong-upside/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/20DCADF1-60F4-4C1E-B29C-B0AA9240B461.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BNB shows a high tendency for a rally as positive sentiment grows."
-    },
-    {
-      "title": "DEXE bounces off $8.50 floor: Can bulls reclaim $11 and trap bears?",
-      "link": "https://ambcrypto.com/dexe-bounces-off-8-50-floor-can-bulls-reclaim-11-and-trap-bears-again/",
-      "summary": "<img alt=\"DEXE bounces off $8.50 floor: Can bulls reclaim $11 and trap bears again?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_33_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DEXE rebounds by over 8% after breakdown below a key pennant support point to a continued bullish momentum."
     }
   ]
 }
