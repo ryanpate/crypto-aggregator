@@ -1,4 +1,31 @@
 {{ define "main" }}
+<!--<img src="/banner.png" alt="BlockWireNews Banner" style="width:100%;height:auto;margin-bottom:1rem;" -->
+
+<!-- TradingView Crypto Ticker Tape BEGIN -->
+<div class="tradingview-widget-container" style="margin-bottom: 1rem;">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js">
+    {
+      "symbols": [
+        { "proName": "COINBASE:BTCUSD", "title": "Bitcoin" },
+        { "proName": "COINBASE:ETHUSD", "title": "Ethereum" },
+        { "proName": "BINANCE:BNBUSDT", "title": "BNB" },
+        { "proName": "BITFINEX:LTCUSD", "title": "Litecoin" },
+        { "proName": "COINBASE:ADAUSD", "title": "Cardano" }
+      ],
+        "showSymbolLogo": false,
+          "colorTheme": "light",
+            "isTransparent": false,
+              "displayMode": "adaptive",
+                "locale": "en"
+    }
+  </script>
+</div>
+<!-- TradingView Crypto Ticker Tape END -->
+
+<div class="container mt-6">
+  <!-- existing blog and crypto‐news sections… -->
+</div>
 <div class="container mt-6">
     <style>
       /* Container centered with responsive padding */
