@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
-      "title": "Corporate Bitcoin Holdings Nears $85B, More Than Doubling in a Year",
-      "link": "https://www.coindesk.com/markets/2025/06/05/corporate-bitcoin-holdings-nears-85b-more-than-doubling-in-a-year",
+      "title": "Plume Launches Genesis Mainnet to Bring Real-World Assets to DeFi",
+      "link": "https://www.coindesk.com/tech/2025/06/05/plume-launches-genesis-mainnet-to-bring-real-world-assets-to-defi",
       "summary": ""
     },
     {
-      "title": "Leveraged Bitcoin Longs on Bitfinex Weakest Since December and It Could Mean Rally Time",
-      "link": "https://www.coindesk.com/markets/2025/06/05/leveraged-bitcoin-longs-on-bitfinex-weakest-since-december-and-it-could-mean-rally-time",
+      "title": "Crypto for Advisors: Breaking Down Solana",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/03/crypto-for-advisors-breaking-down-solana",
       "summary": ""
     },
     {
-      "title": "Core Foundation, Bitcoin Layer 1 With Over $500M Staked BTC, Adds BitGo and KODA as Validators",
-      "link": "https://www.coindesk.com/business/2025/06/05/core-foundation-bitcoin-layer-1-with-over-usd500m-staked-btc-adds-bitgo-and-koda-as-validators",
+      "title": "TON Surges 3%, Outperforming Declining CoinDesk 20",
+      "link": "https://www.coindesk.com/markets/2025/06/05/ton-surges-3-outperforming-coindesk-20",
       "summary": ""
     },
     {
-      "title": "Bitcoin Life Insurance Firm Meanwhile Shares First Audit",
-      "link": "https://www.coindesk.com/business/2025/06/05/bitcoin-life-insurance-firm-meanwhile-shares-first-audit",
+      "title": "Trump\u2019s Truth Social Takes Next Step in Launching Spot Bitcoin ETF",
+      "link": "https://www.coindesk.com/policy/2025/06/05/trump-s-truth-social-takes-next-step-in-launching-spot-bitcoin-etf",
       "summary": ""
     },
     {
-      "title": "NEAR Surges 5% After Forming Bullish Support Pattern",
-      "link": "https://www.coindesk.com/business/2025/06/05/near-protocol-surges-5-after-forming-bullish-support-pattern",
+      "title": "Galaxy, Fireblocks to Operate Nodes on Bitcoin Layer-2 Botanix",
+      "link": "https://www.coindesk.com/tech/2025/06/05/galaxy-fireblocks-to-operate-nodes-on-bitcoin-layer-2-botanix",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "How $220M was stolen in minutes: Understanding the Cetus DEX exploit on Sui",
+      "link": "https://cointelegraph.com/explained/how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NmI5MjAxODU0ZDk1MzIxNTQwYjY4YjVjNGVhMjllOS5qcGc=.jpg\" /></p><p>The Cetus DEX exploit on Sui drained $220 million in minutes. The hacker took advantage of an undetected bug in the math library of the protocol to siphon off the funds.</p>"
+    },
+    {
+      "title": "Trump\u2019s crypto agenda is rigged for the rich",
+      "link": "https://cointelegraph.com/news/trump-crypto-agenda-is-rigged?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzExNTMtM2MxMy03YWMxLWEyYzAtNDEwYWFlNjg3ZTYy.jpg\" /></p><p>Donald Trump\u2019s crypto agenda claims to champion financial freedom, but in reality, it consolidates power among political elites and wealthy investors, sidelining everyday users.</p>"
+    },
+    {
+      "title": "Trump Media files for spot Bitcoin ETF approval from SEC",
+      "link": "https://cointelegraph.com/news/trump-media-files-spot-bitcoin-etf-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwNGUtMzFmOC03NzFhLThkMDMtZDhiNTNmMTA4YjM5.jpg\" /></p><p>Trump Media & Technology Group filed an S-1 registration form with the US regulator to launch the Truth Social Bitcoin ETF.</p>"
+    },
     {
       "title": "How to set up stop-loss and take-profit orders",
       "link": "https://cointelegraph.com/news/how-to-set-up-stop-loss-and-take-profit-orders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "Zebec buys compliance firm Gatenox ahead of MiCA, FCA regulatory push",
       "link": "https://cointelegraph.com/news/zebec-gatenox-acquisition-web3-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwMGEtNjE3Ny03YjMyLWJiOTgtMjI2YWU2YTNmNTVm.jpg\" /></p><p>Zebec\u2019s move reflects a shift toward embedding compliance at the protocol level, with firms facing more stringent regulatory requirements.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Bitcoin Hash Ribbons metric just delivered its 3rd &#039;buy&#039; signal of 2025",
-      "link": "https://cointelegraph.com/news/bitcoin-hash-ribbons-delivered-3rd-buy-signal-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ2OWEtNDhiNi03ZDQ5LWFlMjktM2JlM2M2ZTU2N2Nl.jpg\" /></p><p>Bitcoin miners offer a glimpse into potential price upside to come as the historically accurate Hash Ribbons flips green.</p>"
-    },
-    {
-      "title": "From clay tablets to crypto: Rethinking money in the age of blockchain",
-      "link": "https://cointelegraph.com/news/from-clay-tablets-to-crypto-rethinking-money-in-the-age-of-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNmZTEtMGViNC03NTExLTkzMTItY2NmOWY3ZTU0Yzg0.jpg\" /></p><p>Anthropologist Bill Maurer joins the Clear Crypto Podcast to explore how blockchain revives ancient ideas about money, not as tokens, but as systems of record-keeping and social trust.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Total crypto trading volume hits $80 trillion over last 12 months",
+      "link": "https://cryptoslate.com/insights/total-crypto-trading-volume-hits-80-trillion-over-last-12-months/",
+      "summary": "<p>Over the past year, total trading volume across centralized crypto exchanges has surged to $80 trillion, according to CCData\u2019s Exchange Review series. The milestone captures the combined activity from both spot and derivatives markets, highlighting a year marked by sharp cyclical swings, structural dominance of perpetual contracts, and a new, elevated volatility baseline. Volume Regimes: [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Hong Kong readying to legalize Bitcoin and crypto derivatives in push for Web3 leadership",
+      "link": "https://cryptoslate.com/hong-kong-readying-to-legalize-bitcoin-and-crypto-derivatives-in-push-for-web3-leadership/",
+      "summary": "<p>Hong Kong\u2019s push to legalize crypto derivatives is gaining political momentum, with reports that senior officials see the next wave of virtual asset reforms unlocking Bitcoin futures and options trading for professional investors. The goal is to expand product diversity while preserving sound risk controls. Bitcoin and Ethereum ETFs &#8220;have broadened the product diversity of [&#8230;]</p> <p>"
+    },
     {
       "title": "Aave\u2019s USDT liquidity takes a hit after Justin Sun-linked HTX\u2019s $570 million withdrawal",
       "link": "https://cryptoslate.com/aaves-usdt-liquidity-takes-a-hit-after-justin-sun-linked-htxs-570-million-withdrawal/",
@@ -68,19 +78,19 @@
       "title": "US takes down 145 domains linked to $17M darknet marketplace and seize crypto wallets",
       "link": "https://cryptoslate.com/us-takes-down-145-domains-linked-to-17m-darknet-marketplace-stealing-crypto-and-credit-card-data/",
       "summary": "<p>US law enforcement agencies seized 145 domains and crypto linked to BidenCash, a darknet marketplace known for selling stolen credit card data, and personal information, according to a June 4 statement. The takedown followed a court-approved investigation that targeted the platform\u2019s infrastructure. The seized domains now redirect users to a server controlled by the authorities, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Venezuelans turn to stablecoins as Government arrests Instagram FX rate account mods",
-      "link": "https://cryptoslate.com/venezuelans-turn-to-stablecoins-as-government-arrests-instagram-fx-rate-account-mods/",
-      "summary": "<p>Venezuela\u2019s government has arrested at least 20 moderators of the popular Instagram page \u201cMonitor D\u00f3lar,\u201d accusing them of terrorism, money laundering, and fraud for publishing the widely used parallel exchange rate, Interior Minister Diosdado Cabello has reported.. The sweep, which began in night\u2011time raids on May 29, revives tactics last seen during the country\u2019s 2013\u201118 hyper\u2011inflation [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Donald Trump\u2019s advisor Bo Hines meets Nayib Bukele as US eyes El Salvador\u2019s Bitcoin strategy",
-      "link": "https://cryptoslate.com/donald-trumps-advisor-bo-hines-meets-nayib-bukele-as-us-eyes-el-salvadors-bitcoin-strategy/",
-      "summary": "<p>Bo Hines, who leads President Donald Trump\u2019s advisory council on digital assets, recently met with El Salvador\u2019s President Nayib Bukele to discuss potential partnerships in the crypto space. In a post shared on June 5, Hines revealed that the meeting centered around digital asset development and a shared ambition to reshape global finance. He also [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Crypto Self Custody Is the Future, and People Say Best Wallet Leads the Way",
+      "link": "https://www.newsbtc.com/news/crypto-self-custody-is-the-future-best-wallet-leads-the-way/",
+      "summary": "What does crypto want to be when it grows up? Centralized exchanges like Coinbase have long marketed themselves as crypto&#8217;s answer to convenience. User-friendly, regulated, and custodial. Just give them the keys and let them drive. They&#8217;ll handle all the boring details \u2013 like on/off ramps, UI, integrated swapping, and little things like taking control of your crypto. And in return, all you need to do is trust. But increasingly, that deal sounds like a bad one. The trade-off between trust and control is no longer worth it. Trust Coinbase and other custodial platforms too much, and what do you get? Hacks and data breaches, among other things. There\u2019s a better path forward \u2013 and more and more crypto users are looking for it. A Better Custody Deal So, what should the future of crypto be? Crypto should still be easy. It should still be intuitive. But it should also be private, safe, secure, and truly self-custodial. After all, the old adage of \u2018not your keys, not your crypto\u2019 shouldn&#8217;t just be a slogan \u2013 it is, and should be, the foundation of decentralized finance. That&#8217;s where wallets like Best Wallet come in. Unlike centralized platforms, self-custody crypto wallets like Best Wallet don&#8217;t hold your private keys. You have complete control of your assets at all times. There are no middlemen, no single points of failure, and no need to put your trust in third parties. But what about the convenience of swapping crypto, sending crypto, and exploring new crypto opportunities all from one app? Bridging the Gap: Self-Custody Meets Convenience The future of crypto points to tools that combine the convenience of centralized exchanges like Coinbase, including KYC and AML requirements, with the security of self-custody, without sacrificing usability. We&#8217;ve already seen this with tools like Railgun, which complies with KYC while enabling private transactions on DeFi platforms, and which Vitalik Buterin just used to transfer $2.6M in crypto. While transactions of that size may well be just another day in the office for the Ethereum founder, it demonstrates how increasingly important privacy, control, and functionality are in the developing crypto economy. This is nothing new; it&#8217;s often the people most deeply involved in tech who understand just how important it is to control your own data (and your own crypto). Remember Zuckerberg\u2019s camera? That was the time he was promoting Meta, and everyone realized he&#8217;d taped across his laptop&#8217;s microphone and camera. Was that paranoia or an understanding of just how vulnerable our data is? That&#8217;s the balance that Best Wallet wants to deliver, beating MetaMask at its own game and dominating the Web3 self-custody wallet market. Best Wallet Token ($BEST) \u2013 The Self-Custody Crypto Wallet Presale Token Crypto wallets aren\u2019t just handy places to stash some spare Bitcoin, at least not anymore. The best crypto wallets \u2013 like Best Wallet \u2013 serve as all-in-one control hubs for crypto investors, whether you&#8217;re operating multiple wallets, swapping tokens, ot investing in crypto presales. And that&#8217;s not all. The Best Wallet ecosystem is supercharged by its own token, $BEST. Best Wallet Token holders get: Lower transaction fees Higher staking rewards Earlier presale access Eligibility for bonus crypto airdrops (such as BTC Bull Token\u2019s Bitcoin airdrop) Best Wallet and the $BEST token are building the crypto future that Buterin and others are looking for: interconnected, seamless, and self-custodial. It&#8217;s everything you could want or ever need from a crypto wallet. You can manage your portfolio, browse upcoming token launches (including the best new meme coins), and spend your crypto in real life with the upcoming Best Card. Buying, selling, and swapping are as easy as tapping a few buttons. And all this is secured with multi-party computation (MPC) and biometric authentication to keep your crypto safe without sacrificing ease of use. The Best Wallet Token presale has raised over $13.1M, with tokens currently priced at $0.025135. That could rise to $0.035215 by the end of the year, according to our $BEST price prediction, delivering gains of 40% to current presale investors. Learn more about how to buy Best Wallet Token with our guide. Best Wallet: Building the Self-Custodial Future of Crypto No longer does crypto have to choose between usability and control. Tools like Best Wallet are showing that self-custody platforms can match \u2013 or even beat \u2013 the convenience that centralized exchanges offer while staying true to the core values of crypto. As more self-custodial models appear in a post-Coinbase world, Best Wallet wants to lead the charge and dominate this $11B sector. If it succeeds, it will be by delivering a product that is convenient and completely crypto-native. Always do your own research before investing in crypto; this isn\u2019t financial advice. Crypto self-custody is the future. Best Wallet is helping to build that future."
+    },
+    {
+      "title": "Bitcoin Price Crash To $100,00 Loading: Next Targets Revealed As Bears Take Over",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-crash-to-10000-2/",
+      "summary": "The Bitcoin price is falling fast, and with bears currently taking control, a crypto analyst has forecasted an impending crash below $100,000. While this potential downturn may sound alarming, the analyst has also revealed that after the pullback, Bitcoin (BTC) is expected to undergo a significant price rally to new all-time highs. Bitcoin Price Faces Immediate Crash Risk Bitcoin appears to be entering a cooling phase after experiencing a significant bullish run that spanned several weeks and led to its current all-time high of almost $112,000. \u2018MelikaTrader94\u2019, the TradingView crypto analyst responsible for this new technical analysis, predicts that during this cooling period, bears could take over and send the Bitcoin price crashing down to former lows under $100,000. Related Reading: Bitcoin Price Crash Below $100,000 Still Possible: Analysts Issue Downtrend Warnings On a 4-hour chart presented by the analyst, Bitcoin has consistently respected a descending trendline acting as a strong resistance threshold. This line, which formed after the recent peak, has now rejected price action multiple times, preventing further upward movement and hinting at growing bearish pressure in the short term. At the time of the analysis, Bitcoin was trading at $106,432, attempting to test the descending trendline once again. However, the chart shows that BTC lacks strong momentum, suggesting that another rejection is likely. If this rejection occurs, BTC\u2019s price action is expected to correct downward toward the $99,000 region, marked on the chart as a key horizontal support zone. Bitcoin\u2019s projected pullback is consistent with typical market behavior, especially after an extended bullish phase. Based on the TradingView expert\u2019s analysis, a drop to the $99,000 support level could shake out weak hands and provide fresh buy-dip opportunities for traders. While the structure of the projected downward move is not entirely bearish, it suggests a necessary retest of lower support areas before any sustainable rally can resume. Bullish Continuation Expected After Pullback MelikaTrader94 has suggested that correcting down to the $99,000 support zone is critical for determining Bitcoin\u2019s next rally. If this crash successfully occurs and buyers step in to defend the support, BTC could begin forming a strong bullish continuation structure. Related Reading: Bitcoin Price Crash: Why $107,500 And $103,500 Are The Levels To Watch The TradingView analyst\u2019s chart outlines a possible rebound from the support area, which could trigger a breakout above the descending trendline. A sustained move above this trendline would potentially invalidate the short-term bearish structure and set the stage for a new all-time high, with price targets extending beyond $114,000. Notably, Bitcoin\u2019s consolidation around its current price of $104,500, followed by a possible dip to the well-established support zone, fits the analyst\u2019s narrative that the market is preparing for a big move. The TradingView expert has urged investors and traders to keep an eye out for a strong bounce, as this projected pullback could be a healthy one that comes just before a bullish leg up. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "Ethereum Mirrors Bitcoin 2020 Breakout Setup \u2013 Historic Run Incoming?",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-mirrors-bitcoin-2020-breakout-setup-historic-run-incoming/",
@@ -95,19 +105,14 @@
       "title": "Bitcoin Scarcity May Spark Explosive Surge, Bank Study Shows",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-scarcity-may-spark-explosive-surge-bank-study-shows/",
       "summary": "Bitcoin\u2019s available coins for trading have dropped sharply. That change could push prices higher if demand holds up. Related Reading: Bitcoin Reserve Gets Military Nod, Senator Predicts Explosive 10-Year Surge According to Sygnum Bank\u2019s June 2025 Monthly Investment Outlook, the liquid supply of Bitcoin fell by about 30% over the last 18 months. In that time, nearly 1 million BTC left exchanges. That means fewer coins are ready to move at a moment\u2019s notice. Liquid Supply Tightens Based on reports from Sygnum Bank, exchange balances dropped by around 1 million BTC since late 2023. That amount equals roughly 5% of Bitcoin\u2019s total supply. When coins leave exchanges, they often go into cold storage or long-term funds. Some of these funds include new exchange-traded funds and corporate buyers issuing equity or debt to buy Bitcoin. If coins are locked away, traders have to compete for a smaller pool of available coins. That gap between supply and demand can cause bigger price swings on the upside. Institutions And State Moves Three US states have now passed laws to hold Bitcoin as part of their reserves. New Hampshire already signed its bill into law. Texas is expected to follow soon. A third state is also moving forward, though details are still pending. In addition, governments abroad are paying attention. Pakistan\u2019s government has said it will look into Bitcoin reserves. In the UK, the Reform Party\u2014currently leading in election polls\u2014plans to study something similar. When a state or country actually buys Bitcoin for its coffers, it can spark more buying. That act has a double effect: it creates immediate demand and it signals that public institutions see Bitcoin as a store of value. Safe-Haven Status Strengthens Rising uncertainty over the US dollar and US debt worries have driven some investors toward Bitcoin. In May, as US Treasury prices slid on concerns about rising debt levels, digital gold and physical gold saw higher interest. Bitcoin is being viewed more like a hedge against dollar weakness. On days when Treasuries wobble, some cash moves into crypto markets. Larger swings on the upside than on the downside also hint that institutions may be soaking up dips more quickly. Sygnum\u2019s data shows that since June 2022, Bitcoin\u2019s upward moves have been larger than its downward moves. That may be a sign that big players have become more confident in holding through small sell-offs. Related Reading: XRP Could Transform Your Finances Long Before $10K, Angel Investor Says Ethereum\u2019s Comeback Ethereum is also stirring after a period of sluggish performance. The recent Pectra upgrade on Ethereum has spurred more fees and drawing fresh interest. Several big banks and financial firms are now exploring tokenization platforms built on Ethereum and its layer-2 networks. When more institutions issue tokenized assets, the whole crypto space could benefit. Renewed activity on Ethereum often spills back into Bitcoin. That could add to overall demand for top coins. Featured image from Imagen, chart from TradingView"
-    },
-    {
-      "title": "The Last Bitcoin Cycle? Swan Says History\u2019s Turning",
-      "link": "https://www.newsbtc.com/bitcoin-news/last-bitcoin-cycle-swan-history-turning/",
-      "summary": "Bitcoin is drifting just above $105,000 on June 5, its lowest realized volatility in almost two years, yet Swan, the Los-Angeles-based \u201cBitcoin-only\u201d financial services firm, contends the market is on the verge of its most radical re-pricing ever. The Last Chance To Buy? In a X thread on Wednesday night, the company argued that the familiar four-year boom-and-bust cadence is giving way to \u201cthe last rotation\u201d\u2014a silent transfer of coins from retail speculators to institutions whose investment horizons stretch decades. \u201cPeople less committed to the long term are exiting [\u2026] and a whole new class of investors is entering,\u201d Swan is quoting Michael Saylor, framing the hand-off from retail traders to corporate treasuries, ETFs and multinationals such as BlackRock and Fidelity. So far, 2025 has defied the script. The third calendar year of every prior cycle\u20142013, 2017 and 2021\u2014delivered the vertical moves that defined those eras. This year has offered \u201cbig moves, but also shallower corrections and longer periods of sideways chop,\u201d Swan writes, conceding that the price action \u201cis boring people.\u201d Related Reading: Bitcoin Signals Strength As Long-Term Holder Realized Cap Surges Past $20 Billion \u2013 Details The firm\u2019s thesis is that boredom masks an invisible supply squeeze: long-time holders taking profits above $100,000 while \u201clong-only buyers,\u201d in Swan\u2019s words, methodically absorb the float. \u201cThese corporations, they\u2019re long-only buyers. Not traders of Bitcoin,\u201d Swan argues, underscoring the firm\u2019s view that coins migrating into corporate vaults are effectively removed from circulation. The thread portrays three intertwined rotations: Between entities \u2013 Trustees, lawyers and early adopters are exiting; ETFs, corporations and \u201csovereign-grade balance sheets\u201d are stepping in. Between intentions \u2013 Speculation gives way to allocation. \u201cThis new wave of buyers isn\u2019t speculating,\u201d Swan writes. \u201cThey\u2019re allocating.\u201d Between generations. The Silent Generation hoarded gold; Boomers compounded in equities; Gen X surfed tech; now Millennials, \u201centering their peak accumulation years,\u201d are \u201cinheriting trillions\u2014and they\u2019re choosing Bitcoin.\u201d Related Reading: Bitcoin Pauses Below $106K as Analyst Reveals Key Support Level To Watch Supply dynamics, Swan contends, make those rotations irreversible. \u201cWhen long-term capital meets inelastic supply, the float starts vanishing,\u201d the firm warns. \u201cThat\u2019s when things get explosive.\u201d The macro backdrop adds pressure: Swan points to a \u201crare and dangerous split\u201d in which the US dollar is weakening even as bond yields surge\u2014an environment, it says, that could funnel excess capital toward a neutral store of value. \u201cThis isn\u2019t just the next cycle. It\u2019s the end of an era,\u201d Swan concludes. \u201cIf you\u2019re selling now, understand you\u2019re likely handing your Bitcoin to an institution that plans to hold it indefinitely. Once it\u2019s gone, you\u2019re probably never getting it back.\u201d For Swan, the implication is stark. The apparent tranquility near $105,000 is less a sign of exhaustion than the quiet before a permanent liquidity event\u2014one in which the marginal seller disappears, the marginal buyer never sells, and price must eventually mark higher to find equilibrium. \u201cThink twice,\u201d Swan advises would-be profit-takers. \u201cThe float is drying up. The buyers are built different. This is the last Bitcoin rotation.\u201d If the firm is right, history is not repeating so much as culminating, and the market\u2019s current stillness may soon be remembered as the eye of a generational storm. At press time, BTC traded at $104,605. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Solana Turns to Wall Street Investors, Pushing Meme Coins like Snorter to New Highs",
-      "link": "https://www.newsbtc.com/news/solana-turns-to-wall-street-investors-pushing-meme-coins-like-snorter-to-new-highs/",
-      "summary": "Solana\u2019s out to rebuild a digital empire, and it\u2019s doing it from an office building in Lower Manhattan. Having a physical headquarters might seem a bit counter-intuitive for a company focused on digital assets. But the move is fueling an ongoing shift at Solana Labs, from Solana the meme coin chain to Solana as a serious, \u2018Wall-Street-ready\u2019 DeFi chain. The offices opened back in 2023, and Solana Labs uses them as a staging board where potential partners and investors can come visit and chat directly with Solana\u2019s devs. The move is paying off; even as more and more companies adapt a \u2018Bitcoin reserve\u2019 strategy to use with $SOL. What does it all mean? Even as Solana takes aim at becoming the go-to blockchain for finance, top crypto presales set out to build on the blend of memes and finance provided by the Solana chain. Solana: Go-To Blockchain for Finance? Major companies like Upexi, Inc ($UPXI) are taking Michael Saylor\u2019s Bitcoin reserve strategy and applying it to Solana. Upexi purchased 77,879 $SOL, giving it a total of 679,677 $SOL valued at $121M. The company has gained roughly $24.5M from token appreciation so far, aided by a good month, performance-wise, from $SOL itself. &#160; Upexi isn\u2019t the only company looking to capitalize on Solana\u2019s success: SkyBridge Capital, led by Anthony Scaramucci, poured $50M into a Solana Staking ETF in Canada Apollo and Securitize partnered to launch tokenized credit funds on Solana and other blockchains SOL Strategies announced a $500M investment to facilitate SOL token acquisitions and partnerships Classover, an education company, will issue up to $500M in convertible notes to build a SOL treasury That\u2019s a lot of money starting to pour into Solana&#8217;s potential as a financial tool, instead of a simple platform for spamming new meme coins. Of course, degens being what they are, meme coins are still being spammed. A lot of them. A million of them, actually, just in May alone on Solana. Most of those launches fail almost immediately. But the sheer volume of new tokens launched demonstrates continued interest in Solana\u2019s speed and low fees, ideal factors for meme coin success. With a pump.fun token launch likely incoming, it\u2019s not like Solana\u2019s abandoning the meme coin world altogether. Instead, some of the most promising new crypto projects bring both sectors together. Snorter Token ($SNORT): Find 100x Opportunities On Telegram with Snorter Bot With so many tokens launching all the time, the question isn\u2019t \u2018will there be a 100x token.\u2019 The real question is \u2013 how do you find it? That\u2019s where the Snorter Token ($SNORT) and the Snorter Bot come in. Tons of Solana meme coins never make it to big CEX listings or major news coverage. Instead, they\u2019re traded on Telegram groups. If they do make it big, the best opportunities for buying low and selling high are long gone. Finding these underground opportunities takes a lot of effort, but thankfully, the Snorter Bot simplifies it all. Safety features like honeypot detection and rugpull alerts help minimize losses, while automated sniping and copy trading let you sniff out and snag the best opportunities. It\u2019s all powered by the $SNORT token, the native utility token for the Snorter Bot. This isn\u2019t a meme coin; it\u2019s a sophisticated trading bot designed to sort through the millions of Solana memes and find the real winners. That utility is driving a wave of interest in $SNORT, with well over $400K raised so far. The presale is in the early days, which makes it the perfect time to buy and stake your $SNORT tokens for an estimated 735% dynamic APY. Buy and stake now, claim your rewards at the token launch, and they\u2019ll be disbursed block-by-block over the next year. A full quarter of the token supply is reserved for product development, powering $SNORT into the future of Solana\u2019s meme coin development. Will the Snorter Bot Bridge the Gap Between Memes and Finance? With millions of dollars flowing into Solana and the $SOL token as a strategic reserve, there\u2019s room for a token that stays true to Solana\u2019s meme coin roots while also looking to the finance future. Do your own research \u2013 you\u2019ll need to decide for yourself. But given Solana\u2019s trajectory, $SNORT could be positioned perfectly. Don\u2019t miss out."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Botanix Launches Federated Sidechain with 16 Members",
+      "link": "https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_giant_robot_spider_with_big_matrix_code_ch_2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members\" rel=\"nofollow\"> </a></p> <p>Botanix launches a decentralized Bitcoin sidechain with a 16-node federation, using the Spiderchain protocol for EVM-compatible dApps. Mainnet set for Q3 2025.</p> <p>"
+    },
     {
       "title": "Matador Technologies Raises C$1.64M To Invest in Their Bitcoin Reserve",
       "link": "https://bitcoinmagazine.com/news/matador-technologies-raises-c1-64m-to-invest-in-their-bitcoin-reserve",
@@ -127,14 +132,14 @@
       "title": "JPMorgan to Offer Clients Financing Against Bitcoin & Crypto ETFs",
       "link": "https://bitcoinmagazine.com/news/jpmorgan-to-offer-clients-financing-against-bitcoin-crypto-etfs",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/JP-Morgan-Plans-to-Offer-Clients-Financing-Against-Crypto-ETFS.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/jpmorgan-to-offer-clients-financing-against-bitcoin-crypto-etfs\" rel=\"nofollow\">JPMorgan to Offer Clients Financing Against Bitcoin &#038; Crypto ETFs</a></p> <p>JPMorgan Chase &#38; Co. plans to allow its trading and wealth-management clients to use cryptocurrency-linked assets, including spot Bitcoin exchange-traded funds (ETFs), as collateral for loans, according to Bloomberg. The bank will begin with BlackRock\u2019s iShares Bitcoin Trust (IBIT), and additional ETFs are expected to be added over time. The policy will apply globally, spanning [&#8230;]</p> <p>"
-    },
-    {
-      "title": "BTCPay Server: The Backbone of Bitcoin Commerce, 2025",
-      "link": "https://bitcoinmagazine.com/business/btcpay-server-the-backbone-of-bitcoin-commerce-2025",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_young_modern_wizard_male_futuristic_clothi_0.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/business/btcpay-server-the-backbone-of-bitcoin-commerce-2025\" rel=\"nofollow\"> </a></p> <p>With plugins for Boltz swaps and WooCommerce, BTCPay Server\u2019s open-source platform supports merchants globally, no middleman required.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "'Bitcoin Is Michael Jordan', Says NBA Star Tristan Thompson\u2014So Who's Ethereum, Solana and XRP?",
+      "link": "https://decrypt.co/323727/bitcoin-michael-jordan-nba-star-tristan-thompson",
+      "summary": "NBA star Tristan Thompson spoke with at Bitcoin 2025, dishing on assets and athletes alike as he navigates the crypto space."
+    },
     {
       "title": "Donald Trump, Elon Musk Clash Over DOGE Sparks $53 Million Solana Meme Coin",
       "link": "https://decrypt.co/323837/donald-trump-elon-musk-doge-solana-meme-coin",
@@ -154,11 +159,6 @@
       "title": "Amazon to Spend $10 Billion on North Carolina Data Centers for AI Expansion",
       "link": "https://decrypt.co/323815/amazon-10-billion-north-carolina-data-centers-ai-expansion",
       "summary": "Amazon\u2019s AI expansion may boost jobs, but it risks concentrating innovation in Big Tech\u2019s hands, an expert told ."
-    },
-    {
-      "title": "Japanese Company Ispace's Probe Expected to Land On The Moon Tomorrow",
-      "link": "https://decrypt.co/323812/japanese-company-ispaces-probe-land-moon-tomorrow",
-      "summary": "The Tokyo-listed company aims to land its RESILIENCE probe on the moon Friday, marking its second attempt to reach the lunar surface."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethena\u2019s 17mln whale activity amid Coinbase listing: Reversal for ENA?",
+      "link": "https://ambcrypto.com/ethenas-17mln-whale-activity-amid-coinbase-listing-reversal-for-ena/",
+      "summary": "<img alt=\"Ethena&#039;s 17mln whale activity amid Coinbase listing: Reversal for ENA?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A wallet project-linked wallet moved ENA tokens to exchanges resulting in an 8% drop."
+    },
+    {
       "title": "XRP faces $2.2B unlock: Will its $2.14 support tumble under pressure?",
       "link": "https://ambcrypto.com/xrp-faces-2-2b-unlock-will-its-2-14-support-tumble-under-pressure/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-85-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP faces critical price pressure after a massive escrow unlock, with $2.14 acting as pivotal support."
@@ -208,11 +213,6 @@
       "title": "Playbet.io announce a new \u201cBonkers\u201d partnership with British Rapper and Icon Dizzee Rascal",
       "link": "https://ambcrypto.com/playbet-io-announce-a-new-bonkers-partnership-with-british-rapper-and-icon-dizzee-rascal/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"489\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-05-180233.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"740\" />Dizzee Rascal, the British rapper and icon known for his chart-topping hits over the last [&#8230;]"
-    },
-    {
-      "title": "Bitcoin treasury debt concerns \u2018are overblown,\u2019 exec asserts",
-      "link": "https://ambcrypto.com/bitcoin-treasury-debt-concerns-are-overblown-exec-asserts/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcointreasuries.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Most of Strategy's +$8B outstanding debt used to buy BTC will mature in 2027-2030."
     }
   ]
 }
