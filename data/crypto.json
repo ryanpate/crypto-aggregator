@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Senate Stablecoin Bill Likely to Win Massive Bipartisan Support, Dem Lawmaker Says",
+      "link": "https://www.coindesk.com/policy/2025/06/05/senate-stablecoin-bill-likely-to-win-massive-bipartisan-support-dem-lawmaker-says",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Threatens $100K, Crypto Losses Grow as Musk/Trump Feud Goes Nuclear",
+      "link": "https://www.coindesk.com/markets/2025/06/05/bitcoin-threatens-100k-crypto-losses-grow-as-musktrump-feud-goes-nuclear",
+      "summary": ""
+    },
+    {
       "title": "OFAC Sanctions Philippines-Based Tech Company For Facilitating Pig Butchering Schemes",
       "link": "https://www.coindesk.com/policy/2025/06/05/ofac-sanctions-philippines-based-tech-company-for-facilitating-pig-butchering-schemes",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Bitcoin ATM Operator CoinFlip Explores Potential $1B Sale: Bloomberg",
       "link": "https://www.coindesk.com/markets/2025/06/05/bitcoin-atm-operator-coinflip-explores-potential-1b-sale-bloomberg",
       "summary": ""
-    },
-    {
-      "title": "Trump Family Hits Magic Eden With Cease-and-Desist Over Crypto Wallet Plans: Bloomberg",
-      "link": "https://www.coindesk.com/policy/2025/06/05/trump-family-hits-magic-eden-with-cease-and-desist-over-crypto-wallet-plans-bloomberg",
-      "summary": ""
-    },
-    {
-      "title": "SOL Slips Below $150 as Whale Outflows Weigh on Market Sentiment",
-      "link": "https://www.coindesk.com/markets/2025/06/05/sol-slips-below-usd150-as-whale-outflows-weigh-on-market-sentiment",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Maple Finance expands to Solana, deploys yield-bearing stablecoin",
+      "link": "https://cointelegraph.com/news/maple-finance-expands-solana-yield-bearing-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNiNmQtYzBjYy03NGQwLThmMDAtZWY1NzU5Y2Y2NjQ4.jpg\" /></p><p>Maple\u2019s expansion to Solana is powered by Chainlink\u2019s CCIP, which allows data transfer between EVM and SVM ecosystems.</p>"
+    },
+    {
+      "title": "Institutional Bitcoin ETF holdings see first quarterly decline \u2014 Report",
+      "link": "https://cointelegraph.com/news/institutional-bitcoin-etf-holdings-see-first-quarterly-decline-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJkYzEtZjQyZC03NTg2LWE5MGUtMTVlYTFhYjI3ZDEw.jpg\" /></p><p>According to CoinShares, price depreciation, not selling pressure, was the main factor behind the drop in institutional BTC ETF exposure.</p>"
+    },
+    {
+      "title": "Circle stock jumps 167% on NYSE debut",
+      "link": "https://cointelegraph.com/news/circle-stock-price-jumps-167-in-first-day-of-trading-after-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVhNDItYjllZS03ODcwLThhNWYtNmMzNzM0OGMwMmYw.jpg\" /></p><p>Circle had boosted its IPO to a range of $1.05 billion on June 4 as investor demand grew significantly.</p>"
+    },
     {
       "title": "Arca exec drops F-bomb on Circle in letter trashing its IPO",
       "link": "https://cointelegraph.com/news/arca-exec-trashes-circle-ipo-open-letter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "WLFI sends cease-and-desist letter over \u2018unauthorized\u2019 Trump wallet \u2014 Report",
       "link": "https://cointelegraph.com/news/donald-trump-world-liberty-financial-cease-desist-letter-crypto-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQxN2ItNzg2MC03Y2RiLTllYTMtNDJjOTczNDJkYjRm.jpg\" /></p><p>World Liberty Financial reportedly sent a letter after the company behind Donald Trump\u2019s memecoin and Magic Eden announced plans to launch an \u201cofficial $TRUMP wallet.\u201d</p>"
-    },
-    {
-      "title": "Global Ledger detects $15M of Garantex assets flowing despite Tether\u2019s freeze",
-      "link": "https://cointelegraph.com/news/global-ledger-detects-garantex-assets-tether-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQxMjYtNjU1Zi03MDVjLWE0NWEtZGE4MDNkYjQ5MTAw.jpg\" /></p><p>The situation involving Garantex \u201cundermines the illusion of control that many still cling to,\u201d according to Global Ledger co-founder and CEO Lex Fisun.</p>"
-    },
-    {
-      "title": "Lummis: Fed confirmation signals \u2019brighter future for digital assets\u2019",
-      "link": "https://cointelegraph.com/news/lummis-fed-confirmation-signals-brighter-future-for-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwYTItM2NjMS03N2VhLWE1YjItYjYxNjE3ZjVkMzMx.jpg\" /></p><p>Wyoming Senator Cynthia Lummis was one of the few voices in Congress tying Michelle Bowman\u2019s confirmation to a win for cryptocurrency policies.</p>"
-    },
-    {
-      "title": "Romania&#039;s postal service installs first Bitcoin ATM",
-      "link": "https://cointelegraph.com/news/romania-post-service-install-first-bitcoin-atm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwMWQtZmU5YS03MjA4LWExY2EtNjBjODMwMDIwZmZj.jpg\" /></p><p>Installing Bitcoin ATMs inside post office locations is part of a broader push to modernize Romania\u2019s postal service with digital tech.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin bulls must guard key $95.6k support as veteran holders cash in on gains",
+      "link": "https://cryptoslate.com/bitcoin-bulls-must-guard-key-95-6k-support-as-veteran-holders-cash-in-on-gains/",
+      "summary": "<p>Bitcoin (BTC) is suffering pressure from veteran holders securing gains and must hold the key $95,600 support level to remain bullish if it breaks below six-figures, according to a June 5 report by Glassnode. The report highlighted that after breaking below $103,700, the next major level of support is the psychological price level of $100,000 [&#8230;]</p> <p>"
+    },
+    {
+      "title": "WLFI issues cease and desist notice to creators of \u2018Official Trump Wallet\u2019",
+      "link": "https://cryptoslate.com/wlfi-issues-cease-and-desist-notice-to-creators-of-official-trump-wallet/",
+      "summary": "<p>World Liberty Financial (WLFI), the crypto venture associated with President Donald Trump and members of his family, has issued a cease-and-desist letter to the creators of a newly announced Trump-branded crypto wallet, Bloomberg News reported on June 5, citing a person familiar with the matter. The letter, reportedly sent to Fight Fight Fight LLC, the [&#8230;]</p> <p>"
+    },
     {
       "title": "Uber eyes stablecoins for faster settlements, lower FX costs for global operations",
       "link": "https://cryptoslate.com/uber-eyes-stablecoins-for-faster-settlements-lower-fx-costs-for-global-operations/",
@@ -68,19 +78,14 @@
       "title": "Circle stock price skyrockets 234% in less than 30 minutes causing multiple trading halts",
       "link": "https://cryptoslate.com/circle-stock-price-skyrockets-234-in-less-than-30-minutes-causing-multiple-trading-halts/",
       "summary": "<p>Circle&#8217;s (CRCL) shares more than tripled minutes into their New York Stock Exchange debut on June 5, touching $103.75 less than 30 minutes following its launch and resulting in several volatility halts. The price peak is 234% above the initial public offering (IPO) price of $31, which captured over $1 billion by selling 34 million [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Anthropic CEO calls for AI transparency, argues against Trump bill\u2019s decade-long state regulatory freeze",
-      "link": "https://cryptoslate.com/anthropic-ceo-calls-for-ai-transparency-argues-against-trump-bills-decade-long-state-regulatory-freeze/",
-      "summary": "<p>Anthropic CEO Dario Amodei urged US lawmakers to write transparency rules for artificial intelligence companies instead of granting a decade-long freeze on state regulation proposed in President Donald Trump\u2019s technology bill. In a June 5 guest essay in The New York Times, Amodei described an internal evaluation in which Anthropic\u2019s newest model threatened to expose [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase data breach spills offline as victims get scam mail",
-      "link": "https://cryptoslate.com/coinbase-data-breach-spills-offline-as-victims-get-scam-mail/",
-      "summary": "<p>The fallout from Coinbase\u2019s recent data breach has reached a troubling new phase as victims report receiving fraudulent physical letters in the mail, exploiting their exposed personal information to advance a credit protection scam. The Block founder Mike Dudas sounded the alarm in a social media post on June 5, warning that he received a [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Hash Ribbons Indicating Prime Buying Opportunity, Analyst Says",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-hash-ribbons-indicating-prime-buying-opportunity-analyst-says/",
+      "summary": "Bitcoin (BTC) remains range-bound in the mid-$100,000s, showing no clear directional bias. However, the Hash Ribbons indicator is now flashing a fresh buy signal, suggesting that the top cryptocurrency may be gearing up for its next upward move. Bitcoin Hash Ribbons Flash Buy Signal According to a recent CryptoQuant Quicktake post by contributor Darkfost, Bitcoin\u2019s Hash Ribbons are signalling a potential prime buying opportunity for the leading digital asset. This signal coincides with Bitcoin\u2019s hashrate reaching new all-time highs (ATH). Related Reading: Bitcoin Mining Giant Abandons Full-Hold Strategy, Unloads $40M In Crypto For the uninitiated, Bitcoin Hash Ribbons is an on-chain indicator that analyzes miner stress by comparing the 30-day and 60-day moving averages of Bitcoin\u2019s hashrate. When the short-term average crosses above the long-term average after a period of decline, it signals that miner capitulation is ending &#8211; often marking a strong long-term buying opportunity. Such signals can emerge when mining becomes unprofitable for certain miners, forcing them to sell their BTC holdings to stay afloat. These sell-offs may temporarily pressure the price, but historically they have created attractive long-term buying opportunities. In their analysis, Darkfost notes that while the current signal is bullish from a long-term perspective, it could lead to a short-term pullback in BTC price. However, he emphasizes that any dip should be viewed as a chance to accumulate. Darkfost also pointed out that the Hash Ribbons indicator has historically been reliable, with the exception of 2021 during the China mining ban. They shared the following chart illustrating how the indicator is currently showing a strong buy signal. Is BTC Headed For A Crash? While the Hash Ribbons suggest a favorable long-term setup, some analysts warn that the short-term correction could be deeper than expected. For instance, crypto analyst Xanrox used the Fibonacci levels to forecast that BTC may tumble as low as $98,000. Related Reading: Bitcoin Warning Signs? Long-Term Holders Exit While Retail Buyers Rush In Similarly, analyst Jelle noted that Bitcoin may face \u201cone last speed bump\u201d before launching a major rally to $140,000. Meanwhile, more pessimistic voices continue to warn of a dramatic crash, with some speculating that BTC could fall below $10,000 &#8211; a view seen as increasingly unlikely by most market participants. Despite the varying predictions, fresh on-chain data points to a healthy BTC market in the near to medium term. For instance, CryptoQuant contributor Amr Taha recently highlighted that the derivatives market has undergone a reset, with funding rates stabilizing around neutral levels. Similarly, Fundstrat\u2019s Head of Research, Tom Lee foresees BTC surging to as high as $250,000 by the end of the year. At press time, BTC trades at $105,367, up 0.5% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant and TradingView.com"
+    },
     {
       "title": "Messari Flags XRP\u2019s Silent Rise As A Treasury Favorite\u2014Here\u2019s Why",
       "link": "https://www.newsbtc.com/altcoin/messari-flags-xrps-silent-rise-as-a-treasury-favorite-heres-why/",
@@ -100,14 +105,14 @@
       "title": "Solana Horizontal Support Under Pressure \u2013 Bearish Target At $142",
       "link": "https://www.newsbtc.com/news/solana/solana-horizontal-support-under-pressure-bearish-target-at-142/",
       "summary": "Solana (SOL) is currently navigating a challenging environment as the broader crypto market experiences a cooldown. After an impressive run earlier this year, momentum has slowed significantly, and SOL is struggling to reclaim the $160 level with conviction. The lack of strong demand has been evident in recent sessions, as buying pressure fades and volume remains low across major altcoins. Related Reading: Ethereum Consolidates Against BTC \u2013 Altseason Hopes Hinge On ETH/BTC Breakout Despite this cooling phase, many investors remain optimistic. A growing number of market participants believe Solana could lead the next altseason once conditions stabilize and liquidity returns to the market. Historically, SOL has shown the ability to recover rapidly and outperform in bullish phases, making it one of the top contenders for explosive upside when sentiment shifts. However, in the short term, caution prevails. Top analyst Carl Runefelt has highlighted a key technical development, noting that Solana might be on the verge of breaking a horizontal support zone. This event could trigger further downside in the near term. If this support fails, traders should prepare for increased volatility. Still, the broader consensus remains that SOL\u2019s structural strength and ecosystem development position it well for long-term upside once macro conditions align. Solana Faces Bear Flag Breakdown Risk As Uncertainty Grows Solana has been locked in a tight range just below the $160 mark, struggling to reclaim key levels despite multiple attempts. For several days, momentum has faded, and with global markets under pressure, traders are bracing for increased volatility. The broader crypto market is losing steam as Bitcoin and Ethereum fail to sustain upward moves, which puts added pressure on altcoins like Solana. Geopolitical tensions between the U.S. and China continue to weigh on investor sentiment, with ongoing tariff disputes and rising bond yields fueling macroeconomic uncertainty. The US bond market, in particular, is flashing signs of stress, adding to the caution in risk-on assets. If these conditions persist, altcoins may face a challenging period as capital retreats to more stable assets like Bitcoin or exits the market altogether. Runefelt recently highlighted a key technical pattern on Solana\u2019s chart\u2014a bear flag forming around horizontal support. According to his analysis, this structure could break down any hour now, which would confirm the bearish setup and potentially send SOL down toward the $142 level. This target aligns with previous support zones and could act as a temporary bottom if the broader market stabilizes. Despite the short-term risks, long-term sentiment around Solana remains cautiously optimistic. The network\u2019s continued development and strong DeFi presence could fuel a recovery once market conditions improve. For now, however, traders are closely watching the $160 resistance and the $150\u2013$152 support area, which could determine the next directional move. A clean break below support would likely trigger a wave of selling, while a reclaim of the $160 level could invalidate the bearish setup and open the door for a bullish reversal. Related Reading: Solana Analyst Sets $300 Target \u2013 Can Bulls Sustain A Rally? SOL Tests Key Support As Bearish Momentum Builds Solana (SOL) is currently trading at $152.62 on the 4-hour chart, testing a critical horizontal support zone as bearish momentum continues. The recent price action shows a clear downtrend, with lower highs and lower lows forming since the rejection from the $176\u2013$180 area in late May. All key moving averages\u201434 EMA, 50 SMA, 100 SMA, and 200 SMA\u2014are positioned above the current price, signaling short-term weakness and a lack of bullish momentum. Volume has picked up slightly as price nears support, suggesting increasing market interest at this level. However, the failure to break above the 34 EMA (currently at $157.70) reinforces the view that sellers are still in control. The flattening 200 SMA at $165.31 and declining 50 SMA around $159.82 indicate that SOL must reclaim the $160\u2013$165 zone to regain strength. Related Reading: Ethereum Daily Chart Signals Strength Amid Market Uncertainty \u2013 Analyst If the $150\u2013$152 support range fails to hold, Solana could break down and target the next key support area around $142, in line with the projected move of the bear flag pattern identified by analysts. For now, bulls must defend this level to prevent deeper losses and keep hopes of a recovery alive in the near term. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "Crypto Self Custody Is the Future, and People Say Best Wallet Leads the Way",
-      "link": "https://www.newsbtc.com/news/crypto-self-custody-is-the-future-best-wallet-leads-the-way/",
-      "summary": "What does crypto want to be when it grows up? Centralized exchanges like Coinbase have long marketed themselves as crypto&#8217;s answer to convenience. User-friendly, regulated, and custodial. Just give them the keys and let them drive. They&#8217;ll handle all the boring details \u2013 like on/off ramps, UI, integrated swapping, and little things like taking control of your crypto. And in return, all you need to do is trust. But increasingly, that deal sounds like a bad one. The trade-off between trust and control is no longer worth it. Trust Coinbase and other custodial platforms too much, and what do you get? Hacks and data breaches, among other things. There\u2019s a better path forward \u2013 and more and more crypto users are looking for it. A Better Custody Deal So, what should the future of crypto be? Crypto should still be easy. It should still be intuitive. But it should also be private, safe, secure, and truly self-custodial. After all, the old adage of \u2018not your keys, not your crypto\u2019 shouldn&#8217;t just be a slogan \u2013 it is, and should be, the foundation of decentralized finance. That&#8217;s where wallets like Best Wallet come in. Unlike centralized platforms, self-custody crypto wallets like Best Wallet don&#8217;t hold your private keys. You have complete control of your assets at all times. There are no middlemen, no single points of failure, and no need to put your trust in third parties. But what about the convenience of swapping crypto, sending crypto, and exploring new crypto opportunities all from one app? Bridging the Gap: Self-Custody Meets Convenience The future of crypto points to tools that combine the convenience of centralized exchanges like Coinbase, including KYC and AML requirements, with the security of self-custody, without sacrificing usability. We&#8217;ve already seen this with tools like Railgun, which complies with KYC while enabling private transactions on DeFi platforms, and which Vitalik Buterin just used to transfer $2.6M in crypto. While transactions of that size may well be just another day in the office for the Ethereum founder, it demonstrates how increasingly important privacy, control, and functionality are in the developing crypto economy. This is nothing new; it&#8217;s often the people most deeply involved in tech who understand just how important it is to control your own data (and your own crypto). Remember Zuckerberg\u2019s camera? That was the time he was promoting Meta, and everyone realized he&#8217;d taped across his laptop&#8217;s microphone and camera. Was that paranoia or an understanding of just how vulnerable our data is? That&#8217;s the balance that Best Wallet wants to deliver, beating MetaMask at its own game and dominating the Web3 self-custody wallet market. Best Wallet Token ($BEST) \u2013 The Self-Custody Crypto Wallet Presale Token Crypto wallets aren\u2019t just handy places to stash some spare Bitcoin, at least not anymore. The best crypto wallets \u2013 like Best Wallet \u2013 serve as all-in-one control hubs for crypto investors, whether you&#8217;re operating multiple wallets, swapping tokens, ot investing in crypto presales. And that&#8217;s not all. The Best Wallet ecosystem is supercharged by its own token, $BEST. Best Wallet Token holders get: Lower transaction fees Higher staking rewards Earlier presale access Eligibility for bonus crypto airdrops (such as BTC Bull Token\u2019s Bitcoin airdrop) Best Wallet and the $BEST token are building the crypto future that Buterin and others are looking for: interconnected, seamless, and self-custodial. It&#8217;s everything you could want or ever need from a crypto wallet. You can manage your portfolio, browse upcoming token launches (including the best new meme coins), and spend your crypto in real life with the upcoming Best Card. Buying, selling, and swapping are as easy as tapping a few buttons. And all this is secured with multi-party computation (MPC) and biometric authentication to keep your crypto safe without sacrificing ease of use. The Best Wallet Token presale has raised over $13.1M, with tokens currently priced at $0.025135. That could rise to $0.035215 by the end of the year, according to our $BEST price prediction, delivering gains of 40% to current presale investors. Learn more about how to buy Best Wallet Token with our guide. Best Wallet: Building the Self-Custodial Future of Crypto No longer does crypto have to choose between usability and control. Tools like Best Wallet are showing that self-custody platforms can match \u2013 or even beat \u2013 the convenience that centralized exchanges offer while staying true to the core values of crypto. As more self-custodial models appear in a post-Coinbase world, Best Wallet wants to lead the charge and dominate this $11B sector. If it succeeds, it will be by delivering a product that is convenient and completely crypto-native. Always do your own research before investing in crypto; this isn\u2019t financial advice. Crypto self-custody is the future. Best Wallet is helping to build that future."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin vs Stablecoins: Bitcoin is an Unreplicable Lifeline in Authoritarian Regimes",
+      "link": "https://bitcoinmagazine.com/politics/bitcoin-vs-stablecoins-bitcoin-is-an-unreplicable-lifeline-in-authoritarian-regimes",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Authoritarian-leader.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/politics/bitcoin-vs-stablecoins-bitcoin-is-an-unreplicable-lifeline-in-authoritarian-regimes\" rel=\"nofollow\"> </a></p> <p>Bitcoin operates beyond any government\u2019s grasp. Its value isn\u2019t in replacing stablecoins \u2014 it\u2019s in doing what they fundamentally cannot do.</p> <p>"
+    },
     {
       "title": "Bitcoin Life Insurer, Meanwhile, Becomes First Company to Publish Audited Financials Denominated in Bitcoin",
       "link": "https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-becomes-first-company-to-publish-audited-financials-denominated-in-bitcoin",
@@ -127,14 +132,24 @@
       "title": "Matador Technologies Raises C$1.64M To Invest in Their Bitcoin Reserve",
       "link": "https://bitcoinmagazine.com/news/matador-technologies-raises-c1-64m-to-invest-in-their-bitcoin-reserve",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Matador-Technologies-Raising-C1-Million-to-Invest-in-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/matador-technologies-raises-c1-64m-to-invest-in-their-bitcoin-reserve\" rel=\"nofollow\"> </a></p> <p>Matador Technologies announced it raised C$1,644,300 across the issuance of 2,652,097 units to add more bitcoin to their reserve.</p> <p>"
-    },
-    {
-      "title": "Support The Blockchain Regulatory Certainty Act (BRCA) To Protect Noncustodial Services",
-      "link": "https://bitcoinmagazine.com/takes/support-the-blockchain-regulatory-certainty-act-brca-to-protect-noncustodial-services",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Blockchain-Regulatory-Certainty-Act-Save-Our-Wallets-Bitcoin-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/takes/support-the-blockchain-regulatory-certainty-act-brca-to-protect-noncustodial-services\" rel=\"nofollow\"> </a></p> <p>Call your local elected officials and tell them to support the BRCA, which protects developers of noncustodial technology as well as a variety of services that preserve privacy and make it easier to scale Bitcoin.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Trump Crypto Wallet Goes Dark Following Cease and Desist",
+      "link": "https://decrypt.co/323914/trump-crypto-wallet-goes-dark-cease-and-desist",
+      "summary": "The wallet, launched by Trump\u2019s meme coin business partners, has faced pushback from his sons, who plan to launch a similar product."
+    },
+    {
+      "title": "Bitcoin, Solana and Dogecoin Plunge as Circle Stock Surges After IPO",
+      "link": "https://decrypt.co/323866/bitcoin-solana-dogecoin-plunge-circle-stock-surges",
+      "summary": "Bitcoin is back near $100K as major alts like Ethereum, Solana, and Dogecoin dive amid Trump and Musk drama\u2014but Circle had a great day."
+    },
+    {
+      "title": "\u2018They Make No Money\u2019: Here\u2019s What Tether\u2019s CEO Had to Say About Circle Before Its Massive IPO",
+      "link": "https://decrypt.co/323893/they-make-no-money-tethers-ceo-circle-massive-ipo",
+      "summary": "During an April interview, Tether CEO Paolo Ardoino unloaded on competitor Circle and its big Wall Street plans\u2014which culminated today, to massive success."
+    },
     {
       "title": "Did a Solo Bitcoin Miner Really Win a $326,000 Reward?",
       "link": "https://decrypt.co/323879/did-a-solo-bitcoin-miner-really-win-a-326000-reward",
@@ -144,21 +159,6 @@
       "title": "Circle's \u2018Moon Landing Moment\u2019 to Accelerate Wall Street's Stablecoin Embrace: Analysts",
       "link": "https://decrypt.co/323876/circles-moon-landing-moment-accelerate-wall-streets-stablecoin-embrace-analysts",
       "summary": "\u201cYou don\u2019t see that often,\u201d Bitwise\u2019s Juan Leon remarked."
-    },
-    {
-      "title": "Dad Livestreams Birth of Baby 'Solana' to Pump Meme Coin\u2014Then It Got Weird",
-      "link": "https://decrypt.co/323719/dad-livestreams-baby-solana-pump-meme-coin",
-      "summary": "The birth went just fine. But the meme coin? There were complications."
-    },
-    {
-      "title": "Trump Media Gets Closer to Truth Social Bitcoin ETF Debut With SEC Filing",
-      "link": "https://decrypt.co/323864/trump-media-gets-closer-to-truth-social-bitcoin-etf-debut-with-sec-filing",
-      "summary": "Yorkville America Digital, the same company through which the Trump Media &#038; Technology Group and Crypto.com plan to debut a suite of \u201cAmerica first\u201d funds, will manage the Bitcoin ETF."
-    },
-    {
-      "title": "USDC Issuer Circle Halted on NYSE Debut as CRCL Triples IPO Price",
-      "link": "https://decrypt.co/323854/usdc-issuer-circle-halted-nyse-debut-crcl-triples-ipo-price",
-      "summary": "Trading of CRCL shares was almost immediately halted on NYSE as the stock tripled the company's IPO price."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Maker: 60% holders in profit, whales stake big \u2013 So why did MKR dip 5%?",
+      "link": "https://ambcrypto.com/maker-60-holders-in-profit-whales-stake-big-so-why-did-mkr-dip-5/",
+      "summary": "<img alt=\"Maker: 60% holders in profit, whales stake big - So why did MKR dip 5%?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-1-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whales continued to stake SKY, with Maker breaking above a key trendline resistance on the weekly price chart."
+    },
+    {
       "title": "VIRTUAL: Smart money dumps $1.2mln, then buys back \u2013 What\u2019s the plan?",
       "link": "https://ambcrypto.com/virtual-smart-money-dumps-1-2mln-then-buys-back-whats-the-plan/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250605_120157_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Top-of-mind interest in VIRTUAL has benefited the asset."
@@ -208,11 +213,6 @@
       "title": "Solana holders panic sell, dump $3.55B \u2013 What can save SOL now?",
       "link": "https://ambcrypto.com/solana-holders-panic-sell-dump-3-55b-what-can-save-sol-now/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250605_100222_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL maintains bullish potential as market sentiment shifts."
-    },
-    {
-      "title": "SEC delays decision on SUI Spot ETF \u2013 What it means for crypto investors",
-      "link": "https://ambcrypto.com/sec-delays-decision-on-sui-spot-etf-what-it-means-for-crypto-investors/",
-      "summary": "<img alt=\"SEC delays decision on SUI Spot ETF - What it means for crypto investors\" class=\"attachment-full size-full wp-post-image\" height=\"583\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Canary-SUI-ETF-delayed.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1036\" />Is the SEC\u2019s cautious stance protecting investors or stifling innovation in the crypto ETF space?"
     }
   ]
 }
