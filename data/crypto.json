@@ -1,32 +1,37 @@
 {
   "CoinDesk": [
     {
-      "title": "Plume Launches Genesis Mainnet to Bring Real-World Assets to DeFi",
-      "link": "https://www.coindesk.com/tech/2025/06/05/plume-launches-genesis-mainnet-to-bring-real-world-assets-to-defi",
+      "title": "Ex-Google Chief Eric Schmidt Backs Firms Behind Blockchain Credit Bureau",
+      "link": "https://www.coindesk.com/business/2025/06/05/ex-google-chief-eric-schmidt-backs-firms-behind-blockchain-credit-bureau",
       "summary": ""
     },
     {
-      "title": "Crypto for Advisors: Breaking Down Solana",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/06/03/crypto-for-advisors-breaking-down-solana",
+      "title": "Ethereum Foundation Unveils New Treasury Policy With 15% Opex Cap",
+      "link": "https://www.coindesk.com/tech/2025/06/05/ethereum-foundation-unveils-new-treasury-policy-with-15-opex-cap",
       "summary": ""
     },
     {
-      "title": "TON Surges 3%, Outperforming Declining CoinDesk 20",
-      "link": "https://www.coindesk.com/markets/2025/06/05/ton-surges-3-outperforming-coindesk-20",
+      "title": "U.S. Seizes Darknet, Internet Domains, Crypto Funds Tied to Illegal Trading in Credit Card Data",
+      "link": "https://www.coindesk.com/policy/2025/06/05/us-seizes-darknet-internet-domains-crypto-funds-tied-to-illegal-trading-in-credit-card-data",
       "summary": ""
     },
     {
-      "title": "Trump\u2019s Truth Social Takes Next Step in Launching Spot Bitcoin ETF",
-      "link": "https://www.coindesk.com/policy/2025/06/05/trump-s-truth-social-takes-next-step-in-launching-spot-bitcoin-etf",
+      "title": "Crypto Lender Maple Finance Expands to Solana With Chainlink",
+      "link": "https://www.coindesk.com/business/2025/06/05/crypto-lender-maple-finance-expands-to-solana-with-chainlink",
       "summary": ""
     },
     {
-      "title": "Galaxy, Fireblocks to Operate Nodes on Bitcoin Layer-2 Botanix",
-      "link": "https://www.coindesk.com/tech/2025/06/05/galaxy-fireblocks-to-operate-nodes-on-bitcoin-layer-2-botanix",
+      "title": "U.S. Federal Reserve's New Supervision Chief Will Wield Crypto Authority",
+      "link": "https://www.coindesk.com/policy/2025/06/05/u-s-federal-reserve-s-new-supervision-chief-will-wield-crypto-authority",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "How long will Bitcoin\u2019s price consolidation last?",
+      "link": "https://cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg\" /></p><p>Bitcoin\u2019s consolidation could end when BTC price takes out liquidity on either side and overcomes resistance at $107K.</p>"
+    },
     {
       "title": "How $220M was stolen in minutes: Understanding the Cetus DEX exploit on Sui",
       "link": "https://cointelegraph.com/explained/how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "How to set up stop-loss and take-profit orders",
       "link": "https://cointelegraph.com/news/how-to-set-up-stop-loss-and-take-profit-orders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjliZGYtNWYxYi03ZmY1LTk0MWQtMTllZGVlNzc1NWM1.jpg\" /></p><p>Stop-loss and take-profit orders help Bitcoin traders lock in gains and cut losses automatically. They\u2019re essential tools for managing risk in a 24/7, fast-moving market.</p>"
-    },
-    {
-      "title": "Zebec buys compliance firm Gatenox ahead of MiCA, FCA regulatory push",
-      "link": "https://cointelegraph.com/news/zebec-gatenox-acquisition-web3-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwMGEtNjE3Ny03YjMyLWJiOTgtMjI2YWU2YTNmNTVm.jpg\" /></p><p>Zebec\u2019s move reflects a shift toward embedding compliance at the protocol level, with firms facing more stringent regulatory requirements.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "VerifiedX Launches Vault Accounts \u2013 Setting a New Standard for Bitcoin Security",
+      "link": "https://cryptoslate.com/verifiedx-launches-vault-accounts-setting-a-new-standard-for-bitcoin-security/",
+      "summary": "<p>VerifiedX, the pioneering decentralized Layer 1 blockchain protocol, has officially launched Vault Accounts, a groundbreaking on-chain custody solution that redefines crypto security and user control \u2014 particularly for Bitcoin holders. Unlike traditional custodial wallets or smart contract-based solutions, Vault Accounts are fully native to the VerifiedX network, offering an unmatched suite of features including time-locked [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Circle makes Wall Street debut as first major stablecoin issuer on NYSE",
+      "link": "https://cryptoslate.com/circle-makes-wall-street-debut-as-first-major-stablecoin-issuer-on-nyse/",
+      "summary": "<p>Circle, the issuer of the USDC stablecoin, officially began trading on the New York Stock Exchange (NYSE) on June 5 under the ticker symbol CRCL. The listing milestone marks a significant milestone for the firm as it becomes one of the few major crypto-native companies to go public through a traditional listing. Circle CEO Jeremy [&#8230;]</p> <p>"
+    },
     {
       "title": "Total crypto trading volume hits $80 trillion over last 12 months",
       "link": "https://cryptoslate.com/insights/total-crypto-trading-volume-hits-80-trillion-over-last-12-months/",
@@ -68,16 +78,6 @@
       "title": "Aave\u2019s USDT liquidity takes a hit after Justin Sun-linked HTX\u2019s $570 million withdrawal",
       "link": "https://cryptoslate.com/aaves-usdt-liquidity-takes-a-hit-after-justin-sun-linked-htxs-570-million-withdrawal/",
       "summary": "<p>Aave, the largest decentralized lending protocol, has experienced a sharp drop in USDT liquidity to under $100 million following a massive withdrawal by a wallet linked to HTX, a crypto exchange connected to Justin Sun. According to on-chain analyst EmberCN, the wallet removed $570 million USDT from Aave&#8217;s lending pool within three hours, slashing the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bluebird gold mining company embraces Bitcoin in bold shift from tradition, shares soar 60%",
-      "link": "https://cryptoslate.com/bluebird-gold-mining-company-embraces-bitcoin-in-bold-shift-from-gold-shares-soar-60/",
-      "summary": "<p>Bluebird Mining Ventures Ltd., a London-listed gold exploration company with operations across Asia, has unveiled plans to adopt Bitcoin as part of its treasury management strategy. The firm announced the move on June 5 in a post on X (formerly Twitter), signaling a significant departure from the traditional capital allocation models in the UK mining [&#8230;]</p> <p>"
-    },
-    {
-      "title": "US takes down 145 domains linked to $17M darknet marketplace and seize crypto wallets",
-      "link": "https://cryptoslate.com/us-takes-down-145-domains-linked-to-17m-darknet-marketplace-stealing-crypto-and-credit-card-data/",
-      "summary": "<p>US law enforcement agencies seized 145 domains and crypto linked to BidenCash, a darknet marketplace known for selling stolen credit card data, and personal information, according to a June 4 statement. The takedown followed a court-approved investigation that targeted the platform\u2019s infrastructure. The seized domains now redirect users to a server controlled by the authorities, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,9 +109,19 @@
   ],
   "Bitcoin Magazine": [
     {
-      "title": "Botanix Launches Federated Sidechain with 16 Members",
+      "title": "Bitcoin Life Insurer, Meanwhile, Becomes First Company to Publish Audited Financials Denominated in Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-becomes-first-company-to-publish-audited-financials-denominated-in-bitcoin",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Meanwhile-Insurance.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-becomes-first-company-to-publish-audited-financials-denominated-in-bitcoin\" rel=\"nofollow\"> </a></p> <p>Meanwhile Insurance Bitcoin (Bermuda) Limited (\u201cMeanwhile\u201d) announced it has become the first company in the world to release externally audited financial statements denominated entirely in Bitcoin. According to the announcement, the company reported 220.4 BTC in assets and 25.29 BTC in net income for 2024, a 300% year over year increase. \u201cWe\u2019ve just made history [&#8230;]</p> <p>"
+    },
+    {
+      "title": "President Trump\u2019s Truth Social Files S-1 Form For Bitcoin ETF",
+      "link": "https://bitcoinmagazine.com/news/president-trumps-truth-social-files-s-1-form-for-bitcoin-etf",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Eric-Trump-Said-Everybody-Wants-Bitcoin.-Everybody-is-Buying-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/president-trumps-truth-social-files-s-1-form-for-bitcoin-etf\" rel=\"nofollow\">President Trump&#8217;s Truth Social Files S-1 Form For Bitcoin ETF</a></p> <p>Truth Social filed for an S-1 Form for a Bitcoin ETF.</p> <p>"
+    },
+    {
+      "title": "Botanix Launches Federated Sidechain with 16 Members\u00a0On Testnet",
       "link": "https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_giant_robot_spider_with_big_matrix_code_ch_2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members\" rel=\"nofollow\"> </a></p> <p>Botanix launches a decentralized Bitcoin sidechain with a 16-node federation, using the Spiderchain protocol for EVM-compatible dApps. Mainnet set for Q3 2025.</p> <p>"
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_giant_robot_spider_with_big_matrix_code_ch_2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members\" rel=\"nofollow\"> </a></p> <p>Botanix launches a decentralized Bitcoin sidechain on testnet with a 16-node federation, using the Spiderchain protocol for EVM-compatible dApps. Mainnet set for Q3 2025.</p> <p>"
     },
     {
       "title": "Matador Technologies Raises C$1.64M To Invest in Their Bitcoin Reserve",
@@ -122,19 +132,14 @@
       "title": "Support The Blockchain Regulatory Certainty Act (BRCA) To Protect Noncustodial Services",
       "link": "https://bitcoinmagazine.com/takes/support-the-blockchain-regulatory-certainty-act-brca-to-protect-noncustodial-services",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Blockchain-Regulatory-Certainty-Act-Save-Our-Wallets-Bitcoin-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/takes/support-the-blockchain-regulatory-certainty-act-brca-to-protect-noncustodial-services\" rel=\"nofollow\"> </a></p> <p>Call your local elected officials and tell them to support the BRCA, which protects developers of noncustodial technology as well as a variety of services that preserve privacy and make it easier to scale Bitcoin.</p> <p>"
-    },
-    {
-      "title": "Bitcoin Layer 2: The Key To Scaling Bitcoin",
-      "link": "https://bitcoinmagazine.com/technical/bitcoin-layer-2-the-key-to-scaling-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Layer2-Introduction.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/bitcoin-layer-2-the-key-to-scaling-bitcoin\" rel=\"nofollow\"> </a></p> <p>Bitcoin and other blockchains are robust and decentralized systems, but they do not scale. In order to make them work, a layered approach is necessary.</p> <p>"
-    },
-    {
-      "title": "JPMorgan to Offer Clients Financing Against Bitcoin & Crypto ETFs",
-      "link": "https://bitcoinmagazine.com/news/jpmorgan-to-offer-clients-financing-against-bitcoin-crypto-etfs",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/JP-Morgan-Plans-to-Offer-Clients-Financing-Against-Crypto-ETFS.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/jpmorgan-to-offer-clients-financing-against-bitcoin-crypto-etfs\" rel=\"nofollow\">JPMorgan to Offer Clients Financing Against Bitcoin &#038; Crypto ETFs</a></p> <p>JPMorgan Chase &#38; Co. plans to allow its trading and wealth-management clients to use cryptocurrency-linked assets, including spot Bitcoin exchange-traded funds (ETFs), as collateral for loans, according to Bloomberg. The bank will begin with BlackRock\u2019s iShares Bitcoin Trust (IBIT), and additional ETFs are expected to be added over time. The policy will apply globally, spanning [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Circle's USDC Likely to Remain DeFi's Go-To Stablecoin: Compass Point",
+      "link": "https://decrypt.co/323843/circles-usdc-likely-remain-defis-go-to-stablecoin-compass-point",
+      "summary": "Circle\u2019s USDC stablecoin has a dominant presence across the crypto industry\u2019s growing number of decentralized exchanges, lending protocols, and other DeFi settings, the analysts say."
+    },
     {
       "title": "'Bitcoin Is Michael Jordan', Says NBA Star Tristan Thompson\u2014So Who's Ethereum, Solana and XRP?",
       "link": "https://decrypt.co/323727/bitcoin-michael-jordan-nba-star-tristan-thompson",
@@ -154,14 +159,14 @@
       "title": "Hong Kong Opens Door to Crypto Derivatives in Bid to Rival Global Hubs",
       "link": "https://decrypt.co/323833/hong-kong-crypto-derivatives",
       "summary": "Hong Kong may soon be able to trade crypto derivatives thanks to the securities regulator's new plan."
-    },
-    {
-      "title": "Amazon to Spend $10 Billion on North Carolina Data Centers for AI Expansion",
-      "link": "https://decrypt.co/323815/amazon-10-billion-north-carolina-data-centers-ai-expansion",
-      "summary": "Amazon\u2019s AI expansion may boost jobs, but it risks concentrating innovation in Big Tech\u2019s hands, an expert told ."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Trump Media files Form S-1 for Truth Social Bitcoin ETF with SEC",
+      "link": "https://cryptobriefing.com/truth-social-bitcoin-etf-sec/",
+      "summary": "<p>The filing could influence regulatory perspectives on crypto ETFs and highlight the intersection of politics and cryptocurrency markets.</p> <p>"
+    },
     {
       "title": "Gold miner Bluebird to convert gold revenues into Bitcoin reserve, stock jumps 63% intraday",
       "link": "https://cryptobriefing.com/bitcoin-treasury-strategy-gold-miner/",
@@ -181,14 +186,14 @@
       "title": "BlackRock\u2019s Bitcoin ETF futures go live on Moscow Exchange as fund surpasses $70 billion AUM",
       "link": "https://cryptobriefing.com/bitcoin-futures-moscow-exchange/",
       "summary": "<p>The integration of Bitcoin ETFs into Russia's financial markets may signal a shift towards broader acceptance and regulation of crypto assets.</p> <p>"
-    },
-    {
-      "title": "Nasdaq-listed Webus files with SEC for potential $300M XRP reserve strategy, stock surges pre-market",
-      "link": "https://cryptobriefing.com/webus-xrp-reserve-strategy/",
-      "summary": "<p>Webus's strategic XRP reserve plan could enhance global payment solutions, potentially transforming cross-border transactions and boosting investor confidence.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Railgun crypto pumps 30% after Vitalik Buterin\u2019s transaction \u2013 What lies ahead?",
+      "link": "https://ambcrypto.com/railgun-crypto-pumps-30-after-vitalik-buterins-transaction-what-lies-ahead/",
+      "summary": "<img alt=\"Railgun crypto pumps 30% after Vitalik Buterin&#039;s transaction - What lies ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/RailgunRAIL.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's what you need to know about Railgun's native token RAIL."
+    },
     {
       "title": "Ethena\u2019s 17mln whale activity amid Coinbase listing: Reversal for ENA?",
       "link": "https://ambcrypto.com/ethenas-17mln-whale-activity-amid-coinbase-listing-reversal-for-ena/",
@@ -208,11 +213,6 @@
       "title": "JPMorgan Chase to accept crypto ETF collaterals: BTC push in TradFi?",
       "link": "https://ambcrypto.com/jpmorgan-chase-to-accept-crypto-etf-collaterals-btc-push-in-tradfi/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"929\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/JPMorgan-to-accept-BlackRock-Bitcoin-ETF.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1651\" />With IBIT\u2019s rise and JPMorgan\u2019s new rules, crypto isn\u2019t fringe anymore."
-    },
-    {
-      "title": "Playbet.io announce a new \u201cBonkers\u201d partnership with British Rapper and Icon Dizzee Rascal",
-      "link": "https://ambcrypto.com/playbet-io-announce-a-new-bonkers-partnership-with-british-rapper-and-icon-dizzee-rascal/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"489\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-05-180233.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"740\" />Dizzee Rascal, the British rapper and icon known for his chart-topping hits over the last [&#8230;]"
     }
   ]
 }
