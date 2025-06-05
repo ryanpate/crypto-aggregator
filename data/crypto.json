@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Alleged French crypto kidnapping mastermind arrested in Morocco",
+      "link": "https://cointelegraph.com/news/alleged-mastermind-behind-french-crypto-kidnappings-arrested-in-morocco?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2E5MmItZTQ1MS03YWFlLWI5YTktNzQxNGUzOWU3MzY5.jpg\" /></p><p>Moroccan police arrested Badiss Mohamed Amide Bajjou, who is accused of being one of the ringleaders behind a spate of recent crypto-related kidnappings in France.</p>"
+    },
+    {
+      "title": "Crypto.com sues Nevada gaming body over block on sports event contracts",
+      "link": "https://cointelegraph.com/news/cryptocom-sues-nevada-gaming-sport-event-contract-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE2ZjYtMzdlMS03MmY2LWFjNTEtNGRlZjcxNDkxMTdm.jpg\" /></p><p>The crypto exchange claims it is fully regulated, and the CFTC has jurisdiction over its sports contracts, not the state of Nevada.</p>"
+    },
+    {
       "title": "Bitcoin eyes $115K by July, but strong US job data to threaten rally: Analysts",
       "link": "https://cointelegraph.com/news/bitcoin-new-highs-july-us-jobs-data-threat-uptrend-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNkMWItNzA5Yy03YmNiLWJiMTctOTIwM2E5YTg1MGE5.jpg\" /></p><p>Bitfinex analysts tell that Bitcoin could surge next month if US job data turns out to be weaker than expected.</p>"
@@ -41,16 +51,6 @@
       "title": "Ethereum Foundation says next 18 months \u2018pivotal\u2019 amid new treasury policy",
       "link": "https://cointelegraph.com/news/ethereum-foundation-new-treasury-policy-18-months-pivotal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNkMDMtNTE5ZC03ZDk0LTljMmYtZWFmYjgyZWMzZDZl.jpg\" /></p><p>The Foundation backing the Ethereum blockchain has laid out a new treasury policy to ensure it allocates resources efficiently while supporting its DeFi ecosystem.</p>"
-    },
-    {
-      "title": "Stablecoin giant Circle again boosts IPO to $1.05 billion",
-      "link": "https://cointelegraph.com/news/stablecoin-issuer-circle-upsize-ipo-1-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNkMzEtNmNlOS03ODViLTljNmYtZmZmYmJhOWEwZTAz.jpg\" /></p><p>USDC issuer Circle has again upsized its initial public offering above the marketed range, selling 34 million shares at $31 each.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "$63 Billion in Bitcoin Scooped Up by New Whales, Is $135K Still in Play?",
+      "link": "https://www.newsbtc.com/bitcoin-news/63-billion-in-bitcoin-scooped-up-by-new-whales-is-135k-still-in-play/",
+      "summary": "Bitcoin is so far facing a notable pullback in price, with its price now down roughly 5.8% from its all-time high recorded last month. At the time of writing, the asset currently trades at $105,062, marking a 1.1% decrease in the past day. Despite the pullback, on-chain data indicates a significant change in market behavior among large investors. A new set of Bitcoin whales\u2014wallets holding 1,000 BTC or more with coins aged less than six months\u2014has been accumulating the asset at an accelerated pace. Related Reading: Bitcoin Derivatives Reset: Neutral Funding And Whale Withdrawals Hint At Bullish Shift Young Whale Holdings Surge as Supply Share Tightens According to a recent analysis published by CryptoQuant contributor \u201conchained,\u201d this accumulation trend may reflect renewed conviction among high-capital participants preparing for future catalysts. Between March 1 and June 4, 2025, the amount of Bitcoin held by this group of \u201cnew whales\u201d more than doubled from approximately 500,000 BTC to over 1.1 million BTC. This represents an increase of around $63 billion in value. During the same period, their share of Bitcoin\u2019s total circulating supply grew from 2.5% to 5.6%, effectively removing an amount equivalent to nearly ten months of Bitcoin mining output from active circulation. Notably, this measure excludes long-dormant wallets, helping isolate recent capital inflows. This trend suggests a combination of long-term positioning and active supply absorption, which historically has preceded significant price volatility. Analysts view the emergence of new whale activity as a signal of shifting market structure, especially when paired with tightening supply conditions. If these entities continue to withdraw BTC from circulation without signs of immediate distribution, it could signal a period of price compression followed by upside volatility. Technical Patterns Suggest Possible Breakout Levels From a technical analysis perspective, Bitcoin may be forming a new bullish pattern. According to a recent post by the analyst known as \u201cTitan of Crypto,\u201d the asset has broken out of a right-angled descending broadening wedge, a chart pattern that can imply a trend reversal or continuation depending on confirmation. #Bitcoin to $135,000 in 2025? \ud83d\udcc8$BTC has broken out of a right-angled descending broadening wedge. If price holds above the breakout zone, $135,000 becomes a realistic target. Structure is clean. pic.twitter.com/KqTkquDNhn \u2014 Titan of Crypto (@Washigorira) June 3, 2025 If the price maintains levels above the wedge\u2019s breakout zone, historical analysis suggests a potential upside target near $135,000 in 2025. This technical view aligns with the broader narrative of positioning ahead of expected macroeconomic catalysts. Featured image created with DALL-E, Chart from TradingView"
+    },
+    {
       "title": "Bitcoin Reserve Gets Military Nod, Senator Predicts Explosive 10-Year Surge",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-reserve-gets-military-nod-senator-predicts-explosive-10-year-surge/",
       "summary": "Senator Cynthia Lummis, who leads the Senate Subcommittee on Digital Assets, says the US military backs a plan to create a Strategic Bitcoin Reserve. Jamie Dimon, the CEO of a major bank, recently called that plan a waste. Lummis pushed back. Related Reading: XRP Could Transform Your Finances Long Before $10K, Angel Investor Says Lummis told Bloomberg the military thinks having Bitcoin on hand matters. She said it could be a tool in the economic contest with China. Some see that as a bold step. Others say it\u2019s risky. Military Backs Bitcoin Reserve According to the senator, military leaders say Bitcoin could help in an economic showdown. They see it as a way to hold value if traditional assets get hit by sanctions or big moves from other nations. She spoke about weapons and ammunitions being part of national security, but she added that a Bitcoin reserve is also vital. Some military voices have warned that future conflicts won\u2019t just be fought on battlefields. Money and digital assets could play a key role too. Legislative And Executive Moves Based on reports, Lummis introduced a bill to have the US buy and hold 1 million BTC. That would mirror what countries do with gold. The idea is to pull funds from the Treasury or Federal Reserve rather than use new budget money. It has not moved far in Congress. Still, US President Donald Trump issued an order on March 6, 2025, to set up a Bitcoin reserve plus a digital asset stockpile for other coins. He said the government would use assets seized in civil and criminal actions to start the fund. That means some 200,000 BTC the government already has could be part of it. Lummis Sees Bitcoin Price Rising In The Next Decade Lummis unveiled a proprietary model forecasting a dramatic rise in Bitcoin\u2019s price over the next decade, citing factors such as its fixed supply, growing institutional adoption, and expanding network effects. Analysts caution that such long-term forecasts hinge on unpredictable factors like regulatory shifts, technological breakthroughs, and market sentiment, any of which could derail even the most optimistic projections. She also praised Trump for pushing simple rules for crypto and for using digital coins as part of national strategy. Trump\u2019s family runs a DeFi platform, a stablecoin project, and even some meme coins. Lummis thinks everyone will end up in the crypto economy sooner or later. Related Reading: $500M Bet On Solana: Education Platform Aims To Supercharge Its Treasury Skeptic Voices And Uncertain Path Jamie Dimon disagrees. He calls the Bitcoin reserve a waste of resources. Other experts worry about Bitcoin\u2019s ups and downs. They say a strategic reserve shouldn\u2019t ride on something that can swing 20% in a single day. Some economists at top universities give zero support to borrowing money to build a crypto stash. They argue it doesn\u2019t make sense against the US\u2019s nearly $36 trillion national debt. For now, the bill to buy 1 million BTC sits in committee. Featured image from Imagen, chart from TradingView"
@@ -100,11 +105,6 @@
       "title": "XRP Price Dips to Support: Is a Bullish Rebound on the Horizon?",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-dips-support-2-20/",
       "summary": "XRP price started a fresh increase above the $2.220 resistance zone. The price is now consolidating and might aim for a move above the $2.250 resistance. XRP price started a fresh increase above the $2.220 zone. The price is now trading above $2.220 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2.185 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another increase if it clears the $2.250 resistance zone. XRP Price Holds Support XRP price remained stable above the $2.050 support and started a decent upward move, beating Bitcoin and Ethereum. There was a move above the $0.2150 and $0.20 levels. The bulls were able to clear the $2.25 resistance zone. A high was formed at $2.2816 and the price is now correcting gains. The price dipped below the $2.25 level and the 50% Fib retracement level of the upward move from the $2.137 swing low to the $2.2816 high. The price is now trading above $2.20 and the 100-hourly Simple Moving Average. There is also a key bullish trend line forming with support at $2.185 on the hourly chart of the XRP/USD pair. It is near the 61.8% Fib retracement level of the upward move from the $2.137 swing low to the $2.2816 high. On the upside, the price might face resistance near the $2.2320 level. The first major resistance is near the $2.250 level. The next resistance is $2.2850. A clear move above the $2.2850 resistance might send the price toward the $2.320 resistance. Any more gains might send the price toward the $2.350 resistance or even $2.380 in the near term. The next major hurdle for the bulls might be $2.40. Downside Break? If XRP fails to clear the $2.25 resistance zone, it could start another decline. Initial support on the downside is near the $2.20 level. The next major support is near the $2.1850 level. If there is a downside break and a close below the $2.1850 level, the price might continue to decline toward the $2.150 support. The next major support sits near the $2.120 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now below the 50 level. Major Support Levels \u2013 $2.20 and $2.1850. Major Resistance Levels \u2013 $2.250 and $2.30."
-    },
-    {
-      "title": "Ethereum Price Aims Higher in Shadow of Bitcoin\u2019s Dip",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-aims-higher-2665/",
-      "summary": "Ethereum price started a fresh increase above the $2,550 zone. ETH is now facing resistance near the $2,640 and $2,665 levels. Ethereum started a fresh increase above the $2,550 level. The price is trading above $2,550 and the 100-hourly Simple Moving Average. There is a key rising channel forming with support at $2,600 on the hourly chart of ETH/USD (data feed via Kraken). The pair could extend losses if it trades below the $2,600 support zone in the near term. Ethereum Price Consolidates Gains Ethereum price started a decent upward move above the $2,500 zone, beating Bitcoin. ETH price was able to climb above the $2,520 and $2,550 resistance levels. The price even cleared the $2,600 resistance zone and tested the $2,665 level. A high was formed at $2,677 and the price is now consolidating gains. There was a minor move below the $2,620 level. The price dipped below the $2,620 level and the 23.6% Fib retracement level of the upward move from the $2,476 swing low to the $2,677 high. Ethereum price is now trading above $2,550 and the 100-hourly Simple Moving Average. There is also a key rising channel forming with support at $2,600 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,640 level. The next key resistance is near the $2,665 level. The first major resistance is near the $2,720 level. A clear move above the $2,720 resistance might send the price toward the $2,780 resistance. An upside break above the $2,780 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,880 resistance zone or even $2,920 in the near term. Downside Break In ETH? If Ethereum fails to clear the $2,665 resistance, it could start a fresh decline. Initial support on the downside is near the $2,600 level. The first major support sits near the $2,575 zone and the 50% Fib retracement level of the upward move from the $2,476 swing low to the $2,677 high. A clear move below the $2,575 support might push the price toward the $2,500 support. Any more losses might send the price toward the $2,420 support level in the near term. The next key support sits at $2,350. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI &#8211; The RSI for ETH/USD is now below the 50 zone. Major Support Level \u2013 $2,575 Major Resistance Level \u2013 $2,665"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "US Seizes Crypto and 145 Domains Linked to Dark Web Marketplace",
+      "link": "https://decrypt.co/323809/us-seizes-crypto-145-domains-dark-web-marketplace",
+      "summary": "BidenCash served 117,000 users and trafficked over 15 million stolen credit cards and personal data before being taken down."
+    },
+    {
       "title": "Ethereum Foundation Sets Treasury Strategy to Back DeFi, Cut Spending Over Time",
       "link": "https://decrypt.co/323805/ethereum-foundation-treasury-strategy-back-defi-cut-spending",
       "summary": "The new policies seek to lower operating costs, establish strict triggers for ETH sales, and enforce \u201cDefipunk\u201d privacy standards."
@@ -154,11 +159,6 @@
       "title": "Stablecoin Giant Circle Raises $1.1B in IPO, Valued at $6.9B Ahead of NYSE Debut",
       "link": "https://decrypt.co/323795/stablecoin-giant-circle-raises-1-billion-ipo-nyse-debut",
       "summary": "Stablecoin firm Circle priced its shares at $31, above the marketed range, ahead of its trading debut on the NYSE under ticker CRCL."
-    },
-    {
-      "title": "'Unclaimed' Bitcoin in California Could Be Seized\u2014But There's a Catch",
-      "link": "https://decrypt.co/323787/unclaimed-bitcoin-california-seized-theres-catch",
-      "summary": "The California House passed a bill that would let the state seize crypto sitting on exchanges\u2014but advocates say it's actually a good thing."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "California moves to accept crypto for state payments \u2013 Bill passes unanimously!",
+      "link": "https://ambcrypto.com/california-moves-to-accept-crypto-for-state-payments-bill-passes-unanimously/",
+      "summary": "<img alt=\"California moves to accept crypto for state payments - Bill passes unanimously!\" class=\"attachment-full size-full wp-post-image\" height=\"540\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/California-to-Accept-Crypto-for-State-Payments.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"960\" />California now joins Florida, Colorado, and Louisiana in pioneering state acceptance of cryptocurrency for official payments."
+    },
+    {
       "title": "Can BNB break new highs? 2 factors suggest strong upside",
       "link": "https://ambcrypto.com/can-bnb-break-new-highs-2-factors-suggest-strong-upside/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/20DCADF1-60F4-4C1E-B29C-B0AA9240B461.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BNB shows a high tendency for a rally as positive sentiment grows."
@@ -208,11 +213,6 @@
       "title": "Ethereum: Whales now hold $365mln in ETH \u2013 Is a run to $3.4K loading?",
       "link": "https://ambcrypto.com/ethereum-whales-now-hold-365mln-in-eth-is-a-run-to-3-4k-loading/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-04T131548.055-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum whale demand surges as a bullish pattern nears breakout above $2,830."
-    },
-    {
-      "title": "Satoshi Nakamoto surpasses Bill Gates in wealth with $116.7B net worth \u2013 Elon Musk next?",
-      "link": "https://ambcrypto.com/satoshi-nakamoto-surpasses-bill-gates-in-wealth-with-116-7b-net-worth-elon-musk-next/",
-      "summary": "<img alt=\"Satoshi Nakamoto surpasses Bill Gates in wealth with $116.7B net worth - Elon Musk next?\" class=\"attachment-full size-full wp-post-image\" height=\"1091\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Nakamoto-Is-Now-Richer-Than-Bill-Gate.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1939\" />He\u2019s never been seen, but his crypto stash could soon overtake Zuckerberg, Buffett, and maybe Musk next."
     }
   ]
 }
