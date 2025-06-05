@@ -1,31 +1,216 @@
 {{ define "main" }}
-<div class="container mt-6">
-    <h1 class="title has-text-centered">Crypto News Aggregator</h1>
+  <!-- Banner -->
+  <img src="/banner.png" alt="BlockWireNews Banner" style="width: 100%; height: auto; margin-bottom: 1rem;" />
 
+  <!-- Responsive Styles -->
+  <style>
+    /* Container centered with responsive padding */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+
+    /* Title styling */
+    .title {
+      font-weight: bold;
+      text-align: center;
+    }
+
+    /* Responsive crypto item: flex layout that wraps */
+    .crypto-item {
+      display: flex;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Responsive thumbnail styling */
+    .crypto-item img {
+      width: 100%;
+      max-width: 200px;
+      height: auto;
+      margin-right: 1rem;
+      flex-shrink: 0;
+    }
+
+    /* Title and summary container */
+    .crypto-item-content {
+      flex: 1 1 0;
+    }
+
+    /* Story link styling */
+    .crypto-item-content a {
+      font-size: 1.25rem;
+      color: black;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    /* Responsive section spacing */
+    section.section {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #ddd;
+    }
+
+    /* Remove default list styling */
+    ul {
+      padding-left: 0;
+      list-style: none;
+    }
+
+    /* Blog section styling */
+    .blog-section h2 {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .blog-section article {
+      margin-bottom: 1.5rem;
+    }
+
+    .blog-section h3 {
+      font-size: 1.25rem;
+      margin: 0;
+    }
+
+    .blog-section p.date {
+      font-size: 0.875rem;
+      color: #666;
+      margin-bottom: 0.5rem;
+    }
+
+    .blog-section p.summary {
+      font-size: 0.9rem;
+    }
+
+    /* Price ticker container */
+    #crypto-ticker {
+      background: #f9f9f9;
+      padding: 0.5rem;
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    #crypto-ticker div {
+      flex: 1;
+      min-width: 80px;
+      text-align: center;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .crypto-item {
+        flex-direction: column;
+      }
+
+      .crypto-item img {
+        max-width: 100%;
+        margin: 0 0 0.5rem 0;
+      }
+
+      .crypto-item-content a {
+        font-size: 1rem;
+      }
+    }
+  </style>
+
+  <div class="container mt-6">
+    <!-- Blog Section -->
+    {{ $blogSection := site.GetPage "section" "blog" }}
+    {{ if $blogSection }}
+    <section class="section blog-section">
+      <h2 class="subtitle">Blog</h2>
+      {{ range $blogSection.Pages.ByDate.Reverse }}
+      <article>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="date">{{ .Date.Format "Jan 2, 2006" }}</p>
+        <p class="summary">{{ .Summary }}</p>
+      </article>
+      {{ end }}
+    </section>
+    {{ end }}
+
+    <!-- Custom CoinGecko Ticker -->
+    <div id="crypto-ticker">
+      <div style="font-weight:bold;">Loading prices…</div>
+    </div>
+    <script>
+      (function() {
+        const tickers = [
+          { id: 'bitcoin', symbol: 'BTC' },
+          { id: 'ethereum', symbol: 'ETH' },
+          { id: 'binancecoin', symbol: 'BNB' },
+          { id: 'ripple', symbol: 'XRP' },
+          { id: 'dogecoin', symbol: 'DOGE' }
+        ];
+        const container = document.getElementById('crypto-ticker');
+        const elements = {};
+        tickers.forEach(coin => {
+          const span = document.createElement('div');
+          span.innerHTML = `
+            <div style="font-size:0.9rem; color:#444;">${coin.symbol}</div>
+            <div style="font-weight:bold; font-size:1rem;" id="price-${coin.id}">—</div>
+          `;
+          container.appendChild(span);
+          elements[coin.id] = span.querySelector(`#price-${coin.id}`);
+        });
+        async function fetchPrices() {
+          try {
+            const ids = tickers.map(c => c.id).join(',');
+            const url = `https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=usd`;
+            const res = await fetch(url);
+            if (!res.ok) throw new Error('Network response was not OK');
+            const data = await res.json();
+            tickers.forEach(coin => {
+              const priceElem = elements[coin.id];
+              if (data[coin.id] && data[coin.id].usd !== undefined) {
+                priceElem.textContent = '$' + data[coin.id].usd.toLocaleString();
+              } else {
+                priceElem.textContent = '—';
+              }
+            });
+          } catch (err) {
+            console.error('Error fetching prices:', err);
+          }
+        }
+        fetchPrices();
+        setInterval(fetchPrices, 60000);
+      })();
+    </script>
+
+    <!-- Crypto News Sections -->
     {{ $all := .Site.Data.crypto }}
     {{ if not $all }}
     <div class="notification is-warning has-text-centered" style="margin-top: 1rem;">
-        ⚠️ No data found in .Site.Data.crypto
+      ⚠️ No data found in .Site.Data.crypto
     </div>
     {{ else }}
-    {{ range $source, $articles := $all }}
-    <section class="section">
+      {{ range $source, $articles := $all }}
+      <section class="section">
         <h2 class="subtitle">{{ $source }}</h2>
         {{ if not (len $articles) }}
         <p><em>No articles for {{ $source }}</em></p>
         {{ end }}
         <ul>
-            {{ range $articles }}
-            <li style="margin-bottom: 1rem;">
-                <a href="{{ .link }}" target="_blank">{{ .title }}</a>
-                {{ if .summary }}
-                <p class="is-size-7">{{ .summary | safeHTML }}</p>
-                {{ end }}
-            </li>
+          {{ range $articles }}
+          <li class="crypto-item">
+            {{ if .thumbnail }}
+            <img src="{{ .thumbnail }}" alt="thumbnail">
             {{ end }}
+            <div class="crypto-item-content">
+              <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+              {{ if .summary }}
+              <p class="is-size-7">{{ .summary | safeHTML }}</p>
+              {{ end }}
+            </div>
+          </li>
+          {{ end }}
         </ul>
-    </section>
+      </section>
+      {{ end }}
     {{ end }}
-    {{ end }}
-</div>
+  </div>
 {{ end }}
