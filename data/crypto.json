@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Cardano's ADA Finds 'Strong Support' After Dramatic Price Swings Amid Heightened Volatility",
+      "link": "https://www.coindesk.com/markets/2025/06/06/cardano-surges-3-after-dramatic-10-plunge-finds-strong-support",
+      "summary": ""
+    },
+    {
+      "title": "Crypto\u2019s Defining Policy Moment Is Here. We Must Seize It Together",
+      "link": "https://www.coindesk.com/opinion/2025/06/06/cryptos-defining-policy-moment-is-here-we-must-seize-it-together",
+      "summary": ""
+    },
+    {
       "title": "CoinDesk 20 Performance Update: SUI Gains 4.3% as Index Trades Higher",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/06/coindesk-20-performance-update-sui-gains-4-3-as-index-trades-higher",
       "summary": ""
@@ -14,21 +24,26 @@
       "title": "IOST Raises $21M to Expand the Rollout of its Tokenized Asset Infrastructure",
       "link": "https://www.coindesk.com/business/2025/06/06/iost-raises-21m-to-expand-the-rollout-of-its-tokenized-asset-infrastructure",
       "summary": ""
-    },
-    {
-      "title": "Trump Media, Owner of Truth Social, Looks to Issue $12B Worth of New Shares",
-      "link": "https://www.coindesk.com/markets/2025/06/06/trump-media-owner-of-truth-social-looks-to-issue-12b-worth-of-new-shares",
-      "summary": ""
-    },
-    {
-      "title": "Shiba Inu Recovers Amid Massive $36M Whale Transaction; Still Stuck in Downward Channel",
-      "link": "https://www.coindesk.com/markets/2025/06/06/shiba-inu-recovers-amid-massive-usd36m-whale-transaction-still-stuck-in-downward-channel",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "The secret map whales use to liquidate you (Learn how to read it)",
+      "title": "How to earn passive income with peer-to-peer lending",
+      "link": "https://cointelegraph.com/news/how-to-earn-passive-income-with-peer-to-peer-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzJmYzItY2NkMC03ZWZmLTk1YmItN2UzMTI1YjNjODA2.jpg\" /></p><p>In peer-to-peer crypto lending, knowing how to exit safely when rates fall or platforms falter is just as important as getting started.</p>"
+    },
+    {
+      "title": "Mass data deletion is a call to digital preservation action",
+      "link": "https://cointelegraph.com/news/mass-data-deletion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmMzNzQtYWFmMC03NDE0LWI5ODMtZjIwNTIwNDU0MTZl.jpg\" /></p><p>When administrations erase or quietly remove public data sets, it\u2019s not just bureaucratic housekeeping \u2014 it\u2019s a threat to transparency, accountability and the collective memory of society.</p>"
+    },
+    {
+      "title": "Bitcoin nears $105K as Donald Trump demands &#039;full point&#039; Fed rate cut",
+      "link": "https://cointelegraph.com/news/bitcoin-nears-105k-donald-trump-demands-full-point-fed-rate-cut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1YjMtN2FjOC03MDEwLWFiNWEtNTcyZTM0YmRmMTE1.jpg\" /></p><p>Bitcoin manages to shake off a US nonfarm payrolls beat as Trump insists yet again that the Fed begins to cut interest rates \u2014 will Chair Jerome Powell listen?</p>"
+    },
+    {
+      "title": "The secret map whales use to liquidate you (learn how to read it)",
       "link": "https://cointelegraph.com/news/how-to-read-a-bitcoin-liquidation-map-without-getting-liquidated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI0ZjktM2U5Mi03NmE2LWFiODEtMmQ2M2Y3ZjE1MzA0.jpg\" /></p><p>Bitcoin liquidation maps help track whale moves, predict price swings and stay safe from forced liquidations in volatile crypto markets.</p>"
     },
@@ -36,24 +51,14 @@
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Singapore confirms near-ban on foreign-only digital token services",
-      "link": "https://cointelegraph.com/news/singapore-confirms-near-ban-on-foreign-only-digital-token-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ1MmQtYmQ1YS03Njg0LWEwMzAtNGUyMTQxM2UyODY1.jpg\" /></p><p>The Monetary Authority of Singapore has effectively banned most crypto firms from serving only foreign clients by requiring a license, which it says it will \u201cgenerally not issue.\u201d</p>"
-    },
-    {
-      "title": "Why FIFA is building its own blockchain, and what it means for 5 billion fans",
-      "link": "https://cointelegraph.com/explained/why-fifa-is-building-its-own-blockchain-and-what-it-means-for-5-billion-fans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mOTk5M2JjYmM2YTZkZTBkZWY2ZGI1NTMyMGU5ODQ0MS5qcGc=.jpg\" /></p><p>FIFA is launching its own layer-1 blockchain to take control of digital assets, ticketing and fan experiences, potentially transforming football for billions of global supporters.</p>"
-    },
-    {
-      "title": "Moonbirds NFT sales surge after Yuga Labs sells IP",
-      "link": "https://cointelegraph.com/news/moonbirds-nft-sales-surge-after-orange-cap-games-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0ZjAtYmY4Mi03MmMzLTkzYWMtY2ZmM2JkMTBmMTQ3.jpg\" /></p><p>Orange Cap Games has acquired the IP rights to Moonbirds from Yuga Labs, driving the NFT collection\u2019s biggest sales spike in months.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Yuga moves to kill ApeCoin DAO, transfer $168M in assets to new entity",
+      "link": "https://cryptoslate.com/yuga-moves-to-kill-apecoin-dao-transfer-168m-in-assets-to-new-entity/",
+      "summary": "<p>Yuga Labs has proposed dissolving the ApeCoin DAO and replacing it with a new governing body, ApeCo. This would mark a decisive shift in the management structure of one of Web3\u2019s most recognizable token communities. Filed as an AIP proposal on June 5, the plan would sunset the DAO and transfer all major assets, including [&#8230;]</p> <p>"
+    },
     {
       "title": "Institutional Bitcoin ETF holdings decline while direct corporate BTC reserves gain traction",
       "link": "https://cryptoslate.com/institutional-bitcoin-etf-holdings-decline-while-direct-corporate-btc-reserves-gain-traction/",
@@ -73,14 +78,14 @@
       "title": "Metaplanet\u2019s ambitious $5.4B Bitcoin acquisition plan sets sights on 210k BTC",
       "link": "https://cryptoslate.com/metaplanets-ambitious-5-4b-bitcoin-acquisition-plan-sets-sights-on-210k-btc/",
       "summary": "<p>Metaplanet has launched what it calls Asia\u2019s largest equity raise dedicated to Bitcoin. According to CEO Simon Gerovich, the company is issuing 555 million shares through moving strike warrants in a \u00a5770.9 billion ($5.4 billion) capital raise. The firm has also acquired 1,088 BTC for \u00a516.9 billion ($117.5 million), increasing its on-chain holdings to 8,888 [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Yield bearing stablecoin comes to Solana via Maple Finance\u2019s Chainlink integration",
-      "link": "https://cryptoslate.com/yield-bearing-stablecoin-comes-to-solana-via-maple-finances-chainlink-integration/",
-      "summary": "<p>Maple Finance has deployed its liquid yield-bearing stablecoin, syrupUSDC, on the Solana network using Chainlink\u2019s Cross-Chain Interoperability Protocol, introducing new capital strategies and institutional lending primitives into one of crypto\u2019s most liquid ecosystems. Maple&#8217;s native SYRUP token jumped 8% on the launch news, holding a market cap of nearly $420 million. The integration allows users [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bullish Signs For Ethereum: Metrics Pointing To Upcoming Breakout",
+      "link": "https://www.newsbtc.com/news/ethereum/bullish-signs-for-ethereum-metrics-pointing-to-upcoming-breakout/",
+      "summary": "The Ethereum (ETH) price experienced a significant decline on Thursday, falling over 7% and approaching the $2,400 mark. However, expert analysis suggests that a new bullish trend may soon emerge for the second-largest cryptocurrency. Key Metrics Indicate Accumulation By Larger Investors Market analyst Lark Davis took to social media platform X (formerly Twitter) to share insights on Ethereum&#8217;s potential. He noted that various on-chain metrics and market behaviors indicate an impending breakout for the ETH price. Notably, Ethereum has been outperforming Bitcoin (BTC) in the second quarter of the year, suggesting growing investor confidence. The recent Pectra upgrade has improved Ethereum\u2019s scalability and reduced its inflation rate, making it more attractive to investors. Related Reading: Bitcoin Price Crash To $100,00 Loading: Next Targets Revealed As Bears Take Over Additionally, the expert highlights that with exchange balances hitting seven-year lows and substantial inflows into Ethereum exchange-traded funds (ETFs), it appears that larger investors are accumulating ETH for the long term. Despite these bullish indicators, Davis cautioned that not all market participants share this optimistic outlook. Betting markets on Polymarket currently assign only a 27% chance that Ethereum will reach a new all-time high by 2025. Critical Support For Ethereum Amid Political Disputes The broader cryptocurrency market also faced challenges on Thursday, with total market capitalization dropping from $3.30 trillion to approximately $3.12 trillion. Bitcoin, XRP, and Solana (SOL) were among the notable cryptocurrencies experiencing losses, retracing by 3%, 5%, and 6%, respectively. In a separate but related development, tensions between US President Donald Trump and his former adviser Elon Musk have surfaced, adding to the day\u2019s market volatility. Trump expressed disappointment over Musk&#8217;s criticism of a key tax and spending bill from his administration, suggesting that their &#8220;great relationship&#8221; may be nearing its end. Musk retaliated by accusing Trump of ingratitude, claiming his support was instrumental in Trump\u2019s election victory. Related Reading: Crypto Analyst Warns: This Bitcoin Bull Cycle Looks Nothing Like 2017 or 2021 This public dispute has drawn attention to the intersection of US politics and cryptocurrency, a dynamic that market analyst Income Sharks noted in a recent post on Elon Musk\u2019s social media site, X. The analyst remarked on the swift impact of political conflicts on crypto markets, emphasizing that the Ethereum price has not yet lost critical support levels. Income Sharks, in his analysis, identified the $2,390 mark as a crucial support point for the altcoin in the immediate term, which could determine the next upward targets of $3,000 and $4,000. While trading at $2,406 when writing, Ethereum finds itself well below its all-time high reached during the market\u2019s last bullish cycle in 2021. As of now, the altcoin stands 50% below its record of $4,878, according to CoinGecko data. Featured image from DALL-E, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin Cycle Top Is In\u2014$270,000 Delayed Until 2026, Says Analyst",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-cycle-top-in-270000-delayed-until-2026/",
@@ -100,11 +105,6 @@
       "title": "Circle Soars 168% In First Day Of Trading On NYSE Following Strong IPO",
       "link": "https://www.newsbtc.com/news/circle-soars-168-in-first-day-of-trading-on-nyse-following-strong-ipo/",
       "summary": "Shares of Circle Internet Group, the issuer of the market\u2019s second-largest stablecoin, USDC, experienced a remarkable surge on Thursday, skyrocketing 168% as the company made its debut on the New York Stock Exchange (NYSE). Circle&#8217;s IPO Exceeds Expectations Circle&#8217;s stock opened at $69, well above its IPO pricing of $31. Throughout the day, the shares reached a peak of $103.75, showcasing strong investor enthusiasm. The IPO was priced late Wednesday, exceeding the anticipated range of $27 to $28, and substantially outpacing an earlier range of $24 to $26. This pricing strategy valued the company at approximately $6.8 billion before trading commenced. Related Reading: Messari Flags XRP\u2019s Silent Rise As A Treasury Favorite\u2014Here\u2019s Why By the end of the trading session, Circle&#8217;s trading volume reached about 46 million shares, far surpassing the number of freely floating shares available. This impressive performance positions Circle alongside other cryptocurrency firms like Coinbase, Mara Holdings, and Riot Platforms as a notable player in the US market. CEO Jeremy Allaire emphasized the importance of building relationships with governments and policymakers, stating, \u201cTo realize our vision, we needed to forge relationships with governments&#8230; it\u2019s got to work in mainstream society and you need to have those rules of the road.\u201d Allaire highlighted Circle&#8217;s commitment to compliance and transparency, which he believes has contributed to the company&#8217;s success in a challenging regulatory environment. Could Higher Prices Follow For Future Listings? The strong debut of Circle&#8217;s IPO could signal a shift in how institutional investors approach upcoming listings, potentially leading to higher initial public offering prices for future offerings. Notable companies preparing for IPOs include Omada Health, which is pricing on Thursday, and Klarna, a fintech firm set to list next week. While Circle&#8217;s IPO share price initially set its market value at $6.1 billion\u2014below its last private market valuation of $7.7 billion from 2021\u2014Thursday&#8217;s trading surge adjusted that figure. Related Reading: Crypto Analyst Warns: This Bitcoin Bull Cycle Looks Nothing Like 2017 or 2021 By the close of trading, Circle&#8217;s market capitalization, excluding employee options, stood at an impressive $16.7 billion. The company successfully raised approximately $1.1 billion through the offering. Circle&#8217;s journey to this point has been marked by challenges, including its previous attempt to go public. Circle&#8217;s previous attempt to go public via a merger was with a special purpose acquisition company (SPAC), which collapsed in late 2022 due to regulatory hurdles. The company&#8217;s largest outside shareholders include General Catalyst and IDG Capital, holding approximately 8.9% and 8.8% of all stock, respectively. Other significant backers such as Accel, Breyer Capital, and Oak Investment Partners continue to support Circle\u2019s vision in the evolving crypto marketplace. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "As Lagrange Crypto Token $LA Surges, Climbing 500%, Will Solaxy See Bigger Gains?",
-      "link": "https://www.newsbtc.com/news/lagrange-crypto-la-surges-500-solaxy-next-5x-token/",
-      "summary": "Thousands of tokens launch every day. Most crash quickly, becoming worthless in time (or all but worthless). So why do people keep investing? Because every now and then, a Lagrange ($LA) comes along. The utility token for the Lagrange Foundation, which aims to support a verifiable AI ecosystem, $LA climbed 560%+ in a few hours after securing listings across major exchanges. The move pushed the token\u2019s market cap over $287M. What went right for $LA, and what does it say about other upcoming projects? Stars Aligned for $LA Launch Lagrange had a few things going for it: Foundational ecosystem: $LA fuels the base layer for an ambitious but detailed technical project (the ZK Prover Network). Strong early interest: Lagrange attracted major early development from the likes of Peter Thiel\u2019s Founders Fund, which provided $13.2M in seed funding. Detailed project design: Tokenomics, fee generation, staking \u2013 Lagrange clearly defined how each element worked in the $LA ecosystem. Broad DEX/CEX listing: After the TGE (Token Generation Event), $LA went live on a number of major exchanges, including Coinbase, KuCoin, Bitget, and more. It was a combination of factors, rather than any one thing, that helped push the project up. Crucially, investors seem confident in the long-term outlook for the Lagrange Foundation. When some investors took profits off the initial surge, causing the token to dip, others bought the dip, pushing $LA back up. No two crypto projects are identical, and this goes for their future potential, as well. But we can take some of the basic principles from $LA\u2019s success and apply them to other projects to get a better idea of their chances. And one project \u2013 Solaxy ($SOLX) \u2013 shows promising similarities to $LA. Solaxy ($SOLX) \u2013 Meme-Focused Multichain Token for Groundbreaking Solana Layer-2 Solaxy ($SOLX) might seem like your average Solana meme coin, at least at first glance. But under the surface, Solaxy isn\u2019t just a meme coin \u2013 it\u2019s the foundation of the first ever Solana Layer-2, designed to be the foundation of a whole generation of faster-than-ever Solana tokens. It might even become one of the best meme coins in 2025 and beyond. A closer look at the project shows how $SOLX and $LA share some critical features: $LA raised $13.2M in seed funding; $SOLX raised $44.5M in its crypto presale (set to end in 10 days). $LA provided detailed information about technical developments; $SOLX has already launched the Solaxy block explorer and bridge, with full operational status in June 2025. $LA serves to support key ZK products and features; $SOLX offers a blazing-fast blockchain to add to the $56B meme coin market Both $LA and $SOLX are multi-chain tokens; $LA supports Ethereum, Base, Arbitrum, Solana, Optimism, and Polygon, and $SOLX supports Solana and Ethereum Solaxy is working fast, rolling out key features in the techmap to push full deployment of the Layer-2 as soon as possible. There\u2019s only ten days left for investors to get in during the presale. If $SOLX imitates $LA\u2019s climb, this is the lowest the price will ever be, so learn how to buy Solaxy with our guide, and don&#8217;t delay. The current token price is $0.001746. Our price prediction shows that it could climb to $0.032 by the end of the year, passing even $LA&#8217;s success and delivering 1,735% returns to investors who get in now. Visit the Solaxy presale page. Factors for $LA\u2019s Success Bode Well for $SOLX That 500% price increase was pretty sweet for early Lagrange investors, and who knows how far the $LA token will go? Some of the same factors that contributed to $LA\u2019s big wins look promising for $SOLX as well. Will it be the next 5x token? Never invest in anything without doing your own research; this is not financial advice."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,12 +136,17 @@
   ],
   "Decrypt": [
     {
+      "title": "Strategy Upsizes STRD Preferred Stock Offering to $1 Billion to Buy More Bitcoin",
+      "link": "https://decrypt.co/323988/strategy-upsizes-strd-stock-offering-1-billion-buy-bitcoin",
+      "summary": "Strategy\u2019s Michael Saylor described STRD as the \u201cfourth gear\u201d in the company\u2019s \u201cBitcoin Engine.\u201d"
+    },
+    {
       "title": "'FIFA Rivals' Game Launching Next Week on iOS, Android",
       "link": "https://decrypt.co/323977/fifa-rivals-game-launching-next-week-ios-android",
       "summary": "NFL Rivals creator Mythical Games is gearing up to launch its next officially licensed sports game, FIFA Rivals\u2014with an assist from Adidas."
     },
     {
-      "title": "Official Trump and Dogecoin Sag After Musk Epstein Rant About the President",
+      "title": "Official Trump and Dogecoin Sag After Musk's Epstein Rant About the President",
       "link": "https://decrypt.co/323962/official-trump-dogecoin-sag-musk-epstein-president",
       "summary": "Donald Trump and Elon Musk have had a very public falling out and meme coins tied to the figures have slumped as a result."
     },
@@ -154,11 +159,6 @@
       "title": "OpenAI Challenges Court Order to Preserve User Data in NYT Lawsuit",
       "link": "https://decrypt.co/323950/openai-challenges-court-order-user-data-nyt-lawsuit",
       "summary": "The AI firm said the order to retain deleted ChatGPT chats undermines user privacy as legal its battle escalates."
-    },
-    {
-      "title": "Meta Oversight Board Slams Parent Company Over Viral Ronaldo Deepfake",
-      "link": "https://decrypt.co/323942/meta-oversight-board-slams-parent-company-viral-ronaldo-deepfake",
-      "summary": "Meta\u2019s Oversight Board ordered the removal of a Ronaldo deepfake ad, calling out the platform\u2019s weak enforcement of anti-fraud rules."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Top 6 Telegram trading bots of June 2025",
+      "link": "https://ambcrypto.com/top-6-telegram-trading-bots-of-june-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1220\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/rubaitul-azad-u4F54GIZWGI-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Trading bots are automated software tools that are used to execute trades depending on predefined [&#8230;]"
+    },
+    {
+      "title": "Silk Road\u2019s Ross Ulbricht gets $31 mln in Bitcoin \u2013 But the source raises questions",
+      "link": "https://ambcrypto.com/silk-roads-ross-ulbricht-gets-31-mln-in-bitcoin-but-the-source-raises-questions/",
+      "summary": "<img alt=\"Silk Road&#039;s Ross Ulbricht gets $31 mln in Bitcoin - But the source raises questions\" class=\"attachment-full size-full wp-post-image\" height=\"680\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ross-Ulbricht-received-a-31-million-bitcoin-donation.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1209\" />What secrets lie behind the $31 million Bitcoin donation, traced to illicit origins?"
+    },
+    {
       "title": "New whales are stacking Sats fast \u2013 Will this trigger Bitcoin\u2019s next leg up?",
       "link": "https://ambcrypto.com/new-whales-are-stacking-sats-fast-will-this-trigger-bitcoins-next-leg-up/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_36_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Are the Bitcoin whales preparing for a breakout before the next macro trigger?"
@@ -203,16 +213,6 @@
       "title": "Shiba Inu: Dormant whale moves 100B SHIB \u2013 Will price drop further?",
       "link": "https://ambcrypto.com/shiba-inu-dormant-whale-moves-100b-shib-will-price-drop-further/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-06T131439.064-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB hovers near support as whale exits and bearish sentiment weigh on price."
-    },
-    {
-      "title": "FARTCOIN flies as Coinbase listing talks rise \u2013 Here\u2019s what you should know",
-      "link": "https://ambcrypto.com/fartcoin-flies-as-coinbase-listing-talks-rise-heres-what-you-should-know/",
-      "summary": "<img alt=\"FARTCOIN flies as Coinbase listing talks rise - Here&#039;s what you should know\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN spikes 14% on Coinbase buzz \u2013 The beginning of a big rally?"
-    },
-    {
-      "title": "Top 8 exchanges to trade on in June 2025",
-      "link": "https://ambcrypto.com/top-8-exchanges-to-trade-on-in-june-2025/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1099\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/steve-johnson-0sPFjdcRhko-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Cryptocurrency has seen large-scale adoption in the past few years, with a global user base [&#8230;]"
     }
   ]
 }
