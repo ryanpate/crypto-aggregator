@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
-      "title": "NEAR Protocol Surges 5% After Forming Bullish Support Pattern",
-      "link": "https://www.coindesk.com/markets/2025/06/06/near-protocol-surges-5-after-forming-bullish-support-pattern",
+      "title": "Trump Media, Owner of Truth Social, Looks to Issue $12B Worth of New Shares",
+      "link": "https://www.coindesk.com/markets/2025/06/06/trump-media-owner-of-truth-social-looks-to-issue-12b-worth-of-new-shares",
       "summary": ""
     },
     {
-      "title": "ATOM Rebounds From 5% Drop as Buyer Demand Defends Key Support Level",
-      "link": "https://www.coindesk.com/markets/2025/06/06/atom-rebounds-from-5-drop-as-buyers-defend-key-support-level",
+      "title": "Shiba Inu Recovers Amid Massive $36M Whale Transaction; Still Stuck in Downward Channel",
+      "link": "https://www.coindesk.com/markets/2025/06/06/shiba-inu-recovers-amid-massive-usd36m-whale-transaction-still-stuck-in-downward-channel",
       "summary": ""
     },
     {
-      "title": "Metaplanet to Raise $5.3B, Japan\u2019s Largest Stock Warrant Deal, to Grow Bitcoin Stash",
-      "link": "https://www.coindesk.com/markets/2025/06/06/metaplanet-to-raise-53b-japans-largest-stock-warrant-deal-to-grow-bitcoin-stash",
+      "title": "Strategy to Raise Nearly $1B With STRD Preferred Stock Offering to Accumulate BTC",
+      "link": "https://www.coindesk.com/markets/2025/06/06/strategy-to-raise-nearly-1b-with-strd-preferred-stock-offering-to-accumulate-btc",
       "summary": ""
     },
     {
-      "title": "SOL Recovers to $147 After Flash Crash Shakes Out Weak Hands",
-      "link": "https://www.coindesk.com/markets/2025/06/06/sol-recovers-to-usd147-after-flash-crash-shakes-out-weak-hands",
+      "title": "Crypto Daybook Americas: Bitcoin, Jolted by Trump-Musk Clash, Rebounds Before Jobs Data",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/06/crypto-daybook-americas-bitcoin-jolted-by-trump-musk-clash-rebounds-before-jobs-data",
       "summary": ""
     },
     {
-      "title": "Yuga Labs Proposes Scrapping ApeCoin DAO, Launching ApeCo",
-      "link": "https://www.coindesk.com/markets/2025/06/06/yuga-labs-proposes-scrapping-apecoin-dao-launching-apeco",
+      "title": "Bitcoin Price Bounce to Near $104K, Though Encouraging, Falls Short of Bull Revival",
+      "link": "https://www.coindesk.com/markets/2025/06/06/btc-price-bounce-to-near-usd104k-though-encouraging-is-still-short-of-bull-revival",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Michael Saylor\u2019s Strategy ups Bitcoin bet with $1B stock offering",
+      "link": "https://cointelegraph.com/news/saylor-s-strategy-upsizes-stock-offering-from-250m-to-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ1MWQtZTZjYi03YWYyLWFiOGUtYzI4OWE3ZWVmYmE0.jpg\" /></p><p>Michael Saylor\u2019s Strategy has quadrupled its previously announced $250 million stock offering as a new funding avenue for its Bitcoin investments.</p>"
+    },
+    {
+      "title": "Europe gears up to regulate DeFi in 2026 as MiCA leaves sector in limbo",
+      "link": "https://cointelegraph.com/news/eu-defi-regulation-2026-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0ZDEtMzlkNC03NWU2LWI0MTgtZmYwY2I3NjI0YmQz.jpg\" /></p><p>Europe plans to regulate decentralized finance in 2026, as lawmakers still struggle to define decentralization under MiCA, an EU crypto policy expert said.</p>"
+    },
+    {
+      "title": "QRAMP protocol, explained: Can Bitcoin\u2019s 21-million cap survive the future?",
+      "link": "https://cointelegraph.com/explained/qramp-protocol-explained-can-bitcoins-21-million-cap-survive-the-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZjdlODdkODJkOThiM2M5NTJiZGY0YWVkZGFmMTk1NC5qcGc=.jpg\" /></p><p> With threats from quantum computing and growing cross-chain demand, QRAMP offers a non-custodial approach to protect and project Bitcoin. </p>"
+    },
     {
       "title": "UK FCA proposes lifting ban on crypto ETNs for retail investors",
       "link": "https://cointelegraph.com/news/uk-fca-crypto-etn-retail-investor-ban-lift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "Dogecoin price risks 66% drop to $0.06 as Trump-Musk feud intensifies",
       "link": "https://cointelegraph.com/news/dogecoin-price-risks-66-drop-to-0-06-trump-musk-feud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQyNTUtZDFkMS03OGM3LWFiYTQtZGFiMDRlNzU5YjE2.jpg\" /></p><p>Elon Musk\u2019s feud with President Trump caused Dogecoin\u2019s 7% drop in the last 24 hours, but sell-off risks to $0.06 remain.</p>"
-    },
-    {
-      "title": "Switzerland greenlights sharing crypto tax info with 74 nations",
-      "link": "https://cointelegraph.com/news/switzerland-automatic-crypto-data-exchange-74-partner-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0OWYtNmRlNS03MzMxLTlmMmItNTEyYzIwMzBjNjBi.jpg\" /></p><p>Switzerland\u2019s Federal Council expects to enforce the bill on the automatic exchange of crypto information with 74 countries by late 2026, with the first exchange seen in 2027.</p>"
-    },
-    {
-      "title": "Japan\u2019s \u2018Strategy,\u2019 Metaplanet, to buy 91K Bitcoin in next 18 months",
-      "link": "https://cointelegraph.com/news/metaplanet-plans-buy-91k-btc-next-18-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg\" /></p><p>Japan\u2019s Metaplanet plans to hold 100,000 BTC by 2026, revising its target from 21,000 and issuing shares to accelerate its Bitcoin treasury strategy.</p>"
-    },
-    {
-      "title": "Pakistan\u2019s crypto minister joins NYC mayor, Wall Street in Bitcoin talks",
-      "link": "https://cointelegraph.com/news/pakistan-crypto-new-york-wall-street-allies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0MWUtNWRjZi03YmFhLWFmMjctYzc4MGQ0YWVlZTgx.jpg\" /></p><p>Pakistan\u2019s Crypto Minister Bilal Bin Saqib is pursuing high-level US partnerships with figures like Cantor Fitzgerald\u2019s Brandon Lutnick and NYC Mayor Eric Adams.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "FCA clears path for UK retail crypto ETF trading\u2014kind of",
+      "link": "https://cryptoslate.com/fca-clears-path-for-uk-retail-crypto-etf-trading-kind-of/",
+      "summary": "<p>The UK\u2019s Financial Conduct Authority has proposed lifting its longstanding ban on crypto exchange-traded notes for retail investors, opening the door for broader access to regulated crypto exposure through public investment exchanges. The move, announced June 6, forms part of a broader regulatory push to bolster market competitiveness and reduce barriers for financial firms. Retail [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Metaplanet\u2019s ambitious $5.4B Bitcoin acquisition plan sets sights on 210k BTC",
+      "link": "https://cryptoslate.com/metaplanets-ambitious-5-4b-bitcoin-acquisition-plan-sets-sights-on-210k-btc/",
+      "summary": "<p>Metaplanet has launched what it calls Asia\u2019s largest equity raise dedicated to Bitcoin. According to CEO Simon Gerovich, the company is issuing 555 million shares through moving strike warrants in a \u00a5770.9 billion ($5.4 billion) capital raise. The firm has also acquired 1,088 BTC for \u00a516.9 billion ($117.5 million), increasing its on-chain holdings to 8,888 [&#8230;]</p> <p>"
+    },
     {
       "title": "Yield bearing stablecoin comes to Solana via Maple Finance\u2019s Chainlink integration",
       "link": "https://cryptoslate.com/yield-bearing-stablecoin-comes-to-solana-via-maple-finances-chainlink-integration/",
@@ -68,19 +78,19 @@
       "title": "Aave DAO activates on-chain slashing mechanism with \u2018Umbrella\u2019 launch",
       "link": "https://cryptoslate.com/aave-dao-activates-on-chain-slashing-mechanism-with-umbrella-launch/",
       "summary": "<p>Aave has launched Umbrella, a fully on-chain staking-based risk management system designed to replace its legacy Safety Module with a more automated and capital-efficient framework. Built by BGD Labs and ratified by Aave governance, Umbrella allows users to stake interest-bearing aTokens, such as aUSDC, aWETH, and GHO, to provide real-time, automated coverage for bad debt [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethereum, XRP, Dogecoin, Solana hit by $384 million in largest liquidation day since February",
-      "link": "https://cryptoslate.com/insights/ethereum-xrp-dogecoin-solana-hit-by-384-million-in-largest-liquidation-day-since-february/",
-      "summary": "<p>In the past 24 hours, crypto markets witnessed a massive liquidation wave totaling $979.72 million, with long positions overwhelmingly impacted. The day closed out as the largest liquidation event since February, when nearly $3 billion in both longs and shorts were liquidated within 48 hours. Here&#8217;s how it breaks down: Longs Liquidated: $873.05M (\u224889.12%) Shorts [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Nearly $1 billion liquidated as Bitcoin recovers from $100k dip during Elon Musk, Donald Trump breakup",
-      "link": "https://cryptoslate.com/nearly-1-billion-liquidated-as-bitcoin-recovers-from-100k-dip-during-elon-musk-donald-trump-breakup/",
-      "summary": "<p>Bitcoin briefly dipped to $100,000 before swiftly rebounding to $103,000 in early trading hours Friday, as markets reacted to an explosive social media fallout between U.S. President Donald Trump and Tesla CEO Elon Musk. The confrontation, unfolding in real time across Truth Social and X, was marked by Trump\u2019s threat to revoke federal contracts and [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Kuaishou\u2019s Kling AI Tool Gears Up to Hit $100M in Sales; AI Coins Like SUBBD to Explode",
+      "link": "https://www.newsbtc.com/news/ai-coins-like-subbd-to-explode/",
+      "summary": "Kuaishou\u2019s AI video tool \u2013 Kling \u2013 is now a top-earning AI video generation tool. In April and May of 2025 alone, it pulled in a hefty $14M. Given its high demand, Kling\u2019s on track to hitting a whopping $100M in sales by February. This is proof that demand for AI-generated video content is exploding \u2013 a boon for AI crypto projects like SUBBD Token ($SUBBD). Kling Makes Pro-Quality AI Video Creation Affordable Since its June 2024 launch, Kling AI has rolled out over 20 updates. The changes were aimed at enhancing core model performance, refining image clarity, and introducing innovative features for video creators. By using the AI tool&#8217;s \u2018inspiration credits,\u2019 anyone, from solo creators to major brands, can tap into Kling&#8217;s powerful video creation capabilities. The model is extremely straightforward: Want sharper, high definition videos? Spend more credits. Want to save on budget? Lower the tool&#8217;s parameters. It\u2019s super cost-effective, too. For just one dollar, you get 66 credits. Top-quality videos cost approximately 100 credits, whereas simpler versions cost just 20. By using Kling AI, creators now enjoy the freedom to scale their content based on budget, quality, and turnaround times. Tencent Holdings &#38; Alibaba Capitalize on AI Video Hype The AI video space is heating up with growing competition. Hunyuan Video, launched by Tencent Holdings in December 2024, delivers high-quality cinematic video generation with advanced features. These features include dynamic camera movement, lifelike reflections, and seamless transitions between realistic and animated picture styles. Alibaba is also in on the trend, having released Wan 2.1 in February 2025 \u2013 a proprietary suite of open-source AI models. The models are designed for high-quality video generation based on text and image inputs. It\u2019s also gearing up for a major upgrade, Wan 2.1-VACE, which will expand its functionality with advanced tools for reference-to-video generation and video-to-video editing. Let&#8217;s not forget OpenAI. The company is now developing Sora, a new tool for automated video generation. And then there&#8217;s Runway AI&#8217;s $3B valuation. Each of these developments signals a promising future for the SUBBD Token ($SUBBD), which goes a step further. This new crypto project delivers a full-suite of AI powered tools \u2013 not just video creation, but also online content management. SUBBD Leverages AI &#38; Crypto to Reshape Creator Workflows $SUBBD powers a next-gen content creation platform that streamlines creators&#8217; workflows and boosts community engagement through AI and Web3 technology. The digital content creation industry is booming, predicted to grow at a CAGR of 9.59% and reach $39.3B by 2032. Yet, despite the growth, creators still face serious challenges: High management and platform fees; Strict content policies on major platforms; Fragmented AI tools requiring multiple subscriptions; Outdated or slow payment systems. Thankfully, this is where the SUBBD ecosystem comes in, offering a seamless experience for AI-assisted content creation, editing, and monetization. The project achieves this through various AI tools, including a video generator, custom voice creator, and automatic live-streams. Meanwhile, fans get direct access to their favorite creators, and can enjoy personalized ecosystem fees and exclusive content \u2013 without having to rely on intermediaries. Influencers also benefit significantly thanks to a personal AI assistant. This tool is programmed to manage interactions and content schedules. Beyond content and engagement optimization, the personal assistant is an all-in-one tool that also boosts earnings by slashing third-party fees. Buying $SUBBD also ensures subscription discounts, staking rewards at a 20% APY, and XP multipliers for the platform&#8217;s raffles, games, and events. SUBBD to Soar as AI Video Craze Blows Up Kuaishou\u2019s Kling AI is on track to reach $100M in sales. This, coupled with the success of similar providers, like Hunyuan Video, Wan 2.1, Sora, and Runway, demonstrates just how quickly AI-driven video content is scaling. As demand for streamlined, AI-powered content creation continues to rise, SUBBD stands out with its crypto-AI platform that unlocks additional monetization opportunities for creators (including automated live streams and token rewards). To get involved, all you need to do is buy $SUBBD on presale for as little as $0.0556. The presale has raised over $600M so far, and the price is going to increase again in two days. High-earning creators moving to the platform could further push the coin to $0.438 this year \u2013 a 687% gain, based on the current price. Before making any investment decisions, always do your own research first and never spend more than you\u2019d be willing to lose."
+    },
+    {
+      "title": "XRP Price Sends Mixed Signals After 4 Green Daily Closes, Crash Or Rally?",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-sends-mixed-signals/",
+      "summary": "The XRP price has now moved back into bearish territory after a remarkable run on the daily chart that had been signaling possible bullish momentum. Crypto analyst Master Ananda points this out in a post that shows a disturbing trend in the XRP price chart. If this continues, then the future of XRP, at least in the short term, has become even more uncertain, with bears fighting for more control. 4 Green Daily Closes Fall to Nothing After suffering a crash along with the rest of the crypto market, the XRP price had faced a recovery that seemed to have put it right back on track to rally again. This saw the first green daily close on the last day of May and then carried on into the new month of June. The first three days also closed in the green, leading to four consecutive daily green closes, which is usually bullish for the price. Related Reading: Bitcoin Price Crash Below $100,000 Still Possible: Analysts Issue Downtrend Warnings However, there was just another part of the trend that was not completed to show that this was a bullish move, and it has to do with volume. As Master Ananda pointed out, a spike in volume was expected as the XRP price put in a higher low. This would mean there is the momentum needed to push the price back up. But this was not the case as the volume plummeted and remained muted. The absence of this expected volume suggests there is weakness surrounding the XRP price, and this played out as the next day saw a red close for the altcoin for the first time in June. If this lack of momentum continues, then the price could continue to plummet. So far, there is now resistance mounting at the 0.382 Fibonacci level, which is $2.2959. This resistance would need to be cleared with a spike in volume if there is to be a recovery in the XRP price. Otherwise, it risks a fall back down to the 0.236 Fibonacci level, meaning the first steps toward falling below $2. Related Reading: XRP Price Could Hit $21 This Bull Cycle With 1.618 Fib Level As Next Target XRP Price Could Fall As Volumes Suffer Data from Coinglass shows how bad the XRP volume has been recently. So far in June, daily volume has remained well below $5 billion, reminiscent of the bear market figures whenever the price was falling. This also shows reduced participation from investors who are wary of entering the market during such conditions. Interestingly, though, open interest remains rather high, $3.94 billion, showing that crypto traders are actively betting on the XRP price. However, the majority are betting that the XRP price will continue to fall from here, with Coinglass data showing 52.75% of all positions being short compared to only 47.25% betting the price will increase. Featured image from Dall.E, chart from TradingView.com"
+    },
     {
       "title": "Circle Soars 168% In First Day Of Trading On NYSE Following Strong IPO",
       "link": "https://www.newsbtc.com/news/circle-soars-168-in-first-day-of-trading-on-nyse-following-strong-ipo/",
@@ -95,19 +105,14 @@
       "title": "Bitcoin RSI Dips Below 30\u2014Is A New All-Time High Next?",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-rsi-dips-below-30-new-all-time-high-next/",
       "summary": "Data shows the 14-day Bitcoin Relative Strength Index (RSI) has dropped into the oversold region. Here&#8217;s what this could mean for the asset. Bitcoin RSI Has Breached Below The 30 Mark In a new post on X, analyst Axel Adler Jr has talked about the latest trend in the RSI of Bitcoin. The &#8220;RSI&#8221; refers to an indicator from technical analysis (TA) that measures the speed and magnitude of changes occurring in any given asset&#8217;s price over a specific period. In the current case, the period is 14 days. This metric is generally used for spotting oversold or overbought conditions for the asset. When the RSI is greater than 70, it can be a sign that the price is heating up and may be due a correction to the downside. On the other hand, it being under 30 can imply the asset is becoming underbought. Related Reading: Solana\u2019s Old Hands Are Moving\u2014Is Trouble Brewing? Now, here is the chart shared by the analyst that shows the trend in the 14-day Bitcoin RSI over the last couple of years: As displayed in the above graph, the 14-day Bitcoin RSI has plummeted recently and is now below the 30 threshold. This naturally suggests the cryptocurrency is becoming oversold, at least from the perspective of this indicator. &#8220;Other metrics are also showing alerts,&#8221; notes Adler Jr. &#8220;I think now all conditions are in place to start testing the ATH.&#8221; Though, while bullish developments may have occurred on the RSI and other indicators, BTC has actually declined during the past day. On-chain data may provide hints about where the next potential support zone could be located for the asset. As the analytics firm Glassnode has revealed in its latest weekly report, the average cost basis of the short-term holders is located at $97,100. The short-term holders (STHs) refer to the Bitcoin investors who purchased their coins during the past 155 days. The cost basis of this group has often been a relevant level for the cryptocurrency, taking turns as support and resistance. In the chart, the analytics firm has also shown two other levels: the +1 and -1 standard deviation bands. Currently, the latter is situated at $83,200, so it&#8217;s possible that if BTC&#8217;s bearish momentum lasts for long enough to push it under the STH cost basis, this value could prove significant. However, before this level, there is another on-chain level that could be important. The level in question is part of the Spent Supply Distribution (SSD) Quantiles model, which basically tells us which price levels the investors selling their coins right now initially purchased them. Related Reading: Bitcoin\u2019s Key Investors Double Down, Buy Another 79,000 BTC The 0.85 quantile is located at $95,600, which is quite close to the STH cost basis, so a retest of the zone could be a particularly vital one for Bitcoin. BTC Price At the time of writing, Bitcoin is floating around $101,000, down almost 5% in the last seven days. Featured image from Dall-E, CryptoQuant.com, Glassnode.com, chart from TradingView.com"
-    },
-    {
-      "title": "SUI Rally At Risk? Analysts Warn Of 30% Dip If This Level Doesn\u2019t Hold",
-      "link": "https://www.newsbtc.com/news/sui-rally-at-risk-analysts-warn-of-30-dip-if-this-level-doesnt-hold/",
-      "summary": "SUI, one of the leading altcoins of this cycle, has recorded an impressive price recovery over the past two months. However, as the cryptocurrency fails to hold some key levels, some analysts warn of a potential drop below the $3.00 support. Related Reading: Ethereum Eyes 15% Move Amid Key Resistance Retest \u2013 Breakout Or Rejection Next? SUI Rally Risks Massive Price Drop Since hitting its four-month high of $4.29, SUI\u2019s price has been moving sideways, hovering between $3.40-$4.00 throughout most of May. Amid last week\u2019s market retrace, the altcoin recorded a 14.2% price drop, losing its range and hitting the $3.00 support over the weekend. At the start of this week, SUI saw a mild recovery alongside the rest of the market, surging to the $3.20 area. Nonetheless, the cryptocurrency has failed to hold this level over the past 24 hours and dropped to the $3.10-$3.15 area on Thursday morning. Crypto analyst Carl Runefelt warned that the cryptocurrency\u2019s rally could be in danger as it risks breaking down of a descending triangle pattern. Per"
-    },
-    {
-      "title": "TRON Surges Past 8 Million Daily Transactions as TRX Holds Above $0.27",
-      "link": "https://www.newsbtc.com/news/tron-trx/tron-surges-past-8-million-daily-transactions-as-trx-holds-above-0-27/",
-      "summary": "TRON (TRX) has experienced relatively stable price movement over the past week, fluctuating within a narrow range between $0.276 and $0.272. At the time of writing, the token is trading at $0.2729, reflecting a weekly decline of approximately 1.5%. However, zooming out reveals a broader uptrend, with TRX gaining nearly 12% over the past month, indicating growing market interest amid a backdrop of increased on-chain activity. An assessment of TRON\u2019s network-level data suggests the blockchain is experiencing a surge in usage. According to a recent analysis published on CryptoQuant\u2019s QuickTake platform by contributor Darkfost, daily transaction volume on the TRON network has crossed the 8 million mark, a notable increase from earlier this year. This growth in network transactions is considered a critical indicator of underlying demand and user engagement, which could influence market sentiment around the asset. Related Reading: TRON Activity Hits All-Time High, Is a TRX Price Breakout Coming? Transaction Volume and Address Activity Show Strong Network Engagement Darkfost noted that TRON\u2019s monthly average for daily transactions has seen consistent growth, with recent data showing a roughly 2 million increase in average daily transactions since February. The network is now processing over 8 million transactions per day, marking a more than 30% rise over the past four months. Importantly, a large share of these transactions is occurring outside centralized exchanges, pointing to the growing utility of the blockchain for peer-to-peer transfers and decentralized application (dApp) usage. This shift away from centralized platforms may reflect increased interest in TRON\u2019s native ecosystem services and its competitive yield offerings. As more users interact directly with the network, transaction-based liquidity grows, which can contribute to stronger economic activity across the TRON protocol. Darkfost emphasized that this trend of non-exchange transactions is a positive signal for the blockchain\u2019s real-world usage and investor adoption. TRON Active Address Metrics Reach New Highs In a separate update, CryptoQuant analyst Cryptoonchain highlighted that both the 50-day and 100-day moving averages for active addresses on the TRON network have hit their highest levels to date. This sustained rise in active wallet participation suggests a growing user base that is consistently interacting with the blockchain. While TRX\u2019s price has not fully kept pace with the uptick in address activity, historical trends suggest that increased user engagement often precedes upward price movement. Related Reading: Analyst Explains Reason Behind Tron Price Sluggishness \u2014 Are TRX Bears Now In Control? The correlation between active address growth and price performance continues to be an area of interest. With momentum building across multiple on-chain indicators, there is a likelihood that TRON may be positioned for further gains if current trends hold. Analysis of Daily Active Addresses and TRX Price on Tron Network \u2013 All-Time Highs in Moving Averages \u201cHistorically, changes in active address trends tend to precede major price movements.\u201d \u2013 By @CryptoOnchain pic.twitter.com/7QXqP6g1Gh \u2014 CryptoQuant.com (@cryptoquant_com) June 4, 2025 Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Palantir Is Violating Its Own Principles by Avoiding a Bitcoin Treasury",
+      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/palantir-violates-principles-avoiding-bitcoin-treasury",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Palantir-Is-Violating-Its-Own-Principles-by-Avoiding-a-Bitcoin-Treasury-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-for-corporations/palantir-violates-principles-avoiding-bitcoin-treasury\" rel=\"nofollow\"> </a></p> <p>Palantir builds for sovereignty and resilience\u2014but without a Bitcoin treasury, its mission remains unfinished and its capital strategy misaligned.</p> <p>"
+    },
     {
       "title": "Bitcoin vs Stablecoins: Bitcoin is an Unreplicable Lifeline in Authoritarian Regimes",
       "link": "https://bitcoinmagazine.com/politics/bitcoin-vs-stablecoins-bitcoin-is-an-unreplicable-lifeline-in-authoritarian-regimes",
@@ -127,11 +132,6 @@
       "title": "Botanix Launches Federated Sidechain with 16 Members\u00a0On Testnet",
       "link": "https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_giant_robot_spider_with_big_matrix_code_ch_2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/botanix-launches-federated-sidechain-with-16-members\" rel=\"nofollow\"> </a></p> <p>Botanix launches a decentralized Bitcoin sidechain on testnet with a 16-node federation, using the Spiderchain protocol for EVM-compatible dApps. Mainnet set for Q3 2025.</p> <p>"
-    },
-    {
-      "title": "Matador Technologies Raises C$1.64M To Invest in Their Bitcoin Reserve",
-      "link": "https://bitcoinmagazine.com/news/matador-technologies-raises-c1-64m-to-invest-in-their-bitcoin-reserve",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Matador-Technologies-Raising-C1-Million-to-Invest-in-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/matador-technologies-raises-c1-64m-to-invest-in-their-bitcoin-reserve\" rel=\"nofollow\"> </a></p> <p>Matador Technologies announced it raised C$1,644,300 across the issuance of 2,652,097 units to add more bitcoin to their reserve.</p> <p>"
     }
   ],
   "Decrypt": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "UK FCA plans to let consumers buy crypto ETNs, but keeps retail blocked from derivatives",
+      "link": "https://cryptobriefing.com/fca-crypto-etns-retail-ban/",
+      "summary": "<p>The FCA's decision may boost crypto market participation but raises concerns about retail investors' exposure to high-risk financial products.</p> <p>"
+    },
+    {
       "title": "World Liberty advisor faces six-figure loss after shorting $TRUMP on Trump-Musk fallout",
       "link": "https://cryptobriefing.com/shorting-trump-losses-advisor/",
       "summary": "<p>The fallout highlights the volatility and interconnectedness of crypto and traditional markets, emphasizing the risks of speculative trading.</p> <p>"
@@ -181,14 +186,19 @@
       "title": "Trump\u2019s sons send cease-and-desist to his meme coin team over Trump-branded crypto wallet",
       "link": "https://cryptobriefing.com/trump-branded-crypto-wallet-dispute/",
       "summary": "<p>The cease-and-desist highlights potential legal and reputational risks in unauthorized use of high-profile names in crypto ventures.</p> <p>"
-    },
-    {
-      "title": "Tesla shares tumble as Trump-Musk bromance collapses days after farewell",
-      "link": "https://cryptobriefing.com/tesla-stock-tumble-trump-musk/",
-      "summary": "<p>The fallout may impact Tesla's market stability and influence future corporate-political alliances, highlighting risks of volatile partnerships.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "FARTCOIN flies as Coinbase listing talks rise \u2013 Here\u2019s what you should know",
+      "link": "https://ambcrypto.com/fartcoin-flies-as-coinbase-listing-talks-rise-heres-what-you-should-know/",
+      "summary": "<img alt=\"FARTCOIN flies as Coinbase listing talks rise - Here&#039;s what you should know\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN spikes 14% on Coinbase buzz \u2013 The beginning of a big rally?"
+    },
+    {
+      "title": "Top 8 exchanges to trade on in June 2025",
+      "link": "https://ambcrypto.com/top-8-exchanges-to-trade-on-in-june-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1099\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/steve-johnson-0sPFjdcRhko-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Cryptocurrency has seen large-scale adoption in the past few years, with a global user base [&#8230;]"
+    },
     {
       "title": "Top 8 VPNs of June 2025",
       "link": "https://ambcrypto.com/top-8-vpns-of-june-2025/",
@@ -203,16 +213,6 @@
       "title": "World Liberty Financial exec shorts TRUMP \u2013 Will it hold $10?",
       "link": "https://ambcrypto.com/world-liberty-financial-exec-shorts-trump-will-it-hold-10/",
       "summary": "<img alt=\"World Liberty Financial exec shorts TRUMP - Will it hold $10? \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/TRUMPWI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Trump family's crypto tensions may be far from over, going by recent updates."
-    },
-    {
-      "title": "$1B liquidation bloodbath: Can Bitcoin hold $100K amid Musk\u2013Trump drama?",
-      "link": "https://ambcrypto.com/1b-liquidation-bloodbath-can-bitcoin-hold-100k-amid-musk-trump-drama/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika3-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Political war erupts, billions wiped out - Is Bitcoin\u2019s $100k crown in danger?"
-    },
-    {
-      "title": "Bitcoin stuck in key region: What\u2019s keeping BTC from bouncing?",
-      "link": "https://ambcrypto.com/bitcoin-stuck-in-key-region-whats-keeping-btc-from-bouncing/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-05T170237.123-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin faces weakening retail interest and shrinking liquidity, putting pressure on its recovery."
     }
   ]
 }
