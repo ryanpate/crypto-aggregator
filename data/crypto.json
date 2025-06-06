@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Ether Trader Bets Millions on ETH Blasting Above $3.4K by June-End",
+      "link": "https://www.coindesk.com/markets/2025/06/06/ether-trader-bets-millions-on-eth-blasting-above-usd3-4k-by-june-end",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin, Ether Bulls Hit With $800M Liquidation as Trump-Musk Tussle Rattles BTC, ETH",
+      "link": "https://www.coindesk.com/markets/2025/06/06/bitcoin-ether-bulls-hit-with-800m-liquidation-as-trump-musk-tussle-rattles-btc-eth",
+      "summary": ""
+    },
+    {
       "title": "Uber Once Again Says It's Considering Crypto Years After Mulling BTC Payments",
       "link": "https://www.coindesk.com/markets/2025/06/05/uber-once-again-says-its-considering-crypto-years-after-considering-btc-payments",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Senate Stablecoin Bill Likely to Win Massive Bipartisan Support, Dem Lawmaker Says",
       "link": "https://www.coindesk.com/policy/2025/06/05/senate-stablecoin-bill-likely-to-win-massive-bipartisan-support-dem-lawmaker-says",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Threatens $100K, Crypto Losses Grow as Musk/Trump Feud Goes Nuclear",
-      "link": "https://www.coindesk.com/markets/2025/06/05/bitcoin-threatens-100k-crypto-losses-grow-as-musktrump-feud-goes-nuclear",
-      "summary": ""
-    },
-    {
-      "title": "OFAC Sanctions Philippines-Based Tech Company For Facilitating Pig Butchering Schemes",
-      "link": "https://www.coindesk.com/policy/2025/06/05/ofac-sanctions-philippines-based-tech-company-for-facilitating-pig-butchering-schemes",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Crypto users fail \u2018basic situational awareness\u2019 at events, says Kraken",
+      "link": "https://cointelegraph.com/news/crypto-eventgoers-fail-basic-situational-awareness-kraken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDkwMDYtOTc2Zi03MGEyLThkZWItNTZmOTcwZDQyNWM0.jpg\" /></p><p>Kraken\u2019s security team says that at crypto conferences, it\u2019s seen unlocked laptops, phones left unattended and public discussions about personal wealth.</p>"
+    },
+    {
+      "title": "AI solidifying role in Web3, challenging DeFi and gaming: DappRadar",
+      "link": "https://cointelegraph.com/news/ai-solidifying-role-in-web3-rivals-defi-engagement-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIxMzUtMGMyMy03ZGRhLTkxODEtNjY1NjZkY2EwNTQ5.jpg\" /></p><p>The number of daily unique active wallets on AI-powered crypto apps grew 23% in May, eating into the market share of DeFi and Web3 gaming, says DappRadar.</p>"
+    },
     {
       "title": "Ross Ulbricht\u2019s big Bitcoin donor tied to Silk Road successor Alphabay: Report",
       "link": "https://cointelegraph.com/news/silk-road-successor-alphabay-31m-bitcoin-donation-ross-ulbricht?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Trump-Musk spat sees Bitcoin tumble, liquidating $308M in longs",
       "link": "https://cointelegraph.com/news/bitcoin-price-decline-long-positions-liquidated-donald-trump-elon-musk-feud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQyZGMtN2RhNC03MTNkLThlM2YtNzM3OWMyMmRiYTY1.jpg\" /></p><p>Bitcoin long traders took a hit over the past 24 hours amid Bitcoin\u2019s price dwindling amid broader macroeconomic tension and continued sell-offs by long-term holders.</p>"
-    },
-    {
-      "title": "US wants $7.7M in crypto laundered in North Korea IT worker plot",
-      "link": "https://cointelegraph.com/news/us-wants-crypto-laundered-north-korea-it-worker-plot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQyNTktMzU4YS03YmI2LTgxYmItNmQyNTdjOGM0Yzc2.jpg\" /></p><p>The Justice Department has filed a civil forfeiture complaint to seize crypto and NFTs allegedly tied to laundering efforts by North Korea.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "TRON Surges Past 8 Million Daily Transactions as TRX Holds Above $0.27",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-surges-past-8-million-daily-transactions-as-trx-holds-above-0-27/",
+      "summary": "TRON (TRX) has experienced relatively stable price movement over the past week, fluctuating within a narrow range between $0.276 and $0.272. At the time of writing, the token is trading at $0.2729, reflecting a weekly decline of approximately 1.5%. However, zooming out reveals a broader uptrend, with TRX gaining nearly 12% over the past month, indicating growing market interest amid a backdrop of increased on-chain activity. An assessment of TRON\u2019s network-level data suggests the blockchain is experiencing a surge in usage. According to a recent analysis published on CryptoQuant\u2019s QuickTake platform by contributor Darkfost, daily transaction volume on the TRON network has crossed the 8 million mark, a notable increase from earlier this year. This growth in network transactions is considered a critical indicator of underlying demand and user engagement, which could influence market sentiment around the asset. Related Reading: TRON Activity Hits All-Time High, Is a TRX Price Breakout Coming? Transaction Volume and Address Activity Show Strong Network Engagement Darkfost noted that TRON\u2019s monthly average for daily transactions has seen consistent growth, with recent data showing a roughly 2 million increase in average daily transactions since February. The network is now processing over 8 million transactions per day, marking a more than 30% rise over the past four months. Importantly, a large share of these transactions is occurring outside centralized exchanges, pointing to the growing utility of the blockchain for peer-to-peer transfers and decentralized application (dApp) usage. This shift away from centralized platforms may reflect increased interest in TRON\u2019s native ecosystem services and its competitive yield offerings. As more users interact directly with the network, transaction-based liquidity grows, which can contribute to stronger economic activity across the TRON protocol. Darkfost emphasized that this trend of non-exchange transactions is a positive signal for the blockchain\u2019s real-world usage and investor adoption. TRON Active Address Metrics Reach New Highs In a separate update, CryptoQuant analyst Cryptoonchain highlighted that both the 50-day and 100-day moving averages for active addresses on the TRON network have hit their highest levels to date. This sustained rise in active wallet participation suggests a growing user base that is consistently interacting with the blockchain. While TRX\u2019s price has not fully kept pace with the uptick in address activity, historical trends suggest that increased user engagement often precedes upward price movement. Related Reading: Analyst Explains Reason Behind Tron Price Sluggishness \u2014 Are TRX Bears Now In Control? The correlation between active address growth and price performance continues to be an area of interest. With momentum building across multiple on-chain indicators, there is a likelihood that TRON may be positioned for further gains if current trends hold. Analysis of Daily Active Addresses and TRX Price on Tron Network \u2013 All-Time Highs in Moving Averages \u201cHistorically, changes in active address trends tend to precede major price movements.\u201d \u2013 By @CryptoOnchain pic.twitter.com/7QXqP6g1Gh \u2014 CryptoQuant.com (@cryptoquant_com) June 4, 2025 Featured image created with DALL-E, Chart from TradingView"
+    },
+    {
       "title": "Bitcoin Network Activity Booming Despite A Quiet Market\u2014Data",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-network-activity-is-booming-despite-a-quiet-market-data/",
       "summary": "Bitcoin\u2019s price has barely moved in the last week, but other signs point to growing activity on the network. On June 5, Bitcoin traded around $104,300, down 0.50% in 24 hours and off 2.5% over the past seven days. Yet data shows more people are joining the network, and more coins are being passed around. Related Reading: Bitcoin Reserve Gets Military Nod, Senator Predicts Explosive 10-Year Surge Wallet Creation Jump According to Santiment, on May 29 nearly 557,000 new wallets appeared. That was the highest number since December 2023. It means thousands of people are opening wallets even though price has stayed just under $105,000. People normally open new wallets to send and receive bitcoins but they somehow come across the idea through new sources, increased talks among friends or create simple curiosity. In any case, an increased wallet holding indeed indicates a much wider usage. \ud83d\udcca Bitcoin&#8217;s on-chain activity has seen sharp rises this week as its price hovers just below $105K: \ud83d\udcc8 May 29th: 556,830 new $BTC wallets created (Highest since December 2, 2023) \ud83d\udd04 June 2nd: 241,360 coins circulated (Highest since December 8, 2024) Growth in a network&#8217;s\u2026 pic.twitter.com/2DxknVXrKT \u2014 Santiment (@santimentfeed) June 5, 2025 Increased Token Movement On June 2, over 241,360 BTC changed hands. This was deemed the busiest day since December 2024. Reports from Santiment suggest that high coin turnover usually coincides with increased traffic. Traders might be moving coins in and out of exchanges, or investors could be shifting wallets. Big swings in daily token movement can point to a shift in sentiment\u2014people either getting ready to buy or sell. Right now, it mostly looks like more users are sending coins to each other, which keeps the network busy even when price sits still. Big Holders Step In Data from IntoTheBlock shows that large holders\u2014often called \u201cwhales\u201d\u2014are stocking up. Their coin inflows jumped by 145% over the last seven days, and by 214% over the past 30 days. When big players load up, it can tighten supply on exchanges. That makes it tougher for new buyers to get in without driving price higher. If whales keep buying at this rate, it could lead to more upward pressure on price once everyday investors step in again. Related Reading: Bitcoin Scarcity May Spark Explosive Surge, Bank Study Shows Mid Tier Investors Buy It\u2019s not just the really big holders adding coins. Wallets holding between 10 and 10,000 BTC added more than 79,000 BTC in just one week. That means these mid-tier holders picked up around 11,320 BTC per day on average. As of June 2, they held over 13 million BTC in total. When both big whales and these mid-level holders keep stacking, it further cuts down the number of coins floating on exchanges. Fewer coins available often mean any shift in demand could move price more. Featured image from Imagen, chart from TradingView"
@@ -100,11 +105,6 @@
       "title": "XRP Price Drops Toward $2.00: Can Bulls Defend This Critical Support Level?",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-drops-toward-2-00/",
       "summary": "XRP price started a fresh decline below the $2.20 zone. The price is now consolidating and might aim for a recovery wave above the $2.120 resistance. XRP price started a fresh decline below the $2.20 zone. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. There was a break below a key bullish trend line with support at $2.192 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another increase if it clears the $2.120 resistance zone. XRP Price Dips To Support XRP price failed to gain pace for a move above the $2.220 level and started a fresh decline, like Bitcoin and Ethereum. There was a move below the $0.2150 and $0.2120 levels. Besides, there was a break below a key bullish trend line with support at $2.192 on the hourly chart of the XRP/USD pair. Finally, the price tested the $2.050 zone. It is now consolidating losses below the 23.6% Fib retracement level of the downward move from the $2.281 swing high to the $2.056 low. The price is now trading below $2.120 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.120 level. The first major resistance is near the $2.150 level. The next resistance is $2.1750. It is near the 50% Fib retracement level of the downward move from the $2.281 swing high to the $2.056 low. A clear move above the $2.1750 resistance might send the price toward the $2.20 resistance. Any more gains might send the price toward the $2.220 resistance or even $2.2420 in the near term. The next major hurdle for the bulls might be $2.250. More Losses? If XRP fails to clear the $2.15 resistance zone, it could start another decline. Initial support on the downside is near the $2.050 level. The next major support is near the $2.020 level. If there is a downside break and a close below the $2.020 level, the price might continue to decline toward the $2.00 support. The next major support sits near the $1.920 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now below the 50 level. Major Support Levels \u2013 $2.050 and $2.020. Major Resistance Levels \u2013 $2.120 and $2.150."
-    },
-    {
-      "title": "Solana\u2019s Old Hands Are Moving\u2014Is Trouble Brewing?",
-      "link": "https://www.newsbtc.com/news/solana/solana-old-hands-moving-is-trouble-brewing/",
-      "summary": "On-chain data shows the Solana network has just seen a large movement of dormant coins. Here&#8217;s what this could mean for the cryptocurrency. Solana Coin Days Destroyed Has Witnessed A Huge Spike In a new post on X, the on-chain analytics firm Glassnode has talked about the latest trend in the &#8220;Coin Days Destroyed&#8221; (CDD) indicator for Solana. A &#8216;coin day&#8217; is a quantity that one token of the asset accumulates after having stayed dormant (that is, not being involved in any transaction activity) for one day. When a token carrying some number of coin days is moved, its coin days counter resets back to zero, and the coin days that it was carrying are said to be &#8216;destroyed.&#8217; The CDD measures the total number of coin days being reset in this manner across the network. Related Reading: Bitcoin\u2019s Key Investors Double Down, Buy Another 79,000 BTC When the value of this indicator registers a spike, it means dormant coins are potentially on the move. Generally, this kind of trend is a sign of transaction activity from the long-term holders (LTHs). The LTHs are resolute entities who tend to hold for long periods, so they naturally hold a large number of coin days. As such, transfers from them usually result in the destruction of a significant number of coin days. Now, here is the chart for the Solana CDD shared by the analytics firm that shows the trend in its value during the past few months: As displayed in the above graph, the Solana CDD has observed a large spike recently, suggesting the LTHs have made some transactions. In total, this spike involved the destruction of a massive 3.55 billion coin days. From the chart, it&#8217;s visible that the indicator has seen only two spikes of a greater scale in 2025 so far. February 26th recorded a CDD value of 5.53 billion, while March 3rd saw a value of 4.64 billion. The LTHs usually only break their silence when they want to participate in selling, so movements from them can sometimes spell trouble for the cryptocurrency&#8217;s price. Large spikes like these can especially be worth taking note of, as they can point toward a possible shift in holder conviction . The aforementioned two larger spikes occurred one after the other, with a third, slightly smaller-scale spike following later in March. Therefore, it&#8217;s possible that more than a couple of diamond hands lost their belief during that period. Related Reading: Bitcoin ATH Fails To Hype Retail\u2014Demand Is Actually Down It now remains to be seen whether the latest Solana CDD spike would also be followed up by another, or if this was just a one-off event. SOL Price At the time of writing, Solana is trading around $153.9, down more than 10% in the last week. Featured image from Shutterstock.com, Glassnode.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "BNB \u2013 Signs of accumulation, but should traders wait for a dip instead?",
+      "link": "https://ambcrypto.com/bnb-signs-of-accumulation-but-should-traders-wait-for-a-dip-instead/",
+      "summary": "<img alt=\"BNB - Signs of accumulation, but should traders wait for a dip instead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/BNB-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Binance Coin has seen steady buying pressure since March, making the case for bullish strength."
+    },
+    {
+      "title": "California moves to claim dormant crypto holdings \u2013 What should you expect?",
+      "link": "https://ambcrypto.com/california-moves-to-claim-dormant-crypto-holdings-what-should-you-expect/",
+      "summary": "<img alt=\"California moves to claim dormant crypto holdings - What should you expect? \" class=\"attachment-full size-full wp-post-image\" height=\"583\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/California-Assembly-has-passed-AB-1052.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1036\" />Why is California treating Bitcoin like a forgotten bank account?"
+    },
+    {
       "title": "$13B in crypto token unlocks incoming \u2013 Volatility set to surge across AI, memecoin sectors!",
       "link": "https://ambcrypto.com/13b-in-crypto-token-unlocks-incoming-volatility-set-to-surge-across-ai-memecoin-sectors/",
       "summary": "<img alt=\"$13B in crypto token unlocks incoming - Volatility set to surge across AI, memecoin sectors!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/token-unlocks-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Assessing the potential market volatility ahead of $13 billion worth of supply pressure."
@@ -203,16 +213,6 @@
       "title": "Toncoin whales buy, but holders remain red \u2013 What next?",
       "link": "https://ambcrypto.com/toncoin-whales-buy-but-holders-remain-red-what-next/",
       "summary": "<img alt=\"Toncoin whales buy, but holders remain red - What next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-05T140156.148-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whale strength contrasts with heavy unrealized losses, positioning TON for a potential breakout."
-    },
-    {
-      "title": "Sei hits 621K wallets and $930M TVL, but 2 areas suggest caution",
-      "link": "https://ambcrypto.com/sei-hits-621k-wallets-and-930m-tvl-but-2-areas-suggest-caution/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-05T154612.319-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sei's explosive growth in users and TVL signals strength, but short-term liquidity metrics show caution."
-    },
-    {
-      "title": "Bitcoin\u2019s HODL level hits 2-year high: Are LTHs the key to BTC\u2019s next surge?",
-      "link": "https://ambcrypto.com/bitcoins-hodl-level-hits-2-year-high-are-lths-the-key-to-btcs-next-surge/",
-      "summary": "<img alt=\"Bitcoin\u2019s HODL level hits 2-year high: Are LTHs the key to BTC&#039;s next surge?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin's HODL level hits a 2-year high as accumulation scores for mid and small buyers hit 1.0."
     }
   ]
 }
