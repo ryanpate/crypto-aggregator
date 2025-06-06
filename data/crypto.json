@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Hashed Research CEO Appointed Chief Policy Officer at Korea's Presidential Office",
+      "link": "https://www.coindesk.com/policy/2025/06/06/hashed-research-ceo-appointed-chief-policy-officer-at-koreas-presidential-office",
+      "summary": ""
+    },
+    {
       "title": "Billionaire Winklevoss Twins-Backed Exchange Gemini Files With SEC For Planned IPO",
       "link": "https://www.coindesk.com/business/2025/06/06/billionaire-winklevoss-twins-backed-exchange-gemini-files-with-sec-for-planned-ipo",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "House Dems Get Bonus Hearing on Crypto Market Structure, Assail Trump Conflicts",
       "link": "https://www.coindesk.com/policy/2025/06/06/house-dems-get-bonus-hearing-on-crypto-market-structure-assail-trump-conflicts",
       "summary": ""
-    },
-    {
-      "title": "Polkadot's DOT Retakes Important $3.96 Level as Buyers Step In After Pullback",
-      "link": "https://www.coindesk.com/markets/2025/06/06/polkadots-dot-retakes-important-396-level-as-buyers-step-in-after-pullback",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Arca unloads Circle shares after scathing IPO letter",
+      "link": "https://cointelegraph.com/news/arca-exec-firm-sold-circle-shares-scathing-ipo-letter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ2OTctYzc4OS03NGI2LWFjYzgtZjkzYjE2YjU0Mjg4.jpg\" /></p><p>Arca's chief investment officer, Jeff Dorman, previously said the investment company would stop doing business with Circle.</p>"
+    },
+    {
+      "title": "Crypto market structure hearing devolves into partisan claims",
+      "link": "https://cointelegraph.com/news/market-structure-hearing-criticism-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ1ZTctNjdmMy03ZWQ5LWIxNjAtZTM2ZmNmYzRhOTBl.jpg\" /></p><p>Allegations on the president\u2019s ties to the crypto industry and claims of \u201cTrump derangement syndrome\u201d clouded attempts to reach an agreement on a market structure bill in Congress.</p>"
+    },
     {
       "title": "Big Techs consider adopting stablecoins as GENIUS Act debate continues",
       "link": "https://cointelegraph.com/news/big-tech-considers-adopting-stablecoins-as-genius-act-debate-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Tigran Gambaryan formally resigns from Binance following return to US",
       "link": "https://cointelegraph.com/news/tigran-gambaryan-formally-resigns-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ2MGEtMDhjMS03NmM3LWI4YTktMzFjNTQ0MGQyNjVh.jpg\" /></p><p>The former executive is starting a new chapter, having returned to the US in October 2024 after being detained for eight months in Nigeria.</p>"
-    },
-    {
-      "title": "Has Bitcoin been captured by politics and institutions?",
-      "link": "https://cointelegraph.com/news/has-bitcoin-been-captured-by-politics-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ2MDgtN2RhNC03ZDJkLTkwNjgtZTI3YTUyMzhmMTc0.jpg\" /></p><p>Bitcoin is now front and center at political conferences and corporate boardrooms. In this episode of Byte-Sized Insight, we're at Bitcoin 2025 exploring whether it has been captured, or simply arrived.</p>"
-    },
-    {
-      "title": "Price predictions 6/6: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, SUI, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-6-6-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ1ZWYtYjRjZC03M2EyLWJmMjgtZDM4N2QzN2NlOWE1.jpg\" /></p><p>Bitcoin\u2019s sharp rebound off the $100,000 level shows a positive sentiment, but higher levels may attract sellers.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Stalling first-mover advantage: VanEck, 21Shares, Canary press SEC to restore first-to-file ETF review order",
+      "link": "https://cryptoslate.com/stalling-first-mover-advantage-vaneck-21shares-canary-press-sec-to-restore-first-to-file-etf-review-order/",
+      "summary": "<p>VanEck, 21Shares, and Canary Capital requested on June 5 that the US Securities and Exchange Commission (SEC) reinstate the queue-based review system that awards exchange-traded product approvals in the order issuers filed. In a joint letter to Chair Paul Atkins, the firms said concurrent approvals strip early filers of the advantage that traditionally offsets higher [&#8230;]</p> <p>"
+    },
     {
       "title": "Gemini files confidential IPO draft as Circle\u2019s shares register a new all-time high near $124",
       "link": "https://cryptoslate.com/gemini-files-confidential-ipo-draft-as-circles-shares-register-a-new-all-time-high-near-124/",
@@ -73,14 +78,14 @@
       "title": "Institutional Bitcoin ETF holdings decline while direct corporate BTC reserves gain traction",
       "link": "https://cryptoslate.com/institutional-bitcoin-etf-holdings-decline-while-direct-corporate-btc-reserves-gain-traction/",
       "summary": "<p>Institutional allocations to spot Bitcoin ETFs declined for the first time since their introduction, according to Q1 2025 13F filings. However, corporate Bitcoin ownership shows little sign of declining overall. The data marks a shift from the strong initial inflows that followed the funds\u2019 January 2024 launch, as hedge funds reduced exposure and the futures-based [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Trump Media submits new SEC filing to purchase $2.3B Bitcoin reserve",
-      "link": "https://cryptoslate.com/trump-media-submits-new-sec-filing-to-launch-2-3b-bitcoin-reserve-strategy/",
-      "summary": "<p>Trump Media &#38; Technology Group has filed a Form S-3 with the U.S. Securities and Exchange Commission, registering 85 million securities related to its previously closed $2.44 billion Bitcoin treasury deal. The filing also includes a universal shelf registration, granting the company flexibility to issue additional securities in the future as part of a broader [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Stabilizes After Market Drop \u2013 Key MA Reclaim Could Trigger A June Rally",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-stabilizes-after-market-drop-key-ma-reclaim-could-trigger-a-june-rally/",
+      "summary": "Ethereum has experienced a sharp pullback, retracing over 10% since yesterday as the broader crypto market faced a wave of volatility. Despite the decline, bulls are showing resilience. ETH failed to break below the critical $2,300 mark and is now holding firm above $2,400, a sign that demand remains strong at current levels. Investors are watching closely as Ethereum consolidates and attempts to recover lost ground. Related Reading: Solana Horizontal Support Under Pressure \u2013 Bearish Target At $142 Top analyst M-Log1 shared a technical update indicating that ETH is currently sitting around the 200-period moving average on the 4-hour chart. This level often acts as a major trend indicator, and reclaiming it could spark renewed bullish momentum. According to M-Log1, Ethereum\u2019s price action suggests a potential recovery toward the $2,600 zone, especially if bulls manage to push above the 50 and 100 MAs. This renewed interest in ETH comes at a pivotal moment for altcoins. Many market participants are now evaluating whether this consolidation phase marks the beginning of a larger move for Ethereum and related assets. For now, all eyes remain on key technical levels as the market awaits confirmation of direction. Ethereum Eyes Recovery After Market Shake-Up Ethereum is showing signs of strength amid heightened market volatility sparked by rising tensions between Elon Musk and US President Donald Trump. The sharp war of words between the two high-profile figures triggered a wave of uncertainty in financial markets, prompting swift reactions across the cryptocurrency sector. While Bitcoin remains stable above the $100K level, altcoins have experienced significant pullbacks\u2014ETH included. However, the coming weeks are shaping up to be decisive, with many investors closely watching for signs of recovery. ETH has retraced over 10% in recent sessions but is now bouncing from the lows. Bulls appear confident as Ethereum holds above the $2,400 level and attempts to reclaim key moving averages on the 4-hour chart. According to M-Log1, ETH currently sits near the 200MA, a crucial technical level that often signals trend reversals. He notes that Ethereum is bouncing exactly as expected following last week\u2019s broader altcoin correction. M-Log1\u2019s analysis points to the $2,600 level as the next target. A successful push toward that zone, along with reclaiming the 50 and 100 moving averages, could set the stage for a strong rally throughout June. If ETH manages to build momentum and maintain support, the altcoin market could experience renewed bullish energy. Despite ongoing macroeconomic uncertainty and political risk, Ethereum\u2019s resilience is notable. With technical support holding and confidence slowly returning, the setup remains constructive, assuming bulls continue to defend key levels. As the market digests recent events, ETH&#8217;s price action over the next few days will offer critical insight into whether a new altseason can take off or whether further downside is still in play. Related Reading: Ethereum Mirrors Bitcoin 2020 Breakout Setup \u2013 Historic Run Incoming? ETH Weekly Chart: Key Levels Hold Ethereum is currently trading around $2,475 on the weekly chart, showing signs of hesitation as it faces strong resistance near the 200-week simple moving average (SMA) at $2,450. Although ETH managed to surge above this level briefly, the candle is showing rejection near the $2,680 area, which coincides with both historical resistance and the upper end of the 34-week EMA ($2,499). This confluence of resistance levels is proving to be a critical zone for bulls to reclaim. Despite the recent bounce from April lows, ETH is still struggling to gain bullish momentum on the higher timeframes. The last few candles reflect indecision, with long wicks and narrowing body size, suggesting that while buyers are defending downside levels, sellers remain active near resistance. If ETH fails to close the week above the 200-week SMA, a pullback toward the $2,300\u2013$2,250 range is likely, which aligns with the 50-week and 100-week moving averages. Related Reading: Ethereum Consolidates Against BTC \u2013 Altseason Hopes Hinge On ETH/BTC Breakout On the upside, a strong weekly close above $2,700 would be a major breakout signal, potentially triggering a broader altseason. For now, Ethereum\u2019s weekly structure remains neutral-to-bullish, with consolidation above the 200-week SMA acting as a key battleground for trend confirmation. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Litecoin Wobbles Under Pressure: Can It Find Footing Below $87?",
       "link": "https://www.newsbtc.com/news/litecoin/litecoin-wobbles-under-pressure/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Could Break The Dollar \u2014 $250K Prediction Still In Play, Billionaire Says",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-could-break-the-dollar-250k-prediction-still-in-play-billionaire-says/",
       "summary": "Tim Draper, a Silicon Valley venture capitalist, has doubled down on his call for Bitcoin to hit $250,000 by the end of 2025. He shared this on X, renewing a prediction he first made in 2018 when he set his sights on reaching that mark by 2022. Related Reading: Bitcoin Reserve Gets Military Nod, Senator Predicts Explosive 10-Year Surge Back then, the crypto market took a sharp downturn in 2022\u2014thanks in part to FTX\u2019s collapse\u2014and the timeline slipped. Still, Draper believes today\u2019s drivers are strong enough to push prices higher. He even suggested that the US dollar might vanish in a decade as Bitcoin takes its place. Tim Draper\u2019s Bold Timeline According to Draper, the $250,000 target isn\u2019t just wishful thinking. In 2018, he said Bitcoin would reach that level by 2022. It didn\u2019t happen\u20142022 saw many digital assets tumble in value. This year, though, he repeated his forecast after seeing a \u201crecent surge\u201d in the crypto. Bitcoin might go infinite against the dollar. On the heels of the recent surge, I\u2019m still expecting Bitcoin to reach $250,000 this year. Whether Bitcoin will keep gaining ground that fast, who knows. But the main factors pushing it forward right now are: \u2192 General optimism\u2026 pic.twitter.com/EiD36iYbRy \u2014 Tim Draper (@TimDraper) June 4, 2025 He also claimed Bitcoin could become \u201cinfinite against the dollar,\u201d arguing that in 10 years the US dollar wouldn\u2019t exist. His confident tone suggests he\u2019s sticking with the same numbers\u2014$250,000 by December 31, 2025. Political And Regulatory Drivers Based on reports, Draper points to politics as a big catalyst. He highlighted moves by US President Donald Trump, who is working on new trade deals. One sign of this push is the Media &#38; Technology Group\u2019s filing on June 5, 2025, for a Truth Social Bitcoin ETF. That application is headed to the NYSE Arca, with Crypto.com lined up as custodian, and it aims to bring more mainstream money into Bitcoin. On the regulatory front, the US Senate voted 66\u201332 on May 19 to advance the GENIUS Act, which would set rules for stablecoins. Plus, the Digital Asset Market Clarity Act of 2025 is under debate. It has bipartisan support and is meant to spell out clear rules for crypto. Financial Institutions And Adoption Draper also sees banks and big companies stepping in. He mentioned that JP Morgan plans to let its clients buy Bitcoin and use spot-BTC ETFs\u2014like BlackRock\u2019s IBIT\u2014as collateral. That shift could open doors to a flood of institutional cash. Meanwhile, according to Bitcoin Treasuries data, Michael Saylor\u2019s Strategy leads the pack, holding over 580,000 BTC. At current prices, that stash is worth about $61 billion. These moves, Draper argues, point to people treating Bitcoin more like gold than a risky token. Related Reading: Bitcoin Network Activity Booming Despite A Quiet Market\u2014Data Technological Advances On Bitcoin In his view, the tech upgrades on Bitcoin matter too. He talked about Web3 apps built on Bitcoin and said \u201cLayer 2 solutions give Bitcoin the flexibility of Ethereum.\u201d Right now, Lightning Network handles many Bitcoin transactions, making payments faster and cheaper. Featured image from Imagen, chart from TradingView"
-    },
-    {
-      "title": "Bullish Signs For Ethereum: Metrics Pointing To Upcoming Breakout",
-      "link": "https://www.newsbtc.com/news/ethereum/bullish-signs-for-ethereum-metrics-pointing-to-upcoming-breakout/",
-      "summary": "The Ethereum (ETH) price experienced a significant decline on Thursday, falling over 7% and approaching the $2,400 mark. However, expert analysis suggests that a new bullish trend may soon emerge for the second-largest cryptocurrency. Key Metrics Indicate Accumulation By Larger Investors Market analyst Lark Davis took to social media platform X (formerly Twitter) to share insights on Ethereum&#8217;s potential. He noted that various on-chain metrics and market behaviors indicate an impending breakout for the ETH price. Notably, Ethereum has been outperforming Bitcoin (BTC) in the second quarter of the year, suggesting growing investor confidence. The recent Pectra upgrade has improved Ethereum\u2019s scalability and reduced its inflation rate, making it more attractive to investors. Related Reading: Bitcoin Price Crash To $100,00 Loading: Next Targets Revealed As Bears Take Over Additionally, the expert highlights that with exchange balances hitting seven-year lows and substantial inflows into Ethereum exchange-traded funds (ETFs), it appears that larger investors are accumulating ETH for the long term. Despite these bullish indicators, Davis cautioned that not all market participants share this optimistic outlook. Betting markets on Polymarket currently assign only a 27% chance that Ethereum will reach a new all-time high by 2025. Critical Support For Ethereum Amid Political Disputes The broader cryptocurrency market also faced challenges on Thursday, with total market capitalization dropping from $3.30 trillion to approximately $3.12 trillion. Bitcoin, XRP, and Solana (SOL) were among the notable cryptocurrencies experiencing losses, retracing by 3%, 5%, and 6%, respectively. In a separate but related development, tensions between US President Donald Trump and his former adviser Elon Musk have surfaced, adding to the day\u2019s market volatility. Trump expressed disappointment over Musk&#8217;s criticism of a key tax and spending bill from his administration, suggesting that their &#8220;great relationship&#8221; may be nearing its end. Musk retaliated by accusing Trump of ingratitude, claiming his support was instrumental in Trump\u2019s election victory. Related Reading: Crypto Analyst Warns: This Bitcoin Bull Cycle Looks Nothing Like 2017 or 2021 This public dispute has drawn attention to the intersection of US politics and cryptocurrency, a dynamic that market analyst Income Sharks noted in a recent post on Elon Musk\u2019s social media site, X. The analyst remarked on the swift impact of political conflicts on crypto markets, emphasizing that the Ethereum price has not yet lost critical support levels. Income Sharks, in his analysis, identified the $2,390 mark as a crucial support point for the altcoin in the immediate term, which could determine the next upward targets of $3,000 and $4,000. While trading at $2,406 when writing, Ethereum finds itself well below its all-time high reached during the market\u2019s last bullish cycle in 2021. As of now, the altcoin stands 50% below its record of $4,878, according to CoinGecko data. Featured image from DALL-E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Metaplanet Aims to Raise $5.3 Billion to Buy More Bitcoin",
+      "link": "https://decrypt.co/324025/metaplanet-aims-raise-5-3-billion-to-buy-more-bitcoin",
+      "summary": "The Bitcoin treasury is hungry for the leading cryptocurrency."
+    },
+    {
+      "title": "Public Keys: Gemini Twinning Circle, Strategy's 'Preferred' Bitcoin Play",
+      "link": "https://decrypt.co/324056/public-keys-gemini-twinning-circle-strategy-preferred-bitcoin-play",
+      "summary": "Crypto exchange Gemini wants to twin with Circle, CRCL shares are still soaring, and Strategy has another preferred stock offering."
+    },
+    {
+      "title": "Binance Exec Tigran Gambaryan Leaves Firm, Months After Nigerian Hostage Crisis",
+      "link": "https://decrypt.co/324048/binance-tigran-gambaryan-leaves-firm-months-after-nigerian-hostage-crisis",
+      "summary": "Gambaryan, who is leaving the crypto exchange to explore roles in the public or private sector, is among a number of Binance executives to depart over the past two years."
+    },
+    {
       "title": "Why Circle's \u2018Super Positive\u2019 IPO Could be Bullish for Ethereum: Analysts",
       "link": "https://decrypt.co/324046/why-circles-super-positive-ipo-could-be-bullish-ethereum-analysts",
       "summary": "As blockchain-based infrastructure, Ethereum underpins a core component of Circle\u2019s business model."
@@ -144,21 +159,6 @@
       "title": "House Democrats Sound Alarm on CLARITY Act: Impact 'Will Not Be Quarantined to Crypto', Says Expert",
       "link": "https://decrypt.co/324043/house-democrats-sound-alarm-clarity-act",
       "summary": "Experts said the CLARITY Act crypto market structure bill will encourage TradFi firms to adopt blockchain as a means to evade regulation."
-    },
-    {
-      "title": "Circle Stock Climbs: CRCL Quadruples IPO Price as Bitcoin Regains",
-      "link": "https://decrypt.co/324003/circle-stock-climbs-crcl-quadruples-ipo-price",
-      "summary": "USDC issuer Circle's share price is still climbing on its second trading day as it came within pennies of quadrupling its $31 IPO price."
-    },
-    {
-      "title": "Crypto Exchange Gemini Files to Go Public Following Circle's Smash IPO",
-      "link": "https://decrypt.co/324027/crypto-exchange-gemini-files-go-public",
-      "summary": "New York-based cryptocurrency exchange Gemini said Friday that it had filed the paperwork with the SEC to go public."
-    },
-    {
-      "title": "Trump-Elon feud Erupts, Crypto falls, Coinbase to list Fartcoin",
-      "link": "https://decrypt.co/videos/interviews/kV6cxbIC/trump-elon-feud-erupts-crypto-falls-coinbase-to-list-fartcoin",
-      "summary": "FOMO HOUR EP373 FOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X. Crypto drops then rebounds after Trump-Elon feud. DOGE, ADA & ETH lead decline in top 20 coins. Circle stock spikes 200% post IPO, trading halted. Strategy increases preferred stock issuance to $1bn. Metaplanet to issue $5.4b equity to buy BTC. Trump earned $1bn from crypto in last 9 months. Trump Media to raise up to $12bn to buy BTC. Robinhood flips Coinbase in market cap. Truth Social BTC, ETH ETF registered in Nevada. Uber evaluates accepting stablecoins for payments. CoinFlip exploring $1bn sales. Tether invests in Shiga Digital. Singapore to remove unlicensed blockchain firms. European APS buys $3.4m tokenized real estate. Taiwan\u2019s BitoPro hacked for $11m+. Posta Romana to install BTC, crypto terminals. JOIN YEET = https://yeet.com/register?aff=fomohour PLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL PODCAST = https://x.com/i/spaces/1kvKpydgqMQGE LIVE SPACE = https://x.com/i/spaces/1DXxyqYyDRVxM Links: https://linktr.ee/fomohour https://twitter.com/fomohour https://www.rug.fm/ https://x.com/rugradio Hosts: https://twitter.com/farokh https://twitter.com/rektmando https://twitter.com/tyler_did_it Myriad: https://myriad.markets https://x.com/MyriadMarkets #bitcoin #crypto #podcast"
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Will Ethereum hit $2,323? Why traders are closely eyeing THIS zone",
+      "link": "https://ambcrypto.com/will-ethereum-hit-2323-why-traders-are-closely-eyeing-this-zone/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-5.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />MVRV keeps sliding and unless ETH reclaims 1.90, bulls may be sidelined for longer than expected."
+    },
+    {
       "title": "Bitcoin ETFs just saw their first decline \u2013 Here\u2019s what triggered the $6B pullback",
       "link": "https://ambcrypto.com/bitcoin-etfs-just-saw-their-first-decline-heres-what-triggered-the-6b-pullback/",
       "summary": "<img alt=\"Bitcoin ETFs just saw their first decline - Here\u2019s what triggered the $6B pullback\" class=\"attachment-full size-full wp-post-image\" height=\"831\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-ETF-bleeds.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1478\" />Is the Ethereum ecosystem becoming Wall Street's safe haven as Bitcoin tumbles?"
@@ -208,11 +213,6 @@
       "title": "How Bitcoin can still bounce back, $1B in crypto liquidations later",
       "link": "https://ambcrypto.com/how-bitcoin-can-still-bounce-back-1b-in-crypto-liquidations-later/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-2.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With over $1B in crypto liquidations, Bitcoin received the biggest share of over $342M but the odds were more for a move up."
-    },
-    {
-      "title": "Top 6 Telegram trading bots of June 2025",
-      "link": "https://ambcrypto.com/top-6-telegram-trading-bots-of-june-2025/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1220\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/rubaitul-azad-u4F54GIZWGI-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Trading bots are automated software tools that are used to execute trades depending on predefined [&#8230;]"
     }
   ]
 }
