@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Weekly Recap: Circle Scores Big on IPO Fever",
+      "link": "https://www.coindesk.com/news-analysis/2025/06/06/circle-scores-big-on-ipo-fever",
+      "summary": ""
+    },
+    {
+      "title": "HIVE Digital Capacity Crosses 10 EH/s in May, Aims to More Than Double That by Year-End",
+      "link": "https://www.coindesk.com/markets/2025/06/06/hive-digital-capacity-crosses-10-ehs-in-may-aims-to-more-than-double-that-by-year-end",
+      "summary": ""
+    },
+    {
+      "title": "House Dems Get Bonus Hearing on Crypto Market Structure, Assail Trump Conflicts",
+      "link": "https://www.coindesk.com/policy/2025/06/06/house-dems-get-bonus-hearing-on-crypto-market-structure-assail-trump-conflicts",
+      "summary": ""
+    },
+    {
       "title": "Polkadot's DOT Retakes Important $3.96 Level as Buyers Step In After Pullback",
       "link": "https://www.coindesk.com/markets/2025/06/06/polkadots-dot-retakes-important-396-level-as-buyers-step-in-after-pullback",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "Polymarket Partners Up With Elon Musk's xAI",
       "link": "https://www.coindesk.com/business/2025/06/06/polymarket-partners-up-with-elon-musks-xai",
       "summary": ""
-    },
-    {
-      "title": "AVAX Surges 6% After Musk-Trump Dispute Sell-Off",
-      "link": "https://www.coindesk.com/markets/2025/06/06/avax-surges-6-after-musk-trump-dispute-sell-off",
-      "summary": ""
-    },
-    {
-      "title": "Stablecoin Fever With Circle Soaring Another 40%: Apple, X Among Those Reportedly Wanting In",
-      "link": "https://www.coindesk.com/business/2025/06/06/stablecoin-fever-as-circle-soars-apple-x-airbnb-are-reportedly-exploring-stablecoin-integration-to-cut-payment-costs",
-      "summary": ""
-    },
-    {
-      "title": "TON Finds 'Strong Support' at $3.00 Level Amid Wild Crypto Price Swings",
-      "link": "https://www.coindesk.com/markets/2025/06/06/ton-finds-strong-support-at-300-level-amid-wild-crypto-price-swings",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Stablecoin legislation to drive Bitcoin market cycle in 2025: Finance Redefined",
+      "link": "https://cointelegraph.com/news/stablecoin-legislation-bitcoin-market-2025-finance-redefined-may-30-june-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0OTYtM2U2Yy03ZTZlLTkzZjItNTljNDQ4ZTNkYTZj.jpg\" /></p><p>Bitcoin\u2019s consolidation phase may break out into the next phase of price discovery, catalyzed by forthcoming US stablecoin rules.</p>"
+    },
     {
       "title": "Tigran Gambaryan formally resigns from Binance following return to US",
       "link": "https://cointelegraph.com/news/tigran-gambaryan-formally-resigns-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Bitcoin rebounds to $105K, but is a &#039;bull trap&#039; underway?",
       "link": "https://cointelegraph.com/news/bitcoin-rebounds-above-105k-but-is-a-bull-trap-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ1Y2MtYjhhYy03ZjdlLWFlN2EtMDk5OWJhNzI5ZTIz.jpg\" /></p><p>Market uncertainty grows as traders question leverage risks, custodian practices, and strategic reserve delays.</p>"
-    },
-    {
-      "title": "How to earn passive income with peer-to-peer lending",
-      "link": "https://cointelegraph.com/news/how-to-earn-passive-income-with-peer-to-peer-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzJmYzItY2NkMC03ZWZmLTk1YmItN2UzMTI1YjNjODA2.jpg\" /></p><p>In peer-to-peer crypto lending, knowing how to exit safely when rates fall or platforms falter is just as important as getting started.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "X and Polymarket partner up to bring decentralized prediction markets to social media",
+      "link": "https://cryptoslate.com/x-and-polymarket-partner-up-to-bring-decentralized-prediction-markets-to-social-media/",
+      "summary": "<p>Polymarket, the decentralized prediction platform known for its election forecasting accuracy, has been named the official prediction market partner of X, the social media company owned by Elon Musk. The partnership, announced on June 6, signals a growing role for markets in shaping public understanding of news, politics, and real-world outcomes. Polymarket celebrated the partnership [&#8230;]</p> <p>"
+    },
     {
       "title": "Yuga moves to kill ApeCoin DAO, transfer $168M in assets to new entity",
       "link": "https://cryptoslate.com/yuga-moves-to-kill-apecoin-dao-transfer-168m-in-assets-to-new-entity/",
@@ -73,14 +78,14 @@
       "title": "FCA clears path for UK retail crypto ETF trading\u2014kind of",
       "link": "https://cryptoslate.com/fca-clears-path-for-uk-retail-crypto-etf-trading-kind-of/",
       "summary": "<p>The UK\u2019s Financial Conduct Authority has proposed lifting its longstanding ban on crypto exchange-traded notes for retail investors, opening the door for broader access to regulated crypto exposure through public investment exchanges. The move, announced June 6, forms part of a broader regulatory push to bolster market competitiveness and reduce barriers for financial firms. Retail [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Metaplanet\u2019s ambitious $5.4B Bitcoin acquisition plan sets sights on 210k BTC",
-      "link": "https://cryptoslate.com/metaplanets-ambitious-5-4b-bitcoin-acquisition-plan-sets-sights-on-210k-btc/",
-      "summary": "<p>Metaplanet has launched what it calls Asia\u2019s largest equity raise dedicated to Bitcoin. According to CEO Simon Gerovich, the company is issuing 555 million shares through moving strike warrants in a \u00a5770.9 billion ($5.4 billion) capital raise. The firm has also acquired 1,088 BTC for \u00a516.9 billion ($117.5 million), increasing its on-chain holdings to 8,888 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bloodbath Incoming? Dogecoin Must Hold This Level To Survive",
+      "link": "https://www.newsbtc.com/news/dogecoin/bloodbath-incoming-dogecoin-must-hold-this-level/",
+      "summary": "Dogecoin\u2019s daily time-frame has reached a critical point that leaves virtually no margin for error. Price settled last night at $0.17551, clinging to a slender cushion just above the confluence of two of the chart\u2019s most important guide rails: the former down-trend resistance that runs from late February and the 78.6 percent Fibonacci retracement of 2024\u2019s late advance to $0.48440. Dogecoin Enters Danger Zone The structural landscape is defined by a six-month descending channel that has corralled every impulse since Dogecoin topped at $0.48440 on 8 December. The median of that channel\u2014slicing through the field at roughly $0.1800\u2014functioned as durable support until Thursday, when an 11% slide in sympathy with Bitcoin split it cleanly. A failure-retest of a channel mid-line is seldom trivial; until DOGE can reclaim $0.1800 on a closing basis, the chart message remains one of trend continuity. Beneath the market, the black trendline that first rejected rallies on 26 March, 26 April and 2 May reclaimed centre-stage after price vaulted it on 8 May, ran to the channel ceiling at $0.2540, and was twice rebuffed\u2014the first rejection on 11 May, the second on 23 May. The trendline is now retested as support where it intersects the 0.786 Fib at $0.16700, producing a high-stakes cross-point. Related Reading: Dogecoin Needs $0.40 Breakout To Salvage Bull Case, Says Analyst If that level fractures, the only historical scaffolding is the multi-year ascending trendline (drawn from May 2021\u2019s all-time high) that merges with a proven demand band spanning $0.14500 to $0.13500. That rectangle arrested the early-April shake-out and would represent the bulls\u2019 final trench; surrendering it would invalidate the long-term series of higher lows and almost certainly inaugurate a broader bear phase with potential gravitational pull back to the January pivot at $0.12990. Oscillators and overlays do little to contradict the bearish drift. The fourteen-day Relative Strength Index sits at 34.70, hovering just above oversold territory but still tracking below its own moving average at 45.22, underscoring persistent negative momentum. Price Targets Overhead, resistance layers are stacked like dominoes. Immediate priority for the bulls is a daily close back above the channel midline at $0.1800; failing that, any attempt at recovery is suspect. Related Reading: Dogecoin\u2019s Fate Hinges On This Price Level, Analysts Agree The next ceiling is the compressing exponential moving average cluster: the 20-day EMA at $0.20120, the 50-day at $0.20091, the 100-day at $0.20677 and the 200-day at $0.21550. With all four averages declining and bunched inside a three-cent band, they act as a single reinforced lid near the psychological $0.20 handle. Clearing that barricade would deliver price to the channel\u2019s upper rail, now descending through $0.22. A weekly close outside that boundary would finally neutralise the half-year downtrend and force shorts to cover into the next Fibonacci checkpoints derived from the November high: the 61.8 percent retracement at $0.23484, the 50 percent at $0.28249, the 38.2 percent at $0.33014 and the 23.6 percent at $0.38910. Until then, however, the blunt arithmetic favours the bears. A floor at $0.16700 backed by a multi-touch trendline is slim protection when sentiment is fragile and macro flows are unhelpful. If that shelf cracks, the market\u2019s inertia points toward $0.14500\u2013$0.13500, Dogecoin\u2019s last defensible plateau. Should that red demand zone capitulate, the technical map turns blank down to the January base at $0.12990 and, beyond that into deep bearish territory, especially the August 2024 low at $0.08. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Is Ethereum Back In Business? Morningstar Candlestick Pattern Tells A Story",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-back-in-business/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Cycle Top Is In\u2014$270,000 Delayed Until 2026, Says Analyst",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-cycle-top-in-270000-delayed-until-2026/",
       "summary": "Bitcoin\u2019s majestic 2024-25 ascent may have stalled at the very moment many traders expected an early-summer melt-up, according to crypto analyst Dr Cat (@DoctorCatX). In an extended thread published today, the Ichimoku-focused technician argues that the market printed a \u201cvalid cycle high\u201d on the weekly chart and has now slipped into neutral territory\u2014potentially postponing the next decisive breakout until mid-July or, failing that, as late as the first quarter of 2026. Bitcoin Bottom Not In? \u201cI warned multiple times that we can\u2019t be bullish on the weekly before the 9th of June,\u201d Dr Cat reminded followers. The Chiko Span (CS) \u201centered the candles\u201d last week, he noted, stripping the weekly timeframe of its bullish bias even though the long-term monthly structure remains intact. \u201cBecause the monthly chart is bullish, things are still long-term bullish,\u201d he conceded, yet the immediate path higher has narrowed to two clear windows. Related Reading: The Last Bitcoin Cycle? Swan Says History\u2019s Turning The first window opens in the week beginning 16 June. If Bitcoin starts that week above $99,881 and closes with CS breaking cleanly above the candle range, Dr Cat believes \u201cthe moonshot, potentially to $270,000,\u201d could ignite. Should price open below that threshold, a textbook CS tracing pattern would already be underway, pushing the next breakout target to the week commencing 14 July (or the one immediately after). \u201cSimply because these are the places where CS can make a clear breakout above the candles terminating a CS tracing,\u201d he explained. Below $93,200\u2014the current position of the weekly Kijun Sen\u2014the bullish countdown is voided. \u201cIf the Kijun Sen at 93.2K is lost, we consider much later breakout,\u201d Dr Cat warned, pointing traders to a broad monthly window between November 2025 and April 2026 when the Kijun Sen itself is expected to slope upward again. Until then, he is \u201cnot confident that the bottom is in,\u201d flagging $97\u201398 K as a short-term confluence zone in which the daily Kumo cloud, the weekly Tenkan Sen and the two-day Kijun Sen intersect. The analysis comes at a delicate moment for sentiment. Bitcoin\u2019s April all-time high above $111,999 has so far resisted several retests, and funding rates on major derivatives venues have eased from euphoric to merely positive. For Dr Cat, such moderation is consistent with Ichimoku\u2019s Kihon Suchi 17-period rhythm: \u201cTime cycles \u2026 give a valid cycle high on the weekly. I think at this point it obviously printed,\u201d he wrote, implying that a fresh consolidation phase is statistically favored. Altcoin Season Even Further Delayed Altcoins face an even steeper uphill battle. In a companion post dissecting the TOTAL3 index (the market capitalization of all crypto assets excluding Bitcoin and Ethereum), Dr Cat argued that \u201caltcoins are not ready to pump on the weekly and need minimum 1-2 months for that in the most bullish scenario.\u201d Related Reading: Crypto Analyst Warns: This Bitcoin Bull Cycle Looks Nothing Like 2017 or 2021 He cited four overlapping bearish ingredients: price below the weekly Kijun Sen, a negative Tenkan\u2013Kijun cross, a Chiko Span trapped beneath the candle \u201cforest,\u201d and a Kijun Sen poised to turn down next week. \u201cThe chance for a bullish altcoins explosion in June is around 5 %,\u201d he concluded, assigning a roughly equal probability that Bitcoin alone could rally while \u201cdominance destroys alts.\u201d That dour appraisal extends to Ethereum and other large caps. In Dr Cat\u2019s view, \u201cblindness \u2026 applies to anyone expecting a parabolic bull run above ATH in June for TOTAL3.\u201d The first legitimate \u201cwindow of opportunity for altcoin bulls,\u201d he adds, does not open until August, when the weekly CS will encounter a thinner overhang of historic candles. Market implications hinge on whether Bitcoin can defend its higher-timeframe pivots long enough to align with those temporal windows. So far, the $93.200 Kijun Sen serves as the demarcation line between an orderly pause and a deeper retracement. A weekly close beneath it would \u201cactivate\u201d the November-to-April contingency track\u2014effectively pushing any move toward Dr Cat\u2019s headline $270,000 projection into the next halving cycle. At press time, BTC traded at $103,072. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Kuaishou\u2019s Kling AI Tool Gears Up to Hit $100M in Sales; AI Coins Like SUBBD to Explode",
-      "link": "https://www.newsbtc.com/news/ai-coins-like-subbd-to-explode/",
-      "summary": "Kuaishou\u2019s AI video tool \u2013 Kling \u2013 is now a top-earning AI video generation tool. In April and May of 2025 alone, it pulled in a hefty $14M. Given its high demand, Kling\u2019s on track to hitting a whopping $100M in sales by February. This is proof that demand for AI-generated video content is exploding \u2013 a boon for AI crypto projects like SUBBD Token ($SUBBD). Kling Makes Pro-Quality AI Video Creation Affordable Since its June 2024 launch, Kling AI has rolled out over 20 updates. The changes were aimed at enhancing core model performance, refining image clarity, and introducing innovative features for video creators. By using the AI tool&#8217;s \u2018inspiration credits,\u2019 anyone, from solo creators to major brands, can tap into Kling&#8217;s powerful video creation capabilities. The model is extremely straightforward: Want sharper, high definition videos? Spend more credits. Want to save on budget? Lower the tool&#8217;s parameters. It\u2019s super cost-effective, too. For just one dollar, you get 66 credits. Top-quality videos cost approximately 100 credits, whereas simpler versions cost just 20. By using Kling AI, creators now enjoy the freedom to scale their content based on budget, quality, and turnaround times. Tencent Holdings &#38; Alibaba Capitalize on AI Video Hype The AI video space is heating up with growing competition. Hunyuan Video, launched by Tencent Holdings in December 2024, delivers high-quality cinematic video generation with advanced features. These features include dynamic camera movement, lifelike reflections, and seamless transitions between realistic and animated picture styles. Alibaba is also in on the trend, having released Wan 2.1 in February 2025 \u2013 a proprietary suite of open-source AI models. The models are designed for high-quality video generation based on text and image inputs. It\u2019s also gearing up for a major upgrade, Wan 2.1-VACE, which will expand its functionality with advanced tools for reference-to-video generation and video-to-video editing. Let&#8217;s not forget OpenAI. The company is now developing Sora, a new tool for automated video generation. And then there&#8217;s Runway AI&#8217;s $3B valuation. Each of these developments signals a promising future for the SUBBD Token ($SUBBD), which goes a step further. This new crypto project delivers a full-suite of AI powered tools \u2013 not just video creation, but also online content management. SUBBD Leverages AI &#38; Crypto to Reshape Creator Workflows $SUBBD powers a next-gen content creation platform that streamlines creators&#8217; workflows and boosts community engagement through AI and Web3 technology. The digital content creation industry is booming, predicted to grow at a CAGR of 9.59% and reach $39.3B by 2032. Yet, despite the growth, creators still face serious challenges: High management and platform fees; Strict content policies on major platforms; Fragmented AI tools requiring multiple subscriptions; Outdated or slow payment systems. Thankfully, this is where the SUBBD ecosystem comes in, offering a seamless experience for AI-assisted content creation, editing, and monetization. The project achieves this through various AI tools, including a video generator, custom voice creator, and automatic live-streams. Meanwhile, fans get direct access to their favorite creators, and can enjoy personalized ecosystem fees and exclusive content \u2013 without having to rely on intermediaries. Influencers also benefit significantly thanks to a personal AI assistant. This tool is programmed to manage interactions and content schedules. Beyond content and engagement optimization, the personal assistant is an all-in-one tool that also boosts earnings by slashing third-party fees. Buying $SUBBD also ensures subscription discounts, staking rewards at a 20% APY, and XP multipliers for the platform&#8217;s raffles, games, and events. SUBBD to Soar as AI Video Craze Blows Up Kuaishou\u2019s Kling AI is on track to reach $100M in sales. This, coupled with the success of similar providers, like Hunyuan Video, Wan 2.1, Sora, and Runway, demonstrates just how quickly AI-driven video content is scaling. As demand for streamlined, AI-powered content creation continues to rise, SUBBD stands out with its crypto-AI platform that unlocks additional monetization opportunities for creators (including automated live streams and token rewards). To get involved, all you need to do is buy $SUBBD on presale for as little as $0.0556. The presale has raised over $600M so far, and the price is going to increase again in two days. High-earning creators moving to the platform could further push the coin to $0.438 this year \u2013 a 687% gain, based on the current price. Before making any investment decisions, always do your own research first and never spend more than you\u2019d be willing to lose."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "House Democrats Sound Alarm on CLARITY Act: Impact 'Will Not Be Quarantined to Crypto', Says Expert",
+      "link": "https://decrypt.co/324043/house-democrats-sound-alarm-clarity-act",
+      "summary": "Experts said the CLARITY Act crypto market structure bill will encourage TradFi firms to adopt blockchain as a means to evade regulation."
+    },
+    {
+      "title": "Circle Stock Climbs: CRCL Quadruples IPO Price as Bitcoin Regains",
+      "link": "https://decrypt.co/324003/circle-stock-climbs-crcl-quadruples-ipo-price",
+      "summary": "USDC issuer Circle's share price is still climbing on its second trading day as it came within pennies of quadrupling its $31 IPO price."
+    },
+    {
+      "title": "Crypto Exchange Gemini Files to Go Public Following Circle's Smash IPO",
+      "link": "https://decrypt.co/324027/crypto-exchange-gemini-files-go-public",
+      "summary": "New York-based cryptocurrency exchange Gemini said Friday that it had filed the paperwork with the SEC to go public."
+    },
+    {
       "title": "Trump-Elon feud Erupts, Crypto falls, Coinbase to list Fartcoin",
       "link": "https://decrypt.co/videos/interviews/kV6cxbIC/trump-elon-feud-erupts-crypto-falls-coinbase-to-list-fartcoin",
       "summary": "FOMO HOUR EP373 FOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X. Crypto drops then rebounds after Trump-Elon feud. DOGE, ADA & ETH lead decline in top 20 coins. Circle stock spikes 200% post IPO, trading halted. Strategy increases preferred stock issuance to $1bn. Metaplanet to issue $5.4b equity to buy BTC. Trump earned $1bn from crypto in last 9 months. Trump Media to raise up to $12bn to buy BTC. Robinhood flips Coinbase in market cap. Truth Social BTC, ETH ETF registered in Nevada. Uber evaluates accepting stablecoins for payments. CoinFlip exploring $1bn sales. Tether invests in Shiga Digital. Singapore to remove unlicensed blockchain firms. European APS buys $3.4m tokenized real estate. Taiwan\u2019s BitoPro hacked for $11m+. Posta Romana to install BTC, crypto terminals. JOIN YEET = https://yeet.com/register?aff=fomohour PLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL PODCAST = https://x.com/i/spaces/1kvKpydgqMQGE LIVE SPACE = https://x.com/i/spaces/1DXxyqYyDRVxM Links: https://linktr.ee/fomohour https://twitter.com/fomohour https://www.rug.fm/ https://x.com/rugradio Hosts: https://twitter.com/farokh https://twitter.com/rektmando https://twitter.com/tyler_did_it Myriad: https://myriad.markets https://x.com/MyriadMarkets #bitcoin #crypto #podcast"
@@ -144,21 +159,6 @@
       "title": "Early Twitter Investor Builds $100 Million Bitcoin Treasury for Public Healthtech Company",
       "link": "https://decrypt.co/323987/early-twitter-investor-builds-100-million-bitcoin-treasury-public-company",
       "summary": "Publicly traded healthtech firm Know Labs is planning to buy 1,000 Bitcoin under its new leader, noted fintech investor Greg Kidd."
-    },
-    {
-      "title": "Strategy Boosts STRD Preferred Stock Offering to $1 Billion to Buy Up Bitcoin",
-      "link": "https://decrypt.co/323988/strategy-upsizes-strd-stock-offering-1-billion-buy-bitcoin",
-      "summary": "Strategy\u2019s Michael Saylor described STRD as the \u201cfourth gear\u201d in the company\u2019s \u201cBitcoin Engine.\u201d"
-    },
-    {
-      "title": "'FIFA Rivals' Game Launching Next Week on iOS, Android",
-      "link": "https://decrypt.co/323977/fifa-rivals-game-launching-next-week-ios-android",
-      "summary": "NFL Rivals creator Mythical Games is gearing up to launch its next officially licensed sports game, FIFA Rivals\u2014with an assist from Adidas."
-    },
-    {
-      "title": "Official Trump and Dogecoin Sag After Musk's Epstein Rant About the President",
-      "link": "https://decrypt.co/323962/official-trump-dogecoin-sag-musk-epstein-president",
-      "summary": "Donald Trump and Elon Musk have had a very public falling out and meme coins tied to the figures have slumped as a result."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Why is crypto crashing today? \u2018You have absolutely no idea what you own\u2019",
+      "link": "https://ambcrypto.com/why-is-crypto-crashing-today-you-have-absolutely-no-idea-what-you-own/",
+      "summary": "<img alt=\"Why is crypto crashing today? &#039;You have absolutely no idea what you own&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/CryptocrashBitcoin.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BTC profit-taking hit nearly $1.5B per day as Glassnode warns of a likely local price top."
+    },
+    {
       "title": "Circle\u2019s victory: How USDC is rewriting the stablecoin playbook",
       "link": "https://ambcrypto.com/circles-victory-how-usdc-is-rewriting-the-stablecoin-playbook/",
       "summary": "<img alt=\"Stablecoins\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-5.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could USDC finally crack Tether\u2019s fortress and rewrite the stablecoin playbook?"
@@ -208,11 +213,6 @@
       "title": "Silk Road\u2019s Ross Ulbricht gets $31 mln in Bitcoin \u2013 But the source raises questions",
       "link": "https://ambcrypto.com/silk-roads-ross-ulbricht-gets-31-mln-in-bitcoin-but-the-source-raises-questions/",
       "summary": "<img alt=\"Silk Road&#039;s Ross Ulbricht gets $31 mln in Bitcoin - But the source raises questions\" class=\"attachment-full size-full wp-post-image\" height=\"680\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ross-Ulbricht-received-a-31-million-bitcoin-donation.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1209\" />What secrets lie behind the $31 million Bitcoin donation, traced to illicit origins?"
-    },
-    {
-      "title": "New whales are stacking Sats fast \u2013 Will this trigger Bitcoin\u2019s next leg up?",
-      "link": "https://ambcrypto.com/new-whales-are-stacking-sats-fast-will-this-trigger-bitcoins-next-leg-up/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_36_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Are the Bitcoin whales preparing for a breakout before the next macro trigger?"
     }
   ]
 }
