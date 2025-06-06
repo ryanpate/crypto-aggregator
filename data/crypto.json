@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "U.S. Added 139K Jobs in May, Roughly In Line With Forecasts",
+      "link": "https://www.coindesk.com/markets/2025/06/06/us-added-139k-jobs-in-may-roughly-in-line-with-forecasts",
+      "summary": ""
+    },
+    {
+      "title": "IOST Raises $21M to Expand the Rollout of its Tokenized Asset Infrastructure",
+      "link": "https://www.coindesk.com/business/2025/06/06/iost-raises-21m-to-expand-the-rollout-of-its-tokenized-asset-infrastructure",
+      "summary": ""
+    },
+    {
       "title": "Trump Media, Owner of Truth Social, Looks to Issue $12B Worth of New Shares",
       "link": "https://www.coindesk.com/markets/2025/06/06/trump-media-owner-of-truth-social-looks-to-issue-12b-worth-of-new-shares",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Strategy to Raise Nearly $1B With STRD Preferred Stock Offering to Accumulate BTC",
       "link": "https://www.coindesk.com/markets/2025/06/06/strategy-to-raise-nearly-1b-with-strd-preferred-stock-offering-to-accumulate-btc",
       "summary": ""
-    },
-    {
-      "title": "Crypto Daybook Americas: Bitcoin, Jolted by Trump-Musk Clash, Rebounds Before Jobs Data",
-      "link": "https://www.coindesk.com/daybook-us/2025/06/06/crypto-daybook-americas-bitcoin-jolted-by-trump-musk-clash-rebounds-before-jobs-data",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Price Bounce to Near $104K, Though Encouraging, Falls Short of Bull Revival",
-      "link": "https://www.coindesk.com/markets/2025/06/06/btc-price-bounce-to-near-usd104k-though-encouraging-is-still-short-of-bull-revival",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Why FIFA is building its own blockchain, and what it means for 5 billion fans",
+      "link": "https://cointelegraph.com/explained/why-fifa-is-building-its-own-blockchain-and-what-it-means-for-5-billion-fans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mOTk5M2JjYmM2YTZkZTBkZWY2ZGI1NTMyMGU5ODQ0MS5qcGc=.jpg\" /></p><p>FIFA is launching its own layer-1 blockchain to take control of digital assets, ticketing and fan experiences, potentially transforming football for billions of global supporters.</p>"
+    },
+    {
+      "title": "Moonbirds NFT sales surge after Yuga Labs sells IP",
+      "link": "https://cointelegraph.com/news/moonbirds-nft-sales-surge-after-orange-cap-games-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0ZjAtYmY4Mi03MmMzLTkzYWMtY2ZmM2JkMTBmMTQ3.jpg\" /></p><p>Orange Cap Games has acquired the IP rights to Moonbirds from Yuga Labs, driving the NFT collection\u2019s biggest sales spike in months.</p>"
+    },
     {
       "title": "Michael Saylor\u2019s Strategy ups Bitcoin bet with $1B stock offering",
       "link": "https://cointelegraph.com/news/saylor-s-strategy-upsizes-stock-offering-from-250m-to-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "QRAMP protocol, explained: Can Bitcoin\u2019s 21-million cap survive the future?",
       "link": "https://cointelegraph.com/explained/qramp-protocol-explained-can-bitcoins-21-million-cap-survive-the-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZjdlODdkODJkOThiM2M5NTJiZGY0YWVkZGFmMTk1NC5qcGc=.jpg\" /></p><p> With threats from quantum computing and growing cross-chain demand, QRAMP offers a non-custodial approach to protect and project Bitcoin. </p>"
-    },
-    {
-      "title": "UK FCA proposes lifting ban on crypto ETNs for retail investors",
-      "link": "https://cointelegraph.com/news/uk-fca-crypto-etn-retail-investor-ban-lift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0OTgtODU5Ni03NmFkLTgzZjItMDY2NTIxMWYxZjQw.jpg\" /></p><p>The UK\u2019s Financial Conduct Authority has proposed lifting its retail ban on crypto exchange-traded notes (ETNs), signaling a shift toward broader crypto market access.</p>"
-    },
-    {
-      "title": "Dogecoin price risks 66% drop to $0.06 as Trump-Musk feud intensifies",
-      "link": "https://cointelegraph.com/news/dogecoin-price-risks-66-drop-to-0-06-trump-musk-feud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQyNTUtZDFkMS03OGM3LWFiYTQtZGFiMDRlNzU5YjE2.jpg\" /></p><p>Elon Musk\u2019s feud with President Trump caused Dogecoin\u2019s 7% drop in the last 24 hours, but sell-off risks to $0.06 remain.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Trump Media submits new SEC filing to purchase $2.3B Bitcoin reserve",
+      "link": "https://cryptoslate.com/trump-media-submits-new-sec-filing-to-launch-2-3b-bitcoin-reserve-strategy/",
+      "summary": "<p>Trump Media &#38; Technology Group has filed a Form S-3 with the U.S. Securities and Exchange Commission, registering 85 million securities related to its previously closed $2.44 billion Bitcoin treasury deal. The filing also includes a universal shelf registration, granting the company flexibility to issue additional securities in the future as part of a broader [&#8230;]</p> <p>"
+    },
     {
       "title": "FCA clears path for UK retail crypto ETF trading\u2014kind of",
       "link": "https://cryptoslate.com/fca-clears-path-for-uk-retail-crypto-etf-trading-kind-of/",
@@ -73,14 +78,14 @@
       "title": "Micro-cap Quantum Resistance Ledger\u2019s QRL token jumps 33% amid quantum concerns for crypto",
       "link": "https://cryptoslate.com/micro-cap-quantum-resistance-ledgers-qrl-token-jumps-33-amid-quantum-concerns-for-crypto/",
       "summary": "<p>Quantum security concerns continue to ripple through digital asset markets following BlackRock\u2019s recent warning about cryptographic vulnerabilities in Bitcoin and Ethereum, driving renewed attention to quantum-resistant infrastructure. Quantum Resistant Ledger (QRL), one of the few blockchain networks purpose-built for a post-quantum future, has seen its native token rise over 33% in the past month amid [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Aave DAO activates on-chain slashing mechanism with \u2018Umbrella\u2019 launch",
-      "link": "https://cryptoslate.com/aave-dao-activates-on-chain-slashing-mechanism-with-umbrella-launch/",
-      "summary": "<p>Aave has launched Umbrella, a fully on-chain staking-based risk management system designed to replace its legacy Safety Module with a more automated and capital-efficient framework. Built by BGD Labs and ratified by Aave governance, Umbrella allows users to stake interest-bearing aTokens, such as aUSDC, aWETH, and GHO, to provide real-time, automated coverage for bad debt [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Cycle Top Is In\u2014$270,000 Delayed Until 2026, Says Analyst",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-cycle-top-in-270000-delayed-until-2026/",
+      "summary": "Bitcoin\u2019s majestic 2024-25 ascent may have stalled at the very moment many traders expected an early-summer melt-up, according to crypto analyst Dr Cat (@DoctorCatX). In an extended thread published today, the Ichimoku-focused technician argues that the market printed a \u201cvalid cycle high\u201d on the weekly chart and has now slipped into neutral territory\u2014potentially postponing the next decisive breakout until mid-July or, failing that, as late as the first quarter of 2026. Bitcoin Bottom Not In? \u201cI warned multiple times that we can\u2019t be bullish on the weekly before the 9th of June,\u201d Dr Cat reminded followers. The Chiko Span (CS) \u201centered the candles\u201d last week, he noted, stripping the weekly timeframe of its bullish bias even though the long-term monthly structure remains intact. \u201cBecause the monthly chart is bullish, things are still long-term bullish,\u201d he conceded, yet the immediate path higher has narrowed to two clear windows. Related Reading: The Last Bitcoin Cycle? Swan Says History\u2019s Turning The first window opens in the week beginning 16 June. If Bitcoin starts that week above $99,881 and closes with CS breaking cleanly above the candle range, Dr Cat believes \u201cthe moonshot, potentially to $270,000,\u201d could ignite. Should price open below that threshold, a textbook CS tracing pattern would already be underway, pushing the next breakout target to the week commencing 14 July (or the one immediately after). \u201cSimply because these are the places where CS can make a clear breakout above the candles terminating a CS tracing,\u201d he explained. Below $93,200\u2014the current position of the weekly Kijun Sen\u2014the bullish countdown is voided. \u201cIf the Kijun Sen at 93.2K is lost, we consider much later breakout,\u201d Dr Cat warned, pointing traders to a broad monthly window between November 2025 and April 2026 when the Kijun Sen itself is expected to slope upward again. Until then, he is \u201cnot confident that the bottom is in,\u201d flagging $97\u201398 K as a short-term confluence zone in which the daily Kumo cloud, the weekly Tenkan Sen and the two-day Kijun Sen intersect. The analysis comes at a delicate moment for sentiment. Bitcoin\u2019s April all-time high above $111,999 has so far resisted several retests, and funding rates on major derivatives venues have eased from euphoric to merely positive. For Dr Cat, such moderation is consistent with Ichimoku\u2019s Kihon Suchi 17-period rhythm: \u201cTime cycles \u2026 give a valid cycle high on the weekly. I think at this point it obviously printed,\u201d he wrote, implying that a fresh consolidation phase is statistically favored. Altcoin Season Even Further Delayed Altcoins face an even steeper uphill battle. In a companion post dissecting the TOTAL3 index (the market capitalization of all crypto assets excluding Bitcoin and Ethereum), Dr Cat argued that \u201caltcoins are not ready to pump on the weekly and need minimum 1-2 months for that in the most bullish scenario.\u201d Related Reading: Crypto Analyst Warns: This Bitcoin Bull Cycle Looks Nothing Like 2017 or 2021 He cited four overlapping bearish ingredients: price below the weekly Kijun Sen, a negative Tenkan\u2013Kijun cross, a Chiko Span trapped beneath the candle \u201cforest,\u201d and a Kijun Sen poised to turn down next week. \u201cThe chance for a bullish altcoins explosion in June is around 5 %,\u201d he concluded, assigning a roughly equal probability that Bitcoin alone could rally while \u201cdominance destroys alts.\u201d That dour appraisal extends to Ethereum and other large caps. In Dr Cat\u2019s view, \u201cblindness \u2026 applies to anyone expecting a parabolic bull run above ATH in June for TOTAL3.\u201d The first legitimate \u201cwindow of opportunity for altcoin bulls,\u201d he adds, does not open until August, when the weekly CS will encounter a thinner overhang of historic candles. Market implications hinge on whether Bitcoin can defend its higher-timeframe pivots long enough to align with those temporal windows. So far, the $93.200 Kijun Sen serves as the demarcation line between an orderly pause and a deeper retracement. A weekly close beneath it would \u201cactivate\u201d the November-to-April contingency track\u2014effectively pushing any move toward Dr Cat\u2019s headline $270,000 projection into the next halving cycle. At press time, BTC traded at $103,072. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Kuaishou\u2019s Kling AI Tool Gears Up to Hit $100M in Sales; AI Coins Like SUBBD to Explode",
       "link": "https://www.newsbtc.com/news/ai-coins-like-subbd-to-explode/",
@@ -100,11 +105,6 @@
       "title": "As Lagrange Crypto Token $LA Surges, Climbing 500%, Will Solaxy See Bigger Gains?",
       "link": "https://www.newsbtc.com/news/lagrange-crypto-la-surges-500-solaxy-next-5x-token/",
       "summary": "Thousands of tokens launch every day. Most crash quickly, becoming worthless in time (or all but worthless). So why do people keep investing? Because every now and then, a Lagrange ($LA) comes along. The utility token for the Lagrange Foundation, which aims to support a verifiable AI ecosystem, $LA climbed 560%+ in a few hours after securing listings across major exchanges. The move pushed the token\u2019s market cap over $287M. What went right for $LA, and what does it say about other upcoming projects? Stars Aligned for $LA Launch Lagrange had a few things going for it: Foundational ecosystem: $LA fuels the base layer for an ambitious but detailed technical project (the ZK Prover Network). Strong early interest: Lagrange attracted major early development from the likes of Peter Thiel\u2019s Founders Fund, which provided $13.2M in seed funding. Detailed project design: Tokenomics, fee generation, staking \u2013 Lagrange clearly defined how each element worked in the $LA ecosystem. Broad DEX/CEX listing: After the TGE (Token Generation Event), $LA went live on a number of major exchanges, including Coinbase, KuCoin, Bitget, and more. It was a combination of factors, rather than any one thing, that helped push the project up. Crucially, investors seem confident in the long-term outlook for the Lagrange Foundation. When some investors took profits off the initial surge, causing the token to dip, others bought the dip, pushing $LA back up. No two crypto projects are identical, and this goes for their future potential, as well. But we can take some of the basic principles from $LA\u2019s success and apply them to other projects to get a better idea of their chances. And one project \u2013 Solaxy ($SOLX) \u2013 shows promising similarities to $LA. Solaxy ($SOLX) \u2013 Meme-Focused Multichain Token for Groundbreaking Solana Layer-2 Solaxy ($SOLX) might seem like your average Solana meme coin, at least at first glance. But under the surface, Solaxy isn\u2019t just a meme coin \u2013 it\u2019s the foundation of the first ever Solana Layer-2, designed to be the foundation of a whole generation of faster-than-ever Solana tokens. It might even become one of the best meme coins in 2025 and beyond. A closer look at the project shows how $SOLX and $LA share some critical features: $LA raised $13.2M in seed funding; $SOLX raised $44.5M in its crypto presale (set to end in 10 days). $LA provided detailed information about technical developments; $SOLX has already launched the Solaxy block explorer and bridge, with full operational status in June 2025. $LA serves to support key ZK products and features; $SOLX offers a blazing-fast blockchain to add to the $56B meme coin market Both $LA and $SOLX are multi-chain tokens; $LA supports Ethereum, Base, Arbitrum, Solana, Optimism, and Polygon, and $SOLX supports Solana and Ethereum Solaxy is working fast, rolling out key features in the techmap to push full deployment of the Layer-2 as soon as possible. There\u2019s only ten days left for investors to get in during the presale. If $SOLX imitates $LA\u2019s climb, this is the lowest the price will ever be, so learn how to buy Solaxy with our guide, and don&#8217;t delay. The current token price is $0.001746. Our price prediction shows that it could climb to $0.032 by the end of the year, passing even $LA&#8217;s success and delivering 1,735% returns to investors who get in now. Visit the Solaxy presale page. Factors for $LA\u2019s Success Bode Well for $SOLX That 500% price increase was pretty sweet for early Lagrange investors, and who knows how far the $LA token will go? Some of the same factors that contributed to $LA\u2019s big wins look promising for $SOLX as well. Will it be the next 5x token? Never invest in anything without doing your own research; this is not financial advice."
-    },
-    {
-      "title": "Bitcoin RSI Dips Below 30\u2014Is A New All-Time High Next?",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-rsi-dips-below-30-new-all-time-high-next/",
-      "summary": "Data shows the 14-day Bitcoin Relative Strength Index (RSI) has dropped into the oversold region. Here&#8217;s what this could mean for the asset. Bitcoin RSI Has Breached Below The 30 Mark In a new post on X, analyst Axel Adler Jr has talked about the latest trend in the RSI of Bitcoin. The &#8220;RSI&#8221; refers to an indicator from technical analysis (TA) that measures the speed and magnitude of changes occurring in any given asset&#8217;s price over a specific period. In the current case, the period is 14 days. This metric is generally used for spotting oversold or overbought conditions for the asset. When the RSI is greater than 70, it can be a sign that the price is heating up and may be due a correction to the downside. On the other hand, it being under 30 can imply the asset is becoming underbought. Related Reading: Solana\u2019s Old Hands Are Moving\u2014Is Trouble Brewing? Now, here is the chart shared by the analyst that shows the trend in the 14-day Bitcoin RSI over the last couple of years: As displayed in the above graph, the 14-day Bitcoin RSI has plummeted recently and is now below the 30 threshold. This naturally suggests the cryptocurrency is becoming oversold, at least from the perspective of this indicator. &#8220;Other metrics are also showing alerts,&#8221; notes Adler Jr. &#8220;I think now all conditions are in place to start testing the ATH.&#8221; Though, while bullish developments may have occurred on the RSI and other indicators, BTC has actually declined during the past day. On-chain data may provide hints about where the next potential support zone could be located for the asset. As the analytics firm Glassnode has revealed in its latest weekly report, the average cost basis of the short-term holders is located at $97,100. The short-term holders (STHs) refer to the Bitcoin investors who purchased their coins during the past 155 days. The cost basis of this group has often been a relevant level for the cryptocurrency, taking turns as support and resistance. In the chart, the analytics firm has also shown two other levels: the +1 and -1 standard deviation bands. Currently, the latter is situated at $83,200, so it&#8217;s possible that if BTC&#8217;s bearish momentum lasts for long enough to push it under the STH cost basis, this value could prove significant. However, before this level, there is another on-chain level that could be important. The level in question is part of the Spent Supply Distribution (SSD) Quantiles model, which basically tells us which price levels the investors selling their coins right now initially purchased them. Related Reading: Bitcoin\u2019s Key Investors Double Down, Buy Another 79,000 BTC The 0.85 quantile is located at $95,600, which is quite close to the STH cost basis, so a retest of the zone could be a particularly vital one for Bitcoin. BTC Price At the time of writing, Bitcoin is floating around $101,000, down almost 5% in the last seven days. Featured image from Dall-E, CryptoQuant.com, Glassnode.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Official Trump and Dogecoin Sag After Musk Epstein Rant About the President",
+      "link": "https://decrypt.co/323962/official-trump-dogecoin-sag-musk-epstein-president",
+      "summary": "Donald Trump and Elon Musk have had a very public falling out and meme coins tied to the figures have slumped as a result."
+    },
+    {
+      "title": "Bitcoin Price Flat as May US Jobs Report Beats Estimates",
+      "link": "https://decrypt.co/323953/bitcoin-flat-us-jobs-report-beats-estimates",
+      "summary": "Bitcoin, Ethereum, and alts have been volatile this week as investors fret about a slowing economy."
+    },
+    {
       "title": "OpenAI Challenges Court Order to Preserve User Data in NYT Lawsuit",
       "link": "https://decrypt.co/323950/openai-challenges-court-order-user-data-nyt-lawsuit",
       "summary": "The AI firm said the order to retain deleted ChatGPT chats undermines user privacy as legal its battle escalates."
@@ -149,19 +159,14 @@
       "title": "How Circle\u2019s IPO Stacks Up Against Other Crypto Market Debuts",
       "link": "https://decrypt.co/323939/how-circles-ipo-stacks-up-against-other-crypto-market-debuts",
       "summary": "Circle closed with an $18.4 billion valuation, well below Coinbase\u2019s IPO but ahead of newer entrants like Fold and eToro."
-    },
-    {
-      "title": "'A Different Era': Bored Ape Creator Yuga Labs Wants to Kill the ApeCoin DAO",
-      "link": "https://decrypt.co/323902/bored-ape-creator-yuga-labs-wants-kill-apecoin-dao",
-      "summary": "Bored Ape Yacht Club creator Yuga Labs has proposed axing the ApeCoin DAO, with plans to create a new entity to oversee the Ethereum token."
-    },
-    {
-      "title": "VPN Usage Spikes in France as Pornhub Blocks Users Over Age Restrictions",
-      "link": "https://decrypt.co/323881/vpn-usage-spikes-france-pornhub-age-restrictions",
-      "summary": "Pornhub\u2019s France block over age checks sparked a 1,000% ProtonVPN signup surge, highlighting pushback against ID laws."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Coinzilla fuels 80 million+ impressions for Solidus Ai Tech in landmark crypto ad campaign",
+      "link": "https://cryptobriefing.com/crypto-ad-campaign-record-impressions/",
+      "summary": "<p>The campaign's success highlights the transformative potential of strategic advertising in rapidly scaling crypto and AI ventures.</p> <p>"
+    },
     {
       "title": "UK FCA plans to let consumers buy crypto ETNs, but keeps retail blocked from derivatives",
       "link": "https://cryptobriefing.com/fca-crypto-etns-retail-ban/",
@@ -181,14 +186,14 @@
       "title": "Truth Social Bitcoin and Ethereum ETF registered in Nevada",
       "link": "https://cryptobriefing.com/truth-social-cryptocurrency-investment-trusts/",
       "summary": "<p>This move could enhance crypto market accessibility and legitimacy, potentially influencing broader adoption and regulatory perspectives.</p> <p>"
-    },
-    {
-      "title": "Trump\u2019s sons send cease-and-desist to his meme coin team over Trump-branded crypto wallet",
-      "link": "https://cryptobriefing.com/trump-branded-crypto-wallet-dispute/",
-      "summary": "<p>The cease-and-desist highlights potential legal and reputational risks in unauthorized use of high-profile names in crypto ventures.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Shiba Inu: Dormant whale moves 100B SHIB \u2013 Will price drop further?",
+      "link": "https://ambcrypto.com/shiba-inu-dormant-whale-moves-100b-shib-will-price-drop-further/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-06T131439.064-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB hovers near support as whale exits and bearish sentiment weigh on price."
+    },
     {
       "title": "FARTCOIN flies as Coinbase listing talks rise \u2013 Here\u2019s what you should know",
       "link": "https://ambcrypto.com/fartcoin-flies-as-coinbase-listing-talks-rise-heres-what-you-should-know/",
@@ -208,11 +213,6 @@
       "title": "Crypto market slides post Trump vs. Musk \u2013 But Samson Mow has \u2018freedom advice\u2019",
       "link": "https://ambcrypto.com/crypto-market-slides-post-trump-vs-musk-but-samson-mow-has-freedom-advice/",
       "summary": "<img alt=\"Trump vs Musk\" class=\"attachment-full size-full wp-post-image\" height=\"777\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Trump-vs-Musk.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1382\" />Bitcoin dips below $100K as Trump\u2019s threats rattle Musk\u2019s empire but HODLers stay strong."
-    },
-    {
-      "title": "World Liberty Financial exec shorts TRUMP \u2013 Will it hold $10?",
-      "link": "https://ambcrypto.com/world-liberty-financial-exec-shorts-trump-will-it-hold-10/",
-      "summary": "<img alt=\"World Liberty Financial exec shorts TRUMP - Will it hold $10? \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/TRUMPWI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Trump family's crypto tensions may be far from over, going by recent updates."
     }
   ]
 }
