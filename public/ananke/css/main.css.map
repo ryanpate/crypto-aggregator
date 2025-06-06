@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/ryanpate/desktop/crypto-aggregator",
+	"sourceRoot": "/Users/ryanpate/Desktop/crypto-aggregator",
 	"sources": [
 		"ananke/css/main.css"
 	],
