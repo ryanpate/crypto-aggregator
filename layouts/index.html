@@ -51,17 +51,27 @@ Description: Homepage template with SEO enhancements
     ]
   }
   </script>
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/rss+xml" title="BlockWireNews RSS Feed" href="{{ .Site.BaseURL }}index.xml" />
+
+  <!-- WebSite Structured Data for SiteSearch -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "{{ .Site.BaseURL }}",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
       {{ end }}
 
       {{/* 3) Main content: Add an H1 at the top, then your existing ticker/blog/news sections */}}
       {{ define "main" }}
-
-      <!-- Homepage Header / H1 for SEO -->
-      <div class="container mt-6">
-        <h1 class="title has-text-centered">
-          BlockWireNews: Cryptocurrency News & Updates
-        </h1>
-      </div>
 
       <!-- TradingView Crypto Ticker Tape BEGIN -->
       <div class="tradingview-widget-container" style="margin-bottom: 1rem;">
@@ -99,6 +109,13 @@ Description: Homepage template with SEO enhancements
         </script>
       </div>
       <!-- TradingView Crypto Ticker Tape END -->
+       
+      <!-- Homepage Header / H1 for SEO -->
+      <div class="container mt-6">
+        <h1 class="title has-text-centered is-size-2 has-text-weight-bold">
+          BlockWireNews: Aggregated Cryptocurrency News, Blog & Updates
+        </h1>
+      </div>
 
       <div class="container mt-6">
         <!-- existing blog and crypto-news sections… -->
@@ -222,8 +239,7 @@ Description: Homepage template with SEO enhancements
                 {{/* Extract src from first <img> using replaceRE */}}
                 {{ $src := replaceRE `(?s).*<img[^>]*src="([^"]+)".*` `$1` .summary }}
                   {{ if ne $src .summary }}
-                  <img src="{{ $src }}" alt="{{ .title }}"
-                    style="max-width:200px; max-height:200px; margin-right:20px; float:left;" />
+                  <img src="{{ $src }}" alt="{{ .title }}" loading="lazy" style="max-width:200px; max-height:200px; margin-right:20px; float:left;" />
                   {{ end }}
                   {{ end }}
                   <div class="crypto-item-content">
