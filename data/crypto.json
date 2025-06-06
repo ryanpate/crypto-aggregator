@@ -1,32 +1,42 @@
 {
   "CoinDesk": [
     {
+      "title": "Fartcoin Bucks Market Trend, Jumps 12% on Coinbase Listing Plan",
+      "link": "https://www.coindesk.com/markets/2025/06/06/fartcoin-bucks-market-trend-jumps-12-on-coinbase-listing-plan",
+      "summary": ""
+    },
+    {
+      "title": "Tigran Gambaryan, Binance Exec Who Was Detained in Nigeria for Nearly a Year, Departs Crypto Exchange",
+      "link": "https://www.coindesk.com/policy/2025/06/06/tigran-gambaryan-binance-exec-who-was-detained-in-nigeria-for-nearly-a-year-departs-crypto-exchange",
+      "summary": ""
+    },
+    {
+      "title": "XRP Price Whipsaws in Volatile Trading Session Amid Broader Market Slide",
+      "link": "https://www.coindesk.com/markets/2025/06/06/xrp-price-whipsaws-in-volatile-trading-session-amid-broader-market-slide",
+      "summary": ""
+    },
+    {
+      "title": "Dogecoin Drops as Much as 12% Amid Trump-Musk Drama",
+      "link": "https://www.coindesk.com/markets/2025/06/06/dogecoin-drops-as-much-as-12-amid-trump-musk-drama",
+      "summary": ""
+    },
+    {
       "title": "Bitopro Confirms $11M Hack, Taiwan Crypto Exchange Says it Has Replenished Lost Funds",
       "link": "https://www.coindesk.com/tech/2025/06/06/bitopro-confirms-11m-hack-taiwan-crypto-exchange-says-it-has-replenished-lost-funds",
-      "summary": ""
-    },
-    {
-      "title": "DOGE, ADA Nosedive 7% as Crypto Traders Digest \u2018Recession\u2019 Sentiment",
-      "link": "https://www.coindesk.com/markets/2025/06/06/doge-ada-nosedive-7-as-crypto-traders-digest-recession-sentiment",
-      "summary": ""
-    },
-    {
-      "title": "Ether Trader Bets Millions on ETH Blasting Above $3.4K by June-End",
-      "link": "https://www.coindesk.com/markets/2025/06/06/ether-trader-bets-millions-on-eth-blasting-above-usd3-4k-by-june-end",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin, Ether Bulls Hit With $800M Liquidation as Trump-Musk Tussle Rattles BTC, ETH",
-      "link": "https://www.coindesk.com/markets/2025/06/06/bitcoin-ether-bulls-hit-with-800m-liquidation-as-trump-musk-tussle-rattles-btc-eth",
-      "summary": ""
-    },
-    {
-      "title": "Uber Is Once Again Considering Crypto Payments, Years After Mulling BTC as Payment Method",
-      "link": "https://www.coindesk.com/markets/2025/06/06/uber-once-again-says-it-s-considering-crypto-years-after-mulling-btc-payments",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin ETFs bleed on Trump-Musk fallout as sentiment turns to fear",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-bleed-trump-musk-fallout-sentiment-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE2YWQtNTRmOC03NTA3LWE0NzktNGVjNDgxZjUxMDZm.jpg\" /></p><p>While Bitcoin ETFs flipped to $278 million of outflows amid the Trump-Musk feud, Ether ETFs saw inflows, continuing a 14-day inflow streak.</p>"
+    },
+    {
+      "title": "Yuga Labs looks to replace \u2018unserious\u2019 ApeCoin DAO with new ApeCo entity",
+      "link": "https://cointelegraph.com/news/yuga-labs-aims-to-replace-apecoin-dao-with-apeco?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0MGEtODVkMi03ZDJjLTkyMjAtODdkMWI3ZWIwODQ3.jpg\" /></p><p>Yuga Labs CEO Greg Solano said the DAO became a slow, noisy, unserious governance theater.</p>"
+    },
     {
       "title": "Crypto lobby wants software dev protections added to crypto bill",
       "link": "https://cointelegraph.com/news/crypto-lobby-software-dev-protections-added-to-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,19 @@
       "title": "Crypto users fail \u2018basic situational awareness\u2019 at events, says Kraken",
       "link": "https://cointelegraph.com/news/crypto-eventgoers-fail-basic-situational-awareness-kraken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDkwMDYtOTc2Zi03MGEyLThkZWItNTZmOTcwZDQyNWM0.jpg\" /></p><p>Kraken\u2019s security team says that at crypto conferences, it\u2019s seen unlocked laptops, phones left unattended and public discussions about personal wealth.</p>"
-    },
-    {
-      "title": "AI solidifying role in Web3, challenging DeFi and gaming: DappRadar",
-      "link": "https://cointelegraph.com/news/ai-solidifying-role-in-web3-rivals-defi-engagement-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIxMzUtMGMyMy03ZGRhLTkxODEtNjY1NjZkY2EwNTQ5.jpg\" /></p><p>The number of daily unique active wallets on AI-powered crypto apps grew 23% in May, eating into the market share of DeFi and Web3 gaming, says DappRadar.</p>"
-    },
-    {
-      "title": "Ross Ulbricht\u2019s big Bitcoin donor tied to Silk Road successor Alphabay: Report",
-      "link": "https://cointelegraph.com/news/silk-road-successor-alphabay-31m-bitcoin-donation-ross-ulbricht?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzJhM2EtNzY4Yi03ZGE2LWI5NTMtOTdkYzZhN2MxYzY5.jpg\" /></p><p>Chainalysis told WIRED that it tracked a $31 million Bitcoin donation to online black market Silk Road founder Ross Ulbricht to a successor marketplace called Alphabay.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ethereum, XRP, Dogecoin, Solana hit by $384 million in largest liquidation day since February",
+      "link": "https://cryptoslate.com/insights/ethereum-xrp-dogecoin-solana-hit-by-384-million-in-largest-liquidation-day-since-february/",
+      "summary": "<p>In the past 24 hours, crypto markets witnessed a massive liquidation wave totaling $979.72 million, with long positions overwhelmingly impacted. The day closed out as the largest liquidation event since February, when nearly $3 billion in both longs and shorts were liquidated within 48 hours. Here&#8217;s how it breaks down: Longs Liquidated: $873.05M (\u224889.12%) Shorts [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Nearly $1 billion liquidated as Bitcoin recovers from $100k dip during Elon Musk, Donald Trump breakup",
+      "link": "https://cryptoslate.com/nearly-1-billion-liquidated-as-bitcoin-recovers-from-100k-dip-during-elon-musk-donald-trump-breakup/",
+      "summary": "<p>Bitcoin briefly dipped to $100,000 before swiftly rebounding to $103,000 in early trading hours Friday, as markets reacted to an explosive social media fallout between U.S. President Donald Trump and Tesla CEO Elon Musk. The confrontation, unfolding in real time across Truth Social and X, was marked by Trump\u2019s threat to revoke federal contracts and [&#8230;]</p> <p>"
+    },
     {
       "title": "Profit-taking, not capitulation: institutions cut Bitcoin ETF exposure by 23% in Q1",
       "link": "https://cryptoslate.com/profit-taking-not-capitulation-institutions-cut-bitcoin-etf-exposure-by-23-in-q1/",
@@ -68,16 +78,6 @@
       "title": "WLFI issues cease and desist notice to creators of \u2018Official Trump Wallet\u2019",
       "link": "https://cryptoslate.com/wlfi-issues-cease-and-desist-notice-to-creators-of-official-trump-wallet/",
       "summary": "<p>World Liberty Financial (WLFI), the crypto venture associated with President Donald Trump and members of his family, has issued a cease-and-desist letter to the creators of a newly announced Trump-branded crypto wallet, Bloomberg News reported on June 5, citing a person familiar with the matter. The letter, reportedly sent to Fight Fight Fight LLC, the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Uber eyes stablecoins for faster settlements, lower FX costs for global operations",
-      "link": "https://cryptoslate.com/uber-eyes-stablecoins-for-faster-settlements-lower-fx-costs-for-global-operations/",
-      "summary": "<p>Uber is exploring dollar-pegged stablecoins as a tool for transferring funds across its global network, CEO Dara Khosrowshahi said on June 5 at the Bloomberg Tech conference in San Francisco. Khosrowshahi explained that blockchain-based tokens could settle payments faster than traditional correspondent bank channels and eliminate layers of foreign exchange fees. He said that stablecoins [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin dives below $102k amid fading momentum and macro uncertainty",
-      "link": "https://cryptoslate.com/bitcoin-dives-below-102k-amid-fading-momentum-and-macro-uncertainty/",
-      "summary": "<p>Bitcoin (BTC) plunged to a low of $101,500 on June 5, marking its sharpest decline in over a month as a wave of selling swept through crypto markets. The drop extended a multi-day slide triggered by shifting investor sentiment and declining demand from institutions. The world\u2019s largest cryptocurrency touched a low of $101,500 before stabilizing [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin eyes major rally as ETF inflows spike \u2013 But THIS can ruin the party",
+      "link": "https://ambcrypto.com/bitcoin-eyes-major-rally-as-etf-inflows-spike-but-this-can-ruin-the-party/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/BDAB8D8A-3B7B-4DFC-9D95-6FE6A7FB2756.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin could be ready for another major upswing."
+    },
+    {
       "title": "BNB \u2013 Signs of accumulation, but should traders wait for a dip instead?",
       "link": "https://ambcrypto.com/bnb-signs-of-accumulation-but-should-traders-wait-for-a-dip-instead/",
       "summary": "<img alt=\"BNB - Signs of accumulation, but should traders wait for a dip instead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/BNB-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Binance Coin has seen steady buying pressure since March, making the case for bullish strength."
@@ -208,11 +213,6 @@
       "title": "AAVE price prediction \u2013 Why traders should expect a 8% drop on the charts soon",
       "link": "https://ambcrypto.com/aave-price-prediction-why-traders-should-expect-a-8-drop-on-the-charts-soon/",
       "summary": "<img alt=\"AAVE price prediction - Why traders should expect a 8% drop on the charts soon\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/AAVE-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AAVE's 4-hour chart suggested more losses may be incoming soon."
-    },
-    {
-      "title": "Toncoin whales buy, but holders remain red \u2013 What next?",
-      "link": "https://ambcrypto.com/toncoin-whales-buy-but-holders-remain-red-what-next/",
-      "summary": "<img alt=\"Toncoin whales buy, but holders remain red - What next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-05T140156.148-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whale strength contrasts with heavy unrealized losses, positioning TON for a potential breakout."
     }
   ]
 }
