@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "SuiPlay0X1 Hands-On: A Crypto Handheld Console",
+      "link": "https://decrypt.co/videos/interviews/SmRvf6q8/suiplay0x1-hands-on-a-crypto-handheld-console",
+      "summary": "The SuiPlay0X1 is a crypto-fueled handheld console set to ship this summer, as it attempts to rival the Steam Deck and other crypto gaming hardware."
+    },
+    {
+      "title": "Why Coinbase Brought Dogecoin and XRP to Ethereum Network Base",
+      "link": "https://decrypt.co/323907/why-coinbase-brought-dogecoin-xrp-ethereum-network-base",
+      "summary": "Coinbase has released two new tokens that allow users to trade their Dogecoin and XRP on Base, the exchange's Ethereum layer-2 network."
+    },
+    {
       "title": "How Ethereum Is Faring Since Its Major Pectra Upgrade",
       "link": "https://decrypt.co/323998/how-ethereum-faring-since-major-pectra-upgrade",
       "summary": "Not only has ETH's price surged, but Ethereum's Pectra upgrade has made a sizable impact on the network ecosystem. Here's how."
@@ -149,16 +159,6 @@
       "title": "Circle IPO Outperforms Public Debuts From Meta, Robinhood and Airbnb",
       "link": "https://decrypt.co/324066/circle-ipo-outperforms-public-debuts-meta-robinhood-airbnb",
       "summary": "Stablecoin issuer Circle's stock skyrocketed out of the gate, beating the initial public markets performance of tech giants."
-    },
-    {
-      "title": "Trump Crypto Wallet 'Isn't Moving Forward' After World Liberty Clash: Eric Trump",
-      "link": "https://decrypt.co/324070/trump-crypto-wallet-isnt-moving-forward-eric-trump",
-      "summary": "Eric Trump said Friday that the TRUMP meme coin team will not launch its crypto wallet following a dispute with World Liberty Financial."
-    },
-    {
-      "title": "Polymarket to Serve as Official Prediction Market of Elon Musk\u2019s X",
-      "link": "https://decrypt.co/324062/polymarket-serve-official-prediction-market-elon-musks-x",
-      "summary": "The two companies struck an agreement to create a product that will explain market moves, combining data from X posts, event contracts from Polymarket and xAI\u2019s chatbot, Grok."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin vs. macro pressure \u2013 Is $100K still safe amid rate-cut bets, inflation risks?",
+      "link": "https://ambcrypto.com/bitcoin-vs-macro-pressure-is-100k-still-safe-amid-rate-cut-bets-and-inflation-risks/",
+      "summary": "<img alt=\"Bitcoin vs. macro pressure - Is $100K still safe amid rate-cut bets and inflation risks?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-1-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />June\u2019s volatility may shake out weak hands in the crypto market."
+    },
+    {
       "title": "Analyzing Dogecoin\u2019s price recovery odds in the wake of Trump-Musk spat",
       "link": "https://ambcrypto.com/analyzing-dogecoins-price-recovery-odds-in-the-wake-of-trump-musk-spat/",
       "summary": "<img alt=\"Analyzing Dogecoin&#039;s price recovery odds in the wake of Trump-Musk spat\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-3.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can Dogecoin lead other memecoins in price discovery?"
@@ -208,11 +213,6 @@
       "title": "Examining PENGU\u2019s 9% pump \u2013 Will spot sell pressure ruin the bullish setup?",
       "link": "https://ambcrypto.com/examining-pengus-9-pump-will-spot-sell-pressure-ruin-the-bullish-setup/",
       "summary": "<img alt=\"Examining PENGU\u2019s 9% pump - Will spot sell pressure ruin the bullish setup?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250607_085156_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Before you call it bullish, look at the $0.015 cluster!"
-    },
-    {
-      "title": "Is Bitcoin\u2019s price breaking out again? Analyzing THIS metric may be key!",
-      "link": "https://ambcrypto.com/is-bitcoins-price-breaking-out-again-analyzing-this-metric-may-be-key/",
-      "summary": "<img alt=\"Is Bitcoin&#039;s price breaking out again? Here&#039;s what this metric says!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could Bitcoin be inching towards a breakdown before the breakout?"
     }
   ]
 }
