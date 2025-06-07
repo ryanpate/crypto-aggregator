@@ -9,7 +9,7 @@ Description: Homepage template with SEO enhancements
   <head> */}}
     {{ define "title" }}BlockWireNews | Cryptocurrency News & Updates{{ end }}
     {{ define "description" }}BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares
-    opinions from a 20-something blogger. Stay informed!{{ end }}
+    opinions from a blogger. Stay informed!{{ end }}
 
     {{/* 2) Define custom
 
@@ -22,7 +22,7 @@ Description: Homepage template with SEO enhancements
       <meta property="og:type" content="website" />
       <meta property="og:title" content="BlockWireNews | Cryptocurrency News & Updates" />
       <meta property="og:description"
-        content="BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares opinions from a 20-something blogger. Stay informed!" />
+        content="BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares opinions from a blogger. Stay informed!" />
       <meta property="og:url" content="{{ .Site.BaseURL }}" />
       <meta property="og:image" content="{{ .Site.BaseURL }}banner.png" />
 
@@ -30,7 +30,7 @@ Description: Homepage template with SEO enhancements
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="BlockWireNews | Cryptocurrency News & Updates" />
       <meta name="twitter:description"
-        content="BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares opinions from a 20-something blogger. Stay informed!" />
+        content="BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares opinions from a blogger. Stay informed!" />
       <meta name="twitter:image" content="{{ .Site.BaseURL }}banner.png" />
 
       <!-- JSON-LD Structured Data -->
@@ -113,7 +113,7 @@ Description: Homepage template with SEO enhancements
       <!-- Homepage Header / H1 for SEO -->
       <div class="container mt-6">
         <h1 class="title has-text-centered is-size-2 has-text-weight-bold">
-          BlockWireNews: Aggregated Cryptocurrency News, Blog & Updates
+          BlockWireNews: Crypto Blogs, News & Updates
         </h1>
       </div>
 
@@ -132,6 +132,7 @@ Description: Homepage template with SEO enhancements
           /* Make title bold and centered on large screens */
           .title {
             font-weight: bold;
+            font-size: 3.0rem;
           }
 
           /* Responsive crypto item: flex layout that wraps */
@@ -194,14 +195,32 @@ Description: Homepage template with SEO enhancements
               font-size: 1rem;
             }
           }
+
+          /* Thumbnail style for article images */
+          .article-thumb {
+            width: 200px;
+            height: auto;
+            float: left;
+            margin-right: 1rem;
+          }
+
+          /* Clamp summary to 3 lines */
+          .article-summary {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+          }
         </style>
         <!-- <h1 class="title has-text-centered">Crypto News Aggregator</h1> -->
 
         {{/* Blog Section */}}
         {{ $blogSection := site.GetPage "section" "blog" }}
         {{ if $blogSection }}
-        <section class="section">
-          <h2 class="subtitle">Blog</h2>
+        <section class="section blog-section">
+          <div class="blog-banner" style="text-align:left; ">
+            <img src="/blog_banner.png" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
+          </div>
           {{ range $blogSection.Pages.ByDate.Reverse }}
           <article style="margin-bottom: 1.5rem;">
             <h3>
@@ -214,48 +233,67 @@ Description: Homepage template with SEO enhancements
         </section>
         {{ end }}
 
-        {{ $all := .Site.Data.crypto }}
-        {{ if not $all }}
-        <div class="notification is-warning has-text-centered" style="margin-top: 1rem;">
-          ⚠️ No data found in .Site.Data.crypto
-        </div>
-        {{ else }}
-        {{ range $source, $articles := $all }}
-        <section class="section">
-          <h2 class="subtitle">
-            <a href="https://{{ lower $source }}.com" target="_blank" rel="noopener noreferrer"
-              style="color: black; text-decoration: none;">
-              From {{ $source }}.com
-            </a>
-          </h2>
-          {{ if not (len $articles) }}
-          <p><em>No articles for {{ $source }}</em></p>
-          {{ end }}
-          <ul>
-            {{ range $articles }}
-            <li>
-              <div class="crypto-item">
-                {{ if .summary }}
-                {{/* Extract src from first <img> using replaceRE */}}
-                {{ $src := replaceRE `(?s).*<img[^>]*src="([^"]+)".*` `$1` .summary }}
-                  {{ if ne $src .summary }}
-                  <img src="{{ $src }}" alt="{{ .title }}" loading="lazy" style="max-width:200px; max-height:200px; margin-right:20px; float:left;" />
-                  {{ end }}
-                  {{ end }}
-                  <div class="crypto-item-content">
-                    <a href="{{ .link }}" target="_blank">{{ .title }}</a>
-                    {{ if .summary }}
-                    {{/* Remove image tag from summary before printing text: */}}
-                    {{ $clean := replaceRE `<img[^>]*>` "" .summary }}
-                      <p class="is-size-7">{{ $clean | safeHTML }}</p>
-                      {{ end }}
-                  </div>
-              </div>
-            </li>
-            {{ end }}
-          </ul>
+        <!-- News Section Banner -->
+        <section class="section news-section">
+          <div class="news-banner" style="text-align:left; ">
+            <img src="/news_banner.png" alt="News" style="height:80px; width:auto; object-fit:cover;" />
+          </div>
         </section>
+
+        {{/* Flatten and shuffle all scraped articles, attaching source */}}
+        {{ $raw := .Site.Data.crypto }}
+        {{ $all := slice }}
+        {{ range $source, $articles := $raw }}
+          {{ range $articles }}
+            {{ $article := merge . (dict "source" $source) }}
+            {{ $all = $all | append $article }}
+          {{ end }}
         {{ end }}
+        {{ $shuffled := shuffle $all }}
+
+        {{ if not (len $shuffled) }}
+          <div class="notification is-warning has-text-centered" style="margin-top: 1rem;">
+            ⚠️ No scraped articles found.
+          </div>
+        {{ else }}
+          {{ range $shuffled }}
+          <section class="section">
+            {{ if .summary }}
+              {{ $src := replaceRE `(?s).*<img[^>]*src="([^"]+)".*` `$1` .summary }}
+              {{ if ne $src .summary }}
+                <img src="{{ $src }}" alt="thumbnail" class="article-thumb" />
+              {{ end }}
+            {{ end }}
+            <h2 class="subtitle">
+              <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
+                {{ .title }}
+              </a>
+            </h2>
+            {{ if .summary }}
+              {{/* Remove all <img> tags and convert to plain text */}}
+              {{ $text := .summary | replaceRE "<img[^>]*>" "" | plainify }}
+              {{ $words := split $text " " }}
+              {{ if gt (len $words) 150 }}
+                {{ $truncatedWords := first 150 $words }}
+                {{ $truncated := delimit $truncatedWords " " }}
+                <p class="is-size-7 article-summary">
+                  {{ $truncated }}…
+                </p>
+              {{ else }}
+                <p class="is-size-7 article-summary">
+                  {{ $text }}
+                </p>
+              {{ end }}
+            {{ end }}
+            <p class="is-size-7" style="margin-top:0.5rem; color:#666;">
+              Source: <a href="https://{{ replace (lower .source) " " "" }}.com"
+                         target="_blank" rel="noopener noreferrer"
+                         style="color:#666; text-decoration:none;">
+                {{ replace .source " " "" }}.com
+              </a>
+            </p>
+          </section>
+          {{ end }}
         {{ end }}
 
       </div>
