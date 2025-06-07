@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Holds Above $105K Despite Donald Trump\u2019s Threats Against Elon Musk",
+      "link": "https://www.coindesk.com/markets/2025/06/07/bitcoin-holds-above-usd105k-despite-donald-trump-s-threats-against-elon-musk",
+      "summary": ""
+    },
+    {
       "title": "Ether Holds Steady Above $2,500 as ETF Demand Signals Institutional Confidence",
       "link": "https://www.coindesk.com/markets/2025/06/07/ether-holds-steady-above-usd2-500-as-etf-demand-signals-institutional-confidence",
       "summary": ""
@@ -18,11 +23,6 @@
     {
       "title": "Deutsche Bank Considers Stablecoin or Joining Industry-Led Initiative, Exec Says",
       "link": "https://www.coindesk.com/business/2025/06/07/deutsche-bank-considers-stablecoin-or-joining-industry-led-initiative-exec-says",
-      "summary": ""
-    },
-    {
-      "title": "AVAX Jumps 6% as Trump-Musk Tensions Fade and Institutional Momentum Builds",
-      "link": "https://www.coindesk.com/markets/2025/06/07/avax-jumps-6-as-trump-musk-tensions-fade-and-institutional-momentum-builds",
       "summary": ""
     }
   ],
@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Coinbase CEO says unnecessary account restrictions has reduced by 82%",
+      "link": "https://cryptoslate.com/coinbase-ceo-says-unnecessary-account-restrictions-has-reduced-by-82/",
+      "summary": "<p>Brian Armstrong, CEO of Coinbase, said in an X post on Friday that the platform has reduced the issue of unnecessary account freezes and restrictions by 82% so far. Noting that unnecessary account freezing has been a \u201cmajor issue\u201d for Coinbase users \u201cfor longer than is acceptable,\u201d he wrote: \u201cI could list a bunch of [&#8230;]</p> <p>"
+    },
+    {
       "title": "The future of crypto belongs to communities\u2014treasury governance will get us there",
       "link": "https://cryptoslate.com/the-future-of-crypto-belongs-to-communities-treasury-governance-will-get-us-there/",
       "summary": "<p>The following is a guest post and analysis from Maarten Henskens, Head of Astar Foundation. Web3 has a problem with value capture. Despite billions in market capitalization, most projects continue to extract value from their communities rather than return it. While venture capitalists and founding teams reap substantial rewards through token sales and vesting schedules, [&#8230;]</p> <p>"
@@ -73,11 +78,6 @@
       "title": "Trump\u2013Musk feud becomes memecoin meta, leads to surge in trading volume",
       "link": "https://cryptoslate.com/trump-musk-feud-becomes-memecoin-meta-leads-to-surge-in-trading-volume/",
       "summary": "<p>President Donald Trump and Elon Musk&#8217;s fallout caused a major spikes in memecoin launches and trading, with the largest tokens by trading activity generating over $355 million in volume over the past 24 hours, according to DEX Screener data. As traders seized on the pair\u2019s high-profile social media clash using Solana&#8217;s ecosystem, Official Trump (TRUMP) [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Eric Trump says WLFI will acquire TRUMP for treasury, unofficial wallet project nixed",
-      "link": "https://cryptoslate.com/eric-trump-says-wlfi-will-acquire-trump-for-treasury-unofficial-wallet-project-nixed/",
-      "summary": "<p>Eric Trump announced that World Liberty Financial, the DeFi platform linked to President Donald Trump and his family, will take a significant treasury stake in the Official TRUMP memecoin. He also confirmed that the controversial Trump-branded wallet recently unveiled by the team behind the memecoin would not continue development. Wallet project nixed The announcement comes [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "SuiPlay0X1 Hands-On Preview: A Steam Deck Rival That Supports Crypto Games",
+      "link": "https://decrypt.co/324013/suiplay0x1-preview-steam-deck-rival-crypto-games",
+      "summary": "Launching at $599, the SuiPlay0X1 is a high-end mobile PC gaming device with crypto features. We went hands-on ahead of the release."
+    },
+    {
       "title": "French Exoskeleton Company Wandercraft Pivots to Humanoid Robots",
       "link": "https://decrypt.co/324103/french-exoskeleton-company-wandercraft-pivots-humanoid-robots",
       "summary": "Wandercraft repurposed the technology behind its exoskeletons to create Calvin 40, a utilitarian bot for factory jobs."
@@ -154,11 +159,6 @@
       "title": "Why Coinbase Brought Dogecoin and XRP to Ethereum Network Base",
       "link": "https://decrypt.co/323907/why-coinbase-brought-dogecoin-xrp-ethereum-network-base",
       "summary": "Coinbase has released two new tokens that allow users to trade their Dogecoin and XRP on Base, the exchange's Ethereum layer-2 network."
-    },
-    {
-      "title": "How Ethereum Is Faring Since Its Major Pectra Upgrade",
-      "link": "https://decrypt.co/323998/how-ethereum-faring-since-major-pectra-upgrade",
-      "summary": "Not only has ETH's price surged, but Ethereum's Pectra upgrade has made a sizable impact on the network ecosystem. Here's how."
     }
   ],
   "CryptoBriefing": [
