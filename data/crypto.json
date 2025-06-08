@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Bitcoin community is divided over Core devs\u2019 statement on transaction relay",
+      "link": "https://cryptoslate.com/bitcoin-community-is-divided-over-core-devs-statement-on-transaction-relay/",
+      "summary": "<p>A debate has erupted among the Bitcoin community over a joint statement released by 31 Bitcoin Core developers on June 6. In their statement, the developers argued that while the new transaction relay policy might lead to more non-financial use cases, protecting censorship resistance is one of the core tenets of the blockchain. The developers [&#8230;]</p> <p>"
+    },
+    {
       "title": "Proof-of-Reserves: Is it applicable to MicroStrategy?",
       "link": "https://cryptoslate.com/proof-of-reserves-is-it-applicable-to-microstrategy/",
       "summary": "<p>The following is a guest post and analysis from Shane Neagle, Editor In Chief fromThe Tokenist. On Tuesday, Michael Saylor, the Executive Chairman of MicroStrategy (NASDAQ: MSTR), riled up the Bitcoin part of the internet. At an event adjacent to Bitcoin 2025 conference in Las Vegas, Saylor was asked whether the company (rebranded as Strategy) [&#8230;]</p> <p>"
@@ -73,11 +78,6 @@
       "title": "\u2018Come to Dubai, habibi,\u2019 what\u2019s luring crypto companies to the Middle East?",
       "link": "https://cryptoslate.com/come-to-dubai-habibi-whats-luring-crypto-companies-to-the-middle-east/",
       "summary": "<p>Welcome to Slate Sundays, \u2019s new weekly feature showcasing in-depth interviews, expert analysis, and thought-provoking op-eds that go beyond the headlines to explore the ideas and voices shaping the future of crypto. One of the main takeaways from TOKEN2049 earlier this year was that the UAE, and Dubai in particular, is the hottest spot (quite literally) [&#8230;]</p> <p>"
-    },
-    {
-      "title": "The \u2018Bitcoin Family\u2019 has split and hidden seed phrase across 4 continents amid rising kidnappings",
-      "link": "https://cryptoslate.com/the-bitcoin-family-has-split-and-hidden-seed-phrase-across-4-continents-amid-rising-kidnappings/",
-      "summary": "<p>The \u2018Bitcoin Family\u2019 has completely overhauled its security measures amid rising cases of crypto-related kidnappings, according to a CNBC report. The family, which sold all their belongings in 2017 to invest in Bitcoin (BTC) and now travels around the world, has taken extreme measures amid a rise in perceived threats. This includes storing parts of [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Shiba Inu\u2019s deflation drive stalls \u2013 But before you buy the dip, look out for\u2026",
+      "link": "https://ambcrypto.com/shiba-inus-deflation-drive-fizzles-before-you-buy-the-dip-look-out-for/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-08T112850.821-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s deflationary activity and growing user engagement hint at a potential trend reversal brewing."
+    },
+    {
       "title": "Ethereum: Understanding how $2.8K will write ETH\u2019s next chapter",
       "link": "https://ambcrypto.com/ethereum-understanding-how-2-8k-will-write-eths-next-chapter/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-89-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum\u2019s ecosystem thrives as bullish metrics converge around a pivotal resistance level."
@@ -208,11 +213,6 @@
       "title": "Bitcoin bears bet against BTC\u2019s rally, but a short squeeze could follow IF\u2026",
       "link": "https://ambcrypto.com/bitcoin-bears-bet-against-btcs-rally-but-a-short-squeeze-could-follow-if/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-1-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Retail traders are betting against Bitcoin\u2019s rally, but rising short positions could trigger a squeeze. Could bearish sentiment backfire?"
-    },
-    {
-      "title": "Hyperliquid: Is $40 within reach for HYPE? \u2013 Metrics reveal\u2026",
-      "link": "https://ambcrypto.com/hyperliquid-defends-key-support-is-40-within-reach-for-hype/",
-      "summary": "<img alt=\"HYPE Eyes $40 as Buyers Dominate After Demand Zone Rebound\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_39_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />HYPE price are accumulating bullish momentum after a 6% rebound from a key demand zone at around $30.67."
     }
   ]
 }
