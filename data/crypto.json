@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Climbs Above $110K, 'At Crossroads' for Next Major Move",
+      "link": "https://www.coindesk.com/markets/2025/06/09/bitcoin-climbs-above-110k-at-crossroads-for-next-major-move",
+      "summary": ""
+    },
+    {
       "title": "Aptos' APT Gains 4% on Significant Volume, Has More Potential Upside",
       "link": "https://www.coindesk.com/markets/2025/06/09/aptos-apt-gains-4-on-significant-volume-has-more-potential-upside",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Plasma\u2019s XPL Token Sale Attracts $500M as Investors Chase Stablecoin Plays",
       "link": "https://www.coindesk.com/markets/2025/06/09/plasmas-xpl-token-sale-attracts-500m-as-investors-chase-stablecoin-plays",
       "summary": ""
-    },
-    {
-      "title": "Paraguay President's X Account Hacked, Shares Bitcoin Scam",
-      "link": "https://www.coindesk.com/policy/2025/06/09/paraguay-presidents-x-account-hacked-shares-bitcoin-scam",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "SEC Chair bashes Gensler\u2019s approach to crypto, defends self-custody",
+      "link": "https://cointelegraph.com/news/sec-paul-atkins-gary-gensler-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5Njg5NjctZDZmNS03NDJhLWJmNDUtNTk1N2EzMTRjY2Jl.jpg\" /></p><p>Paul Atkins called the right to self-custody a \u201cfoundational American value\u201d when addressing regulators and industry leaders discussing DeFi.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "US lawmakers propose amendment to crypto market structure bill before markup",
       "link": "https://cointelegraph.com/news/amendment-blockchain-developers-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkNDgtMDVjNS03NzUzLTkzZjgtMDVjMjcwZDQwMjkw.jpg\" /></p><p>Two bills in the US Congress considering stablecoins and a digital asset regulatory framework will reach crucial stages this week after long debates and controversies.</p>"
-    },
-    {
-      "title": "BlackRock ETH accumulation, key price metrics forecast Ethereum rally to $3K",
-      "link": "https://cointelegraph.com/news/blackrock-eth-accumulation-key-price-metrics-forecast-ethereum-rally-to-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzIxMTAtMWJjOS03MzlkLWE4N2QtYjYzODY1ODUxMzAx.jpg\" /></p><p>Rising futures open interest, robust spot ETH ETF flows, and a bullish technical analysis indicator forecast an Ethereum price rally to $3,000.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin climbs back to $110k amid sustained corporate, institutional interest",
+      "link": "https://cryptoslate.com/bitcoin-climbs-back-to-110k-amid-sustained-corporate-institutional-interest/",
+      "summary": "<p>Bitcoin (BTC) rebounded above $110,000 on June 9, regaining ground lost in last week\u2019s selloff as investors rotated back into digital assets on the back of strong ETF inflows, easing macroeconomic tensions, and renewed optimism across risk markets. The world\u2019s largest crypto reached an intraday high of $110,653 from a daily low of $105,426 earlier [&#8230;]</p> <p>"
+    },
     {
       "title": "ProShares, Bitwise race to launch CRCL ETFs, targeting August debut amid stock price surge",
       "link": "https://cryptoslate.com/proshares-bitwise-race-to-launch-crcl-etfs-targeting-august-debut-amid-stock-price-surge/",
@@ -73,11 +78,6 @@
       "title": "Visa, Chainlink successfully complete CBDC, stablecoin swap between Hong Kong, Australia",
       "link": "https://cryptoslate.com/visa-chainlink-successfully-complete-cbdc-stablecoin-swap-between-hong-kong-australia/",
       "summary": "<p>Visa and Chainlink have completed a key milestone in the Hong Kong Monetary Authority\u2019s (HKMA) e-HKD+ Pilot Programme, successfully testing a cross-border blockchain transaction using central bank digital currency (CBDC) and stablecoins. The trial, conducted in partnership with ANZ, ChinaAMC, and Fidelity International, is one of the first real-world simulations of programmable money being used [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SEC Chair Paul Atkins backs DeFi, rejects forced intermediaries during latest roundtable speech",
-      "link": "https://cryptoslate.com/sec-chair-paul-atkins-backs-defi-rejects-forced-intermediaries-during-latest-roundtable-speech/",
-      "summary": "<p>US Securities and Exchange Commission (SEC) Chairman Paul Atkins told the agency\u2019s fifth cryptocurrency roundtable on June 9 that the ability to hold crypto without an intermediary belongs at the core of US law. Atkins opened the \u201cDeFi and the American Spirit\u201d session by linking decentralized (DeFi) finance with the country\u2019s traditions of private property [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "Robert Mitchnick Discusses BlackRock\u2019s Bitcoin ETF IBIT Success On Bloomberg",
+      "link": "https://bitcoinmagazine.com/news/robert-mitchnick-discusses-blackrocks-bitcoin-etf-ibit-success-on-bloomberg",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Robert-Mitchnick-Discusses-BlackRocks-Bitcoin-ETF-IBIT-Success-On-Bloomberg.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/robert-mitchnick-discusses-blackrocks-bitcoin-etf-ibit-success-on-bloomberg\" rel=\"nofollow\"> </a></p> <p>BlackRock\u2019s Head of Digital Assets, Robert Mitchnick, explains the key factors driving the surge in Bitcoin ETFs.</p> <p>"
+    },
+    {
       "title": "KULR Technology Group Announces $300 Million ATM Offering To Invest in Their Bitcoin Treasury",
       "link": "https://bitcoinmagazine.com/news/kulr-technology-group-announces-300-million-atm-offering-to-invest-in-their-bitcoin-treasury",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KULR-Technology-Group-Announces-300-Million-ATM-Offering-To-Invest-in-Their-Bitcoin-Treasury.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-technology-group-announces-300-million-atm-offering-to-invest-in-their-bitcoin-treasury\" rel=\"nofollow\"> </a></p> <p>KULR entered a $300 million ATM offering to fund its Bitcoin treasury reserve, with Cantor Fitzgerald &#038; Co. and Craig-Hallum Capital Group LLC.</p> <p>"
@@ -127,14 +132,14 @@
       "title": "Japan\u2019s ANAP Holdings Launches Full Bitcoin Business Strategy with Goal of Over 1,000 BTC by August 2025",
       "link": "https://bitcoinmagazine.com/news/japans-anap-holdings-launches-full-bitcoin-business-strategy-with-goal-of-over-1000-btc-by-august-2025",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/ANAP.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/japans-anap-holdings-launches-full-bitcoin-business-strategy-with-goal-of-over-1000-btc-by-august-2025\" rel=\"nofollow\"> </a></p> <p>ANAP Holdings, Inc. (3189: Tokyo Standard Market) has officially announced the launch of its \u201cBitcoin Business\u201d in a formal corporate filing, detailing an entry into Bitcoin focused operations across treasury, finance, fashion, and mining. In a statement signed by President and CEO Yuta Sawaki, the company confirmed that its consolidated subsidiary ANAP Lightning Channel will [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Investment Holding Company Belgravia Hartford Capital Makes First Bitcoin Purchase as Part of Treasury Strategy",
-      "link": "https://bitcoinmagazine.com/news/investment-holding-company-belgravia-hartford-capital-makes-first-bitcoin-purchase-as-part-of-treasury-strategy",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Investment-Holding-Company-Belgravia-Hartford-Capital-Makes-First-Bitcoin-Purchase-as-Part-of-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/investment-holding-company-belgravia-hartford-capital-makes-first-bitcoin-purchase-as-part-of-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Belgravia Hartford Capital purchased 4.86 BTC for $500,000.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Bitcoin Soars Above $110K, Nearing Record as Ethereum and Dogecoin Rise",
+      "link": "https://decrypt.co/324317/bitcoin-soars-above-110k-ethereum-dogecoin",
+      "summary": "Bitcoin's price jumped past $110,000 for the first time in about two weeks to lead a broader upturn in digital assets."
+    },
     {
       "title": "Sui DeFi Exchange Cetus Back in Action After $233 Million Exploit",
       "link": "https://decrypt.co/324313/sui-defi-exchange-cetus-back-in-action-after-233-million-exploit",
@@ -154,11 +159,6 @@
       "title": "Why Bitcoin Implied Volatility Has Collapsed Amid Trump Trade Talks",
       "link": "https://decrypt.co/324304/bitcoin-implied-volatility-collapsed-trump",
       "summary": "Bitcoin volatility hits 1-year low as U.S.-China trade talks resume, with BTC holding above $100K but trapped in range amid geopolitical uncertainty."
-    },
-    {
-      "title": "'Bitcoin First' KULR Technology Seeks $300 Million to Boost BTC Holdings",
-      "link": "https://decrypt.co/324242/bitcoin-first-kulr-technology-seeks-300-million-to-boost-btc-holdings",
-      "summary": "The publicly traded company holds 920 Bitcoin, worth just under $1 billion on Monday."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Key Bitcoin metric hits 1.1 as buyers dominate \u2013 Here\u2019s what\u2019s next for BTC",
+      "link": "https://ambcrypto.com/key-bitcoin-metric-hits-1-1-as-buyers-dominate-heres-whats-next-for-btc/",
+      "summary": "<img alt=\"Key Bitcoin metric hits 1.1 as buyers dominate - Here&#039;s what&#039;s next for BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-92-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish strength across spot and on-chain metrics for Bitcoin as it stands."
+    },
+    {
       "title": "DEXE \u2013 Down by 17%, but traders are still buying! Here\u2019s why\u2026",
       "link": "https://ambcrypto.com/dexe-down-by-17-but-traders-are-still-buying-heres-why/",
       "summary": "<img alt=\"DEXE - Down by 17%, but traders are still buying! Here&#039;s why...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/CAA530AC-94D4-49E5-AE8F-11DB808E31A7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DEXE might have declined massively, but that may not be the end."
@@ -208,11 +213,6 @@
       "title": "Bitcoin network goes silent: Lowest activity in months raises questions about utility",
       "link": "https://ambcrypto.com/bitcoin-network-goes-silent-lowest-activity-in-months-raises-questions-about-utility/",
       "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-5-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s price surges, but on-chain activity declines, sparking debate over its real-world utility"
-    },
-    {
-      "title": "KAIA defies low liquidity to rally 14% \u2013 Can it target $0.135 next?",
-      "link": "https://ambcrypto.com/kaia-defies-low-liquidity-to-rally-14-can-it-target-0-135-next/",
-      "summary": "<img alt=\"KAIA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/B08C0A92-5BD4-4333-AA5A-C818C4C9D417.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />KAIA has led the market race and shows no signs of slowing down."
     }
   ]
 }
