@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
-      "title": "Solana Holds Above $152 as Second Round of US-China Talks Raise Hopes for Market Calm",
-      "link": "https://www.coindesk.com/markets/2025/06/09/solana-holds-above-usd152-as-second-round-of-us-china-talks-raise-hopes-for-market-calm",
+      "title": "Coinbase Alum-Founded Turnkey Raises $30M Series B to Grow Engineering Team: Report",
+      "link": "https://www.coindesk.com/business/2025/06/09/coinbase-alum-founded-turnkey-raises-30m-series-b-to-grow-engineering-team-report",
       "summary": ""
     },
     {
-      "title": "Shiba Inu's Downtrend Intact as Daily Burn Rate Tanks by 63%",
-      "link": "https://www.coindesk.com/markets/2025/06/09/shiba-inu-s-downtrend-intact-as-daily-burn-rate-tanks-by-63",
+      "title": "Michael Saylor's Strategy Added 1,045 Bitcoin for $110M Last Week",
+      "link": "https://www.coindesk.com/markets/2025/06/09/michael-saylors-strategy-added-1045-bitcoin-for-110m-last-week",
       "summary": ""
     },
     {
-      "title": "Argentine President Milei Cleared of Misconduct Over LIBRA Promotion: Report",
-      "link": "https://www.coindesk.com/policy/2025/06/09/argentine-president-milei-cleared-of-misconduct-over-libra-promotion-report",
+      "title": "Sui's Cetus DEX Is Back Online After $223M Exploit",
+      "link": "https://www.coindesk.com/business/2025/06/09/sui-s-cetus-dex-is-back-online-after-usd223m-exploit",
       "summary": ""
     },
     {
-      "title": "The Blockchain Group Starts 300M-Euro ATM Share Sale to Expand Bitcoin Holdings",
-      "link": "https://www.coindesk.com/markets/2025/06/09/the-blockchain-group-starts-300m-euro-atm-share-sale-to-expand-bitcoin-holdings",
+      "title": "ETH Surges as Spot ETF Inflows Hit 15-Day Streak, Traders Watch $2,540 Level",
+      "link": "https://www.coindesk.com/markets/2025/06/09/eth-surges-as-spot-etf-inflows-hit-15-day-streak-traders-watch-usd2-540-level",
       "summary": ""
     },
     {
-      "title": "Sony\u2019s Layer-2 Blockchain Soneium Unveils Gaming Incubator",
-      "link": "https://www.coindesk.com/business/2025/06/09/sony-s-layer-2-blockchain-soneium-unveils-gaming-incubator",
+      "title": "OpenLedger Commits $25M to Fund AI Blockchain Startups",
+      "link": "https://www.coindesk.com/business/2025/06/09/openledger-commits-usd25m-to-fund-ai-blockchain-startups",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ethereum privacy roadmap proposes EU GDPR-safe blockchain design",
+      "link": "https://cointelegraph.com/news/ethereum-modular-architecture-gdpr-privacy-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0OTQtODEwMy03YzUzLTliNmUtN2ExYzE3MzU1OTM5.jpg\" /></p><p>A new Ethereum privacy proposal suggests modular design and privacy tech can help the network align with EU GDPR rules while preserving decentralization.</p>"
+    },
+    {
+      "title": "Kaia pledges won-pegged stablecoin as South Korean payment stocks rally",
+      "link": "https://cointelegraph.com/news/kaia-won-pegged-stablecoin-south-korean-payment-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NmQtZDJkOC03M2Y4LWE2NTYtZjU4NzdiMjMyZjM4.jpg\" /></p><p>Kakao-backed blockchain Kaia joins South Korea\u2019s stablecoin race as the tech giant\u2019s payments app surges 30% on the stock market.</p>"
+    },
+    {
+      "title": "Kenya\u2019s crypto tax could hinder Africa\u2019s digital growth opportunity",
+      "link": "https://cointelegraph.com/news/kenya-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NjYtZDU2Zi03NGY2LWE0NzAtNzdkOTk3MjE0MmI2.jpg\" /></p><p>Kenya\u2019s proposed 1.5% crypto transaction tax could disrupt Africa\u2019s digital integration. As Kenya advances a 1.5% tax on every crypto transaction, the nation risks undermining its fintech leadership, driving startups and talent abroad.</p>"
+    },
     {
       "title": "Ether crypto funds see $296M inflows in best week since Trump election",
       "link": "https://cointelegraph.com/news/ether-funds-296m-inflows-largest-week-trump-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,24 @@
       "title": "Bitcoin price will see \u2018short-term correction\u2019 before $140K: Analysts",
       "link": "https://cointelegraph.com/news/bitcoin-price-will-see-short-term-correction-before-140k-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjFiMGMtZGRjYi03NTlkLTg0MmItZDkyYzZlYzUzYmUw.jpg\" /></p><p>Bitcoin analysts say BTC price could drop in the short term before initiating a rally to all-time highs above $140,000.</p>"
-    },
-    {
-      "title": "Tether USDT stablecoin seen on Bolivian store price tags",
-      "link": "https://cointelegraph.com/news/tether-usdt-prices-goods-bolivia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUzOTMtNzc4Mi03MGFjLTg3YTgtNjVlMjRjMzJmYzg1.jpg\" /></p><p>Tether CEO Paolo Ardoino shared images of Bolivian duty-free goods priced in USDt, suggesting the stablecoin's growing role as a reference currency in a struggling economy.</p>"
-    },
-    {
-      "title": "MapleStory revives Avalanche, tops 1M daily transactions twice in a week",
-      "link": "https://cointelegraph.com/news/maplestory-avalanche-tops-daily-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUzZDktY2JiMC03NWNlLWI0ZWUtMTgyOTEwYjM3ZGI1.jpg\" /></p><p>Avalanche\u2019s blockchain activity has increased dramatically since classic online game MapleStory got a Web3 makeover on the network.</p>"
-    },
-    {
-      "title": "Illegal crypto mining surges in Malaysia amid unclear policies",
-      "link": "https://cointelegraph.com/news/malaysia-crypto-mining-growth-electricity-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUzYjctMTkxNS03MGE0LWFhMGEtMmJjNjEzMmYxMmRk.jpg\" /></p><p>Illegal mining and a lack of regulation limit Malaysia from tapping into the crypto mining revenue.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Strategy\u2019s Michael Saylor calls quantum computing threats to Bitcoin a marketing myth",
+      "link": "https://cryptoslate.com/strategys-michael-saylor-calls-quantum-computing-threats-to-bitcoin-a-marketing-myth/",
+      "summary": "<p>Michael Saylor, chairman of Strategy and a long-time Bitcoin advocate, has dismissed concerns that quantum computing poses an imminent threat to the top crypto. In a recent CNBC interview, Saylor argued that the narrative is exaggerated to promote speculative quantum-resistant tokens. He noted : &#8220;It\u2019s mainly marketing from people that want to sell you the [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Crypto ETF inflows climb to $11 billion in 7 weeks with Ethereum leading amid US policy uncertainty",
+      "link": "https://cryptoslate.com/crypto-etf-inflows-climb-to-11-billion-in-7-weeks-with-ethereum-leading-amid-us-policy-uncertainty/",
+      "summary": "<p>Digital asset investment products attracted $224 million in inflows last week, extending a seven-week streak that now totals $11 billion, according to CoinShares&#8216; latest weekly report. However, James Butterfill, CoinShares&#8217; head of research, noted that the pace of inflows into these products continues to slow. Butterfill pointed to rising uncertainty over US monetary policy as [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bitcoin ETFs could see reversal this week after retreat in first week of June",
+      "link": "https://cryptoslate.com/insights/bitcoin-etfs-retreated-in-first-week-of-june-as-price-stalled-near-ath/",
+      "summary": "<p>Spot Bitcoin ETFs have struggled to keep the inflow momentum they established in May. The first trading day of the month ended with a $267.5 million outflow, which followed the massive $616.1 million outflow on May 30. Another $278.4 million outflow on June 5 and a smaller $47.8 million on June 6 effectively erased the [&#8230;]</p> <p>"
+    },
     {
       "title": "Blockchain Group stock up 1,400% in 6 months, bets \u20ac342M on European Bitcoin treasury",
       "link": "https://cryptoslate.com/blockchain-group-stock-up-1400-in-6-months-now-bets-e342m-on-its-european-bitcoin-treasury/",
@@ -63,24 +78,19 @@
       "title": "Millions in short positions now cluster above $106k after leverage flush",
       "link": "https://cryptoslate.com/insights/millions-in-short-positions-now-cluster-above-106k-after-leverage-flush/",
       "summary": "<p>Bitcoin futures have returned to parity with spot prices following a steep 5% drawdown earlier this week that liquidated more than $4 million in leveraged long positions. Price action on Binance\u2019s BTC-USDT perpetual contract shows a reversal from a June 5 low of $100,700 to $105,499, nearing the prior high of $106,775 reached on June [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ripple boosts Japanese startups with $200,000 XRP Ledger (XRPL) grants",
-      "link": "https://cryptoslate.com/ripple-boosts-japanese-startups-with-200000-xrp-ledger-xrpl-grants/",
-      "summary": "<p>Ripple plans to offer up to $200,000 in grants to Japanese startups building on the XRP Ledger (XRPL). The initiative, announced on June 9, is part of the company&#8217;s broader effort to foster blockchain innovation in Japan. According to the statement, the funding is tied to a new partnership with Web3 Salon, a program supported [&#8230;]</p> <p>"
-    },
-    {
-      "title": "OpenSea\u2019s OS2 launch brings 44% increase in user activity amid 2 million NFT sales",
-      "link": "https://cryptoslate.com/openseas-os2-launch-brings-44-increase-in-user-activity-amid-2-million-nft-sales/",
-      "summary": "<p>OpenSea\u2019s rollout of its OS2 platform has driven its highest user growth in over two years, suggesting that the long-dormant NFT market may be flickering back to life. Monthly active users on OpenSea jumped to roughly 467,000 in May, marking a 44% increase from April and the most since April 2023. While sales volumes remain [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Argentine Anti-Corruption Office clears President Milei of ethics violation over LIBRA promotion",
-      "link": "https://cryptoslate.com/argentine-anti-corruption-office-clears-president-milei-of-ethics-violation-over-libra-promotion/",
-      "summary": "<p>Argentina\u2019s Anti-Corruption Office has determined that President Javier Milei did not violate any ethics laws when he promoted the Solana-based LIBRA memecoin in February. In a resolution issued on Friday, the office declared that Milei\u2019s Feb. 14 X post constituted a personal statement rather than an official announcement as a public servant. Therefore, Milei\u2019s post [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "TrueNorth Pioneers AI Investing in Angel Round: Snorter Token Trading Bot to Explode?",
+      "link": "https://www.newsbtc.com/news/truenorth-pioneers-ai-investing-angel-round-snorter-token-trading-bot-explode/",
+      "summary": "Many crypto traders still manually wade through hundreds of token profiles, candlestick charts, and market cap pages each day. Sure, everyone has their favorite analytics website and their tried-and-tested metrics to simplify their work. But it\u2019s still a lot of data for any individual investor to parse. Fortunately, trading could soon be changing. Imagine: Personalized search engines to find and highlight tokens with trading patterns that perfectly fit your preferred strategies, Bots to crawl specific platforms and detect emerging 5x, 10x, and 100x opportunities, Automated trading with built-in risk management. This is the new era of crypto trading, led by projects like TrueNorth and the Snorter Bot, which promise a streamlined approach that could revolutionize the crypto landscape. TrueNorth Announces Crypto-AI Discovery Engine Still spending ages looking around for the best crypto fits for your investment strategy? What if AI could do that for you? TrueNorth is pioneering so-called \u2018agentic workflows for AI-native investing,\u2019 a solution to harness AI\u2019s power for market research, insights, and strategizing. An early group of 500 beta investors \u2013 dubbed \u2018Truthsayers\u2019 \u2013 are already testing this new technology. The Singapore-based company just launched an angel round to kick-start its early growth, raising $1M for advanced testing in the process. Once the project goes live, it will bring high-level trading strategies and advanced analytics to crypto traders of all levels. In fact, by combining the AI agent with reinforcement learning and a generative UI/UX, TrueNorth wants to deliver not just an AI trading tool, but a fully fledged AI assistant. It&#8217;s an attempt to create a hyper-personal trading AI that thinks and trades like you do, vastly expanding any individual trader&#8217;s toolbox. And TrueNorth isn\u2019t the only one trying to bring crypto trading to the masses. Snorter Token ($SNORT): Sniff Out 100x Meme Coins with Snorter Bot Thousands of meme coins launch on Solana every day \u2013 and some of the big winners won\u2019t ever make it to your local CEX. This is where projects like $SNORT come in. The Snorter Token ($SNORT) powers the Telegram-based Snorter Bot, an advanced crypto trading algorithm designed to find the best meme coin opportunities in real-time. The Snorter Bot then lets you bag and profit off of these opportunities through features like: Automatic sniping through sub-second swaps, Stop loss/take profit orders, Honeypot detection, Rugpull detection, Copy trading. Speed and automation tools like sniping and limit orders protect your investment strategy. Avoiding honeypots (scam tokens that can\u2019t be sold) and rugpulls (tokens held by a small number of investors and dumped on the market) is critical to staying safe when looking for new low-cap coins. Beyond Solana, the Snorter trading bot will soon expand to cover several other chains, including Ethereum, BNB, Polygon, and Base. The $SNORT token will give you exclusive access to this bot. You can also currently stake the coin for 504% dynamic APY. You can read more about the staking and claiming processes in the Snorter Token whitepaper. $SNORT tokens currently cost $0.0949, and the presale has raised more than $628K in a few weeks. Visit the official Snorter Token presale page. AI, Bots, and Crypto \u2013 A New Trading Future? The future of crypto trading doesn\u2019t have to be manual, tedious, and boring. Rather than delving deep into endless charts and metrics, TrueNorth lets you leverage AI analysis to automatically guide your investment strategy. And in the wild and woolly world of crypto meme coins, Snorter Bot will sniff out under-the-radar cryptos with 1000x potential, supercharging your meme coin portfolio while filtering out scams. This isn\u2019t financial advice \u2013 crypto is always volatile, so do your own research."
+    },
+    {
+      "title": "Dogecoin Is Going To $1 With The \u2018Next Impulse\u2019, Analyst Predicts",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-going-to-1-next-impulse/",
+      "summary": "Maelius (@MaeliusCrypto) has published a fresh weekly chart of DOGE/USDT from Binance and\u2014despite the meme-coin\u2019s recent pull-back\u2014sees the groundwork for a textbook Elliott-wave extension that could catapult prices toward the psychological $1.00 mark. Can Dogecoin Hit $1? The chart tracks every weekly candle since early-2021 and puts the current market at $0.1843 after a four-week slide from the March high near $0.26. That decline has carried price straight back into a broad green \u201cdemand\u201d band that now stretches roughly from $0.12 up to $0.17. The zone once acted as heavy overhead resistance during 2022-23; Maelius notes that, after last year\u2019s breakout, it has switched polarity and is behaving as a base of demand. Two moving averages frame the structure. The 50-week exponential average (EMA 50, blue) is curling higher and sits at about $0.205, while the 200-week EMA (red) is printed at $0.1415. Price is currently wedged between the two, a configuration that often precedes a decisive expansion in volatility. Notably, a rising red trend-line\u2014drawn beneath successive higher lows since late-2023\u2014now coincides almost exactly with the 200-week EMA, reinforcing the $0.15 area as technical support. Related Reading: Bloodbath Incoming? Dogecoin Must Hold This Level To Survive Maelius\u2019 count assigns the March 2024 spike to $0.23 as the primary wave 1, and the subsequent retreat to the October 2024 low near $0.12 as the primary wave 2. From that inflection point the analyst sees the opening stages of a third wave unfolding, but\u2014crucially\u2014he marks a smaller-degree wave 1 of that larger wave 1 peaking just above $0.48 in early December last year, followed by the present pull-back that he labels the smaller-degree wave 2. In other words, the chart shows a classic \u201c1-2, 1-2\u201d nesting: a big 1-2 at primary degree, immediately followed by a smaller 1-2 that kicks off the presumed third-of-third advance. Such a configuration is typically regarded by Elliott technicians as the most explosive setup in the entire impulse hierarchy because the next leg is the wave 3 of wave 3, a segment that can extend with the steepest slope and often delivers the bulk of a trend\u2019s price appreciation. Related Reading: Dogecoin Needs $0.40 Breakout To Salvage Bull Case, Says Analyst A dashed projection ray extrapolates that third wave to the $1.10 region, before wave 4 is pencilled in as a shallow retrace to roughly $0.65 and wave 5 completes somewhere in the $1.50\u2013$1.80 range. Maelius tempers the roadmap in his accompanying post, stating he is \u201cnot a fan of hard targets\u201d but believes \u201cthis one goes towards $1 in the next impulse.\u201d Under the price pane Maelius plots the weekly WaveTrend Oscillator (WTO). Both the fast (black) and slow (red) curves bottomed inside the highlighted oversold band in April and have since hooked sharply higher. That turn has been accompanied by a steady contraction in the crimson histogram bars; over the last two candles the histogram has in fact flipped back to light-grey on the positive side of the midline, signalling that bearish momentum is losing its grip and that a fresh bullish impulse may be brewing. DOGE is now hovering exactly at the upper rim of the demand box. A weekly close above the EMA 50 at $0.205 would signal renewed bullish dominance and open the way to $0.26\u2014the May swing high\u2014and the mid-$0.40s cluster that halted price during the December 2024 rally. Conversely, a decisive break under $0.14 would violate the two-year ascending trend-line and postpone the Elliott count. At press time, DOGE traded at $0.18. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Ignore The Trump\u2013Musk Noise: Bitcoin\u2019s Backbone Stays Solid",
       "link": "https://www.newsbtc.com/bitcoin-news/ignore-the-trump-musk-noise-bitcoins-backbone-stays-solid/",
@@ -95,19 +105,14 @@
       "title": "Bitcoin Price Risks Crash To $31,000 Amid 5-Wave Impulse Completion",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-risks-crash-31000/",
       "summary": "Over the last few weeks, the Bitcoin price has been on an upward trajectory, propelled forward mainly by institutional adoption and buying. This has seen the Bitcoin price rally to new all-time highs at $111,900, and has remained above $100,000 despite a turn in market sentiment toward the negative. However, this support has not bolstered confidence, with one analyst predicting that the leading cryptocurrency has seen the end of this bull cycle. Bitcoin Price Completes Elliot Wave Theory The Elliot Wave Theory is a chart pattern that has been widely used as Bitcoin has become more mainstream in an effort to predict where the price may be headed next. The theory consists of five full waves, at the end of which lies a bearish trend for the digital asset. So far, the Bitcoin price has been moving through different waves according to different analysts. But Sniper Academy on the TradingView platform has revealed that the five waves have been completed. Related Reading: Ethereum Head &#38; Shoulders Pattern Breakdown: Can Bulls Reclaim Control? Using the 1-month Bitcoin price chart, the crypto analyst shows that there have been five different waves completed. The latest all-time high peak above $111,900 is shown to have been the fifth and final wave, suggesting that this bullish impulse is complete. Given that the Bitcoin price has now completed this theory, the crypto analyst explains that this means that the cryptocurrency has now hit the upper boundary of a long-term ascending channel. Simply put, this is very bearish for the digital asset as this means an end to its upward trajectory. Right now, the analyst showed that the Bitcoin price is already forming divergence after the completion of the fifth wave. This has triggered a weakness in the momentum and has come as a result of resistance forming between $76,000 and $111,000. This trend shows that a potential double top has been created, and that means that there is nowhere for the Bitcoin price to go now but down. BTC Price Targets $31,000 Bottom Given the fact that the crypto analyst believes that the Elliot Wave Theory has played out and the five waves have been completed, the next expectation is a sharp drop in the Bitcoin price. The first move is expected toward $66,000, which would be an almost 50% decline in price from here. Related Reading: Dogecoin\u2019s Growth Pattern Hints At Massive June\u2013July Rally After 5-Month Pullback However, this is not the worst of it, as the crypto analyst sees the cryptocurrency still breaking down to $53,000. Then, if this level does fail to hold, then a fall all the way down to as low as $31,000, serving as the bottom of the channel. This also coincides with the 0.618 Fibonacci retracement. Once the Bitcoin price is back at $31,000, the crypto analyst believes that accumulation would begin at this key zone. This will then serve as the important level that will drive the start of the next major bull cycle. Featured image from Dall.E, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin Price Bounces Past 105K: Is a Full-Blown Rally Back on the Cards?",
-      "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-bounces-past-105k/",
-      "summary": "Bitcoin price started a recovery wave above the $105,000 zone. BTC is now consolidating and might attempt to clear the $106,500 resistance. Bitcoin started a recovery wave above the $105,000 zone. The price is trading above $105,000 and the 100 hourly Simple moving average. There is a bullish trend line forming with support at $105,350 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a fresh decline if it breaks the $104,000 support zone. Bitcoin Price Restarts Increase Bitcoin price started a fresh decline and traded below the $102,500 support zone. BTC even traded close to the $100,000 zone before the bulls appeared. A low was formed and the price recovered above the $103,500 resistance. The bulls even pushed the price above the $105,000 resistance. A high was formed at $106,426 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $100,400 swing low to the $106,426 high. Bitcoin is now trading above $105,000 and the 100 hourly Simple moving average. There is also a bullish trend line forming with support at $105,350 on the hourly chart of the BTC/USD pair. On the upside, immediate resistance is near the $106,200 level. The first key resistance is near the $106,500 level. The next key resistance could be $107,600. A close above the $107,600 resistance might send the price further higher. In the stated case, the price could rise and test the $108,800 resistance level. Any more gains might send the price toward the $110,000 level. Another Decline In BTC? If Bitcoin fails to rise above the $106,200 resistance zone, it could start another decline. Immediate support is near the $105,200 level and the trend line. The first major support is near the $103,500 level and the 50% Fib retracement level of the upward move from the $100,400 swing low to the $106,426 high. The next support is now near the $102,000 zone. Any more losses might send the price toward the $100,500 support in the near term. The main support sits at $100,000, below which BTC might gain bearish momentum. Technical indicators: Hourly MACD \u2013 The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BTC/USD is now above the 50 level. Major Support Levels \u2013 $105,200, followed by $103,500. Major Resistance Levels \u2013 $106,200 and $107,600."
-    },
-    {
-      "title": "Blank Pi Network Wallets Spark Outcry\u2014What\u2019s The Network Hiding?",
-      "link": "https://www.newsbtc.com/altcoin/blank-pi-network-wallets-spark-outcry-whats-the-network-hiding/",
-      "summary": "Pi Network members are becoming increasingly agitated after they found zero balances of their tokens in their wallets. They went through KYC verifications and switched to mainnet as directed. Related Reading: Elon Musk \u2018Will Do Anything\u2019 To Make XRP King, Tech Mogul Says However, numerous users find nothing in their accounts. The problem has caused a wave of complaints on the internet and a call for concrete explanations. Users Report Missing Pi Balances According to community reports, hundreds of posts show zero tokens even after following every step. Some users say they waited days. Others say they\u2019ve waited weeks. All of them finished KYC and locked in their accounts on mainnet. Yet their wallets still read \u201c0.00 Pi.\u201d The lack of visible tokens has left many feeling shut out. Stop talking nonsense. I don&#8217;t want to hear it. Give me back that damn $Pi. I&#8217;ve worked hard for six years. You still haven&#8217;t mapped it for me until now. What&#8217;s your reason for constantly delaying? Mapping is the right of every pioneer. Hurry up and map it #Pinetwork Oh my god. pic.twitter.com/FBQiWAPtwF \u2014 HaiFeng Chen (@haifeng8283) June 5, 2025 Wallet Confusion Deepens Concern Based on reports, some accounts now link to more than one wallet address. That has users scratching their heads. One person found two wallets under the same profile. Another spotted three. It\u2019s raising questions over how safe the system is. Users are worried they might lose tokens or fall into a trap. Foundation Moves 277 Million Pi Coins Blockchain data shows that the Pi Foundation\u2019s wallet ending in \u201cODM\u201d transferred 276,500,000 Pi coins recently. A withdrawal of 7,380,000 Pi by the same address happened today. According to on-chain records, weekly withdrawals of large amounts have taken place from OKX exchange. The purpose of these moves remains unexplained by the Pi Core Team. Community Demands Clear Answers Community members note it\u2019s been three months without a detailed update from the project\u2019s leaders. They want dates, explanations, and plans. Some posts urge the team to post a public timeline. Others demand live Q&#38;A sessions. The calls are loud enough to push the topic onto the trending list on social media. Team Issues Wallet Safety Tips Pi Network&#8217;s support channels recently posted a list of wallet safety tips. They discussed good practices for passwords and how to identify phishing. But they failed to address why tokens are concealed. The tips also failed to discuss the sudden emergence of numerous wallets per user. Related Reading: Bitcoin To Hit $180,000 In 2025? Analyst Highlights The Trigger What Happens Next Based on user feedback, the project will likely face pressure in the coming days. Some community members say they will pause mining until they see their balances. Others say they\u2019ll shift their attention to rival projects. Nothing has been confirmed by the Pi Core Team beyond the safety note. It remains unclear when users will see their Pi tokens or receive a full breakdown of those massive transfers. The situation will be one to watch as the network works to rebuild trust. Featured image from Unsplash, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "The Blockchain Group Accelerates Bitcoin Treasury Strategy with \u20ac300M Raise",
+      "link": "https://bitcoinmagazine.com/news/the-blockchain-group-accelerates-bitcoin-treasury-strategy-with-e300m-raise",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Blockchain-Group-Launches-E300M-ATM-Type-Program-to-Accelerate-its-Bitcoin-Treasury.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-blockchain-group-accelerates-bitcoin-treasury-strategy-with-e300m-raise\" rel=\"nofollow\"> </a></p> <p>The Blockchain Group launches \u20ac300M ATM raise with TOBAM to scale its Bitcoin treasury\u2014aimed at increasing BTC per share over time.</p> <p>"
+    },
     {
       "title": "Bitcoin 2025 Las Vegas: Here\u2019s What Went Down",
       "link": "https://bitcoinmagazine.com/news/bitcoin-2025-las-vegas-heres-what-went-down",
@@ -127,11 +132,6 @@
       "title": "\u2018MicroStrategy of Asia\u2019 Metaplanet Aims To Acquire Over 210,000 BTC By the End of 2027",
       "link": "https://bitcoinmagazine.com/news/microstrategy-of-asia-metaplanet-aims-to-acquire-over-210000-btc-by-the-end-of-2027",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/\u2018MicroStrategy-of-Asia-Metaplanet-Aims-To-Acquire-Over-210000-BTC-By-the-End-of-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/microstrategy-of-asia-metaplanet-aims-to-acquire-over-210000-btc-by-the-end-of-2027\" rel=\"nofollow\"> </a></p> <p>Metaplanet Inc. plans to acquire over 210,000 BTC by the end of 2027, which is equivalent to 1% of Bitcoin\u2019s total supply.</p> <p>"
-    },
-    {
-      "title": "Know Labs, Inc. Announces Adopting a Bitcoin Treasury Strategy, Starting with 1,000 Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/know-labs-inc-announces-adopting-a-bitcoin-treasury-strategy-starting-with-1000-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Know-Labs-Inc.-Announces-Adopting-a-Bitcoin-Treasury-Strategy-Starting-with-1000-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/know-labs-inc-announces-adopting-a-bitcoin-treasury-strategy-starting-with-1000-bitcoin\" rel=\"nofollow\"> </a></p> <p>Know Labs, Inc. announces making a Bitcoin Treasury Strategy, holding 1,000 Bitcoin and placing Greg Kidd as the CEO of the company.</p> <p>"
     }
   ],
   "Decrypt": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Bitcoin rises as key US-China trade talks commence in London",
+      "link": "https://cryptobriefing.com/bitcoin-market-reaction-us-china-trade/",
+      "summary": "<p>Bitcoin's rebound highlights its sensitivity to geopolitical events, underscoring its potential as a barometer for global economic tensions.</p> <p>"
+    },
+    {
       "title": "Circle rejected Ripple\u2019s $5 billion buyout \u2014 now valued at over $20 billion after NYSE debut",
       "link": "https://cryptobriefing.com/circles-21-billion-valuation/",
       "summary": "<p>Circle's successful IPO highlights the growing legitimacy of stablecoins, potentially accelerating regulatory clarity and institutional adoption.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "Elon Musk\u2019s X names Polymarket as official prediction market partner",
       "link": "https://cryptobriefing.com/elon-musks-prediction-markets/",
       "summary": "<p>This partnership could enhance the accuracy of public sentiment analysis, potentially influencing decision-making in politics and finance.</p> <p>"
-    },
-    {
-      "title": "Apple, X, and Google hold talks with crypto firms on stablecoin integration",
-      "link": "https://cryptobriefing.com/stablecoin-integration-tech-discussions/",
-      "summary": "<p>The integration of stablecoins by major tech firms could revolutionize global payment systems, enhancing efficiency and reducing costs.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Is Bitcoin\u2019s $105K chop a strategic trap? \u2013 Here\u2019s what might be happening",
+      "link": "https://ambcrypto.com/is-bitcoins-105k-chop-a-strategic-trap-heres-what-might-be-happening/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could BTC\u2019s pause be a strategic setup, quietly ready to trap shorts and ignite a breakout?"
+    },
     {
       "title": "Explaining why Bitcoin\u2019s recent price dip won\u2019t break BTC\u2019s stride",
       "link": "https://ambcrypto.com/bitcoin-explaining-why-the-recent-dip-wont-break-btcs-stride/",
@@ -208,11 +213,6 @@
       "title": "Cardano joins Nasdaq Crypto Index \u2013 A major milestone for Wall Street exposure?",
       "link": "https://ambcrypto.com/cardano-joins-nasdaq-crypto-index-a-major-milestone-for-wall-street-exposure/",
       "summary": "<img alt=\"Cardano joins Nasdaq Crypto Index - A major milestone for Wall Street exposure?\" class=\"attachment-full size-full wp-post-image\" height=\"637\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Cardanos-Nasdaq-Index-Inclusion.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1132\" />What does Nasdaq\u2019s expanded crypto index mean for Cardano\u2019s Wall Street future?"
-    },
-    {
-      "title": "Art of the Con \u2013 Trumps\u2019 memecoin moves and what do they mean exactly?",
-      "link": "https://ambcrypto.com/art-of-the-con-trumps-memecoin-moves-and-what-do-they-mean-exactly/",
-      "summary": "<img alt=\"Art of the Con - Trumps&#039; memecoin moves and what do they mean exactly?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-2-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />From dinners to botched wallet launches, every questionable move has been a moneymaker for the first family."
     }
   ]
 }
