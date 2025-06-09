@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Trump Media and Semler Scientific Could Be Cheapest Bitcoin Treasury Companies by This Metric",
+      "link": "https://www.coindesk.com/markets/2025/06/09/trump-media-and-semler-scientific-could-be-cheapest-bitcoin-treasury-companies-by-this-metric",
+      "summary": ""
+    },
+    {
+      "title": "U.S. SEC Chair Says Working on 'Innovation Exemption' for DeFi Platforms",
+      "link": "https://www.coindesk.com/policy/2025/06/09/u-s-sec-chair-says-working-on-innovation-exemption-for-defi-platforms",
+      "summary": ""
+    },
+    {
       "title": "Plasma\u2019s XPL Token Sale Attracts $500M as Investors Chase Stablecoin Plays",
       "link": "https://www.coindesk.com/markets/2025/06/09/plasmas-xpl-token-sale-attracts-500m-as-investors-chase-stablecoin-plays",
       "summary": ""
@@ -13,16 +23,6 @@
     {
       "title": "Red-Hot Circle Already Has Two ETFs Devoted to It in the Works",
       "link": "https://www.coindesk.com/markets/2025/06/09/bitwise-proshares-file-for-etfs-tracking-soaring-circle-shares",
-      "summary": ""
-    },
-    {
-      "title": "BNB Price Climbs in Strong Rebound as Trump-Musk Spat Uncertainty Fades",
-      "link": "https://www.coindesk.com/markets/2025/06/09/bnb-price-climbs-in-strong-rebound-as-trump-musk-spat-uncertainty-fades",
-      "summary": ""
-    },
-    {
-      "title": "Chainlink's LINK Stages V-Shape Recovery After 14% Plunge",
-      "link": "https://www.coindesk.com/markets/2025/06/09/chainlinks-link-stages-v-shape-recovery-after-14-plunge",
       "summary": ""
     }
   ],
@@ -55,6 +55,16 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Visa, Chainlink successfully complete CBDC, stablecoin swap between Hong Kong, Australia",
+      "link": "https://cryptoslate.com/visa-chainlink-successfully-complete-cbdc-stablecoin-swap-between-hong-kong-australia/",
+      "summary": "<p>Visa and Chainlink have completed a key milestone in the Hong Kong Monetary Authority\u2019s (HKMA) e-HKD+ Pilot Programme, successfully testing a cross-border blockchain transaction using central bank digital currency (CBDC) and stablecoins. The trial, conducted in partnership with ANZ, ChinaAMC, and Fidelity International, is one of the first real-world simulations of programmable money being used [&#8230;]</p> <p>"
+    },
+    {
+      "title": "SEC Chair Paul Atkins backs DeFi, rejects forced intermediaries during latest roundtable speech",
+      "link": "https://cryptoslate.com/sec-chair-paul-atkins-backs-defi-rejects-forced-intermediaries-during-latest-roundtable-speech/",
+      "summary": "<p>US Securities and Exchange Commission (SEC) Chairman Paul Atkins told the agency\u2019s fifth cryptocurrency roundtable on June 9 that the ability to hold crypto without an intermediary belongs at the core of US law. Atkins opened the \u201cDeFi and the American Spirit\u201d session by linking decentralized (DeFi) finance with the country\u2019s traditions of private property [&#8230;]</p> <p>"
+    },
+    {
       "title": "Paraguay\u2019s presidency swiftly debunks Bitcoin legal tender hoax, confirms X account hack",
       "link": "https://cryptoslate.com/paraguays-presidency-swiftly-debunks-bitcoin-legal-tender-hoax-confirms-x-account-hack/",
       "summary": "<p>The Paraguayan government made an official statement that President Santiago Pe\u00f1a\u2019s verified X account was hacked and published an unauthorized declaration that Bitcoin (BTC) would be made legal tender on June 9."
@@ -68,16 +78,6 @@
       "title": "Strategy buys another 1,045 Bitcoin to push its stash to nearly 3% of supply",
       "link": "https://cryptoslate.com/insights/strategy-buys-another-1045-bitcoin-to-push-its-stash-to-nearly-3-of-supply/",
       "summary": "<p>Strategy has acquired an additional 1,045 Bitcoin (BTC) $110.2 million, according to a June 9 filing with the US Securities and Exchange Commission. The purchase occurred between June 2 and June 8 at an average price of $105,426 per coin. Strategy\u2019s total Bitcoin stash now amounts to 582,000 BTC. The company&#8217;s average price now stands [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Kadena issues first grant from $25M real estate tokenization fund in Bank of England pilot",
-      "link": "https://cryptoslate.com/kadena-issues-first-grant-from-25m-real-estate-tokenization-fund-in-bank-of-england-pilot/",
-      "summary": "<p>Public PoW blockchain Kadena makes its first capital deployment from a $50 million grants program, backing UK startup CurveBlock in the Bank of England\u2019s Digital Securities Sandbox. Kadena has awarded the first grant from its new $50 million ecosystem fund, allocating $400,000 to CurveBlock, a UK-based startup building tokenized real estate inside a regulated financial [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Could Marathon be readying to team with Exxon or Aramco on flare gas Bitcoin mining?",
-      "link": "https://cryptoslate.com/could-marathon-be-readying-to-team-with-exxon-or-aramco-on-flare-gas-bitcoin-mining/",
-      "summary": "<p>Could Marathon Digital Holdings be in exploratory talks with Exxon Mobil and Saudi Aramco to colocate Bitcoin mining units at oilfields, directly tapping flare-gas for power? Crypto Twitter thinks it&#8217;s possible, and if confirmed, the partnership could turbocharge the scale and legitimacy of gas-to-Bitcoin operations, turning waste methane into a monetized digital asset while addressing [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "'Bitcoin First' KULR Technology Seeks $300 Million to Boost BTC Holdings",
+      "link": "https://decrypt.co/324242/bitcoin-first-kulr-technology-seeks-300-million-to-boost-btc-holdings",
+      "summary": "The publicly traded company holds 920 Bitcoin, worth just under $1 billion on Monday."
+    },
+    {
+      "title": "Bitcoin Avoids Death Cross, Ethereum Stabilizes and Fartcoin Defies Gravity: Analysis",
+      "link": "https://decrypt.co/324246/bitcoin-death-cross-ethereum-stabilizes-fartcoin",
+      "summary": "Technical indicators signal potential rebounds for Bitcoin and Ethereum while Fartcoin meme coin momentum accelerates."
+    },
+    {
       "title": "Bitcoin Treasury The Blockchain Group Eyes $342 Million Raise to Buy More BTC",
       "link": "https://decrypt.co/324238/bitcoin-treasury-the-blockchain-group-eyes-342-million-raise-to-buy-more-btc",
       "summary": "The publicly traded firm aims to amass more Bitcoin for its corporate treasury through an \u201cat-the-market\u201d-type offering, in partnership with a Paris-based asset manager."
@@ -149,16 +159,6 @@
       "title": "Argentine President Milei Exonerated in Libra Meme Coin Probe",
       "link": "https://decrypt.co/324201/argentine-president-milei-exonerated-libra-meme-coin-probe",
       "summary": "Milei promoted the Solana-based meme coin in February\u2014and caused a stir."
-    },
-    {
-      "title": "Bitcoin, Solana Rise as US and China Agree to Trade Talks Ahead of Key Bond Auction",
-      "link": "https://decrypt.co/324214/bitcoin-solana-rise-u-s-and-china-agree-talk-trade-ahead-key-bond-auction",
-      "summary": "A poorly received 20-year bond auction caused Bitcoin\u2019s price to suddenly drop last month."
-    },
-    {
-      "title": "Circle Stock Hits New Peak, Up 347% Since IPO as Institutional Interest in CRCL Explodes",
-      "link": "https://decrypt.co/324202/circle-new-peak-up-347-since-ipo-institutional-interest",
-      "summary": "Circle stock rockets 347% in three days as institutions pile in, but rate cuts loom as a potential headwind for the stablecoin issuer."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Dogecoin\u2019s price could rally by 32%, but here\u2019s the catch\u2026!",
+      "link": "https://ambcrypto.com/dogecoins-price-could-rally-by-32-but-heres-the-catch/",
+      "summary": "<img alt=\"Dogecoin&#039;s price could rally by 32%, but here&#039;s the catch...!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-09T173332.809_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Everyone's favourite memecoin may be set to head in a different direction soon."
+    },
+    {
       "title": "Bitcoin network goes silent: Lowest activity in months raises questions about utility",
       "link": "https://ambcrypto.com/bitcoin-network-goes-silent-lowest-activity-in-months-raises-questions-about-utility/",
       "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-5-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s price surges, but on-chain activity declines, sparking debate over its real-world utility"
@@ -208,11 +213,6 @@
       "title": "BlockDAG is breaking records fast: Why June 13\u2019s GO LIVE reveal is the big date",
       "link": "https://ambcrypto.com/blockdag-is-breaking-records-fast-why-june-13s-go-live-reveal-is-the-big-date/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"501\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-174804.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"897\" />The crypto market is no stranger to hype. But what separates BlockDAG from the rest [&#8230;]"
-    },
-    {
-      "title": "Why BlackRock\u2019s move could bring Ethereum\u2019s $3K price closer than ever!",
-      "link": "https://ambcrypto.com/why-blackrocks-move-could-bring-ethereums-3k-price-closer-than-ever/",
-      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-8.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BlackRock is the prophet; is its $50 million buy the prophecy signaling Ethereum\u2019s $3k destiny?"
     }
   ]
 }
