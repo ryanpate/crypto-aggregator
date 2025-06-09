@@ -1,7 +1,17 @@
 {
   "CoinDesk": [
     {
-      "title": "ATOM Struggles After Failed Breakout, Recovers",
+      "title": "The End of Bitcoin Maximalism",
+      "link": "https://www.coindesk.com/opinion/2025/06/09/the-end-of-bitcoin-maximalism",
+      "summary": ""
+    },
+    {
+      "title": "Ethereum Blockchain Is Useful Technology That 'Deserves Love,' Bernstein Says",
+      "link": "https://www.coindesk.com/markets/2025/06/09/ethereum-blockchain-is-useful-technology-that-deserves-love-bernstein-says",
+      "summary": ""
+    },
+    {
+      "title": "ATOM Struggles After Failed Breakout, Recovers With New Support at $4.237",
       "link": "https://www.coindesk.com/markets/2025/06/09/atom-struggles-after-failed-breakout-recovers-amid-political-tensions",
       "summary": ""
     },
@@ -11,22 +21,17 @@
       "summary": ""
     },
     {
-      "title": "Coinbase Alum-Founded Turnkey Raises $30M Series B to Grow Engineering Team: Report",
+      "title": "Coinbase Alum-Founded Turnkey Raises $30M Series B to Grow Engineering Team",
       "link": "https://www.coindesk.com/business/2025/06/09/coinbase-alum-founded-turnkey-raises-30m-series-b-to-grow-engineering-team-report",
-      "summary": ""
-    },
-    {
-      "title": "Michael Saylor's Strategy Added 1,045 Bitcoin for $110M Last Week",
-      "link": "https://www.coindesk.com/markets/2025/06/09/michael-saylors-strategy-added-1045-bitcoin-for-110m-last-week",
-      "summary": ""
-    },
-    {
-      "title": "Sui's Cetus DEX Is Back Online After $223M Exploit",
-      "link": "https://www.coindesk.com/business/2025/06/09/sui-s-cetus-dex-is-back-online-after-usd223m-exploit",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Everyone loves crypto ETFs, but not after reading the fine print",
+      "link": "https://cointelegraph.com/news/everyone-loves-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOTUtOTEyYi03MTE4LWE3NTEtNDRjNDExZWUzNmMy.jpg\" /></p><p>Crypto ETFs have attracted billions in inflows and mainstream attention, but they undermine crypto\u2019s core values of decentralization, self-custody and financial empowerment.</p>"
+    },
     {
       "title": "A crypto scam that doesn\u2019t need private keys: How does zero-value transfer work?",
       "link": "https://cointelegraph.com/explained/a-crypto-scam-that-doesnt-need-private-keys-how-does-zero-value-transfer-work?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,41 +51,41 @@
       "title": "Australia unmasks $123M crypto laundering ring behind security firm",
       "link": "https://cointelegraph.com/news/australia-crypto-laundering-ring-security-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I0N2EtMDdhNS03M2VkLWEzNDEtZjQ1ODY3Y2I4NTJh.jpg\" /></p><p>A multi-agency investigation traced illicit funds to a suspected $123 million crypto laundering operation hiding behind a security company.</p>"
-    },
-    {
-      "title": "Strategy adds 1,045 Bitcoin for $110M in latest purchase",
-      "link": "https://cointelegraph.com/news/strategy-buys-110m-bitcoin-amid-all-time-high-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0OGEtZWMyOS03MDZiLTkyZTMtODU5YWVmMzg3ZWM1.jpg\" /></p><p>Strategy has acquired 1,045 Bitcoin for $110.2 million as part of its ongoing accumulation strategy, bringing total holdings to 582,000 BTC.</p>"
     }
   ],
   "CryptoSlate": [
     {
-      "title": "Central African Republic sets date for tokenized land sale on Solana via controversial CAR memecoin",
-      "link": "https://cryptoslate.com/central-african-republic-sets-date-for-tokenized-land-on-solana-via-controversial-car-memecoin/",
-      "summary": "<p>The Central African Republic (CAR) is pushing ahead this month with a plan to tokenize over 1,700 hectares of land on Solana, an initiative now deeply entangled with a controversial memecoin, opaque governance, and accusations of deepfakes. What began as a state-led \u201ccrypto-powered development\u201d experiment has morphed into one of the year\u2019s most confounding blockchain [&#8230;]</p> <p>"
+      "title": "Kadena issues first grant from $25M real estate tokenization fund in Bank of England pilot",
+      "link": "https://cryptoslate.com/kadena-issues-first-grant-from-25m-real-estate-tokenization-fund-in-bank-of-england-pilot/",
+      "summary": "<p>Public PoW blockchain Kadena makes its first capital deployment from a $50 million grants program, backing UK startup CurveBlock in the Bank of England\u2019s Digital Securities Sandbox. Kadena has awarded the first grant from its new $50 million ecosystem fund, allocating $400,000 to CurveBlock, a UK-based startup building tokenized real estate inside a regulated financial [&#8230;]</p> <p>"
     },
     {
-      "title": "Nasdaq-listed Oblong jumps 12%, eyes $7.5M Bittensor TAO acquisition for Bitcoin-style treasury strategy",
-      "link": "https://cryptoslate.com/nasdaq-listed-oblong-jumps-12-eyes-7-5m-bittensor-tao-acquisition-for-bitcoin-style-treasury-strategy/",
-      "summary": "<p>IT solutions provider Oblong has unveiled plans to raise $7.5 million through a private stock sale to support its new Bittensor-driven AI and digital asset treasury initiative, according to a June 6 statement. Shares in the Nasdaq-listed firm are up 12% over the past 24 hours following the announcement. Oblong revealed that it entered a [&#8230;]</p> <p>"
+      "title": "Could Marathon be readying to team with Exxon or Aramco on flare gas Bitcoin mining?",
+      "link": "https://cryptoslate.com/could-marathon-be-readying-to-team-with-exxon-or-aramco-on-flare-gas-bitcoin-mining/",
+      "summary": "<p>Could Marathon Digital Holdings be in exploratory talks with Exxon Mobil and Saudi Aramco to colocate Bitcoin mining units at oilfields, directly tapping flare-gas for power? Crypto Twitter thinks it&#8217;s possible, and if confirmed, the partnership could turbocharge the scale and legitimacy of gas-to-Bitcoin operations, turning waste methane into a monetized digital asset while addressing [&#8230;]</p> <p>"
     },
     {
-      "title": "Newly introduced GOP Bill seeks to write Trump\u2019s strategic Bitcoin reserve into law",
-      "link": "https://cryptoslate.com/newly-introduced-gop-bill-seeks-to-write-trumps-strategic-bitcoin-reserve-into-law/",
-      "summary": "<p>A new House bill introduced Friday would lock in President Trump\u2019s unprecedented executive order establishing a Strategic Bitcoin Reserve, signaling the GOP\u2019s deepening embrace of digital assets as fiscal and geopolitical leverage tools. The bill, H.R. 3798, sponsored by Rep. Tim Burchett (R-TN), aims to codify Executive Order 14233, signed by Trump. The order halted [&#8230;]</p> <p>"
+      "title": "Why is Bitcoin\u2019s mempool so quiet while its price surges?",
+      "link": "https://cryptoslate.com/why-is-bitcoins-mempool-so-quiet-while-its-price-surges/",
+      "summary": "<p>The number of transactions waiting in Bitcoin&#8217;s mempool has been thin since mid-May, a rare event in bull markets. This prolonged quiet spell has pushed median fee rates down to 1 sat/vB or less, left many blocks underfilled, and revived long-term questions about the health of Bitcoin&#8217;s fee market. Some reports showed that the 7-day [&#8230;]</p> <p>"
     },
     {
-      "title": "Strategy\u2019s Michael Saylor calls quantum computing threats to Bitcoin a marketing myth",
-      "link": "https://cryptoslate.com/strategys-michael-saylor-calls-quantum-computing-threats-to-bitcoin-a-marketing-myth/",
-      "summary": "<p>Michael Saylor, chairman of Strategy and a long-time Bitcoin advocate, has dismissed concerns that quantum computing poses an imminent threat to the top crypto. In a recent CNBC interview, Saylor argued that the narrative is exaggerated to promote speculative quantum-resistant tokens. He noted : &#8220;It\u2019s mainly marketing from people that want to sell you the [&#8230;]</p> <p>"
+      "title": "Bitcoin spot trading hits four-year low as investors prioritize HODLing",
+      "link": "https://cryptoslate.com/insights/bitcoin-spot-trading-hits-four-year-low-as-investors-prioritize-hodling/",
+      "summary": "<p>Bitcoin spot trading on centralized exchanges has fallen to its lowest point in over four years, according to data from CryptoQuant. Crypto analyst Axel Adler Jr. noted that current spot volumes mirror levels last seen in October 2020. According to him, this shift points to a broader market trend in which Bitcoin holders are refraining [&#8230;]</p> <p>"
     },
     {
-      "title": "Crypto ETF inflows climb to $11 billion in 7 weeks with Ethereum leading amid US policy uncertainty",
-      "link": "https://cryptoslate.com/crypto-etf-inflows-climb-to-11-billion-in-7-weeks-with-ethereum-leading-amid-us-policy-uncertainty/",
-      "summary": "<p>Digital asset investment products attracted $224 million in inflows last week, extending a seven-week streak that now totals $11 billion, according to CoinShares&#8216; latest weekly report. However, James Butterfill, CoinShares&#8217; head of research, noted that the pace of inflows into these products continues to slow. Butterfill pointed to rising uncertainty over US monetary policy as [&#8230;]</p> <p>"
+      "title": "Circle\u2019s CRCL stock skyrockets 22% in pre-market trading amid fervent institutional interest",
+      "link": "https://cryptoslate.com/circles-crcl-stock-skyrockets-22-in-pre-market-trading-amid-fervent-institutional-interest/",
+      "summary": "<p>Circle&#8217;s CRCL shares are drawing strong interest following the company&#8217;s recent listing on the New York Stock Exchange. The firm, best known for issuing the USDC stablecoin, has seen its stock price rise sharply since launch. Data from Yahoo Finance shows Circle&#8217;s stock climbed nearly 22% in pre-market trading, reaching above $130 before retracing slightly [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Weekly Chart Flexes Strength\u2014Is The Moonshot Just Getting Started?",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-chart-flexes-strength/",
+      "summary": "Bitcoin is making waves once again, flashing strength on the weekly chart as it closes well above key moving averages. With momentum indicators still favoring the bulls and no signs of exhaustion in sight, the current setup hints that the rally might be far from over. Could this be the beginning of an even bigger breakout? Bitcoin Stays Elevated: Bulls Show No Signs of Fatigue In a recent update shared on X, Shaco AI highlighted Bitcoin\u2019s continued bullish momentum, pointing to strong weekly performance on the BTC/USDT chart. The analyst noted that BTC has \u201cballooned past recent expectations,\u201d closing the week at an impressive $105,700. Related Reading: Bitcoin At A Crossroads: $97,000 Cost Basis Holds Key To Next Breakout This places the asset well above its 25-week Simple Moving Average (SMA) of $95,009.55 and the 50-week SMA at $83,318.12, an encouraging technical signal that suggests Bitcoin\u2019s uptrend remains firmly intact. As Shaco AI put it, \u201cThe party isn\u2019t over yet,\u201d hinting that bullish sentiment could carry BTC even higher. Technical indicators further support this upbeat outlook. The Relative Strength Index (RSI) currently reads 63.51, indicating that buying momentum remains robust without entering overbought territory. This suggests that traders are still comfortable accumulating at current levels, and the market hasn&#8217;t yet reached a point of exhaustion. Furthermore, the Moving Average Convergence Divergence (MACD) remains firmly in positive territory at 5835.33. The MACD&#8217;s positioning reflects steady buyer interest and a favorable trend structure, both of which are crucial for sustaining an upward move. Volume Slackens While Price Nears Critical Resistance Zone The analyst went on to point out that despite the bullish setup currently seen on Bitcoin\u2019s chart, the enthusiasm might be tempered by softening trading volume. Specifically, trading volume has only reached 95,302, significantly lower than the average volume of 179,421. Related Reading: Bitcoin Price Slips Again, Triggering Fresh Fears of a Deeper Correction This discrepancy signals a noticeable dip in market participation, raising the question of whether the ongoing price rally has enough fuel to sustain its momentum in the short term. As the analyst emphasized, this drop in volume is worth watching closely since it may influence the momentum of next week\u2019s price action. Looking at the broader picture, Bitcoin is approaching a major resistance level at $111,980. This key barrier represents a potential turning point; either it gets broken and paves the way for further upside, or it holds and prompts a short-term correction. Should a pullback occur, the analyst noted that BTC appears to have a comfortable support zone at $49,000, which could act as a solid cushion. In any case, the analyst suggests keeping a close eye on how these technical levels play out, as they could dictate Bitcoin\u2019s next big move. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "XRP Price Remains Bullish Above $2, This Falling Channel Says $3.8 Is Coming",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-remains-bullish-above-2/",
@@ -100,14 +105,14 @@
       "title": "Dogecoin Is Going To $1 With The \u2018Next Impulse\u2019, Analyst Predicts",
       "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-going-to-1-next-impulse/",
       "summary": "Maelius (@MaeliusCrypto) has published a fresh weekly chart of DOGE/USDT from Binance and\u2014despite the meme-coin\u2019s recent pull-back\u2014sees the groundwork for a textbook Elliott-wave extension that could catapult prices toward the psychological $1.00 mark. Can Dogecoin Hit $1? The chart tracks every weekly candle since early-2021 and puts the current market at $0.1843 after a four-week slide from the March high near $0.26. That decline has carried price straight back into a broad green \u201cdemand\u201d band that now stretches roughly from $0.12 up to $0.17. The zone once acted as heavy overhead resistance during 2022-23; Maelius notes that, after last year\u2019s breakout, it has switched polarity and is behaving as a base of demand. Two moving averages frame the structure. The 50-week exponential average (EMA 50, blue) is curling higher and sits at about $0.205, while the 200-week EMA (red) is printed at $0.1415. Price is currently wedged between the two, a configuration that often precedes a decisive expansion in volatility. Notably, a rising red trend-line\u2014drawn beneath successive higher lows since late-2023\u2014now coincides almost exactly with the 200-week EMA, reinforcing the $0.15 area as technical support. Related Reading: Bloodbath Incoming? Dogecoin Must Hold This Level To Survive Maelius\u2019 count assigns the March 2024 spike to $0.23 as the primary wave 1, and the subsequent retreat to the October 2024 low near $0.12 as the primary wave 2. From that inflection point the analyst sees the opening stages of a third wave unfolding, but\u2014crucially\u2014he marks a smaller-degree wave 1 of that larger wave 1 peaking just above $0.48 in early December last year, followed by the present pull-back that he labels the smaller-degree wave 2. In other words, the chart shows a classic \u201c1-2, 1-2\u201d nesting: a big 1-2 at primary degree, immediately followed by a smaller 1-2 that kicks off the presumed third-of-third advance. Such a configuration is typically regarded by Elliott technicians as the most explosive setup in the entire impulse hierarchy because the next leg is the wave 3 of wave 3, a segment that can extend with the steepest slope and often delivers the bulk of a trend\u2019s price appreciation. Related Reading: Dogecoin Needs $0.40 Breakout To Salvage Bull Case, Says Analyst A dashed projection ray extrapolates that third wave to the $1.10 region, before wave 4 is pencilled in as a shallow retrace to roughly $0.65 and wave 5 completes somewhere in the $1.50\u2013$1.80 range. Maelius tempers the roadmap in his accompanying post, stating he is \u201cnot a fan of hard targets\u201d but believes \u201cthis one goes towards $1 in the next impulse.\u201d Under the price pane Maelius plots the weekly WaveTrend Oscillator (WTO). Both the fast (black) and slow (red) curves bottomed inside the highlighted oversold band in April and have since hooked sharply higher. That turn has been accompanied by a steady contraction in the crimson histogram bars; over the last two candles the histogram has in fact flipped back to light-grey on the positive side of the midline, signalling that bearish momentum is losing its grip and that a fresh bullish impulse may be brewing. DOGE is now hovering exactly at the upper rim of the demand box. A weekly close above the EMA 50 at $0.205 would signal renewed bullish dominance and open the way to $0.26\u2014the May swing high\u2014and the mid-$0.40s cluster that halted price during the December 2024 rally. Conversely, a decisive break under $0.14 would violate the two-year ascending trend-line and postpone the Elliott count. At press time, DOGE traded at $0.18. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Ignore The Trump\u2013Musk Noise: Bitcoin\u2019s Backbone Stays Solid",
-      "link": "https://www.newsbtc.com/bitcoin-news/ignore-the-trump-musk-noise-bitcoins-backbone-stays-solid/",
-      "summary": "A sudden slide in Bitcoin\u2019s dollar value rattled traders this week after US President Donald Trump and Elon Musk tangled in public comments. The drop was sharp, and it raised questions about whether BTC can keep its upward momentum. According to market data, prices dipped quickly before finding a floor, leaving some investors on edge while others looked to on-chain figures for clues. Related Reading: Elon Musk \u2018Will Do Anything\u2019 To Make XRP King, Tech Mogul Says Exchange Reserves Slip Based on reports from CryptoQuant, the amount of Bitcoin held on centralized exchanges fell from 2,435,600 BTC to 2,365,400 BTC over seven days. That\u2019s a nearly 3% decline. When coins leave exchanges it often means people want to hold them in private wallets. Fewer coins available to sell can tighten supply. In turn, that may help prices recover. Realized Cap Hits New High According to the same data, Bitcoin\u2019s Realized Capitalization recently hit $935 billion. It\u2019s the highest level on record. Realized Cap tracks the value of all coins at the price when they last moved on-chain. A rising number shows fresh capital flowing into Bitcoin. It suggests both small traders and large institutions are still betting on BTC\u2019s long-term value. Netflow Shows Accumulation Based on the flow of deposits and withdrawals, Bitcoin\u2019s netflow has been negative. That means more coins have left exchanges than have been deposited. Withdrawals beat deposits in trading volume. In simple terms, holders aren\u2019t looking to sell right now. It\u2019s a classic sign that buyers outnumber sellers\u2014at least in the on-chain arena. UTXO Bands Point To Holder Confidence CryptoQuant\u2019s UTXO Value Bands also reveal growing activity across multiple coin-age groups. UTXO stands for Unspent Transaction Outputs. It measures the age and value of coins that haven\u2019t moved. When you see more coins in older bands and steady movement in newer ones, it tells you a variety of investors\u2014from long-term holders to recent buyers\u2014are staying active. That pattern tends to shore up market support. Related Reading: Blank Pi Network Wallets Spark Outcry\u2014What\u2019s The Network Hiding? Looking Ahead Even if Bitcoin\u2019s price can swing wildly day to day, these on-chain signals hint at solid backing underneath. Less supply on exchanges, a record realized cap of $934.88 billion, ongoing negative netflow and rising UTXO activity all point toward patient investors holding their ground. Short-term dips may still occur, especially when big names trade barbs on social media. But for many in the market, the long-term story remains intact. Featured image from Unsplash, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "KULR Technology Joins Bitcoin for Corporations, Increases Holdings to 920 BTC",
+      "link": "https://bitcoinmagazine.com/news/kulr-technology-joins-bitcoin-for-corporations-increases-holdings-to-920-btc",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KULR-Technology-Joins-Bitcoin-for-Corporations-Increases-Holdings-to-920-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-technology-joins-bitcoin-for-corporations-increases-holdings-to-920-btc\" rel=\"nofollow\"> </a></p> <p>KULR Technology announced today that it has joined the Bitcoin for Corporations initiative and its recent purchase of $13 million more Bitcoin.</p> <p>"
+    },
     {
       "title": "Strategy Buys $110 Million Worth of Bitcoin",
       "link": "https://bitcoinmagazine.com/news/strategy-buys-110-million-worth-of-bitcoin",
@@ -127,14 +132,19 @@
       "title": "TakeOver Successfully Hosts Second Annual BitGala Celebrating Bitcoin in Las Vegas",
       "link": "https://bitcoinmagazine.com/press-releases/takeover-successfully-hosts-second-annual-bitgala-celebrating-bitcoin-in-las-vegas",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/TakeOver-Successfully-Hosts-Second-Annual-BitGala-Celebrating-Bitcoin-in-Las-Vegas.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/press-releases/takeover-successfully-hosts-second-annual-bitgala-celebrating-bitcoin-in-las-vegas\" rel=\"nofollow\"> </a></p> <p>LAS VEGAS, NV, May 26, 2025 &#8211; TakeOver, Magic Eden, Spark, and Stacks successfully hosted their second annual BitGala on May 26th at the Wynn in Las Vegas. The celebration brought together over 200 Bitcoin industry leaders and community members for an evening dedicated to celebrating Bitcoin. The BitGala was designed as a curated gathering [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Gemini Files Draft With The SEC For Proposed IPO",
-      "link": "https://bitcoinmagazine.com/news/gemini-files-draft-with-the-sec-for-proposed-ipo",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Gemini-Files-Draft-With-The-SEC-For-Proposed-IPO.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/gemini-files-draft-with-the-sec-for-proposed-ipo\" rel=\"nofollow\"> </a></p> <p>Gemini has confidentially filed a draft registration statement with SEC for a proposed IPO of its Class A common stock.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Avalanche Meme Coin Trenches Heat Up as AVAX Lambo Token Touches $25 Million",
+      "link": "https://decrypt.co/324194/avalanche-meme-coin-trenches",
+      "summary": "Traders have bridged to Avalanche to start trading meme coins, as SocialFi app The Arena sees activity explode."
+    },
+    {
+      "title": "Strategy Buys $110 Million in Bitcoin as BTC Holdings Near $63 Billion",
+      "link": "https://decrypt.co/324193/strategy-buys-110-million-in-bitcoin-as-btc-holdings-near-63-billion",
+      "summary": "The Tysons Corner, Virginia-based firm announced a Bitcoin purchase for the ninth week in a row."
+    },
     {
       "title": "Ethereum ETFs Have Seen 15 Straight Days of Green\u2014Here's Why",
       "link": "https://decrypt.co/324191/ethereum-etfs-15-days-green-heres-why",
@@ -149,16 +159,6 @@
       "title": "This Week in Crypto Games: Bonk 'Kill-to-Earn' Solana Launch, 'FIFA Rivals' Nears Release",
       "link": "https://decrypt.co/324169/this-week-crypto-games-bonk-solana-fifa-rivals",
       "summary": "Solana meme coin game Bonk Arena goes live, FIFA Rivals is just days away, Flappy Bird swoops back towards crypto, and more."
-    },
-    {
-      "title": "'Dogecoin Millionaire' Is Now a Pepe Millionaire\u2014And He\u2019s Stacking These Meme Coins Next",
-      "link": "https://decrypt.co/324050/dogecoin-millionaire-pepe-stacking-meme-coins-next",
-      "summary": "\"Dogecoin Millionaire\" Glauber Contessoto still hasn't sold his DOGE, but now he's amassed enough Pepe to take on another title."
-    },
-    {
-      "title": "To Reap Tokenization's Benefits, Accredited Investor Rules Should Be Revamped: Robinhood Crypto GM",
-      "link": "https://decrypt.co/324074/tokenization-benefits-accredited-investor-rules-revamped-robinhood-crypto-gm",
-      "summary": "Robinhood Crypto's Johann Kerbrat said that tokenization could eliminate \u201cmiddlemen\u201d to the advantage of startup founders."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Metaplanet\u2019s stock pumps by 26% after revealing $5.4 billion Bitcoin buying plan",
+      "link": "https://ambcrypto.com/metaplanets-stock-pumps-by-26-after-revealing-5-4-billion-bitcoin-buying-plan/",
+      "summary": "<img alt=\"Metaplanet&#039;s stock pumps by 26% after revealing $5.4 billion Bitcoin buying plan\" class=\"attachment-full size-full wp-post-image\" height=\"669\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Metaplanet.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1190\" />Metaplanet has new plans for its BTC acquisition."
+    },
+    {
       "title": "FinCEN certified AIXA Miner machine leads the green cloud mining revolution!",
       "link": "https://ambcrypto.com/fincen-certified-aixa-miner-machine-leads-the-green-cloud-mining-revolution/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"553\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-190532.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"743\" />As the cryptocurrency market continues to heat up in 2025, AIXA Miner has completely changed [&#8230;]"
@@ -208,11 +213,6 @@
       "title": "Mapping Toncoin\u2019s next move: Can bulls push TON above $3.51?",
       "link": "https://ambcrypto.com/mapping-toncoins-next-move-can-bulls-push-ton-above-3-51/",
       "summary": "<img alt=\"TON consolidates tightly: Will this triangle resolve higher?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-91-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Toncoin\u2019s consolidation narrows as bullish pressure builds, but weak fundamentals could still limit upside potential."
-    },
-    {
-      "title": "Is Bitcoin\u2019s $105K chop a strategic trap? \u2013 Here\u2019s what might be happening",
-      "link": "https://ambcrypto.com/is-bitcoins-105k-chop-a-strategic-trap-heres-what-might-be-happening/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could BTC\u2019s pause be a strategic setup, quietly ready to trap shorts and ignite a breakout?"
     }
   ]
 }
