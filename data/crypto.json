@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Surges 21.4% Over Weekend",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/09/coindesk-20-performance-update-internet-computer-icp-surges-21-4-over-weekend",
+      "summary": ""
+    },
+    {
       "title": "Coinbase Alum-Founded Turnkey Raises $30M Series B to Grow Engineering Team: Report",
       "link": "https://www.coindesk.com/business/2025/06/09/coinbase-alum-founded-turnkey-raises-30m-series-b-to-grow-engineering-team-report",
       "summary": ""
@@ -19,14 +24,24 @@
       "title": "ETH Surges as Spot ETF Inflows Hit 15-Day Streak, Traders Watch $2,540 Level",
       "link": "https://www.coindesk.com/markets/2025/06/09/eth-surges-as-spot-etf-inflows-hit-15-day-streak-traders-watch-usd2-540-level",
       "summary": ""
-    },
-    {
-      "title": "OpenLedger Commits $25M to Fund AI Blockchain Startups",
-      "link": "https://www.coindesk.com/business/2025/06/09/openledger-commits-usd25m-to-fund-ai-blockchain-startups",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "XRP price will hit $25 if ETF approved, then crash 90%, new analysis says",
+      "link": "https://cointelegraph.com/news/xrp-price-25-etf-approved-crash-90-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0ZTItMzA0NC03ZjZmLWI0NjUtZDc1YmU5M2I3ZDU3.jpg\" /></p><p>XRP traders say it has the potential to rally to $27 as ETF approval rates in 2025 increase.</p>"
+    },
+    {
+      "title": "Australia unmasks $123M crypto laundering ring behind security firm",
+      "link": "https://cointelegraph.com/news/australia-crypto-laundering-ring-security-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I0N2EtMDdhNS03M2VkLWEzNDEtZjQ1ODY3Y2I4NTJh.jpg\" /></p><p>A multi-agency investigation traced illicit funds to a suspected $123 million crypto laundering operation hiding behind a security company.</p>"
+    },
+    {
+      "title": "Strategy adds 1,045 Bitcoin for $110M in latest purchase",
+      "link": "https://cointelegraph.com/news/strategy-buys-110m-bitcoin-amid-all-time-high-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0OGEtZWMyOS03MDZiLTkyZTMtODU5YWVmMzg3ZWM1.jpg\" /></p><p>Strategy has acquired 1,045 Bitcoin for $110.2 million as part of its ongoing accumulation strategy, bringing total holdings to 582,000 BTC.</p>"
+    },
     {
       "title": "Ethereum privacy roadmap proposes EU GDPR-safe blockchain design",
       "link": "https://cointelegraph.com/news/ethereum-modular-architecture-gdpr-privacy-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "Kaia pledges won-pegged stablecoin as South Korean payment stocks rally",
       "link": "https://cointelegraph.com/news/kaia-won-pegged-stablecoin-south-korean-payment-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NmQtZDJkOC03M2Y4LWE2NTYtZjU4NzdiMjMyZjM4.jpg\" /></p><p>Kakao-backed blockchain Kaia joins South Korea\u2019s stablecoin race as the tech giant\u2019s payments app surges 30% on the stock market.</p>"
-    },
-    {
-      "title": "Kenya\u2019s crypto tax could hinder Africa\u2019s digital growth opportunity",
-      "link": "https://cointelegraph.com/news/kenya-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NjYtZDU2Zi03NGY2LWE0NzAtNzdkOTk3MjE0MmI2.jpg\" /></p><p>Kenya\u2019s proposed 1.5% crypto transaction tax could disrupt Africa\u2019s digital integration. As Kenya advances a 1.5% tax on every crypto transaction, the nation risks undermining its fintech leadership, driving startups and talent abroad.</p>"
-    },
-    {
-      "title": "Ether crypto funds see $296M inflows in best week since Trump election",
-      "link": "https://cointelegraph.com/news/ether-funds-296m-inflows-largest-week-trump-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0MGItMjY5YS03ZjI3LWFhYmQtOTA4MTFhMjZhMjMw.jpg\" /></p><p>Ether investment products saw $296 million in inflows last week despite a market slowdown, as investors await clarity from the US Fed\u2019s June rate decision.</p>"
-    },
-    {
-      "title": "Bitcoin price will see \u2018short-term correction\u2019 before $140K: Analysts",
-      "link": "https://cointelegraph.com/news/bitcoin-price-will-see-short-term-correction-before-140k-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjFiMGMtZGRjYi03NTlkLTg0MmItZDkyYzZlYzUzYmUw.jpg\" /></p><p>Bitcoin analysts say BTC price could drop in the short term before initiating a rally to all-time highs above $140,000.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Newly introduced GOP Bill seeks to write Trump\u2019s strategic Bitcoin reserve into law",
+      "link": "https://cryptoslate.com/newly-introduced-gop-bill-seeks-to-write-trumps-strategic-bitcoin-reserve-into-law/",
+      "summary": "<p>A new House bill introduced Friday would lock in President Trump\u2019s unprecedented executive order establishing a Strategic Bitcoin Reserve, signaling the GOP\u2019s deepening embrace of digital assets as fiscal and geopolitical leverage tools. The bill, H.R. 3798, sponsored by Rep. Tim Burchett (R-TN), aims to codify Executive Order 14233, signed by Trump. The order halted [&#8230;]</p> <p>"
+    },
     {
       "title": "Strategy\u2019s Michael Saylor calls quantum computing threats to Bitcoin a marketing myth",
       "link": "https://cryptoslate.com/strategys-michael-saylor-calls-quantum-computing-threats-to-bitcoin-a-marketing-myth/",
@@ -73,14 +78,19 @@
       "title": "Blockchain Group stock up 1,400% in 6 months, bets \u20ac342M on European Bitcoin treasury",
       "link": "https://cryptoslate.com/blockchain-group-stock-up-1400-in-6-months-now-bets-e342m-on-its-european-bitcoin-treasury/",
       "summary": "<p>The Blockchain Group (ALTBG) has inked a headline-grabbing deal with French asset manager TOBAM to raise up to \u20ac300 million (\u2248 $342M) in an &#8220;ATM-style&#8221; equity program aimed squarely at bolstering its Bitcoin reserves. The announcement, paired with a 624 BTC buy last week, marks Europe\u2019s largest single corporate initiative to convert equity into Bitcoin [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Millions in short positions now cluster above $106k after leverage flush",
-      "link": "https://cryptoslate.com/insights/millions-in-short-positions-now-cluster-above-106k-after-leverage-flush/",
-      "summary": "<p>Bitcoin futures have returned to parity with spot prices following a steep 5% drawdown earlier this week that liquidated more than $4 million in leveraged long positions. Price action on Binance\u2019s BTC-USDT perpetual contract shows a reversal from a June 5 low of $100,700 to $105,499, nearing the prior high of $106,775 reached on June [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "XRP Price Remains Bullish Above $2, This Falling Channel Says $3.8 Is Coming",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-remains-bullish-above-2/",
+      "summary": "The XRP price is holding strongly above $2, maintaining its momentum as technical indicators show signs of a bullish trend. Notably, a distinct Falling Channel on the XRP price chart suggests that a breakout could be brewing, with a potential rally toward $3.8 in sight. XRP Price Holds Steady As Bulls Target $3.8 A technical analysis by Rose Premium Signals reveals that XRP is currently flashing strong bullish signals following a breakout from a long-term Falling Channel. Earlier in January, XRP broke past $3 but experienced a strong correction that has kept its price down ever since. Despite the ongoing downtrend, XRP has been firmly holding above the $2 threshold as it prepares for new all-time highs. Related Reading: What Happens To The XRP Price If The 2017 Fractal Plays Out Again? Previously, XRP traded within a descending range for several months, forming lower highs and lower lows. However, recent price action has seemingly invalidated this downtrend structure with a decisive breakout above the upper boundary of the Falling Channel, indicating a potential trend reversal and the beginning of a bullish continuation. The chart shared by Rose Premium Signals on X (formerly Twitter) shows that after the breakout, XRP has been consolidating above the former resistance-turned-support zone, around the $2 level. The analyst confidently states that XRP\u2019s outlook remains inherently bullish despite past downtrends, suggesting that the recent consolidation pattern indicates that bulls are still in control. Notably, the breakout above the Falling Channel is significant, as it typically implies a strong upside move, especially on higher time frames. Projected price targets based on technical formation are positioned at $2.9520, $3.3967, and $3.8767. Interestingly, the highest projected target exceeds XRP\u2019s all-time high of $3.84 and reflects a 73.54% increase from current price levels. It\u2019s important to note that these bullish targets forecasted by Rose Premium Signals align with historical resistance zones and measured moves from the Falling Channel breakout. If momentum sustains and market conditions remain favorable, XRP could rally toward these targets over the coming weeks, potentially offering significant upside for long-term holders and traders. Analyst Says Buy The Dip, With Ideal Entry At $1.85 While forecasting several optimistic targets for XRP, Rose Premium Signals emphasized a strategy of buying the altcoin during dips. This method aims to capitalize on low price points to maximize potential gains as XRP rebounds. Related Reading: Wave Count Analysis Reveals The XRP Price Trigger Point For Take-Off The analyst\u2018s chart highlights the $1.85 support level with a clear \u201cBuy Here\u201d label, suggesting that this level is considered an ideal entry point should the price revisit it. Currently, XRP is trading at $2.23, meaning a drop to $1.85 would represent a 17.04% decrease. According to the analysis, this support level also marks the base of the recent Falling Channel breakout, providing a favorable risk-reward setup for those looking to enter or expand their positions. Featured image from iStock, chart from Tradingview.com"
+    },
+    {
+      "title": "Don\u2019t Risk Frozen Funds: Coinbase Has a Major Issue, So Choose Non-Custodial Best Wallet Instead",
+      "link": "https://www.newsbtc.com/news/coinbase-account-freezing-issue-best-wallet-alternative/",
+      "summary": "Coinbase CEO Brian Armstrong has acknowledged that the unexpected freezing of user accounts has been a major issue for the cryptocurrency exchange. In a recent announcement on X, Armstrong stated that the company has successfully reduced these unnecessary account restrictions by 82% and is committed to further improvements. The progress comes after significant investment in upgrading the platform\u2019s machine learning models and infrastructure, according to Dor Levi, a product team member at Coinbase. The enhancements have improved the precision of the Coinbase security systems, leading to fewer legitimate accounts being mistakenly flagged and frozen. Despite these advancements, Armstrong and Levi confirmed that Coinbase will continue to comply with court orders and legal sanctions requiring account restrictions. The Custodial Dilemma: When Your Crypto Isn\u2019t Yours Despite the platform\u2019s efforts, the announcement has been met with continued frustration from many customers. Some users on social media reported being unable to access funds for months, and in some cases, over two years, leading many to abandon the platform. Compounding the issue are complaints made on X about the difficulty of reaching a human customer service representative to resolve matters. The situation is a stark reminder of the inherent risks associated with custodial wallets, where a third party, like Coinbase, holds the user\u2019s private keys and thus has ultimate control over their funds. Given these challenges, the principle of \u2018not your keys, not your crypto\u2019 has never been more relevant. The only way to guarantee immunity from third-party freezes, breaches, or restrictions is by using a non-custodial wallet like Best Wallet, where you retain complete control of your private keys and digital assets. Best Wallet: Security You Control, Freedom You Deserve If you\u2019re looking to escape these custodial risks, Best Wallet offers a powerful solution built on the principle of true ownership. As a leading non-custodial wallet, it ensures your private keys are stored directly on your device, not a central server. This eliminates the risk of a third party freezing your account, as users have experienced with Coinbase. Beyond its security, Best Wallet is a feature-rich powerhouse. You can seamlessly manage a diverse portfolio with its multi-chain support and display your prized digital collectibles in the integrated NFT gallery. Forget complex exchanges; the built-in swap feature allows you to trade assets instantly and securely right within the wallet. With Best Wallet, you are your own bank, empowered with true financial sovereignty and the cutting-edge tools to navigate the world of digital assets. It\u2019s more than just security; it\u2019s the freedom to manage, trade, and display your entire portfolio on your terms. Best Wallet Token ($BEST): Rewarding Your Financial Freedom At the heart of this user-centric ecosystem is the Best Wallet Token ($BEST), a key that unlocks the ecosystem\u2019s full potential. $BEST is more than just a digital asset; it\u2019s a utility token designed to reward its holders. By owning $BEST, you unlock instant access to premium features and valuable financial benefits within the Best Wallet ecosystem. Enjoy significantly reduced fees on in-app swaps and transactions, maximizing the value of every trade. $BEST is also your ticket to higher yields, granting you access to boosted staking rewards on various assets. One of the most appealing benefits of holding $BEST is its early access to the best new crypto presale tokens from up-and-coming projects, allowing you to invest before they hit the market. Beyond personal gain, holding $BEST gives you a voice. It grants you governance rights, allowing you to vote on key proposals and help shape the future development of the Best Wallet platform. $BEST is available in presale for $0.025155, but we predict it could reach $0.035215 by the end of 2025, an impressive 39.99% gain if you invest now. $BEST isn\u2019t just an asset; it\u2019s your all-access pass to a more powerful, rewarding, and community-driven crypto experience. Ready to join? Our step-by-step guide on how to buy Best Wallet Token will walk you through the process. As non-custodial wallets like Best Wallet and its native token $BEST could unlock many impressive features and overcome issues that custodial wallets face, you must remember to research before making any investments."
+    },
     {
       "title": "TrueNorth Pioneers AI Investing in Angel Round: Snorter Token Trading Bot to Explode?",
       "link": "https://www.newsbtc.com/news/truenorth-pioneers-ai-investing-angel-round-snorter-token-trading-bot-explode/",
@@ -95,19 +105,14 @@
       "title": "Ignore The Trump\u2013Musk Noise: Bitcoin\u2019s Backbone Stays Solid",
       "link": "https://www.newsbtc.com/bitcoin-news/ignore-the-trump-musk-noise-bitcoins-backbone-stays-solid/",
       "summary": "A sudden slide in Bitcoin\u2019s dollar value rattled traders this week after US President Donald Trump and Elon Musk tangled in public comments. The drop was sharp, and it raised questions about whether BTC can keep its upward momentum. According to market data, prices dipped quickly before finding a floor, leaving some investors on edge while others looked to on-chain figures for clues. Related Reading: Elon Musk \u2018Will Do Anything\u2019 To Make XRP King, Tech Mogul Says Exchange Reserves Slip Based on reports from CryptoQuant, the amount of Bitcoin held on centralized exchanges fell from 2,435,600 BTC to 2,365,400 BTC over seven days. That\u2019s a nearly 3% decline. When coins leave exchanges it often means people want to hold them in private wallets. Fewer coins available to sell can tighten supply. In turn, that may help prices recover. Realized Cap Hits New High According to the same data, Bitcoin\u2019s Realized Capitalization recently hit $935 billion. It\u2019s the highest level on record. Realized Cap tracks the value of all coins at the price when they last moved on-chain. A rising number shows fresh capital flowing into Bitcoin. It suggests both small traders and large institutions are still betting on BTC\u2019s long-term value. Netflow Shows Accumulation Based on the flow of deposits and withdrawals, Bitcoin\u2019s netflow has been negative. That means more coins have left exchanges than have been deposited. Withdrawals beat deposits in trading volume. In simple terms, holders aren\u2019t looking to sell right now. It\u2019s a classic sign that buyers outnumber sellers\u2014at least in the on-chain arena. UTXO Bands Point To Holder Confidence CryptoQuant\u2019s UTXO Value Bands also reveal growing activity across multiple coin-age groups. UTXO stands for Unspent Transaction Outputs. It measures the age and value of coins that haven\u2019t moved. When you see more coins in older bands and steady movement in newer ones, it tells you a variety of investors\u2014from long-term holders to recent buyers\u2014are staying active. That pattern tends to shore up market support. Related Reading: Blank Pi Network Wallets Spark Outcry\u2014What\u2019s The Network Hiding? Looking Ahead Even if Bitcoin\u2019s price can swing wildly day to day, these on-chain signals hint at solid backing underneath. Less supply on exchanges, a record realized cap of $934.88 billion, ongoing negative netflow and rising UTXO activity all point toward patient investors holding their ground. Short-term dips may still occur, especially when big names trade barbs on social media. But for many in the market, the long-term story remains intact. Featured image from Unsplash, chart from TradingView"
-    },
-    {
-      "title": "XRP Bull Trap Incoming? Analyst Sees $2.40 Fakeout Before Painful Crash",
-      "link": "https://www.newsbtc.com/xrp-news/xrp-bull-trap-analyst-2-40-fakeout-before-crash/",
-      "summary": "Pseudonymous analyst CryptoInsightUK has warned that the next major move for XRP could be a trap. In a video published on June 8, the analyst outlined a scenario where XRP surges toward $2.30\u2013$2.40 in the short term\u2014only to reverse violently into a sharp liquidity flush before any sustainable breakout occurs. XRP Bull Trap Looming? \u201cI think XRP goes to sub-$2.0. I really do,\u201d he said, adding: \u201cIt could come and sweep the highs here\u2026 could come up to like what, $2.30, and then push us down. That would be more pain for everyone, \u2018cause everyone\u2019s going to think we\u2019re going to the upside.\u201d The setup he describes is based on market structure and liquidity dynamics, particularly the buildup of resting orders beneath XRP\u2019s current range. \u201cThis here is a concern, a real concern for me,\u201d he said, referring to the growing pool of liquidity below current prices. According to his internal models, such liquidity zones are statistically touched \u201c80% of the time.\u201d Related Reading: XRP Must Crash First\u2014Then Comes The $10 Rally, Says Analyst \u201cSomeone\u2019s trying to trick someone here,\u201d he warned. \u201cI\u2019m cautious.\u201d Despite his near-total XRP allocation\u2014he states he&#8217;s \u201c95%+, probably more like 98%\u201d positioned in XRP\u2014CryptoInsightUK emphasized that he\u2019s not rooting for a correction. \u201cI don\u2019t want it to come down,\u201d he said. \u201cI\u2019m just showing you what I see.\u201d The analyst proposed multiple structural paths: one in which XRP immediately breaks out, and another where it briefly rallies to sweep local highs before flushing downward to form a bullish divergence. \u201cWe\u2019re in a range right now,\u201d he said. \u201cDo we come up, sweep the highs, then take the lows and go?\u201d He elaborated on the bullish divergence pattern he is watching, where price forms a lower low while the RSI (Relative Strength Index) prints a higher low\u2014a setup he uses to identify bottoming structures. \u201cThat\u2019s what I would like to see,\u201d he explained. Broader Macro Conditions Still Supportive Despite the bearish tactical setup, the video struck an upbeat macro tone. Will cited four near-term catalysts: the Genius Act on stablecoin oversight, the imminent filing deadline in the SEC\u2019s remedies phase against Ripple, the July decision window for a spot-XRP ETF proposal, and a renewed expectation of accommodative fiscal policy sparked by last week\u2019s televised Trump-Musk dialogue. \u201cWhat this really tells us is there\u2019s going to be money printing,\u201d he argued. \u201cAssets all over are going to explode to the upside and, for the other specific reasons, XRP probably does even better.\u201d Turning to Bitcoin, the analyst observed an ongoing decline in trading volume, suggesting indecision or exhaustion. \u201cThere\u2019s been no volume. There\u2019s been nothing,\u201d he said of recent BTC price action. Related Reading: XRP Wave Structure Predicts Wild Fluctuations On Its Way To $4 ATH He highlighted a CME futures gap around $92,000\u2013$93,000 and added that fixed range volume analysis points to a possible pullback zone at $96,000\u2013$97,000. \u201cIt\u2019s probably coming imminently, maybe this week,\u201d he said of a potential correction, projecting a scenario where BTC dips into this range before resuming its upward trajectory. \u201cDoes this mean we squeeze to the upside or come down and take this low and put in that bullish divergence structure?\u201d he asked, noting a similar divergence setup at $75,000 earlier this year. XRP Spot Activity Raises Red Flags In the final hour before the video, XRP had \u201csqueezed up with some volume,\u201d but the analyst urged caution. While open interest had risen sharply, funding remained green\u2014suggesting net long positioning\u2014and aggregate premium had turned red. \u201cThis indicates to me that even though there are still some shorts coming in, more longs than shorts have entered,\u201d he said. He warned that this imbalance could cause a sharp move lower if the market fails to hold current levels. \u201cIf we do now come down and lose this low, expect a more aggressive, faster move to the downside,\u201d he said, pointing to the risk of liquidating leveraged positions. XRP\u2019s relative performance against ETH and BTC also came under review. While it had begun testing resistance zones, neither the XRP/ETH nor the XRP/BTC charts had decisively broken out. \u201cWe could still be in this range chopping about,\u201d he cautioned. \u201cCould lose strength until we start to see some confirmations to the upside.\u201d At press time, XRP traded at $2.23. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Price Risks Crash To $31,000 Amid 5-Wave Impulse Completion",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-risks-crash-31000/",
-      "summary": "Over the last few weeks, the Bitcoin price has been on an upward trajectory, propelled forward mainly by institutional adoption and buying. This has seen the Bitcoin price rally to new all-time highs at $111,900, and has remained above $100,000 despite a turn in market sentiment toward the negative. However, this support has not bolstered confidence, with one analyst predicting that the leading cryptocurrency has seen the end of this bull cycle. Bitcoin Price Completes Elliot Wave Theory The Elliot Wave Theory is a chart pattern that has been widely used as Bitcoin has become more mainstream in an effort to predict where the price may be headed next. The theory consists of five full waves, at the end of which lies a bearish trend for the digital asset. So far, the Bitcoin price has been moving through different waves according to different analysts. But Sniper Academy on the TradingView platform has revealed that the five waves have been completed. Related Reading: Ethereum Head &#38; Shoulders Pattern Breakdown: Can Bulls Reclaim Control? Using the 1-month Bitcoin price chart, the crypto analyst shows that there have been five different waves completed. The latest all-time high peak above $111,900 is shown to have been the fifth and final wave, suggesting that this bullish impulse is complete. Given that the Bitcoin price has now completed this theory, the crypto analyst explains that this means that the cryptocurrency has now hit the upper boundary of a long-term ascending channel. Simply put, this is very bearish for the digital asset as this means an end to its upward trajectory. Right now, the analyst showed that the Bitcoin price is already forming divergence after the completion of the fifth wave. This has triggered a weakness in the momentum and has come as a result of resistance forming between $76,000 and $111,000. This trend shows that a potential double top has been created, and that means that there is nowhere for the Bitcoin price to go now but down. BTC Price Targets $31,000 Bottom Given the fact that the crypto analyst believes that the Elliot Wave Theory has played out and the five waves have been completed, the next expectation is a sharp drop in the Bitcoin price. The first move is expected toward $66,000, which would be an almost 50% decline in price from here. Related Reading: Dogecoin\u2019s Growth Pattern Hints At Massive June\u2013July Rally After 5-Month Pullback However, this is not the worst of it, as the crypto analyst sees the cryptocurrency still breaking down to $53,000. Then, if this level does fail to hold, then a fall all the way down to as low as $31,000, serving as the bottom of the channel. This also coincides with the 0.618 Fibonacci retracement. Once the Bitcoin price is back at $31,000, the crypto analyst believes that accumulation would begin at this key zone. This will then serve as the important level that will drive the start of the next major bull cycle. Featured image from Dall.E, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Strategy Buys $110 Million Worth of Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/strategy-buys-110-million-worth-of-bitcoin",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/02/Michael-Saylor-Signals-Strategys-Next-Bitcoin-Buy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/strategy-buys-110-million-worth-of-bitcoin\" rel=\"nofollow\"> </a></p> <p> </p> <p>"
+    },
     {
       "title": "The Blockchain Group Accelerates Bitcoin Treasury Strategy with \u20ac300M Raise",
       "link": "https://bitcoinmagazine.com/news/the-blockchain-group-accelerates-bitcoin-treasury-strategy-with-e300m-raise",
@@ -127,11 +132,6 @@
       "title": "Gemini Files Draft With The SEC For Proposed IPO",
       "link": "https://bitcoinmagazine.com/news/gemini-files-draft-with-the-sec-for-proposed-ipo",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Gemini-Files-Draft-With-The-SEC-For-Proposed-IPO.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/gemini-files-draft-with-the-sec-for-proposed-ipo\" rel=\"nofollow\"> </a></p> <p>Gemini has confidentially filed a draft registration statement with SEC for a proposed IPO of its Class A common stock.</p> <p>"
-    },
-    {
-      "title": "\u2018MicroStrategy of Asia\u2019 Metaplanet Aims To Acquire Over 210,000 BTC By the End of 2027",
-      "link": "https://bitcoinmagazine.com/news/microstrategy-of-asia-metaplanet-aims-to-acquire-over-210000-btc-by-the-end-of-2027",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/\u2018MicroStrategy-of-Asia-Metaplanet-Aims-To-Acquire-Over-210000-BTC-By-the-End-of-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/microstrategy-of-asia-metaplanet-aims-to-acquire-over-210000-btc-by-the-end-of-2027\" rel=\"nofollow\"> </a></p> <p>Metaplanet Inc. plans to acquire over 210,000 BTC by the end of 2027, which is equivalent to 1% of Bitcoin\u2019s total supply.</p> <p>"
     }
   ],
   "Decrypt": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Tether to open-source Bitcoin Mining Operating System to empower small, mid-sized miners, says Paolo Ardoino",
+      "link": "https://cryptobriefing.com/tether-bitcoin-mining-open-source/",
+      "summary": "<p>Tether's open-source MOS could democratize Bitcoin mining, enhancing decentralization and security while enabling smaller players to compete.</p> <p>"
+    },
+    {
       "title": "Bitcoin rises as key US-China trade talks commence in London",
       "link": "https://cryptobriefing.com/bitcoin-market-reaction-us-china-trade/",
       "summary": "<p>Bitcoin's rebound highlights its sensitivity to geopolitical events, underscoring its potential as a barometer for global economic tensions.</p> <p>"
@@ -181,14 +186,19 @@
       "title": "Best way of staking USDT in 2025: Loopring AI-powered staking platform",
       "link": "https://cryptobriefing.com/ai-powered-staking-usdt-loopring/",
       "summary": "<p>Loopring's AI-powered staking platform offers up to 20% daily on USDT, leveraging AI &#38; Ethereum Layer 2 for optimal returns.</p> <p>"
-    },
-    {
-      "title": "Elon Musk\u2019s X names Polymarket as official prediction market partner",
-      "link": "https://cryptobriefing.com/elon-musks-prediction-markets/",
-      "summary": "<p>This partnership could enhance the accuracy of public sentiment analysis, potentially influencing decision-making in politics and finance.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Top 6 Play-to-Earn NFT games to try in June 2025!",
+      "link": "https://ambcrypto.com/top-6-play-to-earn-nft-games-to-try-in-june-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/deng-xiang-uYyPRFmy87k-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />NFTs, or Non-fungible tokens, are digital identifiers or cryptographic tokens that cannot be copied. They [&#8230;]"
+    },
+    {
+      "title": "Mapping Toncoin\u2019s next move: Can bulls push TON above $3.51?",
+      "link": "https://ambcrypto.com/mapping-toncoins-next-move-can-bulls-push-ton-above-3-51/",
+      "summary": "<img alt=\"TON consolidates tightly: Will this triangle resolve higher?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-91-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Toncoin\u2019s consolidation narrows as bullish pressure builds, but weak fundamentals could still limit upside potential."
+    },
     {
       "title": "Is Bitcoin\u2019s $105K chop a strategic trap? \u2013 Here\u2019s what might be happening",
       "link": "https://ambcrypto.com/is-bitcoins-105k-chop-a-strategic-trap-heres-what-might-be-happening/",
@@ -203,16 +213,6 @@
       "title": "PEPE whale dumps $11.65M \u2013 Traders, is this a warning sign for\u2026",
       "link": "https://ambcrypto.com/pepe-whale-dumps-11-65m-traders-is-this-a-warning-sign-for/",
       "summary": "<img alt=\"PEPE whale exits with $11.65M deposit: Is it bracing for more pain?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-09T112614.488-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PEPE faces sell pressure as whale moves, leverage data, and key levels converge."
-    },
-    {
-      "title": "Bitcoin: June could make or break BTC \u2013 It all hinges on THIS\u2026",
-      "link": "https://ambcrypto.com/bitcoin-june-could-make-or-break-btc-it-all-hinges-on-this/",
-      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-3-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BTC faces LTH selling, but historical June trends suggest a possible recovery ahead."
-    },
-    {
-      "title": "Cardano joins Nasdaq Crypto Index \u2013 A major milestone for Wall Street exposure?",
-      "link": "https://ambcrypto.com/cardano-joins-nasdaq-crypto-index-a-major-milestone-for-wall-street-exposure/",
-      "summary": "<img alt=\"Cardano joins Nasdaq Crypto Index - A major milestone for Wall Street exposure?\" class=\"attachment-full size-full wp-post-image\" height=\"637\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Cardanos-Nasdaq-Index-Inclusion.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1132\" />What does Nasdaq\u2019s expanded crypto index mean for Cardano\u2019s Wall Street future?"
     }
   ]
 }
