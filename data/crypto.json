@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Active memecoin ETFs have a \u2018good chance\u2019 next year: Analyst",
+      "link": "https://cointelegraph.com/news/active-memecoin-etf-good-chance-next-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGJmNDAtNDg5Ny03OTAzLWI2ZWQtY2M4MDk5NmJjMWE0.jpg\" /></p><p>The current memecoin market capitalization is over $60 billion, more than Tron and Cardano combined.</p>"
+    },
+    {
+      "title": "Bitcoin quantum threat is a ploy by \u2018yo-yo token\u2019 sellers: Saylor",
+      "link": "https://cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg\" /></p><p>Strategy\u2019s Michael Saylor says even if a legitimate quantum computing threat emerged from a tech giant, it won't be released.</p>"
+    },
+    {
       "title": "AI models still far from AGI-level reasoning: Apple researchers",
       "link": "https://cointelegraph.com/news/artificial-general-intelligence-long-way-off-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUyODgtZTZlOS03YjYzLWEwYTAtN2U0YWI5NGVhYTQ0.jpg\" /></p><p>Current \u201cthinking\u201d AI models still can\u2019t reason to a level that would be expected from humanlike artificial general intelligence, the researchers found.</p>"
@@ -41,16 +51,6 @@
       "title": "Sui DEX restarts, plots open-source move after massive exploit",
       "link": "https://cointelegraph.com/news/sui-dex-restarts-plots-open-source-move-after-massive-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFiYTktZDJhMC03YzkwLWE3Y2UtMjUxYWJiYjhlZWM4.jpg\" /></p><p>Affected Cetus liquidity pools were replenished using a combination of recovered funds, cash reserves, and a $30 million USDC loan.</p>"
-    },
-    {
-      "title": "Coinbase says it\u2019s tackling frozen accounts in \u2018major issue\u2019",
-      "link": "https://cointelegraph.com/news/coinbase-cuts-unnecessary-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhiOTUtNjViMy03ZTdiLWE5YjItZGI4NWZiOTE5M2Vk.jpg\" /></p><p>Improvements in Coinbase's machine learning models and infrastructure helped to cut the number of unnecessary account restrictions.</p>"
-    },
-    {
-      "title": "10 signs an airdrop is a scam \u2014 and how to stay safe",
-      "link": "https://cointelegraph.com/news/fake-airdrops-and-how-to-avoid-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBjYmQtMzExYS03M2IzLWFlNDMtMjc0YzZmYTJlMTkw.jpg\" /></p><p>Fake airdrops are designed to drain users\u2019 funds from their wallets. You need to be well-versed in airdrop scams to protect your crypto wallet.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "BNB: Is $680 target far-fetched? \u2013 Here\u2019s what traders are saying",
+      "link": "https://ambcrypto.com/bnb-is-680-target-far-fetched-heres-what-traders-think/",
+      "summary": "<img alt=\"BNB\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-08T122200.027-2-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BNB sentiment turns bullish as inflows rise and shorts cluster between $623 and $639."
+    },
+    {
       "title": "TRON: Who\u2019s fueling TRX\u2019s breakout? It\u2019s not whales, here\u2019s the answer!",
       "link": "https://ambcrypto.com/tron-whos-fueling-trxs-breakout-its-not-whales-heres-the-answer/",
       "summary": "<img alt=\"TRON: Who\u2019s fueling TRX\u2019s breakout? It&#039;s not whales, here\u2019s the answer!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/22F7AC77-0C64-42B5-BD78-32839ED88A28.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />TRX rallies as user activity surges, but DeFi trading signals mixed sentiment in the market."
@@ -208,11 +213,6 @@
       "title": "Is Bitcoin primed to leap? \u2013 THESE signs point to a macro bottom at\u2026",
       "link": "https://ambcrypto.com/is-bitcoin-primed-to-leap-these-signs-point-to-a-macro-bottom-at/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could the recent dip be the springboard that sets Bitcoin up to leap higher?"
-    },
-    {
-      "title": "Shiba Inu\u2019s deflation drive stalls \u2013 But before you buy the dip, look out for\u2026",
-      "link": "https://ambcrypto.com/shiba-inus-deflation-drive-fizzles-before-you-buy-the-dip-look-out-for/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-08T112850.821-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s deflationary activity and growing user engagement hint at a potential trend reversal brewing."
     }
   ]
 }
