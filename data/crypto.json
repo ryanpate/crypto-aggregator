@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Plasma\u2019s XPL Token Sale Attracts $500M as Investors Chase Stablecoin Plays",
+      "link": "https://www.coindesk.com/markets/2025/06/09/plasmas-xpl-token-sale-attracts-500m-as-investors-chase-stablecoin-plays",
+      "summary": ""
+    },
+    {
+      "title": "Paraguay President's X Account Hacked, Shares Bitcoin Scam",
+      "link": "https://www.coindesk.com/policy/2025/06/09/paraguay-presidents-x-account-hacked-shares-bitcoin-scam",
+      "summary": ""
+    },
+    {
+      "title": "Red-Hot Circle Already Has Two ETFs Devoted to It in the Works",
+      "link": "https://www.coindesk.com/markets/2025/06/09/bitwise-proshares-file-for-etfs-tracking-soaring-circle-shares",
+      "summary": ""
+    },
+    {
       "title": "BNB Price Climbs in Strong Rebound as Trump-Musk Spat Uncertainty Fades",
       "link": "https://www.coindesk.com/markets/2025/06/09/bnb-price-climbs-in-strong-rebound-as-trump-musk-spat-uncertainty-fades",
       "summary": ""
@@ -9,24 +24,19 @@
       "title": "Chainlink's LINK Stages V-Shape Recovery After 14% Plunge",
       "link": "https://www.coindesk.com/markets/2025/06/09/chainlinks-link-stages-v-shape-recovery-after-14-plunge",
       "summary": ""
-    },
-    {
-      "title": "UK Appoints First Crypto Specialist for Insolvencies",
-      "link": "https://www.coindesk.com/policy/2025/06/09/uk-appoints-first-crypto-specialist-for-insolvencies",
-      "summary": ""
-    },
-    {
-      "title": "AVAX Forms Critical Short-Term Support at $20.25 Level",
-      "link": "https://www.coindesk.com/markets/2025/06/09/avax-forms-critical-short-term-support-at-2025-level",
-      "summary": ""
-    },
-    {
-      "title": "KULR Plans to Raise Up to $300M to Fuel Bitcoin Purchases",
-      "link": "https://www.coindesk.com/markets/2025/06/09/kulr-plans-to-raise-up-to-300m-to-fuel-bitcoin-purchases",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Price predictions 6/9: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
+      "link": "https://cointelegraph.com/news/price-predictions-6-9-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU1YTctMjg2NC03NmY3LTk2NTctZmYxNDYyYWVkNDAz.jpg\" /></p><p>Bitcoin price pushed through a critical overhead resistance level, possibly opening the door to new all-time highs.</p>"
+    },
+    {
+      "title": "Nasdaq-listed fintech Netcapital acquires crypto native protocol Mixie",
+      "link": "https://cointelegraph.com/news/netcapital-acquires-mixie-web3-gaming-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IxNTktYWEyZS03Y2Q5LWI1MWEtNWRhNTQ5NDJhYzkz.jpg\" /></p><p>Shares of NCPL surged more than 16% on the news of the Mixie acquisition and are up 48% year-to-date.</p>"
+    },
     {
       "title": "Bitcoin price rebounds to $108K as millionaire whale goes 20x long on BTC",
       "link": "https://cointelegraph.com/news/bitcoin-price-108k-whale-goes-long-20x-long-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Tether plans to open-source Bitcoin mining OS; CEO says &#039;no need&#039; for 3rd party vendors",
       "link": "https://cointelegraph.com/news/tether-bitcoin-mining-software-open-source?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU1M2ItNmI2ZC03NjVjLTg5ZTQtYTYzYTFjNTdjOTRm.jpg\" /></p><p>The USDt issuer plans to launch its open-source project by the fourth quarter of 2025, according to CEO Paolo Ardoino.</p>"
-    },
-    {
-      "title": "Hodling in 2025: The most widely used Bitcoin strategy, explained",
-      "link": "https://cointelegraph.com/explained/hodling-in-2025-the-most-widely-used-bitcoin-strategy-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYTgzOGEyNTU0NTY4ZmVmZDI1YTYwMmFlNzcyN2UyMS5qcGc=.jpg\" /></p><p>Despite market volatility and evolving investment tools, hodling remains the go-to strategy for Bitcoin believers in 2025.</p>"
-    },
-    {
-      "title": "Trump Wallet scandal: Is Magic Eden really involved or just dragged in?",
-      "link": "https://cointelegraph.com/explained/trump-wallet-scandal-is-magic-eden-really-involved-or-just-dragged-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mNWMxZDcyYjE0MDhmZjFiNjZmODRhMTRjMzUxMTE1NS5qcGc=.jpg\" /></p><p> Magic Eden publicly promoted the Trump Wallet, but conflicting claims and legal fallout raise questions about how clearly the partnership was understood. </p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Tether to democratize Bitcoin mining with open-source software debut",
+      "link": "https://cryptoslate.com/tether-to-democratize-bitcoin-mining-with-open-source-software-debut/",
+      "summary": "<p>Tether is building a gateway for new players to enter Bitcoin mining by releasing its Bitcoin Mining OS (MOS) as open-source software by the end of 2025, according to CEO Paolo Ardoino. In a June 9 post on X, Ardoino explained that the move will lower barriers for small and independent miners. Tether expects to [&#8230;]</p> <p>"
+    },
     {
       "title": "Strategy buys another 1,045 Bitcoin to push its stash to nearly 3% of supply",
       "link": "https://cryptoslate.com/insights/strategy-buys-another-1045-bitcoin-to-push-its-stash-to-nearly-3-of-supply/",
@@ -73,14 +78,14 @@
       "title": "Why is Bitcoin\u2019s mempool so quiet while its price surges?",
       "link": "https://cryptoslate.com/why-is-bitcoins-mempool-so-quiet-while-its-price-surges/",
       "summary": "<p>The number of transactions waiting in Bitcoin&#8217;s mempool has been thin since mid-May, a rare event in bull markets. This prolonged quiet spell has pushed median fee rates down to 1 sat/vB or less, left many blocks underfilled, and revived long-term questions about the health of Bitcoin&#8217;s fee market. Some reports showed that the 7-day [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin spot trading hits four-year low as investors prioritize HODLing",
-      "link": "https://cryptoslate.com/insights/bitcoin-spot-trading-hits-four-year-low-as-investors-prioritize-hodling/",
-      "summary": "<p>Bitcoin spot trading on centralized exchanges has fallen to its lowest point in over four years, according to data from CryptoQuant. Crypto analyst Axel Adler Jr. noted that current spot volumes mirror levels last seen in October 2020. According to him, this shift points to a broader market trend in which Bitcoin holders are refraining [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-ath-in-major-metric/",
+      "summary": "Ethereum is back in sharp focus across the crypto market following a recent rally to $2,800 that has added fresh layers of bullish momentum to its long-term narrative. At the time of writing, Ethereum is trying to register a footing above $2,500, but this subdued price action masks what an analyst is calling one of the most critical technical and on-chain moments in Ethereum\u2019s recent history. Ethereum Weekly Engagement Hits Record High According to Crypto Patel, a crypto analyst on the social media platform X, Ethereum&#8217;s weekly engagement has reached an all-time high, surpassing all previous peaks seen since 2022. The accompanying chart below shows a steep rise in the number of unique addresses interacting with Ethereum\u2019s ecosystem. Related Reading: Is Ethereum Back In Business? Morningstar Candlestick Pattern Tells A Story According to the most recent data, the number of weekly active addresses stands at 17.4 million, representing an increase of almost 17% in just seven days. Notably, May 2025 saw the most significant growth in engagement, with each of the past three weeks witnessing at least 15 million active addresses. Meanwhile, the Layer 2 multiplier, which reflects adoption across Ethereum\u2019s scaling solutions, has climbed to 7.55x, marking an 18.63% jump over the same period. Crypto Patel described the development as impossible to ignore, adding that the momentum is building fast, and warned followers to stay ready as Ethereum prepares for what could be a dramatic next leg up. \u201cIt\u2019s impossible to ignore $ETH right now,\u201d he remarked. Despite a minor 4.31% decline in cross-chain activity in the past seven days, the overall engagement trend confirms that more users are entering the Ethereum ecosystem. Analyst Predicts $9,000 To $10,000 ETH Price Target Complementing this on-chain momentum is a broader technical perspective offered by another crypto analyst known as XForceGlobal on the social media platform X. In a detailed Elliott Wave analysis also shared on X, the analyst noted that Ethereum has successfully completed a complex corrective structure and is now poised to enter a powerful new impulsive phase. According to the chart, the bearish scenario has been invalidated by recent price behavior, and a new bullish cycle is now underway as Ethereum is currently playing out a bullish B wave. Related Reading: Ethereum Price At $8,000: Pundit Predicts Parabolic Run For ETH If this bullish B wave plays out as expected, XForceGlobal projects a major price surge with a target range between $9,000 and $10,000 for Ethereum. Specifically, the analyst identified a $9,410 price target for sometime in the next year. However, the analyst outlines a hypothetical fallback to the $576 zone if the C corrective wave unfolds. Nonetheless, the current wave structure shows an increased likelihood of Ethereum surging higher rather than breaking down. The analyst concluded by stating, \u201cWe can now confidently scrap the bearish case. The impulse opened the door for potential new highs.\u201d At the time of writing, Ethereum is trading at $2,493 with a recent intraday high of $2,537. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "$106K Bitcoin A \u2018Safer\u2019 Buy Than $25K\u2014XRP Lawyer Drops Bombshell",
       "link": "https://www.newsbtc.com/news/bitcoin/106k-bitcoin-a-safer-buy-than-25k-xrp-lawyer-drops-bombshell/",
@@ -100,14 +105,24 @@
       "title": "Don\u2019t Risk Frozen Funds: Coinbase Has a Major Issue, So Choose Non-Custodial Best Wallet Instead",
       "link": "https://www.newsbtc.com/news/coinbase-account-freezing-issue-best-wallet-alternative/",
       "summary": "Coinbase CEO Brian Armstrong has acknowledged that the unexpected freezing of user accounts has been a major issue for the cryptocurrency exchange. In a recent announcement on X, Armstrong stated that the company has successfully reduced these unnecessary account restrictions by 82% and is committed to further improvements. The progress comes after significant investment in upgrading the platform\u2019s machine learning models and infrastructure, according to Dor Levi, a product team member at Coinbase. The enhancements have improved the precision of the Coinbase security systems, leading to fewer legitimate accounts being mistakenly flagged and frozen. Despite these advancements, Armstrong and Levi confirmed that Coinbase will continue to comply with court orders and legal sanctions requiring account restrictions. The Custodial Dilemma: When Your Crypto Isn\u2019t Yours Despite the platform\u2019s efforts, the announcement has been met with continued frustration from many customers. Some users on social media reported being unable to access funds for months, and in some cases, over two years, leading many to abandon the platform. Compounding the issue are complaints made on X about the difficulty of reaching a human customer service representative to resolve matters. The situation is a stark reminder of the inherent risks associated with custodial wallets, where a third party, like Coinbase, holds the user\u2019s private keys and thus has ultimate control over their funds. Given these challenges, the principle of \u2018not your keys, not your crypto\u2019 has never been more relevant. The only way to guarantee immunity from third-party freezes, breaches, or restrictions is by using a non-custodial wallet like Best Wallet, where you retain complete control of your private keys and digital assets. Best Wallet: Security You Control, Freedom You Deserve If you\u2019re looking to escape these custodial risks, Best Wallet offers a powerful solution built on the principle of true ownership. As a leading non-custodial wallet, it ensures your private keys are stored directly on your device, not a central server. This eliminates the risk of a third party freezing your account, as users have experienced with Coinbase. Beyond its security, Best Wallet is a feature-rich powerhouse. You can seamlessly manage a diverse portfolio with its multi-chain support and display your prized digital collectibles in the integrated NFT gallery. Forget complex exchanges; the built-in swap feature allows you to trade assets instantly and securely right within the wallet. With Best Wallet, you are your own bank, empowered with true financial sovereignty and the cutting-edge tools to navigate the world of digital assets. It\u2019s more than just security; it\u2019s the freedom to manage, trade, and display your entire portfolio on your terms. Best Wallet Token ($BEST): Rewarding Your Financial Freedom At the heart of this user-centric ecosystem is the Best Wallet Token ($BEST), a key that unlocks the ecosystem\u2019s full potential. $BEST is more than just a digital asset; it\u2019s a utility token designed to reward its holders. By owning $BEST, you unlock instant access to premium features and valuable financial benefits within the Best Wallet ecosystem. Enjoy significantly reduced fees on in-app swaps and transactions, maximizing the value of every trade. $BEST is also your ticket to higher yields, granting you access to boosted staking rewards on various assets. One of the most appealing benefits of holding $BEST is its early access to the best new crypto presale tokens from up-and-coming projects, allowing you to invest before they hit the market. Beyond personal gain, holding $BEST gives you a voice. It grants you governance rights, allowing you to vote on key proposals and help shape the future development of the Best Wallet platform. $BEST is available in presale for $0.025155, but we predict it could reach $0.035215 by the end of 2025, an impressive 39.99% gain if you invest now. $BEST isn\u2019t just an asset; it\u2019s your all-access pass to a more powerful, rewarding, and community-driven crypto experience. Ready to join? Our step-by-step guide on how to buy Best Wallet Token will walk you through the process. As non-custodial wallets like Best Wallet and its native token $BEST could unlock many impressive features and overcome issues that custodial wallets face, you must remember to research before making any investments."
-    },
-    {
-      "title": "TrueNorth Pioneers AI Investing in Angel Round: Snorter Token Trading Bot to Explode?",
-      "link": "https://www.newsbtc.com/news/truenorth-pioneers-ai-investing-angel-round-snorter-token-trading-bot-explode/",
-      "summary": "Many crypto traders still manually wade through hundreds of token profiles, candlestick charts, and market cap pages each day. Sure, everyone has their favorite analytics website and their tried-and-tested metrics to simplify their work. But it\u2019s still a lot of data for any individual investor to parse. Fortunately, trading could soon be changing. Imagine: Personalized search engines to find and highlight tokens with trading patterns that perfectly fit your preferred strategies, Bots to crawl specific platforms and detect emerging 5x, 10x, and 100x opportunities, Automated trading with built-in risk management. This is the new era of crypto trading, led by projects like TrueNorth and the Snorter Bot, which promise a streamlined approach that could revolutionize the crypto landscape. TrueNorth Announces Crypto-AI Discovery Engine Still spending ages looking around for the best crypto fits for your investment strategy? What if AI could do that for you? TrueNorth is pioneering so-called \u2018agentic workflows for AI-native investing,\u2019 a solution to harness AI\u2019s power for market research, insights, and strategizing. An early group of 500 beta investors \u2013 dubbed \u2018Truthsayers\u2019 \u2013 are already testing this new technology. The Singapore-based company just launched an angel round to kick-start its early growth, raising $1M for advanced testing in the process. Once the project goes live, it will bring high-level trading strategies and advanced analytics to crypto traders of all levels. In fact, by combining the AI agent with reinforcement learning and a generative UI/UX, TrueNorth wants to deliver not just an AI trading tool, but a fully fledged AI assistant. It&#8217;s an attempt to create a hyper-personal trading AI that thinks and trades like you do, vastly expanding any individual trader&#8217;s toolbox. And TrueNorth isn\u2019t the only one trying to bring crypto trading to the masses. Snorter Token ($SNORT): Sniff Out 100x Meme Coins with Snorter Bot Thousands of meme coins launch on Solana every day \u2013 and some of the big winners won\u2019t ever make it to your local CEX. This is where projects like $SNORT come in. The Snorter Token ($SNORT) powers the Telegram-based Snorter Bot, an advanced crypto trading algorithm designed to find the best meme coin opportunities in real-time. The Snorter Bot then lets you bag and profit off of these opportunities through features like: Automatic sniping through sub-second swaps, Stop loss/take profit orders, Honeypot detection, Rugpull detection, Copy trading. Speed and automation tools like sniping and limit orders protect your investment strategy. Avoiding honeypots (scam tokens that can\u2019t be sold) and rugpulls (tokens held by a small number of investors and dumped on the market) is critical to staying safe when looking for new low-cap coins. Beyond Solana, the Snorter trading bot will soon expand to cover several other chains, including Ethereum, BNB, Polygon, and Base. The $SNORT token will give you exclusive access to this bot. You can also currently stake the coin for 504% dynamic APY. You can read more about the staking and claiming processes in the Snorter Token whitepaper. $SNORT tokens currently cost $0.0949, and the presale has raised more than $628K in a few weeks. Visit the official Snorter Token presale page. AI, Bots, and Crypto \u2013 A New Trading Future? The future of crypto trading doesn\u2019t have to be manual, tedious, and boring. Rather than delving deep into endless charts and metrics, TrueNorth lets you leverage AI analysis to automatically guide your investment strategy. And in the wild and woolly world of crypto meme coins, Snorter Bot will sniff out under-the-radar cryptos with 1000x potential, supercharging your meme coin portfolio while filtering out scams. This isn\u2019t financial advice \u2013 crypto is always volatile, so do your own research."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "KULR Technology Group Announces $300 Million ATM Offering To Invest in Their Bitcoin Treasury",
+      "link": "https://bitcoinmagazine.com/news/kulr-technology-group-announces-300-million-atm-offering-to-invest-in-their-bitcoin-treasury",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KULR-Technology-Group-Announces-300-Million-ATM-Offering-To-Invest-in-Their-Bitcoin-Treasury.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-technology-group-announces-300-million-atm-offering-to-invest-in-their-bitcoin-treasury\" rel=\"nofollow\"> </a></p> <p>KULR entered a $300 million ATM offering to fund its Bitcoin treasury reserve, with Cantor Fitzgerald &#038; Co. and Craig-Hallum Capital Group LLC.</p> <p>"
+    },
+    {
+      "title": "BlackRock\u2019s iShares Bitcoin Trust Shatters ETF Growth Record, Surpassing $70 Billion in Just 341 Days",
+      "link": "https://bitcoinmagazine.com/news/blackrocks-ishares-bitcoin-trust-shatters-etf-growth-record-surpassing-70-billion-in-just-341-days",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/BlackRock.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/blackrocks-ishares-bitcoin-trust-shatters-etf-growth-record-surpassing-70-billion-in-just-341-days\" rel=\"nofollow\"> </a></p> <p>BlackRock\u2019s iShares Bitcoin Trust (IBIT) has officially made history. The Bitcoin ETF surged past $70 billion in assets under management (AUM), reaching the milestone in just 341 trading days. This achievement makes IBIT the fastest ETF to ever hit that threshold.&#160; To put that into perspective, the previous record-holder\u2014SPDR Gold Shares (GLD)\u2014took 1,691 days to [&#8230;]</p> <p>"
+    },
+    {
+      "title": "New York City Won\u2019t Be Issuing BitBonds Any Time Soon",
+      "link": "https://bitcoinmagazine.com/takes/new-york-city-wont-be-issuing-bitbonds-any-time-soon",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/New-York-City-Mayor-Eric-Adams-Bitcoin-BitBonds.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/takes/new-york-city-wont-be-issuing-bitbonds-any-time-soon\" rel=\"nofollow\"> </a></p> <p>At Bitcoin 2025, NYC mayor, Eric Adams, proclaimed that he\u2019s going to push to issue a BitBond, but judging by his past inaction on Bitcoin as well as a statement from NYC\u2019s comptroller, odds are New Yorkers won\u2019t see a BitBond in the near future.</p> <p>"
+    },
     {
       "title": "Japan\u2019s ANAP Holdings Launches Full Bitcoin Business Strategy with Goal of Over 1,000 BTC by August 2025",
       "link": "https://bitcoinmagazine.com/news/japans-anap-holdings-launches-full-bitcoin-business-strategy-with-goal-of-over-1000-btc-by-august-2025",
@@ -117,31 +132,21 @@
       "title": "Investment Holding Company Belgravia Hartford Capital Makes First Bitcoin Purchase as Part of Treasury Strategy",
       "link": "https://bitcoinmagazine.com/news/investment-holding-company-belgravia-hartford-capital-makes-first-bitcoin-purchase-as-part-of-treasury-strategy",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Investment-Holding-Company-Belgravia-Hartford-Capital-Makes-First-Bitcoin-Purchase-as-Part-of-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/investment-holding-company-belgravia-hartford-capital-makes-first-bitcoin-purchase-as-part-of-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Belgravia Hartford Capital purchased 4.86 BTC for $500,000.</p> <p>"
-    },
-    {
-      "title": "BitMine Immersion Technologies Buys 100 Bitcoin in First Treasury Acquisition",
-      "link": "https://bitcoinmagazine.com/news/bitmine-immersion-technologies-buys-100-bitcoin-in-first-treasury-acquisition",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Bitmine-Accumulates-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitmine-immersion-technologies-buys-100-bitcoin-in-first-treasury-acquisition\" rel=\"nofollow\"> </a></p> <p>BitMine Immersion Technologies, Inc., a Bitcoin focused technology company, has taken its first step into treasury accumulation with the open market purchase of 100 Bitcoin. The acquisition marks the launch of BitMine\u2019s formal Bitcoin Treasury business. The 100 BTC were purchased using funds raised through BitMine\u2019s recent public stock offering, which closed on June 6, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "KULR Technology Joins Bitcoin for Corporations, Increases Holdings to 920 BTC",
-      "link": "https://bitcoinmagazine.com/news/kulr-technology-joins-bitcoin-for-corporations-increases-holdings-to-920-btc",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KULR-Technology-Joins-Bitcoin-for-Corporations-Increases-Holdings-to-920-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-technology-joins-bitcoin-for-corporations-increases-holdings-to-920-btc\" rel=\"nofollow\"> </a></p> <p>KULR Technology announced today that it has joined the Bitcoin for Corporations initiative and its recent purchase of $13 million more Bitcoin.</p> <p>"
-    },
-    {
-      "title": "Strategy Buys $110 Million Worth of Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/strategy-buys-110-million-worth-of-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/02/Michael-Saylor-Signals-Strategys-Next-Bitcoin-Buy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/strategy-buys-110-million-worth-of-bitcoin\" rel=\"nofollow\"> </a></p> <p> </p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Justin Sun-Linked BiT Global Agrees to Drop Coinbase Lawsuit Over Wrapped Bitcoin",
+      "link": "https://decrypt.co/324211/justin-sun-bit-global-drops-coinbase-lawsuit-wrapped-bitcoin",
+      "summary": "Following the Wrapped Bitcoin case dismissal, Coinbase said it will never \u201cbe bullied\u201d into listing an asset \u201cthat puts our customers at risk.\u201d"
+    },
     {
       "title": "Argentine President Milei Exonerated in Libra Meme Coin Probe",
       "link": "https://decrypt.co/324201/argentine-president-milei-exonerated-libra-meme-coin-probe",
       "summary": "Milei promoted the Solana-based meme coin in February\u2014and caused a stir."
     },
     {
-      "title": "Bitcoin, Solana Rise as U.S. and China Agree to Trade Talks Ahead of Key Bond Auction",
+      "title": "Bitcoin, Solana Rise as US and China Agree to Trade Talks Ahead of Key Bond Auction",
       "link": "https://decrypt.co/324214/bitcoin-solana-rise-u-s-and-china-agree-talk-trade-ahead-key-bond-auction",
       "summary": "A poorly received 20-year bond auction caused Bitcoin\u2019s price to suddenly drop last month."
     },
@@ -154,14 +159,14 @@
       "title": "BTC edges Higher, Plasma ICO today, Inflation Data this week",
       "link": "https://decrypt.co/videos/interviews/5r1bL3Cx/btc-edges-higher-plasma-ico-today-inflation-data-this-week",
       "summary": "FOMO HOUR EP374 BTC: 107.7k (+3%), ETH: 2540 (+2%), SOL: 155 (+5%). Top Gainers: ICP, SPX, FARTCOIN, VIRTUAL, BONK. BTC ETFs: -$48mn, ETH ETFs: +$25mn. BTC edges higher, dominance rises to 65%. ETH ETFs on 15 day inflow streak. Plasma ICO today, expecting to raise $50m. Deutsche Bank considers issuing stablecoin. UK FCA to lift crypto ETN ban for retail. Strategy raises $980m in equity sale. Saylor dismisses Bitcoin Quantum Fears. Blockchain Group to raise $340m to buy BTC. Apple & Google consider integrating stablecoins. BTC is a proven store of value: Uber CEO. Nasdaq expands crypto benchmark to 9 assets. Gemini files for IPO. X collabs with Polymarket for prediction markets. Cetus protocol relaunches on SUI. Dubai records $399m tokenized RE sales in May. FOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X. JOIN YEET = https://yeet.com/register?aff=fomohour PLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL PODCAST = https://x.com/i/spaces/1kvKpydgqMQGE LIVE SPACE = https://x.com/i/spaces/1ynJOlOgYAQxR Links: https://linktr.ee/fomohour https://twitter.com/fomohour https://www.rug.fm/ https://x.com/rugradio Hosts: https://twitter.com/farokh https://twitter.com/rektmando https://twitter.com/tyler_did_it Myriad: https://myriad.markets https://x.com/MyriadMarkets #bitcoin #crypto #podcast"
-    },
-    {
-      "title": "Avalanche Meme Coin Trenches Heat Up as AVAX Lambo Token Touches $25 Million",
-      "link": "https://decrypt.co/324194/avalanche-meme-coin-trenches",
-      "summary": "Traders have bridged to Avalanche to start trading meme coins, as SocialFi app The Arena sees activity explode."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Did Paraguay just make Bitcoin legal tender? Suspected hack of president\u2019s X account sparks confusion",
+      "link": "https://cryptobriefing.com/paraguay-bitcoin-legal-tender-hack/",
+      "summary": "<p>The incident highlights the vulnerability of digital platforms in disseminating misinformation, potentially impacting national and global markets.</p> <p>"
+    },
     {
       "title": "ProShares, Bitwise seek SEC approval for ETFs tracking Circle stock",
       "link": "https://cryptobriefing.com/circle-stock-etfs-proshares-bitwise/",
@@ -181,14 +186,14 @@
       "title": "Circle rejected Ripple\u2019s $5 billion buyout \u2014 now valued at over $20 billion after NYSE debut",
       "link": "https://cryptobriefing.com/circles-21-billion-valuation/",
       "summary": "<p>Circle's successful IPO highlights the growing legitimacy of stablecoins, potentially accelerating regulatory clarity and institutional adoption.</p> <p>"
-    },
-    {
-      "title": "VanEck, 21Shares, and Canary urge SEC to revert to \u2018first to file, first to approve\u2019 standard for crypto ETFs",
-      "link": "https://cryptobriefing.com/crypto-etf-approval-sec-standard/",
-      "summary": "<p>The shift from a \"first-to-file\" to simultaneous approval for crypto ETFs may hinder innovation and favor larger firms, impacting market fairness.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "KAIA defies low liquidity to rally 14% \u2013 Can it target $0.135 next?",
+      "link": "https://ambcrypto.com/kaia-defies-low-liquidity-to-rally-14-can-it-target-0-135-next/",
+      "summary": "<img alt=\"KAIA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/B08C0A92-5BD4-4333-AA5A-C818C4C9D417.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />KAIA has led the market race and shows no signs of slowing down."
+    },
     {
       "title": "Bitcoin: THESE reasons show why you should consider HODLing BTC",
       "link": "https://ambcrypto.com/bitcoin-these-reasons-show-why-you-should-consider-hodling-btc/",
@@ -208,11 +213,6 @@
       "title": "Could Bitcoin\u2019s bull run be far from over? \u2013 Here\u2019s what the charts say",
       "link": "https://ambcrypto.com/could-bitcoins-bull-run-be-far-from-over-heres-what-the-charts-say/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The 1000 period RSI could be one to watch, and can help mark the end of the Bitcoin bull run."
-    },
-    {
-      "title": "Metaplanet\u2019s stock pumps by 26% after revealing $5.4 billion Bitcoin buying plan",
-      "link": "https://ambcrypto.com/metaplanets-stock-pumps-by-26-after-revealing-5-4-billion-bitcoin-buying-plan/",
-      "summary": "<img alt=\"Metaplanet&#039;s stock pumps by 26% after revealing $5.4 billion Bitcoin buying plan\" class=\"attachment-full size-full wp-post-image\" height=\"669\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Metaplanet.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1190\" />Metaplanet has new plans for its BTC acquisition."
     }
   ]
 }
