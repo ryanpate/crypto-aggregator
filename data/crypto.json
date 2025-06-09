@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Sony\u2019s Layer-2 Blockchain Soneium Unveils Gaming Incubator",
+      "link": "https://www.coindesk.com/business/2025/06/09/sony-s-layer-2-blockchain-soneium-unveils-gaming-incubator",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Struggles as Hang Seng Cheers U.S.-China Trade Talks; U.S. Inflation Eyed",
       "link": "https://www.coindesk.com/markets/2025/06/09/bitcoin-struggles-as-hopes-for-u-s-china-trade-talks-lift-hang-seng-to-highest-since-march-china-s-deflation-worsens",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Bitcoin Holds Above $105K Despite Donald Trump\u2019s Threats Against Elon Musk",
       "link": "https://www.coindesk.com/markets/2025/06/07/bitcoin-holds-above-usd105k-despite-donald-trump-s-threats-against-elon-musk",
       "summary": ""
-    },
-    {
-      "title": "Ether Holds Steady Above $2,500 as ETF Demand Signals Institutional Confidence",
-      "link": "https://www.coindesk.com/markets/2025/06/07/ether-holds-steady-above-usd2-500-as-etf-demand-signals-institutional-confidence",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "The Blockchain Group to raise $340M for Bitcoin treasury",
+      "link": "https://cointelegraph.com/news/blockchain-group-raise-340m-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUwNzYtYmZjMi03MTY5LTljY2YtODliMzc3ZGMyMDVm.jpg\" /></p><p>The Paris-based crypto company already holds $154 million worth of Bitcoin, claiming to be Europe\u2019s first BTC treasury company.</p>"
+    },
+    {
+      "title": "$100K becomes bulls&#039; key level: 5 things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/news/100k-becomes-bulls-key-level-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUzNmMtYmQ4Ni03OGE4LWIzMjYtYmY2NGVmMzgxYTY3.jpg\" /></p><p>Bitcoin liquidity conditions form the backdrop of a battle for BTC price support, and bull market continuation, over the coming week.</p>"
+    },
     {
       "title": "Metaplanet shares jump after $5.4B plan to buy Bitcoin",
       "link": "https://cointelegraph.com/news/metaplanet-stock-bitcoin-acquisition-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Bitcoin quantum threat is a ploy by \u2018yo-yo token\u2019 sellers: Saylor",
       "link": "https://cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg\" /></p><p>Strategy\u2019s Michael Saylor says even if a legitimate quantum computing threat emerged from a tech giant, it won't be released.</p>"
-    },
-    {
-      "title": "AI models still far from AGI-level reasoning: Apple researchers",
-      "link": "https://cointelegraph.com/news/artificial-general-intelligence-long-way-off-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUyODgtZTZlOS03YjYzLWEwYTAtN2U0YWI5NGVhYTQ0.jpg\" /></p><p>Current \u201cthinking\u201d AI models still can\u2019t reason to a level that would be expected from humanlike artificial general intelligence, the researchers found.</p>"
-    },
-    {
-      "title": "Corruption watchdog clears Javier Milei over LIBRA crypto scandal",
-      "link": "https://cointelegraph.com/news/argentina-anti-corruption-office-clears-milei-libra-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUyYTQtM2I3YS03Y2NmLWJiMWEtNzU3YzNmYjAxOGEx.jpg\" /></p><p>Argentina\u2019s corruption watchdog has cleared President Javier Milei of wrongdoing over the LIBRA scandal, saying"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Cardano joins Nasdaq Crypto Index \u2013 A major milestone for Wall Street exposure?",
+      "link": "https://ambcrypto.com/cardano-joins-nasdaq-crypto-index-a-major-milestone-for-wall-street-exposure/",
+      "summary": "<img alt=\"Cardano joins Nasdaq Crypto Index - A major milestone for Wall Street exposure?\" class=\"attachment-full size-full wp-post-image\" height=\"637\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Cardanos-Nasdaq-Index-Inclusion.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1132\" />What does Nasdaq\u2019s expanded crypto index mean for Cardano\u2019s Wall Street future?"
+    },
+    {
       "title": "Art of the Con \u2013 Trumps\u2019 memecoin moves and what do they mean exactly?",
       "link": "https://ambcrypto.com/art-of-the-con-trumps-memecoin-moves-and-what-do-they-mean-exactly/",
       "summary": "<img alt=\"Art of the Con - Trumps&#039; memecoin moves and what do they mean exactly?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-2-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />From dinners to botched wallet launches, every questionable move has been a moneymaker for the first family."
@@ -208,11 +213,6 @@
       "title": "Analyst predicts memecoin ETFs by 2026, but ONE hurdle remains\u2026",
       "link": "https://ambcrypto.com/analyst-predicts-memecoin-etfs-by-2026-but-one-hurdle-remains/",
       "summary": "<img alt=\"Memecoin ETF To launch by 2026\" class=\"attachment-full size-full wp-post-image\" height=\"939\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Memecoin-ETF-To-launch-by-2026.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1670\" />Bloomberg analyst predicts active memecoin ETFs by 2026, despite regulatory delays. Are you prepared?"
-    },
-    {
-      "title": "Avalanche warning! \u2013 Whales fleeing could bring AVAX on the brink of\u2026",
-      "link": "https://ambcrypto.com/avalanche-warning-whales-fleeing-could-bring-avax-on-the-brink-of/",
-      "summary": "<img alt=\"Avalanche warning! Whales fleeing could bring AVAX on the brink of...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-08T174540.476_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AVAX whales vanish, long positions get wiped\u2014Is this the calm before a deeper market breakdown?"
     }
   ]
 }
