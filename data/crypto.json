@@ -28,7 +28,12 @@
   ],
   "Cointelegraph": [
     {
-      "title": "Coinbase CEO says unnecessary account freezes cut by 82%",
+      "title": "Sui DEX restarts, plots open-source move after massive exploit",
+      "link": "https://cointelegraph.com/news/sui-dex-restarts-plots-open-source-move-after-massive-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFiYTktZDJhMC03YzkwLWE3Y2UtMjUxYWJiYjhlZWM4.jpg\" /></p><p>Affected Cetus liquidity pools were replenished using a combination of recovered funds, cash reserves, and a $30 million USDC loan.</p>"
+    },
+    {
+      "title": "Coinbase says it\u2019s tackling frozen accounts in \u2018major issue\u2019",
       "link": "https://cointelegraph.com/news/coinbase-cuts-unnecessary-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhiOTUtNjViMy03ZTdiLWE5YjItZGI4NWZiOTE5M2Vk.jpg\" /></p><p>Improvements in Coinbase's machine learning models and infrastructure helped to cut the number of unnecessary account restrictions.</p>"
     },
@@ -46,11 +51,6 @@
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Michael Saylor teases fresh Bitcoin buy after $1B stock offering",
-      "link": "https://cointelegraph.com/news/strategy-bitcoin-buy-signal-stock-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJkZTYtNTQwNy03ZjE0LTk3Y2EtMjJiNGFhODBmZDIx.jpg\" /></p><p>\u201cSend more Orange,\u201d Strategy executive chairman Michael Saylor wrote on X, signaling another Bitcoin purchase from the company.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Analyst predicts memecoin ETFs by 2026, but ONE hurdle remains\u2026",
+      "link": "https://ambcrypto.com/analyst-predicts-memecoin-etfs-by-2026-but-one-hurdle-remains/",
+      "summary": "<img alt=\"Memecoin ETF To launch by 2026\" class=\"attachment-full size-full wp-post-image\" height=\"939\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Memecoin-ETF-To-launch-by-2026.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1670\" />Bloomberg analyst predicts active memecoin ETFs by 2026, despite regulatory delays. Are you prepared?"
+    },
+    {
+      "title": "Avalanche warning! \u2013 Whales fleeing could bring AVAX on the brink of\u2026",
+      "link": "https://ambcrypto.com/avalanche-warning-whales-fleeing-could-bring-avax-on-the-brink-of/",
+      "summary": "<img alt=\"Avalanche warning! Whales fleeing could bring AVAX on the brink of...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-08T174540.476_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AVAX whales vanish, long positions get wiped\u2014Is this the calm before a deeper market breakdown?"
+    },
+    {
       "title": "Is Bitcoin primed to leap? \u2013 THESE signs point to a macro bottom at\u2026",
       "link": "https://ambcrypto.com/is-bitcoin-primed-to-leap-these-signs-point-to-a-macro-bottom-at/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could the recent dip be the springboard that sets Bitcoin up to leap higher?"
@@ -203,16 +213,6 @@
       "title": "Ethereum: Understanding how $2.8K will write ETH\u2019s next chapter",
       "link": "https://ambcrypto.com/ethereum-understanding-how-2-8k-will-write-eths-next-chapter/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-89-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum\u2019s ecosystem thrives as bullish metrics converge around a pivotal resistance level."
-    },
-    {
-      "title": "Crypto market\u2019s weekly winners and losers \u2013 SKY, SPX, DEXE, JUP",
-      "link": "https://ambcrypto.com/crypto-market-weekly-review-8-june/",
-      "summary": "<img alt=\"Crypto weekly winner and loser\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-1-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Market bloodbath follows political fallout - Here\u2019s who bled and who held."
-    },
-    {
-      "title": "Algorand active addresses spike 72%, but why isn\u2019t ALGO responding?",
-      "link": "https://ambcrypto.com/algorand-active-addresses-spike-72-but-why-isnt-algo-responding/",
-      "summary": "<img alt=\"ALGO user base explodes: Can 72% growth fuel a breakout?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-90-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite rising users and whale inflows, ALGO needs stronger conviction to break current resistance."
     }
   ]
 }
