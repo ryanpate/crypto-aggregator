@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin price shows strength, but will BTC bulls be able to push through $110K?",
+      "link": "https://cointelegraph.com/news/bitcoin-price-shows-strength-but-will-btc-bulls-be-able-to-push-through-110k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAxNzctNzM2ZC03MDZiLTljMzctOWI5YjY2ZjA0ZmVl.jpg\" /></p><p>Bitcoin\u2019s correlation to stocks and uncertainty about the future of the US economy could cap BTC price gains below $110,000.</p>"
+    },
+    {
       "title": "Bitcoin chart pattern, return of \u2018HODL mode\u2019 point to imminent all-time BTC price high",
       "link": "https://cointelegraph.com/news/bitcoin-chart-pattern-return-of-hodl-mode-point-to-imminent-all-time-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmMzNmEtNDg2ZS03M2RiLThlYjQtMmQzZTE5NDU0MThm.jpg\" /></p><p>An uptick in long-term Bitcoin holders and BTC\u2019s start-of-week price break above $108,000 could be a sign that new highs are in order.</p>"
@@ -46,14 +51,19 @@
       "title": "Price predictions 6/9: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
       "link": "https://cointelegraph.com/news/price-predictions-6-9-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU1YTctMjg2NC03NmY3LTk2NTctZmYxNDYyYWVkNDAz.jpg\" /></p><p>Bitcoin price pushed through a critical overhead resistance level, possibly opening the door to new all-time highs.</p>"
-    },
-    {
-      "title": "Nasdaq-listed fintech Netcapital acquires crypto native protocol Mixie",
-      "link": "https://cointelegraph.com/news/netcapital-acquires-mixie-web3-gaming-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IxNTktYWEyZS03Y2Q5LWI1MWEtNWRhNTQ5NDJhYzkz.jpg\" /></p><p>Shares of NCPL surged more than 16% on the news of the Mixie acquisition and are up 48% year-to-date.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "BiT Global drops Coinbase lawsuit over wrapped Bitcoin delisting",
+      "link": "https://cryptoslate.com/bit-global-drops-coinbase-lawsuit-over-wrapped-bitcoin-delisting/",
+      "summary": "<p>BiT Global, a crypto custody firm tied to entrepreneur Justin Sun, has voluntarily dismissed its lawsuit against Coinbase over the delisting of Wrapped Bitcoin (WBTC). The move ends a months-long legal dispute that spotlighted growing tensions between centralized exchanges and token custodians as control over key infrastructure becomes increasingly contested. Filed on June 6 in [&#8230;]</p> <p>"
+    },
+    {
+      "title": "BlackRock\u2019s IBIT rockets to $70B in 341 days, 5x faster than previous record",
+      "link": "https://cryptoslate.com/blackrocks-ibit-rockets-to-70b-in-341-days-5x-faster-than-previous-record/",
+      "summary": "<p>BlackRock&#8217;s iShares Bitcoin Trust (IBIT) exchange-traded fund (ETF) crossed $70 billion in assets under management (AUM) on June 6, being the fastest to reach this mark in just 341 trading days. Bloomberg ETF analyst Eric Balchunas reported the milestone on X, noting that the fund beat the previous speed record of 1,691 days set by [&#8230;]</p> <p>"
+    },
     {
       "title": "Visa, Chainlink successfully complete CBDC, stablecoin swap between Hong Kong, Australia",
       "link": "https://cryptoslate.com/visa-chainlink-successfully-complete-cbdc-stablecoin-swap-between-hong-kong-australia/",
@@ -68,19 +78,14 @@
       "title": "Paraguay\u2019s presidency swiftly debunks Bitcoin legal tender hoax, confirms X account hack",
       "link": "https://cryptoslate.com/paraguays-presidency-swiftly-debunks-bitcoin-legal-tender-hoax-confirms-x-account-hack/",
       "summary": "<p>The Paraguayan government made an official statement that President Santiago Pe\u00f1a\u2019s verified X account was hacked and published an unauthorized declaration that Bitcoin (BTC) would be made legal tender on June 9."
-    },
-    {
-      "title": "Tether to democratize Bitcoin mining with open-source software debut",
-      "link": "https://cryptoslate.com/tether-to-democratize-bitcoin-mining-with-open-source-software-debut/",
-      "summary": "<p>Tether is building a gateway for new players to enter Bitcoin mining by releasing its Bitcoin Mining OS (MOS) as open-source software by the end of 2025, according to CEO Paolo Ardoino. In a June 9 post on X, Ardoino explained that the move will lower barriers for small and independent miners. Tether expects to [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Strategy buys another 1,045 Bitcoin to push its stash to nearly 3% of supply",
-      "link": "https://cryptoslate.com/insights/strategy-buys-another-1045-bitcoin-to-push-its-stash-to-nearly-3-of-supply/",
-      "summary": "<p>Strategy has acquired an additional 1,045 Bitcoin (BTC) $110.2 million, according to a June 9 filing with the US Securities and Exchange Commission. The purchase occurred between June 2 and June 8 at an average price of $105,426 per coin. Strategy\u2019s total Bitcoin stash now amounts to 582,000 BTC. The company&#8217;s average price now stands [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Calm Won\u2019t Last\u2014This Week Holds Breakout Risk",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-calm-wont-last-this-week/",
+      "summary": "Singapore-based trading firm QCP Capital opened its Monday note with a blunt assessment: \u201cImplied vols continue to come under pressure, with BTC stuck in a tight range as summer approaches.\u201d In the options house\u2019s telling, the market is drifting into the northern-hemisphere holiday season much as it did a year ago, when one-month at-the-money (ATM) volatility collapsed from 80 vols in March to barely 40 vols by July and spot repeatedly \u201cfailed to decisively breach the $70k level.\u201d The difference this year is the new, higher plateau: BTC has sat between $100,000 and $110,000 for most of the past three weeks. The calm is visible beyond Deribit\u2019s options screens. Deribit\u2019s DVOL index, which tracks 30-day implied volatility, is hovering just above 40\u2014one of its lowest prints in more than two years. Realised volatility is even quieter, so even one-year lows on implieds still look \u201coptically rich,\u201d QCP argues. That valuation gap has encouraged traders to sell gamma: perpetual open interest has slipped and the favourite hedge-fund basis trade\u2014long spot via the new ETFs, short futures\u2014has unwound, taking what QCP calls \u201cthe natural bid for vol\u201d out of the market. Related Reading: Bitcoin At A Crossroads: $97,000 Cost Basis Holds Key To Next Breakout Flows in the listed options market confirm the malaise. Dealers report that July upside strikes around $130,000 and $140,000 are being rolled out to September \u201cin meaningful size,\u201d effectively pushing bullish timelines further down the curve. Meanwhile, Deribit\u2019s put-skew has flattened as short-dated hedges expire worthless\u2014a dynamic that often precedes a directional move once macro catalysts arrive. This Week Could Break Bitcoin\u2019s Lull Those catalysts line up uncomfortably close. On Wednesday the Bureau of Labor Statistics will publish May consumer-price data. April\u2019s headline CPI rose a modest 0.2% month-on-month and 2.3% year-on-year, while core prices advanced 0.2% on the month and 2.8% on the year. Economists look for headline CPI to quicken to 0.3% on the month and 2.5% year-on-year, with core CPI seen edging up to 0.3% and 2.9% respectively. Producer prices follow on Thursday: April\u2019s PPI fell 0.5% on the month yet still printed 2.4% year-on-year. The consensus expects May PPI to rebound 0.2%, leaving the annual rate near 2.4%. Inflation is not the only macro variable in play. Friday\u2019s stronger-than-expected US non-farm payrolls report\u2014139,000 jobs versus a 130,000 consensus\u2014rekindled dollar strength and knocked gold more than one percent lower, but BTC \u201cremained conspicuously unmoved,\u201d QCP noted. The same divergence is visible this morning: US equity futures are slightly softer, spot gold is bid on safe-haven demand, and bitcoin is trading virtually unchanged. Geopolitics may supply the spark that inflation data has so far failed to ignite. Senior US and Chinese officials meet in London today (Monday) in what both sides are calling a push for a limited trade deal that would dial back export-control threats and myriad retaliatory tariffs. The talks matter for crypto because tariffs have been feeding directly into the CPI basket and\u2014via global risk sentiment\u2014into bitcoin demand. \u201cA clean break below $100k or above $110k would likely reawaken broader market interest,\u201d QCP wrote, \u201cbut we currently see no obvious near-term catalyst to drive such a move.\u201d Trade headlines could change that calculus in a single newsflash. Related Reading: Crypto Analyst Says This Bitcoin Top Signal Hasn\u2019t Gone Off Yet \u2014 What To Know Institutional positioning likewise hints at fatigue. US regulatory filings show that large hedge funds trimmed spot-ETF holdings in the first quarter as the lucrative cash-and-carry spread compressed. Net inflows across the 11 US bitcoin ETFs have slowed to a trickle since late May, leaving cumulative additions at roughly $44 billion\u2014unchanged for almost a fortnight, according to Farside data. For now, the market\u2019s centre of gravity is exactly where QCP says it is: inside the $100,000\u2013$110,000 corridor. Volatility sellers continue to collect premium, and the risk-reward for momentum traders remains poor. Yet with CPI, PPI and high-stakes trade negotiations all landing inside a 72-hour window, the premium that option writers are harvesting could quickly look meagre. If the inflation data surprise to the upside, a repricing of Fed-cut expectations could turn last week\u2019s equity rally into a risk-off wobble, yanking bitcoin below six figures for the first time since April. Conversely, a benign print combined with even a symbolic easing of tariff rhetoric could flip the narrative to \u201csoft landing, structural bid via ETFs,\u201d reigniting topside optionality into the June quarter-end. In that scenario the rolled-out September $140,000 calls might come alive far sooner than their buyers now expect. Either way, the clock on bitcoin\u2019s summer doldrums is ticking loudly. \u201cWithout a compelling narrative to spark the next leg higher, signs of fatigue are emerging,\u201d QCP warns. The narrative candidates arrive this week; whether they supply ignition or simply more noise will decide whether 2025\u2019s range trade breaks\u2014or cements itself as the dominant theme of another crypto summer. At press time, BTC traded at $107,919. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Ethereum Consolidates As Momentum Builds \u2013 Analyst Has $3K In Sight For June",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-consolidates-as-momentum-builds-analyst-has-3k-in-sight-for-june/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Weekly Chart Flexes Strength\u2014Is The Moonshot Just Getting Started?",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-chart-flexes-strength/",
       "summary": "Bitcoin is making waves once again, flashing strength on the weekly chart as it closes well above key moving averages. With momentum indicators still favoring the bulls and no signs of exhaustion in sight, the current setup hints that the rally might be far from over. Could this be the beginning of an even bigger breakout? Bitcoin Stays Elevated: Bulls Show No Signs of Fatigue In a recent update shared on X, Shaco AI highlighted Bitcoin\u2019s continued bullish momentum, pointing to strong weekly performance on the BTC/USDT chart. The analyst noted that BTC has \u201cballooned past recent expectations,\u201d closing the week at an impressive $105,700. Related Reading: Bitcoin At A Crossroads: $97,000 Cost Basis Holds Key To Next Breakout This places the asset well above its 25-week Simple Moving Average (SMA) of $95,009.55 and the 50-week SMA at $83,318.12, an encouraging technical signal that suggests Bitcoin\u2019s uptrend remains firmly intact. As Shaco AI put it, \u201cThe party isn\u2019t over yet,\u201d hinting that bullish sentiment could carry BTC even higher. Technical indicators further support this upbeat outlook. The Relative Strength Index (RSI) currently reads 63.51, indicating that buying momentum remains robust without entering overbought territory. This suggests that traders are still comfortable accumulating at current levels, and the market hasn&#8217;t yet reached a point of exhaustion. Furthermore, the Moving Average Convergence Divergence (MACD) remains firmly in positive territory at 5835.33. The MACD&#8217;s positioning reflects steady buyer interest and a favorable trend structure, both of which are crucial for sustaining an upward move. Volume Slackens While Price Nears Critical Resistance Zone The analyst went on to point out that despite the bullish setup currently seen on Bitcoin\u2019s chart, the enthusiasm might be tempered by softening trading volume. Specifically, trading volume has only reached 95,302, significantly lower than the average volume of 179,421. Related Reading: Bitcoin Price Slips Again, Triggering Fresh Fears of a Deeper Correction This discrepancy signals a noticeable dip in market participation, raising the question of whether the ongoing price rally has enough fuel to sustain its momentum in the short term. As the analyst emphasized, this drop in volume is worth watching closely since it may influence the momentum of next week\u2019s price action. Looking at the broader picture, Bitcoin is approaching a major resistance level at $111,980. This key barrier represents a potential turning point; either it gets broken and paves the way for further upside, or it holds and prompts a short-term correction. Should a pullback occur, the analyst noted that BTC appears to have a comfortable support zone at $49,000, which could act as a solid cushion. In any case, the analyst suggests keeping a close eye on how these technical levels play out, as they could dictate Bitcoin\u2019s next big move. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "XRP Price Remains Bullish Above $2, This Falling Channel Says $3.8 Is Coming",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-remains-bullish-above-2/",
-      "summary": "The XRP price is holding strongly above $2, maintaining its momentum as technical indicators show signs of a bullish trend. Notably, a distinct Falling Channel on the XRP price chart suggests that a breakout could be brewing, with a potential rally toward $3.8 in sight. XRP Price Holds Steady As Bulls Target $3.8 A technical analysis by Rose Premium Signals reveals that XRP is currently flashing strong bullish signals following a breakout from a long-term Falling Channel. Earlier in January, XRP broke past $3 but experienced a strong correction that has kept its price down ever since. Despite the ongoing downtrend, XRP has been firmly holding above the $2 threshold as it prepares for new all-time highs. Related Reading: What Happens To The XRP Price If The 2017 Fractal Plays Out Again? Previously, XRP traded within a descending range for several months, forming lower highs and lower lows. However, recent price action has seemingly invalidated this downtrend structure with a decisive breakout above the upper boundary of the Falling Channel, indicating a potential trend reversal and the beginning of a bullish continuation. The chart shared by Rose Premium Signals on X (formerly Twitter) shows that after the breakout, XRP has been consolidating above the former resistance-turned-support zone, around the $2 level. The analyst confidently states that XRP\u2019s outlook remains inherently bullish despite past downtrends, suggesting that the recent consolidation pattern indicates that bulls are still in control. Notably, the breakout above the Falling Channel is significant, as it typically implies a strong upside move, especially on higher time frames. Projected price targets based on technical formation are positioned at $2.9520, $3.3967, and $3.8767. Interestingly, the highest projected target exceeds XRP\u2019s all-time high of $3.84 and reflects a 73.54% increase from current price levels. It\u2019s important to note that these bullish targets forecasted by Rose Premium Signals align with historical resistance zones and measured moves from the Falling Channel breakout. If momentum sustains and market conditions remain favorable, XRP could rally toward these targets over the coming weeks, potentially offering significant upside for long-term holders and traders. Analyst Says Buy The Dip, With Ideal Entry At $1.85 While forecasting several optimistic targets for XRP, Rose Premium Signals emphasized a strategy of buying the altcoin during dips. This method aims to capitalize on low price points to maximize potential gains as XRP rebounds. Related Reading: Wave Count Analysis Reveals The XRP Price Trigger Point For Take-Off The analyst\u2018s chart highlights the $1.85 support level with a clear \u201cBuy Here\u201d label, suggesting that this level is considered an ideal entry point should the price revisit it. Currently, XRP is trading at $2.23, meaning a drop to $1.85 would represent a 17.04% decrease. According to the analysis, this support level also marks the base of the recent Falling Channel breakout, providing a favorable risk-reward setup for those looking to enter or expand their positions. Featured image from iStock, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -119,7 +119,7 @@
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/BlackRock.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/blackrocks-ishares-bitcoin-trust-shatters-etf-growth-record-surpassing-70-billion-in-just-341-days\" rel=\"nofollow\"> </a></p> <p>BlackRock\u2019s iShares Bitcoin Trust (IBIT) has officially made history. The Bitcoin ETF surged past $70 billion in assets under management (AUM), reaching the milestone in just 341 trading days. This achievement makes IBIT the fastest ETF to ever hit that threshold.&#160; To put that into perspective, the previous record-holder\u2014SPDR Gold Shares (GLD)\u2014took 1,691 days to [&#8230;]</p> <p>"
     },
     {
-      "title": "New York City Won\u2019t Be Issuing BitBonds Any Time Soon",
+      "title": "New York City Won\u2019t Be Issuing BitBonds Anytime Soon",
       "link": "https://bitcoinmagazine.com/takes/new-york-city-wont-be-issuing-bitbonds-any-time-soon",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/New-York-City-Mayor-Eric-Adams-Bitcoin-BitBonds.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/takes/new-york-city-wont-be-issuing-bitbonds-any-time-soon\" rel=\"nofollow\"> </a></p> <p>At Bitcoin 2025, NYC mayor, Eric Adams, proclaimed that he\u2019s going to push to issue a BitBond, but judging by his past inaction on Bitcoin as well as a statement from NYC\u2019s comptroller, odds are New Yorkers won\u2019t see a BitBond in the near future.</p> <p>"
     },
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Plasma Attracts $500 Million for ICO\u2014And One Trader Spent $100K on Ethereum Gas Fees",
+      "link": "https://decrypt.co/324237/plasma-500-million-ico-trader-spent-100k-ethereum-gas",
+      "summary": "Are ICOs back? Stablecoin network Plasma just attracted $500 million worth of deposits for its sale, with one trader paying $100K for an edge."
+    },
+    {
+      "title": "Paraguay Says Presidential X Post Promising Bitcoin Reserve a Hack",
+      "link": "https://decrypt.co/324244/paraguay-says-presidential-tweet-promising-bitcoin-reserve-hack",
+      "summary": "The South American country is also not starting a strategic BTC reserve. Hackers asked readers to send the asset to a Bitcoin address."
+    },
+    {
+      "title": "Why Bitcoin Implied Volatility Has Collapsed Amid Trump Trade Talks",
+      "link": "https://decrypt.co/324304/bitcoin-implied-volatility-collapsed-trump",
+      "summary": "Bitcoin volatility hits 1-year low as U.S.-China trade talks resume, with BTC holding above $100K but trapped in range amid geopolitical uncertainty."
+    },
+    {
       "title": "'Bitcoin First' KULR Technology Seeks $300 Million to Boost BTC Holdings",
       "link": "https://decrypt.co/324242/bitcoin-first-kulr-technology-seeks-300-million-to-boost-btc-holdings",
       "summary": "The publicly traded company holds 920 Bitcoin, worth just under $1 billion on Monday."
@@ -144,21 +159,6 @@
       "title": "Bitcoin Avoids Death Cross, Ethereum Stabilizes and Fartcoin Defies Gravity: Analysis",
       "link": "https://decrypt.co/324246/bitcoin-death-cross-ethereum-stabilizes-fartcoin",
       "summary": "Technical indicators signal potential rebounds for Bitcoin and Ethereum while Fartcoin meme coin momentum accelerates."
-    },
-    {
-      "title": "Bitcoin Treasury The Blockchain Group Eyes $342 Million Raise to Buy More BTC",
-      "link": "https://decrypt.co/324238/bitcoin-treasury-the-blockchain-group-eyes-342-million-raise-to-buy-more-btc",
-      "summary": "The publicly traded firm aims to amass more Bitcoin for its corporate treasury through an \u201cat-the-market\u201d-type offering, in partnership with a Paris-based asset manager."
-    },
-    {
-      "title": "Justin Sun-Linked BiT Global Drops Coinbase Lawsuit Over Wrapped Bitcoin",
-      "link": "https://decrypt.co/324211/justin-sun-bit-global-drops-coinbase-lawsuit-wrapped-bitcoin",
-      "summary": "Following the case dismissal, Coinbase Chief Legal Officer Paul Grewal said the exchange has \"zero plans\" to relist Wrapped Bitcoin (WBTC)."
-    },
-    {
-      "title": "Argentine President Milei Exonerated in Libra Meme Coin Probe",
-      "link": "https://decrypt.co/324201/argentine-president-milei-exonerated-libra-meme-coin-probe",
-      "summary": "Milei promoted the Solana-based meme coin in February\u2014and caused a stir."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin\u2019s future sparks war among developers: Will node policy change break the network?",
+      "link": "https://ambcrypto.com/bitcoins-future-sparks-war-among-developers-will-node-policy-change-break-the-network/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Are we headed for a Bitcoin breakup?"
+    },
+    {
       "title": "Dogecoin\u2019s price could rally by 32%, but here\u2019s the catch\u2026!",
       "link": "https://ambcrypto.com/dogecoins-price-could-rally-by-32-but-heres-the-catch/",
       "summary": "<img alt=\"Dogecoin&#039;s price could rally by 32%, but here&#039;s the catch...!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-09T173332.809_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Everyone's favourite memecoin may be set to head in a different direction soon."
@@ -208,11 +213,6 @@
       "title": "Bitcoin: THESE reasons show why you should consider HODLing BTC",
       "link": "https://ambcrypto.com/bitcoin-these-reasons-show-why-you-should-consider-hodling-btc/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-10.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s quiet phase signals indecisiveness, with declining exchange activity and potential volatility ahead."
-    },
-    {
-      "title": "BlockDAG is breaking records fast: Why June 13\u2019s GO LIVE reveal is the big date",
-      "link": "https://ambcrypto.com/blockdag-is-breaking-records-fast-why-june-13s-go-live-reveal-is-the-big-date/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"501\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-174804.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"897\" />The crypto market is no stranger to hype. But what separates BlockDAG from the rest [&#8230;]"
     }
   ]
 }
