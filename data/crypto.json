@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "ATOM Struggles After Failed Breakout, Recovers",
+      "link": "https://www.coindesk.com/markets/2025/06/09/atom-struggles-after-failed-breakout-recovers-amid-political-tensions",
+      "summary": ""
+    },
+    {
       "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Surges 21.4% Over Weekend",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/09/coindesk-20-performance-update-internet-computer-icp-surges-21-4-over-weekend",
       "summary": ""
@@ -19,18 +24,23 @@
       "title": "Sui's Cetus DEX Is Back Online After $223M Exploit",
       "link": "https://www.coindesk.com/business/2025/06/09/sui-s-cetus-dex-is-back-online-after-usd223m-exploit",
       "summary": ""
-    },
-    {
-      "title": "ETH Surges as Spot ETF Inflows Hit 15-Day Streak, Traders Watch $2,540 Level",
-      "link": "https://www.coindesk.com/markets/2025/06/09/eth-surges-as-spot-etf-inflows-hit-15-day-streak-traders-watch-usd2-540-level",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "A crypto scam that doesn\u2019t need private keys: How does zero-value transfer work?",
+      "link": "https://cointelegraph.com/explained/a-crypto-scam-that-doesnt-need-private-keys-how-does-zero-value-transfer-work?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yZDM0NTU1NTc4MTM3ZjQ4ZjMwNDFlMGNhYzE4ZWM4NS5qcGc=.jpg\" /></p><p>A crypto investor lost $2.6 million in hours, falling victim to a zero-value transfer scam, a type of address poisoning scam. </p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
       "title": "XRP price will hit $25 if ETF approved, then crash 90%, new analysis says",
       "link": "https://cointelegraph.com/news/xrp-price-25-etf-approved-crash-90-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0ZTItMzA0NC03ZjZmLWI0NjUtZDc1YmU5M2I3ZDU3.jpg\" /></p><p>XRP traders say it has the potential to rally to $27 as ETF approval rates in 2025 increase.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0ZTItMzA0NC03ZjZmLWI0NjUtZDc1YmU5M2I3ZDU3.jpg\" /></p><p>XRP traders say it has the potential to rally to $27 as ETF approval odds increase.</p>"
     },
     {
       "title": "Australia unmasks $123M crypto laundering ring behind security firm",
@@ -41,19 +51,19 @@
       "title": "Strategy adds 1,045 Bitcoin for $110M in latest purchase",
       "link": "https://cointelegraph.com/news/strategy-buys-110m-bitcoin-amid-all-time-high-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0OGEtZWMyOS03MDZiLTkyZTMtODU5YWVmMzg3ZWM1.jpg\" /></p><p>Strategy has acquired 1,045 Bitcoin for $110.2 million as part of its ongoing accumulation strategy, bringing total holdings to 582,000 BTC.</p>"
-    },
-    {
-      "title": "Ethereum privacy roadmap proposes EU GDPR-safe blockchain design",
-      "link": "https://cointelegraph.com/news/ethereum-modular-architecture-gdpr-privacy-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0OTQtODEwMy03YzUzLTliNmUtN2ExYzE3MzU1OTM5.jpg\" /></p><p>A new Ethereum privacy proposal suggests modular design and privacy tech can help the network align with EU GDPR rules while preserving decentralization.</p>"
-    },
-    {
-      "title": "Kaia pledges won-pegged stablecoin as South Korean payment stocks rally",
-      "link": "https://cointelegraph.com/news/kaia-won-pegged-stablecoin-south-korean-payment-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NmQtZDJkOC03M2Y4LWE2NTYtZjU4NzdiMjMyZjM4.jpg\" /></p><p>Kakao-backed blockchain Kaia joins South Korea\u2019s stablecoin race as the tech giant\u2019s payments app surges 30% on the stock market.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Central African Republic sets date for tokenized land sale on Solana via controversial CAR memecoin",
+      "link": "https://cryptoslate.com/central-african-republic-sets-date-for-tokenized-land-on-solana-via-controversial-car-memecoin/",
+      "summary": "<p>The Central African Republic (CAR) is pushing ahead this month with a plan to tokenize over 1,700 hectares of land on Solana, an initiative now deeply entangled with a controversial memecoin, opaque governance, and accusations of deepfakes. What began as a state-led \u201ccrypto-powered development\u201d experiment has morphed into one of the year\u2019s most confounding blockchain [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Nasdaq-listed Oblong jumps 12%, eyes $7.5M Bittensor TAO acquisition for Bitcoin-style treasury strategy",
+      "link": "https://cryptoslate.com/nasdaq-listed-oblong-jumps-12-eyes-7-5m-bittensor-tao-acquisition-for-bitcoin-style-treasury-strategy/",
+      "summary": "<p>IT solutions provider Oblong has unveiled plans to raise $7.5 million through a private stock sale to support its new Bittensor-driven AI and digital asset treasury initiative, according to a June 6 statement. Shares in the Nasdaq-listed firm are up 12% over the past 24 hours following the announcement. Oblong revealed that it entered a [&#8230;]</p> <p>"
+    },
     {
       "title": "Newly introduced GOP Bill seeks to write Trump\u2019s strategic Bitcoin reserve into law",
       "link": "https://cryptoslate.com/newly-introduced-gop-bill-seeks-to-write-trumps-strategic-bitcoin-reserve-into-law/",
@@ -68,16 +78,6 @@
       "title": "Crypto ETF inflows climb to $11 billion in 7 weeks with Ethereum leading amid US policy uncertainty",
       "link": "https://cryptoslate.com/crypto-etf-inflows-climb-to-11-billion-in-7-weeks-with-ethereum-leading-amid-us-policy-uncertainty/",
       "summary": "<p>Digital asset investment products attracted $224 million in inflows last week, extending a seven-week streak that now totals $11 billion, according to CoinShares&#8216; latest weekly report. However, James Butterfill, CoinShares&#8217; head of research, noted that the pace of inflows into these products continues to slow. Butterfill pointed to rising uncertainty over US monetary policy as [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin ETFs could see reversal this week after retreat in first week of June",
-      "link": "https://cryptoslate.com/insights/bitcoin-etfs-retreated-in-first-week-of-june-as-price-stalled-near-ath/",
-      "summary": "<p>Spot Bitcoin ETFs have struggled to keep the inflow momentum they established in May. The first trading day of the month ended with a $267.5 million outflow, which followed the massive $616.1 million outflow on May 30. Another $278.4 million outflow on June 5 and a smaller $47.8 million on June 6 effectively erased the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Blockchain Group stock up 1,400% in 6 months, bets \u20ac342M on European Bitcoin treasury",
-      "link": "https://cryptoslate.com/blockchain-group-stock-up-1400-in-6-months-now-bets-e342m-on-its-european-bitcoin-treasury/",
-      "summary": "<p>The Blockchain Group (ALTBG) has inked a headline-grabbing deal with French asset manager TOBAM to raise up to \u20ac300 million (\u2248 $342M) in an &#8220;ATM-style&#8221; equity program aimed squarely at bolstering its Bitcoin reserves. The announcement, paired with a 624 BTC buy last week, marks Europe\u2019s largest single corporate initiative to convert equity into Bitcoin [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Ethereum ETFs Have Seen 15 Straight Days of Green\u2014Here's Why",
+      "link": "https://decrypt.co/324191/ethereum-etfs-15-days-green-heres-why",
+      "summary": "Ethereum ETFs notch 15-day winning streak with $837M inflows as institutional investors shift focus from speculative Bitcoin to ETH infrastructure."
+    },
+    {
       "title": "Australia Charges Four Over $123M Crypto Money Laundering Ring",
       "link": "https://decrypt.co/324182/australia-charges-four-over-123m-crypto-money-laundering-ring",
       "summary": "Crypto, cash, and property were seized after raids on a Gold Coast firm accused of running a laundering network via fake businesses."
@@ -154,11 +159,6 @@
       "title": "To Reap Tokenization's Benefits, Accredited Investor Rules Should Be Revamped: Robinhood Crypto GM",
       "link": "https://decrypt.co/324074/tokenization-benefits-accredited-investor-rules-revamped-robinhood-crypto-gm",
       "summary": "Robinhood Crypto's Johann Kerbrat said that tokenization could eliminate \u201cmiddlemen\u201d to the advantage of startup founders."
-    },
-    {
-      "title": "AI Is Coming for Your Job, Much Faster Than Anyone Thought",
-      "link": "https://decrypt.co/323916/ai-coming-jobs-faster-anyone-though",
-      "summary": "White-collar workers are facing displacement due to AI\u2014and AGI hasn't even arrived yet. Here's why experts are raising alarms."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "FinCEN certified AIXA Miner machine leads the green cloud mining revolution!",
+      "link": "https://ambcrypto.com/fincen-certified-aixa-miner-machine-leads-the-green-cloud-mining-revolution/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"553\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-190532.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"743\" />As the cryptocurrency market continues to heat up in 2025, AIXA Miner has completely changed [&#8230;]"
+    },
+    {
+      "title": "Can Ethereum outpace Bitcoin in Q3? \u2013 THESE datasets say yes",
+      "link": "https://ambcrypto.com/can-ethereum-outpace-bitcoin-in-q3-these-datasets-say-yes/",
+      "summary": "<img alt=\"ethereum circle\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-4-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Around 60% of USDC's circulating supply rests in the Ethereum mainnet."
+    },
+    {
       "title": "Top 6 Play-to-Earn NFT games to try in June 2025!",
       "link": "https://ambcrypto.com/top-6-play-to-earn-nft-games-to-try-in-june-2025/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/deng-xiang-uYyPRFmy87k-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />NFTs, or Non-fungible tokens, are digital identifiers or cryptographic tokens that cannot be copied. They [&#8230;]"
@@ -203,16 +213,6 @@
       "title": "Is Bitcoin\u2019s $105K chop a strategic trap? \u2013 Here\u2019s what might be happening",
       "link": "https://ambcrypto.com/is-bitcoins-105k-chop-a-strategic-trap-heres-what-might-be-happening/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could BTC\u2019s pause be a strategic setup, quietly ready to trap shorts and ignite a breakout?"
-    },
-    {
-      "title": "Explaining why Bitcoin\u2019s recent price dip won\u2019t break BTC\u2019s stride",
-      "link": "https://ambcrypto.com/bitcoin-explaining-why-the-recent-dip-wont-break-btcs-stride/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Overall demand for Bitcoin has declined in June after an aggressive accumulation in early Q2."
-    },
-    {
-      "title": "PEPE whale dumps $11.65M \u2013 Traders, is this a warning sign for\u2026",
-      "link": "https://ambcrypto.com/pepe-whale-dumps-11-65m-traders-is-this-a-warning-sign-for/",
-      "summary": "<img alt=\"PEPE whale exits with $11.65M deposit: Is it bracing for more pain?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-09T112614.488-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PEPE faces sell pressure as whale moves, leverage data, and key levels converge."
     }
   ]
 }
