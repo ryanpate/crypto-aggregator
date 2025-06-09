@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Struggles as Hang Seng Cheers U.S.-China Trade Talks; U.S. Inflation Eyed",
+      "link": "https://www.coindesk.com/markets/2025/06/09/bitcoin-struggles-as-hopes-for-u-s-china-trade-talks-lift-hang-seng-to-highest-since-march-china-s-deflation-worsens",
+      "summary": ""
+    },
+    {
       "title": "Asia Morning Briefing: Michael Saylor Downplays BTC's Quantum Threat",
       "link": "https://www.coindesk.com/markets/2025/06/08/asia-morning-briefing-michael-saylor-downplays-btcs-quantum-threat",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Ether Holds Steady Above $2,500 as ETF Demand Signals Institutional Confidence",
       "link": "https://www.coindesk.com/markets/2025/06/07/ether-holds-steady-above-usd2-500-as-etf-demand-signals-institutional-confidence",
       "summary": ""
-    },
-    {
-      "title": "Coinbase, BiT Global End Legal Fight Over WBTC Delisting",
-      "link": "https://www.coindesk.com/policy/2025/06/07/coinbase-bit-global-end-legal-fight-over-wbtc-delisting",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "AI models still far from AGI-level reasoning: Apple researchers",
+      "link": "https://cointelegraph.com/news/artificial-general-intelligence-long-way-off-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUyODgtZTZlOS03YjYzLWEwYTAtN2U0YWI5NGVhYTQ0.jpg\" /></p><p>Current \u201cthinking\u201d AI models still can\u2019t reason to a level that would be expected from humanlike artificial general intelligence, the researchers found.</p>"
+    },
+    {
+      "title": "Corruption watchdog clears Javier Milei over LIBRA crypto scandal",
+      "link": "https://cointelegraph.com/news/argentina-anti-corruption-office-clears-milei-libra-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUyYTQtM2I3YS03Y2NmLWJiMWEtNzU3YzNmYjAxOGEx.jpg\" /></p><p>Argentina\u2019s corruption watchdog has cleared President Javier Milei of wrongdoing over the LIBRA scandal, saying"
+    },
     {
       "title": "Sui DEX restarts, plots open-source move after massive exploit",
       "link": "https://cointelegraph.com/news/sui-dex-restarts-plots-open-source-move-after-massive-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "10 signs an airdrop is a scam \u2014 and how to stay safe",
       "link": "https://cointelegraph.com/news/fake-airdrops-and-how-to-avoid-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBjYmQtMzExYS03M2IzLWFlNDMtMjc0YzZmYTJlMTkw.jpg\" /></p><p>Fake airdrops are designed to drain users\u2019 funds from their wallets. You need to be well-versed in airdrop scams to protect your crypto wallet.</p>"
-    },
-    {
-      "title": "Gaming data is the next AI battleground",
-      "link": "https://cointelegraph.com/news/gaming-data-next-ai-battleground?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzExNWYtNWZiZC03NWY4LTg4OGItODAwYjM2M2NhMDg5.jpg\" /></p><p>Gaming\u2019s behavioral data is rapidly becoming the most sought-after resource in AI. Game telemetry fuels next-gen AI agents for everything from logistics to finance. The battle for gaming data is on.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Bitcoin Price Bounces Past 105K: Is a Full-Blown Rally Back on the Cards?",
+      "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-bounces-past-105k/",
+      "summary": "Bitcoin price started a recovery wave above the $105,000 zone. BTC is now consolidating and might attempt to clear the $106,500 resistance. Bitcoin started a recovery wave above the $105,000 zone. The price is trading above $105,000 and the 100 hourly Simple moving average. There is a bullish trend line forming with support at $105,350 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a fresh decline if it breaks the $104,000 support zone. Bitcoin Price Restarts Increase Bitcoin price started a fresh decline and traded below the $102,500 support zone. BTC even traded close to the $100,000 zone before the bulls appeared. A low was formed and the price recovered above the $103,500 resistance. The bulls even pushed the price above the $105,000 resistance. A high was formed at $106,426 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $100,400 swing low to the $106,426 high. Bitcoin is now trading above $105,000 and the 100 hourly Simple moving average. There is also a bullish trend line forming with support at $105,350 on the hourly chart of the BTC/USD pair. On the upside, immediate resistance is near the $106,200 level. The first key resistance is near the $106,500 level. The next key resistance could be $107,600. A close above the $107,600 resistance might send the price further higher. In the stated case, the price could rise and test the $108,800 resistance level. Any more gains might send the price toward the $110,000 level. Another Decline In BTC? If Bitcoin fails to rise above the $106,200 resistance zone, it could start another decline. Immediate support is near the $105,200 level and the trend line. The first major support is near the $103,500 level and the 50% Fib retracement level of the upward move from the $100,400 swing low to the $106,426 high. The next support is now near the $102,000 zone. Any more losses might send the price toward the $100,500 support in the near term. The main support sits at $100,000, below which BTC might gain bearish momentum. Technical indicators: Hourly MACD \u2013 The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BTC/USD is now above the 50 level. Major Support Levels \u2013 $105,200, followed by $103,500. Major Resistance Levels \u2013 $106,200 and $107,600."
+    },
+    {
       "title": "Blank Pi Network Wallets Spark Outcry\u2014What\u2019s The Network Hiding?",
       "link": "https://www.newsbtc.com/altcoin/blank-pi-network-wallets-spark-outcry-whats-the-network-hiding/",
       "summary": "Pi Network members are becoming increasingly agitated after they found zero balances of their tokens in their wallets. They went through KYC verifications and switched to mainnet as directed. Related Reading: Elon Musk \u2018Will Do Anything\u2019 To Make XRP King, Tech Mogul Says However, numerous users find nothing in their accounts. The problem has caused a wave of complaints on the internet and a call for concrete explanations. Users Report Missing Pi Balances According to community reports, hundreds of posts show zero tokens even after following every step. Some users say they waited days. Others say they\u2019ve waited weeks. All of them finished KYC and locked in their accounts on mainnet. Yet their wallets still read \u201c0.00 Pi.\u201d The lack of visible tokens has left many feeling shut out. Stop talking nonsense. I don&#8217;t want to hear it. Give me back that damn $Pi. I&#8217;ve worked hard for six years. You still haven&#8217;t mapped it for me until now. What&#8217;s your reason for constantly delaying? Mapping is the right of every pioneer. Hurry up and map it #Pinetwork Oh my god. pic.twitter.com/FBQiWAPtwF \u2014 HaiFeng Chen (@haifeng8283) June 5, 2025 Wallet Confusion Deepens Concern Based on reports, some accounts now link to more than one wallet address. That has users scratching their heads. One person found two wallets under the same profile. Another spotted three. It\u2019s raising questions over how safe the system is. Users are worried they might lose tokens or fall into a trap. Foundation Moves 277 Million Pi Coins Blockchain data shows that the Pi Foundation\u2019s wallet ending in \u201cODM\u201d transferred 276,500,000 Pi coins recently. A withdrawal of 7,380,000 Pi by the same address happened today. According to on-chain records, weekly withdrawals of large amounts have taken place from OKX exchange. The purpose of these moves remains unexplained by the Pi Core Team. Community Demands Clear Answers Community members note it\u2019s been three months without a detailed update from the project\u2019s leaders. They want dates, explanations, and plans. Some posts urge the team to post a public timeline. Others demand live Q&#38;A sessions. The calls are loud enough to push the topic onto the trending list on social media. Team Issues Wallet Safety Tips Pi Network&#8217;s support channels recently posted a list of wallet safety tips. They discussed good practices for passwords and how to identify phishing. But they failed to address why tokens are concealed. The tips also failed to discuss the sudden emergence of numerous wallets per user. Related Reading: Bitcoin To Hit $180,000 In 2025? Analyst Highlights The Trigger What Happens Next Based on user feedback, the project will likely face pressure in the coming days. Some community members say they will pause mining until they see their balances. Others say they\u2019ll shift their attention to rival projects. Nothing has been confirmed by the Pi Core Team beyond the safety note. It remains unclear when users will see their Pi tokens or receive a full breakdown of those massive transfers. The situation will be one to watch as the network works to rebuild trust. Featured image from Unsplash, chart from TradingView"
@@ -100,11 +105,6 @@
       "title": "Bitcoin Leveraged Traders Are Back Betting On A Price Decline \u2014 What This Means",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-leveraged-traders-are-back-betting-on-a-price-decline/",
       "summary": "The price of Bitcoin has been in a good recovery form since succumbing to the bearish pressure from the ongoing feud between United States President Donald Trump and Elon Musk. The premier cryptocurrency climbed above the $105,000 mark in the early hours of Saturday, June 7. According to the latest on-chain data, the Bitcoin price looks set to continue its upward trajectory over the next few days. What Negative Leveraged Traders\u2019 Sentiment Means For Price In a new post on the X platform, data analytics firm Alphractal shared fresh on-chain insights into the recent movement of the Bitcoin price. According to the market intelligence firm, the major catalyst of BTC\u2019s latest recovery is the sudden shift in the market sentiment. Related Reading: Bitcoin Golden Cross Pattern Says The Crash To $100,000 Is Normal \u2013 What To Expect Next This on-chain observation is based on the Leveraged Traders\u2019 Sentiment, which tracks the outlook or positioning of leveraged traders in the market. It provides insight into the kind of bets (longs or shorts) that leveraged traders are placing in the crypto market and the funding rates of the derivatives market. Data from Alphractal shows a rising interest in opening short positions in the Bitcoin market, with most retail traders betting on a price decline. Ultimately, this on-chain trend suggests that the sentiment in the Bitcoin derivatives market is currently bearish. However, Alphractal noted that this kind of behavior might not be as straightforward as it looks, as the market historically tends to move in the crowd\u2019s opposite direction. Hence, when several traders are betting on a Bitcoin price decline, the flagship cryptocurrency tends to witness a contrasting market bounce. Alphractal said: When sentiment becomes excessively bullish or bearish, the market tends to do the opposite. Therefore, this metric is not just a sentiment gauge \u2014 it&#8217;s also a warning signal for potential contrarian moves that often catch traders off guard. According to the analytics firm, this is exactly what is currently happening in the Bitcoin market, with the market leader bouncing back despite the negative traders\u2019 sentiment. Interestingly, if these leveraged traders continue to bet against Bitcoin, the BTC price could potentially ride this fresh bullish momentum to a new all-time high. Bitcoin Price At A Glance As of this writing, BTC is valued at around $105,700, reflecting an almost 2% increase in the past 24 hours. Following the latest resurgence, the premier cryptocurrency is now up by more than 1% on the weekly timeframe. Related Reading: Bitcoin Recovers From $100K Dip While On-Chain Data Shows Rising Miner Activity Featured image from iStock, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin At A Crossroads: $97,000 Cost Basis Holds Key To Next Breakout",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-at-a-crossroads-97000-cost-basis-holds-key-to-next-breakout/",
-      "summary": "Bitcoin prices have returned above $105,000 in the past 24 hours following a sharp price decline on Thursday triggered by macroeconomic pressures. Notably, US President Donald Trump and former political ally Elon Musk had engaged in a public spat which spiked the volatility in a crypto market already undergoing a corrective phase. Amidst some level of renewed stability in the last two days, popular analytics firm Glassnode has now shared an important on-chain analysis highlighting the presently key price levels in the Bitcoin market. Related Reading: Can Bitcoin Price Bounce To $120,000 Or Will It Break Below $100,000? Bitcoin Ready For Breakout As Traders Eye $114K And $83K Levels In an X post on June 7, Glassnode provides an insight on potential Bitcoin price action using the Short-Term Holder (STH) cost basis model, derived from the Work of Cost (WOC) price framework. As the name implies, the STH cost basis represents the average purchased price of all coins belonging to short-term holders i.e. investors who acquired their Bitcoin within the last 155 days. The STH cost basis is an important market metric as it reflects the risk appetite of newer market participants who are typically the most reactive to price change. It is also a strong indicator of market sentiment with an ability to act as resistance or support depending on the price direction. According to the data by Glassnode, the current Bitcoin STH cost basis is estimated at $97,100. Using standard deviation bands in this WOC model, Glassnode has further identified the $114,800 price level as the +1STD level of this cost basis and a potentially heated market zone. Considering Bitcoin&#8217;s price, this $114,800 price zone represents the next major resistance, a break above which is expected to trigger a massive buying pressure and push the premier cryptocurrency further into uncharted price territory. Glassnode\u2019s WOC model also identifies the -1STD level at $83,200 to represent a critical support zone in the present bullish structure. A decisive price fall below this level would signal market weakness and is likely to cause a cascade of liquidations and further price corrections. Related Reading: Crypto Analyst Says This Bitcoin Top Signal Hasn\u2019t Gone Off Yet \u2014 What To Know Bitcoin Price Overview At the time of writing, Bitcoin trades at $105,745 reflecting a 1.07% gain in the last 24 hours. Meanwhile, the asset\u2019s daily trading volume is down by 34.27% and valued at $38.66 billion. Provided Bitcoin continues to consolidate above the STH cost basis at $97,100, there is a valid chance for a market bullish push towards resistance at $114,800. However, a loss of the critical support at $97,100 would points to a retest at $83,200 which holds strong potential bearish consequences. Featured image from iStock, chart from Tradingview"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "TRON: Who\u2019s fueling TRX\u2019s breakout? It\u2019s not whales, here\u2019s the answer!",
+      "link": "https://ambcrypto.com/tron-whos-fueling-trxs-breakout-its-not-whales-heres-the-answer/",
+      "summary": "<img alt=\"TRON: Who\u2019s fueling TRX\u2019s breakout? It&#039;s not whales, here\u2019s the answer!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/22F7AC77-0C64-42B5-BD78-32839ED88A28.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />TRX rallies as user activity surges, but DeFi trading signals mixed sentiment in the market."
+    },
+    {
       "title": "Analyst predicts memecoin ETFs by 2026, but ONE hurdle remains\u2026",
       "link": "https://ambcrypto.com/analyst-predicts-memecoin-etfs-by-2026-but-one-hurdle-remains/",
       "summary": "<img alt=\"Memecoin ETF To launch by 2026\" class=\"attachment-full size-full wp-post-image\" height=\"939\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Memecoin-ETF-To-launch-by-2026.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1670\" />Bloomberg analyst predicts active memecoin ETFs by 2026, despite regulatory delays. Are you prepared?"
@@ -208,11 +213,6 @@
       "title": "Shiba Inu\u2019s deflation drive stalls \u2013 But before you buy the dip, look out for\u2026",
       "link": "https://ambcrypto.com/shiba-inus-deflation-drive-fizzles-before-you-buy-the-dip-look-out-for/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-08T112850.821-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s deflationary activity and growing user engagement hint at a potential trend reversal brewing."
-    },
-    {
-      "title": "Ethereum: Understanding how $2.8K will write ETH\u2019s next chapter",
-      "link": "https://ambcrypto.com/ethereum-understanding-how-2-8k-will-write-eths-next-chapter/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-89-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum\u2019s ecosystem thrives as bullish metrics converge around a pivotal resistance level."
     }
   ]
 }
