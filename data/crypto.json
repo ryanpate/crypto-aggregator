@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Solana's SOL Jumps 5% on Report of Spot ETF Development",
+      "link": "https://www.coindesk.com/markets/2025/06/10/solanas-sol-jumps-5-on-report-of-spot-etf-development",
+      "summary": ""
+    },
+    {
+      "title": "Ether Roars Past $2,700; Popular Trader Declares \u2018Beast Mode\u2019",
+      "link": "https://www.coindesk.com/markets/2025/06/10/ether-roars-past-usd2-700-popular-trader-declares-beast-mode",
+      "summary": ""
+    },
+    {
       "title": "Cathie Wood's ARK Invest: Bitcoin Gains Coming Alongside Clear Stress in Housing, Autos",
       "link": "https://www.coindesk.com/markets/2025/06/10/cathie-woods-ark-invest-bitcoin-gains-coming-alongside-clear-stress-in-housing-autos",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Negative Rates Return to Switzerland as U.S. Faces Higher Yields. What Does it Mean for Bitcoin?",
       "link": "https://www.coindesk.com/markets/2025/06/11/negative-rates-are-back-in-switzerland-as-u-s-faces-higher-bond-yields-what-does-it-mean-for-bitcoin",
       "summary": ""
-    },
-    {
-      "title": "U.K. Regulator Names Sarah Pritchard as Deputy CEO to Help Oversee Crypto, Stablecoins",
-      "link": "https://www.coindesk.com/policy/2025/06/10/uk-regulator-names-sarah-pritchard-as-deputy-ceo-to-help-oversee-crypto-stablecoins",
-      "summary": ""
-    },
-    {
-      "title": "Ether More Favored by Traders as Volatility Against Bitcoin Hits Highest Since FTX Crash",
-      "link": "https://www.coindesk.com/markets/2025/06/10/ether-more-favored-by-traders-as-volatility-against-bitcoin-hits-highest-since-ftx-crash",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Franklin Templeton launches &#039;intraday yield&#039; for tokenized assets on Benji",
+      "link": "https://cointelegraph.com/news/franklin-templeton-launches-intraday-yield-tokenized-assets-benji?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ1YzktNDYxYS03YjkzLTkzMjAtZWQxNzA0MTAwYzg3.jpg\" /></p><p>Yield for assets is often calculated over at least one-day periods, a problem that blockchain composability could address, according to the asset manager.</p>"
+    },
     {
       "title": "Funding from crypto falls short in New Jersey gubernatorial primaries",
       "link": "https://cointelegraph.com/news/crypto-funding-new-jersey-gubernatorial-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "How to use Grok for real-time crypto trading signals",
       "link": "https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVhZGMtNWZlYy03YzZjLWJkMmYtNGFkMzZiNTUwMzE1.jpg\" /></p><p>Grok scans posts and sentiment shifts on X to help crypto traders identify early signals, memes and macro-driven momentum plays.</p>"
-    },
-    {
-      "title": "Ethereum network growth, spot ETH ETF inflows and price gains lure new investors",
-      "link": "https://cointelegraph.com/news/ethereum-network-growth-spot-eth-etf-inflows-and-price-gains-lure-new-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE1ZGItNzY5Yy03ZmFhLWFlYzgtODc1ZWVlNDJiNmM2.jpg\" /></p><p>Ethereum\u2019s dominance in staking, the spot crypto ETFs, and improving investor sentiment all point toward a sustained ETH price rally.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Fortune 500 blockchain adoption hits 60% as institutions inject $50B into crypto funds in Q1",
+      "link": "https://cryptoslate.com/fortune-500-blockchain-adoption-hits-60-as-institutions-inject-50b-into-crypto-funds-in-q1/",
+      "summary": "<p>Fortune 500 companies and global asset managers continued to expand blockchain activity and allocations during the first half of 2025, according to Coinbase\u2019s latest State of Crypto report. Six in ten Fortune 500 executives say their firms run on-chain initiatives, and the average number of projects per company jumped to 9.7 from 5.8 year on [&#8230;]</p> <p>"
+    },
     {
       "title": "Blockchain Group wins approval for $11B raise to execute aggressive Bitcoin acquisitions",
       "link": "https://cryptoslate.com/blockchain-group-wins-approval-for-11b-raise-to-execute-aggressive-bitcoin-acquisitions/",
@@ -73,14 +78,14 @@
       "title": "80% of CME crypto futures expire by August",
       "link": "https://cryptoslate.com/80-of-cme-crypto-futures-expire-by-august/",
       "summary": "<p>CME\u2019s Bitcoin futures and options structure has become increasingly condensed and cautious, with the vast majority of notional exposure now expiring within the next four weeks. At the same time, the annualized basis curve has flattened to its narrowest level since April, offering minimal incentive for arbitrage-driven carry trades and limited insight into longer-term market [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Cardano launches Cardinal to fuse Bitcoin liquidity with DeFi ecosystem",
-      "link": "https://cryptoslate.com/cardano-launches-cardinal-to-fuse-bitcoin-liquidity-with-defi-ecosystem/",
-      "summary": "<p>Cardano has taken a new step in bridging the gap between Bitcoin and decentralized finance by launching Cardinal. This protocol allows the top blockchain network to interact with Cardano&#8217;s DeFi ecosystem. Cardano founder Charles Hoskinson highlighted the release on June 9, sharing a post from Roman Pellerin, Chief Technology Officer at Input Output Global (IOG), [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Solana Bounces Back: Bullish Wave Builds Above $155 After Sharp Dip",
+      "link": "https://www.newsbtc.com/news/solana/solana-bullish-wave-builds/",
+      "summary": "In a recent post on X, crypto analyst Grayhoood observed that Solana (SOL) is currently showing signs of a bullish trend. Over the past 24 hours, the price has climbed by 2.8%, with candlestick charts revealing a noticeable upward trajectory. Solana Stochastics And CCI Signal Short-Term Strength Earlier in the day, SOL briefly dipped to around $151 but managed to recover steadily, reaching a current price of $155.35. Grayhoood pointed out that this short-term strength is consistent with Solana\u2019s 7-day performance, which shows a modest 1.4% increase. However, the longer-term outlook remains volatile, with SOL still down by 3.9% over the past year. Related Reading: Solana Picture Bigger Than $420: Analyst Predicts 140% Surge To New ATHs Grayhoood revealed that technical indicators are suggesting a cautiously optimistic outlook for SOL. As price action continues to show signs of recovery, the Relative Strength Index (RSI) is likely positioned in a neutral zone, indicating the recent uptick. This positioning allows space for further gains, but also signals a potential shift into overbought territory if SOL\u2019s price surges too rapidly. The Stochastic Oscillator and Commodity Channel Index (CCI) also point to short-term bullish momentum, especially with SOL breaking through the $154 resistance level. These indicators suggest that buyers are regaining control. However, Grayhoood cautioned that while momentum appears to be building, the recent price dip observed earlier in the day reveals that sellers are not entirely out of the picture. Recovery Gains Traction, But Yearly Losses Still Weigh In To further reinforce his claim, the analyst pointed to Solana\u2019s moving averages, which currently present a mixed but insightful technical outlook. In the short term, the 7-day and 14-day moving averages hint at a hold or mild buying pressure. This aligns with SOL\u2019s recent bounce from $151 to $155.35, signaling that momentum may be shifting in favor of the bulls. Related Reading: Solana\u2019s Old Hands Are Moving\u2014Is Trouble Brewing? However, when viewed from a broader lens, long-term averages continue to reflect lingering weakness. The 30-day and yearly trends, which show declines of 9.3% and 3.9% respectively, suggest that the larger market remains cautious. These figures reveal that while the recent gains are encouraging, they have not fully reversed the bearish structure seen over the past months. Overall, the analyst believes that despite the volatility seen over the past few weeks, market sentiment is beginning to lean bullish in the short term. Solana\u2019s recent performance, supported by its ability to reclaim key levels and maintain upward momentum, offers a more favorable outlook heading into the near future. If current trends persist and key resistances are successfully challenged, the path may open for a broader shift in sentiment. Featured image from Adobe Stock, chart from Tradingview.com"
+    },
     {
       "title": "XRP Price: Analyst Says Expect Biblical Move Before Historic Crash \u2013 Here Are The Targets",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-biblical-move-before-crash/",
@@ -100,14 +105,14 @@
       "title": "Ethereum Price Eyes 38% Jump To $3,500 As 50EMA Swims Into View",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-price-eyes-38-jump/",
       "summary": "Crypto analyst Crypto Bullet has raised the possibility of the Ethereum price surging by 38% soon. He alluded to the 50EMA as the only thing holding ETH from witnessing this price surge, but suggested that it could change soon with a breakout on the horizon. Ethereum Price Eyes 38% Jump To $3,500 In an X post, Crypto Bullet predicted that the Ethereum price could record a 38% surge to $3,500. This came following as he highlighted the ongoing battle between ETH and the 50EMA, noting that this indicator was the only thing holding the altcoin back from a parabolic surge. The analyst added that on average, a breakout results in a 38% pump, which puts Ethereum exactly at $3,500. Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric As reported, Crypto Bullet also recently predicted that the Ethereum price could rally to $3,300 as a Morningstar Candle pattern formed. Back then, he noted that ETH was facing tough resistance at $2,500 but affirmed that the resistance would be broken in due time. He indicated that a breakout from that resistance will usher in the rally to $3,300. The Ethereum price has now broken above the $2,500 resistance, which provides a bullish outlook for the largest altcoin by market cap. Based on Crypto Bullet\u2019s prediction, a rally to $3,300 may already be underway, which could then lead ETH to the $3,500 target. In a more recent X post, the crypto analyst commented on the recent break above $2,500. He stated that the Ethereum price is now trying to break the 200-day MA, which is between $3,000 and $3,300, for the fifth time. He indicated that a breakout above the range is likely to happen on this fifth attempt. His accompanying showed that ETH could rally to the $4,000 level if a successful breakout occurs. ETH About To Begin A New Bull Run Crypto analyst Trader Tardigrade predicted that another bull run is about to start for the Ethereum price. He noted that ETH\u2019s daily candle closed above the resistance level at $2,650 yesterday and also opened above this resistance level today. The analyst added that ETH is now moving above it, which signals the start of a new bull run. Related Reading: FTX Repayments About To Dump $5B On The Market, How Will Bitcoin And Ethereum React? His accompanying chart showed that the Ethereum price is breaking out of an ascending triangle, which could send the altcoin above the psychological $3,000 level. Crypto analyst Mikybull Crypto also declared that Ethereum\u2019s breakout will be huge, with ETH still maintaining its current range between $2,400 and $2,600. At the time of writing, the Ethereum price is trading at around $2,670, up over 7% in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Bitcoin\u2019s $110K Sprint Coincides With Record-Low Exchange Reserves",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoins-110k-sprint-coincides-with-record-low-exchange-reserves/",
-      "summary": "Bitcoin\u2019s price shook off last week\u2019s dip and climbed sharply on Tuesday morning in Asia, topping $110,000 briefly before settling around $109,450. Traders rushed back in after the asset dipped close to $100,000, feeding a sharp rebound that leaves Bitcoin just 2.8% shy of its record high. A blend of forced liquidations, surging derivatives volume, easing US\u2013China trade tensions and steady on-chain withdrawals is driving the move. Related Reading: Elon Musk \u2018Will Do Anything\u2019 To Make XRP King, Tech Mogul Says Heavy Liquidations Shift The Balance According to Coinglass, nearly $203 million in Bitcoin positions were wiped out over the past 24 hours. Of that, $195 million were against shorts. When so many short bets unwind at once, it forces buyers to cover positions, which can send prices spiking. Yet history shows these \u201cshort squeezes\u201d can reverse quickly when traders take profits. Based on reports, Bitcoin\u2019s derivatives volume more than doubled, climbing over 110% to $110 billion. Open interest then followed suit, expanding 7.3% to almost $77 billion. These kinds of inflows indicate that new money is accumulating. Both open interest and volume rising tends to indicate enthusiasm\u2014and a willingness to carry through positions with swings. Trade Diplomacy Lifts Risk Assets Talks resumed in London on June 9 between the US and China over tariffs and export rules. Even a hint of progress tends to boost appetite for riskier assets, and Bitcoin isn\u2019t immune. Headlines of smoother trade ties lifted equities earlier this week\u2014and crypto traders moved in tandem. If negotiations hit a snag, though, Bitcoin could slide with global markets. On-Chain Data Shows Steady Accumulation CryptoQuant\u2019s numbers reveal that centralized exchanges have shed 550,000 BTC since July 2024, falling from 1.55 million to about 1.01 million today. As coins leave exchanges, float tightens. At the same time, the Coinbase Premium indicator rose, with US buyers paying more than overseas investors. Santiment also reports renewed accumulation among wallets holding 10\u2013100 BTC. This pattern hints at long-term holding rather than quick trades. Related Reading: Ignore The Trump\u2013Musk Noise: Bitcoin\u2019s Backbone Stays Solid Correlation And Caution Remain When you consider the rally, Bitcoin still dances on the tunes of equity price swings. Futures have mixed bets between bulls and bears, showing portrait-wise signs that certainly not everybody is convinced this run is going to hold. High volatility would tend to wash out weak hands at the slightest hint of trouble, any reversal of risk sentiment, or a sudden macro shock would cost the rally dearly. Optimism is building as analysts talk of fresh all-time highs. Some even eye $150,000 by the end of the year if US debt levels climb further. But sustaining a rally of that magnitude will require more than forced liquidations. Traders will watch derivatives flows, on-chain reserves and trade headlines for signs of real, lasting demand before pushing prices much higher. Featured image from Imagen, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin Officially Traded Above $100,000 For 30 Consecutive Days For The First Time",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-officially-traded-above-100000-for-30-consecutive-days-for-the-first-time",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Bitcoin-Officially-Traded-Above-100000-For-30-Consecutive-Days-For-The-First-Time.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitcoin-officially-traded-above-100000-for-30-consecutive-days-for-the-first-time\" rel=\"nofollow\"> </a></p> <p>Bitcoin holds above $100K for 30 days as states, banks, and companies accelerate adoption.</p> <p>"
+    },
     {
       "title": "The Trump\u2019s American Bitcoin Merges with Gryphon, Reports 215 BTC on Balance Sheet Since Launch",
       "link": "https://bitcoinmagazine.com/news/the-trumps-american-bitcoin-merges-with-gryphon-reports-215-btc-on-balance-sheet-since-launch",
@@ -127,14 +132,19 @@
       "title": "Robert Mitchnick Discusses BlackRock\u2019s Bitcoin ETF IBIT Success On Bloomberg",
       "link": "https://bitcoinmagazine.com/news/robert-mitchnick-discusses-blackrocks-bitcoin-etf-ibit-success-on-bloomberg",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Robert-Mitchnick-Discusses-BlackRocks-Bitcoin-ETF-IBIT-Success-On-Bloomberg.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/robert-mitchnick-discusses-blackrocks-bitcoin-etf-ibit-success-on-bloomberg\" rel=\"nofollow\"> </a></p> <p>BlackRock\u2019s Head of Digital Assets, Robert Mitchnick, explains the key factors driving the surge in Bitcoin ETFs.</p> <p>"
-    },
-    {
-      "title": "KULR Technology Group Announces $300 Million ATM Offering To Invest in Their Bitcoin Treasury",
-      "link": "https://bitcoinmagazine.com/news/kulr-technology-group-announces-300-million-atm-offering-to-invest-in-their-bitcoin-treasury",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KULR-Technology-Group-Announces-300-Million-ATM-Offering-To-Invest-in-Their-Bitcoin-Treasury.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-technology-group-announces-300-million-atm-offering-to-invest-in-their-bitcoin-treasury\" rel=\"nofollow\"> </a></p> <p>KULR entered a $300 million ATM offering to fund its Bitcoin treasury reserve, with Cantor Fitzgerald &#038; Co. and Craig-Hallum Capital Group LLC.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Crypto Market Structure Bill Passes One House Committee, But Faces Steep Climb in Another",
+      "link": "https://decrypt.co/324464/crypto-market-structure-clarity-act-passes-house-committee-faces-steep-climb",
+      "summary": "The crypto market structure bill needs to pass both the House Agriculture and Financial Services committees to reach a full floor vote."
+    },
+    {
+      "title": "What Is \u2018Bitcoin Miner\u2019? This Free iOS and Android Game Pays Real BTC",
+      "link": "https://decrypt.co/resources/what-is-bitcoin-miner-free-ios-android-game-pays-real-btc",
+      "summary": "Bitcoin Miner turns the crypto mining grind into a colorful mobile game, plus it pays you actual BTC for playing. Here\u2019s what you need to know."
+    },
     {
       "title": "AI Sparks Fear and 'Obsolescence' Among UK Film Industry",
       "link": "https://decrypt.co/324433/ai-fear-obsolescence-uk-film-industry",
@@ -149,19 +159,19 @@
       "title": "Ethereum Governance Tokens Spike as SEC Backs \u2018Innovation Exemption\u2019 for DeFi Projects",
       "link": "https://decrypt.co/324427/ethereum-governance-tokens-spike-as-sec-backs-innovation-exemption-for-defi-projects",
       "summary": "Uniswap, Aave, and Sky all started out as platforms on Ethereum."
-    },
-    {
-      "title": "Next-Gen Xbox Preview: Everything You Need to Know About the Console and Crypto Plans",
-      "link": "https://decrypt.co/198822/next-gen-xbox-everything-need-know-microsoft-leaks-rumors-news",
-      "summary": "UPDATE: While the next-gen Xbox is likely still years away, Microsoft has unveiled the first Xbox handheld. Here's what we know so far."
-    },
-    {
-      "title": "Bitcoin Core Devs Commit to Changing OP_RETURN Data Storage Limit By October",
-      "link": "https://decrypt.co/324424/bitcoin-core-devs-commit-to-changing-op_return-data-storage-limit-by-october",
-      "summary": "The controversial change expands data storage on Bitcoin to 4MB, a move that has stirred debate for months among its community."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Pro-Bitcoin Scott Bessent emerges as candidate for next Fed chair",
+      "link": "https://cryptobriefing.com/fed-chair-successor-bessent-powell/",
+      "summary": "<p>Bessent's potential Fed chair candidacy highlights a shift towards integrating cryptocurrency perspectives in U.S. monetary policy.</p> <p>"
+    },
+    {
+      "title": "Solana ETFs could be approved in 3-5 weeks, SEC signals openness to staking",
+      "link": "https://cryptobriefing.com/solana-etf-approval-potential-signals/",
+      "summary": "<p>The potential approval of Solana ETFs could significantly boost institutional investment in crypto, enhancing market legitimacy and innovation.</p> <p>"
+    },
     {
       "title": "Wall Street\u2019s Guggenheim Treasury brings its flagship tokenized debt instrument to XRP Ledger",
       "link": "https://cryptobriefing.com/guggenheim-treasury-launches-tokenized-commercial-paper-xrp-ledger/",
@@ -176,19 +186,14 @@
       "title": "French banking giant Soci\u00e9t\u00e9 G\u00e9n\u00e9rale confirms launch of new stablecoin on Ethereum and Solana",
       "link": "https://cryptobriefing.com/usd-coinvertible-launch-sg-forge/",
       "summary": "<p>Socit Gnrale's stablecoin launch signifies a pivotal shift in traditional banking towards embracing blockchain technology and digital finance.</p> <p>"
-    },
-    {
-      "title": "How UK crypto taxes work and what you need to know",
-      "link": "https://cryptobriefing.com/how-uk-crypto-taxes-work/",
-      "summary": "<p>The increasing scrutiny on crypto tax compliance in the UK highlights the need for investors to maintain accurate records and understand tax obligations.</p> <p>"
-    },
-    {
-      "title": "Did Paraguay just make Bitcoin legal tender? Suspected hack of president\u2019s X account sparks confusion",
-      "link": "https://cryptobriefing.com/paraguay-bitcoin-legal-tender-hack/",
-      "summary": "<p>The incident highlights the vulnerability of digital platforms in disseminating misinformation, potentially impacting national and global markets.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Uniswap: As UNI surges 14%, can it hold amid liquidity woes?",
+      "link": "https://ambcrypto.com/uniswap-as-uni-surges-14-can-it-hold-amid-liquidity-woes/",
+      "summary": "<img alt=\"Uniswap\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250610_102454_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Uniswap rebounds as holders surge, treasury strengthens, and derivatives traders stay bullish despite spot market pressure."
+    },
     {
       "title": "BlackRock\u2019s Bitcoin fund hits $70B faster than any ETF in history",
       "link": "https://ambcrypto.com/blackrocks-bitcoin-fund-hits-70b-faster-than-any-etf-in-history/",
@@ -208,11 +213,6 @@
       "title": "HYPE rockets 11% as Bitcoin climbs \u2013 But what happens if $40 fails again?",
       "link": "https://ambcrypto.com/hype-rockets-11-as-bitcoin-climbs-but-what-happens-if-40-fails-again/",
       "summary": "<img alt=\"HYPE rockets 11% as Bitcoin climbs - But what happens if $40 fails again?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-1-5.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />HYPE\u2019s rising fast - but is a shakeout next?"
-    },
-    {
-      "title": "Breaking down the CLARITY Act: What it means for crypto\u2019s future",
-      "link": "https://ambcrypto.com/breaking-down-the-clarity-act-what-it-means-for-cryptos-future/",
-      "summary": "<img alt=\"Breaking down the CLARITY Act: What it means for crypto&#039;s future\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-8-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The act aims to define U.S. crypto regulation, splitting oversight between SEC and CFTC."
     }
   ]
 }
