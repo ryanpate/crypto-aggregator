@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Riot Sells $1.58M of Bitfarms Shares as Part of Investment Review",
+      "link": "https://www.coindesk.com/business/2025/06/10/riot-sells-usd1-58m-of-bitfarms-shares-as-part-of-investment-review",
+      "summary": ""
+    },
+    {
       "title": "SocGen\u2019s Crypto Arm Unveils Dollar Stablecoin on Ethereum and Solana",
       "link": "https://www.coindesk.com/business/2025/06/10/socgen-s-crypto-arm-unveils-dollar-stablecoin-on-ethereum-and-solana",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Aptos' APT Gains 4% on Significant Volume, Has More Potential Upside",
       "link": "https://www.coindesk.com/markets/2025/06/09/aptos-apt-gains-4-on-significant-volume-has-more-potential-upside",
       "summary": ""
-    },
-    {
-      "title": "Trump Media and Semler Scientific Could Be Cheapest Bitcoin Treasury Companies by This Metric",
-      "link": "https://www.coindesk.com/markets/2025/06/09/trump-media-and-semler-scientific-could-be-cheapest-bitcoin-treasury-companies-by-this-metric",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Why is the crypto market up today?",
+      "link": "https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvYTYzMzIzMGQtM2Y5YS00NzQ5LThiYWItMDE3YzRiOTQzNWEw.jpg\" /></p><p>The crypto market is up today, reflecting investors' optimism for a possible continued rally amid increasing institutional demand for cryptocurrency investment products.</p>"
+    },
     {
       "title": "Trump\u2019s CFTC pick calls blockchain a society-shaping technology",
       "link": "https://cointelegraph.com/news/trump-cftc-pick-quintenz-blockchain-impact-society?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "Ripple commits $5M more toward crypto research in APAC",
       "link": "https://cointelegraph.com/news/ripple-commits-5-million-crypto-research-apac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU3ZjQtNGYwOS03ODM3LWFmNDctMjUyNTVkYzExOWQ4.jpg\" /></p><p>The funds are on top of the $25 million that Ripple committed last month to education nonprofit organizations in the US.</p>"
-    },
-    {
-      "title": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale launches US dollar stablecoin on Ethereum and Solana",
-      "link": "https://cointelegraph.com/news/societe-generale-forge-to-launch-a-usd-denominated-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU4N2YtY2M3Yi03MjhhLThhNjMtNDM2MjNjNjM0YzJj.jpg\" /></p><p>Soci\u00e9t\u00e9 G\u00e9n\u00e9rale\u2019s crypto arm launches its USDCV stablecoin on Ethereum and Solana, with BNY as custodian and a global rollout aimed at trading and settlement.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Average US house prices fall 99% in a decade when priced in Bitcoin",
+      "link": "https://cryptoslate.com/average-us-house-prices-fall-99-in-a-decade-when-priced-in-bitcoin/",
+      "summary": "<p>Two new Coinbase ads recently hit U.S. screens, reviving crypto\u2019s populist pitch at a time when inflation is stubborn, Bitcoin is soaring, and Americans are once again talking about \u201cbuilding.\u201d One spot reframes Bitcoin as \u201cmoney from the future,\u201d while another shows how a U.S. home\u2019s price has dropped from 30,000 BTC to just 5 [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Ripple partners with APAC universities in AI and decentralized systems with $5 million funding",
+      "link": "https://cryptoslate.com/ripple-partners-with-apac-universities-in-ai-and-decentralized-systems-with-5-million-funding/",
+      "summary": "<p>Ripple is scaling up its global blockchain education efforts with a fresh commitment of more than $5 million in funding to universities across the Asia-Pacific (APAC) region, according to a June 10 statement. The crypto payment company stated that the investment will be channeled through Ripple&#8217;s University Blockchain Research Initiative (UBRI), targeting institutions in South [&#8230;]</p> <p>"
+    },
     {
       "title": "SocGen doubles down on stablecoins with USD launch and BNY custody",
       "link": "https://cryptoslate.com/socgen-doubles-down-on-stablecoins-with-usd-launch-and-bny-custody/",
@@ -68,19 +78,19 @@
       "title": "Bitcoin climbs back to $110k amid sustained corporate, institutional interest",
       "link": "https://cryptoslate.com/bitcoin-climbs-back-to-110k-amid-sustained-corporate-institutional-interest/",
       "summary": "<p>Bitcoin (BTC) rebounded above $110,000 on June 9, regaining ground lost in last week\u2019s selloff as investors rotated back into digital assets on the back of strong ETF inflows, easing macroeconomic tensions, and renewed optimism across risk markets. The world\u2019s largest crypto reached an intraday high of $110,653 from a daily low of $105,426 earlier [&#8230;]</p> <p>"
-    },
-    {
-      "title": "ProShares, Bitwise race to launch CRCL ETFs, targeting August debut amid stock price surge",
-      "link": "https://cryptoslate.com/proshares-bitwise-race-to-launch-crcl-etfs-targeting-august-debut-amid-stock-price-surge/",
-      "summary": "<p>ProShares Trust and Bitwise each filed preliminary prospectuses with the Securities and Exchange Commission (SEC) on June 6 for exchange-traded funds (ETF) designed to track Circle\u2019s CRCL shares. The ProShares Ultra CRCL ETF is a 2x leveraged product that seeks to deliver twice the daily move in CRCL by utilizing swaps and other derivatives, as [&#8230;]</p> <p>"
-    },
-    {
-      "title": "BiT Global drops Coinbase lawsuit over wrapped Bitcoin delisting",
-      "link": "https://cryptoslate.com/bit-global-drops-coinbase-lawsuit-over-wrapped-bitcoin-delisting/",
-      "summary": "<p>BiT Global, a crypto custody firm tied to entrepreneur Justin Sun, has voluntarily dismissed its lawsuit against Coinbase over the delisting of Wrapped Bitcoin (WBTC). The move ends a months-long legal dispute that spotlighted growing tensions between centralized exchanges and token custodians as control over key infrastructure becomes increasingly contested. Filed on June 6 in [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Solana Triangle Formation Breakout Targets Rally To $164 \u2013 Is A Recovery Around The Corner?",
+      "link": "https://www.newsbtc.com/news/solana-triangle-formation-breakout-targets-rally-to-164-is-a-recovery-around-the-corner/",
+      "summary": "Solana (SOL) has recovered from the recent market pullback after bouncing from its local bottom. Amid its recent breakout from a bullish formation, some market watchers suggest that the cryptocurrency could recover its start-of-year glory. Related Reading: Bitcoin Weekly Chart Flexes Strength\u2014Is The Moonshot Just Getting Started? Solana Breakout Eyes $164 Solana is recording a 2.45% surge in the weekly timeframe after recovering from its recent drop to the $140 area. The altcoin has seen a significant recovery from its multi-month downtrend, which led the token to hit a 14-month low of $95 during the early April retraces. However, SOL lost the $160 area amid the recent market corrections, dipping 11% in one week. Over the weekend, its price bounced nearly 10%, reclaiming the $150 level as support and forming an ascending triangle pattern. Crypto analyst Ali Martinez highlighted the 3-day formation in Solana\u2019s chart, suggesting a potential 6% jump to its recently lost support level. According to"
+    },
+    {
+      "title": "Bitcoin Skyrockets Past $108,000 Amid US-China Tariff Discussions",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-skyrockets-past-108000-amid-us-china-tariff-discussions/",
+      "summary": "The market\u2019s leading cryptocurrency, Bitcoin (BTC), experienced a notable spike on Monday, surging past the $108,000 mark after a period of consolidation between $100,000 and $106,000 for the past week. This surge comes as key officials from the United States and China prepare for critical trade negotiations in London, aimed at addressing ongoing tensions and salvaging \u201ca fragile trade agreement.\u201d US-China Trade Talks Spark Investor Optimism The cryptocurrency gained 2% on Monday, briefly touching a peak of $108,900 before settling back slightly. This uptick reflects growing investor optimism regarding the potential resolution of trade disputes between the US and China, one of its largest trading partners. Treasury Secretary Scott Bessent and China\u2019s Vice Premier for Economic Policy, He Lifeng, are set to lead their respective delegations in discussions that began Monday and are expected to continue into Tuesday, as reported by Fortune. Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric These negotiations are part of President Donald Trump\u2019s broader strategy to compel US trading partners to meet various demands, often through the threat of imposing significant tariffs on imports. Following the announcement of a sweeping tariff policy in April, which impacted nearly all American trading partners, Trump authorized a 90-day pause for negotiations. However, this pause did not apply to tariffs on China, which were escalated to 145%. Trade Talks Resuming As Bitcoin Prices Rise The heightened tensions between the two nations had previously led to a significant drop in Bitcoin\u2019s value, reaching a yearly low of $75,000 as fears of a trade war drove investors away from American markets. However, optimism returned following a summit in Geneva last month, where Trump announced a temporary agreement that would lower tariffs and facilitate further discussions. In the wake of this news, Bitcoin surged to an all-time high of $111,800 on May 22. Yet, the truce was short-lived. Trump claimed that China had violated the agreement over a dispute regarding exports of rare earth magnets. On May 30, he expressed his frustrations on Truth Social, stating, \u201cChina, perhaps not surprisingly to some, HAS TOTALLY VIOLATED ITS AGREEMENT WITH US. So much for being Mr. NICE GUY!\u201d In an urgent attempt to salvage the deteriorating trade deal, Trump and Chinese President Xi Jinping held a phone call last week, their first in months. Following this 90-minute conversation, it was announced that senior officials from both countries would meet in London this week to resume negotiations. In addition to trade-related factors, Bitcoin&#8217;s recent price surge may also be influenced by increased activity in the cryptocurrency initial public offering (IPO) market. Wave Of Crypto IPO Activity Last week, the stablecoin giant Circle made its public debut on the New York Stock Exchange (NYSE), with its shares soaring by over 168%, jumping from an initial price of $31 to $69 on the first day of trading. Additionally, Gemini, the cryptocurrency exchange founded by the Winklevoss twins, filed for an initial public offering, further demonstrating the crypto industry&#8217;s growing connection to traditional finance. Related Reading: Dogecoin Is Going To $1 With The \u2018Next Impulse\u2019, Analyst Predicts \u201cWhile the IPO excitement may be short-lived, the long-term positioning of institutional investors suggests a bullish outlook for Bitcoin\u2019s performance through 2025,\u201d remarked David Siemer, CEO of Wave Digital Assets, in an interview with Fortune. When writing, BTC trades at $108,670, recording gains of 6% in the monthly time frame, little over 2.7% from its record high of $111,8000 reached in May. Featured image from DALL-E, chart from TradingView.com"
+    },
     {
       "title": "Solana Listed on Nasdaq as Solaxy, the First SOL Layer-2, Raises $46M",
       "link": "https://www.newsbtc.com/news/solana-listed-on-nasdaq-as-solaxy-the-first-sol-layer-2-raises-46m/",
@@ -95,16 +105,6 @@
       "title": "Ethereum\u2019s Realized Price Hints at a Market Reset, What Traders Should Know",
       "link": "https://www.newsbtc.com/bitcoin-news/ethereums-realized-price-hints-at-a-market-reset-what-traders-should-know/",
       "summary": "Ethereum has shown signs of regaining momentum after a recent period of decline. The asset is currently trading at approximately $2,540, reflecting a modest 1% daily increase. This upward move follows a notable dip to the $2,400 range last week, marking what appears to be a short-term rebound from recent bearish pressure. While price fluctuations continue, on-chain analysts closely monitor Ethereum\u2019s market structure through various metrics that provide historical context and potential forecasting value. Recent insights from a CryptoQuant analyst have focused on how ETH\u2019s long-term behavior aligns with certain key indicators, which may help define price floors and signal overheated market conditions. Related Reading: Bitcoin And Ethereum Defend Key Moving Averages \u2013 Bullish Signal Or Temporary Relief? Assessing Ethereum Price Floors Using On-Chain Data One of CryptoQuant\u2019s analysts, writing under the name CryptoOnchain, shared a breakdown of Ethereum\u2019s potential \u201cprice floors\u201d using a composite of on-chain and market metrics. These floors represent statistical thresholds that have historically acted as support zones during market corrections. Among them is the realized price, which measures the average value at which all circulating ETH last moved on-chain. This metric is often used as a sentiment gauge to track when market participants are in profit or loss. Another benchmark, the mean_price_classic, reflects the average daily closing price of ETH since inception and serves as a cumulative market average. It is used in conjunction with the delta_price_classic, a figure derived from the difference between Ethereum\u2019s realized capitalization and its historical average cap, adjusted for supply. According to the analyst, this delta price is frequently cited in Bitcoin analytics to highlight undervalued zones, and its adaptation for Ethereum provides a comparable lens for identifying periods when the market may be at or near a floor. Tracking Market Tops and Potential Resistance Zones In a separate analysis report, CryptoOnchain highlighted tools for identifying potential market tops. The indicators outlined include the realized_price_x2 and realized_price_x3, which are calculated by multiplying Ethereum\u2019s realized price by two and three, respectively. Historically, these levels have coincided with overheated phases of the market, where prices reached temporary peaks before correcting. Related Reading: Ethereum Consolidates Below $2,800 \u2013 Bulls Need This Level To Trigger Next Leg Up Another tool, the price_top_stddev, incorporates volatility into the analysis by adding two times the historical standard deviation of ETH\u2019s closing price to the realized price. This combination serves as a marker of statistically elevated prices, often aligning with periods of heightened euphoria and speculative activity. CryptoOnchain suggests that monitoring these zones can assist traders in managing risk during extended rallies, as these resistance levels have previously preceded major cycle reversals. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "Bitcoin On-Chain Warning: Short-Term Holder Selling Accelerates Amid Price Correction",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-on-chain-warning-short-term-holder-selling-accelerates-amid-price-correction/",
-      "summary": "As Bitcoin (BTC) came close to slumping below the psychologically important $100,000 mark last week, the short-term holders (STH) cohort started to show signs of weakening conviction in the leading cryptocurrency, raising fears of a deeper price correction. Bitcoin STH Fear Resurfaces According to a recent CryptoQuant Quicktake post by contributor Darkfost, Bitcoin STH\u2019s net position has turned sharply negative over the past month. This has happened despite BTC holding above the $100,000 level. For the uninitiated, Bitcoin STH are investors who have held their BTC for less than 155 days. They are generally more reactive to price volatility and market sentiment, often selling during corrections or uncertainty. Specifically, a cumulative net position change of -833,000 BTC has been recorded among short-term holders during the ongoing pullback. By comparison, the April crash saw a net position change of around -977,000 BTC. Related Reading: Bitcoin Signals Strength As Long-Term Holder Realized Cap Surges Past $20 Billion \u2013 Details Darkfost noted that current STH behavior closely resembles the activity observed during BTC\u2019s brief drop below $80,000 in April 2025, when the digital asset bottomed out at $74,508. The analyst wrote: Since then, STH appear to have become much more sensitive to market movements, and the recent dip around the $100,000 mark was enough to trigger renewed fear among this group of investors. BTC Showing Signs of Reversal Although BTC lost momentum after reaching its latest all-time high (ATH) of $111,814, the leading cryptocurrency regained strength over the weekend &#8211; indicating a possible reversal may be underway. Related Reading: Bitcoin Derivatives Reset: Neutral Funding And Whale Withdrawals Hint At Bullish Shift For example, seasoned crypto analyst Ali Martinez noted that BTC has broken through the key resistance level at $106,600. In a recent X post, Martinez predicted that Bitcoin could rally to $108,300 or even $110,000 if current momentum continues. In a separate X post, fellow crypto analyst Rekt Capital shared the following Bitcoin daily chart, noting that the cryptocurrency not only broke out of its two-week downtrend &#8211; highlighted in light blue &#8211; but may now be turning that former resistance into a new support level. Meanwhile, several technical indicators also point to continued bullish momentum. Notably, Bitcoin\u2019s Hash Ribbons have recently flashed a prime buying signal. Additionally, on-chain data suggests that BTC could experience a sharp upward move in the short term, potentially driven by a negative funding rate on Binance. A prolonged period of negative funding rates often sets the stage for a short squeeze. Despite the bullish outlook, some red flags remain. Recent data shows that long-term holders are gradually exiting the market, while an influx of retail investors could add volatility to the current rally. At press time, BTC trades at $107,627, up 1.9% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant, X, and TradingView.com"
-    },
-    {
-      "title": "On-Chain Data Flashes Bullish: Is Bitcoin Ready for a $110K Comeback?",
-      "link": "https://www.newsbtc.com/bitcoin-news/on-chain-data-flashes-bullish-is-bitcoin-ready-for-a-110k-comeback/",
-      "summary": "Bitcoin has resumed its upward trajectory, registering a modest 1.6% gain over the last 24 hours to trade at $107,428. The recovery comes after last week\u2019s dip toward $100,000 levels, which had been triggered by market-wide volatility and profit-taking. While BTC remains approximately 4.2% below its all-time high of $111,000 reached last month, the weekly trend still reflects a 3.3% increase, suggesting buyers are gradually regaining confidence. This market behavior is mirrored in a set of on-chain indicators recently analyzed by CryptoQuant contributor Amr Taha. Related Reading: Bitcoin And Ethereum Defend Key Moving Averages \u2013 Bullish Signal Or Temporary Relief? Bitcoin On-Chain Metrics Reflect Accumulation Behavior In Taha&#8217;s analysis titled \u201cOn-Chain Data Hints at Bitcoin\u2019s Next Leg Higher,\u201d Taha examined several metrics that point to a potential continuation of the rally. These include the Binance Taker Buy/Sell Ratio, UTXO age bands, and the Long-Term Holder (LTH) realized cap. All three suggest that market participants are actively accumulating and that underlying sentiment is shifting toward renewed bullishness. One of the primary indicators Taha focused on is Binance\u2019s Taker Buy/Sell Ratio, which has recently climbed to 1.1. This metric evaluates the volume of aggressive market buys versus market sells on the Binance exchange. A ratio above 1 typically implies that more participants are willing to pay the market price to buy than to sell, indicating stronger buyer conviction. According to Taha, such shifts historically precede continued price increases when supported by volume. Another key metric showing strength is the Buy/Sell Pressure Delta over the last 90 days. This indicator tracks the net difference between buying and selling pressure and is now halfway to its historical peak at 0.02. Taha explains that this suggests a market not yet overheated, with room for further accumulation. Combined with recent breakout behavior above the 1D\u20131W UTXO band, representing recently transacted coins, this hints that many new holders are currently in profit and choosing to hold rather than sell. LTH Conviction and Stablecoin Inflows Reinforce Bullish Case Taha also noted the Long-Term Holder (LTH) Realized Cap has now surpassed $56 billion, reflecting strong hands holding a larger share of Bitcoin supply. These coins have not moved in over 155 days and are considered to represent investors with higher conviction. The increase in this metric implies that fewer coins are being sold into the market, a signal that many investors are expecting higher valuations in the coming weeks or months. Related Reading: Bitcoin Leveraged Traders Are Back Betting On A Price Decline \u2014 What This Means In addition, more than $550 million in stablecoins have reportedly flowed into Binance in recent hours. Historically, such inflows to spot exchanges, as opposed to derivatives platforms, often suggest readiness to deploy capital for direct asset purchases. Notably, all of these indicators can be seen as a leading signal of potential volatility or buying pressure. If this pattern holds, Bitcoin\u2019s short-term price activity may benefit from continued accumulation and institutional positioning. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,21 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Is Solana\u2019s $10B liquidity drain a sign of trouble for SOL?",
+      "link": "https://ambcrypto.com/is-solanas-10b-liquidity-drain-a-sign-of-trouble-for-sol/",
+      "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-10.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL moves fast, but in a desert of liquidity, every step risks collapse."
+    },
+    {
+      "title": "SUI surges 6% after key breakout \u2013 $4 on the cards",
+      "link": "https://ambcrypto.com/sui-surges-6-after-key-breakout-4-on-the-cards/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_40_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SUI breaks bullish flag resistance as buyers dominate, aiming for $4 despite cooling spot volume."
+    },
+    {
+      "title": "Traditional Southeast Asian enterprises adopt web3 technologies for strategic transformation",
+      "link": "https://ambcrypto.com/traditional-southeast-asian-enterprises-adopt-web3-technologies-for-strategic-transformation/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"434\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-144747.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"755\" />Vietnam\u2019s SSI Digital (SSID), the technology arm of SSI Securities Corporation, has announced the launch [&#8230;]"
+    },
+    {
       "title": "Decoding XRP\u2019s rise: LTHs hold tight, all eyes on THIS price level!",
       "link": "https://ambcrypto.com/decoding-xrps-climb-lths-hold-tight-all-eyes-on-this-price-level/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-7-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />LTHs are accumulating, and Funding Rates have been consistently positive recently."
@@ -198,21 +213,6 @@
       "title": "All about Solana\u2019s 8.5% rally after $143 retest- Time for a major recovery?",
       "link": "https://ambcrypto.com/all-about-solanas-8-5-rally-after-143-retest-time-for-a-major-recovery/",
       "summary": "<img alt=\"Solana Sees 8.5% Rally After $143 Retest- Is It Time for a Larger Recovery?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Solana-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana\u2019s short-term rally might face obstacles as weak volume hinted at uncertainty."
-    },
-    {
-      "title": "Michael Saylor downplays quantum computing\u2019s threat to Bitcoin \u2013 \u2018Not worried\u2019",
-      "link": "https://ambcrypto.com/michael-saylor-downplays-quantum-computings-threat-to-bitcoin-not-worried/",
-      "summary": "<img alt=\"Michael Saylor downplays quantum computing&#039;s threat to Bitcoin - \u2018Not worried\u2019\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Michael-Saylor-quantum.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Saylor dismissed quantum computing risk as an immediate concern."
-    },
-    {
-      "title": "Ethereum holds steady at $2.5K as institutional giants quietly load up on ETH",
-      "link": "https://ambcrypto.com/ethereum-holds-steady-at-2-5k-as-institutional-giants-quietly-load-up-on-eth/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ethereum-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Slowdown in Ethereum\u2019s spot ETF netflows may be temporary."
-    },
-    {
-      "title": "XRP sees signs of accumulation, but will it be enough to breach $2.3?",
-      "link": "https://ambcrypto.com/xrp-sees-signs-of-accumulation-but-will-it-be-enough-to-breach-2-3/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/XRP-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Spot buyers had the upper hand, but this might not be enough to prevent a short-term XRP price dip."
     }
   ]
 }
