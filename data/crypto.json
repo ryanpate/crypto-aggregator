@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "South Korea's Ruling Party Wants to Allow Companies to Issue Stablecoins: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2025/06/10/south-koreas-ruling-party-wants-to-allow-companies-to-issue-stablecoins-bloomberg",
+      "summary": ""
+    },
+    {
+      "title": "Growing Stacks of Bitcoin Long-Term Holders Signals Bullish Outlook",
+      "link": "https://www.coindesk.com/markets/2025/06/10/growing-stacks-of-bitcoin-long-term-holders-signals-bullish-outlook",
+      "summary": ""
+    },
+    {
       "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Surges 21.6% as Index Climbs Higher",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/10/coindesk-20-performance-update-uniswap-uni-surges-21-6-as-index-climbs-higher",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Blockchain Initiatives Have Been Adopted by 60% of Fortune 500 Companies: Coinbase Survey",
       "link": "https://www.coindesk.com/markets/2025/06/10/blockchain-initiatives-have-been-adopted-by-60-of-fortune-500-companies-coinbase-survey",
       "summary": ""
-    },
-    {
-      "title": "Ethereum Advocate William Mougayar to Lead Ecosystem's New Profile-Raising Initiative",
-      "link": "https://www.coindesk.com/business/2025/06/10/ethereum-market-research-centre-introduced-by-eth-o-g-william-mougayar",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Core 30 to Increase OP_RETURN Data Limit After Developer Debate Concludes",
-      "link": "https://www.coindesk.com/tech/2025/06/10/bitcoin-core-30-to-increase-op_return-data-limit-after-developer-debate-concludes",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "The NFT market is silently becoming infrastructure",
+      "link": "https://cointelegraph.com/news/nft-becoming-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzExNmYtYTNlZC03MzQwLTgwOTUtYmM5MTNjZWVhODZl.jpg\" /></p><p>While headlines proclaim the NFT market\u2019s demise, NFTs are quietly shifting from speculative assets to essential digital infrastructure. NFTs are moving beyond speculation to underpin gaming, AI and Web3.</p>"
+    },
+    {
+      "title": "How hackers use fake X links to steal crypto, and how to spot them",
+      "link": "https://cointelegraph.com/explained/how-hackers-use-fake-x-links-to-steal-crypto-and-how-to-spot-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYjUyODJkNmE5MDMzODMwMGNlYzVkM2EyYzI3MDRiYy5qcGc=.jpg\" /></p><p>Cybercriminals hijack or impersonate trusted X accounts to post phishing links that lead users to fake sites or malicious smart contracts designed to steal crypto.</p>"
+    },
+    {
+      "title": "1inch promises faster, smarter, cheaper trades with new upgrade",
+      "link": "https://cointelegraph.com/news/1-inch-promises-faster-smarter-cheaper-trades-with-new-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjVjMWQtN2E4ZS03ZWE5LWIyZmUtYTQ4N2IxYTQwNzll.jpg\" /></p><p>Decentralized exchange aggregator 1inch claims up to 6.5% better swap rates after its latest update.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "Stablecoins may be safer than bank deposits: Proof of Talk panel",
       "link": "https://cointelegraph.com/news/stablecoins-may-be-safer-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3NGYtMjEyYy03MDU3LTkxNWMtZDliOGI5M2U5N2Zk.jpg\" /></p><p>Haun Ventures general partner Diogo Monica claims that stablecoins are safer than commercial bank deposits, but critics warn of transparency issues with issuers like Tether.</p>"
-    },
-    {
-      "title": "Meta\u2019s Bitcoin rejection means Big Tech is still skeptical",
-      "link": "https://cointelegraph.com/news/meta-bitcoin-big-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5ZjUtZmYxMy03ZGZiLTg5YzktN2FkZjI0ZDFiMWFm.jpg\" /></p><p>The case for holding Bitcoin on a firm\u2019s balance sheet is compelling, CoinShares\u2019 Butterfill told , and \u201cthe pace of adoption is accelerating.\u201d</p>"
-    },
-    {
-      "title": "How to report a Bitcoin scam using Chainabuse and Scamwatch",
-      "link": "https://cointelegraph.com/news/how-to-use-chainabuse-and-scamwatch-to-report-a-bitcoin-scammer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNiM2QtYzcxNy03OTEyLTk5NzMtNTE4MDAzOTkzOGI3.jpg\" /></p><p>Got scammed or worried about Bitcoin fraud? Learn how sharing your story with Chainabuse and Scamwatch can help protect you and others from falling victim.</p>"
-    },
-    {
-      "title": "Trump-backed American Bitcoin accumulates 215 BTC since April launch",
-      "link": "https://cointelegraph.com/news/eric-trumps-american-bitcoin-hits-215-btc-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYzMzYtMWNlZi03ZDI2LTllNTItNzY3YjhjNTA0ODJi.jpg\" /></p><p>American Bitcoin, backed by Eric Trump and Donald Trump Jr., has quietly amassed over $23 million in BTC while preparing to go public via a Gryphon merger.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "80% of CME crypto futures expire by August",
+      "link": "https://cryptoslate.com/80-of-cme-crypto-futures-expire-by-august/",
+      "summary": "<p>CME\u2019s Bitcoin futures and options structure has become increasingly condensed and cautious, with the vast majority of notional exposure now expiring within the next four weeks. At the same time, the annualized basis curve has flattened to its narrowest level since April, offering minimal incentive for arbitrage-driven carry trades and limited insight into longer-term market [&#8230;]</p> <p>"
+    },
     {
       "title": "Cardano launches Cardinal to fuse Bitcoin liquidity with DeFi ecosystem",
       "link": "https://cryptoslate.com/cardano-launches-cardinal-to-fuse-bitcoin-liquidity-with-defi-ecosystem/",
@@ -73,14 +78,14 @@
       "title": "World Liberty Financial taps Aave for $7.5 million USDT loan \u2013 Onchain Lens",
       "link": "https://cryptoslate.com/world-liberty-financial-taps-aave-for-7-5-million-usdt-loan-onchain-lens/",
       "summary": "<p>World Liberty Financial (WLFI), a DeFi venture linked to US President Donald Trump, has drawn a $7.5 million USDT loan through the Aave lending platform. On June 10, blockchain analytics firm Onchain Lens reported that WLFI supplied assets worth more than $52 million to Aave. This included 7,900 Ethereum (ETH) valued at $21 million, 162.69 [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Average US house prices fall 99% in a decade when priced in Bitcoin",
-      "link": "https://cryptoslate.com/average-us-house-prices-fall-99-in-a-decade-when-priced-in-bitcoin/",
-      "summary": "<p>Two new Coinbase ads recently hit U.S. screens, reviving crypto\u2019s populist pitch at a time when inflation is stubborn, Bitcoin is soaring, and Americans are once again talking about \u201cbuilding.\u201d One spot reframes Bitcoin as \u201cmoney from the future,\u201d while another shows how a U.S. home\u2019s price has dropped from 30,000 BTC to just 5 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Price Eyes 38% Jump To $3,500 As 50EMA Swims Into View",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-price-eyes-38-jump/",
+      "summary": "Crypto analyst Crypto Bullet has raised the possibility of the Ethereum price surging by 38% soon. He alluded to the 50EMA as the only thing holding ETH from witnessing this price surge, but suggested that it could change soon with a breakout on the horizon. Ethereum Price Eyes 38% Jump To $3,500 In an X post, Crypto Bullet predicted that the Ethereum price could record a 38% surge to $3,500. This came following as he highlighted the ongoing battle between ETH and the 50EMA, noting that this indicator was the only thing holding the altcoin back from a parabolic surge. The analyst added that on average, a breakout results in a 38% pump, which puts Ethereum exactly at $3,500. Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric As reported, Crypto Bullet also recently predicted that the Ethereum price could rally to $3,300 as a Morningstar Candle pattern formed. Back then, he noted that ETH was facing tough resistance at $2,500 but affirmed that the resistance would be broken in due time. He indicated that a breakout from that resistance will usher in the rally to $3,300. The Ethereum price has now broken above the $2,500 resistance, which provides a bullish outlook for the largest altcoin by market cap. Based on Crypto Bullet\u2019s prediction, a rally to $3,300 may already be underway, which could then lead ETH to the $3,500 target. In a more recent X post, the crypto analyst commented on the recent break above $2,500. He stated that the Ethereum price is now trying to break the 200-day MA, which is between $3,000 and $3,300, for the fifth time. He indicated that a breakout above the range is likely to happen on this fifth attempt. His accompanying showed that ETH could rally to the $4,000 level if a successful breakout occurs. ETH About To Begin A New Bull Run Crypto analyst Trader Tardigrade predicted that another bull run is about to start for the Ethereum price. He noted that ETH\u2019s daily candle closed above the resistance level at $2,650 yesterday and also opened above this resistance level today. The analyst added that ETH is now moving above it, which signals the start of a new bull run. Related Reading: FTX Repayments About To Dump $5B On The Market, How Will Bitcoin And Ethereum React? His accompanying chart showed that the Ethereum price is breaking out of an ascending triangle, which could send the altcoin above the psychological $3,000 level. Crypto analyst Mikybull Crypto also declared that Ethereum\u2019s breakout will be huge, with ETH still maintaining its current range between $2,400 and $2,600. At the time of writing, the Ethereum price is trading at around $2,670, up over 7% in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "Bitcoin\u2019s $110K Sprint Coincides With Record-Low Exchange Reserves",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoins-110k-sprint-coincides-with-record-low-exchange-reserves/",
@@ -100,11 +105,6 @@
       "title": "Why The Bitcoin Price Could See Another 70%-170% Jump From Here",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-70-170-jump/",
       "summary": "The Bitcoin price is still holding above $100,000 despite suffering a crash right before the weekend. It has since bounced back from the $104,000 level, suggesting that bulls are making their stand at this major psychological level. Now, with the crypto market sitting at what looks to be a critical point, questions are arising about what the next step could be from here. Can Bitcoin still rally, or is this the end of a rather short and underwhelming bull market? Bitcoin Price Still Has A Long Way To Go Crypto analyst Doctor Profit has been a vocal voice when it comes to the bullishness of the Bitcoin price. He has continued to call for higher prices even at a time when the wider community is expecting the cryptocurrency to keep falling from here. In fact, the crypto analyst believes that the leading crypto could see its price double from here, despite already hitting multiple new all-time highs. Related Reading: Ethereum Head &#38; Shoulders Pattern Breakdown: Can Bulls Reclaim Control? In a post on X, Doctor Profit explained the reasoning behind this and why he believes that the Bitcoin price still has room to run. The first thing he pointed to was the fact that a rare Golden Cross had appeared on the Bitcoin price chart. This happened three weeks ago, and back then, the analyst called out the chart formation, explaining that this meant that the bull run was not over. This is because every time Bitcoin had flashed a Golden Cross in the past, it had been the start of another massive run. Just like now, it is first followed by a 10% decline in price, which was achieved when Bitcoin fell from $111,900 to $100,000. Now that the first part of the trend seems to have been fulfilled, expectations are that the other parts will play out similarly. In addition to this, he explains that Bitcoin has also formed its diagonal resistance, which it is now looking to break out from. A successful break would put it back above $108,000 as it gears up for the next leg-up. Macro Factors That Support The Thesis Not only does the chart technicals show this possible recovery, but the upcoming Consumer Price Index (CPI) data, expected to be released on Wednesday, plays into this as well. Doctor Profit explains that Wall Street is already expecting the CPI to come in at 2.5%, a rather high number. Related Reading: Dogecoin\u2019s Growth Pattern Hints At Massive June\u2013July Rally After 5-Month Pullback Instead, he believes that the CPI will come in lower, putting it between 2.1% and 2.3%. A lower figure would mean that there is a slowdown in inflation, allowing room for more risk-taking and pushing markets such as stocks and crypto higher. Also, there is the matter of the negative funding rate, which suggests that there are more shorters in the market right now, expecting the price to tank. Data from Coinglass shows the Bitcoin funding rate has dropped to one of the lowest levels this year, and the analyst says this is a sign of a healthy market. \u201cOverall, I see a strong trend and markets will continue to rise with first targets between 108-110k, and this is by far not the end,\u201d Doctor Profit said. \u201cThe golden cross is promising us between 70-170% in gains in the coming months!\u201d Featured image from Dall.E, chart from TradingView.com"
-    },
-    {
-      "title": "Solana Triangle Formation Breakout Targets Rally To $164 \u2013 Is A Recovery Around The Corner?",
-      "link": "https://www.newsbtc.com/news/solana-triangle-formation-breakout-targets-rally-to-164-is-a-recovery-around-the-corner/",
-      "summary": "Solana (SOL) has recovered from the recent market pullback after bouncing from its local bottom. Amid its recent breakout from a bullish formation, some market watchers suggest that the cryptocurrency could recover its start-of-year glory. Related Reading: Bitcoin Weekly Chart Flexes Strength\u2014Is The Moonshot Just Getting Started? Solana Breakout Eyes $164 Solana is recording a 2.45% surge in the weekly timeframe after recovering from its recent drop to the $140 area. The altcoin has seen a significant recovery from its multi-month downtrend, which led the token to hit a 14-month low of $95 during the early April retraces. However, SOL lost the $160 area amid the recent market corrections, dipping 11% in one week. Over the weekend, its price bounced nearly 10%, reclaiming the $150 level as support and forming an ascending triangle pattern. Crypto analyst Ali Martinez highlighted the 3-day formation in Solana\u2019s chart, suggesting a potential 6% jump to its recently lost support level. According to"
     }
   ],
   "Bitcoin Magazine": [
@@ -156,7 +156,7 @@
       "summary": "The 78-year-old bank said that stablecoins could now be used to purchase or redeem tokenized securities, too."
     },
     {
-      "title": "Feds Charge Crypto Founder With Evading U.S. Sanctions, Laundering $500M",
+      "title": "Feds Charge Crypto Founder With Evading US Sanctions, Laundering $500M",
       "link": "https://decrypt.co/324391/feds-charge-crypto-founder-with-evading-u-s-sanctions-laundering-500m",
       "summary": "Evita Pay founder Iurii Gugnin is accused of turning his crypto firms into a \"covert pipeline\" for sanctioned Russian entities."
     }
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Breaking down the CLARITY Act: What it means for crypto\u2019s future",
+      "link": "https://ambcrypto.com/breaking-down-the-clarity-act-what-it-means-for-cryptos-future/",
+      "summary": "<img alt=\"Breaking down the CLARITY Act: What it means for crypto&#039;s future\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-8-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The act aims to define U.S. crypto regulation, splitting oversight between SEC and CFTC."
+    },
+    {
       "title": "FARTCOIN surges 20% in 24 hours \u2013 $1.46 or $1.08, what\u2019s next?",
       "link": "https://ambcrypto.com/fartcoin-surges-20-in-24-hours-1-46-or-1-08-whats-next/",
       "summary": "<img alt=\"Fartcoin surges 20% in 24 hours - $1.46 or $1.08, what&#039;s next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-12.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN surged 20.29% over the past day amid surging demand for memecoins."
@@ -208,11 +213,6 @@
       "title": "Ethereum\u2019s stablecoin lead at risk? \u2013 Tether and Circle\u2019s moves raise concerns",
       "link": "https://ambcrypto.com/ethereums-stablecoin-lead-at-risk-tether-and-circles-moves-raise-concerns/",
       "summary": "<img alt=\"Stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Stablecoinwars.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Stablecoin sector has grown 4,600% from $5B to over $240B in the past five years."
-    },
-    {
-      "title": "Bitcoin price volatility ahead? \u2013 Signals you should watch at $109K",
-      "link": "https://ambcrypto.com/bitcoin-price-volatility-ahead-the-signals-you-should-watch-at-109k/",
-      "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-93-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s bullish momentum persists, but rising risk signals suggest a possible shift toward distribution."
     }
   ]
 }
