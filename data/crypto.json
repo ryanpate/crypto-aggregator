@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Surges 21.6% as Index Climbs Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/10/coindesk-20-performance-update-uniswap-uni-surges-21-6-as-index-climbs-higher",
+      "summary": ""
+    },
+    {
+      "title": "Blockchain Initiatives Have Been Adopted by 60% of Fortune 500 Companies: Coinbase Survey",
+      "link": "https://www.coindesk.com/markets/2025/06/10/blockchain-initiatives-have-been-adopted-by-60-of-fortune-500-companies-coinbase-survey",
+      "summary": ""
+    },
+    {
+      "title": "Ethereum Advocate William Mougayar to Lead Ecosystem's New Profile-Raising Initiative",
+      "link": "https://www.coindesk.com/business/2025/06/10/ethereum-market-research-centre-introduced-by-eth-o-g-william-mougayar",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Core 30 to Increase OP_RETURN Data Limit After Developer Debate Concludes",
       "link": "https://www.coindesk.com/tech/2025/06/10/bitcoin-core-30-to-increase-op_return-data-limit-after-developer-debate-concludes",
       "summary": ""
@@ -9,51 +24,41 @@
       "title": "Crypto Daybook Americas: BTC Holds Below $110K as QCP Sees \u2018Tight Range\u2019; Altcoins Outperform",
       "link": "https://www.coindesk.com/daybook-us/2025/06/10/crypto-daybook-americas-btc-holds-below-usd110k-as-qcp-sees-tight-range-altcoins-outperform",
       "summary": ""
-    },
-    {
-      "title": "What Next as Ether Zooms 7%, DOGE Leads Majors Gains Amid Bitcoin Euphoria",
-      "link": "https://www.coindesk.com/markets/2025/06/10/what-next-as-ether-zooms-7-doge-leads-majors-gains-amid-bitcoin-euphoria",
-      "summary": ""
-    },
-    {
-      "title": "Strategy Shifts Capital Raise to Preferred Stocks as Common Share Issuance Loses Allure",
-      "link": "https://www.coindesk.com/markets/2025/06/10/strategy-shifts-capital-raise-to-preferred-stocks-as-common-share-issuance-loses-allure",
-      "summary": ""
-    },
-    {
-      "title": "Riot Sells $1.58M of Bitfarms Shares as Part of Investment Review",
-      "link": "https://www.coindesk.com/business/2025/06/10/riot-sells-usd1-58m-of-bitfarms-shares-as-part-of-investment-review",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Mystery whale opens $300M leveraged Bitcoin bet: James Wynn alt account?",
+      "link": "https://cointelegraph.com/news/whale-300m-bitcoin-james-wynn-alt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5ZTctNDA3Yi03NGY0LWJiMTYtZDU3YTVjZDY4NGU3.jpg\" /></p><p>The mysterious $300 million leveraged Bitcoin long comes days after Wynn\u2019s second $100 million leveraged Bitcoin position was liquidated, causing a near $25 million loss.</p>"
+    },
+    {
+      "title": "Strategy Inc vs. BlackRock: Which is the better Bitcoin proxy stock for your portfolio?",
+      "link": "https://cointelegraph.com/explained/strategy-inc-vs-blackrock-which-is-the-better-bitcoin-proxy-stock-for-your-portfolio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMzA3ODY5YTZiMGZlYzNmZGNmMmIyYWIzMzgzYzFjMS5qcGc=.jpg\" /></p><p> Strategy Inc vs. IBIT: Best Bitcoin Proxy Stock in 2025? </p>"
+    },
     {
       "title": "Why is Ethereum (ETH) price up today?",
       "link": "https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvNjJhOWU5MTEtNDNhMi00Y2M0LTkyYTEtZjQ4MTlkOGYwZGI1.jpg\" /></p><p>ETH price is up 7% on June 10 with persistent Ethereum ETF flows and record open interest backing Ether\u2019s upside potential.</p>"
     },
     {
-      "title": "87 deepfake scam rings taken down across Asia in Q1 2025: Bitget report",
+      "title": "87 deepfake scam rings taken down across Asia in Q1 2025: Report",
       "link": "https://cointelegraph.com/news/bitget-deepfake-scam-rings-crackdown-asia-q1-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVjMjUtN2QyOS03M2U1LWE3YjYtZjNhNzViYTRiMjgw.jpg\" /></p><p>The Bitget report highlights the severity of deepfake scams, urging both individuals and organizations to adopt more stringent preventive measures.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVjMjUtN2QyOS03M2U1LWE3YjYtZjNhNzViYTRiMjgw.jpg\" /></p><p>A new report from Bitget, SlowMist and Elliptic highlights the severity of deepfake scams, urging both individuals and organizations to adopt more stringent preventive measures.</p>"
     },
     {
       "title": "\u2018Apple should buy Bitcoin,\u2019 Saylor says, as share buyback disappoints",
       "link": "https://cointelegraph.com/news/apple-buy-bitcoin-stock-buybacks-michael-saylor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5OTAtZTcyZC03Mjc4LWFhNzAtZTgxYTIzZTFhOWY4.jpg\" /></p><p>Bitcoin exposure may provide a lucrative financial opportunity for Apple\u2019s stock buyback program, according to Michael Saylor.</p>"
-    },
-    {
-      "title": "Bank of Japan pivot to QE may fuel Bitcoin rally \u2014 Arthur Hayes",
-      "link": "https://cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5M2MtZmI3MS03NmI0LWI5MDYtNzZlYjFlYmFiNTcz.jpg\" /></p><p>The Bank of Japan\u2019s June meeting could trigger a Bitcoin rally if it restarts quantitative easing, as bond yield concerns push institutions toward BTC as a hedge.</p>"
-    },
-    {
-      "title": "Why is the crypto market up today?",
-      "link": "https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvYTYzMzIzMGQtM2Y5YS00NzQ5LThiYWItMDE3YzRiOTQzNWEw.jpg\" /></p><p>The crypto market is up today, reflecting investors' optimism for a possible continued rally amid increasing institutional demand for cryptocurrency investment products.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Cardano launches Cardinal to fuse Bitcoin liquidity with DeFi ecosystem",
+      "link": "https://cryptoslate.com/cardano-launches-cardinal-to-fuse-bitcoin-liquidity-with-defi-ecosystem/",
+      "summary": "<p>Cardano has taken a new step in bridging the gap between Bitcoin and decentralized finance by launching Cardinal. This protocol allows the top blockchain network to interact with Cardano&#8217;s DeFi ecosystem. Cardano founder Charles Hoskinson highlighted the release on June 9, sharing a post from Roman Pellerin, Chief Technology Officer at Input Output Global (IOG), [&#8230;]</p> <p>"
+    },
     {
       "title": "Staked ETH hits new all-time high, capturing 28% of total Ethereum supply amid 9% price surge",
       "link": "https://cryptoslate.com/insights/staked-eth-hits-new-all-time-high-capturing-28-of-total-ethereum-supply-amid-9-price-surge/",
@@ -73,14 +78,14 @@
       "title": "Average US house prices fall 99% in a decade when priced in Bitcoin",
       "link": "https://cryptoslate.com/average-us-house-prices-fall-99-in-a-decade-when-priced-in-bitcoin/",
       "summary": "<p>Two new Coinbase ads recently hit U.S. screens, reviving crypto\u2019s populist pitch at a time when inflation is stubborn, Bitcoin is soaring, and Americans are once again talking about \u201cbuilding.\u201d One spot reframes Bitcoin as \u201cmoney from the future,\u201d while another shows how a U.S. home\u2019s price has dropped from 30,000 BTC to just 5 [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ripple partners with APAC universities in AI and decentralized systems with $5 million funding",
-      "link": "https://cryptoslate.com/ripple-partners-with-apac-universities-in-ai-and-decentralized-systems-with-5-million-funding/",
-      "summary": "<p>Ripple is scaling up its global blockchain education efforts with a fresh commitment of more than $5 million in funding to universities across the Asia-Pacific (APAC) region, according to a June 10 statement. The crypto payment company stated that the investment will be channeled through Ripple&#8217;s University Blockchain Research Initiative (UBRI), targeting institutions in South [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin\u2019s $110K Sprint Coincides With Record-Low Exchange Reserves",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoins-110k-sprint-coincides-with-record-low-exchange-reserves/",
+      "summary": "Bitcoin\u2019s price shook off last week\u2019s dip and climbed sharply on Tuesday morning in Asia, topping $110,000 briefly before settling around $109,450. Traders rushed back in after the asset dipped close to $100,000, feeding a sharp rebound that leaves Bitcoin just 2.8% shy of its record high. A blend of forced liquidations, surging derivatives volume, easing US\u2013China trade tensions and steady on-chain withdrawals is driving the move. Related Reading: Elon Musk \u2018Will Do Anything\u2019 To Make XRP King, Tech Mogul Says Heavy Liquidations Shift The Balance According to Coinglass, nearly $203 million in Bitcoin positions were wiped out over the past 24 hours. Of that, $195 million were against shorts. When so many short bets unwind at once, it forces buyers to cover positions, which can send prices spiking. Yet history shows these \u201cshort squeezes\u201d can reverse quickly when traders take profits. Based on reports, Bitcoin\u2019s derivatives volume more than doubled, climbing over 110% to $110 billion. Open interest then followed suit, expanding 7.3% to almost $77 billion. These kinds of inflows indicate that new money is accumulating. Both open interest and volume rising tends to indicate enthusiasm\u2014and a willingness to carry through positions with swings. Trade Diplomacy Lifts Risk Assets Talks resumed in London on June 9 between the US and China over tariffs and export rules. Even a hint of progress tends to boost appetite for riskier assets, and Bitcoin isn\u2019t immune. Headlines of smoother trade ties lifted equities earlier this week\u2014and crypto traders moved in tandem. If negotiations hit a snag, though, Bitcoin could slide with global markets. On-Chain Data Shows Steady Accumulation CryptoQuant\u2019s numbers reveal that centralized exchanges have shed 550,000 BTC since July 2024, falling from 1.55 million to about 1.01 million today. As coins leave exchanges, float tightens. At the same time, the Coinbase Premium indicator rose, with US buyers paying more than overseas investors. Santiment also reports renewed accumulation among wallets holding 10\u2013100 BTC. This pattern hints at long-term holding rather than quick trades. Related Reading: Ignore The Trump\u2013Musk Noise: Bitcoin\u2019s Backbone Stays Solid Correlation And Caution Remain When you consider the rally, Bitcoin still dances on the tunes of equity price swings. Futures have mixed bets between bulls and bears, showing portrait-wise signs that certainly not everybody is convinced this run is going to hold. High volatility would tend to wash out weak hands at the slightest hint of trouble, any reversal of risk sentiment, or a sudden macro shock would cost the rally dearly. Optimism is building as analysts talk of fresh all-time highs. Some even eye $150,000 by the end of the year if US debt levels climb further. But sustaining a rally of that magnitude will require more than forced liquidations. Traders will watch derivatives flows, on-chain reserves and trade headlines for signs of real, lasting demand before pushing prices much higher. Featured image from Imagen, chart from TradingView"
+    },
     {
       "title": "XRP Eyes $2.50 Decision Zone As Macro Wave Structure Takes Shape",
       "link": "https://www.newsbtc.com/xrp-news/xrp-eyes-2-50-decision-zone-macro-wave-structure/",
@@ -100,11 +105,6 @@
       "title": "Solana Triangle Formation Breakout Targets Rally To $164 \u2013 Is A Recovery Around The Corner?",
       "link": "https://www.newsbtc.com/news/solana-triangle-formation-breakout-targets-rally-to-164-is-a-recovery-around-the-corner/",
       "summary": "Solana (SOL) has recovered from the recent market pullback after bouncing from its local bottom. Amid its recent breakout from a bullish formation, some market watchers suggest that the cryptocurrency could recover its start-of-year glory. Related Reading: Bitcoin Weekly Chart Flexes Strength\u2014Is The Moonshot Just Getting Started? Solana Breakout Eyes $164 Solana is recording a 2.45% surge in the weekly timeframe after recovering from its recent drop to the $140 area. The altcoin has seen a significant recovery from its multi-month downtrend, which led the token to hit a 14-month low of $95 during the early April retraces. However, SOL lost the $160 area amid the recent market corrections, dipping 11% in one week. Over the weekend, its price bounced nearly 10%, reclaiming the $150 level as support and forming an ascending triangle pattern. Crypto analyst Ali Martinez highlighted the 3-day formation in Solana\u2019s chart, suggesting a potential 6% jump to its recently lost support level. According to"
-    },
-    {
-      "title": "Bitcoin Skyrockets Past $108,000 Amid US-China Tariff Discussions",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-skyrockets-past-108000-amid-us-china-tariff-discussions/",
-      "summary": "The market\u2019s leading cryptocurrency, Bitcoin (BTC), experienced a notable spike on Monday, surging past the $108,000 mark after a period of consolidation between $100,000 and $106,000 for the past week. This surge comes as key officials from the United States and China prepare for critical trade negotiations in London, aimed at addressing ongoing tensions and salvaging \u201ca fragile trade agreement.\u201d US-China Trade Talks Spark Investor Optimism The cryptocurrency gained 2% on Monday, briefly touching a peak of $108,900 before settling back slightly. This uptick reflects growing investor optimism regarding the potential resolution of trade disputes between the US and China, one of its largest trading partners. Treasury Secretary Scott Bessent and China\u2019s Vice Premier for Economic Policy, He Lifeng, are set to lead their respective delegations in discussions that began Monday and are expected to continue into Tuesday, as reported by Fortune. Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric These negotiations are part of President Donald Trump\u2019s broader strategy to compel US trading partners to meet various demands, often through the threat of imposing significant tariffs on imports. Following the announcement of a sweeping tariff policy in April, which impacted nearly all American trading partners, Trump authorized a 90-day pause for negotiations. However, this pause did not apply to tariffs on China, which were escalated to 145%. Trade Talks Resuming As Bitcoin Prices Rise The heightened tensions between the two nations had previously led to a significant drop in Bitcoin\u2019s value, reaching a yearly low of $75,000 as fears of a trade war drove investors away from American markets. However, optimism returned following a summit in Geneva last month, where Trump announced a temporary agreement that would lower tariffs and facilitate further discussions. In the wake of this news, Bitcoin surged to an all-time high of $111,800 on May 22. Yet, the truce was short-lived. Trump claimed that China had violated the agreement over a dispute regarding exports of rare earth magnets. On May 30, he expressed his frustrations on Truth Social, stating, \u201cChina, perhaps not surprisingly to some, HAS TOTALLY VIOLATED ITS AGREEMENT WITH US. So much for being Mr. NICE GUY!\u201d In an urgent attempt to salvage the deteriorating trade deal, Trump and Chinese President Xi Jinping held a phone call last week, their first in months. Following this 90-minute conversation, it was announced that senior officials from both countries would meet in London this week to resume negotiations. In addition to trade-related factors, Bitcoin&#8217;s recent price surge may also be influenced by increased activity in the cryptocurrency initial public offering (IPO) market. Wave Of Crypto IPO Activity Last week, the stablecoin giant Circle made its public debut on the New York Stock Exchange (NYSE), with its shares soaring by over 168%, jumping from an initial price of $31 to $69 on the first day of trading. Additionally, Gemini, the cryptocurrency exchange founded by the Winklevoss twins, filed for an initial public offering, further demonstrating the crypto industry&#8217;s growing connection to traditional finance. Related Reading: Dogecoin Is Going To $1 With The \u2018Next Impulse\u2019, Analyst Predicts \u201cWhile the IPO excitement may be short-lived, the long-term positioning of institutional investors suggests a bullish outlook for Bitcoin\u2019s performance through 2025,\u201d remarked David Siemer, CEO of Wave Digital Assets, in an interview with Fortune. When writing, BTC trades at $108,670, recording gains of 6% in the monthly time frame, little over 2.7% from its record high of $111,8000 reached in May. Featured image from DALL-E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Is The Metaverse Back? Solana Token for VR Game Explodes",
+      "link": "https://decrypt.co/324396/is-the-metaverse-back-solana-token-for-vr-game-explodes",
+      "summary": "Virtual reality metaverse game Verse World launched a Solana token via Pump.fun that skyrocketed to a $112 million market cap."
+    },
+    {
+      "title": "Aura Farming: Nibiru\u2019s New 'Block Party' Rewards Real DeFi Activity",
+      "link": "https://decrypt.co/324377/aura-farming-nibirus-new-block-party-rewards-real-defi-activity",
+      "summary": "Participants in the layer-1 blockchain\u2019s DeFi ecosystem earn Aura points through trading, liquidity, lending and quests."
+    },
+    {
+      "title": "Franklin Templeton Unveils 'Intraday Yield' for Tokenized Assets on Benji Platform",
+      "link": "https://decrypt.co/324315/franklin-templeton-unveils-intraday-yield-tokenized-assets-benji",
+      "summary": "The 78-year-old bank said that stablecoins could now be used to purchase or redeem tokenized securities, too."
+    },
+    {
       "title": "Feds Charge Crypto Founder With Evading U.S. Sanctions, Laundering $500M",
       "link": "https://decrypt.co/324391/feds-charge-crypto-founder-with-evading-u-s-sanctions-laundering-500m",
       "summary": "Evita Pay founder Iurii Gugnin is accused of turning his crypto firms into a \"covert pipeline\" for sanctioned Russian entities."
@@ -144,21 +159,6 @@
       "title": "ChatGPT Global Outage Drags on for Hours\u2014Here's What We Know",
       "link": "https://decrypt.co/324384/chatgpt-down-three-hours-heres-what-we-know",
       "summary": "ChatGPT suffers 3-hour worldwide outage affecting millions of users, with OpenAI investigating \"elevated error rates\" across most services."
-    },
-    {
-      "title": "Self-Driving Waymo Cars Torched During ICE Protest in Los Angeles",
-      "link": "https://decrypt.co/324336/robotic-waymo-cars-torched-ice-protest-los-angeles",
-      "summary": "Several Waymo self-driving taxis were destroyed amid growing tensions over ICE activity in Los Angeles."
-    },
-    {
-      "title": "Apple Tones Down AI Hype While Showcasing Next iPhone, Mac Features",
-      "link": "https://decrypt.co/324330/apple-tones-down-ai-hype-wwdc-2025",
-      "summary": "At WWDC 2025, Apple introduced AI-powered updates and UX design overhaul\u2014but the AI hype was taken down a notch."
-    },
-    {
-      "title": "Bitcoin Soars Above $110K, Nearing Record as Ethereum and Dogecoin Rise",
-      "link": "https://decrypt.co/324317/bitcoin-soars-above-110k-ethereum-dogecoin",
-      "summary": "Bitcoin's price jumped past $110,000 for the first time in about two weeks to lead a broader upturn in digital assets."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "RYO Project: Launching RYOPAY with first real-world use case in the grain trade industry",
+      "link": "https://ambcrypto.com/ryo-project-launching-ryopay-with-first-real-world-use-case-in-the-grain-trade-industry/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"467\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-184057.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"835\" />The RYO Project, an innovative initiative born out of Japan, has launched RYOPAY, RYO&#8217;s stablecoin [&#8230;]"
+    },
+    {
+      "title": "The GENIUS Act: What could stablecoin regulations look like after June 11?",
+      "link": "https://ambcrypto.com/the-genius-act-what-could-stablecoin-regulations-look-like-after-june-11/",
+      "summary": "<img alt=\"GENIUS Act moves forward\" class=\"attachment-full size-full wp-post-image\" height=\"659\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/GENIUS-Act-moves-forward.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1171\" />Will stablecoins finally be recognized under U.S. law, or get lost in amendment gridlock?"
+    },
+    {
       "title": "Ethereum\u2019s stablecoin lead at risk? \u2013 Tether and Circle\u2019s moves raise concerns",
       "link": "https://ambcrypto.com/ethereums-stablecoin-lead-at-risk-tether-and-circles-moves-raise-concerns/",
       "summary": "<img alt=\"Stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Stablecoinwars.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Stablecoin sector has grown 4,600% from $5B to over $240B in the past five years."
@@ -203,16 +213,6 @@
       "title": "Win big as Sportsbet.io gives away 10 Million USDT Club World Cup",
       "link": "https://ambcrypto.com/win-big-as-sportsbet-io-gives-away-10-million-usdt-club-world-cup/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"520\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-152759.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"932\" />To mark this summer\u2019s Club World Cup, Sportsbet.io is launching one of its biggest promos [&#8230;]"
-    },
-    {
-      "title": "Bittensor [TAO] leads AI sector with 11% daily gains \u2013 Is $500 next?",
-      "link": "https://ambcrypto.com/bittensor-tao-leads-ai-sector-with-11-daily-gains-is-500-next/",
-      "summary": "<img alt=\"TAO bittensor\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-4.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As the AI and big data coins join the broader crypto in recovery, will TAO maintain its lead in this sector?"
-    },
-    {
-      "title": "Is Solana\u2019s $10B liquidity drain a sign of trouble for SOL?",
-      "link": "https://ambcrypto.com/is-solanas-10b-liquidity-drain-a-sign-of-trouble-for-sol/",
-      "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-10.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL moves fast, but in a desert of liquidity, every step risks collapse."
     }
   ]
 }
