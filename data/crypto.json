@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Core 30 to Increase OP_RETURN Data Limit After Developer Debate Concludes",
+      "link": "https://www.coindesk.com/tech/2025/06/10/bitcoin-core-30-to-increase-op_return-data-limit-after-developer-debate-concludes",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Daybook Americas: BTC Holds Below $110K as QCP Sees \u2018Tight Range\u2019; Altcoins Outperform",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/10/crypto-daybook-americas-btc-holds-below-usd110k-as-qcp-sees-tight-range-altcoins-outperform",
+      "summary": ""
+    },
+    {
       "title": "What Next as Ether Zooms 7%, DOGE Leads Majors Gains Amid Bitcoin Euphoria",
       "link": "https://www.coindesk.com/markets/2025/06/10/what-next-as-ether-zooms-7-doge-leads-majors-gains-amid-bitcoin-euphoria",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Riot Sells $1.58M of Bitfarms Shares as Part of Investment Review",
       "link": "https://www.coindesk.com/business/2025/06/10/riot-sells-usd1-58m-of-bitfarms-shares-as-part-of-investment-review",
       "summary": ""
-    },
-    {
-      "title": "SocGen\u2019s Crypto Arm Unveils Dollar Stablecoin on Ethereum and Solana",
-      "link": "https://www.coindesk.com/business/2025/06/10/socgen-s-crypto-arm-unveils-dollar-stablecoin-on-ethereum-and-solana",
-      "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: BTC Slips Below $110K as 'Signs of Fatigue' Emerging",
-      "link": "https://www.coindesk.com/markets/2025/06/09/asia-morning-briefing-btc-slips-below-110k-as-signs-of-fatigue-emerging",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Why is Ethereum (ETH) price up today?",
+      "link": "https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvNjJhOWU5MTEtNDNhMi00Y2M0LTkyYTEtZjQ4MTlkOGYwZGI1.jpg\" /></p><p>ETH price is up 7% on June 10 with persistent Ethereum ETF flows and record open interest backing Ether\u2019s upside potential.</p>"
+    },
+    {
+      "title": "87 deepfake scam rings taken down across Asia in Q1 2025: Bitget report",
+      "link": "https://cointelegraph.com/news/bitget-deepfake-scam-rings-crackdown-asia-q1-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVjMjUtN2QyOS03M2U1LWE3YjYtZjNhNzViYTRiMjgw.jpg\" /></p><p>The Bitget report highlights the severity of deepfake scams, urging both individuals and organizations to adopt more stringent preventive measures.</p>"
+    },
+    {
+      "title": "\u2018Apple should buy Bitcoin,\u2019 Saylor says, as share buyback disappoints",
+      "link": "https://cointelegraph.com/news/apple-buy-bitcoin-stock-buybacks-michael-saylor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5OTAtZTcyZC03Mjc4LWFhNzAtZTgxYTIzZTFhOWY4.jpg\" /></p><p>Bitcoin exposure may provide a lucrative financial opportunity for Apple\u2019s stock buyback program, according to Michael Saylor.</p>"
+    },
     {
       "title": "Bank of Japan pivot to QE may fuel Bitcoin rally \u2014 Arthur Hayes",
       "link": "https://cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "Why is the crypto market up today?",
       "link": "https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvYTYzMzIzMGQtM2Y5YS00NzQ5LThiYWItMDE3YzRiOTQzNWEw.jpg\" /></p><p>The crypto market is up today, reflecting investors' optimism for a possible continued rally amid increasing institutional demand for cryptocurrency investment products.</p>"
-    },
-    {
-      "title": "Trump\u2019s CFTC pick calls blockchain a society-shaping technology",
-      "link": "https://cointelegraph.com/news/trump-cftc-pick-quintenz-blockchain-impact-society?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMyOWMtOWM2Ni03YzgyLWJjNmYtZDNmODI3ZGUxMjQz.jpg\" /></p><p>Trump\u2019s CFTC nominee Brian Quintenz says blockchain will reshape industries beyond finance and calls for clear crypto rules to protect US leadership.</p>"
-    },
-    {
-      "title": "Bitcoin Coinbase Premium hits 4-month high as 550K BTC leaves exchanges",
-      "link": "https://cointelegraph.com/news/bitcoin-coinbase-premium-hits-4-month-high-550k-btc-leaves-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDczOGUtNWZmZS03ZWIyLWE4MTYtOWI1MGVhYjhkMmQy.jpg\" /></p><p>Bitcoin demand in the US is rising, while spot exchanges see their reserves decline by one third in less than a year, per new data from CryptoQuant.</p>"
-    },
-    {
-      "title": "Why is Bitcoin price up today?",
-      "link": "https://cointelegraph.com/news/why-is-bitcoin-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvMjk3NTY5OWMtYWJkZC00ZjdiLWJkMzUtNzQyNjdhNTcwMTE3.jpg\" /></p><p>Bitcoin price recovers above $109,000 as multiple BTC market metrics show an improvement in investor sentiment.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Staked ETH hits new all-time high, capturing 28% of total Ethereum supply amid 9% price surge",
+      "link": "https://cryptoslate.com/insights/staked-eth-hits-new-all-time-high-capturing-28-of-total-ethereum-supply-amid-9-price-surge/",
+      "summary": "<p>Staked ETH has reached a new all-time high of 34,824,875 ETH. The total represents 28.15% of the Ethereum supply now locked in staking contracts. The validator count stands at 1,088,277, and staking activity is pushing upward after a period of consolidation and a brief decline earlier in the month. Lido remains the leading staking entity, [&#8230;]</p> <p>"
+    },
     {
       "title": "Solana snaps out of June slump with a 9% spike",
       "link": "https://cryptoslate.com/insights/solana-snaps-out-of-june-slump-with-a-9-spike/",
@@ -73,14 +78,19 @@
       "title": "Ripple partners with APAC universities in AI and decentralized systems with $5 million funding",
       "link": "https://cryptoslate.com/ripple-partners-with-apac-universities-in-ai-and-decentralized-systems-with-5-million-funding/",
       "summary": "<p>Ripple is scaling up its global blockchain education efforts with a fresh commitment of more than $5 million in funding to universities across the Asia-Pacific (APAC) region, according to a June 10 statement. The crypto payment company stated that the investment will be channeled through Ripple&#8217;s University Blockchain Research Initiative (UBRI), targeting institutions in South [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SocGen doubles down on stablecoins with USD launch and BNY custody",
-      "link": "https://cryptoslate.com/socgen-doubles-down-on-stablecoins-with-usd-launch-and-bny-custody/",
-      "summary": "<p>Societe Generale-FORGE (SG-FORGE), the crypto-asset arm of French banking giant Societe Generale, has announced the launch of a new U.S. dollar-pegged stablecoin, the USD CoinVertible (USDCV), set to operate natively on both the Ethereum and Solana public blockchains. The launch marks SG-FORGE&#8217;s second stablecoin initiative, following the EUR CoinVertible (EURCV) release in April 2023. Like [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "XRP Eyes $2.50 Decision Zone As Macro Wave Structure Takes Shape",
+      "link": "https://www.newsbtc.com/xrp-news/xrp-eyes-2-50-decision-zone-macro-wave-structure/",
+      "summary": "XRP changed hands at roughly $2.30 in early European trading on Tuesday, extending a two-day bounce that has pulled the token back toward the upper half of the seven-month range that has confined it between about $2.00 and $2.80 since December. Analyst Quantum Ascend argues that this compression phase is now approaching a technical fulcrum that will determine whether the next move is an impulsive wave-three surge or one final wave-two washout. XRP Tightens Into Decision Zone In a video posted on 9 June, the trader noted that \u201cwe\u2019ve been in this range\u2026 since early December\u2026 between like $2.80 and $2.00 just bouncing the whole time,\u201d before zooming out to show what he calls the only Elliott-wave count that \u201cmakes sense\u201d: a completed five-wave advance from last year\u2019s lows followed by a five-wave corrective pull-back. \u201cRight now we\u2019re looking at a one-two-three-four-five on the way down\u2026 that\u2019s the macro two\u2026 and now we\u2019re waiting on three-four-five,\u201d he said, adding that XRP still represents about 12.5% of his portfolio despite his tactical rotation into \u201calts with more gas left.\u201d Quantum Ascend\u2019s Fibonacci mapping reveals that the token has already retraced slightly more than 50% of its preceding leg higher\u2014a textbook depth for a second-wave correction\u2014and that the sell-off bottomed in the price region that coincided with the fourth wave of the prior move. \u201cMakes sense, perfect spot for us to bounce,\u201d he told viewers after plotting the swing low against the 0.5 Fib level. Related Reading: XRP Bull Trap Incoming? Analyst Sees $2.40 Fakeout Before Painful Crash Whether that bounce blossoms into a sustained breakout, he stressed, ultimately hinges on the market leader: \u201cI think Bitcoin\u2019s gonna make the decision for us,\u201d he said, pointing out that XRP\u2019s fate remains tightly coupled to any directional conviction in BTC. Bitcoin\u2019s own advance toward key retracement resistance could, in his view, drag major altcoins\u2014including XRP\u2014into their respective inflection zones. The analyst now fixes on the 0.618\u20130.786 Fib band, which corresponds to $2.42\u2013$2.52, as the \u201cdecision zone.\u201d \u201cThere\u2019s gonna be an area that we gotta be careful of\u2026 statistically it\u2019s the area we\u2019re most probable to roll over\u2026 between $2.42 and $2.52,\u201d he warned, outlining the risk that XRP forms an A-B-C zig-zag and revisits lower supports before the larger impulsive leg begins. A rejection there would map onto the classical script of a complex second wave that fakes out early longs one final time before relinquishing control to bulls. Related Reading: XRP Price Remains Bullish Above $2, This Falling Channel Says $3.8 Is Coming Macro currents may soon add fuel. XRP\u2019s next potential volatility catalyst is the US Securities and Exchange Commission\u2019s 17 June deadline on Franklin Templeton\u2019s spot-XRP exchange-traded fund proposal\u2014a ruling some desks see as the token\u2019s analogue to January\u2019s Bitcoin ETF moment. While ETF speculation has helped price reclaim higher ground this month, XRP remains almost a dollar below its January all-time high of $3.40, leaving the $2.42\u2013$2.52 pocket as the most technically significant hurdle in the short term. For now, traders will watch whether the current advance can print a daily close inside\u2014or better, above\u2014that corridor. A clean break would validate Quantum Ascend\u2019s wave-three thesis and open the charts to measured moves targeting the mid-$3s. Failure, by contrast, risks a final capitulation toward the lower-$2 region before the larger bull structure can re-assert itself. Whatever the outcome, the analyst remains sanguine: \u201cWhether it rolls over here one more time and we have to be patient or it just goes\u2014that\u2019s okay, because either way the end result is going to be the same.\u201d At press time, XRP traded at $2.28. Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
+      "title": "BlackRock\u2019s Bitcoin ETF Becomes Fastest Ever To Reach $70 Billion AUM",
+      "link": "https://www.newsbtc.com/bitcoin-news/blackrocks-bitcoin-etf-becomes-fastest-ever-to-reach-70-billion-aum/",
+      "summary": "BlackRock\u2019s iShares Bitcoin Trust (IBIT) has made headlines by amassing a staggering $70 billion in total assets, achieving this milestone faster than any other exchange-traded fund (ETF) in history. This remarkable feat occurred just 341 days after its launch, according to Bloomberg analyst Eric Balchunas, who noted that IBIT reached this figure five times quicker than the previous record holder, State Street\u2019s GLD gold ETF, which took nearly 1,700 days. BlackRock\u2019s IBIT Outshines Competitors As the most popular of the twelve Bitcoin ETFs currently available, IBIT stands out significantly in the market. Following closely behind are Fidelity\u2019s FBTC and Grayscale\u2019s GBTC, both of which have around $20 billion in assets. Related Reading: Dogecoin Is Going To $1 With The \u2018Next Impulse\u2019, Analyst Predicts The launch of IBIT and ten other Bitcoin ETFs at the start of last year by the world\u2019s largest asset managers marked a significant shift in the investment landscape, fueled by long-awaited regulatory approval from the Securities and Exchange Commission (SEC). The debut of these funds highlighted a robust demand from investors eager to capitalize on Bitcoin\u2019s price fluctuations. IBIT alone accumulated over $1 billion in assets within just four days of its market introduction. By November, IBIT had surpassed the total assets of BlackRock\u2019s gold fund, solidifying its position as the largest among the 1,400 funds managed by the asset manager worldwide. Bitcoin ETF Market Thrives The momentum didn\u2019t stop there; in December, IBIT became the fastest exchange-traded fund to hit $50 billion in assets, achieving this milestone five times quicker than BlackRock&#8217;s iShares Core MSCI EAFE ETF, which took nearly four years to reach the same level. \u201cIBIT\u2019s growth is unprecedented,\u201d remarked Bloomberg ETF expert James Seyffart in an interview with Fortune Magazine on Monday. \u201cIt\u2019s the fastest ETF to reach most milestones, outpacing any other ETF across all asset classes.\u201d Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric The surge in Bitcoin ETFs has coincided with significant increases in the cryptocurrency&#8217;s price. For instance, as Bitcoin reached an all-time high of $111,900 in late May, the cumulative net assets across all twelve Bitcoin ETFs surpassed $134 billion, reflecting the growing interest and investment in this digital asset class. Since reaching its record high, the market\u2019s leading cryptocurrency has retraced, with the most important support line at $100,000 being tested on June 5. Nevertheless, Bitcoin has once again regained its bullish momentum, jumping past the $108,400 mark on Monday. With gains of 2% and 4% on the 24-hour and weekly time frames, respectively, the price of BTC is now only 2.7% below the record price level. This puts the cryptocurrency on the verge of a new price discovery phase after the normal pullback seen last week. Featured image from DALL-E, chart from TradingView.com"
+    },
     {
       "title": "Why The Bitcoin Price Could See Another 70%-170% Jump From Here",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-70-170-jump/",
@@ -95,16 +105,6 @@
       "title": "Bitcoin Skyrockets Past $108,000 Amid US-China Tariff Discussions",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-skyrockets-past-108000-amid-us-china-tariff-discussions/",
       "summary": "The market\u2019s leading cryptocurrency, Bitcoin (BTC), experienced a notable spike on Monday, surging past the $108,000 mark after a period of consolidation between $100,000 and $106,000 for the past week. This surge comes as key officials from the United States and China prepare for critical trade negotiations in London, aimed at addressing ongoing tensions and salvaging \u201ca fragile trade agreement.\u201d US-China Trade Talks Spark Investor Optimism The cryptocurrency gained 2% on Monday, briefly touching a peak of $108,900 before settling back slightly. This uptick reflects growing investor optimism regarding the potential resolution of trade disputes between the US and China, one of its largest trading partners. Treasury Secretary Scott Bessent and China\u2019s Vice Premier for Economic Policy, He Lifeng, are set to lead their respective delegations in discussions that began Monday and are expected to continue into Tuesday, as reported by Fortune. Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric These negotiations are part of President Donald Trump\u2019s broader strategy to compel US trading partners to meet various demands, often through the threat of imposing significant tariffs on imports. Following the announcement of a sweeping tariff policy in April, which impacted nearly all American trading partners, Trump authorized a 90-day pause for negotiations. However, this pause did not apply to tariffs on China, which were escalated to 145%. Trade Talks Resuming As Bitcoin Prices Rise The heightened tensions between the two nations had previously led to a significant drop in Bitcoin\u2019s value, reaching a yearly low of $75,000 as fears of a trade war drove investors away from American markets. However, optimism returned following a summit in Geneva last month, where Trump announced a temporary agreement that would lower tariffs and facilitate further discussions. In the wake of this news, Bitcoin surged to an all-time high of $111,800 on May 22. Yet, the truce was short-lived. Trump claimed that China had violated the agreement over a dispute regarding exports of rare earth magnets. On May 30, he expressed his frustrations on Truth Social, stating, \u201cChina, perhaps not surprisingly to some, HAS TOTALLY VIOLATED ITS AGREEMENT WITH US. So much for being Mr. NICE GUY!\u201d In an urgent attempt to salvage the deteriorating trade deal, Trump and Chinese President Xi Jinping held a phone call last week, their first in months. Following this 90-minute conversation, it was announced that senior officials from both countries would meet in London this week to resume negotiations. In addition to trade-related factors, Bitcoin&#8217;s recent price surge may also be influenced by increased activity in the cryptocurrency initial public offering (IPO) market. Wave Of Crypto IPO Activity Last week, the stablecoin giant Circle made its public debut on the New York Stock Exchange (NYSE), with its shares soaring by over 168%, jumping from an initial price of $31 to $69 on the first day of trading. Additionally, Gemini, the cryptocurrency exchange founded by the Winklevoss twins, filed for an initial public offering, further demonstrating the crypto industry&#8217;s growing connection to traditional finance. Related Reading: Dogecoin Is Going To $1 With The \u2018Next Impulse\u2019, Analyst Predicts \u201cWhile the IPO excitement may be short-lived, the long-term positioning of institutional investors suggests a bullish outlook for Bitcoin\u2019s performance through 2025,\u201d remarked David Siemer, CEO of Wave Digital Assets, in an interview with Fortune. When writing, BTC trades at $108,670, recording gains of 6% in the monthly time frame, little over 2.7% from its record high of $111,8000 reached in May. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "Solana Listed on Nasdaq as Solaxy, the First SOL Layer-2, Raises $46M",
-      "link": "https://www.newsbtc.com/news/solana-listed-on-nasdaq-as-solaxy-the-first-sol-layer-2-raises-46m/",
-      "summary": "The NASDAQ has been bringing crypto and traditional investing together since 2025. With the June 7 filing of a standard K-8 fund, the Nasdaq noted that its standard Nasdaq Crypto US Settlement Price Index (NCIUS) would add four new cryptos \u2013 Cardano, Solana, Stellar Lumens, and XRP Ledger \u2013 to its current roster of Bitcoin and Ethereum. The move sets up the potential for the first-ever multi-asset crypto ETF, and signals crypto\u2019s continued ascension to the upper ranks of the financial world. The news comes on the back of reports that BlackRock\u2019s Bitcoin ETF just became the fastest-ever ETF to reach $70B in total assets. Add it all together, and it\u2019s clear that the finance world has expanded beyond recognizing just $BTC and $ETH. Solana\u2019s $83.7B market cap could be set to swell even further on the back of a potential Nasdaq listing and possible ETF inclusion. And any growth could skyrocket when critical upgrades like Solaxy, Solana\u2019s first-ever Layer-2, provide a much-needed boost to Solana scalability and reliability. ETFs: Kind Of A Big Deal Exchange-Traded Funds (ETFs) are pools of assets listed on exchanges, letting ordinary investors gain exposure to the underlying assets without purchasing them directly. That makes them great for retail investors who may not want the struggle of setting up a crypto wallet \u2013 even a simple wallet like Best Wallet app. However, ETFs are also appealing to institutional investors, who use ETFs to diversify their portfolios. $BTC and $ETH ETFs both caused a spike in the price of their respective cryptos when they launched last year, and have been widely credited with fueling a steady increase in demand. Currently, $BTC ETFs account for 6% of the total Bitcoin market cap; $ETH ETFs hold 3.13%. In both cases, that\u2019s a significant percentage of the total market cap and adds buying pressure. A potential multi-asset ETF, from Nasdaq, no less, would do the same for any included cryptos, including Solana. Solana\u2019s Ecosystem Set to Expand Solana has historically relied on a single Rust-based validator client. That was Agave, maintained by Anza, with over 90% of stake weight running on Jito-Solana, a fork built around MEV infrastructure. The Jito-Solana consolidation boosted performance and staking returns, but raised concerns that a failure at a single point could severely disrupt the network. In a positive sign, several competing clients are emerging: Jito\u2011Solana: the original MEV solution, which jump-started the trend of validator innovation Firedancer: developed by Jump Crypto, aimed at blazing-fast, modular performance Sig: Syndica\u2019s rewrite in Zig, optimized for read-heavy workloads common in dApps Paladin: a lightweight MEV-focused fork of Jito featuring a protected \u2018P3\u2019 transaction lane to mitigate sandwich attacks and enhance fairness TinyDancer: an open-source light client designed for mobile environments, with SPV verification, data sampling, and fraud proofing Taken together, these clients represent a maturing Solana ecosystem: each addresses specific limitations and contributes to greater resilience, specialization, and decentralization. They lay the groundwork for further development on a Solana network that has seen some of the best meme coins and new crypto presales launched in recent years. And now there\u2019s another improvement on the way, just in time for any potential ETF: the first-ever Solana Layer-2 solution, Solaxy. Solaxy ($SOLX): First-Ever Solana Layer-2 for Zero Down-Time Why have investors poured $46M into the Solaxy ($SOLX) presale so far? Because the potential for a Layer 2 solution that solves some of Solana\u2019s nagging problems \u2013 like failed transactions and network congestion \u2013 is simply too great to miss. The Solaxy project brings together aspects of Ethereum\u2019s scalability and reliability, blending them with Solana\u2019s faster network speeds and lower transaction costs. The $SOLX token will be multi-chain, launching on Ethereum and bridging to the Solaxy Layer-2 when fully deployed. In the meantime, the project is already well underway. The Solaxy Block Explorer and Bridge are live on the testnet. And the token launch is imminent; there are only six days left in the presale. Any investors eager to get in early on what could be the next generation of Solana development can check out our guide on how to buy Solaxy. Tokens currently cost $0.00175, but our price prediction shows the potential for the token to hit $0.025 by the end of 2025, a 1300% increase. Visit the Solaxy presale page today. Nasdaq Listing Positions Solana \u2013 and Solaxy \u2013 As Financial Cornerstones With Nasdaq listing Solana in its crypto index and a potential ETF on the horizon, institutional demand could surge. Paired with the emergence of Solaxy, Solana is no longer just fast \u2013 it\u2019s becoming foundational, and a core part of crypto finance. Do your own research before investing; this is not financial advice. But be aware \u2013 time\u2019s running out to get in on the ground floor, with under a week left in the Solaxy presale."
-    },
-    {
-      "title": "Bitcoin Defies Bears: Price Nears $108,000 Despite $250M Exchange Inflows",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-bears-price-108000-despite-250m-inflows/",
-      "summary": "On-chain data shows the exchanges recently received a large amount of Bitcoin inflows, but so far, the asset&#8217;s price has only been going up. Bitcoin Has Seen A Spike In Exchange Inflows Recently In a new post on X, the institutional DeFi solutions provider Sentora (formerly IntoTheBlock) has talked about the latest trend in the Exchange Netflow for Bitcoin. The Exchange Netflow is an on-chain indicator that keeps track of the net amount of the asset that&#8217;s moving into or out of the wallets associated with all centralized exchanges. When the value of this metric is positive, it means the exchange inflows outweigh the exchange outflows. As one of the main reasons why investors would deposit their coins to these platforms is for selling-related purposes, this kind of trend can have a bearish impact on the asset&#8217;s price. Related Reading: Bitcoin &#38; Ethereum Diverge\u2014ETF Flows Just Flipped The Narrative On the other hand, the indicator being under the zero mark suggests the holders are taking out a net number of tokens from exchanges. Such a trend can be a sign that the investors are accumulating, which can naturally prove to be bullish for the cryptocurrency. Now, here is a chart that shows the trend in the Bitcoin Exchange Netflow since the start of the month: As displayed in the above graph, the Bitcoin Exchange Netflow has recently mostly been contained in the negative territory, but the latest value (yesterday&#8217;s) has been positive. In total, the investors have deposited a net $262.75 million of the asset to the exchange-connected wallets with this inflow spike. According to the analytics firm, this marks the first day of significant deposits since May 27th. As mentioned before, exchange inflows are something that can turn out to be bearish for the coin&#8217;s value. So far, however, the opposite has happened for Bitcoin, as its price has soared instead. This could indicate that even if there are some large holders looking to sell with these deposits, enough demand has surfaced at the same time that BTC has not only been able to ride out this wave of potential selling pressure, but actually add to its recovery. Related Reading: Crypto Suffers $1 Billion Flush As Musk-Trump Feud Shakes Bitcoin According to the analytics firm Glassnode, short liquidations have registered a notable uptick alongside this surge in the cryptocurrency. &#8220;Over just 4 hours, total short liquidations spiked from $105K to $359K (24H SMA),&#8221; notes Glassnode. Generally, large liquidations end up providing fuel to the price move that caused them, so in this case, it&#8217;s possible the short squeeze may have provided support to the Bitcoin rally. BTC Price At the time of writing, Bitcoin is floating around $107,900, up over 3% in the last seven days. Featured image from Dall-E, Glassnode.com, IntoTheBlock.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Eric Trump-backed American Bitcoin discloses 215 BTC holdings",
+      "link": "https://cryptobriefing.com/american-bitcoin-btc-disclosure/",
+      "summary": "<p>The strategic focus on Bitcoin accumulation by American Bitcoin could influence market dynamics and drive broader adoption and infrastructure development.</p> <p>"
+    },
+    {
       "title": "French banking giant Soci\u00e9t\u00e9 G\u00e9n\u00e9rale confirms launch of new stablecoin on Ethereum and Solana",
       "link": "https://cryptobriefing.com/usd-coinvertible-launch-sg-forge/",
       "summary": "<p>Socit Gnrale's stablecoin launch signifies a pivotal shift in traditional banking towards embracing blockchain technology and digital finance.</p> <p>"
@@ -181,14 +186,19 @@
       "title": "ProShares, Bitwise seek SEC approval for ETFs tracking Circle stock",
       "link": "https://cryptobriefing.com/circle-stock-etfs-proshares-bitwise/",
       "summary": "<p>The approval of these ETFs could enhance investor access to crypto-related equities, potentially boosting market liquidity and innovation.</p> <p>"
-    },
-    {
-      "title": "Tether to open-source Bitcoin Mining Operating System to empower small, mid-sized miners, says Paolo Ardoino",
-      "link": "https://cryptobriefing.com/tether-bitcoin-mining-open-source/",
-      "summary": "<p>Tether's open-source MOS could democratize Bitcoin mining, enhancing decentralization and security while enabling smaller players to compete.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Ethereum\u2019s stablecoin lead at risk? \u2013 Tether and Circle\u2019s moves raise concerns",
+      "link": "https://ambcrypto.com/ethereums-stablecoin-lead-at-risk-tether-and-circles-moves-raise-concerns/",
+      "summary": "<img alt=\"Stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Stablecoinwars.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Stablecoin sector has grown 4,600% from $5B to over $240B in the past five years."
+    },
+    {
+      "title": "Bitcoin price volatility ahead? \u2013 Signals you should watch at $109K",
+      "link": "https://ambcrypto.com/bitcoin-price-volatility-ahead-the-signals-you-should-watch-at-109k/",
+      "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-93-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s bullish momentum persists, but rising risk signals suggest a possible shift toward distribution."
+    },
     {
       "title": "Win big as Sportsbet.io gives away 10 Million USDT Club World Cup",
       "link": "https://ambcrypto.com/win-big-as-sportsbet-io-gives-away-10-million-usdt-club-world-cup/",
@@ -203,16 +213,6 @@
       "title": "Is Solana\u2019s $10B liquidity drain a sign of trouble for SOL?",
       "link": "https://ambcrypto.com/is-solanas-10b-liquidity-drain-a-sign-of-trouble-for-sol/",
       "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-10.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL moves fast, but in a desert of liquidity, every step risks collapse."
-    },
-    {
-      "title": "SUI surges 6% after key breakout \u2013 $4 on the cards",
-      "link": "https://ambcrypto.com/sui-surges-6-after-key-breakout-4-on-the-cards/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_40_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SUI breaks bullish flag resistance as buyers dominate, aiming for $4 despite cooling spot volume."
-    },
-    {
-      "title": "Traditional Southeast Asian enterprises adopt web3 technologies for strategic transformation",
-      "link": "https://ambcrypto.com/traditional-southeast-asian-enterprises-adopt-web3-technologies-for-strategic-transformation/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"434\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-144747.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"755\" />Vietnam\u2019s SSI Digital (SSID), the technology arm of SSI Securities Corporation, has announced the launch [&#8230;]"
     }
   ]
 }
