@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Meta's Stablecoin Plan Questioned by Democrats Ahead of Key Senate Vote",
+      "link": "https://www.coindesk.com/policy/2025/06/11/metas-stablecoin-plan-questioned-by-democrats-ahead-of-key-senate-vote",
+      "summary": ""
+    },
+    {
+      "title": "Connecticut's Ban Throws Water on 2025 Trend of States Setting Up Crypto Investments",
+      "link": "https://www.coindesk.com/policy/2025/06/11/connecticut-s-ban-throws-water-on-2025-trend-of-states-setting-up-crypto-investments",
+      "summary": ""
+    },
+    {
       "title": "Ether Surges Toward $3K on Tentative U.S.\u2013China Trade Pact and Soft U.S. CPI Report",
       "link": "https://www.coindesk.com/markets/2025/06/11/ether-surges-toward-usd3k-on-tentative-u-s-china-trade-pact-and-soft-u-s-cpi-report",
       "summary": ""
@@ -14,46 +24,46 @@
       "title": "Stripe to Acquire Crypto Wallet Startup Privy in Bid to Expand Web3 Capabilities",
       "link": "https://www.coindesk.com/business/2025/06/11/stripe-to-acquire-crypto-wallet-startup-privy-in-bid-to-expand-web3-capabilities",
       "summary": ""
-    },
-    {
-      "title": "ATOM Finds Support at $4.50 as Ethereum Whales Signal Potential Altcoin Season",
-      "link": "https://www.coindesk.com/markets/2025/06/11/atom-finds-support-at-usd4-50-as-ethereum-whales-signal-potential-altcoin-season",
-      "summary": ""
-    },
-    {
-      "title": "The Case for Investing in Digital Assets",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/06/11/the-case-for-investing-in-digital-assets",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "How to set up and use AI-powered crypto trading bots",
+      "link": "https://cointelegraph.com/news/how-to-set-up-and-use-ai-powered-crypto-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY4M2ItMGFmZC03OTlmLTliMzYtNzkzYjg1OGJmMTU4.jpg\" /></p><p>A practical guide to setting up, using and optimizing AI crypto trading bots, plus a glimpse into where intelligent trading is headed next.</p>"
+    },
+    {
+      "title": "Price predictions 6/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, SUI, LINK",
+      "link": "https://cointelegraph.com/news/price-predictions-6-11-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmZDgtNmVjZi03YzA3LWEwZDMtZTM4NDM0ZDYwZGY4.jpg\" /></p><p>Bitcoin price trades near its all-time high as ETH and several altcoins start fresh rallies.</p>"
+    },
+    {
+      "title": "How to use ChatGPT for crypto strategy, signals, and sentiment",
+      "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-analyze-crypto-market-movements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM2MTAtY2VhMC03ZjRlLWI5NjAtNGQ4ZDQ2YTU1ODJj.jpg\" /></p><p>Use ChatGPT to summarize market news, interpret on-chain data, compare token metrics, and spot sentiment shifts using structured prompts.</p>"
+    },
+    {
+      "title": "Developer accuses Ethereum Foundation of undermining devs, creating \u2018secret\u2019 teams",
+      "link": "https://cointelegraph.com/news/geth-lead-developer-accuses-ethereum-foundation-creating-secret-team?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDMwZjUtMWU5Yy03ODlkLTk1MzktOGJjNmQ1MjE5OGU5.jpg\" /></p><p>P\u00e9ter Szil\u00e1gyi, a former Ethereum Foundation employee and the lead Geth developer, said the organization repeatedly undermined his team.</p>"
+    },
+    {
       "title": "\u2018Unique\u2019 Bitcoin holder trend backs BTC\u2019s next price discovery phase: Glassnode",
       "link": "https://cointelegraph.com/news/unique-bitcoin-holder-trend-backs-btc-s-next-price-discovery-phase-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njc5YjEtMzljZi03MmFkLTgyYzYtMTE3MTY4MDM2ZGRl.jpg\" /></p><p>Bitcoin enters a unique market phase as rising long-term holder dominance and compressed volatility could potentially trigger a fresh round of price discovery.</p>"
-    },
-    {
-      "title": "Peaq and UAE bet on tokenized machines to power future economy",
-      "link": "https://cointelegraph.com/news/uae-machine-economy-sandbox-peaq-pulsar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmOTItYTVlZC03Y2JmLTkxYTktOGNlZTA0YzliYmRj.jpg\" /></p><p>The UAE Machine Economy Free Zone envisions a world where tokenholders receive a share of the revenue from machine-economy activities.</p>"
-    },
-    {
-      "title": "After stablecoin push, Stripe acquires crypto wallet developer Privy",
-      "link": "https://cointelegraph.com/news/stripe-acquires-privy-crypto-wallet-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRmNGYtMTBkZS03ZjQzLWE2OWItYTQ0NDg4YmI1YTVl.jpg\" /></p><p>The acquisition of Privy follows Stripe\u2019s entry into the stablecoin market in 2024.</p>"
-    },
-    {
-      "title": "Ethereum whale opens $11M leveraged bet amid ETH price\u2019s 30% rise potential",
-      "link": "https://cointelegraph.com/news/ethereum-whale-opens-11m-leveraged-bet-eth-price-30-rise-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmNGYtYWJiOS03NjZiLTk4MjAtNDRjZmI2Njg0Yjlm.jpg\" /></p><p>ETH price rising to around $2,850 drove the whale\u2019s $11 million leveraged long into $366,000 paper profit.</p>"
-    },
-    {
-      "title": "OneBalance lands $20M to simplify crypto for developers",
-      "link": "https://cointelegraph.com/news/onebalance-raises-20m-for-dev-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmMTQtYTJjOC03OWMxLWEwNDAtM2E2MjZkMDc3MTAx.jpg\" /></p><p>OneBalance raised $20 million to launch a developer toolkit enabling one-click crosschain crypto transactions, aiming to fix fragmented UX and boost app conversions.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Interactive Strength to launch AI-driven crypto treasury with $500 million Fetch.ai token acquisition",
+      "link": "https://cryptoslate.com/interactive-strength-to-launch-ai-driven-crypto-treasury-with-500-million-fetch-ai-token-acquisition/",
+      "summary": "<p>Interactive Strength (TRNR), a Nasdaq-listed fitness technology firm, is entering the digital asset space by launching what it describes as the first artificial intelligence-driven crypto treasury. The company plans to acquire $500 million worth of Fetch.ai&#8217;s FET tokens, according to a June 11 announcement. TRNR has started building its token position, backed by an initial [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bitcoin hashrate up 40% this year as miners keep scaling",
+      "link": "https://cryptoslate.com/insights/bitcoin-hashrate-up-40-this-year-as-miners-keep-scaling/",
+      "summary": "<p>Bitcoin\u2019s network difficulty remains pinned at a record 127 T following its most recent adjustment on May 31, yet the underlying hashrate continues to push higher. As of June 10, the average seven-day hashrate is roughly 901 EH/s, with several daily prints brushing against 920 EH/s. This suggests a persistent mismatch between the protocol\u2019s two-week [&#8230;]</p> <p>"
+    },
     {
       "title": "Ethereum open interest hits all-time high as price rises to 4-month high",
       "link": "https://cryptoslate.com/insights/ethereum-open-interest-hits-all-time-high-as-price-rises-to-4-month-high/",
@@ -68,19 +78,19 @@
       "title": "XRP derivatives traders boost leverage as funding costs jump",
       "link": "https://cryptoslate.com/xrp-derivatives-traders-boost-leverage-as-funding-costs-jump/",
       "summary": "<p>A slow but clear divergence is emerging in XRP&#8217;s derivatives market: open interest has eased modestly over the past month, but the amount of leverage employed by traders is steadily rising. With spot demand softening and funding rates climbing to near their monthly highs, XRP appears to be entering a phase of elevated positioning risk, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "VivoPower commits $100 million in XRP for Flare Network to earn yield on treasury",
-      "link": "https://cryptoslate.com/vivopower-commits-100-million-in-xrp-to-flare-network-to-earn-yield-on-treasury/",
-      "summary": "<p>VivoPower has committed $100 million in XRP to Flare Network&#8217;s ecosystem in a bid to boost returns on its digital asset holdings, according to a June 11 statement. Through this move, VivoPower intends to leverage Flare&#8217;s on-chain protocols, including Firelight, to generate sustainable yield from its XRP reserves. The company plans to channel all earned [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ukraine opens door to Bitcoin reserves as experts warn of key risks",
-      "link": "https://cryptoslate.com/ukraine-opens-door-to-bitcoin-reserves-as-experts-warn-of-key-risks/",
-      "summary": "<p>Ukraine is taking a significant step toward adding Bitcoin to its national reserves. On June 10, the Ukrainian parliament received a draft bill proposing an amendment to the National Bank of Ukraine&#8217;s (NBU) asset reserve policy. This change would allow the central bank to add cryptocurrencies alongside gold and foreign currencies to its reserves. Ukrainian [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "SUI Meteoric Rise: Golden Cross Signals A Potential 380% Explosion",
+      "link": "https://www.newsbtc.com/sui/sui-meteoric-380-explosion/",
+      "summary": "SUI has quickly become a standout performer in the crypto market, posting a dramatic 150% gain from $1.71 to $4.30. Yet, not all is smooth sailing. A $215 million token unlock on June 1, 2025, threatens to introduce major selling pressure. Volatility Meets Opportunity: SUI Charts A Risk-Reward Path According to SirRichard\u2019s latest update on X, SUI has exhibited notable price swings, but its long-term outlook remains firmly bullish. The token recently pulled off a remarkable 150% rally, climbing from a low of $1.71 to a high of $4.30. This explosive move caught the attention of traders, especially as it coincided with a golden cross formation on the daily chart, a classic technical signal that often precedes major bullish continuation. Related Reading: Breakout In Sight? SUI Set To Test Crucial $3.5 Resistance With ATH In View Based on this setup, SirRichard believes SUI could be preparing for an even more significant leg up, potentially targeting new highs around the $7.56 mark. If this plays out, it would represent a staggering 380% gain from earlier levels. However, he also warned that the journey may not be without obstacles, particularly as other technical and fundamental signals begin to surface. A recent bearish crossover in the Exponential Moving Averages (EMAs) may hinder SUI\u2019s bullish momentum in the short term. Additionally, the token unlock on June 1, 2025, resulting in the release of approximately $215 million worth of SUI into circulation, poses a potential risk. Such a large supply event could introduce selling pressure and spark short-term volatility if not absorbed smoothly by the market. Currently, immediate support lies between $3.40 and $3.43, which could act as a cushion in the event of a dip. On the upside, resistance is building around the $3.50\u2013$4.00 zone. A firm break above this level would reignite bullish momentum, paving the way for SUI\u2019s next upward surge. Bearish Winds Loom, But On-Chain Strength Holds Ground On the other hand, if bearish sentiment intensifies, the price could fall toward the $2.33 level, a key support that could be tested. Such a move would likely challenge bullish confidence and introduce volatility in the near term. Related Reading: Here\u2019s Why SUI At $3.61 Could Be the Calm Before A Parabolic Surge Despite this, the broader outlook is supported by impressive network activity. SUI\u2019s ecosystem has seen over $40 billion in aggregator volume, a significant metric pointing to strong participation and interest. Even more encouraging is the 24% increase in activity over the last 30 days, highlighting a growing user base and rising utility. These fundamentals serve as a strong counterbalance to short-term risks. If sustained, they could provide a firm foundation for renewed bullish momentum. As such, any price dip may offer a fresh opportunity for long-term investors. Featured image from Shutterstock, chart from Tradingview.com"
+    },
+    {
+      "title": "Bitcoin w rezerwie USA, a Bitcoin Hyper przyspiesza jego rozw\u00f3j",
+      "link": "https://www.newsbtc.com/crypto/bitcoin-w-rezerwie-usa-a-bitcoin-hyper-przyspiesza-jego-rozwoj/",
+      "summary": "Stany Zjednoczone oficjalnie rozpocz\u0119\u0142y budow\u0119 Rezerwy Strategicznej Bitcoina, a Bitcoin Hyper($HYPER) wspiera rozw\u00f3j warstwy drugiej kr\u00f3la kryptowalut. Nowa struktura powsta\u0142a z inicjatywy administracji Donalda Trumpa, kt\u00f3ra zdecydowa\u0142a si\u0119 wykorzysta\u0107 skonfiskowane \u015brodki w celu zabezpieczenia cyfrowych aktyw\u00f3w. Ten ruch nie wynika z przypadku. Z danych udost\u0119pnionych przez Gemini i Glassnode wynika, \u017ce ponad 30% ca\u0142kowitej poda\u017cy BTC znajduje si\u0119 w r\u0119kach scentralizowanych podmiot\u00f3w. W\u015br\u00f3d nich s\u0105 fundusze ETF, gie\u0142dy kryptowalut, przedsi\u0119biorstwa oraz rz\u0105dy. W raporcie podkre\u015blono, \u017ce zaanga\u017cowanie instytucji publicznych mo\u017ce mie\u0107 istotny wp\u0142yw na rozw\u00f3j rynku. Ka\u017cdy dolar wprowadzony przez pa\u0144stwowy kapita\u0142 przek\u0142ada si\u0119 na wzrost warto\u015bci rynkowej w wysoko\u015bci 25 dolar\u00f3w. Co wi\u0119cej, generuje 1,70 dolara trwa\u0142ego wzrostu warto\u015bci sieci. Tego typu wp\u0142yw sygnalizuje coraz wi\u0119ksze znaczenie strategicznych rezerw w \u015bwiecie cyfrowych aktyw\u00f3w. Nowy sygna\u0142 dla inwestor\u00f3w d\u0142ugoterminowych Bitcoin przestaje by\u0107 kojarzony wy\u0142\u0105cznie z aktywem spekulacyjnym. Wzrost liczby zasob\u00f3w przenoszonych z gie\u0142d do niezale\u017cnych depozytariuszy wskazuje na proces konsolidacji. Zmienno\u015b\u0107 kursu uleg\u0142a zmniejszeniu, co u\u0142atwia planowanie inwestycji w d\u0142u\u017cszym horyzoncie. Obecne cykle rynkowe nie przypominaj\u0105 ju\u017c gwa\u0142townych skok\u00f3w i spadk\u00f3w. Sprawd\u017a, jak kupi\u0107 Bitcoina. \u0179r\u00f3d\u0142o: CoinMarketCap Zamiast tego charakteryzuj\u0105 si\u0119 spokojniejszymi, bardziej stabilnymi wzrostami. Rezerwa Strategiczna dzia\u0142a nie tylko jako narz\u0119dzie ochrony warto\u015bci. Stanowi r\u00f3wnie\u017c dow\u00f3d na to, \u017ce pa\u0144stwa zaczynaj\u0105 w\u0142\u0105cza\u0107 kryptowaluty do swoich modeli zarz\u0105dzania finansami. Dla inwestor\u00f3w oznacza to zwi\u0119kszon\u0105 pewno\u015b\u0107, a tak\u017ce nowe formy zaanga\u017cowania kapita\u0142u instytucjonalnego. Zjawisko to mo\u017ce wp\u0142yn\u0105\u0107 na dalsze umacnianie pozycji Bitcoina w globalnym systemie finansowym. Bitcoin Hyper &#8211; nowa warstwa funkcjonalno\u015bci Pomimo coraz wi\u0119kszej akceptacji ze strony instytucji, g\u0142\u00f3wna sie\u0107 Bitcoina d\u0142ugo pozostawa\u0142a ograniczona w zakresie mo\u017cliwo\u015bci technologicznych. Sytuacja ta zmienia si\u0119 dzi\u0119ki projektowi Bitcoin Hyper. W ci\u0105gu pi\u0119ciu dni sprzeda\u017c tokena $HYPER przekroczy\u0142a milion dolar\u00f3w. Sprawd\u017a te\u017c najlepsze kryptowaluty poni\u017cej 1 dolara. To efekt rosn\u0105cego zapotrzebowania na rozwi\u0105zania, kt\u00f3re rozszerzaj\u0105 funkcjonalno\u015b\u0107 Bitcoina bez naruszania jego podstawowych zasad bezpiecze\u0144stwa. Bitcoin Hyper to druga warstwa Bitcoina zbudowana na maszynie wirtualnej Solany, kt\u00f3ra dzia\u0142a w po\u0142\u0105czeniu z bazow\u0105 warstw\u0105 BTC. Taka konstrukcja pozwala uzyska\u0107 ponad 2 tysi\u0105ce transakcji na sekund\u0119, zachowuj\u0105c przy tym odporno\u015b\u0107 na manipulacje oraz decentralizacj\u0119. U\u017cytkownicy mog\u0105 realizowa\u0107 szybkie przelewy, korzysta\u0107 z aplikacji zdecentralizowanych, a tak\u017ce uczestniczy\u0107 w nowych formach aktywno\u015bci, takich jak staking czy zdecentralizowany handel. Mechanizm dzia\u0142ania sieci Bitcoin Hyper System opiera si\u0119 na transparentnym modelu. U\u017cytkownik deponuje BTC w inteligentnym kontrakcie, kt\u00f3ry weryfikuje transakcj\u0119 na podstawie danych z \u0142a\u0144cucha blok\u00f3w. Nast\u0119pnie sie\u0107 emituje r\u00f3wnowa\u017cny token, mo\u017cliwy do wykorzystania w ekosystemie Bitcoin Hyper($HYPER). Po zako\u0144czeniu aktywno\u015bci u\u017cytkownik mo\u017ce spali\u0107 token i odzyska\u0107 oryginalne BTC. W tle dzia\u0142aj\u0105 dowody zerowej wiedzy oraz weryfikacja danych przez light clients. U\u017cytkownik przesy\u0142a bitcoiny do inteligentnego kontraktu, kt\u00f3ry potwierdza transakcj\u0119 na podstawie danych z sieci g\u0142\u00f3wnej. Po weryfikacji powstaje r\u00f3wnowa\u017cny token w sieci Hyper, gotowy do dalszego wykorzystania. Kiedy u\u017cytkownik chce wycofa\u0107 \u015brodki, token zostaje uniewa\u017cniony, a oryginalne Bitcoiny wracaj\u0105 do w\u0142a\u015bciciela. Ca\u0142y proces odbywa si\u0119 z u\u017cyciem zaawansowanych metod kryptograficznych, kt\u00f3re zapewniaj\u0105 bezpiecze\u0144stwo i zgodno\u015b\u0107 z g\u0142\u00f3wnym \u0142a\u0144cuchem bez konieczno\u015bci anga\u017cowania po\u015brednik\u00f3w. W\u0142a\u015bciciele tokena $HYPER mog\u0105 korzysta\u0107 z produkt\u00f3w o podwy\u017cszonym zwrocie, zyska\u0107 dost\u0119p do zaawansowanych narz\u0119dzi oraz uczestniczy\u0107 w dalszym rozwoju projektu. Tw\u00f3rcy aplikacji maj\u0105 szans\u0119 uzyska\u0107 dofinansowanie i zwroty koszt\u00f3w op\u0142at sieciowych, je\u015bli zdecyduj\u0105 si\u0119 wykorzystywa\u0107 $HYPER w swoich kontraktach. Dane z rynku potwierdzaj\u0105 skuteczno\u015b\u0107 modelu Bitcoin Hyper Podobne projekty ju\u017c wcze\u015bniej osi\u0105ga\u0142y znacz\u0105ce wyniki. Arbitrum zgromadzi\u0142o ponad 13 miliard\u00f3w dolar\u00f3w warto\u015bci zablokowanej oraz ponad milion aktywnych portfeli. Sie\u0107 Base, powi\u0105zana z Coinbase, przekroczy\u0142a warto\u015b\u0107 2,5 miliarda dolar\u00f3w i notuje ponad milion aktywnych adres\u00f3w dziennie. Dane te to dow\u00f3d na to, \u017ce dobrze zaprojektowane sieci drugiej warstwy mog\u0105 szybko zdobywa\u0107 rynek i u\u017cytkownik\u00f3w. Bitcoin Hyper ma potencja\u0142, \u017ceby powt\u00f3rzy\u0107 ten sukces i sta\u0107 si\u0119 jedn\u0105 z najlepszych przedsprzeda\u017cy kryptowalut. Ca\u0142kowita poda\u017c token\u00f3w zosta\u0142a ustalona na 21 miliard\u00f3w, bez alokacji dla uprzywilejowanych grup. Obecnie trwa przedsprzeda\u017c tokena $HYPER, a jeden z wi\u0119kszych inwestor\u00f3w naby\u0142 niedawno tokeny za r\u00f3wnowarto\u015b\u0107 55 tysi\u0119cy dolar\u00f3w. Tego rodzaju ruchy ze strony du\u017cych graczy cz\u0119sto prognozuj\u0105 wi\u0119ksze zmiany. Nowa rola Bitcoina w cyfrowym \u015bwiecie Rozw\u00f3j Rezerwy Strategicznej oraz wdro\u017cenie sieci Hyper to dwa bieguny tej samej zmiany. Z jednej strony wida\u0107 instytucjonalizacj\u0119 zasob\u00f3w cyfrowych. Z drugiej pojawiaj\u0105 si\u0119 narz\u0119dzia, kt\u00f3re poszerzaj\u0105 zakres ich u\u017cycia. Bitcoin przestaje pe\u0142ni\u0107 jedynie funkcj\u0119 przechowywania warto\u015bci. Staje si\u0119 \u015brodowiskiem operacyjnym dla ca\u0142ych aplikacji, us\u0142ug i produkt\u00f3w nowej generacji. Bitcoin Hyper wnosi do sieci Bitcoina funkcjonalno\u015b\u0107, kt\u00f3rej dot\u0105d brakowa\u0142o. Dzi\u0119ki nowej warstwie technicznej mo\u017cliwe staj\u0105 si\u0119 szybkie transakcje, obs\u0142uga aplikacji finansowych, zdecentralizowanych projekt\u00f3w i rozwi\u0105za\u0144 opartych na inteligentnych kontraktach. Sie\u0107 zyskuje skal\u0119, kt\u00f3rej wymaga nowoczesna gospodarka cyfrowa. Bitcoin nie pe\u0142ni ju\u017c wy\u0142\u0105cznie roli cyfrowego magazynu warto\u015bci. W po\u0142\u0105czeniu z Bitcoin Hyper przechodzi transformacj\u0119 w platform\u0119 operacyjn\u0105 dla szerszego ekosystemu finansowego. Mo\u017ce wspiera\u0107 codzienne zastosowania, przep\u0142ywy kapita\u0142u, tworzenie nowych us\u0142ug oraz rozwi\u0105za\u0144 dla u\u017cytkownik\u00f3w i firm. Kup Bitcoin Hyper"
+    },
     {
       "title": "Bitcoin Is Wildly Undervalued, Says Bitwise: \u2018Fair Price\u2019 Today Is $230,000",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-undervalued-bitwise-fair-price-today-230000/",
@@ -95,19 +105,14 @@
       "title": "Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-to-1-million-michael-saylor-laughs-off-crypto-winter-fears/",
       "summary": "Bitcoin\u2019s price outlook remains sky-high after Strategy founder Michael Saylor told Bloomberg on Tuesday that a market freeze won\u2019t come back. He argued that growing demand and limited daily supply point straight to a rally toward $1 million. Related Reading: Relentless Bitcoin Accumulation: Strategy Snaps Up 1,045 More BTC Supply And Demand Pressure According to Saylor, miners release only about 450 BTC each day. That adds up to roughly $50 million at today\u2019s price of around $109,859. He said once that $50 million is snapped up by buyers, there\u2019s no choice but for the price to climb. His view rests on the idea that active demand now matches or exceeds what miners sell. High Price Targets Based on reports, asset manager ARK Invest recently boosted its bull case for Bitcoin from $1.5 million to $2.4 million by the end of 2030. Saylor went even further. He said that as long as Bitcoin doesn\u2019t head to zero, it\u2019s bound for $1 million. His own firm has picked up 582,000 BTC since 2020. That stash is worth nearly $64 billion, according to Saylor Tracker data. Institutional And Political Support Saylor pointed to big names backing Bitcoin. He mentioned US President Donald Trump, US Treasury Secretary Scott Bessent and SEC chair Paul Atkins as signs that the asset has won its toughest battles. He also noted that banks are lining up to offer custody services. And he praised Bitcoin ETFs from BlackRock and others for buying coins daily. Volatility Warning Saylor didn\u2019t shy away from a cautionary note. He suggested that if Bitcoin hits $500,000 or $1 million, a fall to about $200,000 could follow. That\u2019s almost a 60% drop from the peak. His point was that big price swings are part of Bitcoin\u2019s history\u2014and likely its future. Beyond miner sales and whale wallets, analysts say wider market moves matter too. Spot and futures trading often top $10 billion a day, so $50 million of fresh buys might only nudge the price. Regulation could swing the other way if concerns over energy use or consumer protection grow. And rival cryptocurrencies keep popping up with new features. Related Reading: Owning 10,000 XRP? You\u2019re Among Crypto\u2019s Elite, Expert Claims What Comes Next Reports disclose the real test will be whether steady new buyers can outpace both miner supply and selling by holders looking to bank profits. Saylor\u2019s figures make a strong case for continued upside. But investors who build a plan around a $1 million Bitcoin should brace for big dips along the way. In the end, daily demand, political moves and how the rest of the financial world reacts will decide if those eye-popping targets really come to pass. Featured image from Getty Images, chart from TradingView"
-    },
-    {
-      "title": "Dogecoin Faces Make-Or-Break Moment This Month, Predicts Analyst",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-make-or-break-moment-this-month/",
-      "summary": "Dogecoin is changing hands near $0.198 on Wednesday afternoon in Europe, almost 20 % below its late-March high yet still clinging to an eleven-month up-trend that now converges with a formidable technical inflection, according to independent analyst \u201cVisionPulsed.\u201d Is This Dogecoin\u2019s Summer Liftoff? Speaking in a 10 June video, the analyst told viewers he had been \u201cmaking the case that the first two weeks of June should be when we start moving up\u2014if we\u2019re bullish. He conceded that \u201cthere is a chance the move has started\u201d after Dogecoin closed a two-day candle back above the 0.618 Fibonacci retracement drawn from the December 2024 swing high. The backdrop VisionPulsed describes is notably risk-on. Bitcoin is hovering around $109,500, roughly 3% shy of its all-time high, while Ethereum has punched out a fresh twelve-month high above $2,790. In equities, the S&#38;P Small-Cap 600\u2014an index the analyst referenced when he quipped that \u201cthe S&#38;P broke 600 yesterday\u201d\u2014posted its strongest five-day advance since March, a move the analyst interprets as validation of a global-liquidity gauge Global M2. Related Reading: Dogecoin Primed For Liftoff If It Can Break This Barrier: Key Price Targets Hash-ribbon signals on Bitcoin flipped positive two weeks ago, the analyst noted, historically an early marker of revived demand for risk assets. \u201cBitcoin at 110K says we should go up. Ethereum breaking out says we should go up. If we still don\u2019t go up\u2026 just pick a different investment choice.\u201d Central to VisionPulsed\u2019s thesis is a 70-day cyclical window counted from Dogecoin\u2019s April 1 local low. \u201cWe\u2019re approaching that 70-day mark.\u2026 It is now the time for it to be bullish,\u201d he said, warning that failure to rally before mid-June would all but invalidate the setup. Yet the analyst concedes that Dogecoin\u2019s fate is tethered to the ETH/BTC pair and to Bitcoin dominance, which has remained stubbornly elevated: \u201cWhen the ETH-BTC move does occur, that\u2019s going to be when the dominance falls and we need the dominance to fall because that\u2019s when Dogecoin goes to the moon.\u201d Until that rotation happens, any up-ticks in DOGE may remain prone to stalling beneath long-term resistance. Related Reading: Bloodbath Incoming? Dogecoin Must Hold This Level To Survive VisionPulsed identifies three price milestones that will decide sentiment. A daily close above $0.23 would constitute the first clear break of the descending trend-line in place since December, while $0.30\u2014the 0.618 retracement of the entire 2021\u20132024 bear market\u2014marks the level at which, he says, \u201cpeople will start talking about Dogecoin at your summer camp\u2026 it\u2019s going to be euphoric.\u201d Should time drag on, he allows that the trigger could slide to $0.27, but the message is stark: \u201cIf we just shoot up, it\u2019s still $0.30. If we take longer, it could be lower, but it\u2019s the same concept.\u201d With Bitcoin firm above six figures, Ethereum printing new local highs, and global liquidity gauges flashing green, the stage is set for an upside resolution. Whether Dogecoin can convert that macro tail-wind into a decisive break above $0.23\u2014and ignite the $0.30 euphoria line\u2014will become evident within the next fortnight. At press time, DOGE traded at $0.197. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Solaxy Coming to Ethereum with Hyperlane, Soon to Reach $48M in Presale",
-      "link": "https://www.newsbtc.com/news/solaxy-coming-to-ethereum-with-hyperlane-soon-to-reach-48m-in-presale/",
-      "summary": "Solaxy ($SOLX), Solana&#8217;s newest and most faithful project yet, has come out with its latest update that could change the way Web3 apps and tokens interact across blockchains. The project announced its collaboration with Hyperlane, a Web3 infrastructure project, to make bridging faster, easier, and more seamless than it&#8217;s ever been. Keep reading to learn more about Solaxy&#8217;s Hyperlane announcement, what it means for Solana and altcoin enthusiasts, and why it could benefit the Solaxy presale and help it achieve the magical $50M mark. Solaxy Revolutionizes Cross-Chain Support with New Hyperlane Integration It&#8217;s worth noting that traditional bridging, which means transferring tokens from one blockchain to another, is a slow and complex process. That&#8217;s where Solaxy begs to differ, though. With Hyperlane&#8217;s cutting-edge modular and permissionless architecture, Solaxy will build an entirely new type of bridge that connects Solana, Solaxy, and Ethereum flawlessly. This will be a first-of-its-kind Layer 2 bridge experience for Solana users, providing low latency (better speeds), improved affordability, and enhanced user experience. For developers and users on Solana, transferring tokens between the two blockchains would be as easy as using a regular app. Solaxy Aims to Help Solana Grow Bigger and Better Solana&#8217;s development is Solaxy&#8217;s core mission. That&#8217;s what this new crypto with an Einstein-ified Pepe the Frog as its face card is all about, in fact. $SOLX&#8217;s Hyperlane integration will help Solana plug directly into Ethereum, a blockchain with deep liquidity and a vast dApp ecosystem, helping it grow beyond its limitations (solving issues like limited scalability and network congestion). The launch of the $TRUMP and $MELANIA tokens earlier this year brought in a flurry of new investors to Solana. But, despite being a meme coin-friendly blockchain, it wasn&#8217;t prepared for the sudden spike in transaction requests. Which led to numerous failed transactions and massive congestion. Solaxy plans to remedy that, however, by building the first-ever Layer 2 scaling protocol on Solana. It will bring back the network&#8217;s glory days by increasing its efficiency and scaling it to higher levels. The project will offload a significant number of transactions onto a sidechain (L2) through its roll-up technology, easing the pressure off Solana&#8217;s L1. The L2 will also implement batch processing, executing transactions in bulk, instead of one by one. This will reduce the cost per transaction, making Solana an ever more affordable blockchain for crypto and meme coin degens. By bridging to Ethereum and Solana using Hyperlane, Solaxy becomes more than just a scaling tool. It&#8217;s a full-blown interoperable hub, allowing seamless crypto transfers between the most popular blockchains in the world. One Multi-Chain Token, Several Use Cases Thanks to its compatibility with multiple chains (Solana and Ethereum), Solaxy&#8217;s scalability and speed can be used to power high-frequency dApps, too. These include: Gaming ecosystems looking for real-time interactions Meme coin and microtransaction platforms Custom-built financial applications that need low latency and improved affordability And consider the fact that Ethereum is the second-most popular blockchain for dApps after BNB, with over 5K dApps live right now (10x more than Solana). Which brings us to the kicker: Solaxy&#8217;s Hyperlane bridging between its blockchain, Solana, and Ethereum, could be much more impactful than at first glance. $SOLX, as Solaxy&#8217;s token, should receive much much of this boost and keep growing at an accelerated rate as a result. Solaxy&#8217;s Record-Breaking Presale Performance As Solaxy&#8217;s real-world application keeps growing, $SOLX investors should receive the lion&#8217;s share of the benefits. $SOLX is currently in presale, having already raised an eye-watering $47.1M in early investor funding. Each token is currently priced at just $0.001752, and given Solaxy&#8217;s wild future potential \u2013 it could explode 11,300% and reach $0.20 by 2026 \u2013 this is an almost unbelievably good deal you&#8217;re getting on Solaxy right now. If you&#8217;re interested in supporting the next big thing in DeFi, visit the official Solaxy website, connect your crypto wallet, punch in the number of tokens you want to buy, and confirm the transaction from your wallet. It&#8217;s all so simple! For further help, check out our full explainer on how to buy Solaxy. Disclaimer: A crypto token&#8217;s potential notwithstanding, kindly bear in mind that the market doesn&#8217;t guarantee any returns. This article isn&#8217;t financial advice, and we urge you to do your own research before investing."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Skull, $5 million; Banana, $6 million; Freedom, Priceless",
+      "link": "https://bitcoinmagazine.com/culture/skull-5-million-banana-6-million-freedom-priceless",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/result_banana.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/culture/skull-5-million-banana-6-million-freedom-priceless\" rel=\"nofollow\"> </a></p> <p>Freedom. Decentralization. Unity.<br /> And without a certificate of authenticity, all Justin Sun gifted Ross Ulbricht was a 1/1 print of the original art.</p> <p>"
+    },
     {
       "title": "The CLARITY Act Heads To House Floor For Vote With Protection For Noncustodial Tools Intact",
       "link": "https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact",
@@ -127,14 +132,19 @@
       "title": "Evertz Pharma Becomes First German Company With Strategic Bitcoin Reserve, Adds 100 BTC to Treasury",
       "link": "https://bitcoinmagazine.com/news/evertz-pharma-becomes-first-german-company-with-strategic-bitcoin-reserve-adds-100-btc-to-treasury",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Evertz-Pharma-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/evertz-pharma-becomes-first-german-company-with-strategic-bitcoin-reserve-adds-100-btc-to-treasury\" rel=\"nofollow\"> </a></p> <p>Evertz Pharma GmbH, a company focusing on premium natural cosmetics, has become Germany\u2019s first company to adopt a strategic Bitcoin reserve model by purchasing an additional 100 BTC in May 2025\u2014valued at approximately \u20ac10 million (~$10.8 million USD), according to a press release.&#160; The adoption marks a continued expansion of the company\u2019s BTC treasury, which [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Michael Saylor: The Bear Market Is Not Coming Back And Bitcoin Is Going To $1 Million",
-      "link": "https://bitcoinmagazine.com/news/michael-saylor-the-bear-market-is-not-coming-back-and-bitcoin-is-going-to-1-million",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Michael-Saylor-The-Bear-Market-Is-Not-Coming-Back-And-Bitcoin-Is-Going-To-1-Million.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/michael-saylor-the-bear-market-is-not-coming-back-and-bitcoin-is-going-to-1-million\" rel=\"nofollow\"> </a></p> <p>In a Bloomberg interview, Strategy CEO Michael Saylor announces that Bitcoin is not going to zero, it is going to $1 million.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Crypto Industry\u2019s Coveted Market Structure Bill Is Doomed, Lobbyists Say",
+      "link": "https://decrypt.co/324686/crypto-coveted-market-structure-bill-doomed-lobbyists",
+      "summary": "The landmark bill\u2019s odds of passage have been derailed by macro political forces, crypto policy leaders believe."
+    },
+    {
+      "title": "Invesco Hires JP Morgan Veteran to Lead Its $1.6 Billion Crypto ETF Business",
+      "link": "https://decrypt.co/324691/invesco-hires-jpmorgan-veteran-lead-1-6-billion-crypto-etf-business",
+      "summary": "The global asset manager, which boasts $1.8 trillion assets under management, has welcomed Kathleen Wrynn to manage its portfolio of crypto ETFs and other tokenized assets."
+    },
     {
       "title": "Payments Giant Stripe to Acquire Crypto Wallet Tech Firm Privy",
       "link": "https://decrypt.co/324674/payments-giant-stripe-acquire-crypto-firm-privy",
@@ -149,19 +159,14 @@
       "title": "Why You Are Thinking About Ethereum All Wrong",
       "link": "https://decrypt.co/324655/why-you-are-thinking-about-ethereum-all-wrong",
       "summary": "Current narratives around Ethereum would suggest the blockchain network is in distress. EY's Paul Brody explains what the critics get wrong."
-    },
-    {
-      "title": "PayPal Expands PYUSD Stablecoin to Stellar, Joining Ethereum and Solana",
-      "link": "https://decrypt.co/324642/paypal-pyusd-stablecoin-stellar-ethereum-solana",
-      "summary": "The payment giant's stablecoin product will soon be available on the blockchain network behind XLM."
-    },
-    {
-      "title": "Ethereum ETFs Record Best Day in 4 Months With $125 Million in Investments",
-      "link": "https://decrypt.co/324639/ethereum-etfs-record-best-day-4-months-125-million",
-      "summary": "Spot Ethereum ETFs generated $125 million in inflows on Tuesday, representing their best daily performance since early February."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Fintech giant Stripe to acquire crypto wallet provider Privy following $1.1B stablecoin deal",
+      "link": "https://cryptobriefing.com/stripe-acquires-privy-enhancing-services/",
+      "summary": "<p>Stripe's acquisition of Privy signals a significant step towards enhancing global digital financial infrastructure and streamlining crypto adoption.</p> <p>"
+    },
     {
       "title": "Bitcoin rally could resume as tariff fears ease and CPI cools, says analyst",
       "link": "https://cryptobriefing.com/bitcoin-rally-potential-inflation-tariff-ease/",
@@ -181,14 +186,14 @@
       "title": "Solana ETFs could be approved in 3-5 weeks, SEC signals openness to staking",
       "link": "https://cryptobriefing.com/solana-etf-approval-potential-signals/",
       "summary": "<p>The potential approval of Solana ETFs could significantly boost institutional investment in crypto, enhancing market legitimacy and innovation.</p> <p>"
-    },
-    {
-      "title": "Wall Street\u2019s Guggenheim Treasury brings its flagship tokenized debt instrument to XRP Ledger",
-      "link": "https://cryptobriefing.com/guggenheim-treasury-launches-tokenized-commercial-paper-xrp-ledger/",
-      "summary": "<p>The integration of tokenized debt on the XRP Ledger could accelerate blockchain adoption in traditional finance, enhancing liquidity and efficiency.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "South Korea\u2019s stablecoin bill sparks KAIA\u2019s 20% jump: More gains ahead?",
+      "link": "https://ambcrypto.com/south-koreas-stablecoin-bill-sparks-kaias-20-jump-more-gains-ahead/",
+      "summary": "<img alt=\"South Korea&#039;s stablecoin bill sparks KAIA&#039;s 20% jump: More gains ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_41_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />South Korea's crypto bill just sent KAIA flying...here's what we know!"
+    },
     {
       "title": "90% chance for Solana ETFs in 2025 \u2013 Is it time to buy SOL now?",
       "link": "https://ambcrypto.com/solanas-spot-etfs-90-approval-odds-is-it-time-to-buy-sol/",
@@ -208,11 +213,6 @@
       "title": "SPX6900\u2019s gains look strong, but THESE red flags could surprise you!",
       "link": "https://ambcrypto.com/spx6900s-gains-look-strong-but-these-red-flags-could-surprise-you/",
       "summary": "<img alt=\"Is SPX6900 unstoppable? Traders, wait, THESE 2 red flags suggest a rude wake-up!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250611_114632_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SPX has led the market with significant gains, but the sustainability of this rally is now in question."
-    },
-    {
-      "title": "Why SEC delayed its Polkadot, Hedera ETF decisions, and what\u2019s next",
-      "link": "https://ambcrypto.com/why-sec-delayed-its-polkadot-hedera-etf-decisions-and-whats-next/",
-      "summary": "<img alt=\"Why SEC delayed its Polkadot, Hedera ETF decisions, and what&#039;s next\" class=\"attachment-full size-full wp-post-image\" height=\"669\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/SEC-delays-polkadot-and-hedera-etf.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1190\" />Is the SEC's caution a permanent hurdle or just a phase?"
     }
   ]
 }
