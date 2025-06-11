@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Senate Begins Passage of Stablecoin Bill as House Marks Market-Structure Wins",
+      "link": "https://www.coindesk.com/policy/2025/06/11/senate-begins-passage-of-stablecoin-bill-as-house-marks-market-structure-wins",
+      "summary": ""
+    },
+    {
+      "title": "SUI Token Trades Flat Despite Signs of Strong ETF Momentum",
+      "link": "https://www.coindesk.com/markets/2025/06/11/sui-token-trades-flat-despite-signs-of-strong-etf-momentum",
+      "summary": ""
+    },
+    {
+      "title": "Financial Advisors Remain Hesitant Towards Bitcoin \u2014 But Won\u2019t Be for Long",
+      "link": "https://www.coindesk.com/markets/2025/06/11/financial-advisors-are-still-hesitant-towards-bitcoin-but-wont-be-for-long",
+      "summary": ""
+    },
+    {
       "title": "Meta's Stablecoin Plan Questioned by Democrats Ahead of Key Senate Vote",
       "link": "https://www.coindesk.com/policy/2025/06/11/metas-stablecoin-plan-questioned-by-democrats-ahead-of-key-senate-vote",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "Connecticut's Ban Throws Water on 2025 Trend of States Setting Up Crypto Investments",
       "link": "https://www.coindesk.com/policy/2025/06/11/connecticut-s-ban-throws-water-on-2025-trend-of-states-setting-up-crypto-investments",
       "summary": ""
-    },
-    {
-      "title": "Ether Surges Toward $3K on Tentative U.S.\u2013China Trade Pact and Soft U.S. CPI Report",
-      "link": "https://www.coindesk.com/markets/2025/06/11/ether-surges-toward-usd3k-on-tentative-u-s-china-trade-pact-and-soft-u-s-cpi-report",
-      "summary": ""
-    },
-    {
-      "title": "Digital Assets Are One Step Closer to Regulatory Clarity",
-      "link": "https://www.coindesk.com/opinion/2025/06/11/digital-assets-are-one-step-closer-to-regulatory-clarity",
-      "summary": ""
-    },
-    {
-      "title": "Stripe to Acquire Crypto Wallet Startup Privy in Bid to Expand Web3 Capabilities",
-      "link": "https://www.coindesk.com/business/2025/06/11/stripe-to-acquire-crypto-wallet-startup-privy-in-bid-to-expand-web3-capabilities",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "GENIUS stablecoin bill passes key vote, advances in Senate",
+      "link": "https://cointelegraph.com/news/us-senate-passes-cloture-genius-stablecoin-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjgzMzUtZWM1Yi03MjQzLWJmYzktNjJjMzU0YWJkMmYy.jpg\" /></p><p>Weeks after a stablecoin bill stalled over Trump-linked concerns, the Senate advanced the GENIUS Act.</p>"
+    },
     {
       "title": "How to set up and use AI-powered crypto trading bots",
       "link": "https://cointelegraph.com/news/how-to-set-up-and-use-ai-powered-crypto-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Developer accuses Ethereum Foundation of undermining devs, creating \u2018secret\u2019 teams",
       "link": "https://cointelegraph.com/news/geth-lead-developer-accuses-ethereum-foundation-creating-secret-team?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDMwZjUtMWU5Yy03ODlkLTk1MzktOGJjNmQ1MjE5OGU5.jpg\" /></p><p>P\u00e9ter Szil\u00e1gyi, a former Ethereum Foundation employee and the lead Geth developer, said the organization repeatedly undermined his team.</p>"
-    },
-    {
-      "title": "\u2018Unique\u2019 Bitcoin holder trend backs BTC\u2019s next price discovery phase: Glassnode",
-      "link": "https://cointelegraph.com/news/unique-bitcoin-holder-trend-backs-btc-s-next-price-discovery-phase-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njc5YjEtMzljZi03MmFkLTgyYzYtMTE3MTY4MDM2ZGRl.jpg\" /></p><p>Bitcoin enters a unique market phase as rising long-term holder dominance and compressed volatility could potentially trigger a fresh round of price discovery.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "World Chain and Circle join forces to strengthen identity-driven finance with native USDC",
+      "link": "https://cryptoslate.com/world-chain-and-circle-join-forces-to-strengthen-identity-driven-finance-with-native-usdc/",
+      "summary": "<p>World Chain has integrated native USD Coin (USDC) and Circle\u2019s Cross-Chain Transfer Protocol V2 (CCTP V2), marking a significant partnership between the biometric identity blockchain and one of the largest regulated stablecoin issuers in the world. The upgrade replaces bridged USDC with native issuance on World Chain, while retaining the same smart contract address, allowing [&#8230;]</p> <p>"
+    },
     {
       "title": "Interactive Strength to launch AI-driven crypto treasury with $500 million Fetch.ai token acquisition",
       "link": "https://cryptoslate.com/interactive-strength-to-launch-ai-driven-crypto-treasury-with-500-million-fetch-ai-token-acquisition/",
@@ -73,14 +78,14 @@
       "title": "Polygon\u2019s governance revamp to focus on stablecoin payments and AggLayer",
       "link": "https://cryptoslate.com/polygons-governance-revamp-to-focus-on-stablecoin-payments-and-agglayer/",
       "summary": "<p>Polygon&#8217;s governance is undergoing a significant transformation, with co-founder Sandeep Nailwal stepping in as the Foundation&#8217;s first CEO. In a June 11 post on X, Nailwal said: &#8220;As the largest holder of POL and someone who dedicated his life to development and success of Polygon from the very beginning, I have decided to take full [&#8230;]</p> <p>"
-    },
-    {
-      "title": "XRP derivatives traders boost leverage as funding costs jump",
-      "link": "https://cryptoslate.com/xrp-derivatives-traders-boost-leverage-as-funding-costs-jump/",
-      "summary": "<p>A slow but clear divergence is emerging in XRP&#8217;s derivatives market: open interest has eased modestly over the past month, but the amount of leverage employed by traders is steadily rising. With spot demand softening and funding rates climbing to near their monthly highs, XRP appears to be entering a phase of elevated positioning risk, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "XRP Price To New All-Time Highs Above $4 \u2013 Analyst Reveals When To Take Profit",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-to-all-time-highs-above-4/",
+      "summary": "The XRP price is turning bullish once again, with new technical analysis indicating that the altcoin could be on track for a fresh All-Time High (ATH). As the price moves toward breaking key resistance levels, analysts are calling for a potential surge above $4. Alongside this outlook, they have provided detailed trading guidance and identified the ideal timeframe for investors to consider taking profits. Master Ananda, a prominent TradingView analyst, has reported that XRP is currently showing strong technical signs of a bullish breakout that could lead to new all-time highs above $4.5. Despite experiencing a months-long downtrend, the cryptocurrency appears to be entering a powerful new growth phase that could bring its price significantly higher than previous ATH levels around $3.84. XRP Price Eyes Huge ATH Breakout Above $4.5 Notably, the TradingView analyst points to the bottom of a recent correction forming on April 7, with a peak established on May 12. This was followed by a 24-day retracement phase that ended on June 5, when XRP formed a higher low. Based on these price movements, Master Ananda notes that it\u2019s been approximately 27 days since XRP last saw bullish price action, marking almost an entire month of consolidation. Related Reading: XRP Wave Structure Predicts Wild Fluctuations On Its Way To $4 ATH Nevertheless, the analyst highlights that the recent confirmation candle on June 8 supports the expectation that XRP is resuming its upward trajectory. The analyst\u2019s chart illustrates a clear breakout from a descending trendline, followed by a shift into an ascending channel. This formation, paired with substantial volume activity and a bullish price structure, signals a possibly strong rally for XRP. Fibonacci levels drawn on the chart suggest that XRP could reach a near-term target of $4.5 (1.618 Fob) after surpassing upper resistance levels at $2.71 and $3.019. The chart also shows a potential for XRP to exceed this initial $4.5 level to reach $6.29 (2.618 Fib). Notably, Master Ananda predicts that XRP could reach a peak before most assets this cycle, as its bullish momentum had an early start with a historic run from $0.5 to slightly above $3 this year. The analyst also forecasts that once XRP reaches the top, a significant correction could follow, potentially marking the end of the current bullish setup. Analyst Unveils Trading Strategy And Take Profit Zone Beyond short-term price action, Master Ananda outlines a broader trading strategy focused on holding through the current growth wave. Rather than taking incremental profits around the $2.71 and $3.02 price highs, the analyst recommends that traders maintain a full position until XRP hits the $4.5 target and take-profit zone. Related Reading: Wave Structure Puts XRP Price In The $18.22-$23.20 Range In The Short Term This approach is designed to capture the maximum upside potential of this bullish cycle without diluting gains through early exits. Once XRP reaches this level, the analyst suggests taking profit partially\u2014-not to exit entirely but to prepare capital for a potential redeployment during the next market retracement. Master Ananda also positions XRP as a lead indicator in what could be an extended altcoin bull market. A breakout above $4.5 will likely trigger explosive growth in lower-cap cryptocurrencies. While XRP is expected to generate up to 50% gains, these assets, according to the TradingView analyst, have the potential to yield returns of 150% in a single day. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "SUI Meteoric Rise: Golden Cross Signals A Potential 380% Explosion",
       "link": "https://www.newsbtc.com/sui/sui-meteoric-380-explosion/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Price Break Above $107,000 Triggers Bullishness, These Factors Will Drive A Faster Rise",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-107000-triggers-bulls/",
       "summary": "After days of testing a resistance zone at $106,000, Bitcoin has finally broken above the $107,000 mark to confirm a strong bullish momentum that has been building since early June. The breakout, which has seen Bitcoin reclaim $110,000 briefly in the past 24 hours, follows several failed attempts to close above this pivotal level. Technical analysis of the Bitcoin price indicates that the breakout above $107,000 has given bulls back control. Particularly, technical analysis from crypto analyst Micha\u00ebl van de Poppe suggests that Bitcoin&#8217;s price will accelerate for the rest of the week. $106,500 Confirms Strength, Analyst Eye Accelerated Move Over the past few days, Bitcoin\u2019s price structure has been forming a rounded base with higher lows, gradually coiling under a support turned resistance. Now that the breakout has occurred, bulls seem to be back in control. Related Reading: Why The Bitcoin Price Could See Another 70%-170% Jump From Here According to Micha\u00ebl van de Poppe, a widely-followed crypto analyst on the social media platform X, the decisive moment came after Bitcoin cleared the $106,500 resistance, a level he previously mentioned he&#8217;s looking at. In his post, he noted that as long as Bitcoin maintains support above this zone, momentum will continue to shift in favor of buyers. Specifically, he pointed out that day traders are likely to pile in with new long positions, while short sellers are either closing their positions or getting squeezed out entirely. Both of these actions will continue to generate buying pressure, at least in the short term. This shift in market structure has already begun to play out. As the chart below shows, the previous resistance zone around $107,000, which was a strong support during the earlier ATH moves in May, has now flipped. This zone had repeatedly rejected price advances, acting as a price ceiling since May 30. Now, with the breakout confirmed and volume increasing, the analyst expects a swift rally toward $108,900 and beyond for the rest of the week. Bulls Prepare For New Bitcoin All-Time High The timing of this breakout also coincides with the start of the trading week, which Van de Poppe describes as a great start to the week and a continued upside for the remainder of the week. More often than not in this cycle, Bitcoin has exhibited sentiment surges early in the week that persisted throughout the week. If Bitcoin can consolidate above the $107,000 to $108,000 range without falling back into the previous structure, it could enter a new price zone as soon as the $111,000 barrier is breached. Related Reading: Bitcoin Diamond Hands Are Buying Again, Here\u2019s Why It\u2019s Bullish For The Market With increasing interest due to ETF inflows, it could serve as the launchpad for Bitcoin\u2019s next major leg up, carrying it toward new all-time highs before the end of June. At the time of writing, Bitcoin is trading at $109,455, having recently reached an intraday high of $110,237. The leading cryptocurrency is currently only about 2.5% away from setting a new all-time high. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-to-1-million-michael-saylor-laughs-off-crypto-winter-fears/",
-      "summary": "Bitcoin\u2019s price outlook remains sky-high after Strategy founder Michael Saylor told Bloomberg on Tuesday that a market freeze won\u2019t come back. He argued that growing demand and limited daily supply point straight to a rally toward $1 million. Related Reading: Relentless Bitcoin Accumulation: Strategy Snaps Up 1,045 More BTC Supply And Demand Pressure According to Saylor, miners release only about 450 BTC each day. That adds up to roughly $50 million at today\u2019s price of around $109,859. He said once that $50 million is snapped up by buyers, there\u2019s no choice but for the price to climb. His view rests on the idea that active demand now matches or exceeds what miners sell. High Price Targets Based on reports, asset manager ARK Invest recently boosted its bull case for Bitcoin from $1.5 million to $2.4 million by the end of 2030. Saylor went even further. He said that as long as Bitcoin doesn\u2019t head to zero, it\u2019s bound for $1 million. His own firm has picked up 582,000 BTC since 2020. That stash is worth nearly $64 billion, according to Saylor Tracker data. Institutional And Political Support Saylor pointed to big names backing Bitcoin. He mentioned US President Donald Trump, US Treasury Secretary Scott Bessent and SEC chair Paul Atkins as signs that the asset has won its toughest battles. He also noted that banks are lining up to offer custody services. And he praised Bitcoin ETFs from BlackRock and others for buying coins daily. Volatility Warning Saylor didn\u2019t shy away from a cautionary note. He suggested that if Bitcoin hits $500,000 or $1 million, a fall to about $200,000 could follow. That\u2019s almost a 60% drop from the peak. His point was that big price swings are part of Bitcoin\u2019s history\u2014and likely its future. Beyond miner sales and whale wallets, analysts say wider market moves matter too. Spot and futures trading often top $10 billion a day, so $50 million of fresh buys might only nudge the price. Regulation could swing the other way if concerns over energy use or consumer protection grow. And rival cryptocurrencies keep popping up with new features. Related Reading: Owning 10,000 XRP? You\u2019re Among Crypto\u2019s Elite, Expert Claims What Comes Next Reports disclose the real test will be whether steady new buyers can outpace both miner supply and selling by holders looking to bank profits. Saylor\u2019s figures make a strong case for continued upside. But investors who build a plan around a $1 million Bitcoin should brace for big dips along the way. In the end, daily demand, political moves and how the rest of the financial world reacts will decide if those eye-popping targets really come to pass. Featured image from Getty Images, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Circle Stock Jumps as USDC Stablecoin Expands to Sam Altman's World Chain",
+      "link": "https://decrypt.co/324696/circle-stock-jumps-usdc-stablecoin-world-chain",
+      "summary": "Shares of stablecoin issuer Circle spiked on Wednesday as its USDC token expands natively to another blockchain, World Chain."
+    },
+    {
       "title": "Crypto Industry\u2019s Coveted Market Structure Bill Is Doomed, Lobbyists Say",
       "link": "https://decrypt.co/324686/crypto-coveted-market-structure-bill-doomed-lobbyists",
       "summary": "The landmark bill\u2019s odds of passage have been derailed by macro political forces, crypto policy leaders believe."
@@ -154,11 +159,6 @@
       "title": "Gate Marks 12 Years in Crypto With \u2018Evolving Vision\u2019",
       "link": "https://decrypt.co/324658/gate-marks-12-years-in-crypto-with-evolving-vision",
       "summary": "The crypto exchange is celebrating its 12th anniversary with a sweeping brand transformation and pushes into AI and RWAs."
-    },
-    {
-      "title": "Why You Are Thinking About Ethereum All Wrong",
-      "link": "https://decrypt.co/324655/why-you-are-thinking-about-ethereum-all-wrong",
-      "summary": "Current narratives around Ethereum would suggest the blockchain network is in distress. EY's Paul Brody explains what the critics get wrong."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin update: From 80 bytes to 4MB \u2013 How BTC\u2019s brain can get bigger",
+      "link": "https://ambcrypto.com/bitcoin-update-from-80-bytes-to-4mb-how-btcs-brain-just-got-bigger/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-13-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A new Bitcoin update lifting OP_RETURN\u2019s data limit to 4MB reignites debate over Bitcoin\u2019s future."
+    },
+    {
       "title": "South Korea\u2019s stablecoin bill sparks KAIA\u2019s 20% jump: More gains ahead?",
       "link": "https://ambcrypto.com/south-koreas-stablecoin-bill-sparks-kaias-20-jump-more-gains-ahead/",
       "summary": "<img alt=\"South Korea&#039;s stablecoin bill sparks KAIA&#039;s 20% jump: More gains ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_41_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />South Korea's crypto bill just sent KAIA flying...here's what we know!"
@@ -208,11 +213,6 @@
       "title": "Ethena\u2019s short-term direction hinges on $0.37 resistance \u2013 Will bulls prevail?",
       "link": "https://ambcrypto.com/ethenas-short-term-direction-hinges-on-0-37-resistance-will-bulls-prevail/",
       "summary": "<img alt=\"Ethena&#039;s short-term direction hinges on $0.37 resistance - Will bulls prevail?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-11T115334.177-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />ENA faces breakout pressure as bulls confront trapped holders and rising volatility signals."
-    },
-    {
-      "title": "SPX6900\u2019s gains look strong, but THESE red flags could surprise you!",
-      "link": "https://ambcrypto.com/spx6900s-gains-look-strong-but-these-red-flags-could-surprise-you/",
-      "summary": "<img alt=\"Is SPX6900 unstoppable? Traders, wait, THESE 2 red flags suggest a rude wake-up!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250611_114632_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SPX has led the market with significant gains, but the sustainability of this rally is now in question."
     }
   ]
 }
