@@ -1,7 +1,7 @@
 {
   "CoinDesk": [
     {
-      "title": "XRP Ledger's Ethereum-Compaitable Sidechain to Go Live in Q2",
+      "title": "XRP Ledger's Ethereum-Compatible Sidechain to Go Live in Q2",
       "link": "https://www.coindesk.com/markets/2025/06/11/xrp-ledger-s-ethereum-compaitable-sidechain-to-go-live-in-q2",
       "summary": ""
     },
@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "CFPB\u2019s top enforcer exits with scathing email on Trump: Report",
+      "link": "https://cointelegraph.com/news/cfpb-top-enforcer-criticizes-trump-resignation-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjA5MzUtYzZjNy03MTQ4LTk4NzAtMTdjM2I1ODJjZjdh.jpg\" /></p><p>Consumer Financial Protection Bureau acting enforcement director Cara Petersen has quit, saying that she has never \u201cseen the ability to perform our core mission so under attack.\u201d</p>"
+    },
+    {
+      "title": "Fortune 500\u2019s interest in stablecoins triples from last year: Coinbase",
+      "link": "https://cointelegraph.com/news/stablecoin-interest-grows-fortune-500-coinbase-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVjMmQtMDBkMy03YzhkLWI2ODgtNWI2MmRmMWQyOGJi.jpg\" /></p><p>Nearly 30% of the 100 executives at a Fortune 500 firm said their company has plans or is interested in stablecoins, up from 8% who said the same last year.</p>"
+    },
+    {
       "title": "Bitcoin-buying GameStop drops as Q1 revenues miss estimates",
       "link": "https://cointelegraph.com/news/gamestop-drops-q1-revenue-misses-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVjOTEtNWYwYi03ZTcxLWIyM2MtZTE5MjM1NzY2NmJk.jpg\" /></p><p>GameStop shares slid over 3.5% after-hours on Tuesday, falling to just above $29 after the video game retailer missed revenue estimates for Q1.</p>"
@@ -41,16 +51,6 @@
       "title": "Bitcoin update to raise data limit on divisive OP_RETURN function",
       "link": "https://cointelegraph.com/news/bitcoin-op-return-data-limit-raise-next-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzViYjktYTkxMi03MTdkLWFjMDgtNDVlNzhhNDc2NGU1.jpg\" /></p><p>Bitcoin Core dev Gloria Zhao says the data limit for OP_RETURN will be raised in October, infuriating several Bitcoin users who prefer images, text and audio to stay off the blockchain.</p>"
-    },
-    {
-      "title": "Ether price hits 15-week high: Will $1.8B in short liquidations send ETH above $3K?",
-      "link": "https://cointelegraph.com/news/ether-price-hits-15-week-high-will-1-8b-in-short-liquidations-send-eth-above-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVhMDEtZGQ2OS03OGZjLTgyYTMtYzdhYjkwMmVhYjc4.jpg\" /></p><p>ETH open interest reached a record $40 billion as Ether price rallied above $2,800 for the first time in 15 weeks.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Bank of Korea Governor to Meet Bank Chiefs as Stablecoin Debate Heats Up",
+      "link": "https://decrypt.co/324548/bank-korea-governor-bank-chiefs-stablecoin-debate",
+      "summary": "The upcoming meeting signals a shift in South Korea's approach to won-backed stablecoins as the new president eyes a regulatory overhaul."
+    },
+    {
       "title": "Why Strategy\u2019s Bitcoin Buys Could Pose Long-Term Risks Despite Boosting Demand",
       "link": "https://decrypt.co/324540/strategys-bitcoin-buys-risks",
       "summary": "Swiss crypto bank Sygnum sees a potential concentration risk for Bitcoin that could deter central banks from adopting it as a reserve asset."
@@ -154,11 +159,6 @@
       "title": "South Korea Stablecoin Bill to Allow Companies to Issue the Tokens: Report",
       "link": "https://decrypt.co/324507/south-korea-stablecoin-bill-allow-companies-issue-tokens-report",
       "summary": "Newly elected president Lee Jae-myung has been supportive of the industry in a country where crypto is popular."
-    },
-    {
-      "title": "Blockchain Use Surging at Fortune 500, Smaller Firms: Coinbase",
-      "link": "https://decrypt.co/324508/blockchain-use-soaring-fortune-500-smaller-firms-coinbase",
-      "summary": "The exchange's latest State of Crypto report found that 60% of Fortune 500 companies were working on blockchain initiatives."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin\u2019s $108K breakout: Is retail FOMO driving the market?",
+      "link": "https://ambcrypto.com/bitcoins-108k-breakout-is-retail-fomo-driving-the-market/",
+      "summary": "<img alt=\"Bitcoin&#039;s $108K breakout: Is retail FOMO driving the market?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-9-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Retail FOMO is rising as whales place high-leverage bets."
+    },
+    {
       "title": "Bitcoin Open Interest drops by $1B as traders back off: A drop to $106K next?",
       "link": "https://ambcrypto.com/bitcoin-open-interest-drops-by-1b-as-traders-back-off-a-drop-to-106k-next/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-13.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin Open Interest drops by $1 billion, indicating that large scale positions have started to unwind."
@@ -208,11 +213,6 @@
       "title": "Why is crypto up today? Bitcoin in a short squeeze as U.S-China talks fuel rally",
       "link": "https://ambcrypto.com/why-is-crypto-up-today-bitcoin-in-a-short-squeeze-as-u-s-china-talks-fuel-rally/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Why-is-crypto-up-today-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Experts remain cautious despite the early week Bitcoin pump."
-    },
-    {
-      "title": "PENGU hits key support after 11% jump\u2014Is a breakout imminent?",
-      "link": "https://ambcrypto.com/pengu-hits-key-support-after-11-jump-is-a-breakout-imminent/",
-      "summary": "<img alt=\"PENGU\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-5.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />After the 11% surge in a day, will PENGU maintain the upward momentum?"
     }
   ]
 }
