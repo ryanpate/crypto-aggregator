@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "GameStop Raising Another $1.75B for Potential Bitcoin Purchases",
+      "link": "https://www.coindesk.com/business/2025/06/11/gamestop-raising-another-175b-for-potential-bitcoin-purchases",
+      "summary": ""
+    },
+    {
       "title": "Safe Establishes New Development Firm to Attract Institutions and Tackle Crypto\u2019s \u2018Cyber Warfare\u2019 Era",
       "link": "https://www.coindesk.com/tech/2025/06/11/safe-establishes-new-development-firm-to-attract-institutions-and-tackle-cryptos-cyber-warfare-era",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "SUI Token Trades Flat Despite Signs of Strong ETF Momentum",
       "link": "https://www.coindesk.com/markets/2025/06/11/sui-token-trades-flat-despite-signs-of-strong-etf-momentum",
       "summary": ""
-    },
-    {
-      "title": "Financial Advisors Remain Hesitant Towards Bitcoin \u2014 But Won\u2019t Be for Long",
-      "link": "https://www.coindesk.com/markets/2025/06/11/financial-advisors-are-still-hesitant-towards-bitcoin-but-wont-be-for-long",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin price rally to $115K possible as US economic data exceeds expectations",
+      "link": "https://cointelegraph.com/news/bitcoin-rally-to-115k-possible-due-to-improving-us-macroeconomics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZjZDgtZjE0Zi03NWY5LWFmNGMtN2YwODAwYjZkMzIz.jpg\" /></p><p>Bitcoin technical charts and encouraging US macroeconomic data could trigger a rally to $115,000.</p>"
+    },
     {
       "title": "US senators question Meta\u2019s stablecoin plans amid GENIUS Act debate",
       "link": "https://cointelegraph.com/news/us-senators-meta-stablecoin-plans-genius-act-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "How to set up and use AI-powered crypto trading bots",
       "link": "https://cointelegraph.com/news/how-to-set-up-and-use-ai-powered-crypto-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY4M2ItMGFmZC03OTlmLTliMzYtNzkzYjg1OGJmMTU4.jpg\" /></p><p>A practical guide to setting up, using and optimizing AI crypto trading bots, plus a glimpse into where intelligent trading is headed next.</p>"
-    },
-    {
-      "title": "Price predictions 6/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, SUI, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-6-11-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmZDgtNmVjZi03YzA3LWEwZDMtZTM4NDM0ZDYwZGY4.jpg\" /></p><p>Bitcoin price trades near its all-time high as ETH and several altcoins start fresh rallies.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin dips as Trump finalizes tariff deals with China",
+      "link": "https://cryptoslate.com/bitcoin-dips-as-trump-finalizes-tariff-deals-with-china/",
+      "summary": "<p>Bitcoin (BTC) and the wider market experienced a minor pullback after President Donald Trump announced the finalization of a new tariff arrangement with China, pending a formal sign-off by him and President Xi Jinping. Trump announced on Truth Social that the accord grants the US &#8220;55% tariffs&#8221; on Chinese goods, versus 10% levied on US [&#8230;]</p> <p>"
+    },
     {
       "title": "Senate\u2019s 68-30 cloture vote speeds GENIUS Act toward simple majority passage",
       "link": "https://cryptoslate.com/senates-68-30-cloture-vote-speeds-genius-act-toward-simple-majority-passage/",
@@ -73,14 +78,14 @@
       "title": "Bitcoin hashrate up 40% this year as miners keep scaling",
       "link": "https://cryptoslate.com/insights/bitcoin-hashrate-up-40-this-year-as-miners-keep-scaling/",
       "summary": "<p>Bitcoin\u2019s network difficulty remains pinned at a record 127 T following its most recent adjustment on May 31, yet the underlying hashrate continues to push higher. As of June 10, the average seven-day hashrate is roughly 901 EH/s, with several daily prints brushing against 920 EH/s. This suggests a persistent mismatch between the protocol\u2019s two-week [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethereum open interest hits all-time high as price rises to 4-month high",
-      "link": "https://cryptoslate.com/insights/ethereum-open-interest-hits-all-time-high-as-price-rises-to-4-month-high/",
-      "summary": "<p>Ethereum has surged more than 5% in the past 24 hours, climbing above $2,860 to reach its highest price since February. The rally comes amid rising activity in the derivatives market, signaling strong market conviction behind the move. On-chain data suggests that rising futures interest is driving much of the market\u2019s current enthusiasm. Open interest, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Is Bitcoin Headed For A Meltdown? Veteran Trader Sees 75% Crash Ahead",
+      "link": "https://www.newsbtc.com/news/bitcoin/is-bitcoin-headed-for-a-meltdown-veteran-trader-sees-75-crash-ahead/",
+      "summary": "Bitcoin\u2019s recent price surge hasn\u2019t stopped warnings of a steep drop. After rising 1.87% in 24 hours and 3.61% over the past week, Bitcoin trades near $109,192. According to Peter Brandt, a veteran trader, these gains could be setting up the biggest crash in years. Related Reading: Relentless Bitcoin Accumulation: Strategy Snaps Up 1,045 More BTC Crash Scenario Outlined According to Brandt\u2019s analysis, Bitcoin could plunge by as much as 75%. If that happens, today\u2019s $109,800 price would fall to roughly $27,290. That level takes us back to the lows of early 2023. It would wipe out a huge chunk of value, reversing more than two years of gains. Few investors have models ready for such a steep slide. Historical Parallels With 2022 Based on reports, Brandt sees a replay of the 2022 chart. Back then, Bitcoin hit tops of $65K in April 2021 and $69K in November 2021. It then fell sharply into the bear market, losing more than half its value. Is Bitcoin $BTC following its 2022 script and setting up for a 75% correction? Doesn&#8217;t hurt to ask this, does it? pic.twitter.com/BAywkhSwgy \u2014 Peter Brandt (@PeterLBrandt) June 10, 2025 This time around, the world&#8217;s top crypto formed highs above $108,000 in December 2024 and January 2025, then dropped under $100,000. After recovering near $112,000 last month, BTC may be gearing up for a similar breakdown. Trigger Points To Watch Key technical markers are flashing red. The 9-period EMA has just crossed below the 21-period EMA on the daily chart. In past sell-offs, that crossover marked the start of big downtrends. Traders will want to see if Bitcoin closes below both EMAs for a week or more. A failure to reclaim the $108,000 level could be the final trigger before panic sets in. Market Reactions And Risks Derivatives data is mixed but leans bearish. Trading volume jumped almost 30% to $100 billion, while open interest rose 1%. On Binance and OKX, the long/short ratios sit at about 0.5501 and 0.53, showing more shorts than longs. When too many people bet on a drop, a squeeze can follow\u2014if the crash doesn\u2019t start soon. Still, the current crowding could backfire if Bitcoin holds above support. Related Reading: Owning 10,000 XRP? You\u2019re Among Crypto\u2019s Elite, Expert Claims Funds tied to Bitcoin have seen nearly $57 million in outflows over the past week. That may sound big, but it\u2019s under 0.2% of the roughly $50 billion assets under management. By contrast, Ethereum products attracted $295 million. So while some money is leaving Bitcoin, it\u2019s shifting around inside crypto rather than fleeing entirely. For now, Bitcoin sits at a crossroads. Will it break support and roll over toward the mid-$20,000s? Or will it shake off warnings and press higher? Either way, traders need to watch the $108,000 zone closely. According to Brandt, a 75% drop could catch unprepared investors off guard. Managing risk and keeping orders tight seems more critical now than ever. Featured image from Pixabay, chart from TradingView"
+    },
     {
       "title": "XRP Price To New All-Time Highs Above $4 \u2013 Analyst Reveals When To Take Profit",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-to-all-time-highs-above-4/",
@@ -100,14 +105,14 @@
       "title": "Bitcoin Is Wildly Undervalued, Says Bitwise: \u2018Fair Price\u2019 Today Is $230,000",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-undervalued-bitwise-fair-price-today-230000/",
       "summary": "Bitcoin is once again knocking on the door of price discovery, but researchers at Bitwise Asset Management argue that spot quotations still understate what the network is worth. In their Week 24 Crypto Market Compass circulated late Tuesday, Dr. Andr\u00e9 Dragosch, Bitwise\u2019s Head of Research for Europe, and analyst Ayush Tripathi calculate that \u201cquantitative models estimate Bitcoin\u2019s hypothetical \u2018fair value\u2019 amid the current sovereign default probabilities at around $230,000 today.\u201d The figure implies a premium of just over 110 percent to the market price, which was hovering near $109,600 at press time on 11 June 2025. Bitcoin\u2019s \u2018True Worth\u2019 Is Explosive Dragosch ties that assessment to the rally in sovereign-risk hedges. United-States one-year credit-default-swap spreads are trading near half-percentage-point territory\u2014levels last seen during the 2023 debt-ceiling scare\u2014reflecting \u201cbroader concerns over the US fiscal deficit,\u201d Reuters reported last week. \u201cBitcoin can provide an alternative \u2018portfolio insurance\u2019 against widespread sovereign defaults as a scarce, decentralised asset which is free of counterparty risks,\u201d the note argues, adding that net interest outlays projected by the Congressional Budget Office point to a tripling of US debt-service costs to roughly $3 trillion by 2030. Related Reading: Bitcoin Skyrockets Past $108,000 Amid US-China Tariff Discussions The macro backdrop, however, is not the only pillar supporting Bitwise\u2019s fair-value call. The firm\u2019s in-house Cryptoasset Sentiment Index shows twelve of fifteen market-breadth gauges trending higher, while the cross-asset risk-appetite index (CARA) compiled from equities, credit, rates and commodities has surged to a five-year high. \u201cBoth cryptoasset and cross-asset sentiment are now decisively bullish,\u201d Dragosch writes, noting that Bitcoin\u2019s climb back above $110,000 places it within two percent of the all-time high near $112,000 set in May. On-chain data remain constructive. Exchange reserves have slipped to 2.91 million BTC\u2014about 14.6 percent of the circulating supply\u2014after whales withdrew an estimated 390,632 BTC last week. At the same time, net exchange-spot outflows slowed to roughly $0.53 billion from $1.78 billion the previous week, suggesting lighter profit-taking pressure. Derivative positioning echoes the spot-market resilience. Aggregate Bitcoin futures open interest added 2,200 BTC across venues, while the CME leg gained 6.4 k BTC. Funding rates on perpetual swaps stayed positive overall despite flipping negative for parts of the weekend, and the three-month annualised basis held around 6.3 percent. In options, open interest expanded by 27,300 BTC, with the put-to-call ratio settling at 0.55; one-month 25-delta skew remained modestly negative, implying continued demand for downside hedges even as realised volatility slipped to 28.2 percent. Institutional flows are reinforcing the bullish tone. Global crypto ETPs absorbed $488.5 million last week, of which $254.9 million went into Bitcoin products. US spot Bitcoin ETFs led the charge with $525 million of inflows, counterbalanced by a $24.1 million weekly leak from the Grayscale Bitcoin Trust. Bitwise\u2019s own BITB vehicle attracted $78.1 million, while its European physical Bitcoin ETP (BTCE) saw only marginal outflows. Ethereum products also enjoyed $260.9 million in net inflows, maintaining the broad-based risk bid. Related Reading: Bitcoin &#38; Ethereum Diverge\u2014ETF Flows Just Flipped The Narrative Bitwise concedes that headline risk can still provoke sharp, short-lived drawdowns\u2014last week\u2019s spat between Elon Musk and President Donald Trump briefly drove BTC back to $100,000\u2014but sees structural forces firmly tilted to the upside. \u201cUS economic policy uncertainty has most likely passed its zenith already and continues to decline at the margin,\u201d Dragosch writes, pointing to May non-farm-payroll growth of 139,000 and a moderation in recession odds. With Bitcoin already outperforming traditional assets year-to-date and cross-asset sentiment now confirmed by Bitwise\u2019s indicators, the analysts argue that the market is beginning to price the asset less as a speculative vehicle and more as a macro hedge. Whether traders embrace the $230,000 fair-value marker hinges on the same variables underscored in the note\u2014sovereign-risk premiums, policy uncertainty and the pace of institutional adoption\u2014but the groundwork, they say, is visible on-chain, on desks and in the flow data. \u201cBitcoin also reclaimed 110k USD and is close to its previous all-time high,\u201d the report reminds readers. For Bitwise, that proximity is not an end point but a staging area: the monetary asset\u2019s intrinsic value, they conclude, resides \u201cconsiderably further north.\u201d At press time, BTC traded at $109,617. &#160; Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Price Break Above $107,000 Triggers Bullishness, These Factors Will Drive A Faster Rise",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-107000-triggers-bulls/",
-      "summary": "After days of testing a resistance zone at $106,000, Bitcoin has finally broken above the $107,000 mark to confirm a strong bullish momentum that has been building since early June. The breakout, which has seen Bitcoin reclaim $110,000 briefly in the past 24 hours, follows several failed attempts to close above this pivotal level. Technical analysis of the Bitcoin price indicates that the breakout above $107,000 has given bulls back control. Particularly, technical analysis from crypto analyst Micha\u00ebl van de Poppe suggests that Bitcoin&#8217;s price will accelerate for the rest of the week. $106,500 Confirms Strength, Analyst Eye Accelerated Move Over the past few days, Bitcoin\u2019s price structure has been forming a rounded base with higher lows, gradually coiling under a support turned resistance. Now that the breakout has occurred, bulls seem to be back in control. Related Reading: Why The Bitcoin Price Could See Another 70%-170% Jump From Here According to Micha\u00ebl van de Poppe, a widely-followed crypto analyst on the social media platform X, the decisive moment came after Bitcoin cleared the $106,500 resistance, a level he previously mentioned he&#8217;s looking at. In his post, he noted that as long as Bitcoin maintains support above this zone, momentum will continue to shift in favor of buyers. Specifically, he pointed out that day traders are likely to pile in with new long positions, while short sellers are either closing their positions or getting squeezed out entirely. Both of these actions will continue to generate buying pressure, at least in the short term. This shift in market structure has already begun to play out. As the chart below shows, the previous resistance zone around $107,000, which was a strong support during the earlier ATH moves in May, has now flipped. This zone had repeatedly rejected price advances, acting as a price ceiling since May 30. Now, with the breakout confirmed and volume increasing, the analyst expects a swift rally toward $108,900 and beyond for the rest of the week. Bulls Prepare For New Bitcoin All-Time High The timing of this breakout also coincides with the start of the trading week, which Van de Poppe describes as a great start to the week and a continued upside for the remainder of the week. More often than not in this cycle, Bitcoin has exhibited sentiment surges early in the week that persisted throughout the week. If Bitcoin can consolidate above the $107,000 to $108,000 range without falling back into the previous structure, it could enter a new price zone as soon as the $111,000 barrier is breached. Related Reading: Bitcoin Diamond Hands Are Buying Again, Here\u2019s Why It\u2019s Bullish For The Market With increasing interest due to ETF inflows, it could serve as the launchpad for Bitcoin\u2019s next major leg up, carrying it toward new all-time highs before the end of June. At the time of writing, Bitcoin is trading at $109,455, having recently reached an intraday high of $110,237. The leading cryptocurrency is currently only about 2.5% away from setting a new all-time high. Featured image from Getty Images, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "F Street Announced Goal Of Accumulating $10 Million In Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/F-Street-Announced-Goal-Of-Accumulating-10-Million-In-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin\" rel=\"nofollow\"> </a></p> <p>F Street plans adding Bitcoin to its corporate treasury and wants to establish public proof of reserves for stakeholders. </p> <p>"
+    },
     {
       "title": "Bitdeer Mined 196 Bitcoin Worth Over $21 Million In May",
       "link": "https://bitcoinmagazine.com/news/bitdeer-mined-196-bitcoin-worth-over-21-million-in-may",
@@ -127,11 +132,6 @@
       "title": "Stripe Acquires Startup Privy To Expand Bitcoin Strategy",
       "link": "https://bitcoinmagazine.com/news/stripe-acquires-startup-privy-to-expand-bitcoin-strategy",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Stripe-Acquires-Startup-Privy-To-Expand-Bitcoin-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/stripe-acquires-startup-privy-to-expand-bitcoin-strategy\" rel=\"nofollow\"> </a></p> <p>Privy joins Stripe to build a Bitcoin and crypto wallet infrastructure. </p> <p>"
-    },
-    {
-      "title": "Paul Tudor Jones: Bitcoin, Gold, Stocks Are The Best Portfolio To Fight Inflation",
-      "link": "https://bitcoinmagazine.com/news/paul-tudor-jones-bitcoin-gold-stocks-are-the-best-portfolio-to-fight-inflation",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Paul-Tudor-Jones-Bitcoin-Gold-Stocks-Are-The-Best-Portfolio-To-Fight-Inflation.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/paul-tudor-jones-bitcoin-gold-stocks-are-the-best-portfolio-to-fight-inflation\" rel=\"nofollow\"> </a></p> <p>Billionaire Paul Tudor Jones said that bitcoin, gold, stocks would be the best portfolio to have to fight against inflation in an interview with Bloomberg.</p> <p>"
     }
   ],
   "Decrypt": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "AAVE\u2019s rally can reach $416 this time \u2013 2 reasons why",
+      "link": "https://ambcrypto.com/aaves-rally-can-reach-416-this-time-2-reasons-why/",
+      "summary": "<img alt=\"AAVE at $416: Traders say the rally is &#039;real&#039; this time - Why?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-11T133057.272_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AAVE gained over 100% since April and broke $290, a key resistance now acting as [&#8230;]"
+    },
+    {
       "title": "Bitcoin to $1M? \u2013 Michael Saylor dismisses crypto winter claims",
       "link": "https://ambcrypto.com/bitcoin-to-1m-michael-saylor-dismisses-crypto-winter-claims/",
       "summary": "<img alt=\"Saylor rejects crypto winter fears\" class=\"attachment-full size-full wp-post-image\" height=\"842\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Saylor-rejects-crypto-winter-fears.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1497\" />Michael Saylor predicts Bitcoin's rise to $1M, citing institutional interest and supply scarcity."
@@ -208,11 +213,6 @@
       "title": "90% chance for Solana ETFs in 2025 \u2013 Is it time to buy SOL now?",
       "link": "https://ambcrypto.com/solanas-spot-etfs-90-approval-odds-is-it-time-to-buy-sol/",
       "summary": "<img alt=\"Solana ETF\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Solana-ETF.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL could be grossly undervalued at current levels if the ETF approval happens in July."
-    },
-    {
-      "title": "Avalanche adoption surges 275% \u2013 Can it help AVAX break above $24?",
-      "link": "https://ambcrypto.com/avalanche-adoption-surges-275-can-it-help-avax-break-above-24/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-95-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AVAX\u2019s network activity is booming, but major resistance still threatens its short-term upside momentum."
     }
   ]
 }
