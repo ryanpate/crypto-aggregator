@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Crypto Daybook Americas: Ether Outshines Bitcoin Ahead of CPI; Traders Eye \u2018Altcoin ETF Summer\u2019",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/11/crypto-daybook-americas-ether-outshines-bitcoin-ahead-of-cpi-traders-eye-altcoin-etf-summer",
+      "summary": ""
+    },
+    {
+      "title": "Ukrainian Lawmakers Submit Bill for Creation of Crypto Reserve",
+      "link": "https://www.coindesk.com/policy/2025/06/11/ukrainian-lawmakers-submit-bill-for-creation-of-crypto-reserve",
+      "summary": ""
+    },
+    {
       "title": "Shiba Inu Whale Transactions Over $100K Plunge as U.S. Inflation Data Looms",
       "link": "https://www.coindesk.com/markets/2025/06/11/shiba-inu-whale-transactions-over-usd100k-plunge-as-u-s-inflation-data-looms",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "VivoPower to Deploy $100M in XRP on Flare, Add Ripple USD for Treasury Operations",
       "link": "https://www.coindesk.com/business/2025/06/11/vivopower-to-deploy-usd100m-in-xrp-on-flare-add-ripple-usd-for-treasury-operations",
       "summary": ""
-    },
-    {
-      "title": "Crypto Exchange Bullish Files for U.S. IPO as Digital Asset Enthusiasm Mounts: FT",
-      "link": "https://www.coindesk.com/markets/2025/06/11/crypto-exchange-bullish-files-for-us-ipo-as-digital-asset-enthusiasm-mounts-ft",
-      "summary": ""
-    },
-    {
-      "title": "XRP Consolidates Near $2.28 Amid Slew of Wins for Ripple, XRPL",
-      "link": "https://www.coindesk.com/markets/2025/06/11/xrp-consolidates-near-228-amid-slew-of-wins-for-ripple-xrpl",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Nasdaq-listed Interactive Strength launches $500M AI token treasury with Fetch.ai",
+      "link": "https://cointelegraph.com/news/nasdaq-listed-trnr-to-raise-500m-for-fet-ai-token-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVlZWMtNTY5MC03YmVkLTkzMWYtMmEwODE5YjEzYTAw.jpg\" /></p><p>Interactive Strength aims to launch the world\u2019s largest corporate AI-crypto treasury to boost shareholder value and incorporate AI tools.</p>"
+    },
+    {
+      "title": "FTX users fight to unlock $2.2B in still-disputed bankruptcy claims",
+      "link": "https://cointelegraph.com/news/ftx-creditors-fight-2-2b-of-disputed-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ0ZTgtYjczMi03NWI2LWE1OWItNDJiYjQ5ZTJkNTMw.jpg\" /></p><p>FTX creditors are awaiting progress on at least $2.2 billion worth of disputed claims, with some users reporting issues with the KYC verification process.</p>"
+    },
     {
       "title": "Sandeep Nailwal takes charge of Polygon Foundation as first CEO",
       "link": "https://cointelegraph.com/news/sandeep-nailwal-takes-control-of-polygon-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "How high can Bitcoin price go?",
       "link": "https://cointelegraph.com/news/how-high-can-bitcoin-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk3NTgtMjY5Mi03MTI3LTk1YWUtYmJjMzU4ZTM4NGRk.jpg\" /></p><p>Bitcoin reached $110,000 on June 11, prompting predictions for a further rally to new all-time highs, including $1 million BTC price calls.</p>"
-    },
-    {
-      "title": "PancakeSwap launches one-click crosschain swaps to simplify DeFi UX",
-      "link": "https://cointelegraph.com/news/pancakeswap-one-click-crosschain-swaps-simplify-defi-ux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkwOWYtMzA5OS03YjM3LWE3ZWItZTdlZTJlMzk5NzFh.jpg\" /></p><p>PancakeSwap now offers one-click crosschain swaps with Across Protocol, aiming to reduce bridge risk and improve DeFi user experience across Arbitrum, Base and BNB Chain.</p>"
-    },
-    {
-      "title": "Crypto asset reserve bill lands in Ukraine\u2019s parliament",
-      "link": "https://cointelegraph.com/news/crypto-reserve-bill-ukraine-s-parliament?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVkYmYtYTg0Ni03MmRmLWFkNzktOGUyMWEyOWQxOTQ0.jpg\" /></p><p>Although the bill would allow the National Bank of Ukraine to acquire crypto assets like Bitcoin as part of state reserves, it would not require the bank to do so.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ripple brings Ondo Finance\u2019s tokenized US Treasuries to XRP Ledger in push for RWA expansion",
+      "link": "https://cryptoslate.com/ripple-brings-ondo-finances-tokenized-us-treasuries-to-xrp-ledger-in-push-for-real-world-asset-expansion/",
+      "summary": "<p>Ripple has brought Ondo Finance&#8217;s tokenized US Treasuries product, Ondo Short-Term US Government Treasuries (OUSG), to the XRP Ledger. The launch was announced on June 11 and is seen as a move to expand the reach of institutional-grade tokenized assets across the fast-rising blockchain network. According to the statement, the integration allows institutional investors to [&#8230;]</p> <p>"
+    },
     {
       "title": "Plasma raises $500 million, partners with Aave to transform stablecoin market",
       "link": "https://cryptoslate.com/plasma-raises-500-million-partners-with-aave-to-transform-stablecoin-market/",
@@ -73,14 +78,19 @@
       "title": "FTX continues to exclude Nigeria and China in remaining creditor repayments but includes Payoneer",
       "link": "https://cryptoslate.com/ftx-continues-to-exclude-nigeria-and-china-in-remaining-creditor-repayments-but-includes-payoneer/",
       "summary": "<p>FTX, the bankrupt crypto exchange, has added Payoneer to its creditors&#8217; repayment options, according to a June 10 statement. The new company would serve as an additional asset distribution channel, alongside BitGo and Kraken. Payoneer operates a global payments platform across more than 190 countries and territories. Under the agreement, Payoneer will help distribute funds [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin holding $100k psychological floor amid recent dip signals robust investor sentiment",
-      "link": "https://cryptoslate.com/bitcoin-holding-100k-psychological-floor-amid-recent-dip-signals-robust-investor-sentiment/",
-      "summary": "<p>On-chain data shows that Bitcoin&#8217;s (BTC) brief slide to $100,000 strengthened rather than weakened market structure, Glassnode said in a June 10 report. Bitcoin is currently trading at $109,500, after an over 4% climb on June 9 to hit a weekly high of $110,600. The report noted that the 9% drawdown following the June 7 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Dogecoin Faces Make-Or-Break Moment This Month, Predicts Analyst",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-make-or-break-moment-this-month/",
+      "summary": "Dogecoin is changing hands near $0.198 on Wednesday afternoon in Europe, almost 20 % below its late-March high yet still clinging to an eleven-month up-trend that now converges with a formidable technical inflection, according to independent analyst \u201cVisionPulsed.\u201d Is This Dogecoin\u2019s Summer Liftoff? Speaking in a 10 June video, the analyst told viewers he had been \u201cmaking the case that the first two weeks of June should be when we start moving up\u2014if we\u2019re bullish. He conceded that \u201cthere is a chance the move has started\u201d after Dogecoin closed a two-day candle back above the 0.618 Fibonacci retracement drawn from the December 2024 swing high. The backdrop VisionPulsed describes is notably risk-on. Bitcoin is hovering around $109,500, roughly 3% shy of its all-time high, while Ethereum has punched out a fresh twelve-month high above $2,790. In equities, the S&#38;P Small-Cap 600\u2014an index the analyst referenced when he quipped that \u201cthe S&#38;P broke 600 yesterday\u201d\u2014posted its strongest five-day advance since March, a move the analyst interprets as validation of a global-liquidity gauge Global M2. Related Reading: Dogecoin Primed For Liftoff If It Can Break This Barrier: Key Price Targets Hash-ribbon signals on Bitcoin flipped positive two weeks ago, the analyst noted, historically an early marker of revived demand for risk assets. \u201cBitcoin at 110K says we should go up. Ethereum breaking out says we should go up. If we still don\u2019t go up\u2026 just pick a different investment choice.\u201d Central to VisionPulsed\u2019s thesis is a 70-day cyclical window counted from Dogecoin\u2019s April 1 local low. \u201cWe\u2019re approaching that 70-day mark.\u2026 It is now the time for it to be bullish,\u201d he said, warning that failure to rally before mid-June would all but invalidate the setup. Yet the analyst concedes that Dogecoin\u2019s fate is tethered to the ETH/BTC pair and to Bitcoin dominance, which has remained stubbornly elevated: \u201cWhen the ETH-BTC move does occur, that\u2019s going to be when the dominance falls and we need the dominance to fall because that\u2019s when Dogecoin goes to the moon.\u201d Until that rotation happens, any up-ticks in DOGE may remain prone to stalling beneath long-term resistance. Related Reading: Bloodbath Incoming? Dogecoin Must Hold This Level To Survive VisionPulsed identifies three price milestones that will decide sentiment. A daily close above $0.23 would constitute the first clear break of the descending trend-line in place since December, while $0.30\u2014the 0.618 retracement of the entire 2021\u20132024 bear market\u2014marks the level at which, he says, \u201cpeople will start talking about Dogecoin at your summer camp\u2026 it\u2019s going to be euphoric.\u201d Should time drag on, he allows that the trigger could slide to $0.27, but the message is stark: \u201cIf we just shoot up, it\u2019s still $0.30. If we take longer, it could be lower, but it\u2019s the same concept.\u201d With Bitcoin firm above six figures, Ethereum printing new local highs, and global liquidity gauges flashing green, the stage is set for an upside resolution. Whether Dogecoin can convert that macro tail-wind into a decisive break above $0.23\u2014and ignite the $0.30 euphoria line\u2014will become evident within the next fortnight. At press time, DOGE traded at $0.197. Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
+      "title": "Solaxy Coming to Ethereum with Hyperlane, Soon to Reach $48M in Presale",
+      "link": "https://www.newsbtc.com/news/solaxy-coming-to-ethereum-with-hyperlane-soon-to-reach-48m-in-presale/",
+      "summary": "Solaxy ($SOLX), Solana&#8217;s newest and most faithful project yet, has come out with its latest update that could change the way Web3 apps and tokens interact across blockchains. The project announced its collaboration with Hyperlane, a Web3 infrastructure project, to make bridging faster, easier, and more seamless than it&#8217;s ever been. Keep reading to learn more about Solaxy&#8217;s Hyperlane announcement, what it means for Solana and altcoin enthusiasts, and why it could benefit the Solaxy presale and help it achieve the magical $50M mark. Solaxy Revolutionizes Cross-Chain Support with New Hyperlane Integration It&#8217;s worth noting that traditional bridging, which means transferring tokens from one blockchain to another, is a slow and complex process. That&#8217;s where Solaxy begs to differ, though. With Hyperlane&#8217;s cutting-edge modular and permissionless architecture, Solaxy will build an entirely new type of bridge that connects Solana, Solaxy, and Ethereum flawlessly. This will be a first-of-its-kind Layer 2 bridge experience for Solana users, providing low latency (better speeds), improved affordability, and enhanced user experience. For developers and users on Solana, transferring tokens between the two blockchains would be as easy as using a regular app. Solaxy Aims to Help Solana Grow Bigger and Better Solana&#8217;s development is Solaxy&#8217;s core mission. That&#8217;s what this new crypto with an Einstein-ified Pepe the Frog as its face card is all about, in fact. $SOLX&#8217;s Hyperlane integration will help Solana plug directly into Ethereum, a blockchain with deep liquidity and a vast dApp ecosystem, helping it grow beyond its limitations (solving issues like limited scalability and network congestion). The launch of the $TRUMP and $MELANIA tokens earlier this year brought in a flurry of new investors to Solana. But, despite being a meme coin-friendly blockchain, it wasn&#8217;t prepared for the sudden spike in transaction requests. Which led to numerous failed transactions and massive congestion. Solaxy plans to remedy that, however, by building the first-ever Layer 2 scaling protocol on Solana. It will bring back the network&#8217;s glory days by increasing its efficiency and scaling it to higher levels. The project will offload a significant number of transactions onto a sidechain (L2) through its roll-up technology, easing the pressure off Solana&#8217;s L1. The L2 will also implement batch processing, executing transactions in bulk, instead of one by one. This will reduce the cost per transaction, making Solana an ever more affordable blockchain for crypto and meme coin degens. By bridging to Ethereum and Solana using Hyperlane, Solaxy becomes more than just a scaling tool. It&#8217;s a full-blown interoperable hub, allowing seamless crypto transfers between the most popular blockchains in the world. One Multi-Chain Token, Several Use Cases Thanks to its compatibility with multiple chains (Solana and Ethereum), Solaxy&#8217;s scalability and speed can be used to power high-frequency dApps, too. These include: Gaming ecosystems looking for real-time interactions Meme coin and microtransaction platforms Custom-built financial applications that need low latency and improved affordability And consider the fact that Ethereum is the second-most popular blockchain for dApps after BNB, with over 5K dApps live right now (10x more than Solana). Which brings us to the kicker: Solaxy&#8217;s Hyperlane bridging between its blockchain, Solana, and Ethereum, could be much more impactful than at first glance. $SOLX, as Solaxy&#8217;s token, should receive much much of this boost and keep growing at an accelerated rate as a result. Solaxy&#8217;s Record-Breaking Presale Performance As Solaxy&#8217;s real-world application keeps growing, $SOLX investors should receive the lion&#8217;s share of the benefits. $SOLX is currently in presale, having already raised an eye-watering $47.1M in early investor funding. Each token is currently priced at just $0.001752, and given Solaxy&#8217;s wild future potential \u2013 it could explode 11,300% and reach $0.20 by 2026 \u2013 this is an almost unbelievably good deal you&#8217;re getting on Solaxy right now. If you&#8217;re interested in supporting the next big thing in DeFi, visit the official Solaxy website, connect your crypto wallet, punch in the number of tokens you want to buy, and confirm the transaction from your wallet. It&#8217;s all so simple! For further help, check out our full explainer on how to buy Solaxy. Disclaimer: A crypto token&#8217;s potential notwithstanding, kindly bear in mind that the market doesn&#8217;t guarantee any returns. This article isn&#8217;t financial advice, and we urge you to do your own research before investing."
+    },
     {
       "title": "Ethereum Staging A Repeat Of Bitcoin\u2019s 2021 Cycle? Here\u2019s The Target",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeat-bitcoin-2021/",
@@ -95,16 +105,6 @@
       "title": "Bitcoin Back At $109,000, But HODLer Profit-Taking Down 89%",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-109000-but-hodler-profit-taking-down-89/",
       "summary": "On-chain data shows the veterans of the Bitcoin market are taking 89% less profits compared to the May peak, despite prices being similar now. Bitcoin Realized Profit For 1Y+ Hands Is Relatively Low Right Now In a new post on X, the on-chain analytics firm Glassnode has talked about the latest trend in the Realized Profit of the seasoned hands on the Bitcoin network. The &#8220;Realized Profit&#8221; refers to an indicator that measures, as its name implies, the amount of profit that the BTC investors are realizing through their selling. The metric works by going through the transfer history of each coin being transacted or &#8216;sold&#8217; on the chain to see what price it was moved at prior to this. If the previous selling value is less than the current price for any token, then that particular token&#8217;s sale is contributing to profit realization. Related Reading: Toncoin Heading Toward 40% Breakout, Pattern Could Suggest The amount of profit realized in the sale is naturally equal to the difference between the two prices. The Realized Profit sums up this value for all tokens being transferred to find the total for the network as a whole. In the context of the current topic, the Realized Profit of the entire userbase isn&#8217;t of interest, but just that of a specific part of it: the 1+ year holders. These are the investors who have been holding onto their coins since more than a year, without having involved them in a transaction even once. Statistically, the longer an investor holds onto their tokens, the less likely they become to sell them in the future. As such, this part of the userbase with its significant holding time would include the resolute diamond hands of the market. Now, here is the chart shared by Glassnode that shows the trend in the Bitcoin Realized Profit for these HODLers over the last few months: As displayed in the above graph, the Bitcoin Realized Profit of the 1+ year investors observed a huge spike in late May. This sharp profit-taking spree from these seasoned hands came as BTC surged to $110,000 following its post all-time high (ATH) pullback. Shortly after the selloff from this cohort, BTC started on a decline. During the past day, though, the asset has appeared to have finally shoved off this bearish momentum, as it has once more returned above the $109,000 mark. This time, however, there hasn&#8217;t been any significant reaction from the diamond hands. Currently, the 24-hour simple moving average (SMA) of the group&#8217;s Realized Profit sits at $13.6 million, which is 89% down compared to the $126 million peak from last month. Related Reading: Bitcoin Defies Bears: Price Nears $108,000 Despite $250M Exchange Inflows It&#8217;s possible that the veterans of the market think there is more to come in the latest Bitcoin rally, so they are choosing to HODL strong. BTC Price At the time of writing, Bitcoin is floating around $109,100, up more than 2% in the last seven days. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Flashes Golden Cross On Daily Chart \u2013 Is A New ATH Within Reach?",
-      "link": "https://www.newsbtc.com/ethereum-news/ethereum-flashes-golden-cross-on-daily-chart-is-a-new-ath-within-reach/",
-      "summary": "Ethereum (ETH), the second-largest cryptocurrency by market cap, may finally be awakening from its slumber. It recently flashed a bullish golden cross on the daily chart &#8211; a signal that has many crypto analysts forecasting a potential new all-time high (ATH) in the near future. Ethereum Flashes Bullish Golden Cross In an X post published today, crypto analyst Titan of Crypto noted that ETH has formed a golden cross on its daily chart. He shared the following chart and remarked that bullish momentum appears to be building for Ethereum. To explain, a golden cross is a bullish technical pattern that occurs when a short-term moving average (MA) &#8211; typically the 50-day &#8211; crosses above a long-term MA like the 200-day. It signals a potential shift in momentum and is often seen as an indicator of a sustained upward trend. Related Reading: Ethereum Market Shows Signs Of Overheating Near $2,500 \u2013 Is A Short-Term Pullback Coming? Meanwhile, seasoned crypto analyst Ali Martinez commented on ETH\u2019s recent price action. He noted that Ethereum has broken resistance on the 4-hour chart and could be setting up for a move as high as $2,920 in the coming days. Fellow market commentator Ted Pillows echoed a similar view. He stated that ETH is currently trading at a local range high, pushing against a key resistance level at $2,800. Pillows suggested that the digital asset might reach $4,000 later this month. Multiple technical indicators and market structure patterns are also hinting at near-term upside for ETH. For instance, crypto trader Merlijn The Trader observed a hidden bullish divergence on the 12-hour chart. A hidden bullish divergence occurs when price forms a higher low, while a momentum indicator &#8211; such as RSI or MACD &#8211; forms a lower low. This setup suggests that although momentum appears weak, the underlying trend remains intact, and a price continuation to the upside is likely. In a similar vein, digital assets analyst Crypto Caesar pointed out that Ethereum\u2019s Wyckoff Accumulation pattern is \u201cstill playing out perfectly.\u201d He shared a chart predicting that ETH may hit a new all-time high by August 2025. All Indicators Point To Further Upside Beyond the technical patterns, other on-chain and market indicators continue to support the bullish thesis. For instance, even after gaining over 11% in the past two weeks, Ethereum\u2019s funding rates remain relatively neutral &#8211; a sign that the rally may still have room to grow. Related Reading: Ethereum Stuck Between Retail Sell-Off And Whale Accumulation, Analyst Explains Additionally, ETH is eyeing a potential breakout to $3,500, with its price projected to surge above the crucial 50-day exponential moving average (EMA). At press time, ETH trades at $2,740, up 6.8% in the past 24 hours. Featured image from Unsplash, charts from X and TradingView.com"
-    },
-    {
-      "title": "Tron Booms With Fresh $1B in USDT, Yet Lending TVL Nosedives, What\u2019s Next?",
-      "link": "https://www.newsbtc.com/news/tron-trx/tron-booms-with-fresh-1b-in-usdt-yet-lending-tvl-nosedives-whats-next/",
-      "summary": "Tron (TRX) has experienced positive price action recently, aligning with the upward trend seen across the broader cryptocurrency market. In the past 24 hours, TRX climbed approximately 3.9%, reaching a trading value of $0.294. Despite these recent gains, Tron remains significantly below its all-time high of $0.43, set in December 2024, representing roughly a 31.8% decrease from that peak. This upward trajectory coincides with notable stablecoin activity on the Tron network, particularly involving Tether&#8217;s USDT token. Recently, a substantial minting event involving USDT occurred, signaling increased liquidity and potential market demand. Related Reading: TRON Surges Past 8 Million Daily Transactions as TRX Holds Above $0.27 Significant USDT Minting Event on Tron Amr Taha, an analyst from CryptoQuant&#8217;s QuickTake Platform, highlighted a significant event occurring on the Tron blockchain involving Tether&#8217;s stablecoin, USDT. According to Taha\u2019s report titled &#8220;Tether Treasury mints $1 billion USDT on TRON prior to Bitcoin reaching $110,000,&#8221; the Tether Treasury recently issued 1 billion new USDT tokens on the Tron blockchain on June 9, 2025. This mint represents the largest single issuance of USDT on Tron for the month so far, emphasizing the network&#8217;s increasing relevance for stablecoin transactions. Taha noted that two primary factors likely drove this sizable minting event. First, it points toward elevated market demand for stablecoins, particularly within Tron\u2019s ecosystem, known for low transaction fees and high-speed transfers. Second, the minting could signal significant institutional activity or preparations for substantial over-the-counter (OTC) crypto trades. Historically, such minting events tend to precede increased trading activity as investors leverage newly injected liquidity into the markets. The introduction of additional stablecoin liquidity typically boosts overall cryptocurrency market conditions, potentially providing support during periods when traditional financial markets are less robust. Divergent Trends: Rising TRX Price and Declining TVL Meanwhile, separate on-chain analysis by CryptoQuant contributor Joao Wedson noted a sharp decrease of nearly $2 billion in the total value locked (TVL) within lending protocols on Tron. This recent drop in TVL contrasts notably with the rising price of TRX, marking a divergence that raises intriguing questions for investors. Wedson pointed out that historically, reduced TVL in lending platforms on Tron has correlated with upward price movements for TRX, as previously observed in early 2024. Related Reading: Analyst Explains Reason Behind Tron Price Sluggishness \u2014 Are TRX Bears Now In Control? However, the current scenario, where TRX\u2019s value continues to climb despite significant reductions in lending protocol engagement, may hint at underlying shifts in investor strategies or possible structural changes within the network&#8217;s financial ecosystem. Featured image created with dALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "What is LIBRA? The Solana Meme Coin That Sparked a Political Scandal",
+      "link": "https://decrypt.co/resources/what-is-libra-the-solana-meme-coin-that-sparked-a-political-scandal",
+      "summary": "LIBRA\u2019s collapse triggered fraud claims, insider trading accusations, and calls for Argentine President Javier Milei\u2019s impeachment."
+    },
+    {
       "title": "India CBI Busts Transnational Cybercrime Ring, Seizes $327K in Crypto",
       "link": "https://decrypt.co/324588/india-cbi-transnational-cybercrime-seizes-327k-crypto",
       "summary": "The CBI\u2019s investigation revealed advanced social engineering operations being used to exploit jurisdictional gaps to target foreign victims."
@@ -154,14 +159,14 @@
       "title": "Elite Footballers Named in $3.4 Million Crypto Fraud Case",
       "link": "https://decrypt.co/324558/elite-footballers-named-3-4-million-crypto-fraud-case",
       "summary": "A Barcelona court has launched a criminal probe into crypto firm Shirtum after star footballers allegedly promoted a failed NFT scheme."
-    },
-    {
-      "title": "Bullish Files for IPO as Trump's Crypto Pivot Drives Demand: FT",
-      "link": "https://decrypt.co/324553/bullish-files-for-ipo-as-trumps-crypto-pivot-drives-demand-ft",
-      "summary": "Peter Thiel-backed crypto exchange Bullish is pursuing a public listing and follows last week's successful debuts from the crypto industry."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Nasdaq-listed Interactive Strength plans to invest $500M in Fetch.ai\u2019s FET token to build an AI-focused crypto treasury",
+      "link": "https://cryptobriefing.com/ai-focused-crypto-treasury-investment/",
+      "summary": "<p>This move highlights a growing trend of public companies investing in AI-driven digital assets, potentially reshaping corporate finance.</p> <p>"
+    },
     {
       "title": "Pro-Bitcoin Scott Bessent emerges as candidate for next Fed chair",
       "link": "https://cryptobriefing.com/fed-chair-successor-bessent-powell/",
@@ -181,14 +186,14 @@
       "title": "Eric Trump-backed American Bitcoin discloses 215 BTC holdings",
       "link": "https://cryptobriefing.com/american-bitcoin-btc-disclosure/",
       "summary": "<p>The strategic focus on Bitcoin accumulation by American Bitcoin could influence market dynamics and drive broader adoption and infrastructure development.</p> <p>"
-    },
-    {
-      "title": "French banking giant Soci\u00e9t\u00e9 G\u00e9n\u00e9rale confirms launch of new stablecoin on Ethereum and Solana",
-      "link": "https://cryptobriefing.com/usd-coinvertible-launch-sg-forge/",
-      "summary": "<p>Socit Gnrale's stablecoin launch signifies a pivotal shift in traditional banking towards embracing blockchain technology and digital finance.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Bitcoin fails to break $111K \u2013 Is this the end of BTC\u2019s uptrend?",
+      "link": "https://ambcrypto.com/bitcoin-fails-to-break-111k-is-this-the-end-of-btcs-uptrend/",
+      "summary": "<img alt=\"Bitcoin fails to break $111K - Is this the end of BTC&#039;s uptrend?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-11T110155.178-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin nears critical resistance as whales hold back, leaving room for a breakout or pullback."
+    },
     {
       "title": "Why Bitcoin\u2019s sell-off will slow down once BTC hits $130K-$150K: Bitwise CEO",
       "link": "https://ambcrypto.com/why-bitcoins-sell-off-will-slow-down-once-btc-hits-130k-150k-bitwise-ceo/",
@@ -208,11 +213,6 @@
       "title": "PEPE: Analyzing if James Wynn\u2019s $13.9M bet could push prices higher",
       "link": "https://ambcrypto.com/pepe-analyzing-if-james-wynns-13-9m-bet-could-push-prices-higher/",
       "summary": "<img alt=\"PEPE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/829A5E9B-A379-4BF1-B194-FFBE22117691.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PEPE could make big moves soon. But how?"
-    },
-    {
-      "title": "Solana\u2019s price test: Bulls and bears clash as SOL eyes $200, what\u2019s next?",
-      "link": "https://ambcrypto.com/solanas-price-test-bulls-and-bears-clash-as-sol-eyes-200-whats-next/",
-      "summary": "<img alt=\"solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-11-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Big moves are happening in tandem to price volatility and bullish breakout potential above $200."
     }
   ]
 }
