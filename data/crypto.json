@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Ether, Dogecoin Surge Higher Than Bitcoin as DeFi Comments Spurs Bullish Mood",
+      "link": "https://www.coindesk.com/markets/2025/06/11/ether-dogecoin-surge-higher-than-bitcoin-as-defi-comments-spurs-bullish-mood",
+      "summary": ""
+    },
+    {
       "title": "UK's OpenTrade Raises $7M to Expand Stablecoin Yield Access in Inflation-Hit Markets",
       "link": "https://www.coindesk.com/business/2025/06/10/uks-opentrade-raises-7m-to-expand-stablecoin-yield-access-in-inflation-hit-markets",
       "summary": ""
@@ -19,14 +24,24 @@
       "title": "Asia Morning Briefing: Coinbase Premium, Not Bank of Japan Rates, Might be the Metric to Watch for BTC",
       "link": "https://www.coindesk.com/markets/2025/06/10/asia-morning-briefing-coinbase-premium-not-bank-of-japan-rates-might-be-the-metric-to-watch-for-btc",
       "summary": ""
-    },
-    {
-      "title": "Trump's CFTC Pick Says U.S. Can Boost Crypto Innovation and Shield Consumers",
-      "link": "https://www.coindesk.com/policy/2025/06/10/trump-s-cftc-pick-says-u-s-can-boost-crypto-innovation-and-shield-consumers",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Rep. Timmons asks SEC for docs on agency\u2019s past approach to Ethereum",
+      "link": "https://cointelegraph.com/news/sec-atkins-asked-docs-past-approach-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWM4OTgtYzdkZS03ZGQ4LTljODMtYWZiNzg2ZTg1NDc2.jpg\" /></p><p>Republican Representative William Timmons has asked US Securities and Exchange Commission Chair Paul Atkins for documents on the agency\u2019s historical approach to Ether.</p>"
+    },
+    {
+      "title": "Peter Thiel-backed crypto exchange Bullish files for US IPO: FT",
+      "link": "https://cointelegraph.com/news/peter-thiel-backed-bullish-files-us-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVkYmItYjViYS03NjJmLWIyMGItZGEzZmJlNDBmZTEw.jpg\" /></p><p>The Peter Thiel-backed crypto exchange joins a growing list of firms seeking to go public as investor optimism returns under the Trump administration.</p>"
+    },
+    {
+      "title": "Bitcoin may struggle in Q3 as eyes turn to Ethereum\u2019s \u2018catch-up\u2019 \u2014 Analysts",
+      "link": "https://cointelegraph.com/news/bitcoin-underperform-q3-prediction-ether-may-outperform-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVkMmUtNzg5Ny03YWMyLWE5NWItYWU2MmVmYTkzNTRj.jpg\" /></p><p>Bitcoin moves in the \u201copposite direction of retail\u2019s expectations,\u201d which may lead to a price surge lag, Santiment analyst Brian Quinlivan tells .</p>"
+    },
     {
       "title": "US House Financial Services Committee advances crypto CLARITY Act",
       "link": "https://cointelegraph.com/news/clarity-act-passes-house-committee-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Librarian Ghouls hacker group targeting Russians to mine crypto",
       "link": "https://cointelegraph.com/news/librarian-ghouls-hacking-group-cryptojack-hundreds-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY5MjUtYjZlYS03ZjViLTg3NzMtOGY5NTQ2NTQ1ZTcy.jpg\" /></p><p>Cybersecurity firm Kaspersky says the Librarian Ghouls may be hacktivists, based on their reliance on legitimate, third-party utilities, a technique commonly associated with similar groups.</p>"
-    },
-    {
-      "title": "Crypto \u2018altcoin ETF summer\u2019 may come in July with SEC approvals: Analysts",
-      "link": "https://cointelegraph.com/news/altcoin-etf-summer-july-sec-approvals-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlM2YtZWI3ZS03MmUzLTg0MzgtMTM1MTU2NzIwNmEy.jpg\" /></p><p>ETF analysts say the Securities and Exchange Commission could approve Solana, Ether staking and crypto index ETFs as soon as next month.</p>"
-    },
-    {
-      "title": "CFPB\u2019s top enforcer exits with scathing email on Trump: Report",
-      "link": "https://cointelegraph.com/news/cfpb-top-enforcer-criticizes-trump-resignation-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjA5MzUtYzZjNy03MTQ4LTk4NzAtMTdjM2I1ODJjZjdh.jpg\" /></p><p>Consumer Financial Protection Bureau acting enforcement director Cara Petersen has quit, saying that she has never \u201cseen the ability to perform our core mission so under attack.\u201d</p>"
-    },
-    {
-      "title": "Fortune 500\u2019s interest in stablecoins triples from last year: Coinbase",
-      "link": "https://cointelegraph.com/news/stablecoin-interest-grows-fortune-500-coinbase-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVjMmQtMDBkMy03YzhkLWI2ODgtNWI2MmRmMWQyOGJi.jpg\" /></p><p>Nearly 30% of the 100 executives at a Fortune 500 firm said their company has plans or is interested in stablecoins, up from 8% who said the same last year.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "WIF price prediction \u2013 Stuck near $1-resistance, is a 20% correction ahead?",
+      "link": "https://ambcrypto.com/wif-price-prediction-stuck-near-1-resistance-is-a-20-correction-ahead/",
+      "summary": "<img alt=\"WIF price prediction - Stuck near $1-resistance, is a 20% correction ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/WIF-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Build-up of liquidation levels around $1-$1.1 hinted at a potential bearish reversal."
+    },
+    {
+      "title": "Dogecoin: A 25% rally in sight! \u2013 But first, DOGE must clear THIS\u2026",
+      "link": "https://ambcrypto.com/dogecoin-a-25-rally-in-sight-but-first-doge-must-clear-this/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-10T183545.247_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DOGE traders stack longs and pull tokens off exchanges, here's why.."
+    },
+    {
       "title": "All about South Korean President Lee\u2019s new plans for stablecoin regulations",
       "link": "https://ambcrypto.com/all-about-south-korean-president-lees-new-plans-for-stablecoin-regulations/",
       "summary": "<img alt=\"All about South Korean President Lee&#039;s new plans for stablecoin regulations\" class=\"attachment-full size-full wp-post-image\" height=\"648\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/South-Koreas-stablecoin-push.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1152\" />Can South Korea truly outmanoeuvre the United States?"
@@ -203,16 +213,6 @@
       "title": "TRON \u2013 Whales, TVL, and sell pressure mean TRX\u2019s price will move THIS way!",
       "link": "https://ambcrypto.com/tron-whales-tvl-and-sell-pressure-mean-trxs-price-will-move-this-way/",
       "summary": "<img alt=\"TRON - Whales, TVL, and sell pressure mean TRX&#039;s price will move THIS way!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-94-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />For TRX, conflicting signals from lending and taker flows have tempered optimism."
-    },
-    {
-      "title": "Bitcoin\u2019s $108K breakout: Is retail FOMO driving the market?",
-      "link": "https://ambcrypto.com/bitcoins-108k-breakout-is-retail-fomo-driving-the-market/",
-      "summary": "<img alt=\"Bitcoin&#039;s $108K breakout: Is retail FOMO driving the market?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-9-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Retail FOMO is rising as whales place high-leverage bets."
-    },
-    {
-      "title": "Bitcoin Open Interest drops by $1B as traders back off: A drop to $106K next?",
-      "link": "https://ambcrypto.com/bitcoin-open-interest-drops-by-1b-as-traders-back-off-a-drop-to-106k-next/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-13.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin Open Interest drops by $1 billion, indicating that large scale positions have started to unwind."
     }
   ]
 }
