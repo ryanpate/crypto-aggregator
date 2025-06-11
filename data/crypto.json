@@ -1,32 +1,42 @@
 {
   "CoinDesk": [
     {
-      "title": "Bitdeer Ramps Up Self-Mining Capacity, Ships 1.6 EH/s of SEALMINER A2s in May",
-      "link": "https://www.coindesk.com/markets/2025/06/11/bitdeer-ramps-up-self-mining-capacity-ships-16-ehs-of-sealminer-a2s-in-may",
+      "title": "Ether Surges Toward $3K on Tentative U.S.\u2013China Trade Pact and Soft U.S. CPI Report",
+      "link": "https://www.coindesk.com/markets/2025/06/11/ether-surges-toward-usd3k-on-tentative-u-s-china-trade-pact-and-soft-u-s-cpi-report",
       "summary": ""
     },
     {
-      "title": "Filecoin Rises 3.6% After Establishing Support Zone Around $2.68",
-      "link": "https://www.coindesk.com/markets/2025/06/11/filecoin-rises-36-after-establishing-support-zone-around-268",
+      "title": "Digital Assets Are One Step Closer to Regulatory Clarity",
+      "link": "https://www.coindesk.com/opinion/2025/06/11/digital-assets-are-one-step-closer-to-regulatory-clarity",
       "summary": ""
     },
     {
-      "title": "TON Slides as Sell-Off Triggers Spike in Volume With Potential Bearish Pressure Signal",
-      "link": "https://www.coindesk.com/markets/2025/06/11/ton-slides-as-selloff-triggers-spike-in-volume-with-potential-bearish-pressure-signal",
+      "title": "Stripe to Acquire Crypto Wallet Startup Privy in Bid to Expand Web3 Capabilities",
+      "link": "https://www.coindesk.com/business/2025/06/11/stripe-to-acquire-crypto-wallet-startup-privy-in-bid-to-expand-web3-capabilities",
       "summary": ""
     },
     {
-      "title": "BNB Pushes Higher Despite Market Turbulence, Testing Resistance Near $674",
-      "link": "https://www.coindesk.com/markets/2025/06/11/bnb-pushes-higher-despite-market-turbulence-testing-resistance-near-674",
+      "title": "ATOM Finds Support at $4.50 as Ethereum Whales Signal Potential Altcoin Season",
+      "link": "https://www.coindesk.com/markets/2025/06/11/atom-finds-support-at-usd4-50-as-ethereum-whales-signal-potential-altcoin-season",
       "summary": ""
     },
     {
-      "title": "Why the Market Needs a Rules-Based Benchmark for Centralised Exchanges",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/06/10/why-the-market-needs-a-rules-based-benchmark-for-centralised-exchanges",
+      "title": "The Case for Investing in Digital Assets",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/11/the-case-for-investing-in-digital-assets",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "\u2018Unique\u2019 Bitcoin holder trend backs BTC\u2019s next price discovery phase: Glassnode",
+      "link": "https://cointelegraph.com/news/unique-bitcoin-holder-trend-backs-btc-s-next-price-discovery-phase-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njc5YjEtMzljZi03MmFkLTgyYzYtMTE3MTY4MDM2ZGRl.jpg\" /></p><p>Bitcoin enters a unique market phase as rising long-term holder dominance and compressed volatility could potentially trigger a fresh round of price discovery.</p>"
+    },
+    {
+      "title": "Peaq and UAE bet on tokenized machines to power future economy",
+      "link": "https://cointelegraph.com/news/uae-machine-economy-sandbox-peaq-pulsar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmOTItYTVlZC03Y2JmLTkxYTktOGNlZTA0YzliYmRj.jpg\" /></p><p>The UAE Machine Economy Free Zone envisions a world where tokenholders receive a share of the revenue from machine-economy activities.</p>"
+    },
     {
       "title": "After stablecoin push, Stripe acquires crypto wallet developer Privy",
       "link": "https://cointelegraph.com/news/stripe-acquires-privy-crypto-wallet-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "OneBalance lands $20M to simplify crypto for developers",
       "link": "https://cointelegraph.com/news/onebalance-raises-20m-for-dev-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmMTQtYTJjOC03OWMxLWEwNDAtM2E2MjZkMDc3MTAx.jpg\" /></p><p>OneBalance raised $20 million to launch a developer toolkit enabling one-click crosschain crypto transactions, aiming to fix fragmented UX and boost app conversions.</p>"
-    },
-    {
-      "title": "When an AI says, \u2018No, I don\u2019t want to power off\u2019: Inside the o3 refusal",
-      "link": "https://cointelegraph.com/explained/when-an-ai-says-no-i-dont-want-to-power-off-inside-the-o3-refusal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDJmZjlhN2E4YjE4NzQ0Y2U1MzM5Y2ZiYzgyZmI4NS5qcGc=.jpg\" /></p><p> OpenAI\u2019s o3 model resisted shutdown in safety tests, raising concerns about AI alignment and control. </p>"
-    },
-    {
-      "title": "Trump\u2019s consumer protection reforms could leave crypto users in a lurch",
-      "link": "https://cointelegraph.com/news/trump-s-consumer-protection-reforms-could-leave-crypto-users-in-a-lurch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmODQtY2ExZS03OTQ2LWI5ZGItZGRjNWY1NDg4NDE0.jpg\" /></p><p>The Trump administration, supported by major US crypto firms, has largely dismantled the Consumer Financial Protection Bureau, leaving consumers vulnerable.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ethereum open interest hits all-time high as price rises to 4-month high",
+      "link": "https://cryptoslate.com/insights/ethereum-open-interest-hits-all-time-high-as-price-rises-to-4-month-high/",
+      "summary": "<p>Ethereum has surged more than 5% in the past 24 hours, climbing above $2,860 to reach its highest price since February. The rally comes amid rising activity in the derivatives market, signaling strong market conviction behind the move. On-chain data suggests that rising futures interest is driving much of the market\u2019s current enthusiasm. Open interest, [&#8230;]</p> <p>"
+    },
     {
       "title": "Polygon\u2019s governance revamp to focus on stablecoin payments and AggLayer",
       "link": "https://cryptoslate.com/polygons-governance-revamp-to-focus-on-stablecoin-payments-and-agglayer/",
@@ -73,11 +78,6 @@
       "title": "Ukraine opens door to Bitcoin reserves as experts warn of key risks",
       "link": "https://cryptoslate.com/ukraine-opens-door-to-bitcoin-reserves-as-experts-warn-of-key-risks/",
       "summary": "<p>Ukraine is taking a significant step toward adding Bitcoin to its national reserves. On June 10, the Ukrainian parliament received a draft bill proposing an amendment to the National Bank of Ukraine&#8217;s (NBU) asset reserve policy. This change would allow the central bank to add cryptocurrencies alongside gold and foreign currencies to its reserves. Ukrainian [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin jumps near $110k after US inflation data shows signs of cooling",
-      "link": "https://cryptoslate.com/insights/bitcoin-jumps-near-110k-after-us-inflation-data-shows-signs-of-cooling/",
-      "summary": "<p>Bitcoin&#8217;s price increased 0.5% to $109,600 on Wednesday after United States inflation data for May came in below market expectations. The asset\u2019s move comes after a period of sustained strength, where it has held a range between $109,000 and $110,000 over the last three days. The latest Consumer Price Index report showed year-over-year inflation of [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,16 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "The CLARITY Act Heads To House Floor For Vote With Protection For Noncustodial Tools Intact",
+      "link": "https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Capitol-Building-CLARITY-Act.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact\" rel=\"nofollow\"> </a></p> <p>The section of The CLARITY Act (H.R. 3633) that protects Bitcoin and crypto users\u2019 right to use noncustodial wallets as well as developers\u2019 right to create such tools without being subject to The Bank Secrecy Act (BSA) will remain in the bill as it gets voted on in the House.</p> <p>"
+    },
+    {
+      "title": "Stripe Acquires Startup Privy To Expand Bitcoin Strategy",
+      "link": "https://bitcoinmagazine.com/news/stripe-acquires-startup-privy-to-expand-bitcoin-strategy",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Stripe-Acquires-Startup-Privy-To-Expand-Bitcoin-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/stripe-acquires-startup-privy-to-expand-bitcoin-strategy\" rel=\"nofollow\"> </a></p> <p>Privy joins Stripe to build a Bitcoin and crypto wallet infrastructure. </p> <p>"
+    },
+    {
       "title": "Paul Tudor Jones: Bitcoin, Gold, Stocks Are The Best Portfolio To Fight Inflation",
       "link": "https://bitcoinmagazine.com/news/paul-tudor-jones-bitcoin-gold-stocks-are-the-best-portfolio-to-fight-inflation",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Paul-Tudor-Jones-Bitcoin-Gold-Stocks-Are-The-Best-Portfolio-To-Fight-Inflation.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/paul-tudor-jones-bitcoin-gold-stocks-are-the-best-portfolio-to-fight-inflation\" rel=\"nofollow\"> </a></p> <p>Billionaire Paul Tudor Jones said that bitcoin, gold, stocks would be the best portfolio to have to fight against inflation in an interview with Bloomberg.</p> <p>"
@@ -122,19 +132,24 @@
       "title": "Michael Saylor: The Bear Market Is Not Coming Back And Bitcoin Is Going To $1 Million",
       "link": "https://bitcoinmagazine.com/news/michael-saylor-the-bear-market-is-not-coming-back-and-bitcoin-is-going-to-1-million",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Michael-Saylor-The-Bear-Market-Is-Not-Coming-Back-And-Bitcoin-Is-Going-To-1-Million.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/michael-saylor-the-bear-market-is-not-coming-back-and-bitcoin-is-going-to-1-million\" rel=\"nofollow\"> </a></p> <p>In a Bloomberg interview, Strategy CEO Michael Saylor announces that Bitcoin is not going to zero, it is going to $1 million.</p> <p>"
-    },
-    {
-      "title": "Bitwise Debuts First Ever GameStop Covered Call ETF",
-      "link": "https://bitcoinmagazine.com/news/bitwise-debuts-first-ever-gamestop-covered-call-etf",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Bitwise.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitwise-debuts-first-ever-gamestop-covered-call-etf\" rel=\"nofollow\"> </a></p> <p>Today, Bitwise Asset Management announced the launch of the Bitwise GME Option Income Strategy ETF (IGME), the first-ever covered call ETF centered around GameStop (GME). The fund arrives at a moment where GameStop recently made headlines for its $500 million Bitcoin treasury strategy. Led by Bitwise\u2019s Head of Alpha Strategies Jeff Park, IGME is the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Economic Bitcoin Nodes: Why You Need To Use Your Node For It To Matter",
-      "link": "https://bitcoinmagazine.com/technical/economic-bitcoin-nodes-why-you-need-to-use-your-node-for-it-to-matter",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/BitcoinEconomicNOdes.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/economic-bitcoin-nodes-why-you-need-to-use-your-node-for-it-to-matter\" rel=\"nofollow\"> </a></p> <p>Bitcoin nodes are what makes up the Bitcoin network, but without using them to verify your economic activity, they don't impact consensus. </p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Payments Giant Stripe to Acquire Crypto Wallet Tech Firm Privy",
+      "link": "https://decrypt.co/324674/payments-giant-stripe-acquire-crypto-firm-privy",
+      "summary": "Stripe is cozying up to crypto even more with its latest acquisition, adding crypto wallet infrastructure firm Privy."
+    },
+    {
+      "title": "Gate Marks 12 Years in Crypto With \u2018Evolving Vision\u2019",
+      "link": "https://decrypt.co/324658/gate-marks-12-years-in-crypto-with-evolving-vision",
+      "summary": "The crypto exchange is celebrating its 12th anniversary with a sweeping brand transformation and pushes into AI and RWAs."
+    },
+    {
+      "title": "Why You Are Thinking About Ethereum All Wrong",
+      "link": "https://decrypt.co/324655/why-you-are-thinking-about-ethereum-all-wrong",
+      "summary": "Current narratives around Ethereum would suggest the blockchain network is in distress. EY's Paul Brody explains what the critics get wrong."
+    },
     {
       "title": "PayPal Expands PYUSD Stablecoin to Stellar, Joining Ethereum and Solana",
       "link": "https://decrypt.co/324642/paypal-pyusd-stablecoin-stellar-ethereum-solana",
@@ -144,21 +159,6 @@
       "title": "Ethereum ETFs Record Best Day in 4 Months With $125 Million in Investments",
       "link": "https://decrypt.co/324639/ethereum-etfs-record-best-day-4-months-125-million",
       "summary": "Spot Ethereum ETFs generated $125 million in inflows on Tuesday, representing their best daily performance since early February."
-    },
-    {
-      "title": "BTC stable ahead of CPI, SOL ETFs coming soon, SPX hits ATH",
-      "link": "https://decrypt.co/videos/interviews/PTkIaZyj/btc-stable-ahead-of-cpi-sol-etfs-coming-soon-spx-hits-ath",
-      "summary": "FOMO HOUR EP376 BTC steady ahead of CPI today. SOL outperforms, SEC may approve staking ETFs. HYPE hits another ATH as DeFi coins surge. ETH perp volume surpasses BTC over 24hrs. ETH back above its 200 DMA. Metalpha buys $48.5m ETH. Bear market not coming back: Saylor. $200k BTC prediction conservative: Bernstein. Lummis calls to revise crypto tax laws. SEC initiates reviews of 21Shares SUI ETF. 60% of Fortune 500 working on crypto projects. Synaptogenix to acquire $10m TAO. Bullish files for IPO. xAI to integrate Polymarket with X data, Grok. FOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X. JOIN YEET = https://yeet.com/register?aff=fomohour PLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL PODCAST = https://x.com/i/spaces/1kvKpydgqMQGE LIVE SPACE = https://x.com/Tyler_Did_It/status/1932800703862292867 Links: https://linktr.ee/fomohour https://twitter.com/fomohour https://www.rug.fm/ https://x.com/rugradio Hosts: https://twitter.com/farokh https://twitter.com/rektmando https://twitter.com/tyler_did_it Myriad: https://myriad.markets https://x.com/MyriadMarkets #bitcoin #crypto #podcast"
-    },
-    {
-      "title": "Hyperliquid Token Leads Altcoin Rebound as Bitcoin Price Steadies",
-      "link": "https://decrypt.co/324614/hype-leads-altcoin-recovery-bitcoin-price-steadies",
-      "summary": "HYPE token outperforms major cryptos with 12.4% weekly gains as Hyperliquid's DEX gains traction in perpetual futures trading."
-    },
-    {
-      "title": "Bitcoin Climbs Slightly as US Reports Inflation Slowed in May",
-      "link": "https://decrypt.co/324375/bitcoin-after-cpi",
-      "summary": "Bitcoin climbs toward $110K as May inflation comes in lower than expected, boosting hopes for Fed rate cuts and crypto momentum."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "90% chance for Solana ETFs in 2025 \u2013 Is it time to buy SOL now?",
+      "link": "https://ambcrypto.com/solanas-spot-etfs-90-approval-odds-is-it-time-to-buy-sol/",
+      "summary": "<img alt=\"Solana ETF\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Solana-ETF.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL could be grossly undervalued at current levels if the ETF approval happens in July."
+    },
+    {
       "title": "Avalanche adoption surges 275% \u2013 Can it help AVAX break above $24?",
       "link": "https://ambcrypto.com/avalanche-adoption-surges-275-can-it-help-avax-break-above-24/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-95-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AVAX\u2019s network activity is booming, but major resistance still threatens its short-term upside momentum."
@@ -208,11 +213,6 @@
       "title": "Why SEC delayed its Polkadot, Hedera ETF decisions, and what\u2019s next",
       "link": "https://ambcrypto.com/why-sec-delayed-its-polkadot-hedera-etf-decisions-and-whats-next/",
       "summary": "<img alt=\"Why SEC delayed its Polkadot, Hedera ETF decisions, and what&#039;s next\" class=\"attachment-full size-full wp-post-image\" height=\"669\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/SEC-delays-polkadot-and-hedera-etf.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1190\" />Is the SEC's caution a permanent hurdle or just a phase?"
-    },
-    {
-      "title": "Bitcoin fails to break $111K \u2013 Is this the end of BTC\u2019s uptrend?",
-      "link": "https://ambcrypto.com/bitcoin-fails-to-break-111k-is-this-the-end-of-btcs-uptrend/",
-      "summary": "<img alt=\"Bitcoin fails to break $111K - Is this the end of BTC&#039;s uptrend?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-11T110155.178-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin nears critical resistance as whales hold back, leaving room for a breakout or pullback."
     }
   ]
 }
