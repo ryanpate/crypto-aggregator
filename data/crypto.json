@@ -1,7 +1,17 @@
 {
   "CoinDesk": [
     {
-      "title": "Ether, Dogecoin Surge Higher Than Bitcoin as DeFi Comments Spurs Bullish Mood",
+      "title": "XRP Consolidates Near $2.28 Amid Slew of Wins for Ripple, XRPL",
+      "link": "https://www.coindesk.com/markets/2025/06/11/xrp-consolidates-near-228-amid-slew-of-wins-for-ripple-xrpl",
+      "summary": ""
+    },
+    {
+      "title": "Dogecoin Jumps 5% as V-Shaped Recovery Shows Rising Demand",
+      "link": "https://www.coindesk.com/markets/2025/06/11/dogecoin-jumps-5-as-v-shaped-recovery-shows-rising-demand",
+      "summary": ""
+    },
+    {
+      "title": "Ether, Dogecoin Surge, Outpaces Bitcoin as DeFi Comments Spurs Bullish Mood",
       "link": "https://www.coindesk.com/markets/2025/06/11/ether-dogecoin-surge-higher-than-bitcoin-as-defi-comments-spurs-bullish-mood",
       "summary": ""
     },
@@ -14,19 +24,19 @@
       "title": "XRP Ledger's Ethereum-Compatible Sidechain to Go Live in Q2",
       "link": "https://www.coindesk.com/markets/2025/06/11/xrp-ledger-s-ethereum-compaitable-sidechain-to-go-live-in-q2",
       "summary": ""
-    },
-    {
-      "title": "Ripple's Brad Garlinghouse Says Circle IPO Signals U.S. Stablecoin Regulation Ahead",
-      "link": "https://www.coindesk.com/markets/2025/06/10/ripples-brad-garlinghouse-says-circle-ipo-signals-us-stablecoin-regulation-ahead",
-      "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: Coinbase Premium, Not Bank of Japan Rates, Might be the Metric to Watch for BTC",
-      "link": "https://www.coindesk.com/markets/2025/06/10/asia-morning-briefing-coinbase-premium-not-bank-of-japan-rates-might-be-the-metric-to-watch-for-btc",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "PancakeSwap launches one-click crosschain swaps to simplify DeFi UX",
+      "link": "https://cointelegraph.com/news/pancakeswap-one-click-crosschain-swaps-simplify-defi-ux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkwOWYtMzA5OS03YjM3LWE3ZWItZTdlZTJlMzk5NzFh.jpg\" /></p><p>PancakeSwap now offers one-click crosschain swaps with Across Protocol, aiming to reduce bridge risk and improve DeFi user experience across Arbitrum, Base and BNB Chain.</p>"
+    },
+    {
+      "title": "Crypto asset reserve bill lands in Ukraine\u2019s parliament",
+      "link": "https://cointelegraph.com/news/crypto-reserve-bill-ukraine-s-parliament?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVkYmYtYTg0Ni03MmRmLWFkNzktOGUyMWEyOWQxOTQ0.jpg\" /></p><p>Although the bill would allow the National Bank of Ukraine to acquire crypto assets like Bitcoin as part of state reserves, it would not require the bank to do so.</p>"
+    },
     {
       "title": "Rep. Timmons asks SEC for docs on agency\u2019s past approach to Ethereum",
       "link": "https://cointelegraph.com/news/sec-atkins-asked-docs-past-approach-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Bitcoin may struggle in Q3 as eyes turn to Ethereum\u2019s \u2018catch-up\u2019 \u2014 Analysts",
       "link": "https://cointelegraph.com/news/bitcoin-underperform-q3-prediction-ether-may-outperform-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVkMmUtNzg5Ny03YWMyLWE5NWItYWU2MmVmYTkzNTRj.jpg\" /></p><p>Bitcoin moves in the \u201copposite direction of retail\u2019s expectations,\u201d which may lead to a price surge lag, Santiment analyst Brian Quinlivan tells .</p>"
-    },
-    {
-      "title": "US House Financial Services Committee advances crypto CLARITY Act",
-      "link": "https://cointelegraph.com/news/clarity-act-passes-house-committee-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5Njk5YWYtNzBkZS03YmIzLWJhZjktMmVmMGQwYmQzYWMy.jpg\" /></p><p>The CLARITY Act will move to the House floor after the House Financial Services Committee voted to advance the crypto market structure bill in a 32 to 19 vote.</p>"
-    },
-    {
-      "title": "Librarian Ghouls hacker group targeting Russians to mine crypto",
-      "link": "https://cointelegraph.com/news/librarian-ghouls-hacking-group-cryptojack-hundreds-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY5MjUtYjZlYS03ZjViLTg3NzMtOGY5NTQ2NTQ1ZTcy.jpg\" /></p><p>Cybersecurity firm Kaspersky says the Librarian Ghouls may be hacktivists, based on their reliance on legitimate, third-party utilities, a technique commonly associated with similar groups.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "FTX continues to exclude Nigeria and China in remaining creditor repayments but includes Payoneer",
+      "link": "https://cryptoslate.com/ftx-continues-to-exclude-nigeria-and-china-in-remaining-creditor-repayments-but-includes-payoneer/",
+      "summary": "<p>FTX, the bankrupt crypto exchange, has added Payoneer to its creditors&#8217; repayment options, according to a June 10 statement. The new company would serve as an additional asset distribution channel, alongside BitGo and Kraken. Payoneer operates a global payments platform across more than 190 countries and territories. Under the agreement, Payoneer will help distribute funds [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin holding $100k psychological floor amid recent dip signals robust investor sentiment",
       "link": "https://cryptoslate.com/bitcoin-holding-100k-psychological-floor-amid-recent-dip-signals-robust-investor-sentiment/",
@@ -73,14 +78,14 @@
       "title": "Fortune 500 blockchain adoption hits 60% as institutions inject $50B into crypto funds in Q1",
       "link": "https://cryptoslate.com/fortune-500-blockchain-adoption-hits-60-as-institutions-inject-50b-into-crypto-funds-in-q1/",
       "summary": "<p>Fortune 500 companies and global asset managers continued to expand blockchain activity and allocations during the first half of 2025, according to Coinbase\u2019s latest State of Crypto report. Six in ten Fortune 500 executives say their firms run on-chain initiatives, and the average number of projects per company jumped to 9.7 from 5.8 year on [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Blockchain Group wins approval for $11B raise to execute aggressive Bitcoin acquisitions",
-      "link": "https://cryptoslate.com/blockchain-group-wins-approval-for-11b-raise-to-execute-aggressive-bitcoin-acquisitions/",
-      "summary": "<p>The Blockchain Group on June 10 won shareholder approval to raise more than \u20ac10 billion ($11 billion) for additional Bitcoin (BTC) purchases effective immediately, formalizing a proposal first aired one day earlier. During an ordinary and extraordinary general meeting, investors holding 39% of voting rights backed every resolution with support exceeding 95%, according to a [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Flashes Golden Cross On Daily Chart \u2013 Is A New ATH Within Reach?",
+      "link": "https://www.newsbtc.com/ethereum-news/ethereum-flashes-golden-cross-on-daily-chart-is-a-new-ath-within-reach/",
+      "summary": "Ethereum (ETH), the second-largest cryptocurrency by market cap, may finally be awakening from its slumber. It recently flashed a bullish golden cross on the daily chart &#8211; a signal that has many crypto analysts forecasting a potential new all-time high (ATH) in the near future. Ethereum Flashes Bullish Golden Cross In an X post published today, crypto analyst Titan of Crypto noted that ETH has formed a golden cross on its daily chart. He shared the following chart and remarked that bullish momentum appears to be building for Ethereum. To explain, a golden cross is a bullish technical pattern that occurs when a short-term moving average (MA) &#8211; typically the 50-day &#8211; crosses above a long-term MA like the 200-day. It signals a potential shift in momentum and is often seen as an indicator of a sustained upward trend. Related Reading: Ethereum Market Shows Signs Of Overheating Near $2,500 \u2013 Is A Short-Term Pullback Coming? Meanwhile, seasoned crypto analyst Ali Martinez commented on ETH\u2019s recent price action. He noted that Ethereum has broken resistance on the 4-hour chart and could be setting up for a move as high as $2,920 in the coming days. Fellow market commentator Ted Pillows echoed a similar view. He stated that ETH is currently trading at a local range high, pushing against a key resistance level at $2,800. Pillows suggested that the digital asset might reach $4,000 later this month. Multiple technical indicators and market structure patterns are also hinting at near-term upside for ETH. For instance, crypto trader Merlijn The Trader observed a hidden bullish divergence on the 12-hour chart. A hidden bullish divergence occurs when price forms a higher low, while a momentum indicator &#8211; such as RSI or MACD &#8211; forms a lower low. This setup suggests that although momentum appears weak, the underlying trend remains intact, and a price continuation to the upside is likely. In a similar vein, digital assets analyst Crypto Caesar pointed out that Ethereum\u2019s Wyckoff Accumulation pattern is \u201cstill playing out perfectly.\u201d He shared a chart predicting that ETH may hit a new all-time high by August 2025. All Indicators Point To Further Upside Beyond the technical patterns, other on-chain and market indicators continue to support the bullish thesis. For instance, even after gaining over 11% in the past two weeks, Ethereum\u2019s funding rates remain relatively neutral &#8211; a sign that the rally may still have room to grow. Related Reading: Ethereum Stuck Between Retail Sell-Off And Whale Accumulation, Analyst Explains Additionally, ETH is eyeing a potential breakout to $3,500, with its price projected to surge above the crucial 50-day exponential moving average (EMA). At press time, ETH trades at $2,740, up 6.8% in the past 24 hours. Featured image from Unsplash, charts from X and TradingView.com"
+    },
     {
       "title": "Tron Booms With Fresh $1B in USDT, Yet Lending TVL Nosedives, What\u2019s Next?",
       "link": "https://www.newsbtc.com/news/tron-trx/tron-booms-with-fresh-1b-in-usdt-yet-lending-tvl-nosedives-whats-next/",
@@ -100,11 +105,6 @@
       "title": "Ethereum Charts Flash Rare Signal Not Seen in Years, Says Analyst",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-charts-rare-signal-not-seen-in-years/",
       "summary": "In his latest macro-technical analysis, crypto strategist Kevin (@Kev_Capital_TA) has flagged a potentially pivotal moment for Ethereum (ETH), arguing that a confluence of rare monthly chart signals\u2014some not seen in years\u2014could be laying the groundwork for durable altcoin outperformance. Speaking in a video posted June 9, the analyst described the current Ethereum setup across multiple timeframes as \u201csomething we\u2019ve never seen before,\u201d drawing comparisons to historical signals that preceded major rallies in 2016, 2018, and 2020. Ethereum Primed For Macro Breakout Kevin emphasized that Ethereum now exhibits strong bullish momentum across its USD pair, dominance chart, and ETH/BTC ratio, pointing to a simultaneous alignment of several high-time frame indicators. \u201cThese are things that just don\u2019t pop up every day,\u201d he said. \u201cMatter of fact, these are things that have almost never popped up in such confluence throughout history for Ethereum.\u201d The core of Kevin\u2019s thesis hinges on what he calls a \u201cmonthly demand candle\u201d\u2014a large, typically green candlestick that emerges after a protracted correction. Ethereum printed such a candle in May 2025 following nearly a year of sideways chop and five months of drawdown. Historically, these demand candles have marked the start of significant uptrends. Kevin cited analogous structures in 2016, 2018, and during the COVID-19 crash in 2020, all of which preceded multi-month rallies. \u201cThis may be the most textbook demand candle we\u2019ve ever had,\u201d he noted, adding that \u201cthe last time we saw something like this was before ETH ran for nearly a year with barely any major correction.\u201d Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric Supporting the candle analysis is a synchronized bullish turn in several technical indicators. The Market Cipher momentum wave has clipped into the oversold zone and printed a confirmed green dot buy signal. Simultaneously, the VWAP\u2014volume-weighted average price\u2014has crossed above the zero line, and money flow has started to trend upward. Kevin was explicit about the importance of this configuration: \u201cLet me tell you something: this is a big deal.\u201d The monthly RSI, currently sitting at 51, has not yet broken the crucial 70-level that historically marks the onset of parabolic price action. According to Kevin, \u201cETH has never even broken 70 this cycle. You haven\u2019t seen what\u2019s possible yet for Ethereum\u2014or for altcoins in general. You\u2019ve seen nothing yet.\u201d He also highlighted the return of whale accumulation, measured through a proprietary \u201cwhale money flow\u201d indicator. After exiting ETH positions for over a year\u2014from March 2024 to May 2025\u2014whale flows have shown a V-shaped bottom and are now turning up. \u201cWe are now starting to see accumulation durably here,\u201d Kevin said. \u201cYou keep hearing that BlackRock&#8217;s buying ETH, and I don\u2019t know if that\u2019s reflected in this indicator, but we are definitely seeing whale activity occur on the monthly time frame.\u201d The analyst went further, showing that Ethereum\u2019s stock RSI on the monthly timeframe has not only bottomed out but is now rebounding sharply\u2014a pattern that historically precedes long-duration uptrends. \u201cThis is aggressive movement,\u201d he explained, noting that for confirmation, the RSI still needs to cross the 20-level, but emphasized that the current shape of the rebound is stronger than in previous cycles. Ethereum Shows Relative Strength Another key piece of the puzzle is Ethereum\u2019s dominance chart, which tracks ETH\u2019s market cap relative to the rest of the crypto space excluding Bitcoin. Kevin pointed to a potential double bottom on the monthly chart and a newly confirmed MACD momentum shift, the first in over two years. \u201cThat\u2019s two years and one month of downtrend finally reversing,\u201d he said. Related Reading: Ethereum Consolidates As Momentum Builds \u2013 Analyst Has $3K In Sight For June Finally, the ETH/BTC pair is showing a near-identical structure to Ethereum\u2019s dominance chart. Kevin believes this confluence is key. \u201cLook at that\u2014wow, that\u2019s funny\u2014it looks the same. You find your major low right where you found it in 2020. The monthly indicators are all curling up.\u201d Still, he remained measured in his optimism, noting that macroeconomic conditions\u2014particularly monetary policy\u2014remain essential for confirming the bullish case. \u201cIt\u2019s going to take some monetary policy shifting. We still need inflation to come in line. But the market is living four to six months ahead. If the market starts to sniff out that easing is coming, we\u2019ll see that reflected in asset prices before it happens.\u201d Referencing cycle theory and historical post-halving performance, Kevin argued that ETH\u2019s recent relative strength fits both narratives. \u201cTypically, ETH and altcoins start to outperform Bitcoin in"
-    },
-    {
-      "title": "Ethereum Price Eyes $3K Milestone\u2014Momentum Builds as Buyers Return",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-eyes-3k/",
-      "summary": "Ethereum price started a fresh increase above the $2,650 zone. ETH is now consolidating and eyes more gains above the $2,850 resistance. Ethereum started a fresh increase above the $2,750 level. The price is trading above $2,700 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2,750 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh surge if it clears the $2,850 zone in the near term. Ethereum Price Rises Further Ethereum price started a fresh increase after it found support near the $2,500 level, beating Bitcoin. ETH price was able to clear the $2,600 and $2,650 resistance levels. The bulls pushed the price above $2,750. ETH even spiked above $2,800. A high was formed at $2,832 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $2,483 swing low to the $2,832 high. Ethereum price is now trading above $2,750 and the 100-hourly Simple Moving Average. There is also a key bullish trend line forming with support at $2,750 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,820 level. The next key resistance is near the $2,850 level. The first major resistance is near the $2,880 level. A clear move above the $2,880 resistance might send the price toward the $2,920 resistance. An upside break above the $2,920 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $3,000 resistance zone or even $3,120 in the near term. Are Dips Supported In ETH? If Ethereum fails to clear the $2,850 resistance, it could start a fresh decline. Initial support on the downside is near the $2,750 level. The first major support sits near the $2,650 zone and the 50% Fib retracement level of the upward move from the $2,483 swing low to the $2,832 high. A clear move below the $2,650 support might push the price toward the $2,600 support. Any more losses might send the price toward the $2,550 support level in the near term. The next key support sits at $2,500. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,750 Major Resistance Level \u2013 $2,850"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Assessing Neiro\u2019s 31% surge: Before you bet on more, check out\u2026.",
+      "link": "https://ambcrypto.com/assessing-neiros-31-surge-before-you-bet-on-more-check-this/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/NEIRO-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Neiro bulls defended the 61.8% Fibonacci retracement level at $0.000393, and attempted to drive another impulse move higher."
+    },
+    {
       "title": "WIF price prediction \u2013 Stuck near $1-resistance, is a 20% correction ahead?",
       "link": "https://ambcrypto.com/wif-price-prediction-stuck-near-1-resistance-is-a-20-correction-ahead/",
       "summary": "<img alt=\"WIF price prediction - Stuck near $1-resistance, is a 20% correction ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/WIF-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Build-up of liquidation levels around $1-$1.1 hinted at a potential bearish reversal."
@@ -208,11 +213,6 @@
       "title": "Analyzing the odds of Mog Coin\u2019s price recovery after its 49% drawdown",
       "link": "https://ambcrypto.com/analyzing-the-odds-of-mog-coins-price-recovery-after-its-49-drawdown/",
       "summary": "<img alt=\"Analyzing the odds of Mog Coin&#039;s price recovery after its 49% drawdown\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Mog-Coin-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Mog Coin bulls made significant strides higher on Monday."
-    },
-    {
-      "title": "TRON \u2013 Whales, TVL, and sell pressure mean TRX\u2019s price will move THIS way!",
-      "link": "https://ambcrypto.com/tron-whales-tvl-and-sell-pressure-mean-trxs-price-will-move-this-way/",
-      "summary": "<img alt=\"TRON - Whales, TVL, and sell pressure mean TRX&#039;s price will move THIS way!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-94-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />For TRX, conflicting signals from lending and taker flows have tempered optimism."
     }
   ]
 }
