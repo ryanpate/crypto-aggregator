@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Shopify to Enable USDC Payments on Coinbase's Base for Merchants Worldwide",
+      "link": "https://www.coindesk.com/business/2025/06/12/shopify-to-enable-usdc-payments-on-coinbase-s-base-for-merchants-worldwide",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Will Rally as U.S. Growth Improves, Crypto Bills Progress: Coinbase Research",
       "link": "https://www.coindesk.com/markets/2025/06/12/bitcoin-will-rally-as-us-growth-improves-crypto-bills-progress-coinbase-research",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "The Protocol: Polygon, Once a Scaling Leader, Eyes a Revamp",
       "link": "https://www.coindesk.com/tech/2025/06/12/the-protocol-polygon-once-a-scaling-leader-eyes-a-revamp",
       "summary": ""
-    },
-    {
-      "title": "AVAX Rebounds From Key Support After 6% Plunge",
-      "link": "https://www.coindesk.com/markets/2025/06/12/avax-rebounds-from-key-support-after-6-plunge",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ex-Kamala Harris campaign adviser joins Coinbase advisory council",
+      "link": "https://cointelegraph.com/news/david-plouffe-coinbase-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1NjMtOWQ4OC03MjU5LTgyZDAtZmVhMjc4Zjg4ZTkx.jpg\" /></p><p>David Plouffe previously worked as an adviser for Alchemy Pay, Binance, former President Barack Obama's and former Vice President Kamala Harris\u2019 presidential campaigns.</p>"
+    },
+    {
+      "title": "Trump\u2019s Big Beautiful Bill could trigger a US debt crisis and Bitcoin boom",
+      "link": "https://cointelegraph.com/news/bitcoin-safe-haven-us-debt-crisis-big-beautiful-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkyODUtZTZhZC03YWMzLTk0ZTMtZGJmODI2MjNiOTdj.jpg\" /></p><p>President Trump\u2019s debt-heavy bill could speed up the devaluation of the US dollar. With higher inflation looming, Bitcoin may be one of the few real hedges left.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "USDC stablecoin launches on XRP Ledger",
       "link": "https://cointelegraph.com/news/usdc-stablecoin-launches-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MWUtYjU1MC03Y2YyLWI5NDgtZTVhOTA1MzU2MDlh.jpg\" /></p><p>Circle's USDC has a market capitalization of over $61 billion, making it the second-largest stablecoin, second to Tether's USDt.</p>"
-    },
-    {
-      "title": "Trident Digital to create XRP treasury of up to $500M",
-      "link": "https://cointelegraph.com/news/trident-xrp-treasury-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MjgtNDAyZi03YzRlLTg3ZDEtZDYyOTRmODc5MGRm.jpg\" /></p><p>The reserve will be funded through stock issuance and other financial instruments, according to the announcement.</p>"
-    },
-    {
-      "title": "Trump addresses Coinbase summit to discuss crypto plans",
-      "link": "https://cointelegraph.com/news/donald-trump-coinbase-conference-crypto-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MDUtZGFjNS03YmVlLThjNGEtZWI5ZTk5YjJkN2Uw.jpg\" /></p><p>The US president has spoken in person at the Bitcoin 2024 conference in Nashville and released a video message for the Digital Asset Summit in New York City.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Coinbase to launch CFTC-cleared perpetual futures trading, Bitcoin-backed credit card for US customers",
+      "link": "https://cryptoslate.com/coinbase-to-launch-cftc-cleared-perpetual-futures-trading-bitcoin-backed-credit-card-for-us-customers/",
+      "summary": "<p>Coinbase announced a Bitcoin-backed credit card and CFTC-compliant perpetual futures for US customers. The exchange made the revelation during its annual State of Crypto Summit on June 12. Perpetual futures for US traders Max Branzburg, head of consumer and business products, said Coinbase will soon list perpetual futures contracts for domestic users under the Commodity [&#8230;]</p> <p>"
+    },
     {
       "title": "Vitalik proposes \u2018Lean Ethereum\u2019 to achieve quantum security, simpler validator operations",
       "link": "https://cryptoslate.com/vitalik-proposes-lean-ethereum-to-achieve-quantum-security-simpler-validator-operations/",
@@ -73,14 +78,14 @@
       "title": "Circle expands USDC to Ripple\u2019s XRP Ledger",
       "link": "https://cryptoslate.com/circle-expands-usdc-to-ripples-xrp-ledger/",
       "summary": "<p>Circle, a US-based publicly traded crypto firm, has expanded the reach of its USD Coin (USDC) stablecoin to the XRP Ledger (XRPL), adding another blockchain to its growing ecosystem, according to a June 12 statement. On-chain data shows that around $2 million worth of the asset had been minted on the network as of press [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Meta\u2019s stablecoin plans face scrutiny from US Senators Warren and Blumenthal",
-      "link": "https://cryptoslate.com/metas-stablecoin-plans-face-scrutiny-from-us-senators-warren-and-blumenthal/",
-      "summary": "<p>Two US Democratic Senators are demanding answers from Meta CEO Mark Zuckerberg over reports that the social media giant is exploring a new stablecoin project. In a letter dated June 11, Senators Elizabeth Warren and Richard Blumenthal asked Zuckerberg to explain Meta&#8217;s current ambitions in the digital currency space. The move follows news that the [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Repeats History \u2013 Key Support Holds Again Ahead Of Potential Rally",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeats-history-key-support-holds-again-ahead-of-potential-rally/",
+      "summary": "Ethereum is at a critical juncture after breaking above key resistance but failing to sustain momentum toward the psychological $3,000 level. The recent surge brought optimism to the market, yet ETH has now pulled back slightly, struggling to extend gains as global uncertainty weighs on sentiment. With macro pressures mounting and negotiations between the US and China over a potential trade deal in focus, the broader market appears to be awaiting clarity before making its next decisive move. Related Reading: Solana Forms Higher Low: Charging Toward Range Highs? Top analyst Rekt Capital offered historical context to Ethereum\u2019s current setup, pointing to two previous cycles where ETH successfully retested the $2,500 level before launching toward $4,000. In August 2021 and again in early 2024, ETH held $2,500 as strong support (green circles), acting as the foundation for a major breakout rally. This repeating pattern has investors now eyeing the same level with growing interest. As Ethereum trades near $2,750\u2013$2,800, the coming days could determine whether this current setup mirrors past bullish cycles\u2014or if momentum fades again. With strong support beneath and a clear historical roadmap above, ETH\u2019s ability to reclaim strength could trigger the next leg in what many believe may be the start of altseason. Ethereum Echoes Past Patterns Ahead Of Potential Breakout Ethereum has rallied over 100% since its April lows, showcasing powerful momentum and heightened activity at current levels. After briefly tapping a local high near $2,830, ETH has retraced slightly but remains firmly above the $2,750 mark\u2014a key area that now acts as short-term support. The strength of this rebound is fueling growing speculation that Ethereum may not only be preparing for another leg up but also setting the tone for a broader altseason. Analysts across the board are closely watching ETH\u2019s current consolidation, with many citing historical patterns as a reason for optimism. Notably, Rekt Capital highlighted a recurring pattern that has previously led to significant rallies. In August 2021, Ethereum successfully retested the $2,500 level as support before surging to approximately $4,000. The same thing occurred in early 2024, when ETH once again bounced from $2,500 and rallied to the same zone. Now, for the past five weeks, Ethereum has repeatedly confirmed the $2,500 level as solid support, forming what appears to be a textbook foundation for another major move. This accumulation phase\u2014mirroring past cycles\u2014has many traders confident that ETH could soon reclaim $3,000 and begin leading altcoins higher. With macro conditions still uncertain and market participants looking for signals of strength, Ethereum\u2019s behavior at these levels carries added significance. If ETH can maintain its position above $2,750 and build momentum through $2,830, the market could see an explosive shift in sentiment, potentially triggering the next phase of the bull cycle. For now, all eyes remain on Ethereum as it tests the top of its multi-week range with bullish conviction. Related Reading: Ethereum Price Tests Ascending Channel Resistance \u2013 Breakout Or Breakdown? ETH Holds Above Breakout Zone After $2,830 Rejection Ethereum is currently trading at $2,749 on the 4-hour chart, holding above a key breakout zone between $2,700 and $2,740 following a brief rejection at $2,830. After breaking above this multi-week resistance last week, ETH surged into higher territory before pulling back in the last few sessions. Despite this retrace, the price has so far maintained support above the previous resistance area, now acting as a strong demand zone. This range\u2014highlighted by the yellow box on the chart\u2014served as a ceiling for nearly a month before being flipped into support during the breakout. Ethereum is now consolidating right above this area, and as long as it remains above the 50 and 100 simple moving averages (SMAs), the bullish structure is intact. Volume has started to cool off slightly, suggesting that traders are waiting for a decisive move\u2014either a bounce toward $2,800\u2013$2,900 or a breakdown back below $2,700. Related Reading: Ethereum Still Rangebound Below $2,735 Level \u2013 No Clear Breakout Yet A successful hold of this support zone could confirm the retest and build momentum for another breakout attempt. However, failure to hold $2,700 could see ETH revisit the 200 SMA around $2,570. For now, Ethereum remains technically strong, but traders are watching closely for confirmation. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Crypto Expert Puts Ethereum Price At $19,500 With Head And Shoulders Emergence",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-19500-with-hs-pattern/",
@@ -100,14 +105,19 @@
       "title": "XRP Price Enters Perfect Setup After Buy Retest \u2013 Next Stop $3.7",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-enters-perfect-setup/",
       "summary": "The XRP price is reportedly positioning for a potential breakout as it forms a textbook Falling Wedge pattern, which a crypto analyst calls a perfect bullish setup. After a successful retest of a keg buy zone, technical indicators suggest that XRP is preparing for a powerful move toward the $3.7 level soon. Falling Wedge Setup Signal XRP Price Breakout XRP is currently entering what Robert Mercer, a TradingView crypto analyst, describes as the perfect breakout setup following a prolonged period of consolidation. This technical structure suggests that XRP could potentially experience a sharp rally from its current price of $2.25 to the $3.70 level. Related Reading: XRP Price Remains Bullish Above $2, This Falling Channel Says $3.8 Is Coming Notably, on the 2-day XRP price chart, Mercer noted that the cryptocurrency has been consolidating within a Falling Wedge pattern since late December 2024. Since establishing a local bottom at $2.11 in the same timeframe, the altcoin has repeatedly tested this bottom level without breaking below it in a sustained manner. The $2.11 price zone has also acted as a reliable horizontal support level throughout the six-month Falling Wedge formation. Meanwhile, XRP\u2019s price action has been gradually compressing within the wedge pattern, indicating reduced volatility and increasing pressure near the wedge apex. Looking at the TradingView analyst\u2019s chart, it appears that XRP is now approaching the Falling Wedge resistance at the upper boundary, which coincides with the $2.45 level, where a buy retest has occurred. This convergence is viewed as a potential confirmation zone. If buying momentum continues and XRP closes decisively above $2.45, the breakout would confirm the end of the Falling Wedge and potentially initiate the cryptocurrency\u2019s next upward move. Mercer highlights that XRP\u2019s current bullish structure is a simple yet perfect setup. And based on this setup, price targets above the wedge are projected in several stages, with $2.98, $3.36 and $3.71 serving as resistance levels based on historical price action and technical extensions. If the breakout holds and buying interest persists, the TradingView expert predicts that XRP may reach the $3.5 &#8211; $4 region over the next three to five months, aligning with past performances following similar wedge breakouts in the market. $1.40 Breakdown Still In Play If Resistance Fails While XRP\u2019s current structure supports a bullish outlook, Mercer\u2018s price chart shows that a failed breakout remains a possibility. If XRP is rejected again at the $2.45 resistance level, it could resume its consolidation within the Falling Wedge pattern. This would place downward pressure on the price and may lead to a retest of lower support zones. Related Reading: Why A Sweep At $2 Is Important For XRP Price To Continue Rallying The most critical support level in this bearish scenario is located around $1.4. While this price level has not been tested directly in recent months, it marks the lower boundary of the Falling Wedge pattern. A breakdown below this level could invalidate the XRP\u2019s wedge and bullish setup. It may also indicate a possible shift in market structure from consolidation to bearish continuation, which could result in further downside. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Ethereum Tests Previous Resistance As Support \u2013 Can Bulls Defend This Level?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-tests-previous-resistance-as-support-can-bulls-defend-this-level/",
-      "summary": "Ethereum finally pushed above the long-watched $2,800 mark, signaling renewed strength and triggering a wave of optimism across the market. However, the breakout was met with heavy volatility, as the price quickly pulled back into the previous resistance zone. Despite the rejection, ETH continues to trade near the top of its range, and analysts remain bullish on the broader altcoin outlook. Related Reading: Ethereum Price Tests Ascending Channel Resistance \u2013 Breakout Or Breakdown? With Bitcoin stabilizing near all-time highs and ETH attempting to reclaim momentum, many are calling for the start of a new altseason. Ethereum\u2019s performance is viewed as a critical signal for the broader altcoin market \u2014 and for now, the structure remains intact. Bulls are watching closely to see if ETH can bounce and retest the breakout zone with strength. Top analyst M-log1 shared a technical update, noting that ETH is currently sitting at key support levels. He emphasized the importance of a clean bounce and a breakout from the current ascending channel. While M-log1 isn\u2019t calling for a breakdown yet, he highlighted the need for caution and patience as price action unfolds. For now, Ethereum holds support, but the next move will be crucial. Ethereum Leads With Strength But Volatility Keeps Market On Edge Ethereum is currently leading the crypto market, showing relative strength as it holds above key price levels despite a backdrop of volatility and global uncertainty. Trading above $2,750, ETH has become a focal point for investors who see it as the leading indicator for a potential altcoin rally. However, recent price swings have introduced a wave of caution, as traders weigh the risk of a pullback against the promise of a breakout. Macroeconomic headwinds remain a critical factor. Global tensions, rising US Treasury yields, and uncertain trade negotiations between the US and major economies continue to drive investor sentiment. These external pressures have kept volatility high and market conviction relatively fragile, even as Ethereum maintains its structure above support. M-log1 shared a technical breakdown, noting that ETH is now sitting at a key support zone near $2,750. According to him, Ethereum \u201cneeds to bounce and break out of the current ascending channel\u201d to reignite upside momentum. If that fails, the structure may tilt bearish, with a potential revisit of the lower end of the channel. He added that while he remains optimistic, probabilities shift quickly in this environment, and the next few sessions will be critical. Still, Ethereum\u2019s relative strength amid macro noise suggests underlying confidence. If ETH can reclaim the $2,800\u2013$2,830 region and flip it into support, it could pave the way for a run toward $3,000 and set the tone for altseason. Until then, price action remains compressed, and the market watches closely as Ethereum teeters at a technical and psychological pivot point. Related Reading: Solana Forms Higher Low: Charging Toward Range Highs? Ethereum Holds Key Levels As Price Tests Critical Moving Averages Ethereum is trading at $2,753 on the 3-day chart, showing strength after pushing above the 200-day simple moving average (SMA) at $2,768.62. While ETH briefly reached a high of $2,785, the candle currently reflects a slight pullback from that level. This rejection is not yet a bearish signal, but it does mark the $2,770\u2013$2,785 range as a short-term resistance zone. ETH remains well-positioned technically, holding above the 50-day ($2,325), 100-day ($2,647), and 200-day ($2,768) SMAs \u2014 all critical levels that have historically guided mid- to long-term price direction. The strong rally from April lows around $1,500 to current levels has reset the trend in Ethereum\u2019s favor, but now a clean breakout above $2,800 is needed to confirm continuation. Related Reading: Ethereum Approaches Decisive Level \u2013 Trading Around 200 DMA Resistance Volume remains steady, with no major signs of distribution. A strong close above the 200 SMA on this 3-day candle could act as a bullish confirmation and set the stage for a push toward the $3,000 mark. On the downside, if ETH fails to hold $2,700, a retest of the $2,600\u2013$2,650 support zone is likely. Featured image from Dall-E, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Coinbase Announces Bitcoin Rewards Credit Card, Offering up to 4% BTC Back on Everything",
+      "link": "https://bitcoinmagazine.com/news/coinbase-announces-bitcoin-rewards-credit-card-offering-up-to-4-btc-back-on-everything",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Coinbase-BTC-Credit-Card.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/coinbase-announces-bitcoin-rewards-credit-card-offering-up-to-4-btc-back-on-everything\" rel=\"nofollow\"> </a></p> <p>Coinbase is launching its first-ever branded credit card in partnership with American Express, set to roll out this fall. Called the Coinbase One Card, it will be available only to U.S. members of Coinbase One, the platform\u2019s monthly subscription service. The card will offer 2% to 4% back in Bitcoin on everyday purchases, along with [&#8230;]</p> <p>"
+    },
+    {
+      "title": "France\u2019s The Blockchain Group Secures \u20ac9.7 Million More For Its Bitcoin Treasury Strategy",
+      "link": "https://bitcoinmagazine.com/news/frances-the-blockchain-group-secures-e9-7-million-more-for-its-bitcoin-treasury-strategy",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Frances-The-Blockchain-Group-Secures-E9.7-Million-More-For-Its-Bitcoin-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/frances-the-blockchain-group-secures-e9-7-million-more-for-its-bitcoin-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Adam Back, TOBAM and Ludovic Chechin-Laurans back ALTBG with \u20ac9.7 million in equity and convertible bonds.</p> <p>"
+    },
     {
       "title": "Bitcoin: How To Solve the Student Loan Crisis",
       "link": "https://bitcoinmagazine.com/culture/bitcoin-how-to-solve-the-student-loan-crisis",
@@ -122,19 +132,19 @@
       "title": "Remixpoint Invests \u00a5887 Million More Into Bitcoin",
       "link": "https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Remixpoint-Invests-\u00a5887-Million-More-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin\" rel=\"nofollow\"> </a></p> <p>Japanese company now holds a total of 981.39 BTC, with a recent purchase of 55.68 BTC.</p> <p>"
-    },
-    {
-      "title": "Mercurity Fintech to Raise $800 Million for Bitcoin Treasury",
-      "link": "https://bitcoinmagazine.com/news/mercurity-fintech-to-raise-800-million-for-bitcoin-treasury",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Mercurity-Fintech.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/mercurity-fintech-to-raise-800-million-for-bitcoin-treasury\" rel=\"nofollow\"> </a></p> <p>Mercurity Fintech Holding Inc. (Nasdaq: MFH), a digital finance company focused on blockchain-based financial infrastructure, has announced plans to raise $800 million to establish a long-term Bitcoin treasury reserve. The initiative is part of the company\u2019s effort to incorporate digital assets into its financial strategy.&#160; According to a recent news release, Mercurity intends to transition [&#8230;]</p> <p>"
-    },
-    {
-      "title": "The Bitcoin Treasury Strategy That\u2019s Reanimating Zombie Companies",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-treasury-strategy-reanimating-zombie-companies",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Bitcoin-Treasury-Strategy-Reanimating-Zombie-Companies.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-treasury-strategy-reanimating-zombie-companies\" rel=\"nofollow\"> </a></p> <p>Bitcoin treasury strategies are raising the bar for capital performance\u2014companies sitting on cash are being left behind in a new era of financial discipline.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "'FIFA Rivals' Launches\u2014Why Mythical Games Thinks It'll Hit Bigger Than 'NFL Rivals'",
+      "link": "https://decrypt.co/324868/fifa-rivals-launches-why-mythical-games-hit-bigger-nfl",
+      "summary": "Mobile soccer game FIFA Rivals launched on Thursday, pairing the \"beautiful game\" with blockchain on iOS and Android."
+    },
+    {
+      "title": "Myriad Moves: Will Strategy Boost Its Bitcoin Buys? Also Predictions on Fartcoin\u2019s Rise and FIFA Club World Cup",
+      "link": "https://decrypt.co/324902/myriad-moves-strategy-boost-bitcoin-buys-fartcoin-fifa",
+      "summary": "This week's top Myriad markets include predictions on Fartcoin, Strategy's Bitcoin treasury plans, and FIFA Club World Cup."
+    },
     {
       "title": "Publicly Traded Solana Treasury Company Wants to Stack Another $5 Billion in SOL",
       "link": "https://decrypt.co/324897/publicly-traded-solana-treasury-company-stack-5-billion",
@@ -149,16 +159,6 @@
       "title": "Bitcoin and Gold: Tether's Latest Investment Boosts 'Dual Pillar Strategy'",
       "link": "https://decrypt.co/324867/bitcoin-gold-tether-latest-investment-dual-pillar-strategy",
       "summary": "Stablecoin issuer Tether has bought a substantial stake in a Canadian gold company as part of its safe-haven asset strategy, which includes a growing stash of Bitcoin."
-    },
-    {
-      "title": "Will GameStop Buy More Bitcoin? Shares Plunge Amid 'Black Box' Criticism Over Strategy",
-      "link": "https://decrypt.co/324879/will-gamestop-buy-more-bitcoin-shares-plunge-amid-black-box-criticism-over-strategy",
-      "summary": "The company\u2019s stock price fell 22% on Thursday after it unveiled plans to offer investors $1.75 billion worth of convertible bonds."
-    },
-    {
-      "title": "This Browser Extension Converts Everything Into Bitcoin\u2014Here's Why",
-      "link": "https://decrypt.co/324842/browser-extension-converts-bitcoin",
-      "summary": "Opportunity Cost is a browser extension that displays every price in Bitcoin or Sats, hoping to serve as a memetic tool for mass adoption."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum ETFs just beat Bitcoin\u2019s inflows \u2013 Here\u2019s why it matters",
+      "link": "https://ambcrypto.com/ethereum-etfs-just-beat-bitcoins-inflows-heres-why-it-matters/",
+      "summary": "<img alt=\"ETH ETFs beats BTC ETFs\" class=\"attachment-full size-full wp-post-image\" height=\"745\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/ETH-ETFs-beats-BTC-ETFs.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1324\" />Have we entered the altseason territory sooner than we thought?"
+    },
+    {
       "title": "Is ETH about to explode? Why Ethereum\u2019s Options market thinks so",
       "link": "https://ambcrypto.com/is-eth-about-to-explode-why-ethereums-options-market-thinks-so/",
       "summary": "<img alt=\"Is ETH about to explode? Why Ethereum&#039;s Options market thinks so\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders are aggressively buying short-dated calls, showing confidence in Ethereum\u2019s near-term upside potential."
@@ -208,11 +213,6 @@
       "title": "NEAR sees 46M users in Q2, yet its price struggles at $2.80 \u2013 Why?",
       "link": "https://ambcrypto.com/near-sees-46m-users-in-q2-yet-its-price-struggles-at-2-80-why/",
       "summary": "<img alt=\"NEAR\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-2-4.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />NEAR protocol was only second to Solana in active monthly users but its price was stalling."
-    },
-    {
-      "title": "Curve DAO falls 9%, but long-term investors can save CRV \u2013 How?",
-      "link": "https://ambcrypto.com/curve-dao-falls-9-but-long-term-investors-can-save-crv-how/",
-      "summary": "<img alt=\"Curve DAO\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250612_093404_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />CRV drop intensifies, but long-term investments and liquidity inflows suggest potential recovery."
     }
   ]
 }
