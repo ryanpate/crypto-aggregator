@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Dollar Index Falls Below 98 for First Time in Three Years, Gives Room for Crypto Run",
+      "link": "https://www.coindesk.com/markets/2025/06/12/dollar-index-falls-below-98-for-first-time-in-three-years-gives-room-for-crypto-run",
+      "summary": ""
+    },
+    {
+      "title": "Strategy Launches STRD, Its Third 'Bitcoin-Backed' Preferred Stock on Nasdaq",
+      "link": "https://www.coindesk.com/markets/2025/06/12/strategy-launches-strd-its-third-bitcoin-backed-preferred-stock-on-nasdaq",
+      "summary": ""
+    },
+    {
+      "title": "ETH Bulls Tighten Grip as $393M Exits Exchanges and ETF Inflows Outpace Bitcoin",
+      "link": "https://www.coindesk.com/markets/2025/06/12/eth-bulls-tighten-grip-as-usd393m-exits-exchanges-and-etf-inflows-outpace-bitcoin",
+      "summary": ""
+    },
+    {
       "title": "Jack Ma's Ant International Seeks Stablecoin Licenses in Hong Kong, Singapore: Bloomberg",
       "link": "https://www.coindesk.com/policy/2025/06/12/jack-mas-ant-international-seeks-stablecoin-licenses-in-hong-kong-singapore-bloomberg",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Mercurity Fintech Plans $800M Bitcoin Treasury, Eyes Russell 2000 Inclusion",
       "link": "https://www.coindesk.com/markets/2025/06/12/mercurity-fintech-plans-800m-bitcoin-treasury-eyes-russell-2000-inclusion",
       "summary": ""
-    },
-    {
-      "title": "Strong Uptake at 10-Year U.S. Debt Sale Eases Demand Concerns, 30-Year Sale's Up Next",
-      "link": "https://www.coindesk.com/markets/2025/06/12/strong-uptake-at-10-year-u-s-debt-sale-eases-demand-concerns-30-year-sale-s-up-next",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin-Based Stablecoin Network Plasma Raises Deposit Cap to $1B, Gets Filled in 30 Minutes",
-      "link": "https://www.coindesk.com/markets/2025/06/12/bitcoin-based-stablecoin-network-plasma-raises-deposit-cap-to-1b-gets-filled-in-30-minutes",
-      "summary": ""
-    },
-    {
-      "title": "XRP Slides 4% After Failing to Break $2.33 Resistance Level Thrice",
-      "link": "https://www.coindesk.com/markets/2025/06/12/xrp-slides-4-after-failing-to-break-233-resistance-level-thrice",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "FSB warns crypto nearing \u2018tipping point\u2019 as ties to TradFi deepen",
+      "link": "https://cointelegraph.com/news/fsb-warns-crypto-tipping-point-tradfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ0MTMtYTYxYi03Y2M3LWEyMjItOTIwNmYzZWRhNGFm.jpg\" /></p><p>Outgoing FSB Chair Klaas Knot says stablecoins and ETFs are accelerating crypto\u2019s integration into traditional finance, raising systemic risk concerns.</p>"
+    },
+    {
+      "title": "Crypto exchange Binance launches in Syria after Trump lifts sanctions",
+      "link": "https://cointelegraph.com/news/binance-welcomes-syria-trump-lifts-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFlNzQtOGQ5YS03YTYxLWE0MmQtMDhjZjgwMjRhNDQx.jpg\" /></p><p>Binance\u2019s rollout in Syria features a full access launch, allowing Syrians to trade at least 300 tokens, including Bitcoin, XRP, Toncoin and more.</p>"
+    },
+    {
+      "title": "93% of all Bitcoin is already mined. Here\u2019s what that means",
+      "link": "https://cointelegraph.com/explained/93-of-all-bitcoin-is-already-mined-heres-what-that-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NzllNGQ1OGEwZWYxZWMxMWQxYjAwMDNmZDgyNjU4NS5qcGc=.jpg\" /></p><p> With 93% of all Bitcoin already mined, the race for the remaining coins is intensifying. Here\u2019s how it impacts scarcity, mining rewards and the future of the network. </p>"
+    },
     {
       "title": "Jack Ma\u2019s Ant International eyes stablecoin licenses in Singapore, Hong Kong",
       "link": "https://cointelegraph.com/news/jack-ma-ant-group-stablecoin-license-for-singapore-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Can Bitcoin fix Pakistan\u2019s energy problem? The 2,000 megawatt mining strategy explained",
       "link": "https://cointelegraph.com/explained/can-bitcoin-fix-pakistans-energy-problem-the-2-000-megawatt-mining-strategy-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWUxZTFiMDVkMDBjNDI5NTRiYzNiMDc3NmU4ZmExOS5qcGc=.jpg\" /></p><p>Can Bitcoin solve the energy crisis in Pakistan? 2,000 MW Mining Plan</p>"
-    },
-    {
-      "title": "Crypto has killed the weekend: Hedge funds quietly scramble to adapt",
-      "link": "https://cointelegraph.com/news/hedge-funds-hire-weekend-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNjMjUtYWJjNy03MmMyLWFiNmMtNzgxM2YwNzgyNjE0.jpg\" /></p><p>Hedge funds like Qube, Virtu and Jump are hiring weekend crypto traders as traditional finance adapts to nonstop digital asset markets.</p>"
-    },
-    {
-      "title": "Why is Bitcoin price down today?",
-      "link": "https://cointelegraph.com/news/why-is-bitcoin-price-down-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvZDM2MDViNmItMGVmZi00NmY2LWE0NmYtYjE1ZWMzYjNlY2I=.jpg\" /></p><p>Bitcoin is down 1.7% over the last 24 hours after running into resistance above the $108,000 level, among other drivers that are weakening bullish momentum.</p>"
-    },
-    {
-      "title": "Bitcoin must avoid sub-$100K wick as traders digest 55% China tariffs",
-      "link": "https://cointelegraph.com/news/bitcoin-must-avoid-sub-100k-wick-traders-55-china-tariffs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RmMzUtOTlkYi03ZTk5LWIzZWQtNDM0ZTFhYzQyZjM0.jpg\" /></p><p>BTC price requirements are clear as consolidation below all-time highs continues. Can Bitcoin bulls stick to the plan and avoid falling back below $100,000?</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "XRP Could Crash To $1.55 Before Explosive Surge, Analyst Warns",
+      "link": "https://www.newsbtc.com/xrp-news/xrp-crash-1-55-before-explosive-surge/",
+      "summary": "XRP has slipped above the descending trendline that had repelled every rally since February, yet derivatives positioning suggests the apparent breakout may still end with a shake-out, according to independent market technician CasiTrades. The four-hour Binance chart shows the token gravitating around $2.32, fractionally north of the wedge\u2019s upper boundary, but only a heartbeat away from surrendering that gain if leverage forces unwind. XRP Crash Imminent? Casi frames the set-up in Elliott-wave terms, maintaining that the January\u2013June advance completed a wave (1) at roughly $2.70 and then corrected to $2.02 at the 1.236 Fibonacci extension, thereby sketching wave (2) against the wedge\u2019s base. The technician argues that the new thrust above resistance could mark the birth of wave (3), although funding dynamics cloud that bullish reading. \u201cWe\u2019re just days away from the apex of XRP\u2019s macro consolidation and price is hovering above support, while funding quietly climbs,\u201d she wrote on X. \u201cThat\u2019s a dangerous combo.\u201d Eight-hour funding rates have already reached 0.01 percent. Casi insists that if they expand to 0.02 percent without a decisive price march, algorithms will hunt the liquidity pooling beneath 2.25 dollars. \u201cAs of this morning, funding rates are ticking up to 0.01 %/8h without any meaningful breakout attempt,\u201d she explained. Related Reading: XRP Price Forms Flag Pattern Above Accumulation Zone That Points To $5 Target \u201cIf we start to reach 0.02 % or higher with no move, it signals a high probability of a liquidity sweep to the downside.\u201d The technician warns that such a flush would drag XRP through the reclaimed breakout level and expose $2.01, $1.90 dollars and potentially $1.55. \u201cThat puts 2.01, 1.90 and even 1.55 in play if 2.25 fails,\u201d she cautioned, adding that the capitulation itself \u201cwould likely generate the exact momentum needed for a powerful wave 3 breakout.\u201d The momentum backdrop remains ambivalent. The fourteen-period RSI on the same chart hovers near 62.5 yet registers lower peaks while price edges upward, hinting at a bearish divergence that often accompanies volatility spikes. Still, the break above the black trendline cannot be ignored: if sellers fail to reclaim that line swiftly, Casi\u2019s projection of wave (3) targets $3.77 via the classic 1.618 external Fibonacci extension, with a still larger-degree objective above $4.40 dollars later this summer. Related Reading: XRP Eyes $2.50 Decision Zone As Macro Wave Structure Takes Shape Casi summarises the juncture bluntly: \u201cVolatility is nearly inevitable. Whether it&#8217;s one last dip or a significant breakout, the next move is likely to define the rest of the summer.\u201d Traders therefore face a binary path. Either rising funding catalyses a liquidity sweep toward $1.55 dollars before catapulting XRP higher, or the token consolidates above $2.25 and turns the nascent breakout into a springboard toward $2.69 dollars, the barrier near $3.04 and, eventually, the 3.77-dollar wave (3) objective. At press time, XRP traded at $2.25. Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
       "title": "Bitcoin Risks Pullback To $105,000 After Facing Rejection Above $110,000",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-risks-pullback-105000/",
       "summary": "Bitcoin has faced a lot of resistance above $110,000, suggesting the bears are trying to keep the digital asset from reclaiming its all-time high levels. This has been obvious with multiple rejections above $110,000 over the last few days, while the bulls have held support above $108,000. This trend plays into an analysis published by crypto analyst TehThomas, who had forecasted the rejection from $110,000. But what\u2019s more interesting is where Thomas sees the price going from here. Bitcoin Could Drop For Shallow Pullback In the analysis, Thomas explained what is happening with the Bitcoin price and why the pullback could happen. This begins with the breakout after falling toward $100,000 and then bouncing back again. The digital asset was able to quickly clear multiple fair value gaps on the 4-hour timeframes to claim its spot above $110,000. Related Reading: Positioning For Altcoin Season: Analyst Reveals When To Buy As Bitcoin Dominance Rises The crypto analyst explains that this move has triggered a shift in the sentiment toward the positive, and this has been followed by rising volumes, as well as impulsive candles. In all, this is quite bullish for the cryptocurrency. However, there is still a risk of a price decline from here. After filling multiple fair value gaps with strength, the crypto analyst believes this has set a precedent for the Bitcoin price. He expects the same pattern to play out for the cryptocurrency, which includes a rapid rise before a shallow pullback, and then a continuation from there. BTC Pullback Into $104,000 Territory The Bitcoin price recovery above $110,000 seems to have created a fair value gap below $107,000, which the crypto analyst believes will need to be filled. If this is the case, then it is possible that the price rally will not continue until this condition is fulfilled. Nevertheless, a pullback to the level would not be bearish, but rather provide a bounce-off point for the price recovery. Related Reading: XRP Price: Analyst Says Expect Biblical Move Before Historic Crash \u2013 Here Are The Targets Thomas referred to this trend as \u201ca classic breakout-fill-continue sequence\u201d, and the next thing in line is to fill the fair value gap. According to the shared chart, the crypto analyst sees the pullback taking the price back down below $105,000 and into the $104,000 territory before its next bounce. This would mean a 5% pullback, and going by the trends from this year so far, something that would be bad for altcoins. However, the conclusion remains that Bitcoin is still bullish from here. Once the fair value gap is filled, a strong push upward is expected, possibly toward new all-time highs. \u201cI\u2019m expecting a controlled retracement to fill the new 4H imbalance, after which price could continue pushing toward the major resistance area,\u201d the analyst said. \u201cThe momentum is clean and structured\u2014until that changes, continuation remains the more likely path.\u201d Featured image from Dall.E, chart from TradingView.com"
@@ -100,11 +105,6 @@
       "title": "Bitcoin Nears All-Time High as Whale Behavior Suggests Further Upside",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-nears-all-time-high-as-whale-behavior-suggests-further-upside/",
       "summary": "Bitcoin continues to show signs of recovery as its price rebounds from a brief correction last week. At the time of writing, the crypto is trading at $109,693, reflecting a 0.4% increase over the past 24 hours. Despite this upward movement, the current price remains roughly 2% below its all-time high of over $111,000, recorded last month. This ongoing strength in price performance has been accompanied by notable on-chain signals, particularly from large holders. CryptoQuant contributor Crypto Dan recently analyzed the current market structure and behavior of Bitcoin whales. Related Reading: Bitcoin Recovers From $100K Dip While On-Chain Data Shows Rising Miner Activity Bitcoin Whale Behavior Suggests Further Upside In his latest analysis, Dan observed that despite Bitcoin hovering near record levels, there is little evidence of the profit-taking behavior typically observed during previous market tops. According to him, whales are not engaging in mass selloffs, suggesting that these investors expect the rally to continue. Dan emphasized that these large holders are likely waiting for more pronounced market euphoria and higher valuations before initiating substantial sell activity, a pattern often seen near the final stages of a bull market. Bitcoin &#8211; Near All-Time Highs but No Profit-Taking \u201cWhales show no intention of taking profits at this price level and are likely to wait for higher prices, where significant market overheating and a bubble form, before making their moves.\u201d \u2013 By @DanCoinInvestor pic.twitter.com/W5PtrHo0Q5 \u2014 CryptoQuant.com (@cryptoquant_com) June 11, 2025 Whale Exchange Activity Indicates Similar Move Further reinforcing the current sentiment, another CryptoQuant analyst, Darkfost, highlighted a significant trend in Binance whale behavior. According to Darkfost, historical data shows that when Bitcoin approaches or breaches its all-time high, there is typically a sharp rise in exchange inflows, driven by whales seeking to take profits. This pattern was visible during earlier cycle peaks, where inflows reached $5.3 billion in early 2024, and even higher levels of $8.45 billion and $7.24 billion in previous cycles. A strong bullish signal from Binance whales! \u201cToday, however, inflows are just around $3 billion and are continuing to decline, suggesting that these whales prefer to keep holding.\u201d \u2013 By @Darkfost_Coc Full analysis \u2935\ufe0fhttps://t.co/T1FlLnM4nK pic.twitter.com/O3XrqhAyEc \u2014 CryptoQuant.com (@cryptoquant_com) June 11, 2025 In contrast, recent inflows to Binance remain substantially lower. Darkfost reports current inflows hovering around $3 billion, and more importantly, on a declining trajectory. This divergence from historical patterns suggests that whales are refraining from selling at current levels. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Their reduced activity implies an expectation that higher prices may lie ahead, and that they are positioning for potentially greater returns later in the cycle. This restraint from large holders is seen as an important signal, especially given the influence whale movements can have on market liquidity and price action. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "TRX Price Up As Tron Rolls Out The Red Carpet For Trump-Backed Stablecoin",
-      "link": "https://www.newsbtc.com/altcoin/trx-price-up-as-tron-rolls-out-the-red-carpet-for-trump-backed-stablecoin/",
-      "summary": "Tron\u2019s blockchain just added a USD1 stablecoin from World Liberty Financial Inc. That move put the spotlight back on TRX. And traders are paying attention to what comes next. Related Reading: Relentless Bitcoin Accumulation: Strategy Snaps Up 1,045 More BTC Significant Price Movement According to trading data, TRX climbed 6% on Tuesday. It broke above the $0.2875 level on the daily chart before hitting resistance at $0.2980. A clean break past that hurdle could send the token toward $0.3230, the 50% Fibonacci retracement level. Currently, TRX trades around $0.2920, sitting between support at $0.2808 and the 23.6% Fib mark of $0.2645. The first USD1 has officially been minted on TRON \u2014 a small step for USD1, a giant leap for stablecoins!https://t.co/KMLg8NcXw8 \u2014 H.E. Justin Sun \ud83c\udf4c (@justinsuntron) June 11, 2025 High-Profile Stablecoin Launch Based on reports from World Liberty Financial Inc., the new USD1 stablecoin is now live on Tron. The issuer has ties to US President Donald Trump, and Justin Sun\u2014Tron\u2019s founder and the largest holder of the Trump Token meme coin\u2014called the launch a \u201cgiant leap for stablecoins.\u201d Sun also joined a White House dinner for top Trump Token holders. This link to big names has drawn fresh eyes to Tron\u2019s ecosystem. On-Chain Growth Signals According to DeFiLlama, the total value locked on Tron reached over $5 billion. On June 6, the network saw 4.50 million returning user addresses. Those stats suggest people keep coming back to DeFi apps on Tron, but it\u2019s worth watching whether those funds stay in place or chase higher yields on other chains. Bullish Bets in Derivatives Based on CoinGlass data, TRX derivatives open interest rose by 8.25% over the past 24 hours to $329 million. The weighted funding rate open interest rose to 0.0098%, indicative that bullish long positions are greater than shorts. Short liquidations in the past day were almost double that of longs, which settled a bearish bet wave. Technical analysis supports this positive perspective. The RSI on the daily chart is inching up to the overbought region, indicating heightened buying pressure. A recent MACD crossover drove histogram bars into positive territory, which means momentum has favored the buyers. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Meanwhile, traders will keep a close eye on Bitcoin\u2019s moves too. A pullback there could drag altcoins lower, while a fresh rally could lift TRX even more. For now, the combination of a big-name stablecoin launch, rising TVL, swelling open interest and positive technical signals gives Tron fans reason to watch for a potential breakout. Featured image from Getty Images, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Cypherock X1 Review: A Crypto Hardware Wallet With a Slick Card-Based Security Model",
+      "link": "https://decrypt.co/323050/cypherock-x1-review-crypto-hardware-wallet-card-based-security",
+      "summary": "The Cypherock X1 employs a shard-based security model using cards with secure elements, to guard against the threat of wrench attacks."
+    },
+    {
+      "title": "'A Business Necessity': India's AI Market Set to Triple, Hit $17 Billion by 2027, Says BCG",
+      "link": "https://decrypt.co/324814/a-business-necessity-indias-ai-market-set-to-triple-hit-17-billion-by-2027-says-bcg",
+      "summary": "India is home to 16% of the world\u2019s AI talent, second only to the U.S., according to a new BCG report on the country\u2019s booming AI sector."
+    },
+    {
       "title": "Philippines Enacts Sweeping Crypto Rules, Mandates Licensing and Capital Requirements",
       "link": "https://decrypt.co/324797/philippines-crypto-rules-licensing-capital-requirements",
       "summary": "The new SEC framework imposes minimum capital, local incorporation, and strict data rules on crypto firms operating in the Philippines."
@@ -149,16 +159,6 @@
       "title": "Australian Woman Hit With Ten-Year Ban Over $9.6 Million Crypto Scheme",
       "link": "https://decrypt.co/324774/australian-woman-ten-year-ban-9-6-million-crypto-scheme",
       "summary": "ASIC has banned Glenda Rogan for misleading conduct after she allegedly transfered client funds into blacklisted crypto platform."
-    },
-    {
-      "title": "Startup DIMO Launches DePIN Venture in Japan to Help Automakers Monetize Vehicle Data",
-      "link": "https://decrypt.co/324771/startup-dimo-launches-depin-venture-in-japan-to-help-automakers-monetize-vehicle-data",
-      "summary": "The decentralized physical infrastructure platform wants to scale and improve data infrastructure for vehicles in Japan."
-    },
-    {
-      "title": "Disney, Universal, DreamWorks Sue Midjourney, Call It a 'Bottomless Pit of Plagiarism'",
-      "link": "https://decrypt.co/324768/disney-universal-dreamworks-sue-midjourney",
-      "summary": "Hollywood studios are accusing Midjourney of rampant copyright infringement, citing unauthorized use of iconic characters."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Fartcoin\u2019s $2.48 mln whale entry may not be enough, unless THIS happens next",
+      "link": "https://ambcrypto.com/fartcoins-2-48-mln-whale-entry-may-not-be-enough-unless-this-happens-next/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Fartcoin appears to not be done with its pump yet, but should you trust it?"
+    },
+    {
       "title": "XRP Ledger\u2019s vision \u2013 Can it handle 14% of SWIFT payments by 2030?",
       "link": "https://ambcrypto.com/xrp-ledgers-vision-can-it-handle-14-of-swift-payments-by-2030/",
       "summary": "<img alt=\"Ripple XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ripple-XRP.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple CEO expect XRP Ledger to handle $175 trillion annual payment volume in five years."
@@ -208,11 +213,6 @@
       "title": "Ethereum beats S&P 500 and Solana\u2014Here\u2019s what the $65B DeFi war signals!",
       "link": "https://ambcrypto.com/ethereum-beats-sp-500-and-solana-heres-what-the-65b-defi-war-signals/",
       "summary": "<img alt=\"ETH SOL\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250611_144909_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Investors begin to ditch SOL for ETH."
-    },
-    {
-      "title": "Bitcoin: Here are the clues for what\u2019s beyond BTC ATH; first, look for\u2026",
-      "link": "https://ambcrypto.com/bitcoin-here-are-the-clues-for-whats-beyond-btc-ath-first-look-for/",
-      "summary": "<img alt=\"Here&#039;s the on-chain data shows Bitcoin holders remain confident of further gains\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The dissimilarities to November 2024 were encouraging for Bitcoin bulls."
     }
   ]
 }
