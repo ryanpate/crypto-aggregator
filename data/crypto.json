@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Crypto Cracks Late in Day, Bitcoin Slumps Below $106K",
+      "link": "https://www.coindesk.com/markets/2025/06/12/crypto-cracks-late-in-day-bitcoin-slumps-below-106k",
+      "summary": ""
+    },
+    {
       "title": "Coinbase to Launch Bitcoin Rewards Card With Amex, While Eyeing U.S. Futures Expansion",
       "link": "https://www.coindesk.com/business/2025/06/12/coinbase-to-launch-bitcoin-rewards-card-with-amex-while-eyeing-us-futures-expansion",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "DeFi Adding $5B of Solana Buying Power With New Line of Credit",
       "link": "https://www.coindesk.com/business/2025/06/12/defi-adding-5b-of-solana-buying-power-with-new-line-of-credit",
       "summary": ""
-    },
-    {
-      "title": "Donald Trump: Administration Will Work Toward 'Clear and Simple' Crypto Frameworks",
-      "link": "https://www.coindesk.com/policy/2025/06/12/donald-trump-administration-will-work-toward-clear-and-simple-crypto-frameworks",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Solana futures open interest hits $7.4B amid ETF speculation: Is $200 SOL next?",
+      "link": "https://cointelegraph.com/news/solana-futures-open-interest-2-year-high-etf-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY2MGUtOThmNy03M2IwLThlODItZWE5NTQxMzZlMTY1.jpg\" /></p><p>SOL\u2019s futures open interest hits a 2-year high above $7.4 billion, but neutral funding and declining DEX activity cast doubt on a breakout to $200.</p>"
+    },
     {
       "title": "Shift to digital asset technology won&#039;t be &#039;slow&#039; \u2014 Franklin Templeton CEO",
       "link": "https://cointelegraph.com/news/franklin-templeton-ceo-digital-asset-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Bitcoin price fractal points to bull trap that could send BTC below $100K",
-      "link": "https://cointelegraph.com/news/bitcoin-price-fractal-points-to-bull-trap-that-could-send-btc-below-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2NWMtYWJmYi03NzE3LTllNjQtY2FjOGY1MGI0MTQ2.jpg\" /></p><p>Escalating tensions in the Middle East and an ominous Bitcoin chart fractal could play a role in sending BTC price back under $100,000.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "BlackRock\u2019s BUIDL nears $3B, registers 3x increase in less than 90 days",
+      "link": "https://cryptoslate.com/blackrocks-buidl-nears-3b-registers-3x-increase-in-less-than-90-days/",
+      "summary": "<p>BlackRock&#8217;s USD Institutional Digital Liquidity Fund (BUIDL) expanded by about $1 billion between March 26 and June 11, representing roughly half of the $2 billion growth of the tokenized US treasuries market in the period. According to rwa.xyz data, BUIDL&#8217;s size is $2.89 billion as of June 11. It is the largest tokenized money fund, [&#8230;]</p> <p>"
+    },
     {
       "title": "Andreessen Horowitz champions blockchain integration for AI ownership and innovation",
       "link": "https://cryptoslate.com/andreessen-horowitz-champions-blockchain-integration-for-ai-ownership-and-innovation/",
@@ -73,14 +78,14 @@
       "title": "Vitalik proposes \u2018Lean Ethereum\u2019 to achieve quantum security, simpler validator operations",
       "link": "https://cryptoslate.com/vitalik-proposes-lean-ethereum-to-achieve-quantum-security-simpler-validator-operations/",
       "summary": "<p>Ethereum builders outlined a \u201cLean Ethereum\u201d roadmap that aims to trim layer-1 complexity while hardening security, according to researcher Thomas Coratger on June 12 via X. Co-founder Vitalik Buterin and researcher Justin Drake discussed the concept in a breakout session at the Forschungsingenieurtagung conference in Berlin. It proposes three guiding targets: security, simplicity, and optimality. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Polygon unveils \u2018Gigagas\u2019 roadmap to reach 100,000 TPS",
-      "link": "https://cryptoslate.com/polygon-unveils-gigagas-roadmap-to-reach-100000-tps/",
-      "summary": "<p>Polygon has laid out an ambitious scaling roadmap to reach 100,000 transactions per second (TPS), beginning with a July upgrade that will bring the network to 1,000 TPS. The roadmap comes a day after Polygon announced a governance revamp and shift in focus to Agglayer. Dubbed the \u201cGigagas\u201d roadmap, the initiative is focused on making [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Nasdaq Says Yes To Cardano: ADA Earns A Spot Among Crypto Giants",
+      "link": "https://www.newsbtc.com/altcoin/nasdaq-says-yes-to-cardano-ada-earns-a-spot-among-crypto-giants/",
+      "summary": "Cardano\u2019s ADA has joined the Nasdaq Crypto Index, moving from the sidelines into the institutional spotlight. According to Nasdaq filings, this shift brings ADA alongside Bitcoin and Ethereum in one of the main benchmarks watched by big investors. It\u2019s a sign that regulators and asset managers see Cardano as more than just another blockchain token. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Index Broadens To Nine Assets Based on reports from TapTools and Nasdaq\u2019s Form 8-K, the index grew from five to nine assets. It now lists Bitcoin, Ethereum, Litecoin, Chainlink, Uniswap, and adds Cardano (ADA), Solana (SOL), Ripple (XRP), and Stellar (XLM). The change gives these newcomers a seat at the table. It also means more options for funds that track this benchmark. Cardano $ADA has officially been added to the Nasdaq Crypto Index, joining BTC and ETH in one of the industry\u2019s top institutional benchmarks. It\u2019s not just recognition\u2014 It\u2019s infrastructure-level validation. Full breakdown \ud83d\udc47https://t.co/n6nW3aK8rt pic.twitter.com/KuyDXy4cem \u2014 TapTools (@TapTools) June 10, 2025 Impact On Weighting Of Bitcoin And Ethereum Previously, Bitcoin made up 85% of the index and Ethereum held 10%. With ADA and the other three in play, Bitcoin\u2019s share falls to 75% and Ethereum\u2019s to 11%. This shift lets portfolio managers spread risk across a broader set of tokens. It also lowers the concentration in the two biggest names in crypto. SEC approves NASDAQ Index that includes ADA Cardano pic.twitter.com/p7Rj5RVGQd \u2014 Cardano Feed ($ADA) (@CardanoFeed) June 11, 2025 ETF Holdings Await SEC Signoff Even though the index itself now includes all 9 assets, the US-listed Hashdex Nasdaq Crypto Index ETF still holds only Bitcoin and Ethereum. That won\u2019t change until the SEC signs off on updates to the ETF\u2019s rulebook. Based on the current timeline, that approval is expected in early 2026. Until then, US investors can track the wider index on paper, but their ETF shares will stick with the original two coins. Related Reading: TRX Price Up As Tron Rolls Out The Red Carpet For Trump-Backed Stablecoin Cardano Gains Institutional Spotlight For Cardano, this is more than a trophy. It means added liquidity, better price support, and a clearer path into institutional portfolios. More cash in and out of ADA markets could narrow trading spreads and smooth out big swings. Trading platforms, custody services, and exchanges will feel the impact too. They\u2019ll need to meet the index\u2019s criteria\u2014steady volume, regulated venues, and institutional-grade storage. Those checkpoints help keep major players comfortable when they decide to buy or sell ADA at scale. Overall, bringing ADA into this benchmark shows that big finance is watching Cardano more closely than before. Yet the final step\u2014actual ETF inclusion in the US\u2014still lies with regulators. Featured image from Unsplash, chart from TradingView"
+    },
     {
       "title": "Ethereum Repeats History \u2013 Key Support Holds Again Ahead Of Potential Rally",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeats-history-key-support-holds-again-ahead-of-potential-rally/",
@@ -100,14 +105,14 @@
       "title": "Will Dogecoin Moon Or Crash? This Indicator Holds The Answer",
       "link": "https://www.newsbtc.com/news/dogecoin/will-dogecoin-moon-or-crash-indicator-holds-answer/",
       "summary": "According to market technician Cantonese Cat (@cantonmeow) a single metric\u2014the 20-month simple moving average\u2014could be the line that could separate another vertical rally from a gut-wrenching breakdown for Dogecoin. Currently, DOGE sits comfortable above that moving average, now plotted at $0.1751. The black curve on Cat\u2019s chart shows only three clean retests of the 20-month SMA since 2014. All Eyes On Dogecoin\u2019s 20-Month SMA The first came in March 2017, when price tapped the average near $0.00020 and then ripped more than 9,000% into the January 2018 peak. The second occurred in the winter of 2020, with price kissing the average at roughly one-fourth of one cent before the parabolic 34,500% run to $0.73 the following May. The third and current encounter began in August last year when DOGE rallied by more than 480%. As of today, two successive monthly candles dipped into the zone just below twenty-cents, but both were bought aggressively, leaving higher wicks and preserving the upward slope of the average. Cantonese Cat argues that as long as that moving average remains intact, \u201cwe\u2019re going higher.\u201d A decisive monthly close beneath $0.175 would, by this read, place the entire structure at risk and could usher in the sort of multi-month down-trend that followed the 2018 and 2021 climaxes. Related Reading: Dogecoin Faces Make-Or-Break Moment This Month, Predicts Analyst TOTAL2 Needs To Break Out Analyst Kevin (@Kev_Capital_TA) overlays that micro view on a much broader canvas. His chart tracks the total crypto market capitalization ex-Bitcoin (TradingView ticker \u201cTOTAL2\u201d) in monthly candles back to 2017. Two bold yellow trend-lines define a seven-year rising channel whose upper rail repelled price at the January 2018 and November 2021 alt-season tops. Since the June 2022 low, the market has carved out an ascending triangle: a rising series of higher lows presses against a flat-topped supply zone between roughly $1.43 trillion and $1.7 trillion. The apex of the triangle now looms; aggregate alt-cap is already worth about $1.2 trillion \u2014 all that stands between the current print and a confirmed breakout is a monthly close above the upper edge of that yellow rectangle. Kevin\u2019s projection measures the height of the pattern and adds it to the breakout level, dropping a vertical marker that intersects the mid-channel near $5.89 trillion. Kevin\u2019s first Fibonacci extensions target is the 1.618 at $4.06 trillion. Higher extensions at 1.886, 2.0 and 2.618 cluster around $4.57 trillion, 5.89 trillion and $6.9 trillion respectively, the last of which coincides almost exactly with the channel\u2019s ceiling and is circled as the analyst\u2019s ultimate upside objective. Related Reading: Dogecoin Primed For Liftoff If It Can Break This Barrier: Key Price Targets Why does that matter for Dogecoin? The meme-coin\u2019s two explosive cycles began only after TOTAL2 had broken its own prior-cycle high and money poured into non-Bitcoin assets. Kevin states that \u201caltcoins are just scratching the surface of what is possible in the coming months,\u201d provided that macro-liquidity and regulatory factors permit capital rotation out of Bitcoin into the wider market. In that scenario the 20-month SMA on DOGE would likely continue to slope higher, setting the stage for an explosive move higher. Conversely, failure of the alt-cap triangle would make a sustained loss of the SMA far more probable, robbing DOGE of its historical launch-pad. For now, the indicator holds\u2014and with it the prospect that Dogecoin could be primed for yet another bout of furious upside. But as both analysts caution, the monthly close will tell the story: above the 20-month SMA and an alt-cap breakout, or below it and back into hibernation. At press time, DOGE traded at $0.189. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "XRP Price Enters Perfect Setup After Buy Retest \u2013 Next Stop $3.7",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-enters-perfect-setup/",
-      "summary": "The XRP price is reportedly positioning for a potential breakout as it forms a textbook Falling Wedge pattern, which a crypto analyst calls a perfect bullish setup. After a successful retest of a keg buy zone, technical indicators suggest that XRP is preparing for a powerful move toward the $3.7 level soon. Falling Wedge Setup Signal XRP Price Breakout XRP is currently entering what Robert Mercer, a TradingView crypto analyst, describes as the perfect breakout setup following a prolonged period of consolidation. This technical structure suggests that XRP could potentially experience a sharp rally from its current price of $2.25 to the $3.70 level. Related Reading: XRP Price Remains Bullish Above $2, This Falling Channel Says $3.8 Is Coming Notably, on the 2-day XRP price chart, Mercer noted that the cryptocurrency has been consolidating within a Falling Wedge pattern since late December 2024. Since establishing a local bottom at $2.11 in the same timeframe, the altcoin has repeatedly tested this bottom level without breaking below it in a sustained manner. The $2.11 price zone has also acted as a reliable horizontal support level throughout the six-month Falling Wedge formation. Meanwhile, XRP\u2019s price action has been gradually compressing within the wedge pattern, indicating reduced volatility and increasing pressure near the wedge apex. Looking at the TradingView analyst\u2019s chart, it appears that XRP is now approaching the Falling Wedge resistance at the upper boundary, which coincides with the $2.45 level, where a buy retest has occurred. This convergence is viewed as a potential confirmation zone. If buying momentum continues and XRP closes decisively above $2.45, the breakout would confirm the end of the Falling Wedge and potentially initiate the cryptocurrency\u2019s next upward move. Mercer highlights that XRP\u2019s current bullish structure is a simple yet perfect setup. And based on this setup, price targets above the wedge are projected in several stages, with $2.98, $3.36 and $3.71 serving as resistance levels based on historical price action and technical extensions. If the breakout holds and buying interest persists, the TradingView expert predicts that XRP may reach the $3.5 &#8211; $4 region over the next three to five months, aligning with past performances following similar wedge breakouts in the market. $1.40 Breakdown Still In Play If Resistance Fails While XRP\u2019s current structure supports a bullish outlook, Mercer\u2018s price chart shows that a failed breakout remains a possibility. If XRP is rejected again at the $2.45 resistance level, it could resume its consolidation within the Falling Wedge pattern. This would place downward pressure on the price and may lead to a retest of lower support zones. Related Reading: Why A Sweep At $2 Is Important For XRP Price To Continue Rallying The most critical support level in this bearish scenario is located around $1.4. While this price level has not been tested directly in recent months, it marks the lower boundary of the Falling Wedge pattern. A breakdown below this level could invalidate the XRP\u2019s wedge and bullish setup. It may also indicate a possible shift in market structure from consolidation to bearish continuation, which could result in further downside. Featured image from Getty Images, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin Will Replace Gold And Go To $1,000,000, Says Galaxy Digital CEO Mike Novogratz",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-will-replace-gold-and-go-to-1000000-says-galaxy-digital-ceo-mike-novogratz",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Bitcoin-Will-Replace-Gold-And-Go-To-1000000-Says-Galaxy-Digital-CEO-Mike-Novogratz.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitcoin-will-replace-gold-and-go-to-1000000-says-galaxy-digital-ceo-mike-novogratz\" rel=\"nofollow\"> </a></p> <p>Mike Novogratz, in an interview with CNBC, said \u201cthere have been more Bitcoins lost than will be mined for the rest of eternity.\"</p> <p>"
+    },
     {
       "title": "Coinbase Announces Bitcoin Rewards Credit Card, Offering up to 4% BTC Back on Everything",
       "link": "https://bitcoinmagazine.com/news/coinbase-announces-bitcoin-rewards-credit-card-offering-up-to-4-btc-back-on-everything",
@@ -127,14 +132,24 @@
       "title": "Passport Prime: A New Security Device For a New Generation",
       "link": "https://bitcoinmagazine.com/business/passport-prime-a-new-security-device-for-a-new-generation",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Passport-Prime-A-New-Security-Device-For-a-New-Generation.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/business/passport-prime-a-new-security-device-for-a-new-generation\" rel=\"nofollow\"> </a></p> <p>Passport Prime from Foundation Devices gears up for a Q3 2025 release, offering NFC, 2FA, and a sleek design to boost Bitcoin security.</p> <p>"
-    },
-    {
-      "title": "Remixpoint Invests \u00a5887 Million More Into Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Remixpoint-Invests-\u00a5887-Million-More-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin\" rel=\"nofollow\"> </a></p> <p>Japanese company now holds a total of 981.39 BTC, with a recent purchase of 55.68 BTC.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Shopify to Roll Out USDC Stablecoin Payments on Base in Coinbase Team-Up",
+      "link": "https://decrypt.co/324930/shopify-roll-out-usdc-stablecoin-payments-on-base-coinbase-team-up",
+      "summary": "Customers buying from Shopify merchants will be able to use the USDC stablecoin thanks to a collaboration with Coinbase and Stripe."
+    },
+    {
+      "title": "Another Public Company Goes Hard on XRP With $500 Million Treasury Plan",
+      "link": "https://decrypt.co/324927/public-company-goes-hard-xrp-with-500-million-treasury",
+      "summary": "Singapore-based Trident is bucking the Bitcoin reserve trend, instead embracing the Ripple-linked XRP for its treasury."
+    },
+    {
+      "title": "Crypto Longs Get Rekt as Bitcoin, Ethereum and Dogecoin Dive",
+      "link": "https://decrypt.co/324931/crypto-longs-get-rekt-bitcoin-ethereum-dogecoin-dive",
+      "summary": "Long position liquidations are rapidly piling up as Bitcoin, Ethereum, Dogecoin, and Solana losses accelerate Thursday."
+    },
     {
       "title": "'FIFA Rivals' Launches\u2014Why Mythical Games Thinks It'll Hit Bigger Than 'NFL Rivals'",
       "link": "https://decrypt.co/324868/fifa-rivals-launches-why-mythical-games-hit-bigger-nfl",
@@ -144,21 +159,6 @@
       "title": "Myriad Moves: Will Strategy Boost Its Bitcoin Buys? Also Predictions on Fartcoin\u2019s Rise and FIFA Club World Cup",
       "link": "https://decrypt.co/324902/myriad-moves-strategy-boost-bitcoin-buys-fartcoin-fifa",
       "summary": "This week's top Myriad markets include predictions on Fartcoin, Strategy's Bitcoin treasury plans, and FIFA Club World Cup."
-    },
-    {
-      "title": "Publicly Traded Solana Treasury Company Wants to Stack Another $5 Billion in SOL",
-      "link": "https://decrypt.co/324897/publicly-traded-solana-treasury-company-stack-5-billion",
-      "summary": "Solana treasury company DeFi Development Corp. established a major line of equity credit to buy even more SOL."
-    },
-    {
-      "title": "Ethereum Token Platform Zora Sues Deloitte Over AI Trademark Dispute",
-      "link": "https://decrypt.co/324894/ethereum-token-launchpad-zora-sues-deloitte",
-      "summary": "Token launchpad Zora is suing consulting giant Deloitte for trademark infringement over its \"Zora AI\" digital workforce platform."
-    },
-    {
-      "title": "Bitcoin and Gold: Tether's Latest Investment Boosts 'Dual Pillar Strategy'",
-      "link": "https://decrypt.co/324867/bitcoin-gold-tether-latest-investment-dual-pillar-strategy",
-      "summary": "Stablecoin issuer Tether has bought a substantial stake in a Canadian gold company as part of its safe-haven asset strategy, which includes a growing stash of Bitcoin."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "BTC on the brink: Vanishing supply signals volatility storm",
+      "link": "https://ambcrypto.com/btc-on-the-brink-vanishing-supply-signals-volatility-storm/",
+      "summary": "<img alt=\"Bitcoin supply\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-supply-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will the global liquidity surge and BTC's 30% supply decline trigger an explosive run?"
+    },
+    {
       "title": "Raydium drops 10% in 24 hours as shorts take the lead: More losses ahead?",
       "link": "https://ambcrypto.com/raydium-drops-10-in-24-hours-as-shorts-take-the-lead-more-losses-ahead/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250612_111510_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />RAY\u2019s ongoing downtrend shows clear signs of deepening in the near term."
@@ -208,11 +213,6 @@
       "title": "Is ETH about to explode? Why Ethereum\u2019s Options market thinks so",
       "link": "https://ambcrypto.com/is-eth-about-to-explode-why-ethereums-options-market-thinks-so/",
       "summary": "<img alt=\"Is ETH about to explode? Why Ethereum&#039;s Options market thinks so\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders are aggressively buying short-dated calls, showing confidence in Ethereum\u2019s near-term upside potential."
-    },
-    {
-      "title": "Mapping Bitcoin, Ethereum\u2019s moves amid Middle Eastern tensions, tariff wars",
-      "link": "https://ambcrypto.com/mapping-bitcoin-ethereums-moves-amid-middle-eastern-tensions-tariff-wars/",
-      "summary": "<img alt=\"Mapping Bitcoin, Ethereum&#039;s performance amid Middle Eastern tensions, tariff wars\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-ethereum-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum enjoyed institutional confidence despite mid-week chaos."
     }
   ]
 }
