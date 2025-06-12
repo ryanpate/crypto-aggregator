@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Coinbase to Launch Bitcoin Rewards Card With Amex, While Eyeing U.S. Futures Expansion",
+      "link": "https://www.coindesk.com/business/2025/06/12/coinbase-to-launch-bitcoin-rewards-card-with-amex-while-eyeing-us-futures-expansion",
+      "summary": ""
+    },
+    {
       "title": "Shopify to Enable USDC Payments on Coinbase's Base for Merchants Worldwide",
       "link": "https://www.coindesk.com/business/2025/06/12/shopify-to-enable-usdc-payments-on-coinbase-s-base-for-merchants-worldwide",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Donald Trump: Administration Will Work Toward 'Clear and Simple' Crypto Frameworks",
       "link": "https://www.coindesk.com/policy/2025/06/12/donald-trump-administration-will-work-toward-clear-and-simple-crypto-frameworks",
       "summary": ""
-    },
-    {
-      "title": "The Protocol: Polygon, Once a Scaling Leader, Eyes a Revamp",
-      "link": "https://www.coindesk.com/tech/2025/06/12/the-protocol-polygon-once-a-scaling-leader-eyes-a-revamp",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Shift to digital asset technology won&#039;t be &#039;slow&#039; \u2014 Franklin Templeton CEO",
+      "link": "https://cointelegraph.com/news/franklin-templeton-ceo-digital-asset-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1YmUtMGQwNy03NzRiLTg1MjQtM2JkYTNkMmI0NTJl.jpg\" /></p><p>In the world of traditional finance, sentiment has been shifting toward digital assets, with BlackRock, JPMorgan and Franklin Templeton making moves.</p>"
+    },
     {
       "title": "Ex-Kamala Harris campaign adviser joins Coinbase advisory council",
       "link": "https://cointelegraph.com/news/david-plouffe-coinbase-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "Bitcoin price fractal points to bull trap that could send BTC below $100K",
       "link": "https://cointelegraph.com/news/bitcoin-price-fractal-points-to-bull-trap-that-could-send-btc-below-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2NWMtYWJmYi03NzE3LTllNjQtY2FjOGY1MGI0MTQ2.jpg\" /></p><p>Escalating tensions in the Middle East and an ominous Bitcoin chart fractal could play a role in sending BTC price back under $100,000.</p>"
-    },
-    {
-      "title": "USDC stablecoin launches on XRP Ledger",
-      "link": "https://cointelegraph.com/news/usdc-stablecoin-launches-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MWUtYjU1MC03Y2YyLWI5NDgtZTVhOTA1MzU2MDlh.jpg\" /></p><p>Circle's USDC has a market capitalization of over $61 billion, making it the second-largest stablecoin, second to Tether's USDt.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Andreessen Horowitz champions blockchain integration for AI ownership and innovation",
+      "link": "https://cryptoslate.com/andreessen-horowitz-champions-blockchain-integration-for-ai-ownership-and-innovation/",
+      "summary": "<p>Andreessen Horowitz\u2019s crypto arm a16z said blockchains could steer artificial intelligence toward user ownership and open standards, according to a June 11 report. The paper argued that core context and \u201cagent passports\u201d should reside in self-custodial wallets, providing any large-language-model interface with instant access to preferences without requiring repeated training. A chain-based identity layer would [&#8230;]</p> <p>"
+    },
+    {
+      "title": "World\u2019s largest financial clearinghouse DTCC eyeing stablecoin launch",
+      "link": "https://cryptoslate.com/worlds-largest-financial-clearinghouse-dtcc-eyeing-stablecoin-launch/",
+      "summary": "<p>The Depository Trust &#38; Clearing Corporation (DTCC), which handles the clearing and settlement of nearly all U.S. stock trades, is exploring the issuance of a U.S. dollar-backed stablecoin, The Information reported on June 12, citing sources familiar with the matter. According to the report, DTCC is in the early stages of evaluating whether to launch [&#8230;]</p> <p>"
+    },
     {
       "title": "Coinbase to launch CFTC-cleared perpetual futures trading, Bitcoin-backed credit card for US customers",
       "link": "https://cryptoslate.com/coinbase-to-launch-cftc-cleared-perpetual-futures-trading-bitcoin-backed-credit-card-for-us-customers/",
@@ -68,16 +78,6 @@
       "title": "Polygon unveils \u2018Gigagas\u2019 roadmap to reach 100,000 TPS",
       "link": "https://cryptoslate.com/polygon-unveils-gigagas-roadmap-to-reach-100000-tps/",
       "summary": "<p>Polygon has laid out an ambitious scaling roadmap to reach 100,000 transactions per second (TPS), beginning with a July upgrade that will bring the network to 1,000 TPS. The roadmap comes a day after Polygon announced a governance revamp and shift in focus to Agglayer. Dubbed the \u201cGigagas\u201d roadmap, the initiative is focused on making [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Hong Kong teams up with university to tackle crypto laundering with tech",
-      "link": "https://cryptoslate.com/hong-kong-teams-up-with-university-to-tackle-crypto-laundering-with-tech/",
-      "summary": "<p>Hong Kong is stepping up its fight against crypto-related money laundering by working with the University of Hong Kong (HKU) on technology-driven solutions, including improved tracking of virtual asset flows. The new effort was revealed in a government statement on June 12, following a four-day workshop focused on enhancing anti-money laundering (AML) strategies. Collaborative effort [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Circle expands USDC to Ripple\u2019s XRP Ledger",
-      "link": "https://cryptoslate.com/circle-expands-usdc-to-ripples-xrp-ledger/",
-      "summary": "<p>Circle, a US-based publicly traded crypto firm, has expanded the reach of its USD Coin (USDC) stablecoin to the XRP Ledger (XRPL), adding another blockchain to its growing ecosystem, according to a June 12 statement. On-chain data shows that around $2 million worth of the asset had been minted on the network as of press [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Raydium drops 10% in 24 hours as shorts take the lead: More losses ahead?",
+      "link": "https://ambcrypto.com/raydium-drops-10-in-24-hours-as-shorts-take-the-lead-more-losses-ahead/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250612_111510_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />RAY\u2019s ongoing downtrend shows clear signs of deepening in the near term."
+    },
+    {
+      "title": "Shiba Inu: THESE are SHIB\u2019s key levels after 103K% spike in burn rate",
+      "link": "https://ambcrypto.com/shiba-inu-these-are-shibs-key-levels-after-103k-spike-in-burn-rate/",
+      "summary": "<img alt=\"SHIB\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-12T152222.519-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB burn spikes and whale accumulation hint at a breakout above descending channel resistance."
+    },
+    {
       "title": "Ethereum ETFs just beat Bitcoin\u2019s inflows \u2013 Here\u2019s why it matters",
       "link": "https://ambcrypto.com/ethereum-etfs-just-beat-bitcoins-inflows-heres-why-it-matters/",
       "summary": "<img alt=\"ETH ETFs beats BTC ETFs\" class=\"attachment-full size-full wp-post-image\" height=\"745\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/ETH-ETFs-beats-BTC-ETFs.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1324\" />Have we entered the altseason territory sooner than we thought?"
@@ -203,16 +213,6 @@
       "title": "Mapping Bitcoin, Ethereum\u2019s moves amid Middle Eastern tensions, tariff wars",
       "link": "https://ambcrypto.com/mapping-bitcoin-ethereums-moves-amid-middle-eastern-tensions-tariff-wars/",
       "summary": "<img alt=\"Mapping Bitcoin, Ethereum&#039;s performance amid Middle Eastern tensions, tariff wars\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-ethereum-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum enjoyed institutional confidence despite mid-week chaos."
-    },
-    {
-      "title": "Sonic whales make their move \u2013 What THESE signals mean for retail bets!",
-      "link": "https://ambcrypto.com/sonic-whales-make-their-move-what-these-signals-mean-for-retail-bets/",
-      "summary": "<img alt=\"Sonic\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-12T111752.483-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sonic sees smart money profits and whale accumulation despite daily losses."
-    },
-    {
-      "title": "NEAR sees 46M users in Q2, yet its price struggles at $2.80 \u2013 Why?",
-      "link": "https://ambcrypto.com/near-sees-46m-users-in-q2-yet-its-price-struggles-at-2-80-why/",
-      "summary": "<img alt=\"NEAR\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-2-4.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />NEAR protocol was only second to Solana in active monthly users but its price was stalling."
     }
   ]
 }
