@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "FBI Crypto Veteran Chris Wong Joins TRM Labs to Bolster Fight Against Illicit Finance",
+      "link": "https://www.coindesk.com/policy/2025/06/12/fbi-crypto-veteran-chris-wong-joins-trm-labs-to-bolster-fight-against-illicit-finance",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Daybook Americas: Bitcoin Drops as Mideast Tensions Rise, but $200K Still In Play",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/12/crypto-daybook-americas-bitcoin-drops-as-mideast-tensions-rise-but-200k-still-in-play",
+      "summary": ""
+    },
+    {
       "title": "Dollar Index Falls Below 98 for First Time in Three Years, Gives Room for Crypto Run",
       "link": "https://www.coindesk.com/markets/2025/06/12/dollar-index-falls-below-98-for-first-time-in-three-years-gives-room-for-crypto-run",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "ETH Bulls Tighten Grip as $393M Exits Exchanges and ETF Inflows Outpace Bitcoin",
       "link": "https://www.coindesk.com/markets/2025/06/12/eth-bulls-tighten-grip-as-usd393m-exits-exchanges-and-etf-inflows-outpace-bitcoin",
       "summary": ""
-    },
-    {
-      "title": "Jack Ma's Ant International Seeks Stablecoin Licenses in Hong Kong, Singapore: Bloomberg",
-      "link": "https://www.coindesk.com/policy/2025/06/12/jack-mas-ant-international-seeks-stablecoin-licenses-in-hong-kong-singapore-bloomberg",
-      "summary": ""
-    },
-    {
-      "title": "Mercurity Fintech Plans $800M Bitcoin Treasury, Eyes Russell 2000 Inclusion",
-      "link": "https://www.coindesk.com/markets/2025/06/12/mercurity-fintech-plans-800m-bitcoin-treasury-eyes-russell-2000-inclusion",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Tried automating crypto trades with Grok 3? Here\u2019s what happens",
+      "link": "https://cointelegraph.com/news/automated-crypto-trades-with-grok-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjBhOWItZmI2Ny03NjMyLWIxY2MtOGZhOTZlOGViZjg4.jpg\" /></p><p>Automating crypto trades with Grok 3 might seem promising, but issues like data loss and inaccurate signals can hurt your performance in a fast-paced market.</p>"
+    },
+    {
+      "title": "Nasdaq-listed Mercurity Fintech to raise $800M for Bitcoin treasury",
+      "link": "https://cointelegraph.com/news/mercurity-800m-bitcoin-treasury-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RlYzctOTJjZC03NDYwLWIwMTMtNTNlYmE0NDBiY2Zh.jpg\" /></p><p>Mercurity\u2019s $800 million Bitcoin treasury financing plan would make the firm the 11th-largest corporate Bitcoin holder after Galaxy Digital.</p>"
+    },
+    {
+      "title": "Ether futures open interest hits $20B all-time high: Will ETH price follow?",
+      "link": "https://cointelegraph.com/news/ethereum-futures-open-interest-hits-20b-all-time-high-will-eth-price-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA1MmUtZjQxZi03ZjFkLWFjODktOThkYjIzOGE4MjFm.jpg\" /></p><p>Ether futures data shows momentum, with ETH price more than doubling since April lows, increasing the chance of a rally to $4,000 in the coming weeks.</p>"
+    },
     {
       "title": "FSB warns crypto nearing \u2018tipping point\u2019 as ties to TradFi deepen",
       "link": "https://cointelegraph.com/news/fsb-warns-crypto-tipping-point-tradfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,24 @@
       "title": "Crypto exchange Binance launches in Syria after Trump lifts sanctions",
       "link": "https://cointelegraph.com/news/binance-welcomes-syria-trump-lifts-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFlNzQtOGQ5YS03YTYxLWE0MmQtMDhjZjgwMjRhNDQx.jpg\" /></p><p>Binance\u2019s rollout in Syria features a full access launch, allowing Syrians to trade at least 300 tokens, including Bitcoin, XRP, Toncoin and more.</p>"
-    },
-    {
-      "title": "93% of all Bitcoin is already mined. Here\u2019s what that means",
-      "link": "https://cointelegraph.com/explained/93-of-all-bitcoin-is-already-mined-heres-what-that-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NzllNGQ1OGEwZWYxZWMxMWQxYjAwMDNmZDgyNjU4NS5qcGc=.jpg\" /></p><p> With 93% of all Bitcoin already mined, the race for the remaining coins is intensifying. Here\u2019s how it impacts scarcity, mining rewards and the future of the network. </p>"
-    },
-    {
-      "title": "Jack Ma\u2019s Ant International eyes stablecoin licenses in Singapore, Hong Kong",
-      "link": "https://cointelegraph.com/news/jack-ma-ant-group-stablecoin-license-for-singapore-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE3OTQtNzc3Mi03YjVhLTg3NGUtYzE0OTQwNzZjMDM3.jpg\" /></p><p>Ant International plans to apply for stablecoin licenses in Hong Kong and Singapore, signaling growing fintech interest in regulated crypto payment systems, Bloomberg reported.</p>"
-    },
-    {
-      "title": "Can Bitcoin fix Pakistan\u2019s energy problem? The 2,000 megawatt mining strategy explained",
-      "link": "https://cointelegraph.com/explained/can-bitcoin-fix-pakistans-energy-problem-the-2-000-megawatt-mining-strategy-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWUxZTFiMDVkMDBjNDI5NTRiYzNiMDc3NmU4ZmExOS5qcGc=.jpg\" /></p><p>Can Bitcoin solve the energy crisis in Pakistan? 2,000 MW Mining Plan</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Just 216 Bitcoin holders own over 6 million BTC as market concentration grows",
+      "link": "https://cryptoslate.com/just-216-bitcoin-holders-own-over-6-million-btc-as-market-concentration-grows/",
+      "summary": "<p>A growing share of Bitcoin\u2019s circulating supply is now concentrated in the hands of major institutional players and centralized entities, a new report by Gemini and Glassnode reveals. According to the findings, over 30% of Bitcoin\u2019s supply is now controlled by just 216 centralized holders across six key categories, including crypto exchanges, ETFs and funds, [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Ethereum leads $336M liquidation wave with heavy long losses",
+      "link": "https://cryptoslate.com/insights/ethereum-leads-336m-liquidation-wave-with-heavy-long-losses/",
+      "summary": "<p>In the 24 hours between June 11 and 12, the crypto market saw $336.84 in liquidations, with over 114,000 traders rekt as leveraged positions were flushed out across most exchanges. Nearly 74% of total liquidations came from longs following a sharp intraday correction, most likely driven by a retracement in ETH, which alone accounted for [&#8230;]</p> <p>"
+    },
+    {
+      "title": "XRP ETF approval odds slide 10% ahead of critical SEC and ETF deadlines next week",
+      "link": "https://cryptoslate.com/xrp-etf-approval-odds-slide-10-ahead-of-critical-sec-and-etf-deadlines-next-week/",
+      "summary": "<p>Approaching deadlines for spot XRP ETF applications from major asset managers, including Grayscale, Franklin Templeton, and Bitwise, are fueling speculation over potential SEC approval, especially in light of Ripple\u2019s proposed legal settlement with the regulator, which still awaits final court approval. On the prediction platform Polymarket, odds for an approval by 2025 surged to as [&#8230;]</p> <p>"
+    },
     {
       "title": "Solana hitting 1M TPS, memecoin rug pull seizures to put SOL on US digital asset stockpile radar",
       "link": "https://cryptoslate.com/solana-hitting-1m-tps-memecoin-rug-pull-seizures-can-put-sol-on-us-digital-asset-stockpile-radar/",
@@ -63,24 +78,24 @@
       "title": "Ripple CEO Brad Garlinghouse sees XRP capturing 14% of SWIFT\u2019s market in five years",
       "link": "https://cryptoslate.com/ripple-ceo-brad-garlinghouse-sees-xrp-capturing-14-of-swifts-market-in-five-years/",
       "summary": "<p>Ripple CEO Brad Garlinghouse believes XRP could soon take a meaningful slice of the global payments sector. In a recent video shared on X, Garlinghouse projected that XRP might capture as much as 14% of the volume currently processed through Society for Worldwide Interbank Financial Telecommunication (SWIFT) within the next five years. He argued that [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitwise CIO calls Bitcoin \u2018best horse in the race\u2019 to explain accelerated corporate buys",
-      "link": "https://cryptoslate.com/bitwise-cio-calls-bitcoin-best-horse-in-the-race-to-explain-accelerated-corporate-buys/",
-      "summary": "<p>Bitwise CIO Matt Hougan said the &#8220;megatrend&#8221; of public companies adding Bitcoin (BTC) to treasury reserves will continue accelerating as the movement is still in its early stages. Hougan made the statement during a June 10 interview on CNBC, where he highlighted that 79 listed firms now hold roughly $57 billion worth of Bitcoin as of [&#8230;]</p> <p>"
-    },
-    {
-      "title": "GameStop\u2019s plan to raise another $1.75B fuels speculation of further Bitcoin acquisitions",
-      "link": "https://cryptoslate.com/gamestops-plan-to-raise-another-1-75b-fuels-speculation-of-further-bitcoin-acquisitions/",
-      "summary": "<p>GameStop Corp. plans to raise $1.75 billion through a private offering of convertible senior notes due 2032, as the company explores digital asset investments, including potential Bitcoin acquisitions, under its updated investment strategy, according to a June 11 press release. The zero-coupon notes will be offered to qualified institutional buyers under Rule 144A of the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bank of America eyes dollar-pegged stablecoin amid Senate fast-tracking GENIUS Act",
-      "link": "https://cryptoslate.com/bank-of-america-eyes-dollar-pegged-stablecoin-amid-senate-fast-tracking-genius-act/",
-      "summary": "<p>Bank of America CEO Brian Moynihan confirmed the lender plans to issue a dollar-pegged stablecoin and is working on an internal build conducted alongside other industry participants, Reuters reported on June 11. However, Moynihan added that any progress in a potential launch would be contingent on forthcoming federal rules. He also told investors the bank [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Tests Previous Resistance As Support \u2013 Can Bulls Defend This Level?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-tests-previous-resistance-as-support-can-bulls-defend-this-level/",
+      "summary": "Ethereum finally pushed above the long-watched $2,800 mark, signaling renewed strength and triggering a wave of optimism across the market. However, the breakout was met with heavy volatility, as the price quickly pulled back into the previous resistance zone. Despite the rejection, ETH continues to trade near the top of its range, and analysts remain bullish on the broader altcoin outlook. Related Reading: Ethereum Price Tests Ascending Channel Resistance \u2013 Breakout Or Breakdown? With Bitcoin stabilizing near all-time highs and ETH attempting to reclaim momentum, many are calling for the start of a new altseason. Ethereum\u2019s performance is viewed as a critical signal for the broader altcoin market \u2014 and for now, the structure remains intact. Bulls are watching closely to see if ETH can bounce and retest the breakout zone with strength. Top analyst M-log1 shared a technical update, noting that ETH is currently sitting at key support levels. He emphasized the importance of a clean bounce and a breakout from the current ascending channel. While M-log1 isn\u2019t calling for a breakdown yet, he highlighted the need for caution and patience as price action unfolds. For now, Ethereum holds support, but the next move will be crucial. Ethereum Leads With Strength But Volatility Keeps Market On Edge Ethereum is currently leading the crypto market, showing relative strength as it holds above key price levels despite a backdrop of volatility and global uncertainty. Trading above $2,750, ETH has become a focal point for investors who see it as the leading indicator for a potential altcoin rally. However, recent price swings have introduced a wave of caution, as traders weigh the risk of a pullback against the promise of a breakout. Macroeconomic headwinds remain a critical factor. Global tensions, rising US Treasury yields, and uncertain trade negotiations between the US and major economies continue to drive investor sentiment. These external pressures have kept volatility high and market conviction relatively fragile, even as Ethereum maintains its structure above support. M-log1 shared a technical breakdown, noting that ETH is now sitting at a key support zone near $2,750. According to him, Ethereum \u201cneeds to bounce and break out of the current ascending channel\u201d to reignite upside momentum. If that fails, the structure may tilt bearish, with a potential revisit of the lower end of the channel. He added that while he remains optimistic, probabilities shift quickly in this environment, and the next few sessions will be critical. Still, Ethereum\u2019s relative strength amid macro noise suggests underlying confidence. If ETH can reclaim the $2,800\u2013$2,830 region and flip it into support, it could pave the way for a run toward $3,000 and set the tone for altseason. Until then, price action remains compressed, and the market watches closely as Ethereum teeters at a technical and psychological pivot point. Related Reading: Solana Forms Higher Low: Charging Toward Range Highs? Ethereum Holds Key Levels As Price Tests Critical Moving Averages Ethereum is trading at $2,753 on the 3-day chart, showing strength after pushing above the 200-day simple moving average (SMA) at $2,768.62. While ETH briefly reached a high of $2,785, the candle currently reflects a slight pullback from that level. This rejection is not yet a bearish signal, but it does mark the $2,770\u2013$2,785 range as a short-term resistance zone. ETH remains well-positioned technically, holding above the 50-day ($2,325), 100-day ($2,647), and 200-day ($2,768) SMAs \u2014 all critical levels that have historically guided mid- to long-term price direction. The strong rally from April lows around $1,500 to current levels has reset the trend in Ethereum\u2019s favor, but now a clean breakout above $2,800 is needed to confirm continuation. Related Reading: Ethereum Approaches Decisive Level \u2013 Trading Around 200 DMA Resistance Volume remains steady, with no major signs of distribution. A strong close above the 200 SMA on this 3-day candle could act as a bullish confirmation and set the stage for a push toward the $3,000 mark. On the downside, if ETH fails to hold $2,700, a retest of the $2,600\u2013$2,650 support zone is likely. Featured image from Dall-E, chart from TradingView"
+    },
+    {
+      "title": "Bitcoin Sentiment Explodes While Bitcoin Hyper Soars: Best Presale in 2025 About to Take Off?",
+      "link": "https://www.newsbtc.com/news/bitcoin-sentiment-explodes-while-bitcoin-hyper-soars-best-presale-in-2025/",
+      "summary": "There\u2019s much ado about Bitcoin these days. After notching a new all-time of $111.9K on May 22, 2025, $BTC has been trading back and forth below that mark, never falling below $100K. But usually holding sideways between $105K-$110K. But Bitcoin sentiment is beginning to build again. Will it lead to a new push for the market? If so, then the aptly-named Bitcoin Hyper ($HYPER) presale could gain the most as Bitcoin&#8217;s first Layer-2 implementing the Solana Virtual Machine. Long-Time HODLers Selling at $100K One reason for the recent selling pressure might be long-term Bitcoin hodlers finally choosing to sell. Early investors who bought Bitcoin when the price was a few thousand (Bitcoin was below $10K only a few years ago, on July 1, 2020) might be finally ready to cash out now that $BTC has gone 10x or more from their original investment. Is that a bad sign for Bitcoin investors? Not necessarily. A potential tightening of Bitcoin&#8217;s supply will likely offset the increased selling pressure. On-chain data supports that conclusion, as the amount of exchange-held Bitcoins has steadily fallen, even as Bitcoin\u2019s price rises. In fact, only weakening demand may have kept $BTC\u2019s price down so far. And that\u2019s not likely to continue forever. Bitwise CEO: \u2018No One Is Going To Sell\u2019 Once Bitcoin Breaks Through Bitwise CEO Hunter Horsley thinks that tightening supply will only worsen once Bitcoin breaks through $130K-$150K. At that point, the HODLers will return, diamond hands and everything. If he\u2019s correct, then the issue of tightening supply will kick in harder than ever. And the first and perhaps only immutable law of economics \u2013 supply and demand \u2013 could supercharge Bitcoin\u2019s price. Institutional investors being more bullish than ever also helps the narrative, even as retail investors go back-and-forth with Bitcoin. Take GameStop, which recently purchased 4.7K Bitcoin and plans to offer $1.75B of convertible notes to potentially fund more purchases. A recent Santiment report shows that Bitcoin positivity is returning in the community, with positive comments outweighing the negative by more than 2-1. Growing Bitcoin hype means at least one thing: $BTC-centric presales like Bitcoin Hyper could grow big \u2013 fast. Bitcoin Hyper ($HYPER) \u2013 Unlock Fast, Cheap Bitcoin Transactions with First Bitcoin Layer 2 More than a store of value; with Bitcoin Hyper ($HYPER), Bitcoin can finally be everything it was meant to be \u2013 the home of crypto payments, meme coins, dApps, and smart contracts. The technical framework for Bitcoin Hyper is straightforward; with the Bitcoin Relay Program, any $BTC deposited to a specific Bitcoin address can be minted on the Bitcoin Hyper Layer 2. That Layer 2 leverages the Solana Virtual Machine (SVM) for better throughput and increased scalability, and sets $HYPER up to be one of the strongest crypto presales so far in 2025. The end result is a Zero-Knowledge (ZK) equipped Layer 2, trustless but fully synced to the Bitcoin Layer 1 blockchain. $HYPER, the native token for the Bitcoin Layer 2, provides a number of benefits for $HYPER chain users. Those benefits include: Low gas fees, paid in $HYPER Staking rewards, currently 647% APY Participation incentives Developer bounties Bitcoin Hyper\u2019s presale rocketed out of the gate, passing $1M raised in a matter of days. Token currently cost $0.01185, with $1.13M raised so far. That price could reach $0.02595 by the end of 2025 (for a 118% increase), according to our price prediction. Buy into the $HYPER, and join a community of visionaries who want to transform Bitcoin&#8217;s position in the dApp industry. Bullish Outlook Means Growing Demand for Bitcoin and Bitcoin Hyper As $BTC supply tightens, demand will only increase. That should fuel a further increase for both $BTC and related projects, like a groundbreaking Bitcoin Layer 2. And if you consider $HYPER&#8217;s utility is all about making Bitcoin more prepared for the adoption ahead, the project&#8217;s potential in the market becomes beyond clear. Remember, always do your own research; this isn\u2019t financial advice. &#160;"
+    },
+    {
+      "title": "Bitcoin Price Hits Local High? Top Analyst Shares Key Levels",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-price-hits-local-high-top-analyst-shares-key-levels/",
+      "summary": "The Bitcoin price is slipping into a critical area following a decline in the previous buying pressure. Many traders and investors in the crypto market wonder if the top crypto will recover as confidence in a new Bull Market barely show signs of a recovery. Related Reading: Bitcoin Risks Pullback To $105,000 After Facing Rejection Above $110,000 Bitcoin price trends to the downside on the daily chart. Source: BTCUSDT on Tradingview Top Bitcoin Pundit: Watch Out For This Level According to Daan Crypto, a senior crypto analyst, the Bitcoin price has weakened due to changes in the macroeconomic arena. In that sense, the analyst believes bull must hold the levels above $99,000 or they risk a bigger decline into the monthly lows sitting at around $90,000, as seen in the chart below. Some of the elements affecting the Bitcoin price on the macro side include a good Consumer Price Index (CPI) print from the US, and a \u2018good deal\u2019 between this country and Chinese representatives. These news indicate decline in inflation and potentially an end to trade war between the two giants, respectively. However, the analysis noted: At this point I&#8217;m fairly certain that if price breaks either the current monthly high or low, that it will keep trending that direction for the rest of June (and possible beyond). Eyes on those levels. Still quite a volatile and headline driven market currently(\u2026). So markets down on good news is always something to note. Just one day for now but good to be aware of. James Wynn Makes Key Warning \u2013 Manipulation in the Bitcoin Price? On similar news, James Wynn, a crypto trader that recently gained notoriety by leveraging millions of dollars to bet on the Bitcoin price, believes the selling pressure will rise on the short timeframe. Wynn has been alerting its X followers on the alleged manipulation of the crypto market by big players. These massive investors, according to the crypto trader, target key levels and push Bitcoin towards them to hunt for liquidity in detriment of retail users. Related Reading: XRP Could Crash To $1.55 Before Explosive Surge, Analyst Warns This time Wynn claims \u2018Market Makers\u2019 might push the Bitcoin price down to the $106,000 area. However, the trader believes the downtrend will be short advising his followers of an imminent rebound. Wynn stated via X: Hold onto your seats fellas. The MM\u2019s are gonna try and push $BTC to around $106.8k to take out some over leveraged longs (not me). I learned the hard way. Buy the dip or sit on your hands. It\u2019ll be over quick. Time is ticking. New ATHs around the corner. Don\u2019t be shaken. Whether the downtrend will persist or if prices recover in the short term remains to be seen, but current price action suggests an imminent spike in volatility. Cover image by ChatGPT, BTC/USDT chart from Tradingview"
+    },
     {
       "title": "XRP Could Crash To $1.55 Before Explosive Surge, Analyst Warns",
       "link": "https://www.newsbtc.com/xrp-news/xrp-crash-1-55-before-explosive-surge/",
@@ -90,24 +105,14 @@
       "title": "Bitcoin Risks Pullback To $105,000 After Facing Rejection Above $110,000",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-risks-pullback-105000/",
       "summary": "Bitcoin has faced a lot of resistance above $110,000, suggesting the bears are trying to keep the digital asset from reclaiming its all-time high levels. This has been obvious with multiple rejections above $110,000 over the last few days, while the bulls have held support above $108,000. This trend plays into an analysis published by crypto analyst TehThomas, who had forecasted the rejection from $110,000. But what\u2019s more interesting is where Thomas sees the price going from here. Bitcoin Could Drop For Shallow Pullback In the analysis, Thomas explained what is happening with the Bitcoin price and why the pullback could happen. This begins with the breakout after falling toward $100,000 and then bouncing back again. The digital asset was able to quickly clear multiple fair value gaps on the 4-hour timeframes to claim its spot above $110,000. Related Reading: Positioning For Altcoin Season: Analyst Reveals When To Buy As Bitcoin Dominance Rises The crypto analyst explains that this move has triggered a shift in the sentiment toward the positive, and this has been followed by rising volumes, as well as impulsive candles. In all, this is quite bullish for the cryptocurrency. However, there is still a risk of a price decline from here. After filling multiple fair value gaps with strength, the crypto analyst believes this has set a precedent for the Bitcoin price. He expects the same pattern to play out for the cryptocurrency, which includes a rapid rise before a shallow pullback, and then a continuation from there. BTC Pullback Into $104,000 Territory The Bitcoin price recovery above $110,000 seems to have created a fair value gap below $107,000, which the crypto analyst believes will need to be filled. If this is the case, then it is possible that the price rally will not continue until this condition is fulfilled. Nevertheless, a pullback to the level would not be bearish, but rather provide a bounce-off point for the price recovery. Related Reading: XRP Price: Analyst Says Expect Biblical Move Before Historic Crash \u2013 Here Are The Targets Thomas referred to this trend as \u201ca classic breakout-fill-continue sequence\u201d, and the next thing in line is to fill the fair value gap. According to the shared chart, the crypto analyst sees the pullback taking the price back down below $105,000 and into the $104,000 territory before its next bounce. This would mean a 5% pullback, and going by the trends from this year so far, something that would be bad for altcoins. However, the conclusion remains that Bitcoin is still bullish from here. Once the fair value gap is filled, a strong push upward is expected, possibly toward new all-time highs. \u201cI\u2019m expecting a controlled retracement to fill the new 4H imbalance, after which price could continue pushing toward the major resistance area,\u201d the analyst said. \u201cThe momentum is clean and structured\u2014until that changes, continuation remains the more likely path.\u201d Featured image from Dall.E, chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Options Traders Expect Quiet\u2014But On-Chain Data Suggests Chaos",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-options-traders-expect-on-chain-chaos/",
-      "summary": "The Bitcoin Options traders have been pricing in low implied volatility, but on-chain data shows a setup ripe for amplified price swings. Bitcoin Options ATM IV Has Been Trending Lower In its latest weekly report, the analytics firm Glassnode has talked about how the volatility risk associated with Bitcoin looks from the perspective of on-chain analysis. Related Reading: Ethereum To $3,400? On-Chain Shows No Big Hurdles Ahead The indicator shared by Glassnode is the Realized Supply Density, which tells us about how concentrated the cryptocurrency&#8217;s supply is around the current spot price. When the value of this metric is high, it means the investors have participated in a large amount of buying at or near the asset&#8217;s latest price. &#8220;In such environments, even modest price fluctuations can affect a broad swath of investors, often amplifying market sensitivity and, in turn, volatility potential,&#8221; explains the analytics firm. Below is the chart for the indicator shared by in the report. As is visible in the graph, the Bitcoin Realized Supply Density has gone through an uplift during the past few weeks, which suggests accumulation has taken place around the current spot price. &#8220;This concentration raises the probability of outsized reactions to price movements, increasing volatility risk in the near term,&#8221; notes Glassnode. While on-chain data may hint that volatility could go up in the future, it would appear the traders on the Options market don&#8217;t quite think the same, as the At-The-Money Implied Volatility (ATM IV) has been going down. The IV is a metric that represents the traders&#8217; expectations of how volatile Bitcoin will be over a given period, based on the pricing of Options contracts. The ATM version of the indicator specifically calculates this expectation based on Options closest to the latest spot price. Related Reading: Bitcoin Back At $109,000, But HODLer Profit-Taking Down 89% Here is a chart that shows the trend in the Bitcoin Options ATM IV across different expiration timeframes: From the above graph, it&#8217;s apparent that the Bitcoin Options ATM IV has been going down for all major tenors, an indication that the traders don&#8217;t expect high volatility for the cryptocurrency in the near future. &#8220;Historically, such complacency in volatility pricing has often served as a counter-trend signal, preceding periods of heightened volatility,&#8221; says the analytics firm. With on-chain data suggesting increased volatility risk and this signal forming at the same time, it now remains to be seen how Bitcoin would develop in the coming days. BTC Price At the time of writing, Bitcoin is trading around $108,800, up more than 3.5% in the last week. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Prepares For Massive Run After $2,800 Reclaim \u2013 \u2018Up Only\u2019 Ahead?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-prepares-for-massive-run-after-2800-reclaim-up-only-ahead/",
-      "summary": "As Ethereum (ETH) attempts to reclaim its January 2025 price range, the cryptocurrency has been holding a recently recovered level, leading some analysts to suggest another 10% surge before new highs. Related Reading: Bitcoin Eyes New Highs As Price Retests $109,000, But Analyst Warns Of Potential Pullback Ethereum Breakout Eyes $3,100 Ethereum has reclaimed the key $2,800 barrier for the first time since February, nearing the $2,900 level on Wednesday morning. The King of Altcoins had been trading between the $2,475-$2,680 range since its May breakout, unable to turn the range\u2019s upper boundary into support. During last week\u2019s retracement, ETH dropped to the $2,400 support before bouncing over the weekend. The crypto market\u2019s recovery saw Ethereum surge toward the key resistance, finally breaking past it at the start of the week and hitting a three-month high of $2,879 today. Following this performance, Analyst Carl Runefelt from The Moon Show noted that the cryptocurrency had broken out of an ascending triangle formation and now targets the $3,100 resistance. The analyst previously highlighted ETH\u2019s triangle pattern, which began forming at the start of last month\u2019s recovery rally. During that period, the price compressed between the support and resistance lines, with the latter situated around the $2,700 mark. He forecasted a 15% surge toward the $3,100 level if the altcoin reclaimed the crucial resistance level. Based on this, Ethereum could climb another 10.7% if it holds its current range. Runefelt also pointed out another bullish formation in ETH\u2019s trading pair against Bitcoin (BTC). According to the ETH/BTC chart, Ethereum also formed a bullish pennant pattern during the May rally. Amid this week\u2019s recovery, the cryptocurrency has broken out of the formation\u2019s upper boundary, eyeing a 30% surge toward the 0.03300 mark. ETH To Repeat History? Market Watcher Kaleo highlighted the resemblance between ETH\u2019s performance between 2020 and 2025. According to the analyst, there are \u201ca lot of similarities on the chart to where we are now vs. where we were in 2020.\u201d As he explained, in the Spring of 2020, Ethereum experienced a major sell-off, fueled by the COVID-19 crash, which sent its price below a key higher timeframe (HFT) support. However, once the ascending trendline was reclaimed as support, ETH was \u201cup only for the next 20 months.\u201d Kaleo detailed the recent sell-off, caused by the Trump Tariffs scare, sent the altcoin below its multi-year ascending support trendline, adding that \u201cETH is currently on the verge of reclaiming that line.\u201d Related Reading: Solana Triangle Formation Breakout Targets Rally To $164 \u2013 Is A Recovery Around The Corner? The analyst suggested that if history repeats, investors could see \u201canother great ETH bull run and accompanying alt season.\u201d Meanwhile, analyst DonAlt affirmed that ETH\u2019s chart looks \u201cpretty good\u201d amid its HTF range reclaim. To him, a new all-time high (ATH) is likely if the $3,800 resistance is reclaimed, while the rally\u2019s invalidation level is a close below the $2,200 mark. As of this writing, ETH trades at $2,803, a 6.7% increase in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Nears All-Time High as Whale Behavior Suggests Further Upside",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-nears-all-time-high-as-whale-behavior-suggests-further-upside/",
-      "summary": "Bitcoin continues to show signs of recovery as its price rebounds from a brief correction last week. At the time of writing, the crypto is trading at $109,693, reflecting a 0.4% increase over the past 24 hours. Despite this upward movement, the current price remains roughly 2% below its all-time high of over $111,000, recorded last month. This ongoing strength in price performance has been accompanied by notable on-chain signals, particularly from large holders. CryptoQuant contributor Crypto Dan recently analyzed the current market structure and behavior of Bitcoin whales. Related Reading: Bitcoin Recovers From $100K Dip While On-Chain Data Shows Rising Miner Activity Bitcoin Whale Behavior Suggests Further Upside In his latest analysis, Dan observed that despite Bitcoin hovering near record levels, there is little evidence of the profit-taking behavior typically observed during previous market tops. According to him, whales are not engaging in mass selloffs, suggesting that these investors expect the rally to continue. Dan emphasized that these large holders are likely waiting for more pronounced market euphoria and higher valuations before initiating substantial sell activity, a pattern often seen near the final stages of a bull market. Bitcoin &#8211; Near All-Time Highs but No Profit-Taking \u201cWhales show no intention of taking profits at this price level and are likely to wait for higher prices, where significant market overheating and a bubble form, before making their moves.\u201d \u2013 By @DanCoinInvestor pic.twitter.com/W5PtrHo0Q5 \u2014 CryptoQuant.com (@cryptoquant_com) June 11, 2025 Whale Exchange Activity Indicates Similar Move Further reinforcing the current sentiment, another CryptoQuant analyst, Darkfost, highlighted a significant trend in Binance whale behavior. According to Darkfost, historical data shows that when Bitcoin approaches or breaches its all-time high, there is typically a sharp rise in exchange inflows, driven by whales seeking to take profits. This pattern was visible during earlier cycle peaks, where inflows reached $5.3 billion in early 2024, and even higher levels of $8.45 billion and $7.24 billion in previous cycles. A strong bullish signal from Binance whales! \u201cToday, however, inflows are just around $3 billion and are continuing to decline, suggesting that these whales prefer to keep holding.\u201d \u2013 By @Darkfost_Coc Full analysis \u2935\ufe0fhttps://t.co/T1FlLnM4nK pic.twitter.com/O3XrqhAyEc \u2014 CryptoQuant.com (@cryptoquant_com) June 11, 2025 In contrast, recent inflows to Binance remain substantially lower. Darkfost reports current inflows hovering around $3 billion, and more importantly, on a declining trajectory. This divergence from historical patterns suggests that whales are refraining from selling at current levels. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Their reduced activity implies an expectation that higher prices may lie ahead, and that they are positioning for potentially greater returns later in the cycle. This restraint from large holders is seen as an important signal, especially given the influence whale movements can have on market liquidity and price action. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Maelstrom Announces Its Fourth Bitcoin Developer Grant Recipient",
+      "link": "https://bitcoinmagazine.com/news/maelstrom-announced-its-fourth-bitcoin-developer-grant-recipient",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Maelstrom-Announced-Its-Fourth-Bitcoin-Developer-Grant-Recipient.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/maelstrom-announced-its-fourth-bitcoin-developer-grant-recipient\" rel=\"nofollow\"> </a></p> <p>Maelstrom selected macgyver13 as its fourth Bitcoin recipient. Ron will be working on silent payments.</p> <p>"
+    },
     {
       "title": "F Street Announced Goal Of Accumulating $10 Million In Bitcoin",
       "link": "https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin",
@@ -127,14 +132,14 @@
       "title": "The CLARITY Act Heads To House Floor For Vote With Protection For Noncustodial Tools Intact",
       "link": "https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Capitol-Building-CLARITY-Act.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact\" rel=\"nofollow\"> </a></p> <p>The section of the CLARITY Act (H.R. 3633) that protects Bitcoin and crypto users\u2019 right to use noncustodial wallets as well as developers\u2019 right to create such tools without being subject to The Bank Secrecy Act (BSA) will remain in the bill as it gets voted on in the House.</p> <p>"
-    },
-    {
-      "title": "Stripe Acquires Startup Privy To Expand Bitcoin Strategy",
-      "link": "https://bitcoinmagazine.com/news/stripe-acquires-startup-privy-to-expand-bitcoin-strategy",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Stripe-Acquires-Startup-Privy-To-Expand-Bitcoin-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/stripe-acquires-startup-privy-to-expand-bitcoin-strategy\" rel=\"nofollow\"> </a></p> <p>Privy joins Stripe to build a Bitcoin and crypto wallet infrastructure. </p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Dogecoin, Solana Stumble as Altcoins Hit by Market Correction",
+      "link": "https://decrypt.co/324829/dogecoin-solana-stumble-as-altcoins-hit-by-market-correction",
+      "summary": "Altcoins including DOGE, SOL and ADA outpaced Bitcoin\u2019s losses Thursday morning, in what experts called a \u201croutine\u201d pullback."
+    },
     {
       "title": "Cypherock X1 Review: A Crypto Hardware Wallet With a Slick Card-Based Security Model",
       "link": "https://decrypt.co/323050/cypherock-x1-review-crypto-hardware-wallet-card-based-security",
@@ -154,11 +159,6 @@
       "title": "US Senators Probe Stablecoin Plans by Facebook Parent Meta",
       "link": "https://decrypt.co/324791/us-senators-probe-stablecoin-plans-meta",
       "summary": "Senators Warren and Blumenthal are demanding answers from Meta over renewed stablecoin plans, warning of risks to competition and privacy."
-    },
-    {
-      "title": "Australian Woman Hit With Ten-Year Ban Over $9.6 Million Crypto Scheme",
-      "link": "https://decrypt.co/324774/australian-woman-ten-year-ban-9-6-million-crypto-scheme",
-      "summary": "ASIC has banned Glenda Rogan for misleading conduct after she allegedly transfered client funds into blacklisted crypto platform."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Worldcoin\u2019s layer-2 upgrade pushes TVL to $50 mln \u2013 Now, what about WLD?",
+      "link": "https://ambcrypto.com/worldcoins-layer-2-upgrade-pushes-tvl-to-50-mln-now-what-about-wld/",
+      "summary": "<img alt=\"Worldcoin\u2019s layer-2 upgrade pushes TVL to $50 mln - Now, what about WLD?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-1-4.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite a partnership with Circle and TVL growth, WLD continues its struggle to stay above the $1 mark."
+    },
+    {
+      "title": "TRON\u2019s $691B USDT surge meets Bank of America\u2019s stablecoin plans: A new crypto era?",
+      "link": "https://ambcrypto.com/trons-691b-usdt-surge-meets-bank-of-americas-stablecoin-plans-a-new-crypto-era/",
+      "summary": "<img alt=\"stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-15-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bank of America accelerates its stablecoin plans as TRON dominates USDT flows."
+    },
+    {
       "title": "Fartcoin\u2019s $2.48 mln whale entry may not be enough, unless THIS happens next",
       "link": "https://ambcrypto.com/fartcoins-2-48-mln-whale-entry-may-not-be-enough-unless-this-happens-next/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Fartcoin appears to not be done with its pump yet, but should you trust it?"
@@ -203,16 +213,6 @@
       "title": "Brazil\u2019s Bitcoin Reserve Bill passes first review \u2013 All details here",
       "link": "https://ambcrypto.com/brazils-bitcoin-reserve-bill-passes-first-review-all-details-here/",
       "summary": "<img alt=\"BTC Brazil\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_42_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Brazil backs Bitcoin reserves as ETF inflows and Japanese corporate accumulation signal renewed institutional confidence."
-    },
-    {
-      "title": "Dogecoin: Musk apologized, DOGE reacted \u2013 You\u2019ll want to see this!",
-      "link": "https://ambcrypto.com/dogecoin-musk-apologized-doge-reacted-youll-want-to-see-this/",
-      "summary": "<img alt=\"DOGE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-11T164229.036-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Dogecoin rises 2.97%, but retail investors stay cautious despite Elon Musk\u2019s Trump-driven buzz."
-    },
-    {
-      "title": "Ethereum beats S&P 500 and Solana\u2014Here\u2019s what the $65B DeFi war signals!",
-      "link": "https://ambcrypto.com/ethereum-beats-sp-500-and-solana-heres-what-the-65b-defi-war-signals/",
-      "summary": "<img alt=\"ETH SOL\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250611_144909_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Investors begin to ditch SOL for ETH."
     }
   ]
 }
