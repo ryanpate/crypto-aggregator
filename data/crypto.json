@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "DeFi Adding $5B of Solana Buying Power With New Line of Credit",
+      "link": "https://www.coindesk.com/business/2025/06/12/defi-adding-5b-of-solana-buying-power-with-new-line-of-credit",
+      "summary": ""
+    },
+    {
+      "title": "Donald Trump: Administration Will Work Toward 'Clear and Simple' Crypto Frameworks",
+      "link": "https://www.coindesk.com/policy/2025/06/12/donald-trump-administration-will-work-toward-clear-and-simple-crypto-frameworks",
+      "summary": ""
+    },
+    {
+      "title": "The Protocol: Polygon, Once a Scaling Leader, Eyes a Revamp",
+      "link": "https://www.coindesk.com/tech/2025/06/12/the-protocol-polygon-once-a-scaling-leader-eyes-a-revamp",
+      "summary": ""
+    },
+    {
       "title": "AVAX Rebounds From Key Support After 6% Plunge",
       "link": "https://www.coindesk.com/markets/2025/06/12/avax-rebounds-from-key-support-after-6-plunge",
       "summary": ""
@@ -8,21 +23,6 @@
     {
       "title": "NEAR Protocol Plunges 9% as Volatility Spikes Despite User Growth",
       "link": "https://www.coindesk.com/markets/2025/06/12/near-protocol-plunges-9-as-volatility-spikes-despite-user-growth",
-      "summary": ""
-    },
-    {
-      "title": "Crypto for Advisors: The Relationship Between Bitcoin and Altcoins",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/06/11/crypto-for-advisors-the-relationship-between-bitcoin-and-altcoins",
-      "summary": ""
-    },
-    {
-      "title": "TON Slips as Selling Pressure Mounts Despite Recovery Attempts",
-      "link": "https://www.coindesk.com/markets/2025/06/12/ton-slips-as-selling-pressure-mounts-despite-recovery-attempts",
-      "summary": ""
-    },
-    {
-      "title": "Singapore's Trident Digital Targets Mammoth $500M Raise to Establish XRP Treasury",
-      "link": "https://www.coindesk.com/markets/2025/06/12/singapores-trident-digital-targets-mammoth-500m-raise-to-establish-xrp-treasury",
       "summary": ""
     }
   ],
@@ -55,6 +55,16 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Circle expands USDC to Ripple\u2019s XRP Ledger",
+      "link": "https://cryptoslate.com/circle-expands-usdc-to-ripples-xrp-ledger/",
+      "summary": "<p>Circle, a US-based publicly traded crypto firm, has expanded the reach of its USD Coin (USDC) stablecoin to the XRP Ledger (XRPL), adding another blockchain to its growing ecosystem, according to a June 12 statement. On-chain data shows that around $2 million worth of the asset had been minted on the network as of press [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Meta\u2019s stablecoin plans face scrutiny from US Senators Warren and Blumenthal",
+      "link": "https://cryptoslate.com/metas-stablecoin-plans-face-scrutiny-from-us-senators-warren-and-blumenthal/",
+      "summary": "<p>Two US Democratic Senators are demanding answers from Meta CEO Mark Zuckerberg over reports that the social media giant is exploring a new stablecoin project. In a letter dated June 11, Senators Elizabeth Warren and Richard Blumenthal asked Zuckerberg to explain Meta&#8217;s current ambitions in the digital currency space. The move follows news that the [&#8230;]</p> <p>"
+    },
+    {
       "title": "Tether amplifies gold strategy with around $90 million stake in Elemental Altus",
       "link": "https://cryptoslate.com/tether-amplifies-gold-strategy-with-around-90-million-stake-in-gold-royalties-company/",
       "summary": "<p>Tether has taken a new step in its long-term strategy of diversifying outside its primary stablecoin issuance business. On June 12, the USDT stablecoin issuer disclosed that it acquired an equity stake in Elemental Altus Royalties, a firm specializing in gold royalties. According to the firm, on June 10, it secured 78.4 million common shares [&#8230;]</p> <p>"
@@ -68,19 +78,14 @@
       "title": "Ethereum ETF inflows reach second-highest level in 2025 as ETH\u2019s market confidence climbs",
       "link": "https://cryptoslate.com/ethereum-etf-inflows-reach-second-highest-level-in-2025-as-eths-market-confidence-climbs/",
       "summary": "<p>Investor demand for Ethereum-backed spot exchange-traded funds (ETFs) is heating up amid the asset&#8217;s bullish price moves. According to data from SoSoValue, spot Ethereum ETFs recorded $240 million in net daily inflows on June 11, their second-highest total for 2025. BlackRock&#8217;s iShares Ethereum Trust (ETHA) led the charge with $160 million inflows, followed by Fidelity&#8217;s [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Just 216 Bitcoin holders own over 6 million BTC as market concentration grows",
-      "link": "https://cryptoslate.com/just-216-bitcoin-holders-own-over-6-million-btc-as-market-concentration-grows/",
-      "summary": "<p>A growing share of Bitcoin\u2019s circulating supply is now concentrated in the hands of major institutional players and centralized entities, a new report by Gemini and Glassnode reveals. According to the findings, over 30% of Bitcoin\u2019s supply is now controlled by just 216 centralized holders across six key categories, including crypto exchanges, ETFs and funds, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethereum leads $336M liquidation wave with heavy long losses",
-      "link": "https://cryptoslate.com/insights/ethereum-leads-336m-liquidation-wave-with-heavy-long-losses/",
-      "summary": "<p>In the 24 hours between June 11 and 12, the crypto market saw $336.84 in liquidations, with over 114,000 traders rekt as leveraged positions were flushed out across most exchanges. Nearly 74% of total liquidations came from longs following a sharp intraday correction, most likely driven by a retracement in ETH, which alone accounted for [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Will Dogecoin Moon Or Crash? This Indicator Holds The Answer",
+      "link": "https://www.newsbtc.com/news/dogecoin/will-dogecoin-moon-or-crash-indicator-holds-answer/",
+      "summary": "According to market technician Cantonese Cat (@cantonmeow) a single metric\u2014the 20-month simple moving average\u2014could be the line that could separate another vertical rally from a gut-wrenching breakdown for Dogecoin. Currently, DOGE sits comfortable above that moving average, now plotted at $0.1751. The black curve on Cat\u2019s chart shows only three clean retests of the 20-month SMA since 2014. All Eyes On Dogecoin\u2019s 20-Month SMA The first came in March 2017, when price tapped the average near $0.00020 and then ripped more than 9,000% into the January 2018 peak. The second occurred in the winter of 2020, with price kissing the average at roughly one-fourth of one cent before the parabolic 34,500% run to $0.73 the following May. The third and current encounter began in August last year when DOGE rallied by more than 480%. As of today, two successive monthly candles dipped into the zone just below twenty-cents, but both were bought aggressively, leaving higher wicks and preserving the upward slope of the average. Cantonese Cat argues that as long as that moving average remains intact, \u201cwe\u2019re going higher.\u201d A decisive monthly close beneath $0.175 would, by this read, place the entire structure at risk and could usher in the sort of multi-month down-trend that followed the 2018 and 2021 climaxes. Related Reading: Dogecoin Faces Make-Or-Break Moment This Month, Predicts Analyst TOTAL2 Needs To Break Out Analyst Kevin (@Kev_Capital_TA) overlays that micro view on a much broader canvas. His chart tracks the total crypto market capitalization ex-Bitcoin (TradingView ticker \u201cTOTAL2\u201d) in monthly candles back to 2017. Two bold yellow trend-lines define a seven-year rising channel whose upper rail repelled price at the January 2018 and November 2021 alt-season tops. Since the June 2022 low, the market has carved out an ascending triangle: a rising series of higher lows presses against a flat-topped supply zone between roughly $1.43 trillion and $1.7 trillion. The apex of the triangle now looms; aggregate alt-cap is already worth about $1.2 trillion \u2014 all that stands between the current print and a confirmed breakout is a monthly close above the upper edge of that yellow rectangle. Kevin\u2019s projection measures the height of the pattern and adds it to the breakout level, dropping a vertical marker that intersects the mid-channel near $5.89 trillion. Kevin\u2019s first Fibonacci extensions target is the 1.618 at $4.06 trillion. Higher extensions at 1.886, 2.0 and 2.618 cluster around $4.57 trillion, 5.89 trillion and $6.9 trillion respectively, the last of which coincides almost exactly with the channel\u2019s ceiling and is circled as the analyst\u2019s ultimate upside objective. Related Reading: Dogecoin Primed For Liftoff If It Can Break This Barrier: Key Price Targets Why does that matter for Dogecoin? The meme-coin\u2019s two explosive cycles began only after TOTAL2 had broken its own prior-cycle high and money poured into non-Bitcoin assets. Kevin states that \u201caltcoins are just scratching the surface of what is possible in the coming months,\u201d provided that macro-liquidity and regulatory factors permit capital rotation out of Bitcoin into the wider market. In that scenario the 20-month SMA on DOGE would likely continue to slope higher, setting the stage for an explosive move higher. Conversely, failure of the alt-cap triangle would make a sustained loss of the SMA far more probable, robbing DOGE of its historical launch-pad. For now, the indicator holds\u2014and with it the prospect that Dogecoin could be primed for yet another bout of furious upside. But as both analysts caution, the monthly close will tell the story: above the 20-month SMA and an alt-cap breakout, or below it and back into hibernation. At press time, DOGE traded at $0.189. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "XRP Price Enters Perfect Setup After Buy Retest \u2013 Next Stop $3.7",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-enters-perfect-setup/",
@@ -100,14 +105,14 @@
       "title": "Bitcoin Price Hits Local High? Top Analyst Shares Key Levels",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-price-hits-local-high-top-analyst-shares-key-levels/",
       "summary": "The Bitcoin price is slipping into a critical area following a decline in the previous buying pressure. Many traders and investors in the crypto market wonder if the top crypto will recover as confidence in a new Bull Market barely show signs of a recovery. Related Reading: Bitcoin Risks Pullback To $105,000 After Facing Rejection Above $110,000 Bitcoin price trends to the downside on the daily chart. Source: BTCUSDT on Tradingview Top Bitcoin Pundit: Watch Out For This Level According to Daan Crypto, a senior crypto analyst, the Bitcoin price has weakened due to changes in the macroeconomic arena. In that sense, the analyst believes bull must hold the levels above $99,000 or they risk a bigger decline into the monthly lows sitting at around $90,000, as seen in the chart below. Some of the elements affecting the Bitcoin price on the macro side include a good Consumer Price Index (CPI) print from the US, and a \u2018good deal\u2019 between this country and Chinese representatives. These news indicate decline in inflation and potentially an end to trade war between the two giants, respectively. However, the analysis noted: At this point I&#8217;m fairly certain that if price breaks either the current monthly high or low, that it will keep trending that direction for the rest of June (and possible beyond). Eyes on those levels. Still quite a volatile and headline driven market currently(\u2026). So markets down on good news is always something to note. Just one day for now but good to be aware of. James Wynn Makes Key Warning \u2013 Manipulation in the Bitcoin Price? On similar news, James Wynn, a crypto trader that recently gained notoriety by leveraging millions of dollars to bet on the Bitcoin price, believes the selling pressure will rise on the short timeframe. Wynn has been alerting its X followers on the alleged manipulation of the crypto market by big players. These massive investors, according to the crypto trader, target key levels and push Bitcoin towards them to hunt for liquidity in detriment of retail users. Related Reading: XRP Could Crash To $1.55 Before Explosive Surge, Analyst Warns This time Wynn claims \u2018Market Makers\u2019 might push the Bitcoin price down to the $106,000 area. However, the trader believes the downtrend will be short advising his followers of an imminent rebound. Wynn stated via X: Hold onto your seats fellas. The MM\u2019s are gonna try and push $BTC to around $106.8k to take out some over leveraged longs (not me). I learned the hard way. Buy the dip or sit on your hands. It\u2019ll be over quick. Time is ticking. New ATHs around the corner. Don\u2019t be shaken. Whether the downtrend will persist or if prices recover in the short term remains to be seen, but current price action suggests an imminent spike in volatility. Cover image by ChatGPT, BTC/USDT chart from Tradingview"
-    },
-    {
-      "title": "XRP Could Crash To $1.55 Before Explosive Surge, Analyst Warns",
-      "link": "https://www.newsbtc.com/xrp-news/xrp-crash-1-55-before-explosive-surge/",
-      "summary": "XRP has slipped above the descending trendline that had repelled every rally since February, yet derivatives positioning suggests the apparent breakout may still end with a shake-out, according to independent market technician CasiTrades. The four-hour Binance chart shows the token gravitating around $2.32, fractionally north of the wedge\u2019s upper boundary, but only a heartbeat away from surrendering that gain if leverage forces unwind. XRP Crash Imminent? Casi frames the set-up in Elliott-wave terms, maintaining that the January\u2013June advance completed a wave (1) at roughly $2.70 and then corrected to $2.02 at the 1.236 Fibonacci extension, thereby sketching wave (2) against the wedge\u2019s base. The technician argues that the new thrust above resistance could mark the birth of wave (3), although funding dynamics cloud that bullish reading. \u201cWe\u2019re just days away from the apex of XRP\u2019s macro consolidation and price is hovering above support, while funding quietly climbs,\u201d she wrote on X. \u201cThat\u2019s a dangerous combo.\u201d Eight-hour funding rates have already reached 0.01 percent. Casi insists that if they expand to 0.02 percent without a decisive price march, algorithms will hunt the liquidity pooling beneath 2.25 dollars. \u201cAs of this morning, funding rates are ticking up to 0.01 %/8h without any meaningful breakout attempt,\u201d she explained. Related Reading: XRP Price Forms Flag Pattern Above Accumulation Zone That Points To $5 Target \u201cIf we start to reach 0.02 % or higher with no move, it signals a high probability of a liquidity sweep to the downside.\u201d The technician warns that such a flush would drag XRP through the reclaimed breakout level and expose $2.01, $1.90 dollars and potentially $1.55. \u201cThat puts 2.01, 1.90 and even 1.55 in play if 2.25 fails,\u201d she cautioned, adding that the capitulation itself \u201cwould likely generate the exact momentum needed for a powerful wave 3 breakout.\u201d The momentum backdrop remains ambivalent. The fourteen-period RSI on the same chart hovers near 62.5 yet registers lower peaks while price edges upward, hinting at a bearish divergence that often accompanies volatility spikes. Still, the break above the black trendline cannot be ignored: if sellers fail to reclaim that line swiftly, Casi\u2019s projection of wave (3) targets $3.77 via the classic 1.618 external Fibonacci extension, with a still larger-degree objective above $4.40 dollars later this summer. Related Reading: XRP Eyes $2.50 Decision Zone As Macro Wave Structure Takes Shape Casi summarises the juncture bluntly: \u201cVolatility is nearly inevitable. Whether it&#8217;s one last dip or a significant breakout, the next move is likely to define the rest of the summer.\u201d Traders therefore face a binary path. Either rising funding catalyses a liquidity sweep toward $1.55 dollars before catapulting XRP higher, or the token consolidates above $2.25 and turns the nascent breakout into a springboard toward $2.69 dollars, the barrier near $3.04 and, eventually, the 3.77-dollar wave (3) objective. At press time, XRP traded at $2.25. Featured image created with DALL.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Remixpoint Invests \u00a5887 Million More Into Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Remixpoint-Invests-\u00a5887-Million-More-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin\" rel=\"nofollow\"> </a></p> <p>Japanese company now holds a total of 981.39 BTC, with a recent purchase of 55.68 BTC.</p> <p>"
+    },
     {
       "title": "Mercurity Fintech to Raise $800 Million for Bitcoin Treasury",
       "link": "https://bitcoinmagazine.com/news/mercurity-fintech-to-raise-800-million-for-bitcoin-treasury",
@@ -127,14 +132,19 @@
       "title": "F Street Announced Goal Of Accumulating $10 Million In Bitcoin",
       "link": "https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/F-Street-Announced-Goal-Of-Accumulating-10-Million-In-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin\" rel=\"nofollow\"> </a></p> <p>F Street plans adding Bitcoin to its corporate treasury and wants to establish public proof of reserves for stakeholders. </p> <p>"
-    },
-    {
-      "title": "Bitdeer Mined 196 Bitcoin Worth Over $21 Million In May",
-      "link": "https://bitcoinmagazine.com/news/bitdeer-mined-196-bitcoin-worth-over-21-million-in-may",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Bitdeer.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitdeer-mined-196-bitcoin-worth-over-21-million-in-may\" rel=\"nofollow\"> </a></p> <p>Bitdeer Technologies Group, a global leader in Bitcoin mining and infrastructure, has released its unaudited operational update for May 2025, highlighting robust expansion in hashrate capacity, ongoing infrastructure development, and an entrance into AI services.&#160; \u201cIn May 2025, we continued to deploy our SEALMINER mining rigs to our sites in Texas, U.S., Norway, and Bhutan, [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "This Browser Extension Converts Everything Into Bitcoin\u2014Here's Why",
+      "link": "https://decrypt.co/324842/browser-extension-converts-bitcoin",
+      "summary": "Opportunity Cost is a browser extension that displays every price in Bitcoin or Sats, hoping to serve as a memetic tool for mass adoption."
+    },
+    {
+      "title": "Crypto rally fails, Israel-Iran tensions grow, BTC treasuries soar",
+      "link": "https://decrypt.co/videos/interviews/Snngolx1/crypto-rally-fails-israel-iran-tensions-grow-btc-treasuries-soar",
+      "summary": "FOMO HOUR EP377 Crypto pulls back after rally on Israel-Iran fears. US House votes to advance GENIUS Act. Gamestop raising $1.75b debt to buy more BTC. ANAP bought $50m BTC in 2 days. Mercurity Fintech plans $800m BTC treasury. Strategy short interest hits ATH. Stripe to acquire wallet provider Privy. Centralised treasuries hold 31% of BTC: Gemini. Moodys to give credit ratings on SOL RWAs. Interactive Strength launches FET reserve. USDC expands to World Chain, Circle stock rallies. Stablecoins could lock in USD dominance: Bessent. Bank of America developing its stablecoin. US Bankcorp exploring stablecoins. Ant Group to apply for stablecoin licenses. Infinex launches BTC, DOGE, XRP trading. MEXC to invest $100m in security. FOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X. JOIN YEET = https://yeet.com/register?aff=fomohour PLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL PODCAST = https://x.com/i/spaces/1kvKpydgqMQGE LIVE SPACE = Links: https://linktr.ee/fomohour https://twitter.com/fomohour https://www.rug.fm/ https://x.com/rugradio Hosts: https://twitter.com/farokh https://twitter.com/rektmando https://twitter.com/tyler_did_it Myriad: https://myriad.markets https://x.com/MyriadMarkets #bitcoin #crypto #podcast"
+    },
     {
       "title": "Bitcoin, Ethereum Slip After CPI Shock\u2014But Charts Still Say 'Not Bearish': Analysis",
       "link": "https://decrypt.co/324843/bitcoin-ethereum-slip-cpi-shock-charts-not-bearish",
@@ -149,16 +159,6 @@
       "title": "Dogecoin, Solana Stumble as Altcoins Hit by Market Correction",
       "link": "https://decrypt.co/324829/dogecoin-solana-stumble-as-altcoins-hit-by-market-correction",
       "summary": "Altcoins including DOGE, SOL and ADA outpaced Bitcoin\u2019s losses Thursday morning, in what experts called a \u201croutine\u201d pullback."
-    },
-    {
-      "title": "Cypherock X1 Review: A Crypto Hardware Wallet With a Slick Card-Based Security Model",
-      "link": "https://decrypt.co/323050/cypherock-x1-review-crypto-hardware-wallet-card-based-security",
-      "summary": "The Cypherock X1 employs a shard-based security model using cards with secure elements, to guard against the threat of wrench attacks."
-    },
-    {
-      "title": "'A Business Necessity': India's AI Market Set to Triple, Hit $17 Billion by 2027, Says BCG",
-      "link": "https://decrypt.co/324814/a-business-necessity-indias-ai-market-set-to-triple-hit-17-billion-by-2027-says-bcg",
-      "summary": "India is home to 16% of the world\u2019s AI talent, second only to the U.S., according to a new BCG report on the country\u2019s booming AI sector."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Curve DAO falls 9%, but long-term investors can save CRV \u2013 How?",
+      "link": "https://ambcrypto.com/curve-dao-falls-9-but-long-term-investors-can-save-crv-how/",
+      "summary": "<img alt=\"Curve DAO\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250612_093404_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />CRV drop intensifies, but long-term investments and liquidity inflows suggest potential recovery."
+    },
+    {
       "title": "Bitcoin\u2019s next move: Retail euphoria can push BTC to $112K, ONLY IF\u2026",
       "link": "https://ambcrypto.com/bitcoins-next-move-retail-euphoria-can-push-btc-to-112k-only-if/",
       "summary": "<img alt=\"Bitcoin [BTC] social sentiment hit a 2.1 bullish-to-bearish ratio, the highest since Nov 2024.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-98-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Retail optimism surges, but profit-taking and leverage zones could spark volatility"
@@ -208,11 +213,6 @@
       "title": "Blockchain Futurist Conference Wraps 7th Year in Toronto as Anticipation Builds for Miami Debut",
       "link": "https://ambcrypto.com/blockchain-futurist-conference-wraps-7th-year-in-toronto-as-anticipation-builds-for-miami-debut/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"821\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/FUTURIST-WRAP-UP-PRESS-RELEASE-IMAGE-1-e1749736339169.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1200\" /> The Blockchain Futurist Conference marked its seventh consecutive year in Toronto, continuing its legacy as [&#8230;]"
-    },
-    {
-      "title": "SEC halts DeFi Dev Corp\u2019s $1B Solana investment \u2013 Why & what next?",
-      "link": "https://ambcrypto.com/sec-halts-defi-dev-corps-1b-solana-investment-why-what-next/",
-      "summary": "<img alt=\"SEC blocks DeFi&#039;s $1B Solana investment\" class=\"attachment-full size-full wp-post-image\" height=\"680\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/SEC-blocks-DeFis-1B-Solana-investment.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1209\" />Why did the SEC reject DeFi\u2019s crypto registration, and how is Solana\u2019s price reacting to the uncertainty?"
     }
   ]
 }
