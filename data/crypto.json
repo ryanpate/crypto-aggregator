@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Conduit, Braza Group Debut Stablecoin Forex Swaps for Cross-Border Payments in Brazil",
+      "link": "https://www.coindesk.com/business/2025/06/12/conduit-braza-group-debut-stablecoin-forex-swaps-for-cross-border-payments-in-brazil",
+      "summary": ""
+    },
+    {
+      "title": "Tether Takes Minority Stake in Gold-Focused Investment Company Elemental Altus",
+      "link": "https://www.coindesk.com/business/2025/06/12/tether-takes-minority-stake-in-gold-focused-investment-company-elemental-altus",
+      "summary": ""
+    },
+    {
       "title": "FBI Crypto Veteran Chris Wong Joins TRM Labs to Bolster Fight Against Illicit Finance",
       "link": "https://www.coindesk.com/policy/2025/06/12/fbi-crypto-veteran-chris-wong-joins-trm-labs-to-bolster-fight-against-illicit-finance",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Dollar Index Falls Below 98 for First Time in Three Years, Gives Room for Crypto Run",
       "link": "https://www.coindesk.com/markets/2025/06/12/dollar-index-falls-below-98-for-first-time-in-three-years-gives-room-for-crypto-run",
       "summary": ""
-    },
-    {
-      "title": "Strategy Launches STRD, Its Third 'Bitcoin-Backed' Preferred Stock on Nasdaq",
-      "link": "https://www.coindesk.com/markets/2025/06/12/strategy-launches-strd-its-third-bitcoin-backed-preferred-stock-on-nasdaq",
-      "summary": ""
-    },
-    {
-      "title": "ETH Bulls Tighten Grip as $393M Exits Exchanges and ETF Inflows Outpace Bitcoin",
-      "link": "https://www.coindesk.com/markets/2025/06/12/eth-bulls-tighten-grip-as-usd393m-exits-exchanges-and-etf-inflows-outpace-bitcoin",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Chainlink, JPMorgan, Ondo Finance complete crosschain treasury settlement",
+      "link": "https://cointelegraph.com/news/chainlink-jp-morgan-ondo-crosschain-dvp-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY0M2ItYjBjOS03ZTExLTkyZWItOTRmNzRlNjM2MjAz.jpg\" /></p><p>Chainlink, JPMorgan\u2019s Kinexys, and Ondo Finance completed a crosschain DvP settlement between a permissioned payment network and a public RWA blockchain.</p>"
+    },
     {
       "title": "Tried automating crypto trades with Grok 3? Here\u2019s what happens",
       "link": "https://cointelegraph.com/news/automated-crypto-trades-with-grok-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "FSB warns crypto nearing \u2018tipping point\u2019 as ties to TradFi deepen",
       "link": "https://cointelegraph.com/news/fsb-warns-crypto-tipping-point-tradfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ0MTMtYTYxYi03Y2M3LWEyMjItOTIwNmYzZWRhNGFm.jpg\" /></p><p>Outgoing FSB Chair Klaas Knot says stablecoins and ETFs are accelerating crypto\u2019s integration into traditional finance, raising systemic risk concerns.</p>"
-    },
-    {
-      "title": "Crypto exchange Binance launches in Syria after Trump lifts sanctions",
-      "link": "https://cointelegraph.com/news/binance-welcomes-syria-trump-lifts-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFlNzQtOGQ5YS03YTYxLWE0MmQtMDhjZjgwMjRhNDQx.jpg\" /></p><p>Binance\u2019s rollout in Syria features a full access launch, allowing Syrians to trade at least 300 tokens, including Bitcoin, XRP, Toncoin and more.</p>"
     }
   ],
   "CryptoSlate": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "BlackRock targets to become world\u2019s largest crypto asset manager by 2030",
+      "link": "https://cryptobriefing.com/blackrock-crypto-asset-management/",
+      "summary": "<p>BlackRock's crypto ambitions could reshape global financial markets, influencing regulatory landscapes and accelerating digital asset adoption.</p> <p>"
+    },
+    {
       "title": "Why is Bitcoin down today? US-China trade deal fails to impress, Israel-Iran conflict threat rises",
       "link": "https://cryptobriefing.com/bitcoin-down-us-china-trade-tensions/",
       "summary": "<p>Geopolitical tensions and unimpressive trade deals highlight Bitcoin's vulnerability to global instability, affecting its market resilience.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "Nasdaq-listed Interactive Strength plans to invest $500M in Fetch.ai\u2019s FET token to build an AI-focused crypto treasury",
       "link": "https://cryptobriefing.com/ai-focused-crypto-treasury-investment/",
       "summary": "<p>This move highlights a growing trend of public companies investing in AI-driven digital assets, potentially reshaping corporate finance.</p> <p>"
-    },
-    {
-      "title": "Pro-Bitcoin Scott Bessent emerges as candidate for next Fed chair",
-      "link": "https://cryptobriefing.com/fed-chair-successor-bessent-powell/",
-      "summary": "<p>Bessent's potential Fed chair candidacy highlights a shift towards integrating cryptocurrency perspectives in U.S. monetary policy.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Solana whales go all-in, but price drops: What\u2019s going on?",
+      "link": "https://ambcrypto.com/solana-whales-go-all-in-but-price-drops-whats-going-on/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-12T131756.004_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will this bullish setup unravel faster than expected?"
+    },
     {
       "title": "Worldcoin\u2019s layer-2 upgrade pushes TVL to $50 mln \u2013 Now, what about WLD?",
       "link": "https://ambcrypto.com/worldcoins-layer-2-upgrade-pushes-tvl-to-50-mln-now-what-about-wld/",
@@ -208,11 +213,6 @@
       "title": "XRP Ledger\u2019s vision \u2013 Can it handle 14% of SWIFT payments by 2030?",
       "link": "https://ambcrypto.com/xrp-ledgers-vision-can-it-handle-14-of-swift-payments-by-2030/",
       "summary": "<img alt=\"Ripple XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ripple-XRP.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple CEO expect XRP Ledger to handle $175 trillion annual payment volume in five years."
-    },
-    {
-      "title": "Brazil\u2019s Bitcoin Reserve Bill passes first review \u2013 All details here",
-      "link": "https://ambcrypto.com/brazils-bitcoin-reserve-bill-passes-first-review-all-details-here/",
-      "summary": "<img alt=\"BTC Brazil\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_42_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Brazil backs Bitcoin reserves as ETF inflows and Japanese corporate accumulation signal renewed institutional confidence."
     }
   ]
 }
