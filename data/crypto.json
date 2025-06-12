@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Mercurity Fintech Plans $800M Bitcoin Treasury, Eyes Russell 2000 Inclusion",
+      "link": "https://www.coindesk.com/markets/2025/06/12/mercurity-fintech-plans-800m-bitcoin-treasury-eyes-russell-2000-inclusion",
+      "summary": ""
+    },
+    {
+      "title": "Strong Uptake at 10-Year U.S. Debt Sale Eases Demand Concerns, 30-Year Sale's Up Next",
+      "link": "https://www.coindesk.com/markets/2025/06/12/strong-uptake-at-10-year-u-s-debt-sale-eases-demand-concerns-30-year-sale-s-up-next",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin-Based Stablecoin Network Plasma Raises Deposit Cap to $1B, Gets Filled in 30 Minutes",
       "link": "https://www.coindesk.com/markets/2025/06/12/bitcoin-based-stablecoin-network-plasma-raises-deposit-cap-to-1b-gets-filled-in-30-minutes",
       "summary": ""
@@ -14,23 +24,23 @@
       "title": "Dogecoin Drops 7% After Brief Rally Amid Rising Hopes of a DOGE ETF",
       "link": "https://www.coindesk.com/markets/2025/06/12/dogecoin-drops-7-after-brief-rally-amid-rising-hopes-of-a-doge-etf",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin, Dogecoin, Ether Could See Profit-Taking Even as Macro Conditions Improve",
-      "link": "https://www.coindesk.com/markets/2025/06/12/bitcoin-dogecoin-ether-could-see-profit-taking-even-as-macro-conditions-improve",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin at $200K by Year-End is Now Firmly in Play, Analyst Says After Muted U.S. Inflation Data",
-      "link": "https://www.coindesk.com/markets/2025/06/12/usd200k-bitcoin-by-year-end-is-now-firmly-in-play-analyst-says-after-muted-u-s-may-inflation-data",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Crypto has killed the weekend: Hedge funds quietly scramble to adapt",
+      "link": "https://cointelegraph.com/news/hedge-funds-hire-weekend-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNjMjUtYWJjNy03MmMyLWFiNmMtNzgxM2YwNzgyNjE0.jpg\" /></p><p>Hedge funds like Qube, Virtu and Jump are hiring weekend crypto traders as traditional finance adapts to nonstop digital asset markets.</p>"
+    },
+    {
+      "title": "Why is Bitcoin price down today?",
+      "link": "https://cointelegraph.com/news/why-is-bitcoin-price-down-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvZDM2MDViNmItMGVmZi00NmY2LWE0NmYtYjE1ZWMzYjNlY2I=.jpg\" /></p><p>Bitcoin is down 1.7% over the last 24 hours after running into resistance above the $108,000 level, among other drivers that are weakening bullish momentum.</p>"
+    },
+    {
       "title": "Bitcoin must avoid sub-$100K wick as traders digest 55% China tariffs",
       "link": "https://cointelegraph.com/news/bitcoin-must-avoid-sub-100k-wick-traders-55-china-tariffs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RmMzUtOTlkYi03ZTk5LWIzZWQtNDM0ZTFhYzQyZjM0.jpg\" /></p><p>BTC price requirements are clear as consolidation below all-time highs continues \u2014 can Bitcoin bulls stick to the plan and avoid falling back below $100,000?</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RmMzUtOTlkYi03ZTk5LWIzZWQtNDM0ZTFhYzQyZjM0.jpg\" /></p><p>BTC price requirements are clear as consolidation below all-time highs continues. Can Bitcoin bulls stick to the plan and avoid falling back below $100,000?</p>"
     },
     {
       "title": "Alchemy Pay taps Backed to expand access to tokenized ETFs, stocks",
@@ -41,16 +51,6 @@
       "title": "DeFi Development to refile $1B Solana plan after SEC filing snag",
       "link": "https://cointelegraph.com/news/defi-development-corp-sec-solana-fundraise-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzYyNzktMDY1MS03NzAxLWFhNmItNTA1YWQyYmRhOTli.jpg\" /></p><p>Formerly only a real estate financing company, DeFi Development Corp started buying Solana to become a Solana treasury company as well, currently holding over 609,000 tokens.</p>"
-    },
-    {
-      "title": "Michael Saylor shares how COVID-19 chaos drove him to Bitcoin",
-      "link": "https://cointelegraph.com/news/michael-saylor-war-currency-spurred-invest-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ2ZDUtMGZhNi03NDRkLWJlMWItM2JhM2M4NmFjYmU5.jpg\" /></p><p>Michael Saylor says pandemic-era lockdowns and unabated money printing pushed him to convert his company\u2019s massive cash reserves into Bitcoin.</p>"
-    },
-    {
-      "title": "US Bancorp studying stablecoins as crypto custody arm sees revival",
-      "link": "https://cointelegraph.com/news/us-bancorp-studying-stablecoins-crypto-custody-sees-revival?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzYyMzAtMTQ1YS03NTcwLWI2ZjktNDU2OGM2NTllZDkw.jpg\" /></p><p>U.S. Bancorp CEO Gunjan Kedia says her bank is looking into stablecoins as its crypto custody business bounces back after struggling under Biden.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,21 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Brazil\u2019s Bitcoin Reserve Bill passes first review \u2013 All details here",
+      "link": "https://ambcrypto.com/brazils-bitcoin-reserve-bill-passes-first-review-all-details-here/",
+      "summary": "<img alt=\"BTC Brazil\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_42_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Brazil backs Bitcoin reserves as ETF inflows and Japanese corporate accumulation signal renewed institutional confidence."
+    },
+    {
+      "title": "Dogecoin: Musk apologized, DOGE reacted \u2013 You\u2019ll want to see this!",
+      "link": "https://ambcrypto.com/dogecoin-musk-apologized-doge-reacted-youll-want-to-see-this/",
+      "summary": "<img alt=\"DOGE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-11T164229.036-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Dogecoin rises 2.97%, but retail investors stay cautious despite Elon Musk\u2019s Trump-driven buzz."
+    },
+    {
+      "title": "Ethereum beats S&P 500 and Solana\u2014Here\u2019s what the $65B DeFi war signals!",
+      "link": "https://ambcrypto.com/ethereum-beats-sp-500-and-solana-heres-what-the-65b-defi-war-signals/",
+      "summary": "<img alt=\"ETH SOL\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250611_144909_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Investors begin to ditch SOL for ETH."
+    },
+    {
       "title": "Bitcoin: Here are the clues for what\u2019s beyond BTC ATH; first, look for\u2026",
       "link": "https://ambcrypto.com/bitcoin-here-are-the-clues-for-whats-beyond-btc-ath-first-look-for/",
       "summary": "<img alt=\"Here&#039;s the on-chain data shows Bitcoin holders remain confident of further gains\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The dissimilarities to November 2024 were encouraging for Bitcoin bulls."
@@ -198,21 +213,6 @@
       "title": "Bitcoin is booming in Kenya\u2019s largest slum \u2013 Here\u2019s why",
       "link": "https://ambcrypto.com/bitcoin-is-booming-in-kenyas-largest-slum-heres-why/",
       "summary": "<img alt=\"Kenya Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kenya-Bitcoin.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Kenya's crypto bill could affect growing BTC adoption because of a few reasons."
-    },
-    {
-      "title": "DeFi revival? Uniswap blasts past $88 billion in volume as UNI targets $12",
-      "link": "https://ambcrypto.com/defi-revival-uniswap-blasts-past-88-billion-in-volume-as-uni-targets-12/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Uniswap-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The highest monthly trading volume and the bullish reaction from the $6-demand zone gave Uniswap investors hope."
-    },
-    {
-      "title": "Bank of Japan\u2019s policy shift could help Bitcoin, says BitMEX\u2019s Arthur Hayes",
-      "link": "https://ambcrypto.com/bank-of-japans-policy-shift-could-help-bitcoin-says-bitmexs-arthur-hayes/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"648\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/BOJs-June-meeting-and-Bitcoin-rally.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1152\" />Could Japan\u2019s next monetary move send Bitcoin soaring?"
-    },
-    {
-      "title": "Has Ethereum\u2019s bullish breakout hit a roadblock at the supply zone?",
-      "link": "https://ambcrypto.com/has-ethereums-bullish-breakout-hit-a-roadblock-at-the-supply-zone/",
-      "summary": "<img alt=\"Has Ethereum&#039;s bullish breakout hit a roadblock at the supply zone?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ethereum-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A bullish breakout coming up next for ETH?"
     }
   ]
 }
