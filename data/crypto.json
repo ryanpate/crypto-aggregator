@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Will Rally as U.S. Growth Improves, Crypto Bills Progress: Coinbase Research",
+      "link": "https://www.coindesk.com/markets/2025/06/12/bitcoin-will-rally-as-us-growth-improves-crypto-bills-progress-coinbase-research",
+      "summary": ""
+    },
+    {
       "title": "DeFi Adding $5B of Solana Buying Power With New Line of Credit",
       "link": "https://www.coindesk.com/business/2025/06/12/defi-adding-5b-of-solana-buying-power-with-new-line-of-credit",
       "summary": ""
@@ -19,41 +24,41 @@
       "title": "AVAX Rebounds From Key Support After 6% Plunge",
       "link": "https://www.coindesk.com/markets/2025/06/12/avax-rebounds-from-key-support-after-6-plunge",
       "summary": ""
-    },
-    {
-      "title": "NEAR Protocol Plunges 9% as Volatility Spikes Despite User Growth",
-      "link": "https://www.coindesk.com/markets/2025/06/12/near-protocol-plunges-9-as-volatility-spikes-despite-user-growth",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin price fractal points to bull trap that could send BTC below $100K",
+      "link": "https://cointelegraph.com/news/bitcoin-price-fractal-points-to-bull-trap-that-could-send-btc-below-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2NWMtYWJmYi03NzE3LTllNjQtY2FjOGY1MGI0MTQ2.jpg\" /></p><p>Escalating tensions in the Middle East and an ominous Bitcoin chart fractal could play a role in sending BTC price back under $100,000.</p>"
+    },
+    {
+      "title": "USDC stablecoin launches on XRP Ledger",
+      "link": "https://cointelegraph.com/news/usdc-stablecoin-launches-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MWUtYjU1MC03Y2YyLWI5NDgtZTVhOTA1MzU2MDlh.jpg\" /></p><p>Circle's USDC has a market capitalization of over $61 billion, making it the second-largest stablecoin, second to Tether's USDt.</p>"
+    },
+    {
+      "title": "Trident Digital to create XRP treasury of up to $500M",
+      "link": "https://cointelegraph.com/news/trident-xrp-treasury-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MjgtNDAyZi03YzRlLTg3ZDEtZDYyOTRmODc5MGRm.jpg\" /></p><p>The reserve will be funded through stock issuance and other financial instruments, according to the announcement.</p>"
+    },
+    {
+      "title": "Trump addresses Coinbase summit to discuss crypto plans",
+      "link": "https://cointelegraph.com/news/donald-trump-coinbase-conference-crypto-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1MDUtZGFjNS03YmVlLThjNGEtZWI5ZTk5YjJkN2Uw.jpg\" /></p><p>The US president has spoken in person at the Bitcoin 2024 conference in Nashville and released a video message for the Digital Asset Summit in New York City.</p>"
+    },
+    {
       "title": "Deutsche Telekom, Alibaba Cloud, Vodafone are running nodes on Nillion",
       "link": "https://cointelegraph.com/news/nillion-enterprise-cluster-blockchain-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY0ZjQtZDhhYS03ZDlkLWI4NDQtYTM1ODNiYzVlNzc4.jpg\" /></p><p>The Enterprise Cluster initiative enables decentralized use cases for privacy-sensitive operations across healthcare and finance.</p>"
-    },
-    {
-      "title": "USDT issuer Tether buys 32% stake in Canada\u2019s gold royalty firm",
-      "link": "https://cointelegraph.com/news/tether-buys-32-percent-stake-canada-elemental-altus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY0NTctYWE5NS03MjY4LTk2Y2QtY2U1MTQwNjI4NGQ3.jpg\" /></p><p>Tether\u2019s investment in Canada\u2019s Elemental Altus Royalties follows the company\u2019s strategy to \u201cintegrate long-term, stable assets such as gold and Bitcoin in its ecosystem.\u201d</p>"
-    },
-    {
-      "title": "AI can\u2019t do it alone: Blockchain is the missing piece in next-gen gaming",
-      "link": "https://cointelegraph.com/news/blockchain-is-the-missing-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzlmZjAtYmZmYy03Yjc5LTk3MjctZGE3Y2Y1OGU4ZDNm.jpg\" /></p><p>AI is reshaping gaming, but blockchain is the missing link for next-gen, AI-powered social gaming experiences. Centralized systems limit progress, ownership and creativity.</p>"
-    },
-    {
-      "title": "Bitcoin bulls halt $4K BTC price dip as US dollar hits new 3-year lows",
-      "link": "https://cointelegraph.com/news/bitcoin-bulls-halt-4k-btc-price-dip-us-dollar-hits-new-3-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2QwMTYtMjQxZS03ZTczLWI3MWEtYjgxMWQxNmQxNDQ0.jpg\" /></p><p>BTC price strength returns as US inflation cools beyond expectations, hitting dollar strength again \u2014 and new BTC price all-time highs are on the table.</p>"
-    },
-    {
-      "title": "What Japan\u2019s fiscal debt crisis means for global crypto markets",
-      "link": "https://cointelegraph.com/explained/what-japans-fiscal-debt-crisis-means-for-global-crypto-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81YWNmY2MwZTNiZWRiNjBjZTY1Y2UyYTc5YzlkODJhZi5qcGc=.jpg\" /></p><p>Japan\u2019s debt crisis jolts crypto markets, testing their resilience and reviving Bitcoin\u2019s role as a system hedge against fragile fiat systems.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Polygon unveils \u2018Gigagas\u2019 roadmap to reach 100,000 TPS",
+      "link": "https://cryptoslate.com/polygon-unveils-gigagas-roadmap-to-reach-100000-tps/",
+      "summary": "<p>Polygon has laid out an ambitious scaling roadmap to reach 100,000 transactions per second (TPS), beginning with a July upgrade that will bring the network to 1,000 TPS. The roadmap comes a day after Polygon announced a governance revamp and shift in focus to Agglayer. Dubbed the \u201cGigagas\u201d roadmap, the initiative is focused on making [&#8230;]</p> <p>"
+    },
     {
       "title": "Hong Kong teams up with university to tackle crypto laundering with tech",
       "link": "https://cryptoslate.com/hong-kong-teams-up-with-university-to-tackle-crypto-laundering-with-tech/",
@@ -73,11 +78,6 @@
       "title": "Tether amplifies gold strategy with around $90 million stake in Elemental Altus",
       "link": "https://cryptoslate.com/tether-amplifies-gold-strategy-with-around-90-million-stake-in-gold-royalties-company/",
       "summary": "<p>Tether has taken a new step in its long-term strategy of diversifying outside its primary stablecoin issuance business. On June 12, the USDT stablecoin issuer disclosed that it acquired an equity stake in Elemental Altus Royalties, a firm specializing in gold royalties. According to the firm, on June 10, it secured 78.4 million common shares [&#8230;]</p> <p>"
-    },
-    {
-      "title": "70% of $1B Plasma deposits held by top 100 wallets, showing concentrated interest in XPL sale",
-      "link": "https://cryptoslate.com/70-of-1b-plasma-deposits-held-by-top-100-wallets-showing-concentrated-interest-in-xpl-sale/",
-      "summary": "<p>Investor demand for Plasma\u2019s upcoming XPL token continues to soar, with the stablecoin infrastructure platform now securing $1 billion in deposits to support the planned sale. Plasma confirmed that its revised $1 billion deposit cap was reached in under 30 minutes on June 12, doubling its initial $500 million target. The firm stated that 2,900 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "Bitcoin: How To Solve the Student Loan Crisis",
+      "link": "https://bitcoinmagazine.com/culture/bitcoin-how-to-solve-the-student-loan-crisis",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/studentdebt.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/culture/bitcoin-how-to-solve-the-student-loan-crisis\" rel=\"nofollow\"> </a></p> <p>Students are already taking out mortgage-sized loans for college. The financial jiu-jitsu of pairing bitcoin with student loans can fix the student debt crisis.</p> <p>"
+    },
+    {
       "title": "Remixpoint Invests \u00a5887 Million More Into Bitcoin",
       "link": "https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Remixpoint-Invests-\u00a5887-Million-More-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/remixpoint-invests-%c2%a5887-million-more-into-bitcoin\" rel=\"nofollow\"> </a></p> <p>Japanese company now holds a total of 981.39 BTC, with a recent purchase of 55.68 BTC.</p> <p>"
@@ -127,14 +132,14 @@
       "title": "Maelstrom Announces Its Fourth Bitcoin Developer Grant Recipient",
       "link": "https://bitcoinmagazine.com/news/maelstrom-announced-its-fourth-bitcoin-developer-grant-recipient",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Maelstrom-Announced-Its-Fourth-Bitcoin-Developer-Grant-Recipient.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/maelstrom-announced-its-fourth-bitcoin-developer-grant-recipient\" rel=\"nofollow\"> </a></p> <p>Maelstrom selected macgyver13 as its fourth Bitcoin recipient. Ron will be working on silent payments.</p> <p>"
-    },
-    {
-      "title": "F Street Announced Goal Of Accumulating $10 Million In Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/F-Street-Announced-Goal-Of-Accumulating-10-Million-In-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/f-street-announced-goal-of-accumulating-10-million-in-bitcoin\" rel=\"nofollow\"> </a></p> <p>F Street plans adding Bitcoin to its corporate treasury and wants to establish public proof of reserves for stakeholders. </p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Bitcoin and Gold: Tether's Latest Investment Boosts 'Dual Pillar Strategy'",
+      "link": "https://decrypt.co/324867/bitcoin-gold-tether-latest-investment-dual-pillar-strategy",
+      "summary": "Stablecoin issuer Tether has bought a substantial stake in a Canadian gold company as part of its safe-haven asset strategy, which includes a growing stash of Bitcoin."
+    },
     {
       "title": "Will GameStop Buy More Bitcoin? Shares Plunge Amid 'Black Box' Criticism Over Strategy",
       "link": "https://decrypt.co/324879/will-gamestop-buy-more-bitcoin-shares-plunge-amid-black-box-criticism-over-strategy",
@@ -154,11 +159,6 @@
       "title": "Bitcoin, Ethereum Slip After CPI Shock\u2014But Charts Still Say 'Not Bearish': Analysis",
       "link": "https://decrypt.co/324843/bitcoin-ethereum-slip-cpi-shock-charts-not-bearish",
       "summary": "Bitcoin dips to $107K after inflation data triggers a \u201csell the news\u201d move\u2014but Ethereum shows stronger technical momentum above key support."
-    },
-    {
-      "title": "Interpol Infostealer Malware Crackdown Leads to 32 Arrests",
-      "link": "https://decrypt.co/324832/interpol-infostealer-malware-crackdown-leads-to-32-arrests",
-      "summary": "More than 20,000 IPs and domains were taken down and 41 servers seized as part of the coordinated operation."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Mapping Bitcoin, Ethereum\u2019s moves amid Middle Eastern tensions, tariff wars",
+      "link": "https://ambcrypto.com/mapping-bitcoin-ethereums-moves-amid-middle-eastern-tensions-tariff-wars/",
+      "summary": "<img alt=\"Mapping Bitcoin, Ethereum&#039;s performance amid Middle Eastern tensions, tariff wars\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-ethereum-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum enjoyed institutional confidence despite mid-week chaos."
+    },
+    {
       "title": "Sonic whales make their move \u2013 What THESE signals mean for retail bets!",
       "link": "https://ambcrypto.com/sonic-whales-make-their-move-what-these-signals-mean-for-retail-bets/",
       "summary": "<img alt=\"Sonic\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-12T111752.483-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sonic sees smart money profits and whale accumulation despite daily losses."
@@ -208,11 +213,6 @@
       "title": "Bitcoin\u2019s next move: Retail euphoria can push BTC to $112K, ONLY IF\u2026",
       "link": "https://ambcrypto.com/bitcoins-next-move-retail-euphoria-can-push-btc-to-112k-only-if/",
       "summary": "<img alt=\"Bitcoin [BTC] social sentiment hit a 2.1 bullish-to-bearish ratio, the highest since Nov 2024.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-98-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Retail optimism surges, but profit-taking and leverage zones could spark volatility"
-    },
-    {
-      "title": "dogwifhat signals uncertainty \u2013 Can WIF bulls regain control above $1?",
-      "link": "https://ambcrypto.com/dogwifhat-signals-uncertainty-can-wif-bulls-regain-control-above-1/",
-      "summary": "<img alt=\"dogwifhat signals uncertainty - Can WIF bulls regain control above $1?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/WIF-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The selling pressure of the past three weeks weighed heavily on dogwifhat."
     }
   ]
 }
