@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Bounces to $106K After Iran-Israel Jitters, but Analysts Warn of Deeper Pullback",
+      "link": "https://www.coindesk.com/markets/2025/06/13/bitcoin-bounces-to-106k-after-iran-israel-jitters-but-analysts-warn-of-deeper-pullback",
+      "summary": ""
+    },
+    {
       "title": "SUI Drops 10% to $3.02, but Is a Turnaround Forming After Buyers Step In Near $3?",
       "link": "https://www.coindesk.com/markets/2025/06/13/sui-drops-10-to-usd3-02-but-is-a-turnaround-forming-after-buyers-step-in-near-usd3",
       "summary": ""
@@ -19,41 +24,46 @@
       "title": "ADA Drops 6% as Cardano Community Debates $100M Stablecoin Liquidity Proposal",
       "link": "https://www.coindesk.com/markets/2025/06/13/ada-drops-6-as-cardano-community-debates-usd100m-stablecoin-liquidity-proposal",
       "summary": ""
-    },
-    {
-      "title": "NEAR Protocol Surges 4% After 12.8% Correction, User Growth Shines",
-      "link": "https://www.coindesk.com/markets/2025/06/13/near-protocol-surges-4-after-12-8-correction-user-growth-shines",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "SEC, Ripple file motion to release $125M in escrow as case winds down",
+      "link": "https://cointelegraph.com/news/sec-ripple-motion-release-125-million-case-winds-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzZhOTAtZmVkNy03MGE1LTg3ZjctMGUxOWRmYmExMGQy.jpg\" /></p><p>The lawsuit against Ripple, filed by the United States Securities and Exchange Commission in December 2020, is finally wrapping up.</p>"
+    },
+    {
+      "title": "Bitcoin flash crash presents prime buy opportunity if historic pattern repeats",
+      "link": "https://cointelegraph.com/news/bitcoin-flash-crash-presents-prime-buy-opportunity-if-historic-pattern-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY5N2UtMjQ2NS03MzQ3LTgyNTYtNjk2OGQwYTFjYzk4.jpg\" /></p><p>Bitcoin\u2019s flash crash could be followed by a 64% rally if historical data rings true again.</p>"
+    },
+    {
+      "title": "Ethereum Foundation pledges $500K to Roman Storm\u2019s defense",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-donation-roman-storm-defense?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzZhOGYtZjI3Yi03NzcxLTkyMzktNWYwNTg3YzBmOTMz.jpg\" /></p><p>Roughly two years after the initial indictment, the Tornado Cash developer\u2019s criminal trial is expected to begin on July 14.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
       "title": "Circle\u2019s NYSE debut marks start of crypto IPO season: Are Kraken, Gemini and Bullish next?",
       "link": "https://cointelegraph.com/news/crypto-ipos-circle-gemini-kraken-wall-street-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVhNDItYjllZS03ODcwLThhNWYtNmMzNzM0OGMwMmYw.jpg\" /></p><p>Crypto IPO season is underway. Circle\u2019s explosive debut has fueled filings from Gemini and Bullish, with Kraken, BitGo, and Consensys potentially next.</p>"
-    },
-    {
-      "title": "Crypto Biz: Meta\u2019s AI bet, Fortune 500\u2019s stablecoin push",
-      "link": "https://cointelegraph.com/news/stablecoins-meta-ai-scale-ripple-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzZhM2ItZjFiMS03NTZjLWI3YTAtNmFiNWRhNWJkZTk1.jpg\" /></p><p>Mark Zuckerberg bets $15 billion on an AI company as stablecoins win over Fortune 500 companies.</p>"
-    },
-    {
-      "title": "Saylor says Bitcoin could fix Apple\u2019s stock buybacks: Finance Redefined",
-      "link": "https://cointelegraph.com/news/saylor-bitcoin-fix-apple-stock-buybacks-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4YmUtMGFhYi03MmFiLWI3NDctZjNiMTU5OGRkNzc2.jpg\" /></p><p>Bitcoin exposure may provide more shareholder value to Apple investors, as the tech firm\u2019s stock is struggling to reverse a downtrend.</p>"
-    },
-    {
-      "title": "Price predictions 6/13: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, SUI, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-6-13-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzZhMjctZmI1YS03OGE2LTljMGQtOGFlMDliYzc2NzY5.jpg\" /></p><p>Dip buyers stepped in to absorb this week\u2019s downside in Bitcoin and select altcoins.</p>"
-    },
-    {
-      "title": "Closing Strait of Hormuz is biggest risk to BTC price this weekend \u2014 Analyst",
-      "link": "https://cointelegraph.com/news/closing-strait-hormuz-biggest-risk-btc-price-weekend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGIwOGMtOGUwNy03NzU0LWI2MTEtMjJlMjZhZmNlOWU0.jpg\" /></p><p>Risk assets would take a significant hit if Iran closes the Strait of Hormuz, a narrow waterway supplying 20% of the global oil trade.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Spot Ethereum ETFs register new inflow record with 19-day streak, capturing nearly $1.4 billion",
+      "link": "https://cryptoslate.com/spot-ethereum-etfs-register-new-inflow-record-with-19-day-streak-capturing-nearly-1-4-billion/",
+      "summary": "<p>Spot Ethereum exchange-traded funds (ETFs) listed in the US set a new record by attracting net inflows for 19 consecutive trading sessions between May 16 and June 12, adding almost $1.4 billion. According to Farside Investors\u2019 data, the streak began with $35 million on May 16, passed $1 billion on May 29, and reached $1.38 [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Invesco and Galaxy chase Solana ETF dream with Delaware trust registration",
+      "link": "https://cryptoslate.com/invesco-and-galaxy-chase-solana-etf-dream-with-delaware-trust-registration/",
+      "summary": "<p>Invesco and Galaxy Digital have taken a concrete step toward bringing a Solana exchange-traded fund (ETF) to the US market. Public records show that the firms registered a trust named Invesco Galaxy Solana ETF with Delaware&#8217;s Division of Corporations on June 12. Over the past months, several firms have created Delaware statutory trusts before seeking [&#8230;]</p> <p>"
+    },
     {
       "title": "Crypto market maker Gotbit and founder sentenced for fraud, manipulation",
       "link": "https://cryptoslate.com/crypto-market-maker-gotbit-and-founder-sentenced-for-fraud-manipulation/",
@@ -68,19 +78,14 @@
       "title": "Polkadot seeks stability with $2M Bitcoin reserve strategy amid DOT downturn",
       "link": "https://cryptoslate.com/polkadot-seeks-stability-with-2m-bitcoin-reserve-strategy-amid-dot-downturn/",
       "summary": "<p>A new proposal within the Polkadot ecosystem is pushing for the creation of a Strategic Bitcoin Reserve. According to the proposal, the plan involves converting 500,000 DOT, valued at around $2 million, into Threshold Bitcoin (tBTC), a wrapped version of Bitcoin secured through threshold cryptography, which ensures decentralization and non-custodial management. Polkadot&#8217;s Bitcoin proposal Before [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SharpLink\u2019s record $463M Ethereum acquisition fails to prevent 67% decline in stock",
-      "link": "https://cryptoslate.com/sharplinks-record-463m-ethereum-acquisition-fails-to-prevent-67-decline-in-stock/",
-      "summary": "<p>SharpLink Gaming has established a significant Ethereum reserve, acquiring more than 176,000 ETH at an average price of $2,626 per token, according to a statement released on June 13. The $463 million investment marks the company as the first Nasdaq-listed firm to implement an Ethereum-focused treasury strategy. In addition, the company is the largest public [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Walmart & Amazon eye $14B in savings by launching corporate stablecoin",
-      "link": "https://cryptoslate.com/walmart-amazon-eye-14b-in-savings-by-launching-corporate-stablecoin-as-us-genius-legislation-nears/",
-      "summary": "<p>Walmart and Amazon are preparing to launch their own stablecoins as the U.S. Senate advances landmark legislation that would establish a federal regulatory framework for privately issued digital dollars for the first time. The legislation, known as the GENIUS Act (S.394), has passed committee and cleared cloture, with a final Senate vote scheduled for June [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Price Could Rally To $10,000 If This Major Resistance Is Broke",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-could-rally-to-10000/",
+      "summary": "Ethereum&#8217;s price action this week has been very notable, with the leading altcoin breaking above $2,800 again for the first time in four months. Ethereum managed to break above the $2,800 mark for the first time since February, briefly touching $2,870 before pulling back slightly. Related Reading: Ethereum Staging A Repeat Of Bitcoin\u2019s 2021 Cycle? Here\u2019s The Target Two separate analyses by crypto strategist Crypto Patel on the social media platform X suggests Ethereum is now on the right track. The first, based on an 8-hour chart, highlights a rally toward $4,000. The second, using a long-term two-week timeframe, outlines a bullish setup that could send Ethereum soaring to $10,000 and beyond. Ethereum\u2019s Breakout From Sideways Consolidation Zone In a recent analysis shared on X, a crypto analyst known as Crypto Patel highlighted Ethereum\u2019s attempt to break out of its established range. Using the 8-hour candlestick chart, he pointed out how the Ethereum had spent many weeks since early May trading between clear support at $2,366 and resistance around $2,734. The breakout seen on the chart occurred just above this resistance zone, when Ethereum briefly pushed past $2,800 before facing some rejection. If this breakout holds above $2,800, Ethereum could initiate a steep upward rally toward the $3,500 to $4,000 region in the coming weeks. Crypto Patel noted the importance of watching whether Ethereum sustains above the $2,750 breakout line, as a successful confirmation could trigger an influx of bullish momentum. Ethereum\u2019s To $10,000 In The Long-Term In a follow-up post analyzing a much larger timeframe, Crypto Patel shared a two-week candlestick chart that mapped Ethereum\u2019s longer-term structure since 2018. The chart revealed a well-defined bullish setup, including a bounce from a key bullish order block around $1,400 in April. This bounce acted as a support level, with the resulting candlestick being a bullish one that broke through another order block between $1,700 and $2,500. Related Reading: Ethereum Price Eyes 38% Jump To $3,500 As 50EMA Swims Into View Patel pointed out that Ethereum is now showing signs of a long-term bullish continuation pattern. With support levels already locked in for the next bear market, the analyst projected a target above $10,000, citing a 438% upside potential from current price levels. The chart also marks $2,500 as a structural pivot point, with Ethereum\u2019s ongoing upward trajectory expected to strengthen if this support level continues to hold. Therefore, the path to $10,000 will depend on Ethereum\u2019s ability to turn its recent resistance break into sustained momentum. The $2,800 region must now serve as a support base rather than a resistance ceiling. However, this has failed to really materialize in the past 24 hours, as Ethereum is currently down by a massive 9.6%. The ensuing price action has seen the leading altcoin now back trading within this consolidation range. Failure to hold above $2,500 could cascade to more losses over the weekend until it closes on $2,366 again and probably initiate another bounce from here. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "XRP Dominance Prepares To Shatter Fib 0.5 After 4 Historic Rejections",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-dominance-to-shatter-fib-0-5/",
@@ -100,11 +105,6 @@
       "title": "Ethereum Faces Stress As Israel-Iran Conflict Shakes Sentiment \u2013 ETH/BTC Support In Focus",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-faces-stress-as-israel-iran-conflict-shakes-sentiment-eth-btc-support-in-focus/",
       "summary": "Ethereum faced intense selling pressure earlier today as geopolitical tensions flared following Israel\u2019s attack on Iran, shaking global markets and triggering risk-off behavior across crypto. The sudden spike in volatility pushed Ethereum away from its recent highs, as it retraced after failing to break above the critical $3,000 resistance level. This marks a pivotal moment for ETH, which had shown strong momentum in recent sessions before being hit by the broader market downturn. Related Reading: Ethereum Repeats History \u2013 Key Support Holds Again Ahead Of Potential Rally Despite the sharp correction, top analyst Quinten Francois remains optimistic. He pointed to the ETH/BTC pair, which continues to look strong relative to other assets. According to Francois, this pair is currently testing the support line of an ascending triangle\u2014a pattern that often precedes a breakout to the upside if support holds. With Bitcoin holding near its range highs, Ethereum\u2019s performance against BTC could serve as a leading indicator for the broader altcoin market. Now, Ethereum stands at a crossroads. A bounce from current levels could renew bullish momentum and re-establish the $2,800\u2013$3,000 range as the launchpad for higher prices. But failure to hold support may trigger another wave of downside pressure. All eyes are on ETH/BTC as markets brace for what comes next. Ethereum Holds Key Level Against BTC Ethereum has been leading the crypto market with impressive strength since April, posting a remarkable surge of over 100% from its lows near $1,400. This steep recovery highlights Ethereum\u2019s growing momentum, positioning it as a potential frontrunner in triggering the next altseason. The asset\u2019s consistent performance above key support levels and its resilience during market dips have renewed bullish sentiment, with traders increasingly focusing on ETH as the key asset to watch. Many analysts believe Ethereum could be the spark that reignites capital rotation into altcoins. Its breakout from a month-long range, combined with increasing DeFi activity and improving on-chain metrics, has added to the bullish case. However, caution remains. Ongoing geopolitical tensions\u2014particularly the recent escalation between Israel and Iran\u2014are injecting volatility into global markets, including crypto. These developments have disrupted otherwise promising technical setups across the board, leading to uncertainty and risk-off sentiment. Quinten Francois commented on the current climate, noting that \u201csome charts don\u2019t look good, others are holding on by a thread.\u201d However, he singled out the ETH/BTC pair as a relative strength signal, stating that it \u201cstill looks good.\u201d This pair is currently testing the support line of an ascending triangle\u2014a structure that, if defended, could pave the way for a continuation of ETH\u2019s dominance over Bitcoin. In this environment, Ethereum\u2019s performance\u2014especially relative to BTC\u2014could determine the broader market\u2019s next phase. If ETH/BTC holds and breaks higher, the door opens for a full altseason run. But a failure to hold could reinforce caution and signal a pause across the crypto market. For now, Ethereum remains the most important chart to watch. Related Reading: Ethereum Tests Previous Resistance As Support \u2013 Can Bulls Defend This Level? ETH Faces Sharp Rejection After Tagging Range Highs Ethereum is facing a crucial technical test after a strong rejection near the $2,830 resistance level. The chart shows ETH failing to hold above the highlighted supply zone between $2,700 and $2,830, where sellers stepped in aggressively. This resulted in a sharp breakdown that sliced through the 50, 100, and 200 simple moving averages (SMAs) on the 4-hour timeframe, now positioning ETH around $2,512. What\u2019s more concerning is the spike in volume during the breakdown. This confirms the strength behind the move, signaling panic among bulls and potential distribution by short-term holders. ETH is now holding just above a previous support zone from early June, but the current setup suggests uncertainty and risk of further downside. Related Reading: Ethereum Price Tests Ascending Channel Resistance \u2013 Breakout Or Breakdown? Unless Ethereum can reclaim the $2,600\u2013$2,620 area soon, the next likely target could be the $2,400 level, where the next strong demand cluster sits. However, if bulls defend current prices and manage a quick recovery back above the SMAs, this recent move could be interpreted as a liquidity sweep before continuation. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin At $1 Million? CEO Says It\u2019s The Price To Beat Gold",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-at-1-million-novogratz-says-its-the-price-to-beat-gold/",
-      "summary": "According to CNBC\u2019s Power Lunch, Galaxy Digital CEO Mike Novogratz thinks Bitcoin could climb all the way to $1 million per coin if big institutions keep piling in. The cryptocurrency hit a weekly peak of $110,290 on Tuesday. It slipped 4.5% to $104,300 by Thursday, but it\u2019s still climbed 1.75% over the past seven days. Novogratz says this isn\u2019t just hype. He points to firms moving cash from dollars and gold into crypto. Related Reading: BTC Is Just 0.2% Of Global Wealth \u2014 And That\u2019s Why It\u2019s Not Too Late: Analyst Institutional Moves Up Demand BlackRock\u2019s iShares Bitcoin Trust (IBIT) went live in January 2024 after SEC approval. Based on reports, that fund now gives big investors a straightforward path to own Bitcoin without buying coins directly. BlackRock manages about $11.6 trillion in assets. When a player that size steps in, others notice. Novogratz says wealth managers and pension funds have started treating Bitcoin like a macro asset, on par with gold and the S&#38;P 500. Growing Corporate Interest Treasury companies are adding Bitcoin to their balance sheets. Sovereign wealth funds have begun to follow suit. Retail investors keep buying, too, thanks to easier trading apps and ETFs like IBIT. A handful of public companies have raised millions to buy Bitcoin outright. Related Reading: TRX Price Up As Tron Rolls Out The Red Carpet For Trump-Backed Stablecoin According to filings, Metaplanet, the Blockchain Group, GameStop, and US President Donald Trump\u2019s Media arm all announced major purchases this year. Their moves chip away at the 21 million-coin supply, making each remaining Bitcoin scarcer. Bitcoin Versus Gold Bitcoin\u2019s 21 million supply cap is hard-wired into its code. Gold, by comparison, has a market worth north of $12 trillion and sees about 1\u20132% new supply each year through mining. Novogratz argues that younger investors will choose a capped digital asset over a metal bar. That switch isn\u2019t guaranteed, but once people see Bitcoin as a store of value, its appeal could grow. At today\u2019s $2 trillion market cap, Bitcoin has room to expand many times over if it ever rivals gold. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Challenges Ahead Regulators remain a wildcard. The SEC green-lit IBIT, but future rules on taxes or derivatives could slow things down. Bitcoin\u2019s price swings make it riskier than bonds or gold. Institutions often chase stable returns, and Bitcoin pays no dividends or interest. Finally, moving another $10 trillion into crypto would need a massive shift in asset allocations. That kind of inflow isn\u2019t impossible, but it won\u2019t happen overnight. Based on reports, Novogratz sees Bitcoin\u2019s march toward gold\u2019s market cap as a \u201cball rolling down a hill.\u201d He predicts that, over time, Bitcoin will match gold and then outpace it. Featured image from Imagen, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Elizabeth Warren, Consumer Groups Slam Walmart and Amazon Stablecoin Plans",
+      "link": "https://decrypt.co/325178/elizabeth-warren-consumer-groups-slam-walmart-amazon-stablecoin-plans",
+      "summary": "Retailers Amazon and Walmart are considering issuing their own stablecoins, according to a Friday report in the Wall Street Journal."
+    },
+    {
+      "title": "Gotbit Got Got: Founder Sentenced to Prison for Crypto Wash Trading",
+      "link": "https://decrypt.co/325111/gotbit-founder-sentenced-prison-crypto-wash-trading",
+      "summary": "Gotbit forfeited $23 million in cryptocurrency after a guilty plea in the fraud case, with founder Aleksei Andriunin sentenced to prison."
+    },
+    {
       "title": "Meet Olto: The $3,500 E-Scooter Gunning to Be the iPhone of Micromobility",
       "link": "https://decrypt.co/325098/meet-olto-3500-e-scooter-gunning-iphone-micromobility",
       "summary": "Infinite Machine\u2019s new Olto is a sleek, connected, e-scooter designed for bike lane commuters."
@@ -149,16 +159,6 @@
       "title": "Nobody Predicted Israel Would Strike Iran, But Bitcoin Is Still Not in Panic Mode: Analysis",
       "link": "https://decrypt.co/325114/nobody-predicted-israel-iran-strike-bitcoin-not-panic-mode",
       "summary": "Bitcoin dips below $106K but avoids full-blown panic as traders assess fallout from Israeli airstrikes on Iran."
-    },
-    {
-      "title": "Weeks Before Trial, Tornado Cash\u2019s Roman Storm Sounds Alarm: \u2018If I Lose, DeFi Dies With Me\u2019",
-      "link": "https://decrypt.co/325095/weeks-before-trial-tornado-cashs-roman-storm-sounds-alarm-if-i-lose-defi-dies-with-me",
-      "summary": "The software developer is set to go to trial next month over his operation of the popular coin mixer, despite recent moves by the Trump DOJ to back off such services."
-    },
-    {
-      "title": "SEC Names Crypto Industry Veteran as Trading and Markets Director",
-      "link": "https://decrypt.co/325083/sec-names-crypto-industry-veteran-trading-markets-director",
-      "summary": "The SEC has named Jamie Selway, who has experience in the crypto industry, as its new director of the trading and markets division."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Mantra\u2019s house of cards: 91% in red, new wallets don\u2019t want in \u2013 Will OM survive?",
+      "link": "https://ambcrypto.com/mantras-house-of-cards-91-in-red-new-wallets-dont-want-in-will-om-survive/",
+      "summary": "<img alt=\"Mantra&#039;s house of cards: 91% in red, new wallets don\u2019t want in - Will OM survive?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-13T114940.605-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />OM extends its decline with weak demand, rising whale control, and heavy underwater losses."
+    },
+    {
       "title": "Why is crypto down today? Israel-Iran escalations, $1B liquidations trigger sell-off",
       "link": "https://ambcrypto.com/why-is-crypto-down-today-israel-iran-escalations-1b-liquidations-trigger-sell-off/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Why-is-crypto-down-today-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />There was increased hedging for downside protection ahead of Fed rate decision."
@@ -208,11 +213,6 @@
       "title": "Peter Schiff claims Bitcoin has hit a \u2018major top,\u2019 but is it too soon?",
       "link": "https://ambcrypto.com/peter-schiff-claims-bitcoin-has-hit-a-major-top-but-is-it-too-soon/",
       "summary": "<img alt=\"Peter Schiff claims Bitcoin has hit a &#039;major top,&#039; but is it too soon?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-FI-.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's why Peter Schiff's BTC 'major top' call may be premature."
-    },
-    {
-      "title": "The $500 mln XRP treasury bet: Will Ripple\u2019s long-term bet pay off?",
-      "link": "https://ambcrypto.com/the-500-mln-xrp-treasury-bet-will-ripples-long-term-bet-pay-off/",
-      "summary": "<img alt=\"The $500 mln XRP treasury bet: Will Ripple&#039;s long-term bet pay off?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-11.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple\u2019s long-term play is all about utility over hype, and it's finally starting to show."
     }
   ]
 }
