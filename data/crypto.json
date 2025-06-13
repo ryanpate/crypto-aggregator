@@ -1,7 +1,17 @@
 {
   "CoinDesk": [
     {
-      "title": "Asia Morning Briefing: Could 3AC and Terraform be Blamed for Singapore's Crackdown on Offshore Crypto Firms?",
+      "title": "Single Bitcoin Trader Loses $200M as Crypto Bulls See $1B Liquidations",
+      "link": "https://www.coindesk.com/markets/2025/06/13/single-bitcoin-trader-loses-200m-as-crypto-bulls-see-1b-liquidations",
+      "summary": ""
+    },
+    {
+      "title": "Cynthia Lummis Proposes Artificial Intelligence Bill, Requiring AI Firms to Disclose Technicals",
+      "link": "https://www.coindesk.com/policy/2025/06/13/cynthia-lummis-proposes-artificial-intelligence-bill-requiring-ai-firms-to-disclose-technicals",
+      "summary": ""
+    },
+    {
+      "title": "Asia Morning Briefing: Could 3AC and Terraform Be Blamed for Singapore's Crackdown on Offshore Crypto Firms?",
       "link": "https://www.coindesk.com/markets/2025/06/12/asia-morning-briefing-could-3ac-and-terraform-be-blamed-for-singapores-crackdown-on-offshore-crypto-firms",
       "summary": ""
     },
@@ -13,16 +23,6 @@
     {
       "title": "Bitcoin Tumbles Below $104K as Israel Strikes Iran",
       "link": "https://www.coindesk.com/markets/2025/06/12/btc-trading-under-104k-as-israel-appears-to-strike-iran",
-      "summary": ""
-    },
-    {
-      "title": "Ethereum Treasury Firm SharpLink Gaming Plunges 70% \u2013 But There May Be a Twist",
-      "link": "https://www.coindesk.com/markets/2025/06/12/ethereum-treasury-firm-sharplink-gaming-plunges-70-but-there-may-be-a-twist",
-      "summary": ""
-    },
-    {
-      "title": "Crypto Cracks Late in Day, Bitcoin Slumps Below $106K",
-      "link": "https://www.coindesk.com/markets/2025/06/12/crypto-cracks-late-in-day-bitcoin-slumps-below-106k",
       "summary": ""
     }
   ],
@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "How Nemo Money Is Redefining Global Investing With Smart Tools and Zero Commission Trading",
+      "link": "https://cryptoslate.com/how-nemo-money-is-redefining-global-investing-with-smart-tools-and-zero-commission-trading/",
+      "summary": "<p>Introduction In an increasingly complex investment world, Nemo Money is breaking through the noise. As a next-generation investing app developed by Exinity, Nemo is designed for both new and experienced investors looking for smarter, more accessible ways to manage their money \u2014 without paying excessive fees. Built for Investors Who Want More With over 6,000 [&#8230;]</p> <p>"
+    },
+    {
       "title": "Over $1.1B liquidated amid Middle East conflict with Bitcoin, Ethereum hit hardest",
       "link": "https://cryptoslate.com/insights/over-1-1b-liquidated-amid-middle-east-conflict-with-bitcoin-ethereum-hit-hardest/",
       "summary": "<p>In the past 24 hours, over $1.14 billion in crypto market positions were liquidated, with long positions accounting for roughly 91 percent of the total, according to data from Coinglass. The sharp unwinding came as Bitcoin dropped more than 5 percent from a local high of $108,000 Thursday to as low as $103,000, following Israeli [&#8230;]</p> <p>"
@@ -73,14 +78,14 @@
       "title": "$USD1 Stablecoin Begins Minting on TRON",
       "link": "https://cryptoslate.com/usd1-stablecoin-begins-minting-on-tron/",
       "summary": "<p>Geneva, Switzerland, June 12, 2025 \u2013 TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), has announced the first minting of the USD1 stablecoin on the TRON blockchain. Released by World Liberty Financial., the developer of a pioneering DeFi protocol and governance platform inspired [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Neo Pepe Coin Ultimate Guide \u2013 Community DAO Token Highlights",
-      "link": "https://cryptoslate.com/neo-pepe-coin-ultimate-guide-community-dao-token-highlights/",
-      "summary": "<p>Unveil the Secret to Decentralized Crypto with Neo Pepe Welcome to the Neo Pepe revolution, where memes meet cutting-edge cryptocurrency! Neo Pepe ($NEOP) isn\u2019t just a coin; it\u2019s a movement, a rallying cry for decentralization, and the hottest ticket in town for crypto enthusiasts (and yes, meme lovers too). Want to learn how Neo Pepe [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "$390M In Ethereum Leaves Exchanges\u2014Biggest Daily Exit In Over A Month",
+      "link": "https://www.newsbtc.com/news/ethereum/393m-ethereum-leaves-exchanges-biggest-daily-exit/",
+      "summary": "On-chain data shows Ethereum has just witnessed its largest daily withdrawal in over a month, a sign that may turn out to be bullish for the asset&#8217;s price. Ethereum Has Recently Seen Notable Exchange Outflows As explained by the institutional DeFi solutions provider Sentora (formerly IntoTheBlock) in a new post on X, a large amount of Ethereum has left exchanges. The on-chain indicator of interest here is the &#8220;Exchange Netflow,&#8221; which measures the net amount of ETH entering into or exiting out of the wallets associated with centralized exchanges. When the value of this metric is positive, it means the exchanges are receiving a net number of deposits. As one of the main reasons why investors deposit their tokens to these platforms is for selling-related purposes, this kind of trend can have a bearish implication for the ETH price. Related Reading: Tron Has Plenty Of Room For A 2025 Bull Run, Risk Metric Signals On the other hand, the indicator being below zero suggests the exchange outflows outweigh the inflows. Such a trend can imply the holders are accumulating, which can naturally have a bullish effect on the asset. Now, here is the chart shared by Sentora that shows the trend in the Ethereum Exchange Netflow over the past month: As displayed in the above graph, the Ethereum Exchange Netflow has seen a sharp negative spike during the past day, which suggests the investors have withdrawn a significant amount of the cryptocurrency. In total, the exchanges have handled net outflows of more than 140,000 ETH (worth about $390 million) with this withdrawal spree. This is the largest single-day exit that these platforms have faced in over a month. These outflows have come as Ethereum has been attempting a breakout from its month-long range. As such, it&#8217;s possible that a portion of the large holders of the market have some level of confidence in this rally. In some other news, the cash-margined Ethereum Futures Open Interest has set a new all-time high, as the on-chain analytics firm Glassnode has revealed in an X post. The Futures Open Interest is an indicator that measures the total amount of positions related to Ethereum that are currently open on all derivatives platforms. Here, the &#8216;cash-margined&#8217; Open Interest is of relevance, which includes all the contracts that have fiat/stablecoins as collateral. Related Reading: Bitcoin Options Traders Expect Quiet\u2014But On-Chain Data Suggests Chaos From the chart, it&#8217;s apparent that this metric has recently seen some rapid growth and has achieved a new record of about $20 billion. &#8220;Despite a slight pullback from the $2.8K levels, leverage continues to build as traders load up using stablecoins,&#8221; notes Glassnode. ETH Price Ethereum crossed beyond the $2,800 level earlier, but it appears it has seen a setback as its price is back at $2,750. Featured image from Dall-E, Glassnode.com, IntoTheBlock.com, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin Is Just 0.2% Of Global Wealth \u2014 And That\u2019s Why It\u2019s Not Too Late: Analyst",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-is-just-0-2-of-global-wealth-and-thats-why-its-not-too-late-analyst/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Funding Rate Flips Again And History Says A Rally Is Around The Corner",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-funding-rate-flips-again-and-history-says-a-rally-is-around-the-corner/",
       "summary": "Bitcoin\u2019s price has declined slightly following recent gains, falling 2.3% over the past 24 hours to trade at approximately $107,205. This latest movement places the asset 4.1% below its all-time high of over $111,000 recorded last month. Despite the short-term dip, some analysts see familiar signs in derivatives data that could point to the next phase of market movement. Related Reading: Why Bitcoin\u2019s Calm Rally Could Be a Setup for a Massive Breakout, Analyst Reveals Funding Rate Rebounds Signal Potential Upside for Bitcoin According to recent insights shared by on-chain analyst &#8220;nino&#8221; on CryptoQuant\u2019s QuickTake platform, Bitcoin may be repeating a funding rate pattern that has historically led to price rebounds. The data shows the asset\u2019s funding rate briefly dipping into negative territory before beginning to reverse, a pattern that has aligned with price recoveries earlier in the year. Nino\u2019s analysis suggests this reversal, particularly the 72-hour moving averages exiting the oversold zone and producing a yellow-blue-black signal formation, could indicate a potential round of short position liquidations. The funding rate, still below levels typically associated with excessive bullish sentiment, may also imply that traders have yet to become overconfident, leaving room for additional upside without immediate overheating in derivatives markets. Nino\u2019s observation focuses on market structure and derivative sentiment, highlighting how positioning in perpetual futures markets could precede notable spot price moves. In particular, when funding rates turn negative and then begin to climb, they often reflect the unwinding of overly bearish bets by traders who shorted BTC at high leverage. As these traders are forced to close positions, the resulting buy pressure can act as a short-term catalyst. This setup has played out multiple times earlier in 2025, and the current conditions suggest it may be occurring again. By keeping track of moving averages and sentiment zones, traders may interpret these signals as part of a broader cyclical trend. Binance Volume Share Signals Key Trends in Market Liquidity Separately, another analyst from CryptoQuant, Burak Kesmeci, addressed structural shifts in spot trading liquidity, particularly Binance\u2019s share of global trading volume. Kesmeci emphasized that Binance\u2019s dominance remains an important barometer of institutional participation and overall market health. He explained that an increase in Binance\u2019s spot volume share is often associated with higher liquidity and smoother price discovery. Conversely, if Binance were to fall below a 30% volume threshold, it could signal a move toward more &#8220;fragmented liquidity&#8221; across exchanges such as Coinbase or Upbit. Such shifts could lead to more volatility and less predictable trading behavior. Related Reading: Bitcoin Options Traders Expect Quiet\u2014But On-Chain Data Suggests Chaos At present, Binance\u2019s volume share is showing signs of recovery, suggesting that capital is still flowing through the exchange and supporting a relatively stable trading environment. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "Tron Has Plenty Of Room For A 2025 Bull Run, Risk Metric Signals",
-      "link": "https://www.newsbtc.com/news/tron-trx/tron-plenty-room-2025-bull-run-risk-metric-signals/",
-      "summary": "The Tron (TRX) Sharpe Ratio suggests the cryptocurrency&#8217;s price may be far from overheating, a sign that the coin could have more upside potential. Tron Sharpe Ratio Is Still Significantly Below Overheating Zone In a CryptoQuant Quicktake post, an analyst has talked about the latest trend in the Sharpe Ratio of Tron. The &#8220;Sharpe Ratio&#8221; refers to an indicator that compares the returns of an asset against the risk associated with it. The numerator in the ratio, the &#8216;returns&#8217; portion, is defined as the difference between the average return of the coin and the risk-free return (that is, the theoretical return involved with an asset carrying zero risk) over a given period. The denominator, the &#8216;risk&#8217; part, is the asset&#8217;s standard deviation of returns over the same window (in other words, its volatility). Related Reading: Bitcoin Options Traders Expect Quiet\u2014But On-Chain Data Suggests Chaos When the value of this metric is greater than 1, it means the cryptocurrency is printing returns that outweigh its risk. On the other hand, it being under the threshold suggests the asset&#8217;s performance has been lackluster compared to its volatility. Now, here is a chart that shows the trend in the Tron Sharpe Ratio over the last few years: As displayed in the above graph, the Tron Sharpe Ratio fell below the 1 level earlier, but its value has since returned above the mark. According to the quant, the metric being above the level has historically accompanied bullish price action. An extremely high value, however, has proven to be an overheating signal, with the asset tending to arrive at a top. &#8220;Whenever the Adjusted Sharpe Ratio climbs above 40, it often signals a market that&#8217;s overheating,&#8221; explains the analyst. &#8220;In the past, readings over 40 have lined up well with local tops.&#8221; So far since its return above 1, the Tron Sharpe Ratio has only managed to reach a high of 8.3, which is clearly significantly below this cutoff. This trend could mean that TRX hasn&#8217;t been too overheated. &#8220;With TRX\u2019s Sharpe Ratio still far from historical peaks, the data suggests there&#8217;s plenty of upside room for a potential bull run in 2025,&#8221; says the quant. It now remains to be seen how the coin will develop in the near future, given this pattern. Related Reading: Ethereum To $3,400? On-Chain Shows No Big Hurdles Ahead In some other news, the Tron network set a new record in USDT transaction volume last month, as CryptoQuant community analyst Maartunn has pointed out in an X post. In total, the month of May saw over $694 billion in USDT transaction volume on the Tron network. Around $411 billion of these transfers were of a size that&#8217;s generally associated with the whales. TRX Price At the time of writing, Tron is trading around $0.272, down 1% in the last week. Featured image from iStock.com, CryptoQuant.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Top 9 presales to look out for in June 2025",
+      "link": "https://ambcrypto.com/top-9-presales-to-look-out-for-in-june-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1469\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/john-mcarthur-ROQzKIAdY78-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A presale refers to an early sale of tokens before they are listed on public [&#8230;]"
+    },
+    {
+      "title": "Bitcoin set for explosive growth as inflation cools \u2013 $200k in sight?",
+      "link": "https://ambcrypto.com/bitcoin-set-for-explosive-growth-as-inflation-cools-200k-in-sight/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Inflation remains lower than expected, but Bitcoin continues to trend higher through the chaos."
+    },
+    {
       "title": "TRON: Despite recent volatility, TRX\u2019s bullish trend remains",
       "link": "https://ambcrypto.com/tron-despite-recent-volatility-trxs-bullish-trend-remains/",
       "summary": "<img alt=\"TRON: Despite recent volatility, TRX&#039;s bullish trend remains\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/TRON-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A bullish phase was underway, but the swift retracement over the past couple of days could reset market sentiment."
@@ -203,16 +213,6 @@
       "title": "Dremes to Give Away a Lamborghini in Wild New Crypto Game Campaign",
       "link": "https://ambcrypto.com/dremes-to-give-away-a-lamborghini-in-wild-new-crypto-game-campaign/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"661\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-13-101608.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"882\" />Dremes, the pseudonymous team behind Coqnet Bonanza and Coqnet, has launched a new on-chain campaign: [&#8230;]"
-    },
-    {
-      "title": "Hyperliquid faces short-term dip, but why HYPE\u2019s bull run will continue",
-      "link": "https://ambcrypto.com/hyperliquid-faces-short-term-dip-but-why-hypes-bull-run-will-continue/",
-      "summary": "<img alt=\"Hyperliquid faces short-term dip, but why HYPE&#039;s bull run will continue\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/HYPE-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The dip in trading volume alongside the momentum divergence underlined the possibility of a price dip."
-    },
-    {
-      "title": "Bitcoin\u2019s next rally might be boring, but it\u2019s definitely bullish!",
-      "link": "https://ambcrypto.com/bitcoins-next-rally-might-be-boring-but-its-definitely-bullish/",
-      "summary": "<img alt=\"Bitcoin&#039;s next rally might be boring, but it&#039;s definitely bullish!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-19.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BTC outflows and long-term holder accumulation point to reduced sell pressure."
     }
   ]
 }
