@@ -1,6 +1,6 @@
 ---
 title: "Weekend Send-Off: Final Crypto Lowdown from the Beach"
-date: 2025-06-13T18:00:00-05:00
+date: 2025-06-13T12:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "End-of-week crypto wrap with global news impact, signing off from Bald Head Island."
