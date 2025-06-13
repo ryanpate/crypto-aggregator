@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Asia Morning Briefing: Could 3AC and Terraform be Blamed for Singapore's Crackdown on Offshore Crypto Firms?",
+      "link": "https://www.coindesk.com/markets/2025/06/12/asia-morning-briefing-could-3ac-and-terraform-be-blamed-for-singapores-crackdown-on-offshore-crypto-firms",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin 'Skew' Slides as Oil Prices Surge 6% on Israel-Iran Tensions",
+      "link": "https://www.coindesk.com/markets/2025/06/13/bitcoin-skew-slides-as-oil-prices-surges-6-on-israel-iran-tensions",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Tumbles Below $104K as Israel Strikes Iran",
       "link": "https://www.coindesk.com/markets/2025/06/12/btc-trading-under-104k-as-israel-appears-to-strike-iran",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Crypto Cracks Late in Day, Bitcoin Slumps Below $106K",
       "link": "https://www.coindesk.com/markets/2025/06/12/crypto-cracks-late-in-day-bitcoin-slumps-below-106k",
       "summary": ""
-    },
-    {
-      "title": "Coinbase to Launch Bitcoin Rewards Card With Amex, While Eyeing U.S. Futures Expansion",
-      "link": "https://www.coindesk.com/business/2025/06/12/coinbase-to-launch-bitcoin-rewards-card-with-amex-while-eyeing-us-futures-expansion",
-      "summary": ""
-    },
-    {
-      "title": "Shopify to Enable USDC Payments on Coinbase's Base for Merchants Worldwide",
-      "link": "https://www.coindesk.com/business/2025/06/12/shopify-to-enable-usdc-payments-on-coinbase-s-base-for-merchants-worldwide",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Australia bans financial adviser for 10 years for $9.6M crypto scam",
+      "link": "https://cointelegraph.com/news/australia-ten-year-ban-financial-adviser-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkwMTktYWE2Yi03OWFjLWIxZjMtMzc0ZDQ0MmY5ZTdh.jpg\" /></p><p>Australia\u2019s financial regulator alleges Glenda Maree Rogan told clients they were investing in a high-yield fixed-interest account but sent their funds to a crypto exchange listed as a scam.</p>"
+    },
     {
       "title": "Tencent explores purchase of Nexon gaming company",
       "link": "https://cointelegraph.com/news/tencent-purchase-nexon-gaming-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "Ex-Kamala Harris campaign adviser joins Coinbase advisory council",
       "link": "https://cointelegraph.com/news/david-plouffe-coinbase-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY1NjMtOWQ4OC03MjU5LTgyZDAtZmVhMjc4Zjg4ZTkx.jpg\" /></p><p>David Plouffe previously worked as an adviser for Alchemy Pay, Binance, former President Barack Obama's and former Vice President Kamala Harris\u2019 presidential campaigns.</p>"
-    },
-    {
-      "title": "Trump\u2019s Big Beautiful Bill could trigger a US debt crisis and Bitcoin boom",
-      "link": "https://cointelegraph.com/news/bitcoin-safe-haven-us-debt-crisis-big-beautiful-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkyODUtZTZhZC03YWMzLTk0ZTMtZGJmODI2MjNiOTdj.jpg\" /></p><p>President Trump\u2019s debt-heavy bill could speed up the devaluation of the US dollar. With higher inflation looming, Bitcoin may be one of the few real hedges left.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Tron Has Plenty Of Room For A 2025 Bull Run, Risk Metric Signals",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-plenty-room-2025-bull-run-risk-metric-signals/",
+      "summary": "The Tron (TRX) Sharpe Ratio suggests the cryptocurrency&#8217;s price may be far from overheating, a sign that the coin could have more upside potential. Tron Sharpe Ratio Is Still Significantly Below Overheating Zone In a CryptoQuant Quicktake post, an analyst has talked about the latest trend in the Sharpe Ratio of Tron. The &#8220;Sharpe Ratio&#8221; refers to an indicator that compares the returns of an asset against the risk associated with it. The numerator in the ratio, the &#8216;returns&#8217; portion, is defined as the difference between the average return of the coin and the risk-free return (that is, the theoretical return involved with an asset carrying zero risk) over a given period. The denominator, the &#8216;risk&#8217; part, is the asset&#8217;s standard deviation of returns over the same window (in other words, its volatility). Related Reading: Bitcoin Options Traders Expect Quiet\u2014But On-Chain Data Suggests Chaos When the value of this metric is greater than 1, it means the cryptocurrency is printing returns that outweigh its risk. On the other hand, it being under the threshold suggests the asset&#8217;s performance has been lackluster compared to its volatility. Now, here is a chart that shows the trend in the Tron Sharpe Ratio over the last few years: As displayed in the above graph, the Tron Sharpe Ratio fell below the 1 level earlier, but its value has since returned above the mark. According to the quant, the metric being above the level has historically accompanied bullish price action. An extremely high value, however, has proven to be an overheating signal, with the asset tending to arrive at a top. &#8220;Whenever the Adjusted Sharpe Ratio climbs above 40, it often signals a market that&#8217;s overheating,&#8221; explains the analyst. &#8220;In the past, readings over 40 have lined up well with local tops.&#8221; So far since its return above 1, the Tron Sharpe Ratio has only managed to reach a high of 8.3, which is clearly significantly below this cutoff. This trend could mean that TRX hasn&#8217;t been too overheated. &#8220;With TRX\u2019s Sharpe Ratio still far from historical peaks, the data suggests there&#8217;s plenty of upside room for a potential bull run in 2025,&#8221; says the quant. It now remains to be seen how the coin will develop in the near future, given this pattern. Related Reading: Ethereum To $3,400? On-Chain Shows No Big Hurdles Ahead In some other news, the Tron network set a new record in USDT transaction volume last month, as CryptoQuant community analyst Maartunn has pointed out in an X post. In total, the month of May saw over $694 billion in USDT transaction volume on the Tron network. Around $411 billion of these transfers were of a size that&#8217;s generally associated with the whales. TRX Price At the time of writing, Tron is trading around $0.272, down 1% in the last week. Featured image from iStock.com, CryptoQuant.com, chart from TradingView.com"
+    },
+    {
       "title": "Bitcoin Price Nosedives\u2014Profit-Taking Sparks Sudden Correction",
       "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-nosedives-profit-taking-sparks-sudden-correction/",
       "summary": "Bitcoin price started a fresh decline below the $105,500 zone. BTC is now consolidating and struggling to stay above the $103,200 support. Bitcoin started a fresh decline below the $106,500 and $105,500 levels. The price is trading below $106,500 and the 100 hourly Simple moving average. There is a key bearish trend line forming with resistance at $106,600 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a fresh recovery wave if it clears the $105,500 resistance zone. Bitcoin Price Dips Sharply Bitcoin price started a fresh decline after it failed to clear the $110,500 resistance zone. BTC declined below the $107,500 and $106,500 support levels. The price even dipped below the $104,200 support level. Finally, it tested the $103,000 zone. A low was formed at $103,078 and the price is now consolidating losses below the 23.6% Fib level of the recent decline from the $110,273 swing high to the $103,078 low. Bitcoin is now trading below $105,500 and the 100 hourly Simple moving average. There is also a key bearish trend line forming with resistance at $106,600 on the hourly chart of the BTC/USD pair. On the upside, immediate resistance is near the $104,200 level. The first key resistance is near the $105,500 level. The next key resistance could be $106,600 and the 50% Fib retracement level of the recent decline from the $110,273 swing high to the $103,078 low. A close above the $106,600 resistance might send the price further higher. In the stated case, the price could rise and test the $108,000 resistance level. Any more gains might send the price toward the $110,000 level. More Losses In BTC? If Bitcoin fails to rise above the $105,500 resistance zone, it could start another decline. Immediate support is near the $103,000 level. The first major support is near the $102,350 level. The next support is now near the $101,500 zone. Any more losses might send the price toward the $100,500 support in the near term. The main support sits at $100,000, below which BTC might gain bearish momentum. Technical indicators: Hourly MACD \u2013 The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BTC/USD is now below the 50 level. Major Support Levels \u2013 $103,000, followed by $102,350. Major Resistance Levels \u2013 $104,200 and $105,500."
@@ -100,11 +105,6 @@
       "title": "Nasdaq Says Yes To Cardano: ADA Earns A Spot Among Crypto Giants",
       "link": "https://www.newsbtc.com/altcoin/nasdaq-says-yes-to-cardano-ada-earns-a-spot-among-crypto-giants/",
       "summary": "Cardano\u2019s ADA has joined the Nasdaq Crypto Index, moving from the sidelines into the institutional spotlight. According to Nasdaq filings, this shift brings ADA alongside Bitcoin and Ethereum in one of the main benchmarks watched by big investors. It\u2019s a sign that regulators and asset managers see Cardano as more than just another blockchain token. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Index Broadens To Nine Assets Based on reports from TapTools and Nasdaq\u2019s Form 8-K, the index grew from five to nine assets. It now lists Bitcoin, Ethereum, Litecoin, Chainlink, Uniswap, and adds Cardano (ADA), Solana (SOL), Ripple (XRP), and Stellar (XLM). The change gives these newcomers a seat at the table. It also means more options for funds that track this benchmark. Cardano $ADA has officially been added to the Nasdaq Crypto Index, joining BTC and ETH in one of the industry\u2019s top institutional benchmarks. It\u2019s not just recognition\u2014 It\u2019s infrastructure-level validation. Full breakdown \ud83d\udc47https://t.co/n6nW3aK8rt pic.twitter.com/KuyDXy4cem \u2014 TapTools (@TapTools) June 10, 2025 Impact On Weighting Of Bitcoin And Ethereum Previously, Bitcoin made up 85% of the index and Ethereum held 10%. With ADA and the other three in play, Bitcoin\u2019s share falls to 75% and Ethereum\u2019s to 11%. This shift lets portfolio managers spread risk across a broader set of tokens. It also lowers the concentration in the two biggest names in crypto. SEC approves NASDAQ Index that includes ADA Cardano pic.twitter.com/p7Rj5RVGQd \u2014 Cardano Feed ($ADA) (@CardanoFeed) June 11, 2025 ETF Holdings Await SEC Signoff Even though the index itself now includes all 9 assets, the US-listed Hashdex Nasdaq Crypto Index ETF still holds only Bitcoin and Ethereum. That won\u2019t change until the SEC signs off on updates to the ETF\u2019s rulebook. Based on the current timeline, that approval is expected in early 2026. Until then, US investors can track the wider index on paper, but their ETF shares will stick with the original two coins. Related Reading: TRX Price Up As Tron Rolls Out The Red Carpet For Trump-Backed Stablecoin Cardano Gains Institutional Spotlight For Cardano, this is more than a trophy. It means added liquidity, better price support, and a clearer path into institutional portfolios. More cash in and out of ADA markets could narrow trading spreads and smooth out big swings. Trading platforms, custody services, and exchanges will feel the impact too. They\u2019ll need to meet the index\u2019s criteria\u2014steady volume, regulated venues, and institutional-grade storage. Those checkpoints help keep major players comfortable when they decide to buy or sell ADA at scale. Overall, bringing ADA into this benchmark shows that big finance is watching Cardano more closely than before. Yet the final step\u2014actual ETF inclusion in the US\u2014still lies with regulators. Featured image from Unsplash, chart from TradingView"
-    },
-    {
-      "title": "Ethereum Repeats History \u2013 Key Support Holds Again Ahead Of Potential Rally",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeats-history-key-support-holds-again-ahead-of-potential-rally/",
-      "summary": "Ethereum is at a critical juncture after breaking above key resistance but failing to sustain momentum toward the psychological $3,000 level. The recent surge brought optimism to the market, yet ETH has now pulled back slightly, struggling to extend gains as global uncertainty weighs on sentiment. With macro pressures mounting and negotiations between the US and China over a potential trade deal in focus, the broader market appears to be awaiting clarity before making its next decisive move. Related Reading: Solana Forms Higher Low: Charging Toward Range Highs? Top analyst Rekt Capital offered historical context to Ethereum\u2019s current setup, pointing to two previous cycles where ETH successfully retested the $2,500 level before launching toward $4,000. In August 2021 and again in early 2024, ETH held $2,500 as strong support (green circles), acting as the foundation for a major breakout rally. This repeating pattern has investors now eyeing the same level with growing interest. As Ethereum trades near $2,750\u2013$2,800, the coming days could determine whether this current setup mirrors past bullish cycles\u2014or if momentum fades again. With strong support beneath and a clear historical roadmap above, ETH\u2019s ability to reclaim strength could trigger the next leg in what many believe may be the start of altseason. Ethereum Echoes Past Patterns Ahead Of Potential Breakout Ethereum has rallied over 100% since its April lows, showcasing powerful momentum and heightened activity at current levels. After briefly tapping a local high near $2,830, ETH has retraced slightly but remains firmly above the $2,750 mark\u2014a key area that now acts as short-term support. The strength of this rebound is fueling growing speculation that Ethereum may not only be preparing for another leg up but also setting the tone for a broader altseason. Analysts across the board are closely watching ETH\u2019s current consolidation, with many citing historical patterns as a reason for optimism. Notably, Rekt Capital highlighted a recurring pattern that has previously led to significant rallies. In August 2021, Ethereum successfully retested the $2,500 level as support before surging to approximately $4,000. The same thing occurred in early 2024, when ETH once again bounced from $2,500 and rallied to the same zone. Now, for the past five weeks, Ethereum has repeatedly confirmed the $2,500 level as solid support, forming what appears to be a textbook foundation for another major move. This accumulation phase\u2014mirroring past cycles\u2014has many traders confident that ETH could soon reclaim $3,000 and begin leading altcoins higher. With macro conditions still uncertain and market participants looking for signals of strength, Ethereum\u2019s behavior at these levels carries added significance. If ETH can maintain its position above $2,750 and build momentum through $2,830, the market could see an explosive shift in sentiment, potentially triggering the next phase of the bull cycle. For now, all eyes remain on Ethereum as it tests the top of its multi-week range with bullish conviction. Related Reading: Ethereum Price Tests Ascending Channel Resistance \u2013 Breakout Or Breakdown? ETH Holds Above Breakout Zone After $2,830 Rejection Ethereum is currently trading at $2,749 on the 4-hour chart, holding above a key breakout zone between $2,700 and $2,740 following a brief rejection at $2,830. After breaking above this multi-week resistance last week, ETH surged into higher territory before pulling back in the last few sessions. Despite this retrace, the price has so far maintained support above the previous resistance area, now acting as a strong demand zone. This range\u2014highlighted by the yellow box on the chart\u2014served as a ceiling for nearly a month before being flipped into support during the breakout. Ethereum is now consolidating right above this area, and as long as it remains above the 50 and 100 simple moving averages (SMAs), the bullish structure is intact. Volume has started to cool off slightly, suggesting that traders are waiting for a decisive move\u2014either a bounce toward $2,800\u2013$2,900 or a breakdown back below $2,700. Related Reading: Ethereum Still Rangebound Below $2,735 Level \u2013 No Clear Breakout Yet A successful hold of this support zone could confirm the retest and build momentum for another breakout attempt. However, failure to hold $2,700 could see ETH revisit the 200 SMA around $2,570. For now, Ethereum remains technically strong, but traders are watching closely for confirmation. Featured image from Dall-E, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "SEC Adds Dogecoin, Hedera ETFs to Growing List of Delayed Decisions",
+      "link": "https://decrypt.co/324998/sec-dogecoin-hedera-etfs-growing-list-delayed-decisions",
+      "summary": "The SEC has delayed decisions on crypto ETF proposals, including Dogecoin and HBAR, while seeking further public input."
+    },
+    {
+      "title": "Big Brains, Tiny Models: Spain\u2019s Multiverse Computing Bags $215M to Shrink AI for Smartphones",
+      "link": "https://decrypt.co/324914/spains-multiverse-bags-215m-shrink-ai-smartphones",
+      "summary": "Multiverse Computing claims its quantum-inspired compression tech can get large AI models like Llama-2 to fit on a smartphone."
+    },
+    {
       "title": "Bitcoin Dips as Israel Launches Airstrikes on Iran",
       "link": "https://decrypt.co/324979/bitcoin-drops-israel-launches-airstrikes-iran",
       "summary": "Bitcoin fell sharply late Thursday after Israel launched strikes on Iran, rattling global markets and sparking a flight from risk assets."
@@ -149,19 +159,14 @@
       "title": "'Attack of the Clones': Coinbase Raises Alarm on Risks With Bitcoin Treasury Model",
       "link": "https://decrypt.co/324934/attack-clones-coinbase-risks-bitcoin-treasury-model",
       "summary": "A Coinbase analyst warned that the trend of publicly traded companies whipping up Bitcoin treasuries could trigger \u201csystemic risks\u201d for all of crypto."
-    },
-    {
-      "title": "Ethereum Treasury Company SharpLink Gaming Plunges 70% Amid SEC Filing Confusion",
-      "link": "https://decrypt.co/324932/ethereum-treasury-company-sharplink-gaming-plunges-70-sec-confusion",
-      "summary": "Following a recent surge fueled by its embrace of Ethereum, SharpLink Gaming's stock price plummeted late Thursday."
-    },
-    {
-      "title": "Shopify to Roll Out USDC Stablecoin Payments on Base in Coinbase Team-Up",
-      "link": "https://decrypt.co/324930/shopify-roll-out-usdc-stablecoin-payments-on-base-coinbase-team-up",
-      "summary": "Customers buying from Shopify merchants will be able to use the USDC stablecoin thanks to a collaboration with Coinbase and Stripe."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Bitcoin slides, gold spikes after Israel strikes Iran, Israeli PM warns campaign will last as many days as needed",
+      "link": "https://cryptobriefing.com/crypto-market-volatility-israel-iran/",
+      "summary": "<p>Geopolitical tensions may drive investors to traditional safe-haven assets, impacting cryptocurrency markets and regional economic stability.</p> <p>"
+    },
     {
       "title": "$USD1 stablecoin begins minting on TRON",
       "link": "https://cryptobriefing.com/usd1-stablecoin-minting-on-tron/",
@@ -181,14 +186,19 @@
       "title": "BlackRock targets to become world\u2019s largest crypto asset manager by 2030",
       "link": "https://cryptobriefing.com/blackrock-crypto-asset-management/",
       "summary": "<p>BlackRock's crypto ambitions could reshape global financial markets, influencing regulatory landscapes and accelerating digital asset adoption.</p> <p>"
-    },
-    {
-      "title": "Why is Bitcoin down today? US-China trade deal fails to impress, Israel-Iran conflict threat rises",
-      "link": "https://cryptobriefing.com/bitcoin-down-us-china-trade-tensions/",
-      "summary": "<p>Geopolitical tensions and unimpressive trade deals highlight Bitcoin's vulnerability to global instability, affecting its market resilience.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Chainlink eyes $14.25 support as LINK fights on 2 fronts",
+      "link": "https://ambcrypto.com/chainlink-eyes-14-25-support-as-link-fights-on-2-fronts/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-12T161233.694_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />LINK rallies, then stumbles...Are bears preparing to crush hopes of a breakout?"
+    },
+    {
+      "title": "Health tech to Bitcoin bet: H100 stock soars 45% after bold crypto move",
+      "link": "https://ambcrypto.com/health-tech-to-bitcoin-bet-h100-stock-soars-45-after-bold-crypto-move/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"929\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/H100-Stock-Soars-45.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1651\" />Is Bitcoin becoming the new backbone for innovation in the health and wellness space?"
+    },
     {
       "title": "Assessing FET\u2019s breakout \u2013 Could it hit $3.30 with $500M backing?",
       "link": "https://ambcrypto.com/assessing-fets-breakout-could-it-hit-3-30-with-500m-backing/",
@@ -203,16 +213,6 @@
       "title": "XRP faces key SEC deadline \u2013 Will prices break $2.38 or fall below\u2026",
       "link": "https://ambcrypto.com/xrp-faces-key-sec-deadline-will-prices-break-2-38-or-fall-below/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-18.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP remains rangebound with traders maintaining positions despite low volume."
-    },
-    {
-      "title": "Ethereum whales buy back at higher prices \u2013 Is it conviction or FOMO?",
-      "link": "https://ambcrypto.com/ethereum-whales-buy-back-at-higher-prices-is-it-conviction-or-fomo/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum whale purchase 16,500 ETH worth $46.4 million as 140k ETH worth $393 million leave exchanges"
-    },
-    {
-      "title": "Bitrue hacker buys Ethereum as ETH sees $393 mln outflow: Bullish signs?",
-      "link": "https://ambcrypto.com/bitrue-hacker-buys-ethereum-as-eth-sees-393-mln-outflow-bullish-signs/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-3-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Bitrue hacker's purchase of ETH, coupled with rising OI, could be signs of renewed bullishness."
     }
   ]
 }
