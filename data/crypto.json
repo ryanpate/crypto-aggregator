@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Tumbles Below $104K as Israel Strikes Iran",
+      "link": "https://www.coindesk.com/markets/2025/06/12/btc-trading-under-104k-as-israel-appears-to-strike-iran",
+      "summary": ""
+    },
+    {
+      "title": "Ethereum Treasury Firm SharpLink Gaming Plunges 70% \u2013 But There May Be a Twist",
+      "link": "https://www.coindesk.com/markets/2025/06/12/ethereum-treasury-firm-sharplink-gaming-plunges-70-but-there-may-be-a-twist",
+      "summary": ""
+    },
+    {
       "title": "Crypto Cracks Late in Day, Bitcoin Slumps Below $106K",
       "link": "https://www.coindesk.com/markets/2025/06/12/crypto-cracks-late-in-day-bitcoin-slumps-below-106k",
       "summary": ""
@@ -13,16 +23,6 @@
     {
       "title": "Shopify to Enable USDC Payments on Coinbase's Base for Merchants Worldwide",
       "link": "https://www.coindesk.com/business/2025/06/12/shopify-to-enable-usdc-payments-on-coinbase-s-base-for-merchants-worldwide",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Will Rally as U.S. Growth Improves, Crypto Bills Progress: Coinbase Research",
-      "link": "https://www.coindesk.com/markets/2025/06/12/bitcoin-will-rally-as-us-growth-improves-crypto-bills-progress-coinbase-research",
-      "summary": ""
-    },
-    {
-      "title": "DeFi Adding $5B of Solana Buying Power With New Line of Credit",
-      "link": "https://www.coindesk.com/business/2025/06/12/defi-adding-5b-of-solana-buying-power-with-new-line-of-credit",
       "summary": ""
     }
   ],
@@ -55,32 +55,42 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Bitcoin liquidity moves to non-KYC exchanges as US reserves thin",
+      "link": "https://cryptoslate.com/bitcoin-liquidity-moves-to-non-kyc-exchanges-as-us-reserves-thin/",
+      "summary": "<p>During Bitcoin&#8217;s climb to a new ATH above $111,000 in late May, a silent but measurable reshuffling has occurred in the market: more BTC is now held on offshore exchanges than on regulated platforms in the US, and volumes are steadily leaking from KYC-compliant venues. Data from CryptoQuant shows that the market embraced institutional inflows [&#8230;]</p> <p>"
+    },
+    {
+      "title": "$USD1 Stablecoin Begins Minting on TRON",
+      "link": "https://cryptoslate.com/usd1-stablecoin-begins-minting-on-tron/",
+      "summary": "<p>Geneva, Switzerland, June 12, 2025 \u2013 TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), has announced the first minting of the USD1 stablecoin on the TRON blockchain. Released by World Liberty Financial., the developer of a pioneering DeFi protocol and governance platform inspired [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Neo Pepe Coin Ultimate Guide \u2013 Community DAO Token Highlights",
+      "link": "https://cryptoslate.com/neo-pepe-coin-ultimate-guide-community-dao-token-highlights/",
+      "summary": "<p>Unveil the Secret to Decentralized Crypto with Neo Pepe Welcome to the Neo Pepe revolution, where memes meet cutting-edge cryptocurrency! Neo Pepe ($NEOP) isn\u2019t just a coin; it\u2019s a movement, a rallying cry for decentralization, and the hottest ticket in town for crypto enthusiasts (and yes, meme lovers too). Want to learn how Neo Pepe [&#8230;]</p> <p>"
+    },
+    {
+      "title": "SEC, Ripple seek to end multi-year legal dispute with amended filing",
+      "link": "https://cryptoslate.com/sec-ripple-seek-to-end-multi-year-legal-dispute-with-amended-filing/",
+      "summary": "<p>Ripple and the U.S. Securities and Exchange Commission have refiled a joint request asking a federal judge to dissolve a court-imposed injunction and approve a revised $50 million penalty settlement, aiming to conclude their years-long legal battle. According to a June 12 court filing, the SEC and Ripple asked Judge Analisa Torres of the Southern [&#8230;]</p> <p>"
+    },
+    {
       "title": "Shopify to enable USDC payments via Base across its Checkout ecosystem",
       "link": "https://cryptoslate.com/shopify-to-enable-usdc-payments-via-base-across-its-checkout-ecosystem/",
       "summary": "<p>Shopify is rolling out support for USDC payments, allowing consumers to pay with stablecoins via Shopify Payments and Shop Pay. The feature, developed in partnership with Coinbase and launching on the exchange&#8217;s Base blockchain, is available in early access starting this week and will expand to more merchants over the coming months. New payment rails [&#8230;]</p> <p>"
-    },
-    {
-      "title": "BlackRock\u2019s BUIDL nears $3B, registers 3x increase in less than 90 days",
-      "link": "https://cryptoslate.com/blackrocks-buidl-nears-3b-registers-3x-increase-in-less-than-90-days/",
-      "summary": "<p>BlackRock&#8217;s USD Institutional Digital Liquidity Fund (BUIDL) expanded by about $1 billion between March 26 and June 11, representing roughly half of the $2 billion growth of the tokenized US treasuries market in the period. According to rwa.xyz data, BUIDL&#8217;s size is $2.89 billion as of June 11. It is the largest tokenized money fund, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Andreessen Horowitz champions blockchain integration for AI ownership and innovation",
-      "link": "https://cryptoslate.com/andreessen-horowitz-champions-blockchain-integration-for-ai-ownership-and-innovation/",
-      "summary": "<p>Andreessen Horowitz\u2019s crypto arm a16z said blockchains could steer artificial intelligence toward user ownership and open standards, according to a June 11 report. The paper argued that core context and \u201cagent passports\u201d should reside in self-custodial wallets, providing any large-language-model interface with instant access to preferences without requiring repeated training. A chain-based identity layer would [&#8230;]</p> <p>"
-    },
-    {
-      "title": "World\u2019s largest financial clearinghouse DTCC eyeing stablecoin launch",
-      "link": "https://cryptoslate.com/worlds-largest-financial-clearinghouse-dtcc-eyeing-stablecoin-launch/",
-      "summary": "<p>The Depository Trust &#38; Clearing Corporation (DTCC), which handles the clearing and settlement of nearly all U.S. stock trades, is exploring the issuance of a U.S. dollar-backed stablecoin, The Information reported on June 12, citing sources familiar with the matter. According to the report, DTCC is in the early stages of evaluating whether to launch [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase to launch CFTC-cleared perpetual futures trading, Bitcoin-backed credit card for US customers",
-      "link": "https://cryptoslate.com/coinbase-to-launch-cftc-cleared-perpetual-futures-trading-bitcoin-backed-credit-card-for-us-customers/",
-      "summary": "<p>Coinbase announced a Bitcoin-backed credit card and CFTC-compliant perpetual futures for US customers. The exchange made the revelation during its annual State of Crypto Summit on June 12. Perpetual futures for US traders Max Branzburg, head of consumer and business products, said Coinbase will soon list perpetual futures contracts for domestic users under the Commodity [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Price Nosedives\u2014Profit-Taking Sparks Sudden Correction",
+      "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-nosedives-profit-taking-sparks-sudden-correction/",
+      "summary": "Bitcoin price started a fresh decline below the $105,500 zone. BTC is now consolidating and struggling to stay above the $103,200 support. Bitcoin started a fresh decline below the $106,500 and $105,500 levels. The price is trading below $106,500 and the 100 hourly Simple moving average. There is a key bearish trend line forming with resistance at $106,600 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a fresh recovery wave if it clears the $105,500 resistance zone. Bitcoin Price Dips Sharply Bitcoin price started a fresh decline after it failed to clear the $110,500 resistance zone. BTC declined below the $107,500 and $106,500 support levels. The price even dipped below the $104,200 support level. Finally, it tested the $103,000 zone. A low was formed at $103,078 and the price is now consolidating losses below the 23.6% Fib level of the recent decline from the $110,273 swing high to the $103,078 low. Bitcoin is now trading below $105,500 and the 100 hourly Simple moving average. There is also a key bearish trend line forming with resistance at $106,600 on the hourly chart of the BTC/USD pair. On the upside, immediate resistance is near the $104,200 level. The first key resistance is near the $105,500 level. The next key resistance could be $106,600 and the 50% Fib retracement level of the recent decline from the $110,273 swing high to the $103,078 low. A close above the $106,600 resistance might send the price further higher. In the stated case, the price could rise and test the $108,000 resistance level. Any more gains might send the price toward the $110,000 level. More Losses In BTC? If Bitcoin fails to rise above the $105,500 resistance zone, it could start another decline. Immediate support is near the $103,000 level. The first major support is near the $102,350 level. The next support is now near the $101,500 zone. Any more losses might send the price toward the $100,500 support in the near term. The main support sits at $100,000, below which BTC might gain bearish momentum. Technical indicators: Hourly MACD \u2013 The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BTC/USD is now below the 50 level. Major Support Levels \u2013 $103,000, followed by $102,350. Major Resistance Levels \u2013 $104,200 and $105,500."
+    },
+    {
+      "title": "UNI Flashes Strength After Breaking Past Key Resistance Levels, What\u2019s Next?",
+      "link": "https://www.newsbtc.com/analysis/uni/uni-flashes-upside-strength/",
+      "summary": "In a recent update shared by Crypto Man MAB on X, UNI\u2019s price action has taken a bullish turn. The token is currently trading at $8.403, up 1.82% (+$0.150), and has managed to break past the previous resistance range of $ 7.50\u2013$ 8.00. This upward movement signals growing buying interest, and that momentum could be building for a stronger push ahead. Key Support And Resistance Levels Define UNI\u2019s Next Move In his analysis, Crypto Man MAB highlighted UNI&#8217;s evolving price structure, pointing to key support and resistance levels. The immediate support is seen around $7.103, which marks the 24-hour low. If UNI pulls back further, stronger support may be found near $6.500, a level that has previously attracted buying interest and could act as a safety net for bulls. Related Reading: Uniswap (UNI) Blastoff At Hand? The Sleeping Giant Awakens At $4.6 Support On the upside, resistance stands near $8.677, the recent 24-hour high. This zone is currently capping the rally, but if buying momentum persists, UNI could target the $9.0 mark next. While this level presents a psychological barrier, it also aligns with short-term bullish projections, adding more weight to its significance. In terms of market activity, Crypto Man MAB noted a notable increase in trading volume, which aligns with UNI\u2019s recent price surge. This volume spike suggests that buyers are stepping in with strong conviction, reinforcing the strength behind the upward movement. A sustained high volume typically validates price action, which supports the argument for a potential rally continuation, provided the momentum holds and no major resistance halts the trend. Breakout Signals Strength, But Long-Term Caution Lingers According to the analyst, the UNI chart shows a shift from a period of consolidation into a noticeable upward breakout. The recent dominance of green candlesticks points to growing bullish moves and renewed buying pressure in the short term. Related Reading: Uniswap Stays On Course For More Gains \u2013 $12.3 Resistance In Sight However, the longer-term trend suggests a more cautious outlook. Over the last 180 days, UNI has declined by 53.31%, and its one-year performance shows a decrease of 18.98%, indicating that the asset has been in an overall downtrend despite recent gains. Presently, the Simple Moving Average (SMA) is demonstrating increased trading activity, which aligns with the positive price movement and supports the current bullish sentiment. This rise in volume may strengthen the case for a possible continuation of the ongoing upward trend, but traders should remain alert to any shifts in momentum. In conclusion, Crypto Man MAB noted that UNI is showing short-term upward strength, but the broader trend remains uncertain. However, a clear breakout above the $8.677 resistance level would be a strong signal for continued upside. Featured image from Medium, chart from Tradingview.com"
+    },
     {
       "title": "Altcoin Season Just Flashed A Golden Cross Amid Crypto Market Recovery",
       "link": "https://www.newsbtc.com/altcoin/altcoin-season-golden-cross/",
@@ -95,16 +105,6 @@
       "title": "Ethereum Repeats History \u2013 Key Support Holds Again Ahead Of Potential Rally",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeats-history-key-support-holds-again-ahead-of-potential-rally/",
       "summary": "Ethereum is at a critical juncture after breaking above key resistance but failing to sustain momentum toward the psychological $3,000 level. The recent surge brought optimism to the market, yet ETH has now pulled back slightly, struggling to extend gains as global uncertainty weighs on sentiment. With macro pressures mounting and negotiations between the US and China over a potential trade deal in focus, the broader market appears to be awaiting clarity before making its next decisive move. Related Reading: Solana Forms Higher Low: Charging Toward Range Highs? Top analyst Rekt Capital offered historical context to Ethereum\u2019s current setup, pointing to two previous cycles where ETH successfully retested the $2,500 level before launching toward $4,000. In August 2021 and again in early 2024, ETH held $2,500 as strong support (green circles), acting as the foundation for a major breakout rally. This repeating pattern has investors now eyeing the same level with growing interest. As Ethereum trades near $2,750\u2013$2,800, the coming days could determine whether this current setup mirrors past bullish cycles\u2014or if momentum fades again. With strong support beneath and a clear historical roadmap above, ETH\u2019s ability to reclaim strength could trigger the next leg in what many believe may be the start of altseason. Ethereum Echoes Past Patterns Ahead Of Potential Breakout Ethereum has rallied over 100% since its April lows, showcasing powerful momentum and heightened activity at current levels. After briefly tapping a local high near $2,830, ETH has retraced slightly but remains firmly above the $2,750 mark\u2014a key area that now acts as short-term support. The strength of this rebound is fueling growing speculation that Ethereum may not only be preparing for another leg up but also setting the tone for a broader altseason. Analysts across the board are closely watching ETH\u2019s current consolidation, with many citing historical patterns as a reason for optimism. Notably, Rekt Capital highlighted a recurring pattern that has previously led to significant rallies. In August 2021, Ethereum successfully retested the $2,500 level as support before surging to approximately $4,000. The same thing occurred in early 2024, when ETH once again bounced from $2,500 and rallied to the same zone. Now, for the past five weeks, Ethereum has repeatedly confirmed the $2,500 level as solid support, forming what appears to be a textbook foundation for another major move. This accumulation phase\u2014mirroring past cycles\u2014has many traders confident that ETH could soon reclaim $3,000 and begin leading altcoins higher. With macro conditions still uncertain and market participants looking for signals of strength, Ethereum\u2019s behavior at these levels carries added significance. If ETH can maintain its position above $2,750 and build momentum through $2,830, the market could see an explosive shift in sentiment, potentially triggering the next phase of the bull cycle. For now, all eyes remain on Ethereum as it tests the top of its multi-week range with bullish conviction. Related Reading: Ethereum Price Tests Ascending Channel Resistance \u2013 Breakout Or Breakdown? ETH Holds Above Breakout Zone After $2,830 Rejection Ethereum is currently trading at $2,749 on the 4-hour chart, holding above a key breakout zone between $2,700 and $2,740 following a brief rejection at $2,830. After breaking above this multi-week resistance last week, ETH surged into higher territory before pulling back in the last few sessions. Despite this retrace, the price has so far maintained support above the previous resistance area, now acting as a strong demand zone. This range\u2014highlighted by the yellow box on the chart\u2014served as a ceiling for nearly a month before being flipped into support during the breakout. Ethereum is now consolidating right above this area, and as long as it remains above the 50 and 100 simple moving averages (SMAs), the bullish structure is intact. Volume has started to cool off slightly, suggesting that traders are waiting for a decisive move\u2014either a bounce toward $2,800\u2013$2,900 or a breakdown back below $2,700. Related Reading: Ethereum Still Rangebound Below $2,735 Level \u2013 No Clear Breakout Yet A successful hold of this support zone could confirm the retest and build momentum for another breakout attempt. However, failure to hold $2,700 could see ETH revisit the 200 SMA around $2,570. For now, Ethereum remains technically strong, but traders are watching closely for confirmation. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "Crypto Expert Puts Ethereum Price At $19,500 With Head And Shoulders Emergence",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-19500-with-hs-pattern/",
-      "summary": "Ethereum reclaimed a significant technical level in the latest 24-hour trading session, with its price crossing above the $2,800 mark and briefly touching $2,870. This interesting cross makes it the first time since February 2025 that Ethereum has traded above the $2,800 threshold. The move comes amid rising bullish momentum flowing out from Bitcoin, and according to recent analysis from a crypto expert, this could be just the beginning of a much larger rally for Ethereum. Technical Pattern Says Ethereum Could Be Close To $20,000 An interesting technical formation on Ethereum has now caught the attention of some traders: a classic inverse Head and Shoulders bottom. According to crypto expert Gert van Lagen, who shared his analysis on the social media platform X, this inverse head and shoulders is setting up on a long-term timeframe. Related Reading: Ethereum Price Eyes 38% Jump To $3,500 As 50EMA Swims Into View Specifically, Ethereum&#8217;s two-week candlestick chart, shared by the analyst, reveals a fully formed structure with a left shoulder in mid-2021, a pronounced head that took shape during the bear market in late 2022 to early 2023, and a right shoulder forming throughout the 2024 correction into early 2025. The left shoulder emerged in mid-2021, when Ethereum\u2019s price peaked around $4,870, then retraced into the year-end. The head was formed at the lows around $1,350 in 2022 and 2023. The right shoulder is currently in formation after the Ethereum price rebounded from roughly $1,600 in 2025. Finally, this pattern is also highlighted by a symmetry around the neckline drawn near the $4,200 price region. Keeping this in mind, the neckline of the pattern, which is anchored just below the $4,200 resistance level, is now the most important level to break above. A confirmed breakout above this zone could activate the full bullish target projected by the technical formation. ETH Price Close To $20,000 According to Gert van Lagen, the two-week head-and-shoulders pattern suggests Ethereum may be \u201ccloser to $20K than most anticipate.\u201d His price target calculation follows a classic technical methodology. By measuring the vertical distance from the head\u2019s lowest point to the neckline resistance and then projecting that same distance upward from the neckline, he arrives at a target of approximately $19,500, which is more than a 600% gain from today\u2019s price levels. Related Reading: Pundit Says Do Not Ignore Ethereum Amid New All-Time Highs In Major Metric In the same analysis, van Lagen also highlighted a descending broadening wedge pattern that has been forming since mid-2023. This secondary structure reinforces the notion that Ethereum may embark on a significantly larger breakout once $4,200 is cleared. However, this projection of $19,500 is based on the technical symmetry of the inverse head and shoulders pattern, rather than fundamental shifts in Ethereum. Additionally, there is no clear timeline for this target; however, based on the multi-year nature of the inverse head and shoulders pattern, the price target may also take up to four years to materialize. At the time of writing, Ethereum is trading at $2,772, having retraced slightly from $2,870. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Solana-Linked $1 Billion DeFi Dream Crushed By SEC Intervention",
-      "link": "https://www.newsbtc.com/altcoin/solana-linked-1-billion-defi-dream-crushed-by-sec-intervention/",
-      "summary": "DeFi Development Corp. hit a major roadblock this week when the US Securities and Exchange Commission blocked its $1 billion registration filing. The move came after regulators found that the company\u2019s Form S-3 lacked a key internal controls report tied to its 10-K. As a result, DeFi Development\u2014formerly known as Janover\u2014pulled the filing and said it will fix the paperwork before trying again. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Missing Controls Report According to the SEC, the registration was ineligible because it did not include the required internal controls over financial reporting. That report is a must for any firm raising capital through public offerings. Without it, the commission won\u2019t even consider your request. DeFi Development filed in late April 2025 but overlooked this step, a basic requirement in US securities law. DeFi Development (formerly Janover) has withdrawn its $1 billion Form S-3 registration after the SEC deemed it ineligible due to missing a required internal controls report in its Form 10-K. No securities were issued, and part of the proceeds had been intended for purchasing\u2026 \u2014 Wu Blockchain (@WuBlockchain) June 11, 2025 Plan To Buy Solana Based on reports, the company aimed to use the funds to buy Solana tokens. Solana ranks as the sixth-largest cryptocurrency by market cap. The filing showed some of the $1 billion would go toward staking rewards and token purchases. Staking can earn regular returns, but only if SOL holds or gains value. Putting such a large stake into one chain carries risks if market prices dip. Withdrawal And Next Steps DeFi Development confirmed that no securities were issued during this process. It said it plans to refile once the controls report is in place. A quick resubmission\u2014perhaps within 30 or 45 days\u2014would signal they were almost ready. Investors will watch whether the company brings in an experienced underwriter or auditor to prevent another slip. Related Reading: TRX Price Up As Tron Rolls Out The Red Carpet For Trump-Backed Stablecoin Market Reaction Some traders had hoped the influx of a billion dollars in Solana tokens would boost the price. Now that the filing is on hold, those bets may stall. Markets often react when big purchases are delayed. Based on trading patterns, any sudden buy order of hundreds of millions in SOL could swing prices up or down. What Comes Next DeFi Development\u2019s experience highlights that crypto firms must meet the same rules as any other public issuer. Skipping standard checks can derail even the boldest plans. The company\u2019s next move will show how well it can balance its blockchain ambitions with straightforward regulatory steps. For now, the token-buy plan waits in limbo, and everyone from investors to developers will be watching the next filing. Featured image from Reuters, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin Dips as Israel Launches Airstrikes on Iran",
+      "link": "https://decrypt.co/324979/bitcoin-drops-israel-launches-airstrikes-iran",
+      "summary": "Bitcoin fell sharply late Thursday after Israel launched strikes on Iran, rattling global markets and sparking a flight from risk assets."
+    },
+    {
+      "title": "Billionaire Investor Calls No-Interest Stablecoins \u2018Outrageous\u2019 as Key US Bill Advances",
+      "link": "https://decrypt.co/324929/billionaire-investor-non-yielding-stablecoins-us-bill-advances",
+      "summary": "Billionaire investor Philippe Laffont called non-yielding stablecoins \u201coutrageous,\u201d as U.S. lawmakers move to ban interest-bearing tokens."
+    },
+    {
+      "title": "'Attack of the Clones': Coinbase Raises Alarm on Risks With Bitcoin Treasury Model",
+      "link": "https://decrypt.co/324934/attack-clones-coinbase-risks-bitcoin-treasury-model",
+      "summary": "A Coinbase analyst warned that the trend of publicly traded companies whipping up Bitcoin treasuries could trigger \u201csystemic risks\u201d for all of crypto."
+    },
+    {
       "title": "Ethereum Treasury Company SharpLink Gaming Plunges 70% Amid SEC Filing Confusion",
       "link": "https://decrypt.co/324932/ethereum-treasury-company-sharplink-gaming-plunges-70-sec-confusion",
       "summary": "Following a recent surge fueled by its embrace of Ethereum, SharpLink Gaming's stock price plummeted late Thursday."
@@ -144,24 +159,14 @@
       "title": "Shopify to Roll Out USDC Stablecoin Payments on Base in Coinbase Team-Up",
       "link": "https://decrypt.co/324930/shopify-roll-out-usdc-stablecoin-payments-on-base-coinbase-team-up",
       "summary": "Customers buying from Shopify merchants will be able to use the USDC stablecoin thanks to a collaboration with Coinbase and Stripe."
-    },
-    {
-      "title": "Another Public Company Goes Hard on XRP With $500 Million Treasury Plan",
-      "link": "https://decrypt.co/324927/public-company-goes-hard-xrp-with-500-million-treasury",
-      "summary": "Singapore-based Trident is bucking the Bitcoin reserve trend, instead embracing the Ripple-linked XRP for its treasury."
-    },
-    {
-      "title": "Crypto Longs Get Rekt as Bitcoin, Ethereum and Dogecoin Dive",
-      "link": "https://decrypt.co/324931/crypto-longs-get-rekt-bitcoin-ethereum-dogecoin-dive",
-      "summary": "Long position liquidations are rapidly piling up as Bitcoin, Ethereum, Dogecoin, and Solana losses accelerate Thursday."
-    },
-    {
-      "title": "'FIFA Rivals' Launches\u2014Why Mythical Games Thinks It'll Hit Bigger Than 'NFL Rivals'",
-      "link": "https://decrypt.co/324868/fifa-rivals-launches-why-mythical-games-hit-bigger-nfl",
-      "summary": "Mobile soccer game FIFA Rivals launched on Thursday, pairing the \"beautiful game\" with blockchain on iOS and Android."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "$USD1 stablecoin begins minting on TRON",
+      "link": "https://cryptobriefing.com/usd1-stablecoin-minting-on-tron/",
+      "summary": "<p>The minting of USD1 on TRON could enhance institutional trust and adoption, bolstering TRON's position in the global blockchain market.</p> <p>"
+    },
     {
       "title": "Trump says Fed can raise rates if inflation returns, but warns Powell will be \u201ctoo late for that too\u201d",
       "link": "https://cryptobriefing.com/trump-fed-interest-rates-inflation/",
@@ -181,14 +186,24 @@
       "title": "Why is Bitcoin down today? US-China trade deal fails to impress, Israel-Iran conflict threat rises",
       "link": "https://cryptobriefing.com/bitcoin-down-us-china-trade-tensions/",
       "summary": "<p>Geopolitical tensions and unimpressive trade deals highlight Bitcoin's vulnerability to global instability, affecting its market resilience.</p> <p>"
-    },
-    {
-      "title": "Fintech giant Stripe to acquire crypto wallet provider Privy following $1.1B stablecoin deal",
-      "link": "https://cryptobriefing.com/stripe-acquires-privy-enhancing-services/",
-      "summary": "<p>Stripe's acquisition of Privy signals a significant step towards enhancing global digital financial infrastructure and streamlining crypto adoption.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Assessing FET\u2019s breakout \u2013 Could it hit $3.30 with $500M backing?",
+      "link": "https://ambcrypto.com/assessing-fets-breakout-could-it-hit-3-30-with-500m-backing/",
+      "summary": "<img alt=\"FET\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-99-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FET gains strength as institutions buy, supply drops, and network activity rises."
+    },
+    {
+      "title": "Altcoin season could be near: Why June can see a 2021-style rally",
+      "link": "https://ambcrypto.com/altcoin-season-could-be-near-why-june-can-see-a-2021-style-rally/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250612_135631_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Altcoin season may start soon, with a few tokens already benefiting from the hype alone."
+    },
+    {
+      "title": "XRP faces key SEC deadline \u2013 Will prices break $2.38 or fall below\u2026",
+      "link": "https://ambcrypto.com/xrp-faces-key-sec-deadline-will-prices-break-2-38-or-fall-below/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-18.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP remains rangebound with traders maintaining positions despite low volume."
+    },
     {
       "title": "Ethereum whales buy back at higher prices \u2013 Is it conviction or FOMO?",
       "link": "https://ambcrypto.com/ethereum-whales-buy-back-at-higher-prices-is-it-conviction-or-fomo/",
@@ -198,21 +213,6 @@
       "title": "Bitrue hacker buys Ethereum as ETH sees $393 mln outflow: Bullish signs?",
       "link": "https://ambcrypto.com/bitrue-hacker-buys-ethereum-as-eth-sees-393-mln-outflow-bullish-signs/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-3-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Bitrue hacker's purchase of ETH, coupled with rising OI, could be signs of renewed bullishness."
-    },
-    {
-      "title": "BTC on the brink: Vanishing supply signals volatility storm",
-      "link": "https://ambcrypto.com/btc-on-the-brink-vanishing-supply-signals-volatility-storm/",
-      "summary": "<img alt=\"Bitcoin supply\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-supply-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will the global liquidity surge and BTC's 30% supply decline trigger an explosive run?"
-    },
-    {
-      "title": "Raydium drops 10% in 24 hours as shorts take the lead: More losses ahead?",
-      "link": "https://ambcrypto.com/raydium-drops-10-in-24-hours-as-shorts-take-the-lead-more-losses-ahead/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250612_111510_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />RAY\u2019s ongoing downtrend shows clear signs of deepening in the near term."
-    },
-    {
-      "title": "Shiba Inu: THESE are SHIB\u2019s key levels after 103K% spike in burn rate",
-      "link": "https://ambcrypto.com/shiba-inu-these-are-shibs-key-levels-after-103k-spike-in-burn-rate/",
-      "summary": "<img alt=\"SHIB\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-12T152222.519-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB burn spikes and whale accumulation hint at a breakout above descending channel resistance."
     }
   ]
 }
