@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "TON Down 8% After Israeli Strikes Against Iran",
+      "link": "https://www.coindesk.com/markets/2025/06/13/ton-down-8-after-israeli-strikes-against-iran",
+      "summary": ""
+    },
+    {
+      "title": "Brazilian Firm Meliuz's Shares Fall After Planning to Raise $32.4M to Buy Bitcoin",
+      "link": "https://www.coindesk.com/markets/2025/06/13/brazilian-firm-meliuzs-shares-fall-after-planning-to-raise-324m-to-buy-bitcoin",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Miners Just Had One of Their Best Quarters on Record, JPMorgan Says",
+      "link": "https://www.coindesk.com/markets/2025/06/13/bitcoin-miners-just-had-one-of-their-best-quarters-on-record-jpmorgan-says",
+      "summary": ""
+    },
+    {
       "title": "CoinDesk 20 Performance Update: Bitcoin Price (BTC) Falls 2.2% as All Assets Decline",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/13/coindesk-20-performance-update-bitcoin-price-btc-falls-2-2-as-all-assets-decline",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Bitcoin Miner Price Targets Raised to Reflect Improved Industry Economics: JPMorgan",
       "link": "https://www.coindesk.com/markets/2025/06/13/bitcoin-miner-price-targets-raised-to-reflect-improved-industry-economics-jpmorgan",
       "summary": ""
-    },
-    {
-      "title": "Cardano's Charles Hoskinson Suggests Swapping $100M of ADA for Bitcoin, Stablecoins",
-      "link": "https://www.coindesk.com/business/2025/06/13/cardano-s-charles-hoskinson-proposes-selling-usd100m-of-ada-to-kickstart-defi",
-      "summary": ""
-    },
-    {
-      "title": "Tencent Is Looking to Buy Nexon, the Creator of Web 3 Gaming Franchise MapleStory",
-      "link": "https://www.coindesk.com/web3/2025/06/13/tencent-is-looking-to-buy-nexon-the-creator-of-web-3-gaming-franchise-maplestory",
-      "summary": ""
-    },
-    {
-      "title": "Ether Plunges 7% as Traders Flee to Dollar and Gold After Israel Strikes Iran",
-      "link": "https://www.coindesk.com/markets/2025/06/13/ether-drops-below-usd2-550-as-israel-iran-escalation-sparks-flight-to-safety",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "ETF filings explode in 2025, heating hopes of an \u2018altcoin summer\u2019",
+      "link": "https://cointelegraph.com/news/etf-filings-2025-altcoin-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2UxM2EtYTIzNS03MmJmLTg1ODUtNWZlMjlkZjM3NzU0.jpg\" /></p><p>This year has seen an uptick in the number of altcoin ETF applications, with at least 31 filed in the first half of 2025, Research found.</p>"
+    },
+    {
+      "title": "Blockchain is the missing trust layer in sports analytics",
+      "link": "https://cointelegraph.com/news/blockchain-sports-analytics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5NWYtMjAzNS03MThiLThmZGQtOGM4MzVjMGM2YTEy.jpg\" /></p><p>Blockchain can reshape sports analytics as a secure, open and verifiable source of truth for performance data. From elite leagues to fantasy sports, blockchain breaks down data silos, ensures real-time accuracy and embeds trust in the sports ecosystem.</p>"
+    },
+    {
+      "title": "How a YouTuber hacked an $800K crypto scam hub in Cebu, Philippines",
+      "link": "https://cointelegraph.com/explained/how-a-youtuber-hacked-an-800k-crypto-scam-hub-in-cebu-philippines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xY2RhODA2ZDZlNjA4NmRiYWFiZWFkMDBiMmRkNTUzZi5qcGc=.jpg\" /></p><p>A YouTuber exposed an $800,000 crypto scam in Cebu by hacking CCTV, confronting scammers live and revealing their global fraud operation.</p>"
+    },
     {
       "title": "SharpLink buys $463M in ETH, becomes largest public ETH holder",
       "link": "https://cointelegraph.com/news/sharplink-largest-public-eth-holder-463m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "How to use Grok for real-time crypto trading signals",
-      "link": "https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVhZGMtNWZlYy03YzZjLWJkMmYtNGFkMzZiNTUwMzE1.jpg\" /></p><p>Grok scans posts and sentiment shifts on X to help crypto traders identify early signals, memes and macro-driven momentum plays.</p>"
-    },
-    {
-      "title": "BlackRock quietly accumulated 3% of all Bitcoin. Here\u2019s what that means",
-      "link": "https://cointelegraph.com/explained/blackrock-quietly-accumulated-3-of-all-bitcoin-heres-what-that-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YzIyOGRiMjRlNGJjMDdjZWE0ZTU1ZDMwOGNhN2M5Zi5qcGc=.jpg\" /></p><p>How Much Bitcoin Does BlackRock Own and Why It Matters in 2025.</p>"
-    },
-    {
-      "title": "Bitcoin mirrors 80% rally setup that preceded 2024 Israel-Iran conflict",
-      "link": "https://cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4Y2QtNmJkNy03MmZkLTg0YTUtY2Y3MDAzYTZjNjk5.jpg\" /></p><p>One analyst spots a bullish fractal driven by 2024-like liquidity grabs, hinting that Bitcoin may breakout toward new all-time highs.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Walmart & Amazon eye $14B in savings by launching corporate stablecoin",
+      "link": "https://cryptoslate.com/walmart-amazon-eye-14b-in-savings-by-launching-corporate-stablecoin-as-us-genius-legislation-nears/",
+      "summary": "<p>Walmart and Amazon are preparing to launch their own stablecoins as the U.S. Senate advances landmark legislation that would establish a federal regulatory framework for privately issued digital dollars for the first time. The legislation, known as the GENIUS Act (S.394), has passed committee and cleared cloture, with a final Senate vote scheduled for June [&#8230;]</p> <p>"
+    },
     {
       "title": "Israel-Iran tensions trigger over $7 million crypto betting volume spree on Polymarket",
       "link": "https://cryptoslate.com/israel-iran-tensions-trigger-over-7-million-crypto-betting-volume-spree-on-polymarket/",
@@ -73,14 +78,14 @@
       "title": "Cardano considers offloading $100M ADA to jumpstart lagging DeFi and stablecoin ecosystem",
       "link": "https://cryptoslate.com/cardano-considers-offloading-100m-in-ada-to-jumpstart-lagging-defi-and-stablecoin-ecosystem/",
       "summary": "<p>The Cardano ecosystem could soon undergo a strategic treasury shift to energize its DeFi and stablecoin sectors. On June 13, the network founder Charles Hoskinson suggested allocating around $100 million worth of ADA from the network&#8217;s treasury towards a mix of stablecoins and Bitcoin. According to him: &#8220;[W]e take about a hundred million worth of ADA [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SEC pulls back from crypto rules proposed under Gary Gensler administration",
-      "link": "https://cryptoslate.com/sec-pulls-back-from-crypto-rules-proposed-under-gary-gensler-administration/",
-      "summary": "<p>The US Securities and Exchange Commission (SEC) is rolling back 14 proposed rules, including key measures that once targeted the crypto industry. The decision, announced on June 12, illustrates the shift in regulatory priorities as the agency distances itself from the aggressive stance adopted during the previous administration. The withdrawn proposals were introduced between March [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin At $1 Million? CEO Says It\u2019s The Price To Beat Gold",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-at-1-million-novogratz-says-its-the-price-to-beat-gold/",
+      "summary": "According to CNBC\u2019s Power Lunch, Galaxy Digital CEO Mike Novogratz thinks Bitcoin could climb all the way to $1 million per coin if big institutions keep piling in. The cryptocurrency hit a weekly peak of $110,290 on Tuesday. It slipped 4.5% to $104,300 by Thursday, but it\u2019s still climbed 1.75% over the past seven days. Novogratz says this isn\u2019t just hype. He points to firms moving cash from dollars and gold into crypto. Related Reading: BTC Is Just 0.2% Of Global Wealth \u2014 And That\u2019s Why It\u2019s Not Too Late: Analyst Institutional Moves Up Demand BlackRock\u2019s iShares Bitcoin Trust (IBIT) went live in January 2024 after SEC approval. Based on reports, that fund now gives big investors a straightforward path to own Bitcoin without buying coins directly. BlackRock manages about $11.6 trillion in assets. When a player that size steps in, others notice. Novogratz says wealth managers and pension funds have started treating Bitcoin like a macro asset, on par with gold and the S&#38;P 500. Growing Corporate Interest Treasury companies are adding Bitcoin to their balance sheets. Sovereign wealth funds have begun to follow suit. Retail investors keep buying, too, thanks to easier trading apps and ETFs like IBIT. A handful of public companies have raised millions to buy Bitcoin outright. Related Reading: TRX Price Up As Tron Rolls Out The Red Carpet For Trump-Backed Stablecoin According to filings, Metaplanet, the Blockchain Group, GameStop, and US President Donald Trump\u2019s Media arm all announced major purchases this year. Their moves chip away at the 21 million-coin supply, making each remaining Bitcoin scarcer. Bitcoin Versus Gold Bitcoin\u2019s 21 million supply cap is hard-wired into its code. Gold, by comparison, has a market worth north of $12 trillion and sees about 1\u20132% new supply each year through mining. Novogratz argues that younger investors will choose a capped digital asset over a metal bar. That switch isn\u2019t guaranteed, but once people see Bitcoin as a store of value, its appeal could grow. At today\u2019s $2 trillion market cap, Bitcoin has room to expand many times over if it ever rivals gold. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Challenges Ahead Regulators remain a wildcard. The SEC green-lit IBIT, but future rules on taxes or derivatives could slow things down. Bitcoin\u2019s price swings make it riskier than bonds or gold. Institutions often chase stable returns, and Bitcoin pays no dividends or interest. Finally, moving another $10 trillion into crypto would need a massive shift in asset allocations. That kind of inflow isn\u2019t impossible, but it won\u2019t happen overnight. Based on reports, Novogratz sees Bitcoin\u2019s march toward gold\u2019s market cap as a \u201cball rolling down a hill.\u201d He predicts that, over time, Bitcoin will match gold and then outpace it. Featured image from Imagen, chart from TradingView"
+    },
     {
       "title": "Daily Timeframe Says XRP Price Is On The Verge Of Breakout",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-on-the-verge-of-breakout/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Price Crashes Below $103,000\u2014What Triggered It?",
       "link": "https://www.newsbtc.com/news/bitcoin-price-crashes-below-103000/",
       "summary": "After hitting $110,450 on Monday, the Bitcoin price is writing its third consecutive red day as the benchmark cryptocurrency fell 5.3% from an intra-day top of $108,450 to a trough of $102,664 before clawing back to about $104,456 by press time. The sell-off coincided, almost minute-for-minute, with confirmation that Israel had conducted large-scale air-strikes on Iranian nuclear installations, sending ripples through every major asset class. Why Is Bitcoin Going Down Today? Israel\u2019s pre-dawn operation \u2014 its first overt attack on Iranian territory since the October-2024 raids \u2014 instantly repriced global risk. Oil futures jumped more than 10%, spot gold printed a fresh record high above $3,400 an ounce, and US equity futures slid roughly 1.5%. Bitcoin\u2019s draw-down resembled its initial reaction to Iran\u2019s failed missile barrage on Israel in April. Related Reading: Bitcoin Nears All-Time High as Whale Behavior Suggests Further Upside \u201cOil up. Gold up. Bitcoin down,\u201d Anthony Pompliano wrote on X, noting that the pattern echoes April\u2019s missile incident, after which \u201cBitcoin ended up outperforming the other two over the first 48 hours.\u201d Bitcoin educator Peter Duan argued in a separate post that \u201ca dip in Bitcoin happens every time there is serious geopolitical [turmoil] \u2026 In the long run, this will only push more people to Bitcoin,\u201d pointing to the 24/7 nature of crypto trading versus the still-closed equity cash markets. Macro strategist Joe Consorti drilled down on the mechanics: \u201cBitcoin, S&#38;P and NDX are all being panic-sold. Crude oil, natural gas, gold and US Treasuries are all spiking higher. The flight to safety trade is here.\u201d A fresh surge in crude is precisely what US policymakers did not need. West Texas Intermediate vaulted past $77 a barrel\u2014its first visit to that level in four months\u2014after Israel struck Iranian nuclear facilities, erasing much of the hard-won disinflation dividend and dragging energy back to centre stage. The contract is now more than $21 above its April trough, threatening to unwind the benign price trends that had been taking hold. This comes after US inflation data once again surprised to the upside this week. May\u2019s Consumer Price Index rose just 0.1% on the month and 2.4% year-over-year, while core CPI matched that modest 0.1% gain and held at 2.8% on an annual basis. Producer prices told a similar tale on Thursday, with the headline PPI up only 0.1% month-over-month and 2.6% on the year, both below consensus expectations. Related Reading: Bitcoin Is Wildly Undervalued, Says Bitwise: \u2018Fair Price\u2019 Today Is $230,000 Lower fuel costs had been a cornerstone of President Trump\u2019s strategy for reining in inflation; the renewed march higher in oil now threatens that narrative. If energy continues to climb, markets will anticipate a rebound in headline inflation and the Federal Reserve may feel compelled to postpone the rate-cut cycle traders had pencilled in for September. Bitcoin, which is acutely sensitive to fluctuations in global liquidity, often underperforms when the policy outlook tilts toward tighter financial conditions\u2014explaining its abrupt slide alongside the spike in crude. The newsflow triggered one of the heaviest forced-liquidation washes of 2025. CoinGlass data show that roughly $1.14 billion in crypto futures positions were wiped out over the past 24 hours, $1.04 billion of which were longs, as 236,788 traders were forced out of the market. The single-largest hit was a $201 million BTC-USDT long on Binance, the biggest one-ticket liquidation since January. For Bitcoin alone, long-side liquidations totalled $443 million. For the entire crypto market, this is the worst wipe-out since"
-    },
-    {
-      "title": "Coinbase, Shopify to Simplify Real-World Crypto Payments: Best Wallet to Join the Fray with Fiat Card",
-      "link": "https://www.newsbtc.com/news/coinbase-shopify-best-wallet-fiat-card-payments/",
-      "summary": "Crypto exchange Coinbase announced that it will launch its Coinbase One Card later this fall. To be offered in partnership with American Express, the card will provide up to 4% Bitcoin cashback, and zero trading fees (with a spread for the first $500 traded per month), among other goodies. According to the Coinbase One Card website, you can sign up for early access, and you&#8217;ll be notified when they start receiving applications. There are also no foreign transaction fees, and you can repay your balance using your linked bank account or crypto on Coinbase. Given the current context of increased current adoption, payment solutions like these are becoming the norm. And This puts Best Wallet\u2019s planned Best Card in a great position to capitalize on the growing demand for crypto cards used in real-world transactions. Shopify to Start Accepting $USDC Payments Meanwhile, eCommerce platform Shopify teamed up with Coinbase and Stripe to allow shoppers to pay with the $USDC stablecoin. This option will become available in 34 countries in the coming weeks. This will be a boon to Shopify merchants as well, as they will be able to receive stablecoin payments in their preferred local currency directly in their bank accounts. Big Tech to Adopt Crypto Too Shopify isn\u2019t the only tech company eyeing greater crypto adoption. Big names in the industry like Google, Meta, and Apple are also in talks with crypto firms about stablecoin integration. When these discussions finally come to fruition, we expect more and more people to adopt crypto. Imagine average folk using digital currencies to pay for their next iPhone, buy an app in the Google Play Store, or purchase a Facebook ad\u2014that&#8217;s the kind of future we may have soon. And trailblazing that future is Best Wallet with its upcoming Best Card for crypto payments. With the Best Wallet Token presale supercharging the entire ecosystem with lower fees, this non-custodial wallet will more than likely become a central hub for new adopters. Best Card: Best Wallet\u2019s Answer to the Growing Crypto Payment Cards Market Aside from Coinbase and Shopify, Best Wallet is also determined to grab its slice of the crypto payment pizza pie by offering real-world convenience through its Best Card. With it, you can use crypto to pay for basic amenities like your morning coffee or your next shopping spree. While Best Card isn&#8217;t live yet, the Best Wallet ecosystem is already feature-rich. The non-custodial crypto wallet lets you buy buy, sell, and swap coins, and even access the best crypto presales via its Token Launchpad. And the Best Wallet Token ($BEST) takes that to an entirely new level. For one, you\u2019ll enjoy lower transaction fees across the ecosystem, get higher staking rewards, and vote on key decisions on Best Wallet. The $BEST token is available at the official Best Wallet presale page. It\u2019s currently priced at $0.025175, but with a price increase happening in less than two days, it\u2019s best that you act as quickly as possible. Our Best Wallet Token buying guide has all the details you need to grab the tokens. You can also stake your tokens for a 105% APY, giving you a source of passive income. The staking APY may still change as more investors lock in their tokens in the pool, though. HODLing $BEST tokens may also be a good idea if you\u2019re banking on the project&#8217;s appreciation in a few years. According to our Best Wallet Token price prediction, $BEST could grow to $0.07 in 2030, or a 211% increase from its initial presale price. Easy Crypto Payments are Coming to a Store Near You With the growing crypto adoption staring everyone in the face, the emergence of crypto payment solutions like Best Card or Coinbase&#8217;s One Card is expected. It\u2019s only a matter of time before regular folks start storing crypto and using these cards for everyday purchases. In this sense, Best Wallet\u2019s Best Card is perfectly positioned to capitalize on this trend, especially if you hold its native Best Wallet Token ($BEST). With lower fees and exclusive access to presales (alongside benefits for the coming Best Card), it&#8217;s the perfect starting point for any crypto newcomer. But if you\u2019re considering buying crypto, always ensure that you do your own research. Remember that the crypto market is highly volatile, so only invest money that you can afford to lose."
     }
   ],
   "Bitcoin Magazine": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Cardano founder Charles Hoskinson proposes converting $100M ADA to Bitcoin and stablecoins",
+      "link": "https://cryptobriefing.com/cardano-treasury-conversion-proposal/",
+      "summary": "<p>Hoskinson's proposal could enhance Cardano's DeFi competitiveness, potentially increasing its market share and attracting more developers.</p> <p>"
+    },
+    {
       "title": "Amazon, Walmart, and Expedia consider issuing stablecoins to sidestep costly card fees: WSJ",
       "link": "https://cryptobriefing.com/retailers-embrace-stablecoins/",
       "summary": "<p>Retailers' stablecoin adoption could revolutionize payment systems, enhance cash flow, and challenge traditional financial networks.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "Trump says Fed can raise rates if inflation returns, but warns Powell will be \u201ctoo late for that too\u201d",
       "link": "https://cryptobriefing.com/trump-fed-interest-rates-inflation/",
       "summary": "<p>Trump's remarks highlight ongoing tensions with the Fed, potentially impacting future monetary policy decisions and economic stability.</p> <p>"
-    },
-    {
-      "title": "Circle brings USDC to Ripple\u2019s network as XRP Ledger gears up for EVM-compatible sidechain this quarter",
-      "link": "https://cryptobriefing.com/usdc-on-xrp-ledger-evm-sidechain/",
-      "summary": "<p>The integration of USDC on XRPL and the upcoming EVM sidechain could significantly enhance XRPL's utility and attract diverse blockchain projects.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Ethereum: Smart money buys the dip as ETH dives 9% \u2013 What\u2019s next?",
+      "link": "https://ambcrypto.com/ethereum-smart-money-buys-the-dip-as-eth-dives-9-whats-next/",
+      "summary": "<img alt=\"Ethereum: Smart money buys the dip as ETH dives 9% - What&#039;s next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-13T160813.902_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can ETH hold above $2.4K with $2.64B in shorts stacked overhead?"
+    },
     {
       "title": "Solana\u2019s mixed signals: What\u2019s next as whale inflows rise but STHs stay back",
       "link": "https://ambcrypto.com/solanas-mixed-signals-whats-next-as-whale-inflows-rise-but-sths-stay-back/",
@@ -208,11 +213,6 @@
       "title": "Hyperliquid, \u2018the first meaningful competitor\u2019 to Binance: Jump Trading CIO",
       "link": "https://ambcrypto.com/hyperliquid-the-first-meaningful-competitor-to-binance-jump-trading-cio/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Hyperlquid-Binance-.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />HYPE gets its first Strategy-like corporate treasury firm - Will others follow suit?"
-    },
-    {
-      "title": "Ethereum\u2019s sharp 15% fall: Is this a classic bull trap in play?",
-      "link": "https://ambcrypto.com/ethereums-sharp-15-fall-is-this-a-classic-bull-trap-in-play/",
-      "summary": "<img alt=\"Ethereum&#039;s sharp 15% fall: Is this a classic bull trap in play?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-5.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A bull trap wiped out Ethereum gains - Can support hold the line?"
     }
   ]
 }
