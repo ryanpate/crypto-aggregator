@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update: Bitcoin Price (BTC) Falls 2.2% as All Assets Decline",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/13/coindesk-20-performance-update-bitcoin-price-btc-falls-2-2-as-all-assets-decline",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Miner Price Targets Raised to Reflect Improved Industry Economics: JPMorgan",
       "link": "https://www.coindesk.com/markets/2025/06/13/bitcoin-miner-price-targets-raised-to-reflect-improved-industry-economics-jpmorgan",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Ether Plunges 7% as Traders Flee to Dollar and Gold After Israel Strikes Iran",
       "link": "https://www.coindesk.com/markets/2025/06/13/ether-drops-below-usd2-550-as-israel-iran-escalation-sparks-flight-to-safety",
       "summary": ""
-    },
-    {
-      "title": "Crypto Daybook Americas: Bitcoin Weathers Market Rout as Israel Hits Iran",
-      "link": "https://www.coindesk.com/daybook-us/2025/06/13/crypto-daybook-americas-bitcoin-weathers-market-rout-as-israel-hits-iran",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "SharpLink buys $463M in ETH, becomes largest public ETH holder",
+      "link": "https://cointelegraph.com/news/sharplink-largest-public-eth-holder-463m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY5ODQtYTIyOC03ZWY0LTkyZDAtMzUzMGU0MmI4YWNj.jpg\" /></p><p>While SharpLink has become the largest publicly traded holder of Ether globally, some entities, including the Ethereum Foundation and BlackRock, are still holding more ETH.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
     {
       "title": "How to use Grok for real-time crypto trading signals",
       "link": "https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Bitcoin mirrors 80% rally setup that preceded 2024 Israel-Iran conflict",
       "link": "https://cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4Y2QtNmJkNy03MmZkLTg0YTUtY2Y3MDAzYTZjNjk5.jpg\" /></p><p>One analyst spots a bullish fractal driven by 2024-like liquidity grabs, hinting that Bitcoin may breakout toward new all-time highs.</p>"
-    },
-    {
-      "title": "Bitcoin 2025 builders predict DeFi will unseat traditional finance",
-      "link": "https://cointelegraph.com/news/bitcoin-2025-defi-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY0ZDktM2UwMi03NjE1LThjNTYtNjU5NDViODZiMGNk.jpg\" /></p><p>Bitcoin\u2019s foundational security is powering a new frontier: DeFi systems built on self-sovereignty, security and real-world financial inclusion.</p>"
-    },
-    {
-      "title": "Anthony Pompliano to lead new Bitcoin-buying group raising $750M: FT",
-      "link": "https://cointelegraph.com/news/anthony-pompliano-lead-bitcoin-buying-vehicle-raise-750-million-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4YWMtM2ViZi03MjU4LWI3NTctNGE5YmNjNTFjOTIx.jpg\" /></p><p>Under Pompliano\u2019s leadership, ProCapBTC would reportedly seek to raise $750 million in equity and convertible debt as part of a merger with Columbus Circle Capital 1.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Israel-Iran tensions trigger over $7 million crypto betting volume spree on Polymarket",
+      "link": "https://cryptoslate.com/israel-iran-tensions-trigger-over-7-million-crypto-betting-volume-spree-on-polymarket/",
+      "summary": "<p>The Israel-Iran conflict has triggered a wave of speculation across the crypto sector, with traders pouring millions into prediction markets. On Polymarket, a decentralized platform that allows users to wager on real-world outcomes, betting volume linked to the crisis has now exceeded $7 million across over 20 markets. Tensions escalated sharply on June 13 when [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin fills CME gap after Iran strike sparks $5,000 sell-off",
       "link": "https://cryptoslate.com/bitcoin-fills-cme-gap-after-iran-strike-sparks-5000-sell-off/",
@@ -73,14 +78,14 @@
       "title": "SEC pulls back from crypto rules proposed under Gary Gensler administration",
       "link": "https://cryptoslate.com/sec-pulls-back-from-crypto-rules-proposed-under-gary-gensler-administration/",
       "summary": "<p>The US Securities and Exchange Commission (SEC) is rolling back 14 proposed rules, including key measures that once targeted the crypto industry. The decision, announced on June 12, illustrates the shift in regulatory priorities as the agency distances itself from the aggressive stance adopted during the previous administration. The withdrawn proposals were introduced between March [&#8230;]</p> <p>"
-    },
-    {
-      "title": "How Nemo Money Is Redefining Global Investing With Smart Tools and Zero Commission Trading",
-      "link": "https://cryptoslate.com/how-nemo-money-is-redefining-global-investing-with-smart-tools-and-zero-commission-trading/",
-      "summary": "<p>Introduction In an increasingly complex investment world, Nemo Money is breaking through the noise. As a next-generation investing app developed by Exinity, Nemo is designed for both new and experienced investors looking for smarter, more accessible ways to manage their money \u2014 without paying excessive fees. Built for Investors Who Want More With over 6,000 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Daily Timeframe Says XRP Price Is On The Verge Of Breakout",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-on-the-verge-of-breakout/",
+      "summary": "The XRP price could be preparing for its biggest rally yet, as a crypto analyst now points to a potential breakout that could send this altcoin soaring. After weeks of stabilization and momentum building, XRP is now testing key resistance levels, with the daily timeframe hinting at a possible surge above $2.33. XRP Price Gears Up For Major Breakout Dark Defender, an X (formerly Twitter) crypto analyst, has revealed in a recent analysis that XRP appears to be setting the stage for a significant price shift, with its daily chart signaling a possible upward breakout. After weeks of consolidation below a descending trendline, the altcoin is now approaching a critical level that could become the trigger point for rapid momentum growth, if confirmed. Related Reading: XRP Price Could Hit $21 This Bull Cycle With 1.618 Fib Level As Next Target Currently, the daily timeframe shows XRP testing a long-term downtrend line that has consistently rejected upward movements since early 2025. This resistance level, marked clearly on the analyst\u2019s chart, hovers just above $2.3. Dark Defender has indicated that a daily candle close above $2.33 could effectively invalidate the downtrend and signal a breakout that may lead to further upside. Notably, the analyst\u2019s 1-day XRP price chart shows an explosive move toward a new high of $3.39\u2014a level not seen since the 2018 bull cycle. With XRP currently trading at $2.1, a successful rally to this bullish target would represent an impressive 61.43% surge in value. Such a move would not only break XRP out of its current consolidation phase but also confirm the emergence of a sustained uptrend. Moreover, if momentum persists, it could set the stage for even higher price levels. RSI And EMA Signals Defend XRP\u2019s Bullish Thesis Supporting Dark Defender\u2019s technical analysis and bullish scenario for the XRP price is a rising Relative Strength Index (RSI), which has broken above a descending trendline and continues to trend upward. This shift suggests that XRP is building momentum as buyers finally regain control. Related Reading: Crypto Pundit Says XRP Is No Longer A Speculative Asset \u2013 Here\u2019s What It Is Additionally, the analysis shows that price action remains above key Exponential Moving Averages (EMA), which are beginning to curl upward, signaling that the market trends could be turning in favor of the bulls. Although the Ichimoku Cloud technical indicator is not visible on the chart, Dark Defender notes that it is expected to flip bullish soon, further reinforcing XRP\u2019s bullish thesis. Combined with the support held above the 200-day EMA, highlighted by the blue line on the chart, XRP appears to be entering a favorable technical zone. If price action aligns with the analyst\u2019s projected setup and manages to hold candle closes above $2.33, it could mark the beginning of a stronger uptrend. Dark Defender also notes that \u201cXRP\u2019s slingshot pressure\u201d is intensifying rapidly, further boosting the potential strength of the upcoming bullish wave. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "Bitcoin\u2019s Most Reliable Signal Just Flashed\u2014Next Stop: $170,000",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-most-reliable-signal-next-stop-170000/",
@@ -100,11 +105,6 @@
       "title": "Coinbase, Shopify to Simplify Real-World Crypto Payments: Best Wallet to Join the Fray with Fiat Card",
       "link": "https://www.newsbtc.com/news/coinbase-shopify-best-wallet-fiat-card-payments/",
       "summary": "Crypto exchange Coinbase announced that it will launch its Coinbase One Card later this fall. To be offered in partnership with American Express, the card will provide up to 4% Bitcoin cashback, and zero trading fees (with a spread for the first $500 traded per month), among other goodies. According to the Coinbase One Card website, you can sign up for early access, and you&#8217;ll be notified when they start receiving applications. There are also no foreign transaction fees, and you can repay your balance using your linked bank account or crypto on Coinbase. Given the current context of increased current adoption, payment solutions like these are becoming the norm. And This puts Best Wallet\u2019s planned Best Card in a great position to capitalize on the growing demand for crypto cards used in real-world transactions. Shopify to Start Accepting $USDC Payments Meanwhile, eCommerce platform Shopify teamed up with Coinbase and Stripe to allow shoppers to pay with the $USDC stablecoin. This option will become available in 34 countries in the coming weeks. This will be a boon to Shopify merchants as well, as they will be able to receive stablecoin payments in their preferred local currency directly in their bank accounts. Big Tech to Adopt Crypto Too Shopify isn\u2019t the only tech company eyeing greater crypto adoption. Big names in the industry like Google, Meta, and Apple are also in talks with crypto firms about stablecoin integration. When these discussions finally come to fruition, we expect more and more people to adopt crypto. Imagine average folk using digital currencies to pay for their next iPhone, buy an app in the Google Play Store, or purchase a Facebook ad\u2014that&#8217;s the kind of future we may have soon. And trailblazing that future is Best Wallet with its upcoming Best Card for crypto payments. With the Best Wallet Token presale supercharging the entire ecosystem with lower fees, this non-custodial wallet will more than likely become a central hub for new adopters. Best Card: Best Wallet\u2019s Answer to the Growing Crypto Payment Cards Market Aside from Coinbase and Shopify, Best Wallet is also determined to grab its slice of the crypto payment pizza pie by offering real-world convenience through its Best Card. With it, you can use crypto to pay for basic amenities like your morning coffee or your next shopping spree. While Best Card isn&#8217;t live yet, the Best Wallet ecosystem is already feature-rich. The non-custodial crypto wallet lets you buy buy, sell, and swap coins, and even access the best crypto presales via its Token Launchpad. And the Best Wallet Token ($BEST) takes that to an entirely new level. For one, you\u2019ll enjoy lower transaction fees across the ecosystem, get higher staking rewards, and vote on key decisions on Best Wallet. The $BEST token is available at the official Best Wallet presale page. It\u2019s currently priced at $0.025175, but with a price increase happening in less than two days, it\u2019s best that you act as quickly as possible. Our Best Wallet Token buying guide has all the details you need to grab the tokens. You can also stake your tokens for a 105% APY, giving you a source of passive income. The staking APY may still change as more investors lock in their tokens in the pool, though. HODLing $BEST tokens may also be a good idea if you\u2019re banking on the project&#8217;s appreciation in a few years. According to our Best Wallet Token price prediction, $BEST could grow to $0.07 in 2030, or a 211% increase from its initial presale price. Easy Crypto Payments are Coming to a Store Near You With the growing crypto adoption staring everyone in the face, the emergence of crypto payment solutions like Best Card or Coinbase&#8217;s One Card is expected. It\u2019s only a matter of time before regular folks start storing crypto and using these cards for everyday purchases. In this sense, Best Wallet\u2019s Best Card is perfectly positioned to capitalize on this trend, especially if you hold its native Best Wallet Token ($BEST). With lower fees and exclusive access to presales (alongside benefits for the coming Best Card), it&#8217;s the perfect starting point for any crypto newcomer. But if you\u2019re considering buying crypto, always ensure that you do your own research. Remember that the crypto market is highly volatile, so only invest money that you can afford to lose."
-    },
-    {
-      "title": "Bitcoin Bears Back In Control After $110,000 Rejection, What Comes Next?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-bears-back-in-control/",
-      "summary": "The Bitcoin price has suffered a violent rejection after hitting the $110,000 level, showing a clear intention of the bears to keep the digital asset from hitting new all-time highs. So far, the rejections from $110,000 have been swift and have put the bears back in control. This has given credence to calls that the Bitcoin price will fall back below the psychological level of $100,000, something that could trigger another wave of declines in the crypto market. Bitcoin Rejection At $110,000 Part Of The Plan? The Bitcoin price rejection has no doubt triggered a wave of panic among investors, many of whom believe that this is the end of the cycle. However, a crypto analyst has suggested that the pullback is part of the larger plan as the largest cryptocurrency by market cap moves on its way to new all-time highs. Related Reading: Bitcoin Risks Pullback To $105,000 After Facing Rejection Above $110,000 In the analysis, they explain that the digital asset is currently at a point where it is undergoing significant distribution, and this will explain the decline in price. The pullback in and of itself is no cause for alarm, as minor corrections after major surges are normal. In addition to this, there is a lot of accumulation going on as Bitcoin moves from the hands of old investors into the hands of new investors at a higher cost basis. The accumulation is expected to move Bitcoin into the next bullish wave. This bullish wave is the next step in the trend as the BTC price moves into place for the next price surge. Once the volume moves upward as expected, then the asset\u2019s price is expected to follow in succession. BTC Price Could Hit $130,000 Target After Breakout Going by the analyst\u2019s chart shared on the TradingView website, the Bitcoin price correction is not expected to last for long. Mainly, holding the $107,000 support becomes paramount at this level as this could set the launchpad point for the next bullish impulse. Related Reading: XRP Price Forms Flag Pattern Above Accumulation Zone That Points To $5 Target The completion of the accumulation phase puts the next breakout level as high as $130,000, which would be an over 20% increase from the current level. However, this may not be the end as the crypto analyst has set a swing target for as high as $150,000. As for the timeline for when this could happen, the crypto analyst places a long-term target for the end of the year 2025. But there is also the possibility that the trend would be completed sooner and the Bitcoin price could reach its target and new all-time highs before the year runs out. Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Why Did Bitcoin Dip as Gold Surged Amid Israel-Iran Tensions?",
+      "link": "https://decrypt.co/325074/why-did-bitcoin-dip-as-gold-surged-amid-israel-iran-tensions",
+      "summary": "Analysts told that the alpha crypto's risk-asset behavior contrasts with gold's safe-haven rally, splitting the reaction."
+    },
+    {
       "title": "Altcoins Plunge, Crypto Liquidations Hit $1B Amid Israel-Iran Tensions",
       "link": "https://decrypt.co/325039/altcoins-plunge-crypto-liquidations-hit-1b-amid-israel-iran-tensions",
       "summary": "Major crypto liquidations sweep the market as altcoins plummet in response to rising tensions in the Middle East."
@@ -154,11 +159,6 @@
       "title": "Thai Police Arrest Chinese Suspect in $6.1 Million Bitcoin Fraud Case",
       "link": "https://decrypt.co/325028/thai-police-arrest-chinese-suspect-bitcoin-fraud-case",
       "summary": "Two Chinese victims lost their Bitcoin after a business meeting in Mae Sai district, transferring funds in two separate transactions."
-    },
-    {
-      "title": "Coinbase Launches Bitcoin Rewards Card to Drive Subscriber Growth",
-      "link": "https://decrypt.co/325025/coinbase-bitcoin-rewards-card-drive-subscriber-growth",
-      "summary": "Coinbase has launched a Bitcoin rewards credit card, with possible plans to support multiple tokens over time, was told."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Solana\u2019s mixed signals: What\u2019s next as whale inflows rise but STHs stay back",
+      "link": "https://ambcrypto.com/solanas-mixed-signals-whats-next-as-whale-inflows-rise-but-sths-stay-back/",
+      "summary": "<img alt=\"Solana&#039;s mixed signals: What&#039;s next as whale inflows rise but STHs stay back\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-100-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana shows long-term strength but short-term uncertainty as price dips and traders stay neutral."
+    },
+    {
       "title": "HyperLiquid TVL explodes \u2013 Can HYPE use this to defy the $44 wall again?",
       "link": "https://ambcrypto.com/hyperliquid-tvl-explodes-can-hype-use-this-to-defy-the-44-wall-again/",
       "summary": "<img alt=\"HyperLiquid TVL explodes - Can HYPE use this to defy the $44 wall again?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-13T093154.393-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whale activity and rising TVL fuel bullish outlook, but overheated volume signals caution."
@@ -208,11 +213,6 @@
       "title": "Ethereum\u2019s sharp 15% fall: Is this a classic bull trap in play?",
       "link": "https://ambcrypto.com/ethereums-sharp-15-fall-is-this-a-classic-bull-trap-in-play/",
       "summary": "<img alt=\"Ethereum&#039;s sharp 15% fall: Is this a classic bull trap in play?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-5.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A bull trap wiped out Ethereum gains - Can support hold the line?"
-    },
-    {
-      "title": "GameStop stock tanks amid news of $1.75B Bitcoin bet: \u2018Insane!\u2019",
-      "link": "https://ambcrypto.com/gamestop-stock-tank-amid-news-of-1-75b-bitcoin-bet-insane/",
-      "summary": "<img alt=\"GameStop shares tank 11.7% amid news of $1.75B Bitcoin bet: &#039;Insane!&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"723\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/GameStop-Announces-Proposed-Private-Offering.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1286\" />Is GameStop\u2019s crypto pivot backfiring?"
     }
   ]
 }
