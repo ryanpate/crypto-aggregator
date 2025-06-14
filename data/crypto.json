@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "ADA Hovers Around $0.62 as New Enterprise Product Launch Offsets Whale-Driven Pressure",
+      "link": "https://www.coindesk.com/markets/2025/06/14/ada-holds-usd0-62-as-new-enterprise-product-launch-offsets-whale-driven-pressure",
+      "summary": ""
+    },
+    {
+      "title": "ETH Whales and Sharks Accumulate 1.49M ETH in 30 Days as Retail Pulls Back",
+      "link": "https://www.coindesk.com/markets/2025/06/14/eth-whales-accumulate-1-49m-eth-in-30-days-while-retail-pulls-back",
+      "summary": ""
+    },
+    {
+      "title": "Litecoin Price Struggles Despite ETF Optimism as War Tensions Rattle Market",
+      "link": "https://www.coindesk.com/markets/2025/06/14/litecoin-price-struggles-despite-etf-optimism-as-war-tensions-rattle-market",
+      "summary": ""
+    },
+    {
       "title": "SOL Rebounds Toward $145 as 7 ETFs Advance and DeFi Dev Corp Eyes More SOL Purchases",
       "link": "https://www.coindesk.com/markets/2025/06/14/solana-s-sol-rebounds-toward-usd145-backed-by-etf-momentum-and-usd5b-treasury-strategy",
       "summary": ""
@@ -8,21 +23,6 @@
     {
       "title": "Trump's Empire Pulled In $57M From Family-Linked Crypto Firm Last Year, Filing Shows",
       "link": "https://www.coindesk.com/business/2025/06/14/trump-s-empire-pulled-in-usd57m-from-family-linked-crypto-firm-last-year-filing-shows",
-      "summary": ""
-    },
-    {
-      "title": "BNB Price Remains Above Key Support Level After Israel-Iran Clash Sparks Risk Asset Flight",
-      "link": "https://www.coindesk.com/markets/2025/06/14/bnb-price-remains-above-key-support-level-after-israel-iran-clash-sparks-risk-asset-flight",
-      "summary": ""
-    },
-    {
-      "title": "Brazil Sets Flat 17.5% Tax on Crypto Profits, Ending Exemption for Smaller Investors",
-      "link": "https://www.coindesk.com/markets/2025/06/14/brazil-sets-flat-175-tax-on-crypto-profits-ending-exemption-for-smaller-investors",
-      "summary": ""
-    },
-    {
-      "title": "Shaquille O\u2019Neal to Pay $1.8M in Settlement Over FTX Promotion Lawsuit",
-      "link": "https://www.coindesk.com/markets/2025/06/14/shaquille-oneal-to-pay-18m-in-settlement-over-ftx-promotion-lawsuit",
       "summary": ""
     }
   ],
@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "SEC greenlights Trump Media\u2019s $2.3B Bitcoin Treasury deal",
+      "link": "https://cryptoslate.com/sec-greenlights-trump-medias-2-3b-bitcoin-treasury-deal/",
+      "summary": "<p>The U.S. Securities and Exchange Commission (SEC) greenlighted the registration statement filed by Trump Media and Technology Group for its $2.3 billion Bitcoin (BTC) Treasury deal on June 13, an SEC filing shows. Trump Media, the company behind Truth Social, is a public company that U.S. President Donald Trump\u2019s family significantly controls. The SEC \u201cdeclared effective\u201d Trump [&#8230;]</p> <p>"
+    },
+    {
       "title": "Gold price nears all-time high amid fears of broader regional Middle Eastern conflict",
       "link": "https://cryptoslate.com/gold-price-nears-all-time-high-amid-fears-of-broader-regional-middle-eastern-conflict/",
       "summary": "<p>Gold price is nearing its all-time high at $3,433, further fueling its up-and-to-the-right rally in 2025, as escalating tensions in the Middle East drive investors toward traditional safe-haven assets. The surge in gold price reflects not only geopolitical uncertainty but also a broader shift in global reserve strategies. The ECB reported last week that gold [&#8230;]</p> <p>"
@@ -73,11 +78,6 @@
       "title": "Tornado Cash support: Ethereum Foundation pledges $1M to Storm\u2019s defense, entities boost Pertsev appeal",
       "link": "https://cryptoslate.com/tornado-cash-support-ethereum-foundation-pledges-1m-to-storms-defense-entities-boost-pertsev-appeal/",
       "summary": "<p>Tornado Cash developers Roman Storm and Alexey Pertsev received renewed support from the crypto community on their respective trials for deploying the open-source code behind the mixer. The Ethereum Foundation on June 12 donated $500,000 to Tornado Cash developer Roman Storm\u2019s legal defense. It said it will match another $750,000 from public contributors as the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Spot Ethereum ETFs register new inflow record with 19-day streak, capturing nearly $1.4 billion",
-      "link": "https://cryptoslate.com/spot-ethereum-etfs-register-new-inflow-record-with-19-day-streak-capturing-nearly-1-4-billion/",
-      "summary": "<p>Spot Ethereum exchange-traded funds (ETFs) listed in the US set a new record by attracting net inflows for 19 consecutive trading sessions between May 16 and June 12, adding almost $1.4 billion. According to Farside Investors\u2019 data, the streak began with $35 million on May 16, passed $1 billion on May 29, and reached $1.38 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Russia Paying Teenage and Untrained Spies Using Bitcoin: Report",
+      "link": "https://decrypt.co/325104/russia-paying-teenage-and-untrained-spies-using-bitcoin-report",
+      "summary": "Russia's intelligence agencies are \u201cconstantly financing\u201d agents using cryptocurrency, blockchain investigators told ."
+    },
+    {
       "title": "Trump's Drone Deregulation Raises Fears of Domestic Terror Strikes",
       "link": "https://decrypt.co/325240/trump-drone-deregulation-raises-fears-domestic-terror-strikes",
       "summary": "President Trump\u2019s recent executive orders promise innovation, but critics warn they arrive amid a deadly surge in drone-powered conflict from Ukraine to Iran to Sudan."
@@ -154,11 +159,6 @@
       "title": "Crypto-Related Anti-Money Laundering Reports Rose by 8% in Germany Last Year: FIU",
       "link": "https://decrypt.co/325091/crypto-related-aml-reports-rose-by-8-in-germany-last-year-fiu",
       "summary": "Crypto figured in a record 3.3% of all suspicious activity reports submitted to Germany's anti-money laundering agency last year."
-    },
-    {
-      "title": "How Will the Israel-Iran Conflict End? Here's What AI Models Predict",
-      "link": "https://decrypt.co/325190/how-israel-iran-conflict-end-ai-models-predict",
-      "summary": "We asked seven leading AI models to analyze the most plausible scenario for how the conflict between Israel and Iran will play out."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum whales boost holdings by 1.49 mln \u2013 Can this trigger ETH\u2019s breakout?",
+      "link": "https://ambcrypto.com/ethereum-whales-boost-holdings-by-1-49-mln-can-this-trigger-eths-breakout/",
+      "summary": "<img alt=\"Ethereum whales boost holdings by 1.49 mln - Can this trigger ETH&#039;s breakout?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-14T145600.614-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whales are accumulating ETH as retail weakens, but resistance and low conviction may stall momentum."
+    },
+    {
       "title": "Whales dump Bitcoin for FARTCOIN: What\u2019s behind this surprising move?",
       "link": "https://ambcrypto.com/whales-dump-bitcoin-for-fartcoin-whats-behind-this-surprising-move/",
       "summary": "<img alt=\"Whales dump Bitcoin for FARTCOIN: What&#039;s behind this surprising move?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-1-5.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Fartcoin led the market recovery of memecoins amid increased buying activity."
@@ -208,11 +213,6 @@
       "title": "Bitcoin holds above $105K: Will long-term investors drive BTC\u2019s next rally?",
       "link": "https://ambcrypto.com/bitcoin-holds-above-105k-will-long-term-investors-drive-btcs-next-rally/",
       "summary": "<img alt=\"Bitcoin holds above $105K: Will long-term investors drive BTC&#039;s next rally?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250614_091951_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin holds strong above $100K as accumulation continues."
-    },
-    {
-      "title": "Mapping Optimism\u2019s future: Major breakout or a pullback?",
-      "link": "https://ambcrypto.com/mapping-optimisms-future-major-breakout-or-a-pullback/",
-      "summary": "<img alt=\"Mapping Optimism&#039;s future: Major breakout or a pullback?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-14T140448.084-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />OP eyes a breakout as bullish signals grow, but $0.61 remains a crucial resistance barrier."
     }
   ]
 }
