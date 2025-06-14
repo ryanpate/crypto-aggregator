@@ -2,129 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BlockWireNews - Aggregated CryptoCurrency News</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.blockwirenews.com/tags/</link>
     <description>Recent content in Tags on BlockWireNews - Aggregated CryptoCurrency News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 09:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jun 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.blockwirenews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin</title>
-      <link>http://localhost:1313/tags/bitcoin/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/bitcoin/</guid>
+      <link>https://www.blockwirenews.com/tags/bitcoin/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/bitcoin/</guid>
       <description></description>
     </item>
     <item>
       <title>Crypto</title>
-      <link>http://localhost:1313/tags/crypto/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/crypto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dogecoin</title>
-      <link>http://localhost:1313/tags/dogecoin/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/dogecoin/</guid>
+      <link>https://www.blockwirenews.com/tags/crypto/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethereum</title>
-      <link>http://localhost:1313/tags/ethereum/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/ethereum/</guid>
+      <link>https://www.blockwirenews.com/tags/ethereum/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/ethereum/</guid>
       <description></description>
     </item>
     <item>
-      <title>Litecoin</title>
-      <link>http://localhost:1313/tags/litecoin/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/litecoin/</guid>
+      <title>Geopolitics</title>
+      <link>https://www.blockwirenews.com/tags/geopolitics/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/geopolitics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MiCA</title>
+      <link>https://www.blockwirenews.com/tags/mica/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/mica/</guid>
       <description></description>
     </item>
     <item>
       <title>Vacation</title>
-      <link>http://localhost:1313/tags/vacation/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/vacation/</guid>
+      <link>https://www.blockwirenews.com/tags/vacation/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/vacation/</guid>
       <description></description>
     </item>
     <item>
       <title>Weekend</title>
-      <link>http://localhost:1313/tags/weekend/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/weekend/</guid>
+      <link>https://www.blockwirenews.com/tags/weekend/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/weekend/</guid>
       <description></description>
     </item>
     <item>
       <title>XRP</title>
-      <link>http://localhost:1313/tags/xrp/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/xrp/</guid>
+      <link>https://www.blockwirenews.com/tags/xrp/</link>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/xrp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beach Vibes</title>
+      <link>https://www.blockwirenews.com/tags/beach-vibes/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/beach-vibes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dogecoin</title>
+      <link>https://www.blockwirenews.com/tags/dogecoin/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/dogecoin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Litecoin</title>
+      <link>https://www.blockwirenews.com/tags/litecoin/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/litecoin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Midweek</title>
+      <link>https://www.blockwirenews.com/tags/midweek/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/tags/midweek/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Recap</title>
-      <link>http://localhost:1313/tags/market-recap/</link>
+      <link>https://www.blockwirenews.com/tags/market-recap/</link>
       <pubDate>Thu, 05 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/market-recap/</guid>
+      <guid>https://www.blockwirenews.com/tags/market-recap/</guid>
       <description></description>
     </item>
     <item>
       <title>Memecoins</title>
-      <link>http://localhost:1313/tags/memecoins/</link>
+      <link>https://www.blockwirenews.com/tags/memecoins/</link>
       <pubDate>Thu, 05 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/memecoins/</guid>
+      <guid>https://www.blockwirenews.com/tags/memecoins/</guid>
       <description></description>
     </item>
     <item>
       <title>Musk</title>
-      <link>http://localhost:1313/tags/musk/</link>
+      <link>https://www.blockwirenews.com/tags/musk/</link>
       <pubDate>Thu, 05 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/musk/</guid>
+      <guid>https://www.blockwirenews.com/tags/musk/</guid>
       <description></description>
     </item>
     <item>
       <title>Politics</title>
-      <link>http://localhost:1313/tags/politics/</link>
+      <link>https://www.blockwirenews.com/tags/politics/</link>
       <pubDate>Thu, 05 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/politics/</guid>
+      <guid>https://www.blockwirenews.com/tags/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>Trump</title>
-      <link>http://localhost:1313/tags/trump/</link>
+      <link>https://www.blockwirenews.com/tags/trump/</link>
       <pubDate>Thu, 05 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/trump/</guid>
+      <guid>https://www.blockwirenews.com/tags/trump/</guid>
       <description></description>
     </item>
     <item>
       <title>Volatility</title>
-      <link>http://localhost:1313/tags/volatility/</link>
+      <link>https://www.blockwirenews.com/tags/volatility/</link>
       <pubDate>Thu, 05 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/volatility/</guid>
+      <guid>https://www.blockwirenews.com/tags/volatility/</guid>
       <description></description>
     </item>
     <item>
       <title>“Crypto”</title>
-      <link>http://localhost:1313/tags/crypto/</link>
+      <link>https://www.blockwirenews.com/tags/crypto/</link>
       <pubDate>Wed, 04 Jun 2025 13:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/crypto/</guid>
+      <guid>https://www.blockwirenews.com/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>“Weekly Recap”</title>
-      <link>http://localhost:1313/tags/weekly-recap/</link>
+      <link>https://www.blockwirenews.com/tags/weekly-recap/</link>
       <pubDate>Wed, 04 Jun 2025 13:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/weekly-recap/</guid>
+      <guid>https://www.blockwirenews.com/tags/weekly-recap/</guid>
       <description></description>
     </item>
     <item>
       <title>“XRP”</title>
-      <link>http://localhost:1313/tags/xrp/</link>
+      <link>https://www.blockwirenews.com/tags/xrp/</link>
       <pubDate>Wed, 04 Jun 2025 13:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/xrp/</guid>
+      <guid>https://www.blockwirenews.com/tags/xrp/</guid>
       <description></description>
     </item>
   </channel>

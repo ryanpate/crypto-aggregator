@@ -1,0 +1,47 @@
+{{ define "title" }}Blog | BlockWireNews{{ end }}
+
+{{ define "main" }}
+  <!-- Responsive Styles -->
+  <style>
+    /* Container centered with responsive padding */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+    /* Title styling */
+    .title {
+      font-weight: bold;
+      font-size: 2.5rem;
+      text-align: left;
+    }
+    /* Subtitle styling */
+    .subtitle {
+      text-align: left;
+      margin-bottom: 1rem;
+    }
+    /* Other shared styles as in main page... */
+    /* Include any CSS you need for blog page responsiveness */
+  </style>
+
+  <div class="container mt-6">
+    <!-- Blog Banner -->
+    <div class="blog-banner" style="text-align:left; margin-top: 3rem; margin-bottom:1rem;">
+      <a href="/blog/">
+        <img src="/blog_banner.png" alt="Blog" style="height:80px; width:autopx; object-fit:cover;" />
+      </a>
+    </div>
+
+    <!-- Blog Index -->
+
+    {{ range .Pages.ByDate.Reverse }}
+    <article style="margin-bottom:2rem;">
+      <h2 class="subtitle is-size-4">
+        <a href="{{ .RelPermalink }}" class="has-text-black" style="text-decoration:none;">{{ .Title }}</a>
+      </h2>
+      <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
+      <div class="content is-size-7">{{ .Summary | safeHTML }}</div>
+    </article>
+    {{ end }}
+  </div>
+{{ end }}

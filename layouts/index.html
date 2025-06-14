@@ -218,14 +218,15 @@ Description: Homepage template with SEO enhancements
         {{ $blogSection := site.GetPage "section" "blog" }}
         {{ if $blogSection }}
         <section class="section blog-section">
-          <div class="blog-banner" style="text-align:left; ">
-            <img src="/blog_banner.png" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
+          <div class="blog-banner" style="text-align:left;">
+            <a href="/blog/">
+              <img src="/blog_banner.png" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
+            </a>
           </div>
-          {{ range $blogSection.Pages.ByDate.Reverse }}
+          {{ $recent := first 1 $blogSection.Pages.ByDate.Reverse }}
+          {{ range $recent }}
           <article style="margin-bottom: 1.5rem;">
-            <h3>
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </h3>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
             <div class="is-size-7">{{ .Summary }}</div>
           </article>
@@ -235,7 +236,7 @@ Description: Homepage template with SEO enhancements
 
         <!-- News Section Banner -->
         <section class="section news-section">
-          <div class="news-banner" style="text-align:left; ">
+          <div class="news-banner" style="text-align:left; margin-top: 1rem;">
             <img src="/news_banner.png" alt="News" style="height:80px; width:auto; object-fit:cover;" />
           </div>
         </section>

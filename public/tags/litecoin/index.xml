@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Litecoin on BlockWireNews - Aggregated CryptoCurrency News</title>
-    <link>http://localhost:1313/tags/litecoin/</link>
+    <link>https://www.blockwirenews.com/tags/litecoin/</link>
     <description>Recent content in Litecoin on BlockWireNews - Aggregated CryptoCurrency News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 09:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/litecoin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 10:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.blockwirenews.com/tags/litecoin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Midweek Crypto Check-In from Bald Head Island</title>
+      <link>https://www.blockwirenews.com/blog/2025-06-11-midweek-vaca-update/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 -0500</pubDate>
+      <guid>https://www.blockwirenews.com/blog/2025-06-11-midweek-vaca-update/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Midweek Crypto Check-In from Bald Head Island&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey fam, I’m halfway through my sand-and-sun retreat here at Bald Head Island, NC—sunscreen on, laptop mostly off. But I couldn’t help peeking at the markets, so here’s a quick roundup of how last week’s picks fared and what’s popping now:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bitcoin&lt;/strong&gt;&lt;br&gt;&#xA;Still cruising near $103k—up about 1% since Friday. Those bank custody rumors turned out less “now or never” and more “slow-and-steady,” so BTC’s just vibing.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Weekend Crypto Vibes: Quick Picks Before Vacation</title>
-      <link>http://localhost:1313/blog/2025-06-06-weekend-update/</link>
+      <link>https://www.blockwirenews.com/blog/2025-06-06-weekend-update/</link>
       <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/blog/2025-06-06-weekend-update/</guid>
+      <guid>https://www.blockwirenews.com/blog/2025-06-06-weekend-update/</guid>
       <description>&lt;p&gt;Hey everyone, happy Friday! Crypto’s been doing its usual dance: Bitcoin’s been holding strong around $102k after that overnight pop on news of another major bank announcing they’re dipping their toes into BTC custody services. Ethereum’s chilling in the $2,600–$2,650 range, but I’m keeping an eye on a possible breakout if Sunday’s staking rewards update comes through without hiccups. Meanwhile, XRP’s just hanging out near $2.12, flirting with resistance—if that ETF chat heats up again, it could see a quick spike. Personally, I’m tossing a small buy into Litecoin (LTC) this afternoon since it’s been creeping back toward $160 and feels like a low-key play if overall sentiment stays upbeat. Oh, and I snagged a few dollars’ worth of Dogecoin, mostly for old times’ sake and because Elon teased something cryptic about “meme power” in his morning tweet. Who knows, right?&lt;/p&gt;</description>
     </item>
   </channel>
