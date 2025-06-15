@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Ethereum at a crossroads: SSV founder Alon Muroch on the \u2018dangerous\u2019 divergence affecting crypto\u2019s number 2 coin",
+      "link": "https://cryptoslate.com/ethereum-at-a-crossroads-ssv-founder-alon-muroch-on-the-dangerous-divergence-affecting-cryptos-number-2-coin/",
+      "summary": "<p>Welcome to Slate Sundays, \u2019s new weekly feature showcasing in-depth interviews, expert analysis, and thought-provoking op-eds that go beyond the headlines to explore the ideas and voices shaping the future of crypto. Alon Muroch is a man on a mission. As the founder of SSV Labs, which contributes to the second-largest Ethereum staking infra provider, SSV [&#8230;]</p> <p>"
+    },
+    {
       "title": "Data sovereignty can redefine the global economic markets",
       "link": "https://cryptoslate.com/data-sovereignty-can-redefine-the-global-economic-markets/",
       "summary": "<p>The following is a guest post and analysis from Trevor Koverko, Co-Founder at Sapien. The emergence of internet-enabled tech has transformed global trade and economics, as citizens, governments, and companies participate in borderless exchanges. Subsequently, data has become the lifeblood and primary fuel of businesses and societies worldwide, driving economic growth through shared values. In [&#8230;]</p> <p>"
@@ -73,14 +78,14 @@
       "title": "Why I left Web2 for Web3 \u2013 and why you might, too",
       "link": "https://cryptoslate.com/why-i-left-web2-for-web3-and-why-you-might-too/",
       "summary": "<p>The following article is a guest post and opinion of Yurii Kovalchuk, Senior Blockchain Engineer at Forte Group. Three and a half years ago, I made a decision that completely changed the trajectory of my career. I left the familiar world of Web2 and stepped into the deep, chaotic, and exhilarating space of blockchain development. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Trump earned over $58 million from crypto ventures in 2024",
-      "link": "https://cryptoslate.com/trump-earned-over-58-million-from-crypto-ventures-in-2024/",
-      "summary": "<p>U.S. President Donald Trump, who ventured into crypto during his presidential campaign last year, earned over $58 million from crypto ventures in 2024. Trump\u2019s mandatory 2025 financial disclosure report filed on Friday detailed his earnings from all businesses between Jan. 1 and Dec. 31, 2024. In the filing, Trump reported employment-related assets worth a minimum [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Dormant Ethereum Wallet Awakens After 10 Years With Millions Worth Of ETH",
+      "link": "https://www.newsbtc.com/altcoin/dormant-ethereum-wallet-awakens-after-10-years-with-millions-worth-of-eth/",
+      "summary": "Ethereum has been consolidating around the $2,500 price level over the past few days, showing little momentum in either direction. The second-largest cryptocurrency by market cap has struggled to sustain a breakout above the $2,600 resistance zone, despite the inflows into Ethereum Spot ETFs last week. Related Reading: $57 Million In Crypto And Counting: Trump\u2019s World Liberty Connection One event that has sparked interest, and possibly concern, among Ethereum holders is the reactivation of a dormant whale wallet holding millions worth of ETH. The sudden awakening of this long-inactive address raises questions about a potential selling pressure and its market impact. First Transaction From Dormant ETH Address Since 2015 On-chain tracker Whale Alerts was the first to report the reawakening of a pre-mined Ethereum address that had been inactive for nearly a decade. According to the large on-chain transaction tracker, the wallet, which held 2,000 ETH, initiated its last transaction 9.9 years ago. When the wallet last moved any funds in 2015, the entire stash was worth just $620. Today, that same amount is valued at over $5 million, making the owner\u2019s profit roughly 820x based on current prices. At Ethereum&#8217;s all-time high price of $4,878 in 2021, the cryptocurrencies reached an unrealized gain of 1573x. \ud83d\udca4 A dormant pre-mine address containing 2,000 #ETH (5,063,918 USD) has just been activated after 9.9 years (worth 620 USD in 2015)!https://t.co/G0i8Rif0XX \u2014 Whale Alert (@whale_alert) June 14, 2025 The alert by Whale Alerts, which noted the first transaction after 9.9 years, involved the transfer of 0.0001 ETH from the whale address &#8220;0xcF26&#8221; to address &#8220;0x2C12,&#8221; which is a newly created ETH address. However, Etherscan&#8217;s on-chain transaction data reveals that the whale address sent 500 ETH into the newly created address shortly afterward. Following the string of transaction data from Etherscan shows that these 500 ETH eventually made their way into address &#8220;0x28C6,&#8221; which is known to be owned and controlled by crypto exchange Binance. This means that the 500 ETH may have already been sold through the exchange or are currently being prepared for liquidation. Brace For Impact: Will The Remaining 1,500 ETH Be Sold? As of now, the original whale address still holds approximately 1,500 ETH, currently valued at $3.796 million. However, it opens up the question of whether the rest of the funds will also be sold. Although we cannot be sure of a planned full liquidation, the pattern of the 500 ETH transfer and the involvement of an exchange address indicate that the possibility cannot be dismissed. Right now, Ethereum is in a fragile price action around the $2,500 price level. If more ETH is offloaded by the whale, the added selling pressure could make it even harder for Ethereum to break out of its current consolidation phase, especially if there isn&#8217;t enough buying pressure to absorb the ETH sold off. Related Reading: Billionaire Snaps Up $100 Million Of Trump Coin \u2013 Details At the time of writing, Ethereum is trading at $2,525. The past 24 hours were spent by Ethereum trading between $2,549 and $2,495. Featured image from Unsplash, chart from TradingView"
+    },
     {
       "title": "If Patience Had Value, XRP Holders Would Own The Market\u2014Expert",
       "link": "https://www.newsbtc.com/altcoin/if-patience-had-value-xrp-holders-would-own-the-market-expert/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin 656% Cyclical Gain Highlights Deep Market Demand  \u2013 Glassnode",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-656-cyclical-gain-highlights-deep-market-demand/",
       "summary": "The Bitcoin market continues to react negatively to rising geopolitical tensions between Israel and Iran which has induced a wave of concern in the financial markets. Notably, the premier cryptocurrency has entered a consolidation movement between $105,000 &#8211; $106,000 following slight, after prices crashed to below $103,000 on Friday. Meanwhile, prominent analytics company Glassnode has shared some valuable insight into the Bitcoin market dissecting the growth of the current bull cycle so far. Bitcoin Demand Matches Maturation Rate In an X post on June 14, Glassnode draws comparisons of Bitcoin price growth in the present market cycle to previous ones. Related Reading: $57 Million In Crypto And Counting: Trump\u2019s World Liberty Connection Notably, the crypto market cycle is a recurring four-year period marked by consecutive phases of accumulation, a bull market, distribution and a bear market. In the last two cycles i.e 2015-2018 and 2018-2022, Bitcoin achieved price gains of 1076% and 1007%, respectively, significantly multiplying its market cap. For the current cycle from 2022 till date, Bitcoin\u2019s prices have now grown by 656%. While this figure is far off previous cycles, Glassnode reports that it&#8217;s a commendable achievement considering the premier cryptocurrency\u2019s maturation in the past four years marked by an exposure to institutional investors and a $2 trillion valuation. Generally, assets are expected to produce little exponential growth with continued price growth. This can be seen with gold only achieving an estimated 192% growth over the past 10 years. Therefore, Glassnode notes that Bitcoin\u2019s 6x market gain since 2022 is highly positive development that reflects a sustainable market demand even as the asset\u2019s market cap grows. Bitcoin Market Overview At the time of writing, Bitcoin continues to trade at $105,540 following a slight 0.20% gain in the past 24 hours. Meanwhile, the asset\u2019s daily trading volume is down by 35.39% representing significant fall in market participation. Interestingly, reputable analytics firm Sentora reports the Bitcoin network weekly fees fell by 3.31% following recent negative political events coupled with an already uncertain market sentiment. Meanwhile, exchange inflows also grew by $2.4 billion indicating a significant amount of investors are looking to distribute their holdings while the premier cryptocurrency struggles to re-establish a bullish price direction. Related Reading: Bitcoin To $1 Million? Michael Saylor Laughs Off Crypto Winter Fears Notably, since establishing a new all-time high at $111, 891 on May 22, the maiden cryptocurrency has experienced a significant price correction with prices dipping as low as below $101,000 amidst a host of negative micro-economic events. However, the prevailing sentiment among Bitcoin investors remains bullish according to Coincodex data with the Fear &#38; Greed index at 63 to reflect a solid level of Greed. Featured image from Getty, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin Investors Remain Calm Despite Israel-Iran Conflict Escalation",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-investors-remain-calm-despite-israel-iran-conflict/",
-      "summary": "The price of Bitcoin has managed to stay afloat over the past few days despite the growing conflict in the Middle East and the ensuing bearish pressure. The premier cryptocurrency continues to hover around the $105,000 level, with its value down by merely 0.8% in the past week. According to the latest on-chain data, the Bitcoin price might not be down for too long, as investors seem unbothered by the rising tensions between Israel and Iran. Below is what the BTC investors have been up to since the military action started in the past week. BTC Investors Still Holding On To Their Assets: Analyst In a Quicktake post on the CryptoQuant platform, a pseudonymous on-chain analyst, CryptoMe revealed that the Bitcoin market has remained relatively quiet despite the ongoing geopolitical events. The relevant indicators here are the Bitcoin exchange netflow and Open Interest. Related Reading: Ethereum Price Could Rally To $10,000 If This Major Resistance Is Broke To start, CryptoMe analyzed the BTC Exchange Netflow, which measures the difference between Bitcoin sent to and withdrawn from centralized exchanges. Typically, this metric helps to gauge the selling pressure on a particular cryptocurrency (Bitcoin, in this scenario). Given that one of the services offered by exchanges is selling, exchange inflows are often considered a bearish signal for the Bitcoin price. However, CryptoMe noted that there has been no significant change in Netflow, meaning that investors are not looking to offload their assets. The on-chain analyst also highlighted the Open Interest on centralized exchanges, which estimates the amount of capital flowing into a cryptocurrency at every given time. CryptoMe attributed the reduced Open Interest to the liquidated long positions following the price correction. The crypto pundit added: But when we look at the bigger picture, Open Interest still looks strong, and investors are still keeping their positions open FOR NOW despite all the WAR news. Furthermore, CryptoMe mentioned the Bitcoin Open Interest on the Chicago Mercantile Exchange (CME), where institutions and speculators trade. The analyst noted that while some positions were closed and the Open Interest dropped after the event, there has still not been any significant exit movement on the CME. Ultimately, the absence of major movements into centralized exchanges suggests that the investors are not in panic mode yet. While most positions on Bitcoin derivatives are still open at the moment, there is no telling what will happen if the war tension escalates further. Hence, investors might want to approach the market with caution over the next few days. Bitcoin Price At A Glance As of this writing, the price of BTC stands at around $104,760, reflecting an almost 1% decline in the past 24 hours. Related Reading: Bitcoin May Hit $78,500 If This Critical Support Fails \u2013 Details Featured image from iStock, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "AI Deepfakes Drove 40% of High-Value Crypto Fraud Last Year: Report",
+      "link": "https://decrypt.co/325152/ai-deepfakes-drove-high-value-frauds-report",
+      "summary": "Bitget says that $4.6 billion in crypto was lost to scams in 2024, with much of that attributed to AI-generated deepfakes."
+    },
+    {
       "title": "Trump Strategist Outlines How Bitcoin Helped Republicans Win the 2024 Election",
       "link": "https://decrypt.co/325187/trump-strategist-how-bitcoin-helped-republicans-win-2024-election",
       "summary": "Trump ally Chris LaCivita said at Coinbase\u2019s Crypto Summit that the Republican Party recognized the importance of the crypto community."
@@ -154,11 +159,6 @@
       "title": "Why Is BlackRock's IBIT Bitcoin ETF Soaring?",
       "link": "https://decrypt.co/325162/why-blackrock-ibit-bitcoin-etf-soaring",
       "summary": "The success of BlackRock's spot Bitcoin fund reflects not only the company's brand recognition but also the embrace by investors, including financial advisors."
-    },
-    {
-      "title": "IBM\u2019s New Quantum Roadmap Brings the Bitcoin Threat Closer",
-      "link": "https://decrypt.co/325183/ibm-quantum-roadmap-brings-blockchain-threat-closer",
-      "summary": "IBM\u2019s Starling system may shorten the timeline for quantum computers to challenge Bitcoin\u2019s cryptographic foundations."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "BNB defends $640 \u2013 With active users at an ATH, is $674 in sight?",
+      "link": "https://ambcrypto.com/bnb-defends-640-as-active-users-hit-ath-is-674-within-reach/",
+      "summary": "<img alt=\"BNB: Bots vs. genuine growth \u2013 How Binance coin defied geopolitical woes\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-22.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BNB adoption surges as non-sybil users hit a new all-time high of 1.7 million."
+    },
+    {
       "title": "Leverage, liquidity & longs: The altcoin rally setup no one sees coming",
       "link": "https://ambcrypto.com/leverage-liquidity-longs-the-altcoin-rally-setup-no-one-sees-coming/",
       "summary": "<img alt=\"Altcoins\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Altcoin optimism returns - But is it too soon?"
@@ -208,11 +213,6 @@
       "title": "Solana or Ethereum? \u2013 The fight for Q3 dominance starts now!",
       "link": "https://ambcrypto.com/solana-or-ethereum-the-fight-for-q3-dominance-starts-now/",
       "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL/ETH ratio hits 4-month low - Trend shift or buy zone?"
-    },
-    {
-      "title": "Bitcoin vs. Open Interest \u2013 Should traders be worried by THIS divergence?",
-      "link": "https://ambcrypto.com/bitcoin-vs-open-interest-should-traders-be-worried-by-this-divergence/",
-      "summary": "<img alt=\"Bitcoin: Are Binance traders betting on the wrong side?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-20.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BTC's price decoupling from Binance Open Interest may be a sign of looming volatility and potential liquidation cascades."
     }
   ]
 }
