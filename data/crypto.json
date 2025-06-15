@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Brazil ends crypto tax exemption, imposes 17.5% flat rate on gains",
+      "link": "https://cointelegraph.com/news/brazil-ends-crypto-tax-exemption-imposes-flat-17-5-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzcyNWEtOTNlZS03Njc4LWJhNzQtOTE2MTM2NzQ5ODZj.jpg\" /></p><p>Brazil scraps crypto tax exemption for small traders, enforces flat 17.5% rate across all gains, including self-custody and offshore holdings.</p>"
+    },
+    {
       "title": "Stablecoins will soon have its &#039;iPhone moment&#039;: Circle CEO",
       "link": "https://cointelegraph.com/news/stablecoin-adoption-iphone-moment-incoming-circle-ceo-jeremy-allaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzcyMWItMzg5Ni03NzkxLWE4YzItMmFiOGQ5ZDAzNjRl.jpg\" /></p><p>The CEO of Circle, which recently debuted on the New York Stock Exchange, predicts it won\u2019t be long before stablecoins reach the level of developer attraction that the iPhone achieved.</p>"
@@ -46,11 +51,6 @@
       "title": "Bitcoin ETFs record 5-day inflow streak amid geopolitical tensions",
       "link": "https://cointelegraph.com/news/bitcoin-etfs-5-day-inflow-streak-geopolitical-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRiNDUtNDU5OC03YTRlLWIwZjgtMjUwYjQzMzU1OTY5.jpg\" /></p><p>Bitcoin holding firm at around $105,000 despite recent geopolitical and economic shocks suggests a sign of strength and investor confidence.</p>"
-    },
-    {
-      "title": "Amazon signs nuclear energy deal to power AI data centers",
-      "link": "https://cointelegraph.com/news/amazon-nuclear-energy-deal-power-ai-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzcwM2YtMTliYS03YWRjLWJmMDUtNDE0ZTJmODRjMTRm.jpg\" /></p><p>Amazon joins a growing list of tech companies shifting to nuclear power to meet the energy-intensive needs of artificial intelligence.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Maker sees a 17% rally: What\u2019s truly behind MKR\u2019s surge?",
+      "link": "https://ambcrypto.com/maker-sees-a-17-rally-whats-truly-behind-mkrs-surge/",
+      "summary": "<img alt=\"Maker sees a 17% rally: What&#039;s truly behind MKR&#039;s surge?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Editors-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />But spot sell-offs raise doubts\u2014Will bulls hold the $2K level or retrace soon?"
+    },
+    {
       "title": "Bitcoin: Why retail still bets on BTC despite high entry costs",
       "link": "https://ambcrypto.com/bitcoin-why-retail-still-bets-on-btc-despite-high-entry-costs/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-1-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Investors keep stacking Bitcoin, betting today\u2019s shredded dollars will grow tomorrow."
@@ -208,11 +213,6 @@
       "title": "Sui Network activity booms, but price still lags \u2013 Here\u2019s why",
       "link": "https://ambcrypto.com/sui-network-activity-booms-but-price-still-lags-heres-why/",
       "summary": "<img alt=\"SUI chain activity booms, but price still lags - Here&#039;s why\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The price of SUI was declining toward a major support level, suggesting weakness despite chain activity growth."
-    },
-    {
-      "title": "Altcoin Season Index dips to 26: Is Bitcoin dominance fading, or just pausing?",
-      "link": "https://ambcrypto.com/altcoin-season-index-dips-to-26-is-bitcoin-dominance-fading-or-just-pausing/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox21.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The limited selling pressure in altcoins amidst uncertainty in crypto markets suggested a potential rally."
     }
   ]
 }
