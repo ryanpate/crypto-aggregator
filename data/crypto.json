@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "AI race between US and China resembles Cold War \u2014 Marc Andreessen",
+      "link": "https://cointelegraph.com/news/ai-race-between-us-china-cold-war-andreessen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc1NWYtMmFhNS03YzFlLTgxNDAtMzk5MTI1MDA4Y2Y5.jpg\" /></p><p>The venture capitalist warned that virtually all artificial intelligence platforms are being developed in either China or the United States.</p>"
+    },
+    {
       "title": "Bitcoin mining difficulty falls slightly from recent all-time high",
       "link": "https://cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFmYzgtNTljMC03YmJiLWJmMjItYmFmYWQ0OTJjNGNh.jpg\" /></p><p>BTC miners continue to face economic headwinds and challenges, including gradually rising computational requirements to mine blocks.</p>"
@@ -41,16 +51,6 @@
       "title": "Saylor signals impending Bitcoin purchase amid Israel-Iran conflict",
       "link": "https://cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YxMTItZjRkYS03NmYzLWFiMzctZjcxNmMwZDM3MjEz.jpg\" /></p><p>Strategy co-founder Michael Saylor hinted the company would purchase more Bitcoin on Monday when traditional financial markets open.</p>"
-    },
-    {
-      "title": "TradFi&#039;s deep liquidity issue is crypto&#039;s silent structural risk",
-      "link": "https://cointelegraph.com/news/liquidity-crypto-structural-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM0ZTMtMDBjNS03YjQwLTgwNjMtYTZlNzk4OGI0ODFm.jpg\" /></p><p>Despite crypto's rapid growth and decentralized ideals, its liquidity remains fragmented and fragile \u2014 mirroring traditional finance's hidden risks and exposing the market to sudden shocks when sentiment shifts.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "This Week in Crypto Games: Dogecoin Got Game, FIFA Rivals Launches",
+      "link": "https://decrypt.co/325277/this-week-crypto-games-dogecoin-gaming-fifa-rivals",
+      "summary": "Dogecoin is about to get a slew of games via DogeOS and PlaysOut, FIFA Rivals is live on mobile, and more from the crypto gaming world."
+    },
+    {
       "title": "Bitcoin DeFi Is Taking Root on Sui\u2014Here\u2019s How It Works",
       "link": "https://decrypt.co/325274/bitcoin-defi-taking-root-sui-heres-how-works",
       "summary": "Bitcoin integrations are growing across the Sui network, providing more use cases for BTC holders. Here's how BTCfi works on Sui."
@@ -154,11 +159,6 @@
       "title": "Trump Strategist Outlines How Bitcoin Helped Republicans Win the 2024 Election",
       "link": "https://decrypt.co/325187/trump-strategist-how-bitcoin-helped-republicans-win-2024-election",
       "summary": "Trump ally Chris LaCivita said at Coinbase\u2019s Crypto Summit that the Republican Party recognized the importance of the crypto community."
-    },
-    {
-      "title": "What Are Internet Capital Markets? Why Companies Are Launching Meme Coins",
-      "link": "https://decrypt.co/resources/what-are-internet-capital-markets-why-companies-are-launching-meme-coins",
-      "summary": "Traditional stocks are old news. Now, companies are launching meme coins to fund or market their businesses."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin\u2019s tug of war: Whale bets $200M as shorts stack to $1B \u2013 What next?",
+      "link": "https://ambcrypto.com/bitcoins-tug-of-war-whale-bets-200m-as-shorts-stack-to-1b-what-next/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-8.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With a huge BTC long position from Bybit's top trader, can BTC see a new ATH?"
+    },
+    {
       "title": "Ethereum bears lose ground, but ETH bulls may not be safe just yet!",
       "link": "https://ambcrypto.com/ethereum-bears-lose-ground-but-eth-bulls-may-not-be-safe-just-yet/",
       "summary": "<img alt=\"ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-22.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum rebounds with a $500 million short squeeze, as rising exchange inflows and leverage hint at more turbulence."
@@ -208,11 +213,6 @@
       "title": "Leverage, liquidity & longs: The altcoin rally setup no one sees coming",
       "link": "https://ambcrypto.com/leverage-liquidity-longs-the-altcoin-rally-setup-no-one-sees-coming/",
       "summary": "<img alt=\"Altcoins\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Altcoin optimism returns - But is it too soon?"
-    },
-    {
-      "title": "From towers to tokens: Crypto now makes up 60% of Trump\u2019s fortune!",
-      "link": "https://ambcrypto.com/from-towers-to-tokens-crypto-now-makes-up-60-of-trumps-fortune/",
-      "summary": "<img alt=\"Donald Trump Crypto\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-21.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Trump's $5.5 billion fortune now includes $3.3 billion in crypto, signaling a major shift in investment."
     }
   ]
 }
