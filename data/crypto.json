@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Stablecoins will soon have its &#039;iPhone moment&#039;: Circle CEO",
+      "link": "https://cointelegraph.com/news/stablecoin-adoption-iphone-moment-incoming-circle-ceo-jeremy-allaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzcyMWItMzg5Ni03NzkxLWE4YzItMmFiOGQ5ZDAzNjRl.jpg\" /></p><p>The CEO of Circle, which recently debuted on the New York Stock Exchange, predicts it won\u2019t be long before stablecoins reach the level of developer attraction that the iPhone achieved.</p>"
+    },
+    {
       "title": "Crypto Fear &amp; Greed Index stays in greed territory amid Israel-Iran conflict",
       "link": "https://cointelegraph.com/news/crypto-fear-greed-index-bitcoin-price-israel-iran-tension?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzcxNDYtMmFjYy03MDJlLWE0ZGMtNGVmMzFmOGIwZDlm.jpg\" /></p><p>While the index remains in the \u201cGreed\u201d zone if history repeats following last year\u2019s Israel-Iran tensions, it may decline into \u201cFear\u201d in the coming weeks.</p>"
@@ -46,11 +51,6 @@
       "title": "Amazon signs nuclear energy deal to power AI data centers",
       "link": "https://cointelegraph.com/news/amazon-nuclear-energy-deal-power-ai-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzcwM2YtMTliYS03YWRjLWJmMDUtNDE0ZTJmODRjMTRm.jpg\" /></p><p>Amazon joins a growing list of tech companies shifting to nuclear power to meet the energy-intensive needs of artificial intelligence.</p>"
-    },
-    {
-      "title": "Bitcoin can absorb $30T US Treasury market \u2014 Bitwise CEO",
-      "link": "https://cointelegraph.com/news/bitcoin-absorb-30t-treasury-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIzMmMtMWQ2Ny03NzU1LWEyNjgtNWNmYzM3NGJmOTdk.jpg\" /></p><p>Bitcoin does not just compete with gold as an alternative store of value, but all savings instruments, including government securities.</p>"
     }
   ],
   "CryptoSlate": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Bybit to launch Byreal, its first onchain DEX on Solana, on June 30",
+      "link": "https://cryptobriefing.com/byreal-on-solana-dex/",
+      "summary": "<p>Bybit's launch of Byreal on Solana signifies a strategic shift towards hybrid finance, potentially reshaping the DeFi landscape.</p> <p>"
+    },
+    {
       "title": "Invesco, Galaxy Digital file to launch Solana ETF in Delaware amid SEC approval buzz",
       "link": "https://cryptobriefing.com/solana-etf-sec-approval/",
       "summary": "<p>The potential approval of Solana ETFs could significantly boost institutional interest and investment in the Solana blockchain ecosystem.</p> <p>"
@@ -181,11 +186,6 @@
       "title": "Bitcoin slides, gold spikes after Israel strikes Iran, Israeli PM warns campaign will last as many days as needed",
       "link": "https://cryptobriefing.com/crypto-market-volatility-israel-iran/",
       "summary": "<p>Geopolitical tensions may drive investors to traditional safe-haven assets, impacting cryptocurrency markets and regional economic stability.</p> <p>"
-    },
-    {
-      "title": "$USD1 stablecoin begins minting on TRON",
-      "link": "https://cryptobriefing.com/usd1-stablecoin-minting-on-tron/",
-      "summary": "<p>The minting of USD1 on TRON could enhance institutional trust and adoption, bolstering TRON's position in the global blockchain market.</p> <p>"
     }
   ],
   "AMBcrypto": [
