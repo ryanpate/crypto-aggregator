@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Ether Price Surges 4% as Markets Mostly Shrug Off Escalating Middle East Tensions",
+      "link": "https://www.coindesk.com/markets/2025/06/16/ether-price-surges-4-as-markets-mostly-shrug-off-escalating-middle-east-tensions",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Daybook Americas: Bitcoin Holds Above $100K as Iran, Israel Trade Blows",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/16/crypto-daybook-americas-bitcoin-holds-above-100k-as-iran-israel-trade-blows",
+      "summary": ""
+    },
+    {
       "title": "UNI Jumps 7%; Crypto Analyst Sees Breakout Momentum Toward $10",
       "link": "https://www.coindesk.com/markets/2025/06/16/uni-jumps-7-crypto-analyst-sees-breakout-momentum-toward-usd10",
       "summary": ""
@@ -14,46 +24,46 @@
       "title": "Hyperliquid's HYPE Becomes Fifth Largest Token in Futures Trading; XRP Remains Ahead",
       "link": "https://www.coindesk.com/markets/2025/06/16/hyperliquid-s-hype-becomes-fifth-largest-token-in-futures-trading-xrp-remains-ahead",
       "summary": ""
-    },
-    {
-      "title": "UK Startup Optalysys Debuts Server for Blockchains",
-      "link": "https://www.coindesk.com/tech/2025/06/16/uk-startup-debuts-blockchain-dedicated-hardware-with-fully-homomorphic-encryption",
-      "summary": ""
-    },
-    {
-      "title": "H100 Group Targets $79 Million Raise to Power Bitcoin Strategy",
-      "link": "https://www.coindesk.com/markets/2025/06/16/h100-group-targets-79-million-raise-to-power-bitcoin-strategy",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Strategy adds $1B in Bitcoin as Israel-Iran conflict pressures markets",
+      "link": "https://cointelegraph.com/news/strategy-bags-10100-bitcoin-amid-israel-iran-escalation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4ODItNGE2ZC03ZGNkLTgxMGUtZTZlNWY3OGE2NTYz.jpg\" /></p><p>Strategy\u2019s latest Bitcoin purchases were made following Strategy\u2019s STRD, its third Bitcoin-backed preferred stock, launching on the Nasdaq on June 11.</p>"
+    },
+    {
+      "title": "Why is XRP price up today?",
+      "link": "https://cointelegraph.com/news/why-is-xrp-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvNjJlNDdlMTgtYmFmMS00YzBiLWFkMDktZGRlZjY1NzYwN2Ew.jpg\" /></p><p>XRP price is up 2% on June 16, with the hopes that the Ripple-SEC lawsuit could ultimately be finalized and positive sentiment backing hopes for a falling wedge breakout.</p>"
+    },
+    {
+      "title": "Bitget and UNICEF to train 300K girls in blockchain across 8 nations",
+      "link": "https://cointelegraph.com/news/bitget-unicef-partner-blockchain-education-girls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4NDItYmM0NC03ZjI2LTlkNTgtMGY2N2M0N2IxYjQz.jpg\" /></p><p>Bitget partners with UNICEF Luxembourg in a three-year effort to empower girls in eight countries with science, technology, engineering and math (STEM) skills.</p>"
+    },
+    {
+      "title": "Ethereum whales are buying the most ETH since 2018",
+      "link": "https://cointelegraph.com/news/ethereum-whales-buying-the-most-eth-since-2018?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg\" /></p><p>Ethereum's drivers are now different, but the ETH price is consolidating in a multimonth range, echoing its 2017 chart pattern, which resulted in a 1,000% rally.</p>"
+    },
+    {
       "title": "Amazon to invest $13B in Australian AI data center infrastructure",
       "link": "https://cointelegraph.com/news/amazon-invests-13b-australian-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4MjYtM2RkOS03OGQwLThlOWEtNTExMzFhNjYxZDY2.jpg\" /></p><p>Amazon is investing over $13 billion in expanding AI and cloud infrastructure in Australia, including new solar farms and data centers nationwide.</p>"
-    },
-    {
-      "title": "Ex-TON Foundation exec launches crypto investment app on Telegram",
-      "link": "https://cointelegraph.com/news/ex-ton-foundation-telegram-affluent-investment-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc3YWEtNTBkNS03Y2QzLTkwYjUtZjA2YWJjMTU4MThi.jpg\" /></p><p>By applying a TradFi and DeFi combination, Affluent aims to allow users to earn interest in a manner as simple as depositing assets with a single click via Telegram.</p>"
-    },
-    {
-      "title": "Why is Solana (SOL) price up today?",
-      "link": "https://cointelegraph.com/news/why-is-solana-price-up-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDkvMDE5MWVhNGEtZWU0My03NTk1LTliZjItOTUzOTgyODFlYzJj.jpg\" /></p><p>Solana is up today as increasing optimism around ETF approval and high demand in the derivatives market paint a bullish outlook for SOL price.</p>"
-    },
-    {
-      "title": "Tether blocks $12.3M in USDT tied to suspicious Tron addresses",
-      "link": "https://cointelegraph.com/news/tether-freezes-12m-usdt-on-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzZjAtYjBlNi03NjAxLTk5NjItY2IzMzlhODdlZTc0.jpg\" /></p><p>The stablecoin giant froze over $12.3 million worth of funds, pointing to potential illicit activity or AML violations.</p>"
-    },
-    {
-      "title": "$112K BTC was not \u2018bull market peak\u2019: 5 things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/news/112k-btc-not-bull-market-peak-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg\" /></p><p>From a $105,000 weekly close to 30 metrics seeing no end in sight for the bull market, Bitcoin is keeping moonshot hopes alive this week.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin hashrate hits new high of 943 EH/s as difficulty adjusted down 0.45%",
+      "link": "https://cryptoslate.com/insights/bitcoin-hashrate-hits-new-high-of-943-eh-s-as-difficulty-adjusted-down-0-45/",
+      "summary": "<p>Amid the minor 0.45% drop in Bitcoin mining difficulty on June 14, the network\u2019s total hashrate surged to a fresh record of 943 EH/s. This juxtaposition emphasizes a resilient and increasingly concentrated mining sector in which top players are accelerating hardware upgrades to maintain margins in a post-halving environment. The difficulty dip offered a fleeting [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bitcoin, Ethereum lead $1.9 billion crypto inflows as investors look beyond Middle East tensions",
+      "link": "https://cryptoslate.com/bitcoin-ethereum-lead-1-9-billion-crypto-inflows-as-investors-look-beyond-middle-east-tensions/",
+      "summary": "<p>Digital asset funds continued their winning streak last week, pulling in $1.9 billion in new investments, according to CoinShares&#8216; latest weekly report. This marks the ninth week in a row of positive inflows, pushing the cumulative total over the period to $12.9 billion. Year-to-date, digital asset investment products have now seen a record $13.2 billion [&#8230;]</p> <p>"
+    },
     {
       "title": "France eyes Bitcoin mining to cut energy waste and boost grid stability",
       "link": "https://cryptoslate.com/france-eyes-bitcoin-mining-to-cut-energy-waste-and-boost-grid-stability/",
@@ -68,19 +78,14 @@
       "title": "Bitcoin surges past $107k as crypto market defies global unrest over Israel-Iran tensions",
       "link": "https://cryptoslate.com/bitcoin-surges-past-107k-as-crypto-market-defies-global-unrest-over-israel-iran-tensions/",
       "summary": "<p>Bitcoin has bounced back above $107,000 after a sharp weekend slump triggered by rising tensions between Israel and Iran. According to &#8217;s data, this is the first time in four days that BTC has crossed this level, showing signs of renewed investor confidence. The downturn began after Israel launched a surprise strike on June 13, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Solana AI project Kled team wallets dumps $800k tokens after promising a $500k buyback plan",
-      "link": "https://cryptoslate.com/silent-800k-shuffle-kled-ai-wallet-moves-sparks-debate-over-token-buybacks-promise/",
-      "summary": "<p>Two wallets linked to Solana-based Kled AI (KLED) moved 58.25 million KLED out of an address between May 31 and June 7, then dispersed the tokens across 99 new wallets a few days after announcing a buyback plan. According to a June 10 report by Dashcoin Research founder Nicholas Wenzel, the amount moved was worth [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Vietnam ends crypto \u2018Grey Zone\u2019 with sweeping new digital asset legislation",
-      "link": "https://cryptoslate.com/vietnam-ends-crypto-grey-zone-with-sweeping-new-digital-asset-legislation/",
-      "summary": "<p>Vietnam has officially exited the crypto \u201cgrey zone.\u201d In a decisive June 14 vote, the National Assembly passed the Law on Digital Technology Industry, a sweeping legislative package that recognizes and regulates digital assets in one of the world\u2019s most active crypto markets for the first time. The law, which takes effect January 1, 2026, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Still Sleeping On XRP? Analyst Says $8 Breakout Is \u2018Just Waiting\u2019",
+      "link": "https://www.newsbtc.com/xrp-news/still-sleeping-on-xrp-8-breakout-just-waiting/",
+      "summary": "In a livestream on June 15, crypto analyst Cantonese Cat delivered a firm verdict on XRP\u2019s prolonged consolidation: don\u2019t be fooled by the sideways drift. Despite trading in a tight range for over half a year, the chart veteran argued XRP is building energy for a powerful move, one that could take it as high as $6 to $8 once it breaks out of its multi-month technical cage. XRP To $8? \u201cThis thing has been going sideways for seven months,\u201d he said. \u201cBut the entire time, it\u2019s just hugging this GAN line.\u201d He referred to a long-standing monthly Gann arc structure that XRP has been grinding against since late 2024. In his interpretation, the repeated tests of that arc\u2014combined with price holding above key support zones\u2014signal strength rather than weakness. \u201cIt\u2019s just waiting for its thing,\u201d he added, implying that the eventual move could be sharp and sudden. Related Reading: XRP Price Still On Track For $1.5T Market Cap And 27% Crypto Market Dominance Cantonese Cat highlighted that the current price action is sitting just beneath the next major Gann resistance level, which aligns closely with a Fibonacci extension target between $6 and $8. That arc, he believes, will be the trigger. \u201cI think the next level is going to end up breaking up to the GAN arc up above,\u201d he said, adding that a clean breach of this level could mark the start of XRP\u2019s long-awaited parabolic run. He also pulled up the monthly Ichimoku Cloud, pointing out that XRP had already broken above it\u2014a significant bullish milestone in Ichimoku analysis. \u201cInitially it had a rejection of the Ichimoku cloud,\u201d he explained, \u201cand now we have a true breakout.\u201d Most importantly, XRP has held the Tenkan and Kijun without falling back into the cloud. \u201cThis is basically a look of bullishness,\u201d he noted, citing the textbook structure of a confirmed trend reversal. The broader structure, according to his analysis, is a classic breakout setup: a horizontal level was cleared, back-tested, and is now serving as support. \u201cYou\u2019re basically breaking above a horizontal level here and back testing it. And so far, you\u2019re holding it pretty convincingly.\u201d To reinforce his thesis, he pointed to Fibonacci retracements\u2014specifically, XRP\u2019s behavior around the 0.86 level, which the asset has been flirting with. \u201cIf you\u2019re able to convincingly break above 0.86 here,\u201d he said, \u201cthen all-time high stuff could happen.\u201d Asked by viewers why the market isn\u2019t moving yet, he dismissed the apparent stagnation as noise. \u201cIt\u2019s just going sideways, guys,\u201d he said. \u201cIt\u2019s just waiting for its thing.\u201d In his view, the lack of momentum is not a sign of weakness, but rather a signal that XRP is compressing in a low-volatility zone\u2014a typical prelude to a high-volatility expansion. \u201cWhenever it decides to get done with this shenanigans,\u201d he added, \u201cit\u2019s probably going to go up.\u201d Despite XRP\u2019s muted performance while other assets like Bitcoin and Solana have captured headlines, Cantonese Cat made clear that he sees no structural damage on the chart. Quite the opposite: he views the persistent adherence to long-term support levels, especially on the monthly timeframe, as an indication that XRP is simply coiling beneath resistance. Related Reading: XRP Has A 70% Shot To Beat Bitcoin, Says Analyst In a cycle increasingly defined by breakout-driven flows and rotational capital, he framed XRP\u2019s dormancy not as a failure, but as a delayed opportunity. \u201cStill holding the Tenkan and Kijun just fine,\u201d he said. \u201cThis is what bullish looks like.\u201d The analyst didn\u2019t offer a date, but was blunt about the price levels to watch. If XRP clears the monthly Gann arc and maintains strength above the 0.86 Fibonacci zone, the $6\u2013$8 range comes into play\u2014levels that would not only exceed previous all-time highs, but also flip sentiment from apathy to euphoria in a matter of weeks. Until then, he warned, XRP\u2019s breakout might not announce itself loudly. But when it comes, few will be positioned. \u201cStill sleeping on XRP?\u201d he asked. \u201cYou might want to wake up soon.\u201d At press time, XRP traded at $2.20 Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Ethereum Whales Feast While Retail Flees\u2014ETH Ocean Just Got Hungrier",
       "link": "https://www.newsbtc.com/altcoin/ethereum-whales-feast-while-retail-flees-eth-ocean-just-got-hungrier/",
@@ -100,11 +105,6 @@
       "title": "Dogecoin (DOGE) Slips Once More\u2014Bears Tighten Grip on Meme Coin Darling",
       "link": "https://www.newsbtc.com/analysis/doge/dogecoin-doge-slips-0-20/",
       "summary": "Dogecoin started a fresh decline from the $0.1880 zone against the US Dollar. DOGE is now consolidating losses and might recover if it clears $0.1780. DOGE price started a fresh decline below the $0.1880 and $0.180 levels. The price is trading below the $0.180 level and the 100-hourly simple moving average. There is a short-term bearish trend line forming with resistance at $0.1760 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could start a fresh decline if it declines below the $0.180 zone. Dogecoin Price Dips Again Dogecoin price started a fresh decline after it failed to clear the $0.1880 zone, like Bitcoin and Ethereum. DOGE declined below the $0.1800 and $0.1750 levels. The bears even pushed the price below the $0.1720 level. A low was formed at $0.1695 and the price is now consolidating losses below the 23.6% Fib retracement level of the downward move from the $0.2064 swing high to the $0.1697 low. Dogecoin price is now trading below the $0.180 level and the 100-hourly simple moving average. There is also a short-term bearish trend line forming with resistance at $0.1760 on the hourly chart of the DOGE/USD pair. Immediate resistance on the upside is near the $0.1760 level. The first major resistance for the bulls could be near the $0.1785 level. The next major resistance is near the $0.180 level. A close above the $0.180 resistance might send the price toward the $0.1880 resistance. It is close to the 50% Fib retracement level of the downward move from the $0.2064 swing high to the $0.1697 low. Any more gains might send the price toward the $0.200 level. The next major stop for the bulls might be $0.2120. More Losses In DOGE? If DOGE\u2019s price fails to climb above the $0.180 level, it could start another decline. Initial support on the downside is near the $0.1720 level. The next major support is near the $0.1700 level. The main support sits at $0.1680. If there is a downside break below the $0.1680 support, the price could decline further. In the stated case, the price might decline toward the $0.1550 level or even $0.1525 in the near term. Technical Indicators Hourly MACD \u2013 The MACD for DOGE/USD is now losing momentum in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for DOGE/USD is now above the 50 level. Major Support Levels \u2013 $0.1700 and $0.1680. Major Resistance Levels \u2013 $0.1760 and $0.1800."
-    },
-    {
-      "title": "XRP Price Tries to Bounce Back\u2014But Hurdles May Delay the Comeback",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-tries-to-bounce-back-2-150/",
-      "summary": "XRP price started a fresh decline and tested the $2.080 zone. The price is now recovering and might aim for an upward move above the $2.20 resistance. XRP price started a decent upward move from the $2.080 zone. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. There is a short-term rising channel forming with support at $2.140 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another increase if it clears the $2.20 resistance zone. XRP Price Eyes Recovery XRP price declined below the $2.250 and $2.20 levels, like Bitcoin and Ethereum. The price even declined below the $2.120 zone and tested the $2.080 support. A low was formed at $2.085 and the price is now attempting to recover. There was a move above the $2.10 and $2.120 levels. The price climbed above the 23.6% Fib retracement level of the downward move from the $2.338 swing high to the $2.085 low. Besides, there is a short-term rising channel forming with support at $2.140 on the hourly chart of the XRP/USD pair. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.20 level. The first major resistance is near the $2.2120 level. It is close to the 50% Fib retracement level of the downward move from the $2.338 swing high to the $2.085 low. The next resistance is $2.250. A clear move above the $2.250 resistance might send the price toward the $2.320 resistance. Any more gains might send the price toward the $2.350 resistance or even $2.3650 in the near term. The next major hurdle for the bulls might be $2.420. Another Decline? If XRP fails to clear the $2.20 resistance zone, it could start another decline. Initial support on the downside is near the $2.140 level and the trend line. The next major support is near the $2.120 level. If there is a downside break and a close below the $2.120 level, the price might continue to decline toward the $2.080 support. The next major support sits near the $2.020 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.150 and $2.120. Major Resistance Levels \u2013 $2.20 and $2.2120."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Hyperliquid, Solana Lead Altcoin Rally as Institutions Pour $1.9B Into Crypto Funds",
+      "link": "https://decrypt.co/325330/hyperliquid-solana-lead-altcoin-rally-as-institutions-pour-1-9b-into-crypto-funds",
+      "summary": "Major altcoins posted gains Monday morning, as nearly $2 billion flowed into institutional crypto funds."
+    },
+    {
+      "title": "Kidnappers Release TikTok Crypto Influencer After Finding Out He\u2019s Broke",
+      "link": "https://decrypt.co/325319/kidnappers-release-tiktok-crypto-influencer-after-finding-out-hes-broke",
+      "summary": "The kidnapping case is one of a growing number of \u201c$5 wrench attacks\u201d targeting cryptocurrency holders in France."
+    },
+    {
+      "title": "Alabama Regulator Recovers $125K in Crypto Lost to Pig Butchering Scams",
+      "link": "https://decrypt.co/325321/alabama-recovers-125k-crypto-pig-butchering",
+      "summary": "Alabama recovers $125K+ in crypto for victims of romance scams that cost them nearly $580K through fake dating app relationships and platforms."
+    },
+    {
       "title": "Vietnam Passes Landmark Law Defining Digital Assets, Boosting AI and Chip Sectors",
       "link": "https://decrypt.co/325317/vietnam-passes-landmark-law-digital-assets",
       "summary": "The new law ends regulatory limbo for crypto while establishing massive incentives for semiconductors, AI, and digital startups."
@@ -144,21 +159,6 @@
       "title": "Trump Discloses $57M Windfall From Crypto Venture World Liberty Financial",
       "link": "https://decrypt.co/325314/trump-57m-windfall-crypto-venture-world-liberty-financial",
       "summary": "Trump has reported over $600 million in income from crypto, golf clubs, and licensing ventures in his latest federal financial disclosure."
-    },
-    {
-      "title": "Digital Finance Reform Could Add Billions to Australia's Economy, New Research Shows",
-      "link": "https://decrypt.co/325307/digital-finance-reform-billions-australia-new-research-shows",
-      "summary": "Australia could unlock billions annually through digital finance innovation and tokenization, but key hurdles remain."
-    },
-    {
-      "title": "Metaplanet Reaches 10,000 BTC Target Amid $210M Bond Issuance",
-      "link": "https://decrypt.co/325302/metaplanet-reaches-10000-btc-target-amid-210m-bond-issuance",
-      "summary": "Metaplanet is now aiming to acquire 210,000 BTC by 2027 equivalent to roughly 1% of Bitcoin\u2019s total supply"
-    },
-    {
-      "title": "This Week in Crypto Games: Dogecoin Got Game, FIFA Rivals Launches",
-      "link": "https://decrypt.co/325277/this-week-crypto-games-dogecoin-gaming-fifa-rivals",
-      "summary": "Dogecoin is about to get a slew of games via DogeOS and PlaysOut, FIFA Rivals is live on mobile, and more from the crypto gaming world."
     }
   ],
   "CryptoBriefing": [
@@ -190,14 +190,14 @@
   ],
   "AMBcrypto": [
     {
+      "title": "POPCAT defends $0.30 \u2013 THESE bullish crossovers indicate a move to\u2026",
+      "link": "https://ambcrypto.com/popcat-defends-0-30-these-bullish-crossovers-indicate-a-move-to/",
+      "summary": "<img alt=\"Popcat\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-23.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Popcat is attempting a breakout from a descending channel as it surges 9.08% over the past day, amid a higher buying pressure."
+    },
+    {
       "title": "Metaplanet surpasses Coinbase with 10,000 BTC \u2013 Stock soars 17% on $117M Bitcoin buy",
       "link": "https://ambcrypto.com/metaplanet-surpasses-coinbase-with-10000-btc-stock-soars-17-on-117m-bitcoin-buy/",
       "summary": "<img alt=\"Metaplanet\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Metaplanet-FIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Metaplanet's mNAV was 7.56, suggesting strong investor confidence in its BTC strategy"
-    },
-    {
-      "title": "A mid-year analysis: Who will lead Bitcoin mining in 2025?",
-      "link": "https://ambcrypto.com/a-mid-year-analysis-who-will-lead-bitcoin-mining-in-2025-2/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"549\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-16-154120.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"929\" />As the world\u2019s largest Bitcoin mining hub, the United States, rolled out a series of [&#8230;]"
     },
     {
       "title": "Ethereum recovers 20% in June -Will $3K be ETH\u2019s next stop in Q3?",
