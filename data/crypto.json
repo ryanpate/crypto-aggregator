@@ -1,32 +1,37 @@
 {
   "CoinDesk": [
     {
-      "title": "Vietnam Passes Landmark Law Recognizing Crypto Assets",
-      "link": "https://www.coindesk.com/policy/2025/06/16/vietnam-passes-landmark-law-recognizing-crypto-assets",
+      "title": "UNI Jumps 7%; Crypto Analyst Sees Breakout Momentum Toward $10",
+      "link": "https://www.coindesk.com/markets/2025/06/16/uni-jumps-7-crypto-analyst-sees-breakout-momentum-toward-usd10",
       "summary": ""
     },
     {
-      "title": "Metaplanet Overtakes Coinbase With 10K BTC, Becomes No. 9 Bitcoin Holder",
-      "link": "https://www.coindesk.com/markets/2025/06/16/metaplanet-overtakes-coinbase-with-10k-btc-becomes-no-9-bitcoin-holder",
+      "title": "Pakistan Engages Michael Saylor in Bold Push Toward Bitcoin-Backed Economy",
+      "link": "https://www.coindesk.com/markets/2025/06/16/pakistan-engages-michael-saylor-in-bold-push-toward-bitcoin-backed-economy",
       "summary": ""
     },
     {
-      "title": "Bitcoin Price Volatility Signal Goes Off \u2013 Is a Surge Ahead?",
-      "link": "https://www.coindesk.com/markets/2025/06/16/bitcoin-price-volatility-signal-goes-off-is-a-surge-ahead",
+      "title": "Hyperliquid's HYPE Becomes Fifth Largest Token in Futures Trading; XRP Remains Ahead",
+      "link": "https://www.coindesk.com/markets/2025/06/16/hyperliquid-s-hype-becomes-fifth-largest-token-in-futures-trading-xrp-remains-ahead",
       "summary": ""
     },
     {
-      "title": "Asia Morning Briefing: Risk of Escalating Israel-Iran Conflict Keeps BTC Around 105K Says QCP",
-      "link": "https://www.coindesk.com/markets/2025/06/15/asia-morning-briefing-risk-of-escalating-israel-iran-conflict-keeps-btc-around-105k-says-qcp",
+      "title": "UK Startup Optalysys Debuts Server for Blockchains",
+      "link": "https://www.coindesk.com/tech/2025/06/16/uk-startup-debuts-blockchain-dedicated-hardware-with-fully-homomorphic-encryption",
       "summary": ""
     },
     {
-      "title": "ETH Holds Strong; Is It the \u2018Digital Oil\u2019 Powering the Global Digital Economy?",
-      "link": "https://www.coindesk.com/markets/2025/06/15/eth-holds-strong-is-it-the-digital-oil-powering-the-global-digital-economy",
+      "title": "H100 Group Targets $79 Million Raise to Power Bitcoin Strategy",
+      "link": "https://www.coindesk.com/markets/2025/06/16/h100-group-targets-79-million-raise-to-power-bitcoin-strategy",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Amazon to invest $13B in Australian AI data center infrastructure",
+      "link": "https://cointelegraph.com/news/amazon-invests-13b-australian-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4MjYtM2RkOS03OGQwLThlOWEtNTExMzFhNjYxZDY2.jpg\" /></p><p>Amazon is investing over $13 billion in expanding AI and cloud infrastructure in Australia, including new solar farms and data centers nationwide.</p>"
+    },
     {
       "title": "Ex-TON Foundation exec launches crypto investment app on Telegram",
       "link": "https://cointelegraph.com/news/ex-ton-foundation-telegram-affluent-investment-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "$112K BTC was not \u2018bull market peak\u2019: 5 things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/news/112k-btc-not-bull-market-peak-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg\" /></p><p>From a $105,000 weekly close to 30 metrics seeing no end in sight for the bull market, Bitcoin is keeping moonshot hopes alive this week.</p>"
-    },
-    {
-      "title": "Crypto funds notch $1.9B of inflows as Bitcoin rebounds",
-      "link": "https://cointelegraph.com/news/crypto-funds-1-9-billion-inflows-bitcoin-surge-110000-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEyYmMtZWE5Yi03MmZjLWExZTQtNTNiN2EwNTZmZDc5.jpg\" /></p><p>With a fresh week of inflows recorded, crypto ETPs have reached a new record of year-to-date inflows of $13.2 billion.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "France eyes Bitcoin mining to cut energy waste and boost grid stability",
+      "link": "https://cryptoslate.com/france-eyes-bitcoin-mining-to-cut-energy-waste-and-boost-grid-stability/",
+      "summary": "<p>A group of lawmakers in France is advocating for a national review on how Bitcoin mining can help address the country&#8217;s persistent surplus in electricity production. The proposal, submitted to the French National Assembly on June 12, urges the government to examine whether Bitcoin&#8217;s energy-intensive mining process could be harnessed to absorb excess power, especially [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bybit launches Solana on-chain CeDeFi app Byreal as DEX volume jumps 16%",
+      "link": "https://cryptoslate.com/bybit-launches-solana-native-on-chain-dex-byreal-as-average-global-swap-volume-jumps-16/",
+      "summary": "<p>Bybit, one of the world\u2019s most active crypto derivatives exchanges, has announced the launch of Byreal, a decentralized exchange (DEX) built on Solana, marking its most aggressive push yet into DeFi. The move signals a broader pivot toward hybrid finance, where centralized liquidity meets decentralized transparency. \u201cByreal isn\u2019t &#8216;just another DEX.&#8217; It\u2019s combining CEX-grade liquidity [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin surges past $107k as crypto market defies global unrest over Israel-Iran tensions",
       "link": "https://cryptoslate.com/bitcoin-surges-past-107k-as-crypto-market-defies-global-unrest-over-israel-iran-tensions/",
@@ -68,19 +78,14 @@
       "title": "Vietnam ends crypto \u2018Grey Zone\u2019 with sweeping new digital asset legislation",
       "link": "https://cryptoslate.com/vietnam-ends-crypto-grey-zone-with-sweeping-new-digital-asset-legislation/",
       "summary": "<p>Vietnam has officially exited the crypto \u201cgrey zone.\u201d In a decisive June 14 vote, the National Assembly passed the Law on Digital Technology Industry, a sweeping legislative package that recognizes and regulates digital assets in one of the world\u2019s most active crypto markets for the first time. The law, which takes effect January 1, 2026, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Stablecoins are the \u2018highest utility form of money,\u2019 but industry is yet to reach \u2018iPhone moment\u2019: Circle CEO",
-      "link": "https://cryptoslate.com/stablecoins-are-the-highest-utility-form-of-money-but-industry-is-yet-to-reach-iphone-moment-circle-ceo/",
-      "summary": "<p>Jeremy Allaire, founder and CEO of Circle, the USD Coin (USDC) issuer that went public this month, called stablecoins the \u201chighest utility form of money ever created\u201d in an X post on June 15. He added, however, that the stablecoin industry is yet to experience a significant disruption. Programmability of stablecoins will usher in change [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase\u2019s sponsorship of Trump\u2019s military parade sparks debate over crypto\u2019s anti-establishment roots",
-      "link": "https://cryptoslate.com/coinbases-sponsorship-of-trumps-parade-sparks-debate-over-cryptos-anti-establishment-roots/",
-      "summary": "<p>Coinbase\u2019s sponsorship of the military parade in Washington, D.C., on June 14 has sparked a debate about whether crypto has lost sight of its original ethos. The parade, which was held to commemorate the U.S. Army\u2019s 250th birthday, took place amid the country-wide \u2018No Kings\u2019 protests. The protestors voiced their opposition to President Donald Trump\u2019s [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Whales Feast While Retail Flees\u2014ETH Ocean Just Got Hungrier",
+      "link": "https://www.newsbtc.com/altcoin/ethereum-whales-feast-while-retail-flees-eth-ocean-just-got-hungrier/",
+      "summary": "In the past month, big Ethereum wallets have been quietly piling on more Ether while small investors pull their profits. Activity on the network has been choppy but the heavy hitters have not slowed down. Retail traders, by contrast, have been cashing out as prices hover in a narrow range. Related Reading: Crypto Bloodbath: Over $1 Billion Liquidated As Iran-Israel Tensions Erupt Whales And Sharks Increasing Holdings According to data from Santiment, wallets holding between 1,000 and 100,000 ETH have added a net total of nearly 1.5 million ETH over the last 30 days. That boost represents a 3.70% rise in their combined holdings. These so\u2011called whales and sharks now control over 41 million ETH, or about a quarter of all Ether in circulation. It\u2019s a clear sign that large traders see value in Ethereum at these levels, even as the market trades sideways. \ud83d\udc33 There are currently 6,392 wallets holding between 1K and 100K Ethereum. Over the past month alone, these key whale and shark wallets have rapidly added more coins as retail traders have taken profit. During these past 30 days, a net of +1.49M more $ETH has been accumulated by\u2026 pic.twitter.com/1hPBTuAOrL \u2014 Santiment (@santimentfeed) June 13, 2025 Sideways Trading And Price Moves Ethereum\u2019s price action has been muted. Based on reports from CoinGecko, Ether is up 5% in the last 14 days and 5.4% over the past month. It\u2019s trading around $2,625 almost 45% below its all\u2011time high. The slow grind suggests neither buyers nor sellers have full conviction. Still, big holders continue to stack coins, waiting for the next catalyst. Rising Activity On Layer 2 And Services On\u2011chain data shows whales directing attention to specific services. Transaction volume in Ethereum Name Service jumped over 300% in the second week of July. Lending protocols on Ethereum saw a more than 200% rise. Meanwhile, transfers of USDC on layer 2 networks\u2014Base, Arbitrum and Optimism\u2014all posted triple\u2011digit gains. These numbers point to growing use of scaling layers and services beyond simple trading. Spot ETF Inflows Update Institutional interest has been strong too. US spot Ether products saw inflows for 19 straight days before a small pullback. That streak brought in $1.37 billion, mostly into BlackRock\u2019s iShares Ethereum Trust. On the day the run ended, the funds recorded just a little over $2 million in outflows. It\u2019s a minor wobble in what has so far been a solid embrace of Ether by big financial firms. Related Reading: Amid Bitcoin Hype, Seasoned Trader Predicts Sudden Drop To This Level Big Appetite Meanwhile, big wallets keep buying while smaller traders lock in gains. Network activity on services and layer 2s is surging. And institutions are still putting fresh dollars into Ethereum via ETFs. For now, Ether sits in a tight range. But when demand meets a clear price trigger, that quiet build\u2011up of coins in big wallets could push things to the upside. Featured image from Imagen, chart from TradingView"
+    },
     {
       "title": "$8 Dogecoin? Analyst Says You\u2019ll Regret Sleeping On This Chart",
       "link": "https://www.newsbtc.com/news/dogecoin/8-dogecoin-youll-regret-sleeping-on-this-chart/",
@@ -100,14 +105,14 @@
       "title": "XRP Price Tries to Bounce Back\u2014But Hurdles May Delay the Comeback",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-tries-to-bounce-back-2-150/",
       "summary": "XRP price started a fresh decline and tested the $2.080 zone. The price is now recovering and might aim for an upward move above the $2.20 resistance. XRP price started a decent upward move from the $2.080 zone. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. There is a short-term rising channel forming with support at $2.140 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another increase if it clears the $2.20 resistance zone. XRP Price Eyes Recovery XRP price declined below the $2.250 and $2.20 levels, like Bitcoin and Ethereum. The price even declined below the $2.120 zone and tested the $2.080 support. A low was formed at $2.085 and the price is now attempting to recover. There was a move above the $2.10 and $2.120 levels. The price climbed above the 23.6% Fib retracement level of the downward move from the $2.338 swing high to the $2.085 low. Besides, there is a short-term rising channel forming with support at $2.140 on the hourly chart of the XRP/USD pair. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.20 level. The first major resistance is near the $2.2120 level. It is close to the 50% Fib retracement level of the downward move from the $2.338 swing high to the $2.085 low. The next resistance is $2.250. A clear move above the $2.250 resistance might send the price toward the $2.320 resistance. Any more gains might send the price toward the $2.350 resistance or even $2.3650 in the near term. The next major hurdle for the bulls might be $2.420. Another Decline? If XRP fails to clear the $2.20 resistance zone, it could start another decline. Initial support on the downside is near the $2.140 level and the trend line. The next major support is near the $2.120 level. If there is a downside break and a close below the $2.120 level, the price might continue to decline toward the $2.080 support. The next major support sits near the $2.020 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.150 and $2.120. Major Resistance Levels \u2013 $2.20 and $2.2120."
-    },
-    {
-      "title": "Ethereum Price Eyes Recovery\u2014Can ETH Kick Off a Fresh Upside Move?",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-eyes-recovery-2620/",
-      "summary": "Ethereum price started a fresh decline and tested the $2,450 zone. ETH is now correcting losses and might aim for a move above the $2,620 resistance. Ethereum started a fresh decline below the $2,750 level. The price is trading near $2,575 and the 100-hourly Simple Moving Average. There was a break above a contracting triangle with resistance at $2,550 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it clears the $2,620 zone in the near term. Ethereum Price Corrects Losses Ethereum price started a fresh decline below the $2,750 and $2,620 levels, like Bitcoin. ETH price even traded below the $2,500 level and tested $2,440. A low was formed at $2,441 and the price recently started a recovery wave. There was a move above the $2,500 and $2,520 levels. The price surpassed the 23.6% Fib retracement level of the downward move from the $2,880 swing high to the $2,441 low. Besides, there was a break above a contracting triangle with resistance at $2,550 on the hourly chart of ETH/USD. Ethereum price is now trading near $2,575 and the 100-hourly Simple Moving Average. On the upside, the price could face resistance near the $2,585 level. The next key resistance is near the $2,620 level. The first major resistance is near the $2,660 level. It is near the 50% Fib retracement level of the downward move from the $2,880 swing high to the $2,441 low. A clear move above the $2,660 resistance might send the price toward the $2,720 resistance. An upside break above the $2,720 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,800 resistance zone or even $2,880 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,620 resistance, it could start a fresh decline. Initial support on the downside is near the $2,540 level. The first major support sits near the $2,500 zone. A clear move below the $2,500 support might push the price toward the $2,440 support. Any more losses might send the price toward the $2,420 support level in the near term. The next key support sits at $2,350. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,500 Major Resistance Level \u2013 $2,620"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Japan\u2019s Metaplanet Hits 10,000 Bitcoin, Overtakes Coinbase",
+      "link": "https://bitcoinmagazine.com/news/japans-metaplanet-hits-10000-bitcoin-overtakes-coinbase",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/japan-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/japans-metaplanet-hits-10000-bitcoin-overtakes-coinbase\" rel=\"nofollow\">Japan&#8217;s Metaplanet Hits 10,000 Bitcoin, Overtakes Coinbase</a></p> <p>Metaplanet has acquired an additional 1,112 Bitcoin for $117.2 million, bringing its total holdings to 10,000 BTC and overtaking Coinbase to become the ninth-largest publicly traded holder of Bitcoin.</p> <p>"
+    },
     {
       "title": "Bitcoin Layer 2: Statechains",
       "link": "https://bitcoinmagazine.com/technical/bitcoin-layer-2-statechains",
@@ -127,11 +132,6 @@
       "title": "UK Gold Mining Company Bluebird to Convert Gold Revenues into Bitcoin",
       "link": "https://bitcoinmagazine.com/news/uk-gold-mining-company-bluebird-to-convert-gold-revenues-into-bitcoin",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/UK-Gold-Mining-Company-Bluebird-to-Convert-Gold-Revenues-into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/uk-gold-mining-company-bluebird-to-convert-gold-revenues-into-bitcoin\" rel=\"nofollow\"> </a></p> <p>Bluebird Mining Ventures Ltd. will adopt bitcoin as a treasury reserve asset and convert future gold revenues into Bitcoin.</p> <p>"
-    },
-    {
-      "title": "JPMorgan Reports Record Profits for Bitcoin Miners in Q1",
-      "link": "https://bitcoinmagazine.com/news/jpmorgan-reports-record-profits-for-bitcoin-miners-in-q1",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/JP-MORGAN.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/jpmorgan-reports-record-profits-for-bitcoin-miners-in-q1\" rel=\"nofollow\"> </a></p> <p>Bitcoin mining companies in the U.S. have kicked off 2025 with record performance, according to a recent report. The first quarter of the year was \u201cone of Bitcoin miners&#8217; best quarters to date,\u201d analysts Reginald Smith and Charles Pearce stated.&#160; &#8220;Four of the five operators in our coverage reported record revenue and profits,&#8221; the report [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Metaplanet surpasses Coinbase with 10,000 BTC \u2013 Stock soars 17% on $117M Bitcoin buy",
+      "link": "https://ambcrypto.com/metaplanet-surpasses-coinbase-with-10000-btc-stock-soars-17-on-117m-bitcoin-buy/",
+      "summary": "<img alt=\"Metaplanet\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Metaplanet-FIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Metaplanet's mNAV was 7.56, suggesting strong investor confidence in its BTC strategy"
+    },
+    {
+      "title": "A mid-year analysis: Who will lead Bitcoin mining in 2025?",
+      "link": "https://ambcrypto.com/a-mid-year-analysis-who-will-lead-bitcoin-mining-in-2025-2/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"549\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-16-154120.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"929\" />As the world\u2019s largest Bitcoin mining hub, the United States, rolled out a series of [&#8230;]"
+    },
+    {
       "title": "Ethereum recovers 20% in June -Will $3K be ETH\u2019s next stop in Q3?",
       "link": "https://ambcrypto.com/ethereum-recovers-20-in-june-will-3k-be-eths-next-stop-in-q3/",
       "summary": "<img alt=\"Ethereum ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-12.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Leverage is bleeding out, with liquidity slipping into spot hands - Fuel for Ethereum\u2019s next real move?"
@@ -203,16 +213,6 @@
       "title": "Is SHIB\u2019s bearish run over? Watch for a potential reversal near $0.0000114!",
       "link": "https://ambcrypto.com/is-shibs-bearish-run-over-watch-for-a-potential-reversal-near-0-0000114/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Shiba-Inu-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The magnetic zone at the SHIB local low will likely be tested as support soon."
-    },
-    {
-      "title": "AAVE price prediction \u2013 A deeper retracement may be on the cards because\u2026",
-      "link": "https://ambcrypto.com/aave-price-prediction-all-about-the-possibility-of-the-altcoin-falling-once-again/",
-      "summary": "<img alt=\"AAVE price prediction - All about the possibility of the altcoin falling once again\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Aave-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The breakout succeeded briefly, but Bitcoin's correction and market fears saw AAVE drop towards $260."
-    },
-    {
-      "title": "Dogecoin\u2019s road to slow recovery \u2013 Here\u2019s why investors should be ready for volatility!",
-      "link": "https://ambcrypto.com/dogecoins-road-to-slow-recovery-heres-why-investors-should-be-ready-for-volatility/",
-      "summary": "<img alt=\"Dogecoin&#039;s road to slow recovery - Here&#039;s why investors should be ready for volatility!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The leading memecoin was unable to defeat the $0.2 resistance."
     }
   ]
 }
