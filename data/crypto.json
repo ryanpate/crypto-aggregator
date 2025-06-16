@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Spot XRP ETF Set to Start Trading in Canada This Week After Regulatory Nod, Token Up 7%",
+      "link": "https://www.coindesk.com/markets/2025/06/16/spot-xrp-etf-set-to-start-trading-in-canada-this-week-after-regulatory-nod-token-up-7",
+      "summary": ""
+    },
+    {
+      "title": "Litecoin Climbs Over 2% as Whale Holdings Grow and Price Breaks Key Resistance",
+      "link": "https://www.coindesk.com/markets/2025/06/16/litecoin-climbs-over-2-as-whale-holdings-grow-and-price-breaks-key-resistance",
+      "summary": ""
+    },
+    {
       "title": "SUI Is \u2018On the Edge of a New Run Towards Highs,' Says Crypto Analyst Micha\u00ebl Van De Poppe",
       "link": "https://www.coindesk.com/markets/2025/06/16/sui-is-on-the-edge-of-a-new-run-towards-highs-says-crypto-analyst-michael-van-de-poppe",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "BNB Climbs as Transaction Activity Surges, DEX Volume Tops $100B",
       "link": "https://www.coindesk.com/markets/2025/06/16/bnb-climbs-as-transaction-activity-surges-dex-volume-tops-100b",
       "summary": ""
-    },
-    {
-      "title": "AVAX Rises 3% in V-Shaped Recovery, Defies Middle East Uncertainty",
-      "link": "https://www.coindesk.com/markets/2025/06/16/avax-rises-3-in-v-shaped-recovery-defies-middle-east-uncertainty",
-      "summary": ""
-    },
-    {
-      "title": "NEAR Surges 6% to Break Key Resistance",
-      "link": "https://www.coindesk.com/markets/2025/06/16/near-surges-6-to-break-key-resistance",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Price predictions 6/16: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
+      "link": "https://cointelegraph.com/news/price-predictions-6-16-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5ZjItOTBhMy03NWE2LWJiY2ItYmZjMjRkYTM1M2Nh.jpg\" /></p><p>Altcoins remain in a consolidation phase even as Bitcoin price looks ready to take a stab at new all-time highs.</p>"
+    },
+    {
+      "title": "ETH price slips, but institutions flock to Ethereum staking \u2014 Lido Exec",
+      "link": "https://cointelegraph.com/news/ethereum-staking-institutional-demand-lido-steth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFhY2EtZmI4Mi03NmYxLTg1ZDktYWY2ZTk3OTE5ZDJj.jpg\" /></p><p>Ether price has significantly underperformed in 2025, but institutional demand for Ethereum staking is growing, says Lido Foundation\u2019s Kean Gilbert.</p>"
+    },
     {
       "title": "Early Bitcoin adopter says BTC could have another 100X cycle",
       "link": "https://cointelegraph.com/news/early-bitcoin-adopter-says-btc-could-have-another-100x-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Cointelegraph joins forces with Nansen to boost crypto journalism with onchain data",
       "link": "https://cointelegraph.com/news/cointelegraph-joins-forces-with-nansen-to-boost-crypto-journalism-with-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wYjE4OTkyYjFiYzBlZDc5YTcyOTFhODI4ZTVjYWE2Ni5qcGc=.jpg\" /></p><p> teams up with Nansen, the leading onchain analytics platform, to integrate real-time blockchain data into its content, empowering millions of crypto investors and teams with deeper insights into DeFi, Web3 and market trends.</p>"
-    },
-    {
-      "title": "Crypto regulation needs more technologists and fewer suits",
-      "link": "https://cointelegraph.com/news/crypto-regulationtechnologists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmExNDMtZDFhOC03ODFkLTg5MDUtNzY2MzgzMDU5Yzgx.jpg\" /></p><p>The crypto community is missing the opportunity to reimagine rather than transpose rulemaking for financial services. More technologists must join the regulatory conversation.</p>"
-    },
-    {
-      "title": "SRM to build $210M TRX treasury, rebrand as Tron Inc. with Justin Sun as adviser",
-      "link": "https://cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4ZjktNDEyNy03YzkyLWE5NzQtYzI5MmE3ZTBkOTVk.jpg\" /></p><p>The move by Nasdaq-listed SRM Entertainment comes amid a regulatory thaw between the US Securities and Exchange Commission and Tron founder Sun.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "ZachXBT warns suspected ZKasino fraudster may be linked to new crypto venture WhiteRock",
+      "link": "https://cryptoslate.com/zachxbt-warns-suspected-zkasino-fraudster-may-be-linked-to-new-crypto-venture-whiterock/",
+      "summary": "<p>Investigators have linked a figure in the $30 million ZKasino alleged scam to a fresh cryptocurrency project branded WhiteRock (WHITE), on-chain analyst ZachXBT reported in a June 16 post on X. WhiteRock surfaced in December 2024 with an anonymous team, overstated user counts, and unverifiable claims about a USDX reserve, researchers at Blokiments wrote in [&#8230;]</p> <p>"
+    },
     {
       "title": "Trump Media files for groundbreaking Bitcoin and Ethereum ETF",
       "link": "https://cryptoslate.com/trump-media-files-for-groundbreaking-bitcoin-and-ethereum-etf/",
@@ -73,14 +78,14 @@
       "title": "Solana co-founder calls Cardano\u2019s proposed $100M treasury move to Bitcoin \u2018so dumb\u2019",
       "link": "https://cryptoslate.com/solana-co-founder-questions-cardanos-proposed-100m-treasury-move-to-bitcoin/",
       "summary": "<p>Solana Labs co-founder Anatoly Yakovenko has opposed Cardano&#8217;s leadership&#8217;s new proposal to convert part of its treasury into Bitcoin. In a June 16 post on X, Yakovenko suggested the idea was misguided, arguing that it reflects poor treasury management and sends the wrong message to the Cardano community. According to him: &#8220;Projects should keep 18-36 [&#8230;]</p> <p>"
-    },
-    {
-      "title": "CBDCs, control and the economic debate shaping Spain\u2019s future \u2013 surveillance and stagnation, or freedom?",
-      "link": "https://cryptoslate.com/holding-up-a-mirror-cbdcs-control-and-the-economic-debate-shaping-spains-future-surveillance-and-stagnation-or-freedom/",
-      "summary": "<p>The following is a guest post and opinion from Laura Estefania, Founder and CEO of Conquista PR. Last weekend, the Madrid Economic Forum 2025 offered more than economic analysis. It became a reflection of Spain\u2019s shifting political and cultural mood, especially on a question that cuts to the core of modern life: how much of [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Key Fractal From 2023 Says Bitcoin Price Is Still Bullish, But A Crash To $90,000 Could Be Coming",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-is-still-bullish/",
+      "summary": "Crypto analyst X Force has drawn the crypto community\u2019s attention to a key fractal from 2023, which paints a bullish picture for the Bitcoin price. However, the analyst suggested that a drop to $90,000 could still be on the cards for BTC, although that won\u2019t invalidate the macro setup. Key Fractal Shows Bitcoin Price Is Still Bullish In an X post, X Force highlighted a key fractal from the early phase of the 2023 bull market and noted why it supports the view that the current trend remains bullish. He remarked that the price structure that was observed back then could offer insights relevant to the current analysis, as history often rhymes even though it might not repeat itself exactly. Related Reading: Bitcoin Price Crash To $94,000 Imminent As Fibonacci Resistance Is At Stake X Force then noted that in 2023, a larger degree wave 1 terminated, followed by a shallow wave 2 that retraced only to the 23.6% to 38.2% Fibonacci levels. The analyst then declared that this interpretation wasn\u2019t just hindsight but it was the only valid count even in real-time. He also raised the possibility of the Bitcoin price creating another low. X Force explained that the context of the micro timeframes is losing weight as every bounce and dump is extremely sensitive to the overall creation of the wave structure. Meanwhile, the analyst indicated that the Bitcoin price could still drop to as low as $90,000 but noted that it is important that BTC remains above this critical support level. In an X post, the crypto analyst stated that as long as the Bitcoin price stays above the $90,000 level, the implications of the shorter-term price action have zero impact on the overall macro trend. X Force added that pullbacks and choppiness are not only healthy but vital to any bull market. A BTC Price Crash Imminent? Veteran trader Peter Brandt has raised the possibility of a Bitcoin price crash happening soon. In an X post, he questioned if November 2021 was happening all over again for the flagship crypto. His accompanying chart showed how that period formed the cycle peak for BTC, following a double top formation. Related Reading: Bitcoin Price Above $107,000 Is Ideal, But Don\u2019t Get Excited Until This Happens The Bitcoin price then crashed from its all-time high (ATH) of around $69,000 and consolidated for over two years before witnessing another breakout in 2024. The chart indicated that BTC may have formed a double top again following the recent rally to a new all-time high of $111,900. If so, this could mark the end of the cycle\u2019s bull run, with a crash set to follow. However, the chart suggested that BTC could sustain this bull run if it holds above $104,612. At the time of writing, the Bitcoin price is trading at around $106,700, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com"
+    },
     {
       "title": "Ethereum Holds Key Range Support \u2013 Bulls Set Sights on Higher Levels",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-holds-key-range-support-bulls-set-sights-on-higher-levels/",
@@ -100,14 +105,19 @@
       "title": "Vietnam\u2019s Historic Move to Legalize Crypto Could Add Rocket Fuel to These Top Altcoins",
       "link": "https://www.newsbtc.com/news/vietnams-historic-move-to-legalize-crypto-could-add-rocket-fuel-to-these-top-altcoins/",
       "summary": "Did the next major move in blockchain technology just come from Vietnam? Developing nations are becoming key crypto drivers, with Vietnam and Pakistan emerging in recent days as potential leaders. Establishing country-level crypto standards like Vietnam has done, or developing frameworks and planning a national Bitcoin reserve, the way Pakistan is doing, can only boost crypto adoption at home and abroad. It also showcases how Bitcoin and broader blockchain technology can help emerging economies fuel growth and innovation. As we&#8217;ll discuss later, it could also add rocket fuel to some of the top altcoins. Vietnam, Saylor, Pakistan: 4 Takeaways What do the moves in Pakistan and Vietnam mean for the broader crypto economy? Here are four takeaways: Groundbreaking Legal Clarity in Vietnam On June 14, 2025, Vietnam passed its Law on Digital Technology Industry, effective January 1, 2026, categorizing crypto as a distinct, regulated asset class. This law affects 17M crypto holders and $105B in inflows over 2023\u201324, and provides much-needed stability, boosting investor confidence. Frameworks that Foster Innovation Vietnam\u2019s approach goes beyond crypto legalization. The law introduces incentives, such as tax breaks, R&#38;D support, and land-use benefits for sectors like AI and blockchain infrastructure, signaling a national pivot toward a tech-first economy. Pakistan\u2019s Strategic Crypto Pivot Pakistan followed Vietnam\u2019s lead a day later, on June 15, 2025, when Michael Saylor engaged with Pakistan\u2019s finance leadership to champion Bitcoin as a sovereign reserve asset. Pakistan launched the Pakistan Crypto Council in March 2025, developing frameworks and planning a national Bitcoin reserve, along with crypto mining infrastructure. Emerging Economies Leading the Way? Vietnam and Pakistan\u2019s moves reflect a global trend: emerging economies are leveraging digital assets to level up economically, rather than merely following Western nations. Demonstrating a greater appetite for crypto\u2019s revolutionary potential, Pakistan, Vietnam, and others are pushing the limits of crypto\u2019s potential in ways that could send leading altcoins soaring. Let&#8217;s investigate how top altcoins like Bitcoin Hyper, Uniswap, and Snorter Token could fare as global adoption grows. 1. Bitcoin Hyper ($HYPER) \u2013 Bitcoin\u2019s First-Ever Layer 2 Launches with SVM Bitcoin\u2019s great, we can all agree \u2013 230% AAR, a $2T+ market cap, etc. But could that be just the start? Bitcoin Hyper ($HYPER) unleashes Bitcoin&#8217;s full potential. While right now, $BTC is one of the world\u2019s best store-of-value assets, when it comes to crypto applications, it&#8217;s somewhat limited due to its original architecture. Bitcoin Hyper builds a Layer 2 on top of Bitcoin, leveraging the Bitcoin Relay Program on the Solana Virtual Machine (SVM) to verify Bitcoin block headers and transaction proofs for any $BTC deposited to Bitcoin Hyper\u2019s Canonical Bridge. The result is lightning-fast transaction resolution and the ability to build out an entire DeFi ecosystem on Bitcoin. There\u2019s a growing interest in Layer 2 solutions; another hot crypto presale \u2013 Solaxy ($SOLX) \u2013 just smashed through $50M raised with a Solana Layer-2. Could $HYPER surpass that with its Layer-2 solution for the world\u2019s largest crypto asset? $HYPER tokens cost $0.0119, with $1.3M raised in the presale so far. Check out the whitepaper, or learn how to buy Bitcoin Hyper, and see why we think the token could go from $0.0119 to $0.02595 for 118% gains. Visit the Bitcoin Hyper ($HYPER) presale page. 2. Uniswap ($UNI) \u2013 Utility Token for Leading DeFi Protocol Seeks to Regain Previous Highs It\u2019s a leading DEX, with over $1.78B traded in the past 24 hours. But Uniswap is also the 27th-largest crypto token, with a market cap of $4.91B. That\u2019s impressive enough, but could $UNI be ready to make another run? The token trades well below its all-time high of $44.97 in the heady days of the 2021 bull run. But $UNI is on the list of assets currently held by the US government \u2013 and therefore eligible for the US Digital Assets Stockpile. Uniswap officials have also been involved in talks with the US Congress over pending legislation and decentralized finance. Add in global shifts towards more formal, organized crypto frameworks, and $UNI might be ready to make big moves. 3. Snorter Token ($SNORT) \u2013 Dominate the New World of Solana Meme Coins with Snorter Bot With new meme coins launching on Solana daily, some of the best opportunities to 10x your investment live underground. Finding and trading them takes time and effort, but $SNORT and the Snorter Bot make the process easy. The Snorter Bot sniffs out the best trading opportunities. Find them, snipe them, and stay safe from rug pulls and honeypots \u2013 all with the Snorter Bot. The $SNORT token facilitates lightning-fast swapping with the lowest fees possible on Solana. As DeFi grows alongside crypto adoption, it could set the stage for tokens like $SNORT. The meme coin market is flourishing, even as traders get more and more sophisticated. Give your meme coin trading a leg up with $SNORT, currently priced at $0.0953. The presale has raised over $1M so far, showing rapid investor interest. Visit the Snorter Token ($SNORT) presale page. Vietnam, Pakistan Embrace Crypto, Set Stage for Altcoins As countries like Vietnam and Pakistan take the lead in embracing crypto, the message is clear: digital assets are no longer just speculative tools, but strategic economic levers. Vietnam\u2019s legislative clarity and Pakistan\u2019s sovereign Bitcoin ambitions show that emerging economies are helping define the future of finance. Whether it\u2019s foundational DeFi tokens like Uniswap, revolutionary Layer-2s like Bitcoin Hyper, or cutting-edge trading tools like Snorter Token, the next wave of growth could be here. Don\u2019t take our word for it \u2013 do your own research. Crypto is volatile, and this isn\u2019t financial advice."
-    },
-    {
-      "title": "Still Sleeping On XRP? Analyst Says $8 Breakout Is \u2018Just Waiting\u2019",
-      "link": "https://www.newsbtc.com/xrp-news/still-sleeping-on-xrp-8-breakout-just-waiting/",
-      "summary": "In a livestream on June 15, crypto analyst Cantonese Cat delivered a firm verdict on XRP\u2019s prolonged consolidation: don\u2019t be fooled by the sideways drift. Despite trading in a tight range for over half a year, the chart veteran argued XRP is building energy for a powerful move, one that could take it as high as $6 to $8 once it breaks out of its multi-month technical cage. XRP To $8? \u201cThis thing has been going sideways for seven months,\u201d he said. \u201cBut the entire time, it\u2019s just hugging this GAN line.\u201d He referred to a long-standing monthly Gann arc structure that XRP has been grinding against since late 2024. In his interpretation, the repeated tests of that arc\u2014combined with price holding above key support zones\u2014signal strength rather than weakness. \u201cIt\u2019s just waiting for its thing,\u201d he added, implying that the eventual move could be sharp and sudden. Related Reading: XRP Price Still On Track For $1.5T Market Cap And 27% Crypto Market Dominance Cantonese Cat highlighted that the current price action is sitting just beneath the next major Gann resistance level, which aligns closely with a Fibonacci extension target between $6 and $8. That arc, he believes, will be the trigger. \u201cI think the next level is going to end up breaking up to the GAN arc up above,\u201d he said, adding that a clean breach of this level could mark the start of XRP\u2019s long-awaited parabolic run. He also pulled up the monthly Ichimoku Cloud, pointing out that XRP had already broken above it\u2014a significant bullish milestone in Ichimoku analysis. \u201cInitially it had a rejection of the Ichimoku cloud,\u201d he explained, \u201cand now we have a true breakout.\u201d Most importantly, XRP has held the Tenkan and Kijun without falling back into the cloud. \u201cThis is basically a look of bullishness,\u201d he noted, citing the textbook structure of a confirmed trend reversal. The broader structure, according to his analysis, is a classic breakout setup: a horizontal level was cleared, back-tested, and is now serving as support. \u201cYou\u2019re basically breaking above a horizontal level here and back testing it. And so far, you\u2019re holding it pretty convincingly.\u201d To reinforce his thesis, he pointed to Fibonacci retracements\u2014specifically, XRP\u2019s behavior around the 0.86 level, which the asset has been flirting with. \u201cIf you\u2019re able to convincingly break above 0.86 here,\u201d he said, \u201cthen all-time high stuff could happen.\u201d Asked by viewers why the market isn\u2019t moving yet, he dismissed the apparent stagnation as noise. \u201cIt\u2019s just going sideways, guys,\u201d he said. \u201cIt\u2019s just waiting for its thing.\u201d In his view, the lack of momentum is not a sign of weakness, but rather a signal that XRP is compressing in a low-volatility zone\u2014a typical prelude to a high-volatility expansion. \u201cWhenever it decides to get done with this shenanigans,\u201d he added, \u201cit\u2019s probably going to go up.\u201d Despite XRP\u2019s muted performance while other assets like Bitcoin and Solana have captured headlines, Cantonese Cat made clear that he sees no structural damage on the chart. Quite the opposite: he views the persistent adherence to long-term support levels, especially on the monthly timeframe, as an indication that XRP is simply coiling beneath resistance. Related Reading: XRP Has A 70% Shot To Beat Bitcoin, Says Analyst In a cycle increasingly defined by breakout-driven flows and rotational capital, he framed XRP\u2019s dormancy not as a failure, but as a delayed opportunity. \u201cStill holding the Tenkan and Kijun just fine,\u201d he said. \u201cThis is what bullish looks like.\u201d The analyst didn\u2019t offer a date, but was blunt about the price levels to watch. If XRP clears the monthly Gann arc and maintains strength above the 0.86 Fibonacci zone, the $6\u2013$8 range comes into play\u2014levels that would not only exceed previous all-time highs, but also flip sentiment from apathy to euphoria in a matter of weeks. Until then, he warned, XRP\u2019s breakout might not announce itself loudly. But when it comes, few will be positioned. \u201cStill sleeping on XRP?\u201d he asked. \u201cYou might want to wake up soon.\u201d At press time, XRP traded at $2.20 Featured image created with DALL.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Trump Media Files to Launch Bitcoin and Ethereum ETF",
+      "link": "https://bitcoinmagazine.com/news/trump-media-files-to-launch-bitcoin-and-ethereum-etf",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Trump-Media-Files-to-Launch-Bitcoin-and-Ethereum-ETF.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/trump-media-files-to-launch-bitcoin-and-ethereum-etf\" rel=\"nofollow\"> </a></p> <p>Trump Media &#38; Technology Group has filed a registration statement with the U.S. Securities and Exchange Commission to launch the Truth Social Bitcoin and Ethereum ETF, B.T. The ETF will directly hold Bitcoin and Ether, with an initial allocation of 75% Bitcoin and 25% Ether. Shares of the fund will be offered to investors to [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Michael Saylor and Pakistan\u2019s Crypto Minister Bilal Talk Bitcoin and Global Investment",
+      "link": "https://bitcoinmagazine.com/news/michael-saylor-and-pakistans-crypto-minister-bilal-talk-bitcoin-and-global-investment",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Michael-Saylor-and-Pakistans-Crypto-Minister-Bilal-Talk-Bitcoin-and-Global-Investment.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/michael-saylor-and-pakistans-crypto-minister-bilal-talk-bitcoin-and-global-investment\" rel=\"nofollow\"> </a></p> <p>Michael Saylor discussed how trust and leadership could attract global Bitcoin investments to Pakistan.</p> <p>"
+    },
     {
       "title": "Senator Hagerty\u2019s Vision Beyond The GENIUS Act: Make Tennessee A Hub For Bitcoin Mining",
       "link": "https://bitcoinmagazine.com/politics/senator-hagertys-vision-beyond-the-genius-act-make-tennessee-a-hub-for-bitcoin-mining",
@@ -122,19 +132,24 @@
       "title": "Canadian Company Universal Digital Launches Bitcoin Treasury Strategy",
       "link": "https://bitcoinmagazine.com/news/canadian-company-universal-digital-launches-bitcoin-treasury-strategy",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Canadian-Company-Universal-Digital-Launches-Bitcoin-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/canadian-company-universal-digital-launches-bitcoin-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>The company begins reallocating altcoin holdings into Bitcoin as part of a new reserve model and partners with Ground Financial Advisory Co. to promote Bitcoin across Japan.</p> <p>"
-    },
-    {
-      "title": "Leading OnChain Comms Agency Melrose PR Joins Decentralized Gentleman\u2019s Club with Rare Pepe Inscription on Bitcoin",
-      "link": "https://bitcoinmagazine.com/press-releases/leading-onchain-comms-agency-melrose-pr-joins-decentralized-gentlemans-club-with-rare-pepe-inscription-on-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/melrose-pr-onchain-press-release.png\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/press-releases/leading-onchain-comms-agency-melrose-pr-joins-decentralized-gentlemans-club-with-rare-pepe-inscription-on-bitcoin\" rel=\"nofollow\">Leading OnChain Comms Agency Melrose PR Joins Decentralized Gentleman&#8217;s Club with Rare Pepe Inscription on Bitcoin</a></p> <p>LOS ANGELES, CA \u2014 Melrose PR, the leading onchain communications agency, officially joins Decentralized Gentlemen Club (DGC) with the minting of a rare Pepe inscription on the Bitcoin blockchain. The Decentralized Gentlemen Club (DGC) will be the biggest collection on Bitcoin when complete at 3GB, which is twice as large as the next biggest collection. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Smarter Web Company Raises \u00a329.3M to Grow Bitcoin Holdings",
-      "link": "https://bitcoinmagazine.com/news/smarter-web-company-raises-29-3m-to-grow-bitcoin-holdings",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Smarter-Web-Company-to-Grow-Bitcoin-Holdings.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/smarter-web-company-raises-29-3m-to-grow-bitcoin-holdings\" rel=\"nofollow\"> </a></p> <p>The Smarter Web Company, a UK-based web design and digital services firm, has raised \u00a329.3 million in a new funding round to support its Bitcoin treasury strategy. The raise was completed through an accelerated bookbuild and a subscription with institutional investors. Shares were priced at \u00a31.80 each, matching the closing bid on Friday, June 13. [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "CoinShares Solana ETF Joins Growing List of Applications for Altcoin-Based Funds",
+      "link": "https://decrypt.co/325341/coinshares-solana-etf-joins-growing-list-of-applications-for-altcoin-based-funds",
+      "summary": "The CoinShares Solana ETF would track the sixth largest crypto by market cap and trade on the Nasdaq."
+    },
+    {
+      "title": "Trump\u2019s Bitcoin Bet Lifts BTC and ETH as Wall Street Panics Over Iran: Analysis",
+      "link": "https://decrypt.co/325361/trump-bitcoin-bet-btc-eth-wall-street-panic-iran",
+      "summary": "The crypto market shrugged off global conflict with BTC and ETH holding the line, preventing a panic episode in the crypto scene."
+    },
+    {
+      "title": "Play With Doge: Games That Feature the Dogecoin Meme Pup",
+      "link": "https://decrypt.co/296510/doge-games-feature-dogecoin-meme",
+      "summary": "From a battle royale shooter to a trading card game and arcade brawler, these Dogecoin-inspired games capture the DOGE spirit."
+    },
     {
       "title": "Circle Stock Spikes to All-Time High as Ethereum Treasury SharpLink Begins Rebound",
       "link": "https://decrypt.co/325358/circle-stock-all-time-high-ethereum-treasury-sbet-rebounds",
@@ -144,24 +159,19 @@
       "title": "SRM Stock Soars 580% as Justin Sun's Tron Eyes Nasdaq Debut",
       "link": "https://decrypt.co/325352/srm-stock-soars-580-justin-suns-tron-eyes-nasdaq-debut",
       "summary": "The Florida-based theme-park supplier plans on renaming to Tron."
-    },
-    {
-      "title": "Trump Media Files to Launch Truth Social Bitcoin and Ethereum ETF",
-      "link": "https://decrypt.co/325348/trump-media-files-truth-social-bitcoin-ethereum-etf",
-      "summary": "President Trump's company plans to launch a joint Bitcoin and Ethereum ETF under the Truth Social name, following a solo Bitcoin ETF filing."
-    },
-    {
-      "title": "Coinbase, Gemini Angling for MiCA Licenses in Malta and Luxembourg: Reuters",
-      "link": "https://decrypt.co/325339/coinbase-gemini-mica-licenses-malta-luxembourg",
-      "summary": "Major crypto exchanges Gemini and Coinbase near EU-wide licenses, sparking regulatory concerns about standards and \"race to the bottom.\""
-    },
-    {
-      "title": "Hyperliquid, Solana Lead Altcoin Rally as Institutions Pour $1.9B Into Crypto Funds",
-      "link": "https://decrypt.co/325330/hyperliquid-solana-lead-altcoin-rally-as-institutions-pour-1-9b-into-crypto-funds",
-      "summary": "Major altcoins posted gains Monday morning, as nearly $2 billion flowed into institutional crypto funds."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Eric Trump says he loves Justin Sun but denies involvement in Tron\u2019s public debut plan",
+      "link": "https://cryptobriefing.com/eric-trump-tron-statement/",
+      "summary": "<p>Eric Trump's denial of involvement in Tron's debut highlights potential complexities in crypto market entries and the influence of high-profile endorsements.</p> <p>"
+    },
+    {
+      "title": "SEC formally accepts Trump Media\u2019s Bitcoin spot ETF filing",
+      "link": "https://cryptobriefing.com/sec-bitcoin-spot-etf-filing/",
+      "summary": "<p>The SEC's review of Trump Media's Bitcoin ETF filing could influence future crypto investment products and regulatory approaches.</p> <p>"
+    },
     {
       "title": "Purpose Investments to launch XRP spot ETF on June 18",
       "link": "https://cryptobriefing.com/purpose-xrp-etf-launch/",
@@ -176,19 +186,14 @@
       "title": "Justin Sun\u2019s Tron set to go public in US in deal backed by Eric Trump-linked firm: FT",
       "link": "https://cryptobriefing.com/tron-reverse-merger-srm/",
       "summary": "<p>Tron's public listing could significantly impact the crypto market, highlighting the growing intersection of blockchain and political influence.</p> <p>"
-    },
-    {
-      "title": "Polyhedra Network\u2019s ZKJ token crashes over 80% after Binance Alpha LPs reportedly pull liquidity",
-      "link": "https://cryptobriefing.com/zkj-token-crash-after-liquidity-withdrawals/",
-      "summary": "<p>The ZKJ token's crash highlights the vulnerability of crypto markets to liquidity shifts, impacting investor confidence and market stability.</p> <p>"
-    },
-    {
-      "title": "Bybit to launch Byreal, its first onchain DEX on Solana, on June 30",
-      "link": "https://cryptobriefing.com/byreal-on-solana-dex/",
-      "summary": "<p>Bybit's launch of Byreal on Solana signifies a strategic shift towards hybrid finance, potentially reshaping the DeFi landscape.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Cardano\u2019s $1.2 billion Bitcoin strategy \u2013 Can it save ADA\u2019s price action?",
+      "link": "https://ambcrypto.com/cardanos-1-2-billion-bitcoin-strategy-can-it-save-adas-price-action/",
+      "summary": "<img alt=\"Cardano\u2019s $1.2 billion Bitcoin strategy - Can it save ADA&#039;s price action?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-13.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Big bet, but is ADA ready for the impact?"
+    },
     {
       "title": "Optimism\u2019s 26% surge in daily activity reveals THESE hints for OP traders",
       "link": "https://ambcrypto.com/optimisms-26-surge-in-daily-activity-reveals-these-hints-for-op-traders/",
@@ -208,11 +213,6 @@
       "title": "Stablecoin reserves hit record $50B \u2013 Will this impact crypto prices?",
       "link": "https://ambcrypto.com/stablecoin-reserves-hit-record-50b-will-this-impact-crypto-prices/",
       "summary": "<img alt=\"Stablecoins\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_45_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Stablecoins supply on exchanges hits all time high of $50B, boosting crypto liquidity and signaling rising investor confidence."
-    },
-    {
-      "title": "Uniswap \u2013 Why THESE datasets point to a UNI price surge",
-      "link": "https://ambcrypto.com/mapping-uniswaps-road-ahead-these-datasets-indicate-uni-will/",
-      "summary": "<img alt=\"UNI\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-16T125010.970-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />UNI rises 5% as usage spikes, but resistance and whale hesitation threaten upside."
     }
   ]
 }
