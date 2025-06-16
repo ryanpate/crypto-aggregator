@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Vietnam Passes Landmark Law Recognizing Crypto Assets",
+      "link": "https://www.coindesk.com/policy/2025/06/16/vietnam-passes-landmark-law-recognizing-crypto-assets",
+      "summary": ""
+    },
+    {
       "title": "Metaplanet Overtakes Coinbase With 10K BTC, Becomes No. 9 Bitcoin Holder",
       "link": "https://www.coindesk.com/markets/2025/06/16/metaplanet-overtakes-coinbase-with-10k-btc-becomes-no-9-bitcoin-holder",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "ETH Holds Strong; Is It the \u2018Digital Oil\u2019 Powering the Global Digital Economy?",
       "link": "https://www.coindesk.com/markets/2025/06/15/eth-holds-strong-is-it-the-digital-oil-powering-the-global-digital-economy",
       "summary": ""
-    },
-    {
-      "title": "Chart of the Week: Bitcoin's Summer Lull Still Offers 'Inexpensive' Trading Opportunity",
-      "link": "https://www.coindesk.com/markets/2025/06/15/chart-of-the-week-bitcoin-s-summer-lull-still-offers-inexpensive-trading-opportunity",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ex-TON Foundation exec launches crypto investment app on Telegram",
+      "link": "https://cointelegraph.com/news/ex-ton-foundation-telegram-affluent-investment-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc3YWEtNTBkNS03Y2QzLTkwYjUtZjA2YWJjMTU4MThi.jpg\" /></p><p>By applying a TradFi and DeFi combination, Affluent aims to allow users to earn interest in a manner as simple as depositing assets with a single click via Telegram.</p>"
+    },
     {
       "title": "Why is Solana (SOL) price up today?",
       "link": "https://cointelegraph.com/news/why-is-solana-price-up-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35,7 +40,7 @@
     {
       "title": "Tether blocks $12.3M in USDT tied to suspicious Tron addresses",
       "link": "https://cointelegraph.com/news/tether-freezes-12m-usdt-on-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzZjAtYjBlNi03NjAxLTk5NjItY2IzMzlhODdlZTc0.jpg\" /></p><p>The stablecoin giant froze over $12.3 million worth of funds, pointing to illicit activity or AML violations.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzZjAtYjBlNi03NjAxLTk5NjItY2IzMzlhODdlZTc0.jpg\" /></p><p>The stablecoin giant froze over $12.3 million worth of funds, pointing to potential illicit activity or AML violations.</p>"
     },
     {
       "title": "$112K BTC was not \u2018bull market peak\u2019: 5 things to know in Bitcoin this week",
@@ -46,14 +51,14 @@
       "title": "Crypto funds notch $1.9B of inflows as Bitcoin rebounds",
       "link": "https://cointelegraph.com/news/crypto-funds-1-9-billion-inflows-bitcoin-surge-110000-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEyYmMtZWE5Yi03MmZjLWExZTQtNTNiN2EwNTZmZDc5.jpg\" /></p><p>With a fresh week of inflows recorded, crypto ETPs have reached a new record of year-to-date inflows of $13.2 billion.</p>"
-    },
-    {
-      "title": "Metaplanet\u2019s Bitcoin holdings hits 10,000 BTC, beating Coinbase",
-      "link": "https://cointelegraph.com/news/metaplanet-bitcoin-holdings-hits-10000-btc-beating-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg\" /></p><p>Metaplanet\u2019s stock surged over 20% after announcing its latest Bitcoin buy and a $210 million bond issuance to buy even more.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin surges past $107k as crypto market defies global unrest over Israel-Iran tensions",
+      "link": "https://cryptoslate.com/bitcoin-surges-past-107k-as-crypto-market-defies-global-unrest-over-israel-iran-tensions/",
+      "summary": "<p>Bitcoin has bounced back above $107,000 after a sharp weekend slump triggered by rising tensions between Israel and Iran. According to &#8217;s data, this is the first time in four days that BTC has crossed this level, showing signs of renewed investor confidence. The downturn began after Israel launched a surprise strike on June 13, [&#8230;]</p> <p>"
+    },
     {
       "title": "Solana AI project Kled team wallets dumps $800k tokens after promising a $500k buyback plan",
       "link": "https://cryptoslate.com/silent-800k-shuffle-kled-ai-wallet-moves-sparks-debate-over-token-buybacks-promise/",
@@ -73,11 +78,6 @@
       "title": "Coinbase\u2019s sponsorship of Trump\u2019s military parade sparks debate over crypto\u2019s anti-establishment roots",
       "link": "https://cryptoslate.com/coinbases-sponsorship-of-trumps-parade-sparks-debate-over-cryptos-anti-establishment-roots/",
       "summary": "<p>Coinbase\u2019s sponsorship of the military parade in Washington, D.C., on June 14 has sparked a debate about whether crypto has lost sight of its original ethos. The parade, which was held to commemorate the U.S. Army\u2019s 250th birthday, took place amid the country-wide \u2018No Kings\u2019 protests. The protestors voiced their opposition to President Donald Trump\u2019s [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethereum at a crossroads: SSV founder Alon Muroch on the \u2018dangerous\u2019 divergence affecting crypto\u2019s number 2 coin",
-      "link": "https://cryptoslate.com/ethereum-at-a-crossroads-ssv-founder-alon-muroch-on-the-dangerous-divergence-affecting-cryptos-number-2-coin/",
-      "summary": "<p>Welcome to Slate Sundays, \u2019s new weekly feature showcasing in-depth interviews, expert analysis, and thought-provoking op-eds that go beyond the headlines to explore the ideas and voices shaping the future of crypto. Alon Muroch is a man on a mission. As the founder of SSV Labs, which contributes to the second-largest Ethereum staking infra provider, SSV [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum recovers 20% in June -Will $3K be ETH\u2019s next stop in Q3?",
+      "link": "https://ambcrypto.com/ethereum-recovers-20-in-june-will-3k-be-eths-next-stop-in-q3/",
+      "summary": "<img alt=\"Ethereum ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-12.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Leverage is bleeding out, with liquidity slipping into spot hands - Fuel for Ethereum\u2019s next real move?"
+    },
+    {
       "title": "Bitcoin traders are shorting BTC at its peak \u2013 Here\u2019s why that\u2019s risky!",
       "link": "https://ambcrypto.com/bitcoin-traders-are-shorting-btc-at-its-peak-heres-why-thats-risky/",
       "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-24.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Binance Bitcoin Futures are trading at an unusual discount, hinting at institutional hedging and a looming short squeeze opportunity."
@@ -208,11 +213,6 @@
       "title": "Dogecoin\u2019s road to slow recovery \u2013 Here\u2019s why investors should be ready for volatility!",
       "link": "https://ambcrypto.com/dogecoins-road-to-slow-recovery-heres-why-investors-should-be-ready-for-volatility/",
       "summary": "<img alt=\"Dogecoin&#039;s road to slow recovery - Here&#039;s why investors should be ready for volatility!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The leading memecoin was unable to defeat the $0.2 resistance."
-    },
-    {
-      "title": "Examining how Bitcoin\u2019s investors are holding up despite global FUD and panic",
-      "link": "https://ambcrypto.com/examining-how-bitcoins-investors-are-holding-up-despite-global-fud-and-panic/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />There seemed to be lack of intense selling pressure on centralized exchanges."
     }
   ]
 }
