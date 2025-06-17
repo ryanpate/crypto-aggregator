@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Pump.fun and Other Memecoin Accounts Suspended From X in Apparent Crackdown",
+      "link": "https://www.coindesk.com/markets/2025/06/17/pumpfun-and-other-memecoin-accounts-suspended-from-x-in-apparent-crackdown",
+      "summary": ""
+    },
+    {
+      "title": "Dogecoin Shows \u2018Higher-Highs\u2019 Price Action in Short-Term Relief for Bulls",
+      "link": "https://www.coindesk.com/markets/2025/06/17/dogecoin-shows-higher-highs-price-action-in-short-term-relief-for-bulls",
+      "summary": ""
+    },
+    {
+      "title": "XRP Leads Crypto Majors Gains as Bitcoin Continually Tested by Israel-Iran Tensions",
+      "link": "https://www.coindesk.com/markets/2025/06/17/xrp-leads-crypto-majors-gains-as-bitcoin-continually-tested-by-israel-iran-tensions",
+      "summary": ""
+    },
+    {
       "title": "Asia Morning Briefing: Tron's Public Listing Might be Investors' 'Visa' Moment for Stablecoins",
       "link": "https://www.coindesk.com/markets/2025/06/16/asia-morning-briefing-trons-public-listing-might-be-investors-visa-moment-for-stablecoins",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "BTC Tops $108K on JPMorgan Crypto Filing, XRP Rallies on ETF News",
       "link": "https://www.coindesk.com/markets/2025/06/16/btc-tops-108k-on-jpmorgan-crypto-filing-xrp-rallies-on-etf-news",
       "summary": ""
-    },
-    {
-      "title": "JPMorgan Files Trademark for Digital Asset Platform as Wall Street's Crypto Embrace Continues",
-      "link": "https://www.coindesk.com/business/2025/06/16/jpmorgan-files-trademark-for-digital-asset-platform-as-wall-streets-crypto-embrace-continues",
-      "summary": ""
-    },
-    {
-      "title": "Solana Treasury Strategy Better Than ETH, Firms Buying SOL Should Trade at Premium: Cantor",
-      "link": "https://www.coindesk.com/markets/2025/06/16/solana-treasury-strategy-better-than-eth-firms-buying-sol-should-trade-at-premium-cantor",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Mining Costs Soar as Hashrate Hits Records: TheMinerMag",
-      "link": "https://www.coindesk.com/markets/2025/06/16/bitcoin-mining-costs-soar-as-hashrate-hits-records-theminermag",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "9GAG founder\u2019s MemeStrategy gains 29% after first Solana buy",
+      "link": "https://cointelegraph.com/news/memestrategy-shares-pump-hong-kong-firm-buy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdiODAtNzU0Ny03MjFhLTk0MDktMDRjYmIyYzc1OTRl.jpg\" /></p><p>Hong Kong tech investment firm MemeStrategy has added Solana to its balance sheet and has pledged to stake Solana tokens to support network security and earn rewards.</p>"
+    },
     {
       "title": "Paradigm urges jury clarity in Roman Storm\u2019s Tornado Cash case",
       "link": "https://cointelegraph.com/news/paradigm-wants-law-clarity-in-roman-storm-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "JPMorgan files \u2018JPMD\u2019 trademark for crypto payment services",
       "link": "https://cointelegraph.com/news/jpmorgan-files-jpmd-trademark-crypto-payment-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdhOWUtYjM0Mi03ZDY2LWFkMTEtNTU3MDJlNDI3ZmJm.jpg\" /></p><p>JPMorgan has filed a new trademark that covers a range of potential crypto-services for the bank, which industry commentators speculate could include a stablecoin venture.</p>"
-    },
-    {
-      "title": "Fairmint calls for blockchain framework for private markets in SEC proposal",
-      "link": "https://cointelegraph.com/news/fairmint-blockchain-framework-private-markets-sec-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkNGMtYTg1YS03M2I5LWJhZWEtMmFkOTI4MmRmZTZk.jpg\" /></p><p>The proposal outlines a seven-step framework that includes real-time regulatory oversight and updates to investor accreditation standards.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,16 @@
   ],
   "NewsBTC": [
     {
+      "title": "Cardano (ADA) Faces Trouble at Key Support \u2014 Is a Breakdown Looming?",
+      "link": "https://www.newsbtc.com/analysis/ada/cardano-ada-faces-trouble-0-70/",
+      "summary": "Cardano price started a fresh decline below the $0.680 zone. ADA is now consolidating and might struggle to stay above the $0.620 support. ADA price started a fresh decline below $0.70 and $0.680. The price is trading below $0.680 and the 100-hourly simple moving average. There is a key bullish trend line forming with support at $0.630 on the hourly chart of the ADA/USD pair (data source from Kraken). The pair could start a fresh decline if it dips below the $0.620 support zone. Cardano Price Dips Further In the past few days, Cardano saw a fresh decline below the $0.720, unlike Bitcoin and Ethereum. ADA even declined below the $0.70 level to enter a bearish zone. The bears even pushed the price below the $0.680 level. A low was formed at $0.6134 and the price recently corrected some losses. There was a move above the $0.620 and $0.6350 levels. The price climbed above the 23.6% Fib retracement level of the downward move from the $0.7311 swing high to the $0.6134 low. However, the bears remained active near $0.6560. Cardano price is now trading above $0.620 and the 100-hourly simple moving average. Besides, there is a key bullish trend line forming with support at $0.630 on the hourly chart of the ADA/USD pair. On the upside, the price might face resistance near the $0.650 zone. The first resistance is near $0.6560. The next key resistance might be $0.6720. It is close to the 50% Fib retracement level of the downward move from the $0.7311 swing high to the $0.6134 low. If there is a close above the $0.6720 resistance, the price could start a strong rally. In the stated case, the price could rise toward the $0.70 region. Any more gains might call for a move toward $0.7350 in the near term. Another Drop In ADA? If Cardano\u2019s price fails to climb above the $0.6720 resistance level, it could start another decline. Immediate support on the downside is near the $0.630 level. The next major support is near the $0.620 level. A downside break below the $0.620 level could open the doors for a test of $0.60. The next major support is near the $0.5650 level where the bulls might emerge. Technical Indicators Hourly MACD \u2013 The MACD for ADA/USD is gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for ADA/USD is now below the 50 level. Major Support Levels \u2013 $0.630 and $0.620. Major Resistance Levels \u2013 $0.6560 and $0.6720."
+    },
+    {
+      "title": "Ethereum\u2019s $4K Target Within Reach, Here\u2019s What Needs to Happen First",
+      "link": "https://www.newsbtc.com/ethereum-news/ethereums-4k-target-within-reach-heres-what-needs-to-happen-first/",
+      "summary": "The crypto market has been experiencing a rebound during today\u2019s session with Ethereum showing strong momentum. The second largest crypto by market cap has been trending sideways displaying an increasing selling pressure on higher timeframes, but today ETH holders seem hopeful of further gains. Related Reading: Brace For Impact: Bitcoin Price Primed For Deep Correction Below $90,000 At the time of writing, Ethereum is trading at around $2,600 with a 3.5% gain on the past 24 hours. Over the past week, the ETH price shows larger gains with 4.3% returns, the best performance on this timeframe amongst the biggest cryptocurrencies. Ethereum price trends to the upside on the daily chart. Source: ETHUSD on Tradingview Ethereum Price On Brink Of Massive Recovery According to Daan Crypto, the current price action for Ethereum shows classical signs of compression. This action is usually recorded when an asset is about to experience a massive spike in volatility, either to the upside or the downside. The analyst pointed out that Ethereum has been trading in a tight range, trapped between two critical levels. If buyers manage to push the price above the first of these levels, sitting at $2,851, then the second crypto by market cap is likely to trend to the upside. ETH price trading on a tight range on the 2 day chart. Source: Daan Crypto via X On the contrary, if sellers regain control over the ETH market, and price dips below its current levels, then the price is more likely to return to the bottom of its current range, sitting at $2,168. Daan Crypto stated the following, warning his followers on taking positions as the Ethereum price consolidates: ETH Price action is compressing right below this big $2.8K level. If we&#8217;d see a convincing break above $2.8K and hold there, that would be a good setup for a move to the cycle highs around ~$4K. If we do lose this current range then $2.1K is the big high timeframe level to watch. No reason to get over excited in either direction until this current consolidation/compression resolves. ETH Price Rally to Ignite Massive Alt Season On a separate note, analyst Cantonese Cat showed the Ethereum price dominance chart, used to gauge the percentage of the total crypto market cap represented by ETH. As seen in the chart below, this chart is tightly compressed according to the Bollinger Band indicator. Related Reading: $8 Dogecoin? Analyst Says You\u2019ll Regret Sleeping On This Chart When these bands compressed, they hint at an upcoming violent move suggesting that Ethereum will abandon its current range soon. If the crypto rallies, then other altcoins are likely to follow and kickstart the beginning of a global upward trend for these assets. ETH Dominance's Bolling Bands hint at upcoming volatility on the 2 day chart. Source: Cantonese Cat via X On the upcoming alt season, Jameson Lopp, Co-Founder and Chief Security Officer at crypto custodian CASA, stated the following noting the potential new variables that will trigger it: Altseason is coming, just not how you think. Instead of being driven by new tokens on crypto exchanges it will be from new equities on tradfi exchanges. Cover image from Unsplash, ETH/USD chart from Tradingview"
+    },
+    {
       "title": "XRP Price Climbs Higher \u2014 Is It Finally Turning Attractive to Bulls?",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-climbs-higher-2-30/",
       "summary": "XRP price started a fresh increase above the $2.20 zone. The price is now correcting gains and might find bids near the $2.2150 zone. XRP price started a decent upward move above the $2.20 zone. The price is now trading above $2.20 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2.180 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another increase if it clears the $2.280 resistance zone. XRP Price Eyes Another Increase XRP price remained supported above the $2.080 level and started a decent increase, beating Bitcoin and Ethereum. The price climbed above the $2.150 and $2.20 resistance levels. The bulls pumped the price over 5% and pushed it above the $2.220 resistance. Finally, it tested the $2.3350 zone and recently corrected some gains. There was a move below the $2.30 level. The price tested the 50% Fib retracement level of the upward move from the $2.141 swing low to the $2.336 high. The price is now trading above $2.220 and the 100-hourly Simple Moving Average. Besides, there is a key bullish trend line forming with support at $2.180 on the hourly chart of the XRP/USD pair. On the upside, the price might face resistance near the $2.280 level. The first major resistance is near the $2.320 level. The next resistance is $2.3350. A clear move above the $2.3350 resistance might send the price toward the $2.380 resistance. Any more gains might send the price toward the $2.40 resistance or even $2.420 in the near term. The next major hurdle for the bulls might be $2.50. Another Decline? If XRP fails to clear the $2.280 resistance zone, it could start another decline. Initial support on the downside is near the $2.220 level. The next major support is near the $2.2150 level and the 61.8% Fib retracement level of the upward move from the $2.141 swing low to the $2.336 high. If there is a downside break and a close below the $2.2150 level, the price might continue to decline toward the $2.180 support. The next major support sits near the $2.120 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.2150 and $2.180. Major Resistance Levels \u2013 $2.280 and $2.3350."
@@ -95,16 +105,6 @@
       "title": "Ethereum Price Shows Weakness, Eyes Key Support as Bears Loom",
       "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-shows-weakness-2660/",
       "summary": "Ethereum price attempted a fresh increase above $2,600. ETH is now trimming gains and might struggle to stay above the $2,500 support. Ethereum started a fresh decline below the $2,600 level. The price is trading below $2,575 and the 100-hourly Simple Moving Average. There is a bullish trend line forming with support at $2,525 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it stays above the $2,500 zone in the near term. Ethereum Price Corrects Gains Ethereum price found support near $2,440 and started a recovery wave, like Bitcoin. ETH price recovered above the $2,500 and $2,550 resistance levels. The price even spiked above the $2,620 resistance. There was a move above the 23.6% Fib retracement level of the downward move from the $2,880 swing high to the $2,440 low. However, the bears remained active near the $2,660 resistance zone. The bears defended the 50% Fib retracement level of the downward move from the $2,880 swing high to the $2,440 low. The price is again moving lower below $2,600. Ethereum price is now trading below $2,575 and the 100-hourly Simple Moving Average. Besides, there is a bullish trend line forming with support at $2,525 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,620 level. The next key resistance is near the $2,640 level. The first major resistance is near the $2,660 level. A clear move above the $2,660 resistance might send the price toward the $2,720 resistance. An upside break above the $2,720 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,800 resistance zone or even $2,880 in the near term. More Losses In ETH? If Ethereum fails to clear the $2,660 resistance, it could start a fresh decline. Initial support on the downside is near the $2,540 level. The first major support sits near the $2,525 zone and the trend line. A clear move below the $2,525 support might push the price toward the $2,500 support. Any more losses might send the price toward the $2,440 support level in the near term. The next key support sits at $2,350. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI &#8211; The RSI for ETH/USD is now below the 50 zone. Major Support Level \u2013 $2,500 Major Resistance Level \u2013 $2,660"
-    },
-    {
-      "title": "Record\u2011High Ethereum Open Interest Signals Institutional Confidence",
-      "link": "https://www.newsbtc.com/altcoin/record%e2%80%91high-ethereum-open-interest-signals-institutional-confidence/",
-      "summary": "Ethereum (ETH) grabbed fresh attention on June 16 as futures open interest climbed to a yearly high of $36.56 billion. Prices bounced back above $2,600 and hovered near a key resistance level that has held for months. Traders piled into new positions, setting the stage for a big move in either direction. Related Reading: Amid Bitcoin Hype, Seasoned Trader Predicts Sudden Drop To This Level Futures Open Interest Hits Yearly High According to CoinGlass data, open interest in ETH futures jumped sharply over three days, hitting $36.56 billion on Monday. That number marks the highest level since last year. It shows that many traders are using borrowed funds to bet on where Ethereum will go next. Price Tests Multi\u2011Year Resistance ETH rose about 4.5% in a single session. Based on technical charts, that rally pushed ETH right up to a long\u2011standing descending trendline. Investors have watched that line for over a year. It sits just above the 50\u2011week moving average, while the 200\u2011week average lies just below. If ETH can clear and hold above these levels, it may signal room to run. But weak trading volume could mean bulls need more firepower before taking charge. ETF Flows Show Steady Support US spot funds tied to Ethereum saw a small outflow of $2.18 million on the same day, marking the first net withdrawal in 19 days. Yet weekly inflows still totaled $528.12 million, pushing total assets under management in these ETFs beyond $10 billion. Institutional Backing Expands ETH Reach Major asset managers are also getting more creative with Ethereum. Companies such as BlackRock and Fidelity have begun rolling out tokenized treasury products and stablecoin\u2011backed funds that link directly to ETH. Related Reading: Ethereum Whales Feast While Retail Flees\u2014ETH Ocean Just Got Hungrier Based on statements by those firms, these latest products are intended to expand access for large institutions that have avoided so far. They support the notion that Ethereum is not only capable of fueling DeFi tests, but also applications in the real world. Ethereum Drift Remains Steady Before Potential Ripples Meanwhile, market statistics shows Ethereum traded calmly at $2,630 on June 16, showing a 4% increase in the last 24 hours. Futures markets are warming up, with volumes rising steeply as large players pour into ETH-based contracts. Speculative positions usually foretell choppy action. As increasing amounts of money move into leveraged positions, even modest moves in price can cause forced liquidations\u2014sometimes on both the long and short sides. When that occurs, volatility increases. That is to say, today&#8217;s tranquil chart can become jagged quickly once those mammoth bets begin to be unravel. Featured image from Unsplash, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin Price Struggles for Momentum Amid Rising Global Conflict Fears",
-      "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-struggles-108k/",
-      "summary": "Bitcoin price started a fresh increase and tested the $108,800 zone. BTC is struggling to rise further and is correcting gains below $108,000. Bitcoin started a fresh increase above the $107,000 zone. The price is trading above $106,800 and the 100 hourly Simple moving average. There was a break below a bullish trend line with support at $107,800 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a fresh increase if it stays above the $105,500 zone. Bitcoin Price Starts Fresh Increase Bitcoin price started a fresh increase from the $104,500 support zone. BTC climbed above the $105,500 and $106,200 levels to enter a positive zone. The price even jumped above the $108,000 resistance. However, the bears remained active amid rising global conflict fears. A high was formed at $108,898 and the price is now correcting gains. There was a move below the $108,000 level. The price dipped below the 23.6% Fib retracement level of the upward move from the $104,529 swing low to the $108,898 high. Besides, there was a break below a bullish trend line with support at $107,800 on the hourly chart of the BTC/USD pair. Bitcoin is now trading above $106,800 and the 100 hourly Simple moving average. On the upside, immediate resistance is near the $107,600 level. The first key resistance is near the $108,000 level. The next key resistance could be $108,800. A close above the $108,800 resistance might send the price further higher. In the stated case, the price could rise and test the $110,000 resistance level. Any more gains might send the price toward the $112,000 level. More Losses In BTC? If Bitcoin fails to rise above the $108,000 resistance zone, it could start another decline. Immediate support is near the $106,700 level and the 50% Fib retracement level of the upward move from the $104,529 swing low to the $108,898 high. The first major support is near the $106,200 level. The next support is now near the $105,500 zone. Any more losses might send the price toward the $103,500 support in the near term. The main support sits at $102,000, below which BTC might gain bearish momentum. Technical indicators: Hourly MACD \u2013 The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BTC/USD is now near the 50 level. Major Support Levels \u2013 $106,700, followed by $105,500. Major Resistance Levels \u2013 $107,600 and $108,000."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Fartcoin\u2019s breakout odds \u2013 Will the third time be different for the memecoin?",
+      "link": "https://ambcrypto.com/fartcoins-breakout-odds-will-the-third-time-be-different-for-the-memecoin/",
+      "summary": "<img alt=\"Fartcoin&#039;s breakout odds - Will the third time be different for the memecoin?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Fartcoin-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Lack of heavy buying pressure behind Fartcoin means the memecoin could struggle to break the range formation."
+    },
+    {
       "title": "Bitcoin \u2013 What this \u2018new historical low\u2019 means for BTC\u2019s price action",
       "link": "https://ambcrypto.com/bitcoin-what-this-new-historical-low-means-for-btcs-price-action/",
       "summary": "<img alt=\"Bitcoin - What this &#039;new historical low&#039; means for BTC&#039;s price action\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-24.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin's short-term movement has been pretty interesting lately."
@@ -208,11 +213,6 @@
       "title": "Bitcoin clears $106K \u2013 Will the Fed or Iran-Israel tensions spark the next move?",
       "link": "https://ambcrypto.com/bitcoin-clears-106k-will-the-fed-or-iran-israel-tensions-spark-the-next-move/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-14.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is BTC setting up for yet another macro-driven rejection?"
-    },
-    {
-      "title": "Bitcoin bulls, here\u2019s why your wait for a new ATH may be over!",
-      "link": "https://ambcrypto.com/bitcoin-bulls-heres-why-your-wait-for-a-new-ath-may-be-over/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250616_131724_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin may kick off the week with a significant price rally."
     }
   ]
 }
