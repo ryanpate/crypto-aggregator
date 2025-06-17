@@ -1,6 +1,6 @@
 ---
 title: "Back to the Grind: Post-Vacation Crypto Rundown"
-date: 2025-06-17T10:00:00-05:00
+date: 2025-06-17T00:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "Fresh off vacation, a light recap of this week’s crypto moves amid global headlines."
