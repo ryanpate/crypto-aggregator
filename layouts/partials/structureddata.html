@@ -1,0 +1,69 @@
+{{- /* JSON-LD for homepage as an ItemList */ -}}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {{- $idx := 1 -}}
+    {{- range $source, $articles := site.Data.crypto }}
+      {{- range $articles }}
+        {
+          "@type": "ListItem",
+          "position": {{ $idx }},
+          "url": "{{ .link }}"
+        }{{ if not (eq $idx (add (len (slice) 1))) }},{{ end }}
+        {{- $idx = add $idx 1 -}}
+      {{- end }}
+    {{- end }}
+  ]
+}
+</script>
+
+{{- /* JSON-LD for individual blog posts */ -}}
+{{- else if .IsSection "blog" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "{{ .Site.Title }} Blog",
+  "url": "{{ .Permalink }}",
+  "description": "{{ .Params.description }}",
+  "blogPost": [
+    {{- range first 10 .Pages.ByDate.Reverse }}
+      {
+        "@type": "BlogPosting",
+        "headline": "{{ .Title }}",
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "author": { "@type": "Person", "name": "{{ .Params.author }}" },
+        "publisher": {
+          "@type": "Organization",
+          "name": "BlockWireNews",
+          "logo": { "@type": "ImageObject", "url": "{{ .Site.BaseURL }}logo.png" }
+        },
+        "description": "{{ .Summary | plainify }}"
+      }{{ if not (eq .Permalink (index (first 10 .Pages.ByDate.Reverse) 9).Permalink) }},{{ end }}
+    {{- end }}
+  ]
+}
+</script>
+
+{{- /* JSON-LD for individual article pages, if any */ -}}
+{{- else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author":   { "@type":"Person", "name":"{{ .Params.author }}" },
+  "publisher": {
+    "@type":"Organization","name":"BlockWireNews",
+    "logo": { "@type":"ImageObject", "url":"{{ .Site.BaseURL }}logo.png" }
+  },
+  "description":"{{ .Summary | plainify }}",
+  "mainEntityOfPage": { "@type":"WebPage", "id":"{{ .Permalink }}" }
+}
+</script>
+{{- end }}
