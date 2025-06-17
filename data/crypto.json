@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "JPMorgan Introduces USD Deposit Token on Coinbase\u2019s Base Blockchain",
+      "link": "https://www.coindesk.com/business/2025/06/17/jpmorgan-introduces-usd-deposit-token-on-coinbase-s-base-blockchain",
+      "summary": ""
+    },
+    {
+      "title": "Coinbase Seeks SEC Approval to Offer Tokenized Stock Trading",
+      "link": "https://www.coindesk.com/business/2025/06/17/coinbase-seeks-sec-approval-to-offer-tokenized-stock-trading",
+      "summary": ""
+    },
+    {
       "title": "Can Tether's Dominance Survive the U.S. Stablecoin Bill?",
       "link": "https://www.coindesk.com/news-analysis/2025/06/17/can-tether-s-dominance-survive-the-u-s-stablecoin-bill",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Shiba Inu Slides to Two-Month Low as Trump Threatens Khamenei, Demands Unconditional Surrender",
       "link": "https://www.coindesk.com/markets/2025/06/17/shiba-inu-slides-to-two-month-low-as-trump-downplays-iran-truce",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Heads Lower as Trump Threatens to Assassinate Iran\u2019s Supreme Leader",
-      "link": "https://www.coindesk.com/markets/2025/06/17/bitcoin-heads-lower-as-trump-threatens-to-assassinate-irans-supreme-leader",
-      "summary": ""
-    },
-    {
-      "title": "Can the Real Cypherpunks Please Stand Up?",
-      "link": "https://www.coindesk.com/opinion/2025/06/17/can-the-real-cypherpunks-please-stand-up",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ether price stable near $2.4K as crypto investors bet on long-term growth",
+      "link": "https://cointelegraph.com/news/ether-price-stable-near-2-4k-as-crypto-investors-bet-on-long-term-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdmYWMtYmRhOS03YTQwLWI4MDUtOTgwOTk5YzI5Yzg0.jpg\" /></p><p>Ethereum layer-2 growth and $830 million in spot ETH ETF inflows show investors\u2019 true feelings even as the wider crypto market crumbles.</p>"
+    },
     {
       "title": "JPMorgan pushes JPMD pilot on Base, says deposit tokens beat stablecoins",
       "link": "https://cointelegraph.com/news/jpmorgan-deposit-token-jpmd-pilot-base-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "Cycles eyes sustainable crypto credit after 2022 liquidity crisis",
       "link": "https://cointelegraph.com/news/cycles-eyes-sustainable-crypto-credit-after-2022-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDJiMmUtNDMwZi03YWNiLTliM2YtNWMxY2M3NDRiYWQy.jpg\" /></p><p>\u201cThe panic of \u201822 showed that much like in TradFi, liquidity and solvency are intimately bound up with each other,\u201d said Cycles\u2019 Ethan Buckman.</p>"
-    },
-    {
-      "title": "Coinbase seeking SEC approval for \u2018tokenized equities\u2019 \u2014 Report",
-      "link": "https://cointelegraph.com/news/coinbase-sec-approval-tokenized-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3ZDYtYjJhZi03YjA0LWJjODMtMjc3ODg1Y2MzYzk3.jpg\" /></p><p>If approved by the US regulator, the investment offering could have Coinbase competing against other stock trading platforms.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin\u2019s slide below $104k liquidates over $500M as war tensions escalate",
+      "link": "https://cryptoslate.com/bitcoins-slide-below-104k-liquidates-over-500m-as-war-tensions-escalate/",
+      "summary": "<p>Bitcoin (BTC) continued its pullback on June 17, sliding over 4% amid renewed military and political friction between Israel and Iran. The flagship crypto fell to an intraday low of $103,300 before bulls stepped in to steady the price and push it back above $104,000, As of press time, Bitcoin was trading at $104,439, down roughly [&#8230;]</p> <p>"
+    },
+    {
+      "title": "JPMorgan pilots tokenized deposit token on Base, targeting instant dollar transfers",
+      "link": "https://cryptoslate.com/jpmorgan-pilots-tokenized-deposit-token-on-base-targeting-instant-dollar-transfers/",
+      "summary": "<p>JPMorgan will pilot a dollar-denominated deposit token called JPMD on Coinbase\u2019s Base blockchain within days, global blockchain division co-head Naveen Mallela said in an interview with Bloomberg News on June 17. The test will transfer a fixed amount of JPMD from the bank\u2019s digital wallet to Coinbase, making the token available to selected institutional users [&#8230;]</p> <p>"
+    },
     {
       "title": "Treasury Secretary Bessent says stablecoins are debt relief engine as Senate readies to vote on GENIUS Act",
       "link": "https://cryptoslate.com/treasury-secretary-bessent-says-stablecoins-are-debt-relief-engine-as-senate-readies-to-vote-on-genius-act/",
@@ -68,16 +78,6 @@
       "title": "Kraken\u2019s L2 network rolls out native INK token to power protocol incentives, allocation",
       "link": "https://cryptoslate.com/krakens-l2-network-rolls-out-native-ink-token-to-power-protocol-incentives-allocation/",
       "summary": "<p>Ink Foundation announced on June 17 that it would mint 1 billion INK tokens to fund user-run liquidity on Ink, the Ethereum layer-2 network backed by Kraken. The foundation has permanently set the supply cap and will release the mint date and contract address after completing the audits. The end of audits, together with predefined [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Thailand\u2019s government unveils five-year crypto tax exemption for investors",
-      "link": "https://cryptoslate.com/thailands-government-unveils-five-year-crypto-tax-exemption-for-investors/",
-      "summary": "<p>Thailand has announced a significant tax reform to position itself as a leading crypto-friendly nation. On June 17, the country&#8217;s Cabinet approved a five-year personal tax exemption on profits from selling digital assets, including Bitcoin. The measure takes effect from January 2025 and will run until December 2029. Deputy Finance Minister Julapun Amornvivat explained on [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Over $91B in staked ETH makes Ethereum nearly impossible to attack",
-      "link": "https://cryptoslate.com/insights/over-91b-in-staked-eth-makes-ethereum-nearly-impossible-to-attack/",
-      "summary": "<p>Ethereum staking has reached a new milestone, with over 35 million ETH now locked across various platforms, according to Dune Analytics data. This accounts for nearly one-third of the crypto\u2019s total supply and reflects a growing preference among holders to earn passive rewards by securing the network. Lido remains the largest staking provider, holding 8.94 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Next-Gen Xbox Preview: Everything You Need to Know About the Console and Crypto Plans",
+      "link": "https://decrypt.co/198822/next-gen-xbox-everything-need-know-microsoft-leaks-rumors-news",
+      "summary": "UPDATE: Microsoft just confirmed who's providing the tech behind its next-gen Xbox consoles. Here's what you need to know."
+    },
+    {
+      "title": "Coinbase Eyes SEC Green Light for Trading of Tokenized Stocks: Reuters",
+      "link": "https://decrypt.co/325579/coinbase-eyes-sec-green-light-trading-tokenized-stocks",
+      "summary": "Coinbase wants to offer stocks that trade on blockchains, according to an interview with the exchange's legal chief."
+    },
+    {
+      "title": "Bitcoin Financial Services Firm Fold Set to Unload $250 Million on BTC Buys",
+      "link": "https://decrypt.co/325632/bitcoin-financial-services-firm-fold-set-to-unload-250-million-on-btc-buys",
+      "summary": "The publicly traded Bitcoin financial services firm plans to issue and sell shares of its stock, largely to add more Bitcoin to its corporate treasury."
+    },
+    {
       "title": "Kraken's Ethereum Layer-2 Ink Network Is Launching a Token",
       "link": "https://decrypt.co/325652/kraken-ethereum-ink-network-launching-token",
       "summary": "The Ink Foundation will debut a native token for Kraken's Ethereum layer-2 network. Here's what we know so far."
@@ -144,21 +159,6 @@
       "title": "Bitcoin, Altcoins Plunge as Trump's Threat to Assassinate Iran Leader Escalates Middle East Tensions",
       "link": "https://decrypt.co/325642/bitcoin-altcoins-plunge-trump-threat-assassinate-iran-leader",
       "summary": "Bitcoin, Ethereum, and other coins are down after President Trump threatens to have Iran's leader assassinated."
-    },
-    {
-      "title": "JP Morgan Exec Wary of 'Overcrowding' Stablecoin Market as Bank Registers JPMD Trademark",
-      "link": "https://decrypt.co/325571/jp-morgan-exec-wary-overcrowding-stablecoin-market",
-      "summary": "JP Morgan warns of an \"overcrowding\" stablecoin market while major banks await regulatory clarity. The GENIUS Act faces a crucial Senate vote today."
-    },
-    {
-      "title": "Meme Coin Massacre: Buying Opportunity or a Warning to Exit?",
-      "link": "https://decrypt.co/325605/meme-coin-massacre-buying-opportunity-warning-exit",
-      "summary": "PEPE drops 12%, SPX6900 dives 11%, and Fartcoin falls 9% amid geopolitical shocks and whale exits. Is the meme coin market facing a hard reset?"
-    },
-    {
-      "title": "TRUMP'S CRYPTO RISK, THE CRCL TRADE, MARKET VOLATILITY",
-      "link": "https://decrypt.co/videos/interviews/a8YZLArL/trumps-crypto-risk-the-crcl-trade-market-volatility",
-      "summary": "UNDER EXPOSED LIVE ON DEGENZ. Degenz Live is the only content you need for crypto, macro, trading, gambling and risk-taking. Powered by MYRIAD MARKETS, REKT BRANDS and YEET CASINO. Macro. Trump's growing crypto risk. The CRCL short trade. PUMP and the SOL Trade. More crypto treasury companies by the day. JP morgan teases stablecoin. HYPE hits new ATH. Fartcoin on Coinbase. Coinbase has huge day with card, DEX, perp futures. Stripe buys privy. 00:00 - Introduction and Current Events 03:25 - Crypto Markets 04:30 - Top Stories in Crypto and Macro 07:15 - Is this dip a buy? 14:20 - What is the timeline saying? 18:30 - Is this the final Cycle? 32:20 - Are Trump family too deep in crypto? 39:30 - Circle IPO discussion 51:20 - Pump Fun Token 58:30 - What's everyone buying roundtable LINKS https://x.com/DegenzLive https://linktr.ee/DegenzLive https://kick.com/degenzlive https://www.instagram.com/degenzlive https://creators.spotify.com/pod/profile/degenzlive PARTNERS https://rekt.com/ https://yeet.com/ https://myriad.markets/ #bitcoin #crypto #trading #news #gambling"
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "SPX6900 drops 16% in 24 hours, but is this the start of a new rally?",
+      "link": "https://ambcrypto.com/spx6900-drops-16-in-24-hours-but-is-this-the-start-of-a-new-rally/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250617_131343_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SPX memecoin suffers massive drop\u2014why it may not be over yet."
+    },
+    {
+      "title": "No euphoria so far \u2013 Could this be Bitcoin\u2019s most subtle top yet?",
+      "link": "https://ambcrypto.com/no-euphoria-so-far-could-this-be-bitcoins-most-subtle-top-yet/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-11.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin is burning with unrealized gains, and in this macro heat, tops form fast."
+    },
+    {
       "title": "Bitcoin mining costs surge past $70K \u2013 Will rising expenses hit miners hard?",
       "link": "https://ambcrypto.com/bitcoin-mining-costs-surge-past-70k-will-rising-expenses-hit-miners-hard/",
       "summary": "<img alt=\"bitcoin mining\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-29.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Costs have surged, squeezing margins and triggering silent sell-offs via OTC channels."
@@ -203,16 +213,6 @@
       "title": "Bitcoin treasury hype will burst like memecoin supercycle \u2013 Crypto VC",
       "link": "https://ambcrypto.com/bitcoin-treasury-hype-will-burst-like-memecoin-supercycle-crypto-vc/",
       "summary": "<img alt=\"Bitcoin treasury\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/BitcointreasuryFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's why crypto VCs doubt whether Bitcoin and altcoin treasury trend will last."
-    },
-    {
-      "title": "Bitcoin Cash: Can BCH continue its bullish run after recent 20% surge?",
-      "link": "https://ambcrypto.com/bitcoin-cash-can-bch-continue-its-bullish-run-after-recent-20-surge/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-17T155053.836_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders are currently over-leveraged at $458.7 on the lower side and $486.9 on the upper [&#8230;]"
-    },
-    {
-      "title": "Ripple and SEC want appeals paused \u2013 Is a breakthrough ruling coming soon?",
-      "link": "https://ambcrypto.com/ripple-and-sec-want-appeals-paused-is-a-breakthrough-ruling-coming-soon/",
-      "summary": "<img alt=\"Ripple XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-15.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Paused appeals, rising confidence - Is the verdict already priced in?"
     }
   ]
 }
