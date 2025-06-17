@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk Indices, Sentora Unveil Stablecoin Overnight Rates to Mirror Money Market Tools",
+      "link": "https://www.coindesk.com/business/2025/06/17/coindesk-indices-sentora-unveil-stablecoin-overnight-rates-to-mirror-money-market-tools",
+      "summary": ""
+    },
+    {
+      "title": "a16z Bets Big on EigenLayer Again With $70M Token Buy to Back \u2018EigenCloud\u2019 Launch",
+      "link": "https://www.coindesk.com/business/2025/06/17/a16z-bets-big-on-eigenlayer-again-with-usd70m-token-buy-to-back-eigencloud-launch",
+      "summary": ""
+    },
+    {
       "title": "Stablecoin Clearing Startup Ubyx Raises $10M Round Backed by Galaxy, Coinbase, Others",
       "link": "https://www.coindesk.com/markets/2025/06/17/stablecoin-clearing-startup-ubyx-raises-10m-round-backed-by-galaxy-coinbase-others",
       "summary": ""
@@ -14,46 +24,41 @@
       "title": "Polyhedra Blames Liquidity Attacks for Sudden 80% Price Drop in ZKJ, Promises Buyback",
       "link": "https://www.coindesk.com/tech/2025/06/17/polyhedra-blames-liquidity-attacks-for-sudden-80-price-drop-in-zkj-promises-buyback",
       "summary": ""
-    },
-    {
-      "title": "Crypto Daybook Americas: Institutions Pile In as Bitcoin\u2019s Favorable Asymmetry Persists",
-      "link": "https://www.coindesk.com/daybook-us/2025/06/17/crypto-daybook-americas-institutions-pile-in-as-bitcoins-favorable-asymmetry-persists",
-      "summary": ""
-    },
-    {
-      "title": "XRP Jumps as Bulls Push Through Key Resistance Levels",
-      "link": "https://www.coindesk.com/markets/2025/06/17/xrp-jumps-as-bulls-push-through-key-resistance-levels",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Watch these Bitcoin price levels ahead of Fed Chair Powell&#039;s speech",
-      "link": "https://cointelegraph.com/news/watch-bitcoin-price-levels-ahead-of-fed-chair-powell-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY4MDItNmJkOC03Zjk1LTk2OTUtOGMxMDU3N2Q1NmRh.jpg\" /></p><p>Bitcoin price remains stuck below $110,000 ahead of the FOMC, with big overhead resistance at $112,000 in place and several key support levels below.</p>"
+      "title": "Flare Network bridges XRP to DeFi to unlock dormant liquidity",
+      "link": "https://cointelegraph.com/news/xrpfi-defi-adoption-fxrp-flare-liquid-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1YjQtZTg2Ni03MjcxLTk3YzctNmUwY2NjMWEwMThm.jpg\" /></p><p>Flare Network\u2019s bridging technology and FAssets are bringing institutional and retail XRP holders into DeFi, tapping a massive pool of idle liquidity.</p>"
     },
     {
-      "title": "RWA backing: How do issuers ensure 1:1 peg with tokenized assets?",
-      "link": "https://cointelegraph.com/news/raw-backing-how-issuers-ensure-1-1-peg-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNiYjgtNTc5ZS03Nzk5LWJkMzktZDNmOThlMGZkOGY5.jpg\" /></p><p>The question of RWA backing is not primarily a technology question but is instead a subject to other considerations, industry executives say.</p>"
+      "title": "Staked Ethereum hits 35M ETH high as liquid supply declines",
+      "link": "https://cointelegraph.com/news/ethereum-staked-supply-hits-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGMxZjgtZDYxZS03NWNlLWIxODMtZWQ4NjY4MGRmNWRl.jpg\" /></p><p>Over 28% of the total Ether supply is now staked, signaling that many investors are gearing up to hold their assets for the long term.</p>"
     },
     {
-      "title": "Thailand approves five-year crypto tax exemption",
-      "link": "https://cointelegraph.com/news/thailand-tax-exemption-crypto-income-five-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJjODItZDUxZi03ZTA3LTgxZjItYjlhMjdhZjkyY2Ji.jpg\" /></p><p>Thailand\u2019s crypto income tax waiver applies to crypto sales made through licensed crypto asset service providers from 2025 to late 2029.</p>"
+      "title": "This crypto trader just lost $100M, but he\u2019s still not done",
+      "link": "https://cointelegraph.com/explained/this-crypto-trader-just-lost-100m-but-hes-still-not-done?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85YThmN2ExM2NhODJkMTUzNzU4YzEwMGQ3ZjBlYzQwYS5qcGc=.jpg\" /></p><p>James Wynn\u2019s $100-million Bitcoin liquidation shocked the crypto world. The way he used leverage is astounding, though his later losses also exposed associated market risks.</p>"
     },
     {
-      "title": "Gemini accuses CFTC enforcers of \u2018trophy-hunting lawfare\u2019 in 2022",
-      "link": "https://cointelegraph.com/news/gemini-accuses-cftc-enforcers-lawfare-civil-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdjMDMtNmY4YS03Y2NlLWIzOTYtMmRjZWI4NDYyNTEy.jpg\" /></p><p>Gemini has accused the CFTC\u2019s enforcement division of using a false whistleblower report to form its 2022 lawsuit against the crypto exchange.</p>"
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     },
     {
-      "title": "From OpenAI to blockchain: Joey Bertschler builds crypto wage access platform",
-      "link": "https://cointelegraph.com/news/former-openai-employee-launches-crypto-wage-startup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdjZTktYzMzZi03MTM1LWI5MmUtN2VlNDIzY2RmNGM3.jpg\" /></p><p>Joey Bertschler, a former OpenAI employee, is building a crypto wage distribution system, Volante Chain, motivated in part by disillusionment with OpenAI\u2019s culture.</p>"
+      "title": "Will Tron\u2019s Wall Street hopes implode with TRX as collateral?",
+      "link": "https://cointelegraph.com/news/tron-wall-street-implode-trx-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdkZjQtOWRlMi03NTBlLWJkMjgtZGFhMzFmMGIwZmVk.jpg\" /></p><p>Tron\u2019s reverse merger will test whether a company can treat its own crypto as collateral without collapsing under the risk.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin ETFs heat up with $1.7 billion inflows as Middle East tensions return",
+      "link": "https://cryptoslate.com/insights/bitcoin-etfs-heat-up-with-1-7-billion-inflows-as-middle-east-tensions-return/",
+      "summary": "<p>Over the past seven trading days, spot Bitcoin ETFs saw $1.7 billion in total inflows, marking their strongest weekly streak in over a month. The reversal from late May&#8217;s outflows culminated with escalating military tensions between Israel and Iran, indicating a shift in investor behavior toward Bitcoin in periods of geopolitical uncertainty. Between June 10 [&#8230;]</p> <p>"
+    },
     {
       "title": "A16z backs EigenLayer\u2019s EigenCloud rollout with $70 million EIGEN investment",
       "link": "https://cryptoslate.com/a16z-backs-eigenlayers-eigencloud-rollout-with-70-million-eigen-investment/",
@@ -73,14 +78,14 @@
       "title": "Coinbase CEO Brian Armstrong seen at 10 Downing Street amid push for UK crypto overhaul",
       "link": "https://cryptoslate.com/coinbase-ceo-brian-armstrong-seen-at-10-downing-street-amid-push-for-uk-crypto-overhaul/",
       "summary": "<p>Coinbase CEO Brian Armstrong recently met with senior policymakers in the United Kingdom to support the country&#8217;s ongoing efforts to shape clear crypto regulations. In a June 16 post on X, Armstrong revealed he had been in London, pictured outside Downing Street, for discussions focused on positioning the UK as a leading crypto hub. While [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Elizabeth Warren criticizes GENIUS Act over stablecoin concerns ahead of final vote",
-      "link": "https://cryptoslate.com/elizabeth-warren-criticizes-genius-act-over-stablecoin-concerns-ahead-of-final-vote/",
-      "summary": "<p>Senator Elizabeth Warren has voiced fresh concerns about the GENIUS Act, a bill designed to regulate stablecoins in the US financial system, ahead of its final vote scheduled for later today. In a June 16 statement on X, Warren claimed the bill could allow billionaires to launch stablecoins that monitor user activity and gain an [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Analyst Predicts Bitcoin Price Crash As War Tensions Mount In Middle East",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-crash-as-war-tensions/",
+      "summary": "Bitcoin\u2019s recent price activity has been characterized by sharp swings as global uncertainties persist, particularly following the escalation of tensions between Israel and Iran. After plunging by nearly 5% amid the rising geopolitical strain, Bitcoin managed to recover, bouncing back above $105,000 and currently trading around $106,800. The past 24 hours have been highlighted by Bitcoin recovering toward $108,000 briefly again, but with escalating tensions in the Middle East, there&#8217;s a good chance it could crash soon. This aligns with an outlook from a crypto analyst, who noted that Bitcoin might crash toward $100,000. Resistance Band Faces Test For Bitcoin According to crypto analyst Pejman_Zwin on the TradingView platform, Bitcoin is hovering within a confluence of resistance and short liquidation zones, stretching from $105,330 to $107,120. This range, he notes, is not only a structural resistance zone but also corresponds with the cumulative short liquidation leverage area. Related Reading: Bitcoin Price Forms Descending Triangle Pattern Amid Israel-Iran Tensions Basically, this means there&#8217;s a high possibility of an intensified price volatility if this zone is challenged or broken. The charts also reveal the presence of a possible contracting triangle pattern, which is a bearish continuation setup in the context of a larger correction. According to the analyst, if Bitcoin fails to reclaim $106,600 convincingly, the structure could shift from a corrective triangle to a five-wave downward impulse. This would cause a deeper retracement, especially as the price is already forming lower highs within the triangle. As such, the longer Bitcoin lingers in this resistance range without a breakout, the higher the likelihood of a rapid downward move. Bearish And Bull Targets If Bitcoin were to confirm this breakdown, the analyst noted the first major target around the lower boundary of the support zone, which lies between $105,330 and $103,162. This zone is reinforced by the monthly pivot point and also overlaps with the cumulative long liquidation leverage region. The 1-hour candlestick timeframe chart further highlighted a potential short setup from the reversal zone near $107,100 and a projected target close to $104,300. Related Reading: Bitcoin Bears Back In Control After $110,000 Rejection, What Comes Next? Further downside could pull the price toward the next support band around $102,600 or even down to $101,000, should liquidation pressure persist. Pejman, on the other hand, pointed out that a sustained breakout above the $107,120 resistance line could initiate a bullish reversal and push Bitcoin back towards the heavy resistance cluster above $108,000. A strong daily close above $108,000 could cancel the bearish outlook. However, failure to break above here could lead to a rejection and another downside move. Although Bitcoin is starting to show some signs of bullishness, its price action is still vulnerable to a quick pullback, especially if the tensions in the Middle East continue to unfold. At the time of writing, Bitcoin is trading at $106,638, down 0.02% in the past 24 hours. This subdued price action shows its current consolidation nature. Featured image from Pixabay, chart from Tradingview.com"
+    },
     {
       "title": "Solana ETF Nears Approval \u2013 Don\u2019t Miss Your Chance to Buy Solaxy, the First $SOL Layer-2",
       "link": "https://www.newsbtc.com/news/solana-etf-is-next-last-chance-to-buy-solaxy/",
@@ -100,11 +105,6 @@
       "title": "On-Chain Analyst Warns: Bitcoin Peak Expected, Altcoins Facing -95% Plunge",
       "link": "https://www.newsbtc.com/bitcoin-news/on-chain-analyst-warns-bitcoin-peak-expected-altcoins-facing-95-plunge/",
       "summary": "As Bitcoin (BTC) and the broader cryptocurrency market show tentative signs of recovery following the most recent correction, a crypto analyst has made a bold statement suggesting that the market may have already reached its peak. BladeDeFi, in a recent post on X (formerly Twitter), warned followers that a significant downturn could be on the horizon, predicting a challenging summer ahead for the crypto space. Crypto Pump Or Trap? In his post, BladeDeFi emphasized that \u201ccrypto has already PEAKED\u201d and forecasted a potential slump where alternative cryptocurrencies could see declines of up to 95%. He indicated that most indicators are flashing red, suggesting that the market is on the brink of a significant downturn. According to him, Bitcoin has already hit its all-time high early in the current cycle and is now trapped in a \u201cslow-motion downtrend,\u201d with each subsequent bounce becoming weaker than the last. Related Reading: Bitcoin Gold Rush 2.0? Treasuries Swell With 60 New Players The analyst pointed out a concerning trend: retail investors are becoming exhausted, while larger institutional players have begun to exit the market. Major firms like BlackRock, Fidelity, and MicroStrategy are reportedly rotating their investments and hedging their positions, often without making their actions overtly public. The analyst suggests that this shift leaves retail investors vulnerable, potentially left holding depreciating assets as liquidity in the market continues to dwindle. BladeDeFi also criticized the current market dynamics, warning that sudden price increases or \u201cgreen candles\u201d are often deceptive, serving only to entice late buyers into traps that lead to further losses. He noted that without new capital inflows\u2014such as fresh stimulus or significant investment\u2014the recent price pumps lack sustainability. The absence of liquidity means that any upward movements are likely to be fleeting, and the overall trend remains downward. Bitcoin Poised For Year-End Peak? Adding to the bearish sentiment, another analyst, Peppeso, echoed similar concerns, suggesting that the top of the 2025 bull market has already been established. Peppeso observed historical patterns in previous market cycles, noting that while bull markets have become longer, bear markets have shortened and softened in their impact. Despite this, Bitcoin has consistently reached all-time highs in the final months of each cycle, reinforcing Peppeso\u2019s expectation of a peak around November or December 2025. Related Reading: Ethereum Consolidation Continues \u2013 Altseason May Follow A Clean Break Above Resistance The current market environment is further complicated by macroeconomic factors, including rising interest rates and increasing geopolitical risks. With uncertainty clouding the outlook, many investors are adopting a risk-off approach, leading to a sustained downtrend in the crypto market. Even popular memecoins like Dogecoin (DOGE) and Shiba Inu (SHIB) have experienced significant declines of 9% and 7% in the past week alone respectively, indicating that the hype surrounding these assets is fading. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Slows Down In June: Historical Data Says More Losses To Come",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-slowns-down-june/",
-      "summary": "Ethereum is already seeing a slowdown for the month of June, suggesting that it is sticking to established historical trends for the month. With half of the month already gone, the altcoin is likely to finish out the month in the same trend, and the previous cycle data warns of further price crashes. But how far down will the Ethereum price go before it recovers? Ethereum Fighting The Bears In June According to data from the CryptoRank website, the month of June is the second-worst month for the Ethereum price historically. This comes down to its average and median returns, which sit at -6.56% and -5.65%, respectively, showing that returns for the month are likely to be red. It falls behind only the month of September, which has -10.7% average returns and -13.6% median returns. Related Reading: Shiba Inu Burn Explodes 3,194%: Can It Change The SHIB Price Trajectory? In the decade that the Ethereum cryptocurrency has existed, only a total of three years have the month of June ended in green. In contrast, six years have closed in the red, including back in 2024 when the Ethereum price tumbled 8.64% in June. So far, the month of June 2025 has seen very little gains, with CryptoRank data only showing a 0.20% increase at the time of writing. This suggests a continuation of the established bearish trend, especially with the bear still pushing down the price of Bitcoin, and the rest of the crypto market keeps going down with it. If the altcoin does stick to its historical performance, then it is possible that the price could break below $2,500 before the month is over. However, there is still the possibility of a recovery if the Bitcoin price does continue to rise. Bullish Sentiment Still Strong Despite the bearish trend of June, crypto analysts are still calling for higher prices for Ethereum. One analyst, Crypto Patel, predicts a possible short-term crash if the Ethereum price drops below $2,500. Patel believes $2,000 is next if this happens. However, long-term remains bullish as the crypto analyst believes Ethereum is headed for $10,000. Related Reading: Dormant Ethereum Wallet Awakens After 10 Years With Millions Worth Of ETH Another crypto analyst, Ash Crypto, pointed out that ETH is forming a possible golden cross, just one month after Bitcoin did. But unlike Bitcoin, which usually takes months to play out a golden cross trend, the crypto analyst says Ethereum will begin immediately, and the target from here is $3,500. Crypto analyst Lord of Alts also explained that Ethereum is actually playing out as expected, with three trends. The first is consolidation, then accumulation, before ending in a price expansion. Lord of Alts says ETH is entering this trend again and puts the price as high as $6,000 by 2026. Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "NYSE-listed DayDayCook to raise up to $528 million for Bitcoin treasury expansion",
+      "link": "https://cryptobriefing.com/bitcoin-treasury-expansion-ddc-enterprise/",
+      "summary": "<p>DayDayCook's significant Bitcoin investment could influence corporate treasury strategies, highlighting growing institutional interest in digital assets.</p> <p>"
+    },
+    {
       "title": "Thailand exempts Bitcoin, crypto gains from tax to support entrepreneurs and innovation",
       "link": "https://cryptobriefing.com/thailand-crypto-tax-relief-innovation/",
       "summary": "<p>Thailand's tax exemption on crypto gains could boost its digital economy, attract global investors, and enhance entrepreneurial growth.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "JPMorgan files \u2018JPMD\u2019 trademark, hinting at possible stablecoin offering",
       "link": "https://cryptobriefing.com/jpmorgan-stablecoin-trademark-application/",
       "summary": "<p>JPMorgan's trademark move could accelerate mainstream adoption of digital currencies, influencing financial markets and regulatory landscapes.</p> <p>"
-    },
-    {
-      "title": "Eric Trump says he loves Justin Sun but denies involvement in Tron\u2019s public debut plan",
-      "link": "https://cryptobriefing.com/eric-trump-tron-statement/",
-      "summary": "<p>Eric Trump's denial of involvement in Tron's debut highlights potential complexities in crypto market entries and the influence of high-profile endorsements.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Solana\u2019s ETF case strengthens: Are the numbers backing it up?",
+      "link": "https://ambcrypto.com/solanas-etf-case-strengthens-are-the-numbers-backing-it-up/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-28.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana gains ground as a serious ETF contender with rising DeFi activity, SEC filing updates, and institutional moves."
+    },
     {
       "title": "Top 13 Telegram games of June 2025",
       "link": "https://ambcrypto.com/top-13-telegram-games-of-june-2025/",
@@ -208,11 +213,6 @@
       "title": "Analyzing Ethereum\u2019s $1.29M whale action \u2013 A short squeeze in sight, IF..",
       "link": "https://ambcrypto.com/analyzing-ethereums-1-29m-whale-action-can-eth-bulls-force-a-squeeze/",
       "summary": "<img alt=\"ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_47_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum whale sells $1.29 millions as short liquidations surge and exchange inflows shrink hinting at a potential rally."
-    },
-    {
-      "title": "Ripple sees 7x activity surge- Can it drive XRP to an all-time high?",
-      "link": "https://ambcrypto.com/ripple-sees-7x-activity-surge-can-it-drive-xrp-to-an-all-time-high/",
-      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-1-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is XRP gearing up for a breakout Q3? All eyes on institutional flows."
     }
   ]
 }
