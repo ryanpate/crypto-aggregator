@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Polyhedra Blames Liquidity Attacks for Sudden 80% Price Drop in ZKJ, Promises Buyback",
+      "link": "https://www.coindesk.com/tech/2025/06/17/polyhedra-blames-liquidity-attacks-for-sudden-80-price-drop-in-zkj-promises-buyback",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Daybook Americas: Institutions Pile In as Bitcoin\u2019s Favorable Asymmetry Persists",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/17/crypto-daybook-americas-institutions-pile-in-as-bitcoins-favorable-asymmetry-persists",
+      "summary": ""
+    },
+    {
+      "title": "XRP Jumps as Bulls Push Through Key Resistance Levels",
+      "link": "https://www.coindesk.com/markets/2025/06/17/xrp-jumps-as-bulls-push-through-key-resistance-levels",
+      "summary": ""
+    },
+    {
       "title": "Polymarket Odds on U.S. Military Action Against Iran Slide as Trump Team Proposes Tehran Talks",
       "link": "https://www.coindesk.com/markets/2025/06/17/polymarket-odds-on-us-military-action-against-iran-slide-as-trump-team-proposes-tehran-talks",
       "summary": ""
@@ -9,51 +24,46 @@
       "title": "ARK Invest Offloads Over $50M in Circle Shares as Stock Extends Rally",
       "link": "https://www.coindesk.com/markets/2025/06/17/ark-invest-offloads-over-50m-in-circle-shares-as-stock-extends-rally",
       "summary": ""
-    },
-    {
-      "title": "XRP Hits 12-Year Milestone With Over 2,700 Whales, Holding Over 1M XRP, Onchain Data Show",
-      "link": "https://www.coindesk.com/markets/2025/06/17/xrp-hits-12-year-milestone-with-over-2-700-whales-holding-over-1m-xrp-onchain-data-show",
-      "summary": ""
-    },
-    {
-      "title": "Deribit Sees Strong Demand From Institutions, Volume on Its Block RFQ Tool Reaches $23B in Four Months",
-      "link": "https://www.coindesk.com/markets/2025/06/17/deribit-s-on-demand-liquidity-tool-for-large-bitcoin-ether-traders-registers-over-usd23b-in-volume-in-4-months",
-      "summary": ""
-    },
-    {
-      "title": "Pump.fun and Other Memecoin Accounts Suspended From X in Apparent Crackdown",
-      "link": "https://www.coindesk.com/markets/2025/06/17/pumpfun-and-other-memecoin-accounts-suspended-from-x-in-apparent-crackdown",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Bitcoin ETFs add $412M, extend 6-day inflow streak amid Israel-Iran conflict",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-inflows-hit-412m-amid-iran-israel-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTBjMGQtMTVkNi03ZDljLWJkMmYtMjQ1YzUyMzk5YTQ4.jpg\" /></p><p>Bitcoin ETFs extend a six-day inflow streak, adding $412 million on June 16 as institutional investors shrug off escalating tensions between Iran and Israel.</p>"
+      "title": "From OpenAI to blockchain: Joey Bertschler builds crypto wage access platform",
+      "link": "https://cointelegraph.com/news/former-openai-employee-launches-crypto-wage-startup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdjZTktYzMzZi03MTM1LWI5MmUtN2VlNDIzY2RmNGM3.jpg\" /></p><p>Joey Bertschler, a former OpenAI employee, is now building a crypto wage distribution system, Volante Chain, motivated in part by disillusionment with OpenAI\u2019s culture.</p>"
     },
     {
-      "title": "Analyst: Prepare for a 530% XRP price breakout to $14 if this happens",
-      "link": "https://cointelegraph.com/news/analyst-prepare-for-530-xrp-price-breakout-14-if-this-happens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njg4NzUtNmYwYS03YmYzLTkwOWEtNzNjMDQxMDA2YWFj.jpg\" /></p><p>XRP traders say it has the potential to rally to $14 if a technical setup similar to that in 2017 plays out, but a bull pennant breakout will be needed soon.</p>"
+      "title": "Malaysia launches Digital Asset Hub to test stablecoin, programmable money",
+      "link": "https://cointelegraph.com/news/malaysia-launches-digital-asset-sandbox-to-test-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdkYmUtMmIxOS03M2RiLWJjMDctOTc5NTgwYWI3MGNk.jpg\" /></p><p>Malaysia unveils a regulatory sandbox for programmable payments and ringgit-backed stablecoins, aiming to position itself as a regional fintech hub.</p>"
     },
     {
-      "title": "Cathie Wood\u2019s ARK dumps first Circle shares batch for $52M",
-      "link": "https://cointelegraph.com/news/ark-invest-sells-circle-stock-first-profit-post-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdjYjMtYjNhZS03YjVhLThjYjktN2VhZmRjMmNlZDQz.jpg\" /></p><p>Circle is one of the top ARK holdings across three funds with a weight of up to 6.7%.</p>"
+      "title": "Why is Solana (SOL) price down today?",
+      "link": "https://cointelegraph.com/news/why-is-solana-sol-price-down-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDkvMDE5MWM4NWYtNTYyMi03NWM5LWIxODQtMDMyZWFiYzQ3OTBj.jpg\" /></p><p>Pump.fun ban and increasing geopolitical risks in the Middle East are helping drive down Solana price today.</p>"
     },
     {
-      "title": "Genius Group Bitcoin treasury grows 52% as 1,000 BTC goal reaffirmed",
-      "link": "https://cointelegraph.com/news/genius-group-boosts-bitcoin-holdings-after-court-win?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDUxZjMtNDU0ZS03ZWJkLTkwYzEtMWU3N2Y5MTQwNzRm.jpg\" /></p><p>The Nasdaq-listed AI company\u2019s treasury surpassed the 100 BTC mark after a favorable court order enabled it to resume Bitcoin accumulation.</p>"
+      "title": "How to mine Bitcoin at home in 2025",
+      "link": "https://cointelegraph.com/news/how-to-mine-bitcoin-at-home?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNDMzYTlkMjZiNmIyOGQ0ZDI2ZDY2OWFjOTQ2MWFhZC5qcGc=.jpg\" /></p><p>Discover how to mine Bitcoin at home in 2025 using the latest ASIC hardware, optimized mining software, low-cost electricity setups and secure wallets to maximize efficiency and profitability.</p>"
     },
     {
-      "title": "Alex Mashinsky won\u2019t get a piece of Celsius\u2019 bankruptcy pie, judge says",
-      "link": "https://cointelegraph.com/news/former-celsius-ceo-mashinsky-barred-from-claiming-bankruptcy-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGRiOWEtNjBlYS03NzA0LWI5MWQtMGYyOTg1YzBiMzFk.jpg\" /></p><p>Alex Mashinsky and related entities have forfeited all claims to Celsius\u2019 bankruptcy estate as the court prioritizes restitution to creditors.</p>"
+      "title": "Bitcoin price top metric with 10-year+ record stays &#039;neutral&#039; at $112K",
+      "link": "https://cointelegraph.com/news/bitcoin-price-top-metric-10-year-record-neutral-at-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1ZGEtNmEyMS03ZGU3LTkzNjUtZWE5NGNiZTJkMGI4.jpg\" /></p><p>Bitcoin remains at a \"neutral point\" in its market cycle, the IBCI tool says, implying room for more BTC price upside before the bull market hits its peak.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Lawmakers think stablecoins are GENIUS: Inside the new US stablecoin bill",
+      "link": "https://cryptoslate.com/market-reports/lawmakers-think-stablecoins-are-genius-inside-the-new-us-stablecoin-bill/",
+      "summary": "<p>"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong seen at 10 Downing Street amid push for UK crypto overhaul",
+      "link": "https://cryptoslate.com/coinbase-ceo-brian-armstrong-seen-at-10-downing-street-amid-push-for-uk-crypto-overhaul/",
+      "summary": "<p>Coinbase CEO Brian Armstrong recently met with senior policymakers in the United Kingdom to support the country&#8217;s ongoing efforts to shape clear crypto regulations. In a June 16 post on X, Armstrong revealed he had been in London, pictured outside Downing Street, for discussions focused on positioning the UK as a leading crypto hub. While [&#8230;]</p> <p>"
+    },
     {
       "title": "Elizabeth Warren criticizes GENIUS Act over stablecoin concerns ahead of final vote",
       "link": "https://cryptoslate.com/elizabeth-warren-criticizes-genius-act-over-stablecoin-concerns-ahead-of-final-vote/",
@@ -68,19 +78,14 @@
       "title": "Bitcoin gives up rally after Trump denies Iran-Israel ceasefire role, calls Tehran to evacuate",
       "link": "https://cryptoslate.com/bitcoin-gives-up-rally-after-trump-denies-iran-israel-ceasefire-role-calls-tehran-to-evacuate/",
       "summary": "<p>Bitcoin tumbled back to $106,000 in early Tuesday trading after U.S. President Donald Trump denied claims he was involved in brokering a ceasefire between Iran and Israel, shaking markets that had priced in potential de-escalation. The late-night Truth Social post from Trump, published just before midnight Eastern time, blasted French President Emmanuel Macron and dismissed [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin delivers 90% risk-adjusted return to 60/40 portfolios with 10% allocation, 2x gold\u2019s risk efficiency",
-      "link": "https://cryptoslate.com/bitcoin-delivers-90-risk-adjusted-return-to-60-40-portfolios-with-10-allocation-2x-golds-risk-efficiency/",
-      "summary": "<p>Investors who added 10% in Bitcoin (BTC) to their &#8220;60/40 portfolio&#8221; strategies got a 90% risk-adjusted return in the past 12 months, outperforming gold&#8217;s 51% return in the same period. On a June 16 post via X, the profile Ecoinometrics highlighted BTC&#8217;s performance through June 13 and charted the result against total return. A 60/40 [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Dozens of memecoin-related X accounts including Pumpfun suspended for unknown reasons",
-      "link": "https://cryptoslate.com/dozens-of-memecoin-related-x-accounts-including-pumpfun-suspended-for-unknown-reasons/",
-      "summary": "<p>The official Pump.fun account and the personal handle of its founder Alon Cohen were seemingly suspended by X on June 16, along with a cohort of other accounts tied to the memecoin sector. As of press time, neither X nor the people behind the suspended accounts explained the reason for the suspensions. Users noticed that [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Wild XRP Prediction: Crypto Founder Sees $10K Price Tag\u2014Here\u2019s When",
+      "link": "https://www.newsbtc.com/news/wild-xrp-prediction-crypto-founder-sees-10k-price-tag-heres-when/",
+      "summary": "According to Digital Ascension Group\u2019s Managing Director Jake Claver, XRP could reach a price level that brings a dramatic shift in how value moves on its network. He argues that higher token prices make the system more efficient. Claver even lays out a bold target of $10,000 per XRP, and he says that can happen within 24 months. The idea has reignited talk of crypto\u2019s next big rally. Related Reading: Record\u2011High Ethereum Open Interest Signals Institutional Confidence Price And Liquidity Efficiency According to Claver, moving large sums on the XRP ledger depends on token price. At $1 per XRP, you need 1,000,000 tokens to shift $1 million. If the price rose to $10, only 100,000 tokens would do the job. And in a world where one XRP costs $1 million, a single token could cover that same $1 million transfer. This math shows why Claver believes price and network efficiency go hand in hand. Does XRP need to be a certain price to move large amounts of money? pic.twitter.com/tbqBbvST4y \u2014 Jake Claver, QFOP (@beyond_broke) May 27, 2025 Market Cap Implications XRP trades near $2.24 today, with a market cap of about $131.7 billion. At $10,000 per token, that cap would swell to over $585 trillion. Claver treats that huge number as a sign of strength rather than a warning. He says market cap rules don\u2019t apply the same way to XRP. But critics point out you can\u2019t assume that every token sits ready to trade. Actual liquidity comes from orders on exchanges and funds in liquidity pools, not just a headline market cap. Timeline And Skepticism Claver doesn\u2019t shy away from timing. He told his followers that the $10,000 mark could arrive within 24 months. Some hear that as a call to buy now. Others see it as wildly optimistic. To reach that level, XRP would need to climb more than 500,000% from today\u2019s price. Even Bitcoin, with far more adoption, took about four years to go from $1,200 to $68,000 in the last cycle. Cranking out a similar or bigger gain in half the time would require huge new demand. Community Reaction And Risks Based on reports, Claver\u2019s claim has attracted both cheers and jeers. Some XRP fans embrace the vision. Others worry it sets unrealistic hopes. Alex Caraco, former CEO of an Australian stock market firm, summed up a common view: \u201cIt\u2019s sad to see buyers sold the story of $10,000 XRP happening tomorrow.\u201d Critics say such talk distracts from real issues like regulatory hurdles, exchange listings and developer growth. Related Reading: Amid Bitcoin Hype, Seasoned Trader Predicts Sudden Drop To This Level XRP Price Forecast XRP is expected to dip slightly\u2014by around 0.70%\u2014with projections placing its value at $2.23 by July 17, 2025. Current indicators paint a neutral market mood, with the Fear &#38; Greed Index leaning heavily toward Neutral at a score of 57. Over the past month, XRP has closed in the green on 16 out of 30 days, experiencing a modest 3.70% in price swings. Featured image from Imagen, chart from TradingView"
+    },
     {
       "title": "Bear Signal Lingers On Dogecoin\u2014Here\u2019s Why That\u2019s Bullish",
       "link": "https://www.newsbtc.com/news/dogecoin/bear-signal-dogecoin-why-thats-bullish/",
@@ -100,11 +105,6 @@
       "title": "Stablecoin Exchange Inflows Plummet $61 Billion\u2014Warning Sign For Bitcoin?",
       "link": "https://www.newsbtc.com/stablecoin/stablecoin-inflows-plummet-61-billion-sign-bitcoin/",
       "summary": "On-chain data shows the exchange inflows related to the stablecoins USDT and USDC have seen a sharp plunge. Here&#8217;s what this could mean for Bitcoin and other cryptocurrencies. Stablecoin Exchange Inflows Have Dropped Below Yearly Average In a new post on X, CryptoQuant author Axel Adler Jr has discussed about the latest trend in the Exchange Inflow of the top two stablecoins in the sector, USDT and USDC. The &#8220;Exchange Inflow&#8221; refers to an on-chain indicator that keeps track of the total amount of a given asset that&#8217;s moving into the wallets associated with centralized exchanges. Generally, investors may deposit their coins into these platforms when they want to trade them away, so a high value on the Exchange Inflow can indicate demand for swapping the cryptocurrency. For volatile assets like Bitcoin, this is something that can naturally be bearish for the price. Related Reading: Dogecoin Must Hold This Level\u2014Or Risk A 30% Price Crash In the case of stablecoins, however, their price doesn&#8217;t see any impact from exchange deposits, since it always remains, by definition, stable around whatever fiat currency the asset is tracking. That said, stablecoin inflows aren&#8217;t without consequence. Investors usually deposit these assets to swap into a volatile cryptocurrency of their choice. As such, coins like Bitcoin can see a bullish effect from an Exchange Inflow spike related to these fiat-tied tokens. Now, here is a chart that shows the trend in the combined Exchange Inflow of the top two stablecoins, USDT and USDC, over the past few years: As displayed in the above graph, the Exchange Inflow of USDT and USDC shot up to a very high value at the end of last year, a sign that the investors were making massive deposits of these stablecoins. Alongside the spike in the indicator, the Bitcoin price observed a rally to a new all-time high (ATH), a potential sign that the stablecoin inflows may have helped provide the fuel for the run. At the peak of the spike, the metric reached a value of $131 billion per day. From the chart, it&#8217;s apparent that since then, the indicator has been following a downward trajectory and today, its value has come down to $70 billion per day. Related Reading: Ethereum ETF Frenzy: Inflows Jump 5x While Bitcoin Stalls This represents a significant decline of $61 billion since the high. Though, while the indicator is indeed notably down compared to the peak, its current level is still high in the context of the wider cycle so far. Naturally, if this drawdown in the stablecoin Exchange Inflow keeps up, it could potentially turn out to be a bearish sign for Bitcoin and other digital assets. That said, even though BTC went down earlier in the year, its price is still above the $100,000 mark right now, a possible sign that investors may simply be entering a phase of consolidation. Bitcoin Price Following a surge of about 2.5% over the last 24 hours, Bitcoin has managed to recover back to the $108,100 level. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Eyes Big Move As Price Compresses Between Key Levels \u2013 $2,100 Or $4,000 Next?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-eyes-big-move-as-price-compresses-between-key-levels-2100-or-4000-next/",
-      "summary": "Ethereum (ETH) is attempting to retest the local range highs following last week\u2019s market shakeout. However, some analysts believe that the cryptocurrency will continue its sideways move for the coming weeks before its next big move. Related Reading: Will The Bitcoin Price Move Above $110,000 Again? Global M2 Money Supply Shows What\u2019s Next Ethereum Eyes Range High Resistance Last week, Ethereum attempted to reclaim the $2,800 barrier, hitting a three-month high of $2,879. However, the market shakeout, fueled by the Iran-Israel conflict, sent the cryptocurrency\u2019s price to retest its local range\u2019s lows before recovering over the weekend. Notably, ETH has been hovering between the $2,400-$2,680 range since the early May market recovery, which saw the King of Altcoins surge from the $1,800 mark toward its current price range for the first time in three months. Nonetheless, it has been rejected from the local range\u2019s resistance four times in the past month. Market watcher Daan Crypto Trades noted that Ethereum\u2019s price action has been consolidating between these two key levels, compressing just below the $2,800 area. This level has been a crucial area throughout the cycle, serving as a key support and resistance level since 2024. The trader considers this area to be \u201cthe most important level on this entire chart by far,\u201d detailing that every major retest of this zone has led to either \u201ca nice bounce\u201d or \u201cbig dump.\u201d Meanwhile, ETH \u201cwent on to really even further\u201d after every reclaim of this level as support. Daan explained that its current price range is \u201cbecoming quite a tight range for how long it\u2019s been trading here. You can see how important this is and that there\u2019s likely a big move coming from this point somewhere in the next few weeks.\u201d Based on this, he forecasted that \u201cIf we&#8217;d see a convincing break above $2.8K and hold there, that would be a good setup for a move to the cycle highs around ~$4K.\u201d However, if it loses this current range, then the $2,100 area \u201cis the big high timeframe level to watch.\u201d Is A 2017 Repeat In The Making? Merlijn The Trader highlighted that Ethereum is now consolidating within its current range after breaking out of a multi-month falling wedge, which suggests that the cryptocurrency could soon experience a massive move. He pointed out that, historically, \u201cthis pause often precedes a surge,\u201d adding that the Relative Strength Index (RSI) is also retesting the recent breakout zone. Additionally, the trader noted that ETH appears to be following its 2016-2017 playbook, with a similar structure to eight years ago. At the time, the cryptocurrency had an \u201cexplosive setup\u201d that led ETH to a massive lift-off starting in 2017. After the market shakeout, the cryptocurrency moved sideways within a tight range while reclaiming the 50-day Moving Average (MA). Related Reading: PEPE Pumps 2.67% \u2013 Is The Memecoin Preparing For A Major Rebound? Following the key reclaim, Ethereum\u2019s price experienced a massive surge toward new highs. According to Merlijn, \u201cSame breakout zone. Same 50 MA reclaim. Sideways chop\u2026 then liftoff. But this time? Bigger market. Institutional fuel is backing ETH. No ceiling in sight. We\u2019re not repeating history\u2026 We\u2019re amplifying it.\u201d As of this writing, Ethereum is trading at $2,640, a 3.7% increase in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin Price Holds Steady Amid Iran Conflict Fears",
+      "link": "https://decrypt.co/325536/bitcoin-price-holds-steady-amid-iran-conflict-fears",
+      "summary": "Analysts told they expect Bitcoin to remain stable until there is more clarity about the U.S. response to Middle East tensions."
+    },
+    {
+      "title": "CRYPTO REBOUNDS AFTER MIDDLE EAST CONFLICT, HYPE KEEPS GOING HIGHER!",
+      "link": "https://decrypt.co/videos/interviews/PIycV1Ic/crypto-rebounds-after-middle-east-conflict-hype-keeps-going-higher",
+      "summary": "- FOMO HOUR LIVE ON DEGENZ. Degenz Live is the only content you need for crypto, macro, trading, gambling and risk-taking. Powered by MYRIAD MARKETS, REKT BRANDS and YEET CASINO. SOL lead rebound in majors after Iran-Israel news. HYPE hits another ATH. DRW Investments invests $100m in Trump Media. Metaplanet to issue $210m debt to buy BTC. Whales leading accumulation of ETH vs retail. Fidelity files S-1 for SOL ETF. Bybit launches on-chain liquidity network on SOL. Bybit adds gold, stocks & FX trading. Crypto near tipping point toward systemic risk: FSB. Coinbase, Gemini to receive MiCA licenses. Gotbit founder jailed on wash trading. Vietnam officially recognises crypto for regulations. Saylor set to advise Pakistan on BTC. 00:00:00 Kick Streaming Launches with Tyler Mando 00:04:32 Highlights From Recent Football Matches 00:09:06 Potential Escalation in the Strait of Hormuz 00:14:17 SPX and Bitcoin Market Update 00:19:06 Crypto Market Trends: Golden Bull Run and Alt Season Evolution 00:23:51 Tron's IPO and Controversial Investments 00:28:31 Giveaway and Raffle Entry Instructions 00:33:36 Potential Geopolitical Escalations: Iran and Global Markets 00:38:21 Meme Tokens Surge and Market Highlights LINKS https://x.com/DegenzLive https://linktr.ee/DegenzLive https://kick.com/degenzlive https://www.instagram.com/degenzlive https://creators.spotify.com/pod/profile/degenzlive PARTNERS https://rekt.com/ https://yeet.com/ https://myriad.markets/ #bitcoin #crypto #trading #news #gambling"
+    },
+    {
       "title": "EU Risks Becoming Crypto \u2018Flyover Zone\u2019 Between US, Asia: Franklin Templeton",
       "link": "https://decrypt.co/325528/eu-crypto-flyover-zone-franklin-templeton",
       "summary": "The United States\u2019 crypto-friendly approach has given the EU a shot in the arm as it mulls an update to 2023\u2019s MiCA regulations."
@@ -149,19 +159,14 @@
       "title": "Eric Trump Denies Involvement in Tron Nasdaq Deal Despite Board Role",
       "link": "https://decrypt.co/325516/eric-trump-denies-involvement-tron-nasdaq-deal",
       "summary": "Eric Trump says he has no \u201cpublic involvement\" in Tron\u2019s reverse merger effort, despite sitting on the board of a bank brokering the deal."
-    },
-    {
-      "title": "Solana-Based Pump.fun Among List of Crypto Trading Platforms Suspended from X",
-      "link": "https://decrypt.co/325512/solana-pump-fun-crypto-trading-platforms-suspended-x",
-      "summary": "Accounts linked to Pump.fun, GMGN and other Solana-based projects have been taken down without warning, triggering speculation as to why."
-    },
-    {
-      "title": "Polymarket Odds on US Strike Against Iran Spike, Then Fall",
-      "link": "https://decrypt.co/325506/polymarket-bets-on-us-strike-against-iran-spike-then-fall",
-      "summary": "The conflict has sparked interest among punters, even as the odds of a U.S. strike against Iran on Polymarket fall."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Thailand exempts Bitcoin, crypto gains from tax to support entrepreneurs and innovation",
+      "link": "https://cryptobriefing.com/thailand-crypto-tax-relief-innovation/",
+      "summary": "<p>Thailand's tax exemption on crypto gains could boost its digital economy, attract global investors, and enhance entrepreneurial growth.</p> <p>"
+    },
     {
       "title": "SEC, Ripple ask court to delay appeal proceedings pending August 15 update",
       "link": "https://cryptobriefing.com/sec-ripple-settlement-delay-request/",
@@ -181,14 +186,19 @@
       "title": "Eric Trump says he loves Justin Sun but denies involvement in Tron\u2019s public debut plan",
       "link": "https://cryptobriefing.com/eric-trump-tron-statement/",
       "summary": "<p>Eric Trump's denial of involvement in Tron's debut highlights potential complexities in crypto market entries and the influence of high-profile endorsements.</p> <p>"
-    },
-    {
-      "title": "SEC formally accepts Trump Media\u2019s Bitcoin spot ETF filing",
-      "link": "https://cryptobriefing.com/sec-bitcoin-spot-etf-filing/",
-      "summary": "<p>The SEC's review of Trump Media's Bitcoin ETF filing could influence future crypto investment products and regulatory approaches.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Top 12 casinos to watch out for in June 2025",
+      "link": "https://ambcrypto.com/top-12-casinos-to-watch-out-for-in-june-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/amit-lahav-HffApi3okak-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Crypto casinos are online gambling platforms similar to traditional casinos, offering players live dealer games, [&#8230;]"
+    },
+    {
+      "title": "Analyzing Ethereum\u2019s $1.29M whale action \u2013 A short squeeze in sight, IF..",
+      "link": "https://ambcrypto.com/analyzing-ethereums-1-29m-whale-action-can-eth-bulls-force-a-squeeze/",
+      "summary": "<img alt=\"ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_47_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum whale sells $1.29 millions as short liquidations surge and exchange inflows shrink hinting at a potential rally."
+    },
     {
       "title": "Ripple sees 7x activity surge- Can it drive XRP to an all-time high?",
       "link": "https://ambcrypto.com/ripple-sees-7x-activity-surge-can-it-drive-xrp-to-an-all-time-high/",
@@ -203,16 +213,6 @@
       "title": "Bitcoin\u2019s $10M club controls 9.43% of BTC supply \u2013 A cause for concern?",
       "link": "https://ambcrypto.com/bitcoins-10m-club-now-holds-9-43-of-btc-supply-is-this-a-red-flag/",
       "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-27.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />20,000 wallets now control nearly 10% of BTC; has crypto recreated the old world it vowed to disrupt?"
-    },
-    {
-      "title": "Dogecoin \u2013 Here\u2019s what\u2019s in store for memecoin after Bitcoin\u2019s latest price bounce",
-      "link": "https://ambcrypto.com/dogecoin-heres-whats-in-store-for-memecoin-after-bitcoins-latest-price-bounce/",
-      "summary": "<img alt=\"Dogecoin - Here&#039;s what&#039;s in store for memecoin after Bitcoin&#039;s latest price bounce\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Dogecoin holders may be underwater, but the selling pressure on the leading memecoin is still high."
-    },
-    {
-      "title": "MemeStrategy stock soars 28% after SOL treasury adoption \u2013 Are more gains likely?",
-      "link": "https://ambcrypto.com/memestrategy-stock-soars-28-after-sol-treasury-adoption-are-more-gains-likely/",
-      "summary": "<img alt=\"MemeStrategy stock soars 28% after SOL treasury adoption - Are more gains likely? \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/solana-ETF-MemeStrategy.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Hong Kong has jumped onto the SOL treasury trend."
     }
   ]
 }
