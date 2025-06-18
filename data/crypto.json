@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "UNI Rallies 70% From April Lows With Bullish Pattern Taking Shape, Up 24% in Past 30 Days",
+      "link": "https://www.coindesk.com/markets/2025/06/18/uni-rallies-70-from-april-lows-with-bullish-pattern-taking-shape",
+      "summary": ""
+    },
+    {
+      "title": "Fed Leaves Rates Steady, Expects Weaker Growth, Sticky Inflation",
+      "link": "https://www.coindesk.com/markets/2025/06/18/fed-leaves-rates-steady-expects-weaker-growth-sticky-inflation",
+      "summary": ""
+    },
+    {
       "title": "Coinbase Debuts Stablecoin Payment Stack Following Shopify Partnership",
       "link": "https://www.coindesk.com/business/2025/06/18/coinbase-debuts-stablecoin-payment-stack-following-shopify-partnership",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Litecoin Bucks Bearish Trend as ETF Hopes Climb Amid Rising Global Tension",
       "link": "https://www.coindesk.com/markets/2025/06/18/litecoin-bucks-bearish-trend-as-etf-hopes-climb-amid-rising-global-tension",
       "summary": ""
-    },
-    {
-      "title": "BNB Hits Resistance at $654 as Israel-Iran Conflict Rattles Crypto Traders",
-      "link": "https://www.coindesk.com/markets/2025/06/18/bnb-hits-resistance-at-654-as-israel-iran-conflict-rattles-crypto-traders",
-      "summary": ""
-    },
-    {
-      "title": "Standard Chartered Sees New Growth Frontiers in Non-Stablecoin Tokenization",
-      "link": "https://www.coindesk.com/markets/2025/06/18/standard-chartered-sees-new-growth-frontiers-in-non-stablecoin-tokenization",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ethereum and the battle for yield: What is ETH\u2019s future?",
+      "link": "https://cointelegraph.com/news/ethereum-and-the-battle-for-yield-will-eth-win?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA2MWEtNGM1Ny03MWFjLTgxMmUtNjJjMmZhZTkyZjI2.jpg\" /></p><p>Ethereum staking yields are falling as yield-bearing stablecoins and DeFi protocols offer more competitive returns. Can ETH regain the upper hand in the yield wars?</p>"
+    },
+    {
+      "title": "Chinese Central Bank pledges global expansion of digital yuan \u2014 Report",
+      "link": "https://cointelegraph.com/news/china-central-bank-pledges-expand-international-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzZWYtYmU0My03MjY5LWIwZTctODYwMzUxMGQ1ZGY1.jpg\" /></p><p>China has been looking to challenge the US dollar\u2019s reserve status and wants to expand the digital yuan\u2019s reach to include domestic and international payments.</p>"
+    },
     {
       "title": "Deribit, Crypto.com integrate BlackRock&#039;s BUIDL as trading collateral",
       "link": "https://cointelegraph.com/news/deribit-crypto-com-accepting-blackrock-buidl-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Healthcare company onboards Trump crypto adviser, buys $20M BTC",
       "link": "https://cointelegraph.com/news/prenetics-health-company-bitcoin-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzNzUtMjAxMy03Yjc5LThhNWUtZjlkMGNhNGVjNGUy.jpg\" /></p><p>The initial purchase of more than 187 BTC was part of a larger strategy to \u201csubstantially increase its Bitcoin holdings,\u201d according to Prenetics.</p>"
-    },
-    {
-      "title": "ZisK spins off from Polygon with \u2018core minds behind Polygon zkEVM\u2019",
-      "link": "https://cointelegraph.com/news/polygon-cofounder-launches-zisk-zkevm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZmNjItNDA1Zi03NjBiLWIxYjItZTNkODI0YjJhZjY4.jpg\" /></p><p>Polygon co-founder Jordi Baylini continues to serve Polygon in an advisory capacity.</p>"
-    },
-    {
-      "title": "Sandeep Nailwal\u2019s Polygon takeover is his chance to \u2018go all in\u2019",
-      "link": "https://cointelegraph.com/news/polygon-sandeep-nailwal-inside-decision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVlNWYtYjUwNi03ZGY1LTlhMWItODkyYjRjNWRhOWNm.jpg\" /></p><p>Co-founder and new CEO Sandeep Nailwal opens up about dissolving Polygon\u2019s board, closing zkEVM and why claiming sole leadership is the network\u2019s best shot at relevance.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Price Pressure Builds: Can BNB Punch Through The Ceiling Or Will 640 Catch The Fall?",
+      "link": "https://www.newsbtc.com/analysis/bnb/bnb-price-pressure-builds/",
+      "summary": "BNB finds itself at a pivotal moment as price action tightens between two critical technical zones. After a period of consolidation, the cryptocurrency is testing resistance near the 200-period moving average, hovering around the $653 mark. Meanwhile, support around the $640 level continues to hold firm, acting as a safety net for bulls trying to defend the current structure. 200 MA Acts As A Ceiling Against BNB Uptrend According to Thomas Anderson in a recent X post, the M15 BNB chart reveals that the price is currently testing resistance around the $651.50 level, marked by a horizontal yellow line. Related Reading: BNB Coils For Impact: Will $670 Crack Under Pressure? This move follows a recent bounce off the ascending white trendline support, indicating that buyers are still defending the short-term uptrend. However, price action remains just beneath the 200-period moving average (red line), which is acting as a dynamic resistance zone near the $653 mark. Momentum indicators are offering mixed signals at the moment. The MACD continues to print negative values, showing that bearish pressure hasn\u2019t fully dissipated, while the RSI has started recovering from previously oversold conditions. This combination suggests the potential for a short-term bounce within the ascending channel. M30 And H1 Charts Are Aligning In an updated post, the analyst also went further to examine the BNB M30 chart, where price is currently trading at $650.10 and appears to be consolidating just below the 200-period moving average (red line) situated around the $653 level. This area is acting as a key short-term resistance zone, and price action has shown hesitation around it, reflecting a battle between buyers and sellers. Interestingly, the H1 chart mirrors this behavior, showing a broader ascending channel structure that suggests an underlying bullish bias, though still unconfirmed. Related Reading: BNB Price Reclaims $600 \u2014 Is This the Start of a Major Upside Move? The immediate resistance to watch remains near the $653 mark, aligned with the 200 MA on both the M30 and H1 timeframes. If bulls can muster enough strength to break and sustain above this level, it could trigger a fresh wave of upward momentum for BNB toward the next resistance at $657. This would represent a potential continuation of the ascending channel&#8217;s structure and hint at growing bullish control in the short term. On the flip side, if price fails to push above the $653 resistance, consolidation may begin to lose steam. In such a scenario, a retreat toward the previous swing low near the $640 level becomes likely. This support area has already proven its strength and could be the next level of defense if bearish pressure increases. Traders are watching closely, as these levels may determine BNB&#8217;s next directional move. Featured image from Adobe Stock, chart from Tradingview.com"
+    },
+    {
       "title": "Buy Bitcoin Now? Not Yet\u2014Analyst Says Time Holds The Key",
       "link": "https://www.newsbtc.com/bitcoin-news/buy-bitcoin-now-not-yet-time-holds-key/",
       "summary": "In a post on June 17, prominent crypto strategist Astronomer (@astronomer_zero) outlined his high-conviction roadmap for Bitcoin\u2019s next major breakout, emphasizing that timing\u2014not just price\u2014is the most critical factor for those still on the sidelines. Despite projecting a continuation of the broader uptrend that began at $18,000 in 2023, Astronomer warned that jumping in prematurely could blunt the risk-reward ratio of the next leg. \u201cPlanning to buy now into BTC is expected to net you a move of over 70% in a short period of time,\u201d he wrote. \u201cBut the closer we get to those 10 weeks, confirmed with price action, the closer BTC is to breaking out.\u201d Buy Bitcoin Now? His primary thesis: Bitcoin\u2019s breakout will not occur before June 30, and any significant move is statistically more likely after that date. This aligns with what he calls one of the \u201cmost ancient crypto mechanics\u201d\u2014Bitcoin moves first, and altcoins follow. Related Reading: Analyst Predicts Bitcoin Price Crash As War Tensions Mount In Middle East Astronomer\u2019s roadmap presents a tiered accumulation strategy rooted in probabilistic support zones. \u201cUpon statistical analysis, the expected close before going up only is around $103k,\u201d he wrote. \u201cProbably a good level to start getting involved. [\u2026] The expected level to be reached based on all prior signals (lowest wick) is $96k. Probably a good level to buy heavy if given. [\u2026] And finally, the expected lowest close is $90k. Probably a good level to allocate (almost) all your dry powder.\u201d But beyond the price levels, Astronomer places stronger emphasis on timing: \u201cIf the price doesn&#8217;t go as deep into the $90\u2019s\u2014which I don&#8217;t think is very likely\u2014I expect June to close between $95-110k and not go much lower. Then I&#8217;d buy more and more the closer we get to those 10 weeks regardless of the price. Time is more important than price.\u201d He also pointed to structural market dynamics supporting his thesis, including a bullish spot-to-perpetual rotation: \u201cThe order books start to rotate towards green into spot, red into perps (aggressive shorts, aggressive spot buys), simply visible with the increasing spot premiums.\u201d Adding to the signal strength is a recent weekly hash ribbon print\u2014\u201cone that never failed,\u201d he noted. Related Reading: $150,000 Bitcoin Is In Play\u2014Unless This One Macro Metric Snaps Astronomer further offered guidance for navigating altcoins, advising traders to wait for the breakout rather than attempting to catch falling knives. \u201cBuying alts when BTC breaks out [\u2026] is smarter than trying to knife catch them. To eliminate the drawdown and reap the upside rewards.\u201d Summarizing his plan, he said, \u201cIf I was sidelined, I&#8217;d look to buy below $103k and as much as possible as close to $90k as possible. And the closer we get to those 10 weeks, confirmed with price action, the more confident I become.\u201d Astronomer\u2019s final message underscores that his bullish stance hasn\u2019t changed since the flip at $18K: \u201cNo top being in yet, until we reach at least 170k+. That is the plan.\u201d And for those still unsure? He offers a blunt reminder: \u201c"
@@ -100,11 +105,6 @@
       "title": "Crypto Gets A Green Light From Spanish Banking Giant",
       "link": "https://www.newsbtc.com/crypto/crypto-gets-a-green-light-from-spanish-banking-giant/",
       "summary": "Since late 2024, BBVA\u2019s private\u2011banking arm in Switzerland has been quietly advising clients to add Bitcoin and Ether to their holdings. According to Philippe Meyer, who leads digital and blockchain solutions at BBVA Switzerland, wealthy customers should allocate between 3% and 7% of their portfolios to crypto. Based on reports, this advice aims to boost returns without exposing investors to outsized risk. Related Reading: Tether Enforces Freeze On $12 Million In Tron Funds Over Illicit Activity Early Adoption Timeline BBVA began executing crypto trades in 2021 for a handful of clients. By September 2024, Meyer says the bank had started formally recommending a 3% Bitcoin stake in balanced portfolios. Now, risk\u2011tolerant clients can move up to 7% into digital assets, reflecting BBVA\u2019s growing confidence in crypto as a mainstream option. Philippe Meyer recently delivered a presentation at a blockchain conference in Lugano, Switzerland. Source: BBVA Switzerland. Client Reaction And Risk Views Many clients have responded well so far. Meyer notes that even a small 3% allocation \u201calready boosts the performance\u201d of a diversified portfolio and \u201cyou are not taking a huge risk\u201d at that level. Short\u2011term swings still occur\u2014crypto markets can drop 20% in a week\u2014but private clients seem ready to ride those waves in pursuit of higher gains. According to Reuters, BBVA, Spain\u2019s second-largest bank, has been advising its private banking clients since September 2024 to allocate 3% to 7% of their portfolios to cryptocurrencies based on their risk appetite. The guidance currently applies to Bitcoin and Ether, with plans\u2026 \u2014 Wu Blockchain (@WuBlockchain) June 17, 2025 Regulatory And Market Context Europe\u2019s Markets in Crypto\u2011Assets regulation (MiCA) took full effect at the end of December 2024. This rulebook governs token issuers and service providers across the EU. Yet the European Securities and Markets Authority reports that 95% of EU banks avoid crypto activities entirely. BBVA stands out: in March 2025, Spain\u2019s securities regulator gave it formal approval to offer Bitcoin and Ether trading in the country. Related Reading: Record\u2011High Ethereum Open Interest Signals Institutional Confidence Next Steps For App And Investors BBVA plans to roll out buy, sell, and portfolio management features inside its existing mobile app over the coming months. The launch will begin with select clients before expanding more broadly. As rival banks like Santander explore their own stablecoins\u2014pegged to dollars and euros\u2014BBVA\u2019s move could spur a wave of mainstream crypto services. For now, only high\u2011net\u2011worth clients hear this crypto advice. But if allocations deliver solid returns and BBVA weathers any market crashes, other banks may follow. That would give more investors the chance to include crypto alongside stocks, bonds, and real estate. The real test will come if Bitcoin or Ether plunge sharply. If BBVA\u2019s cautious plan holds up under stress, it may reshape how mainstream finance treats digital assets. Featured image from ESG News, chart from TradingView"
-    },
-    {
-      "title": "Much Ado About Something? JPMorgan Launches USD Deposit Token \u2013 Not Stablecoin",
-      "link": "https://www.newsbtc.com/news/jpmorgan-launches-usd-deposit-token-not-stablecoin/",
-      "summary": "After days of rumors around the identity of the mysterious \u2018JPMD\u2019 token filed by JPMorgan, widely supposed to be a stablecoin, the truth has finally emerged. JPMD isn\u2019t a stablecoin after all \u2013 it\u2019s a deposit token on the Base blockchain (Coinbase\u2019s own blockchain). With JPMD, institutions have a round-the-clock method of making deposits, incorporating established banking systems with blockchain technology. It\u2019s one more step along the path towards crypto as a normal part of everyday life, alongside core crypto projects like Best Wallet token. Time to learn more about why JPMorgan thinks deposit tokens are part of the future of crypto. Not a Surprise After All: JPMorgan Champions Deposit Tokens Perhaps everyone should have guessed what JPMD was. After all, one of the largest banks in the US is hardly likely to do anything without a lot of research and preparation. And in this case, JPMorgan has been championing blockchain-powered deposit tokens since at least 2022. That was when the company published an extensive report on the utility and function of proposed deposit tokens. Calling them \u2018a foundation for stable digital money,\u2019 JPMorgan outlined a number of core advantages a deposit token could offer to traditional banks: \u2714\ufe0f Digital form of commercial bank money \u2013 deposit token fills the role of existing deposit claims \u2714\ufe0f Blockchain-native programmability \u2013 with deposit tokens, banks can access smart contracts, an atomic settlement option, and automated processing \u2714\ufe0f Payment efficiency and cost reduction \u2013 on-chain deposit tokens provide real-time transfers; no more waiting for deposits to settle after-hours \u2714\ufe0f Seamless integration with banking \u2013 established use cases, existing support networks, and even clear legal status; there\u2019s little to prevent immediate use of deposit tokens within the current banking infrastructure That last point is critical. Even while stablecoins draw increased attention, deposit tokens like JPMD hold one clear advantage: they fit neatly into existing rules and regulations. Trademark Filed, JPMorgan Builds Base for Crypto-Finance Integration JPMorgan filed the trademark application on June 15, 2025. As it turns out, the deposit token will be built on the Base blockchain and will leverage that chain to provide round-the-clock crypto access for its clients (Coinbase is one). If JPMD takes off \u2013 and it should, since JPMorgan has a market cap of roughly $738B \u2013 it could be the next step in the growing conjunction between crypto and finance. Institutions have led crypto adoption in recent months, but there are growing signs that retail adoption won\u2019t be far behind. Success in a fully integrated crypto-financial world will rest partly on the power of your crypto wallet. Best Wallet app is a leading non-custodial crypto wallet, and now the Best Wallet Token launch takes the wallet to the next level. Best Wallet Token ($BEST) \u2013 Upgrade Your Crypto Wallet to be Future-Proof Best Wallet Token ($BEST) takes the power of the Best Wallet app up a notch. $BEST token holders gain: \u2705 Exclusive crypto presale access \u2705 Reduced trading fees \u2705 Increased staking rewards \u2705 Governance rights and participation Best Wallet is the only crypto presale wallet, offering an Upcoming Tokens feature where you can research and invest in the best crypto presales. It\u2019s all part of a growing crypto ecosystem where Best Wallet, Best Wallet Token, and the upcoming Best Card work together to equip you to navigate a brave new crypto world. That gives $BEST unique utility, even among other crypto presales. Currently, tokens cost $0.025195, and early investors can stake them for a 104% variable APY. Our price prediction sees the token price potentially reaching $0.035215 by the end of the year, delivering 40% returns to anyone who buys in now. Learn how to buy Best Wallet token, and don\u2019t forget to visit the Best Wallet Token presale page today. JPMorgan, Best Wallet Show Path Forward for Crypto Together, the launch of both $BEST and $JPMD highlights the way forward for crypto. Traditional finance and crypto are no longer separate things \u2013 they\u2019re two sides of the same coin, and crypto wallets connect them. Before purchasing $BEST, do your own research. This isn\u2019t financial advice."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Are Criminals Really Switching From Crypto to Gold for Money Laundering?",
+      "link": "https://decrypt.co/325887/criminals-switching-crypto-gold-money-laundering",
+      "summary": "Police note UK criminals are turning to gold, not crypto, to launder money\u2014but is it a growing trend or just a glittering myth?"
+    },
+    {
+      "title": "Justice Dept. Files to Seize Record $225 Million Tied to 'Pig Butchering' Crypto Scams",
+      "link": "https://decrypt.co/325882/justice-dept-seize-record-225-million-pig-butchering-crypto-scams",
+      "summary": "The U.S. Department of Justice has filed to seize over $225 million in USDT\u2014the largest-ever seizure tied to \"pig butchering\" crypto scams."
+    },
+    {
       "title": "Bitcoin Shrugs Off Fed Decision to Keep Rates Unchanged",
       "link": "https://decrypt.co/325643/bitcoin-shrugs-off-fed-decision-to-keep-rates-unchanged",
       "summary": "The largest cryptocurrency by market value has been trading about 5% under its all-time high set last month."
@@ -149,16 +159,6 @@
       "title": "Coinbase, Circle Stocks Spike Double Digits After Stablecoin Bill Clears Senate",
       "link": "https://decrypt.co/325840/coinbase-circle-stocks-spike-double-digits-genius-act",
       "summary": "Coinbase and Circle are soaring after a key stablecoin bill cleared the Senate\u2014but Fed rate cuts could test their biggest revenue stream."
-    },
-    {
-      "title": "Publicly Traded Solana Treasury Firm Is 'Showing What's Next' for Strategy's Bitcoin Model",
-      "link": "https://decrypt.co/325793/publicly-traded-solana-firm-showing-whats-next-strategy-bitcoin",
-      "summary": "Newly established Solana treasury company DeFi Development Corp. is taking a unique approach in building its digital asset stash."
-    },
-    {
-      "title": "'Global Response' to Crypto Regulation Needed as US Advances GENIUS Act: FCA",
-      "link": "https://decrypt.co/325790/global-response-crypto-regulation-fca",
-      "summary": "Lord Chris Holmes argued \"right-size regulation\" benefits innovation, adding that only \"grifters and chancers\" want a regulatory-free environment."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "All about Thailand\u2019s new crypto policy \u2013 5-year tax break, $30.7M boost & more\u2026",
+      "link": "https://ambcrypto.com/all-about-thailands-new-crypto-policy-5-year-tax-break-30-7m-boost-more/",
+      "summary": "<img alt=\"Thailand crypto tax\" class=\"attachment-full size-full wp-post-image\" height=\"561\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Thailand-crypto-tax.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"998\" />Could Thailand\u2019s crypto tax strategy challenge Dubai and Singapore?"
+    },
+    {
       "title": "Bitcoin: THIS ratio hints at a possible BTC supply shock \u2013 How?",
       "link": "https://ambcrypto.com/bitcoin-this-ratio-hints-at-an-upcoming-btc-supply-shock-how/",
       "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-18T130609.677-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin shows rising accumulation and supply tightening, but demand-side metrics point to market fragility."
@@ -208,11 +213,6 @@
       "title": "SEC delays Solana ETFs despite 90% approval odds: \u2018Timeline unknown\u2019",
       "link": "https://ambcrypto.com/sec-delays-solana-etfs-despite-90-approval-odds-timeline-unknown/",
       "summary": "<img alt=\"SEC delays Solana ETFs despite 90% approval odds: &#039;Timeline unknown&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Solana-ETF-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Market focus has shifted to July or October for a likely U.S spot SOL ETF approval."
-    },
-    {
-      "title": "Iran\u2019s Nobitex crypto exchange hit by $81 mln hack \u2013 Israel group claims responsibility",
-      "link": "https://ambcrypto.com/irans-nobitex-crypto-exchange-hit-by-81-mln-hack-israel-group-claims-responsibility/",
-      "summary": "<img alt=\"Iran&#039;s Nobitex crypto exchange hit by $81 mln hack - Israel group claims responsibility\" class=\"attachment-full size-full wp-post-image\" height=\"659\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Nobitex-Exploited-for-over-80-Million.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1171\" />Another week, another $80 million lost - Are centralized crypto exchanges becoming the weakest link in Web3?"
     }
   ]
 }
