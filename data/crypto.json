@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Ark Invest Dumps Nearly $45M Worth of Circle Shares as U.S. Senate Passes GENIUS Act",
+      "link": "https://www.coindesk.com/markets/2025/06/18/ark-invest-dumps-nearly-45m-worth-of-circle-shares-as-us-senate-passes-genius-act",
+      "summary": ""
+    },
+    {
+      "title": "Kraken-Backed Ink Foundation to Airdrop INK Token, Starting With Aave-Powered Liquidity Protocol",
+      "link": "https://www.coindesk.com/markets/2025/06/18/kraken-backed-ink-foundation-to-airdrop-ink-token-starting-with-aave-powered-liquidity-protocol",
+      "summary": ""
+    },
+    {
       "title": "SHIB Long-Short Ratio Slides as Over $1.8M in Bullish Bets Liquidated",
       "link": "https://www.coindesk.com/markets/2025/06/18/shib-long-short-ratio-slides-as-over-usd1-8m-in-bullish-bets-liquidated",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Dogecoin Zips Down 7% Amid Low Risk-On Sentiment",
       "link": "https://www.coindesk.com/markets/2025/06/18/dogecoin-zips-down-7-amid-low-risk-on-sentiment",
       "summary": ""
-    },
-    {
-      "title": "XRP, ADA Lead Crypto Majors Slide, While Bitcoin Watchers Target Return to Highs in Q3",
-      "link": "https://www.coindesk.com/markets/2025/06/18/xrp-ada-lead-crypto-majors-slide-while-bitcoin-watchers-target-return-to-highs-in-q3",
-      "summary": ""
-    },
-    {
-      "title": "XRP Drops 5% as High-Volume Selling Pressure Dominates Market",
-      "link": "https://www.coindesk.com/markets/2025/06/18/xrp-drops-5-as-high-volume-selling-pressure-dominates-market",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "China\u2019s\u00a0JD.com enters stablecoin race as US passes GENIUS Act",
+      "link": "https://cointelegraph.com/news/jdcom-stablecoin-global-licensing-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgyMTYtZmRkOC03MzQ1LTlmODItZjNjNzc1MGQ5OTRi.jpg\" /></p><p>JD.com plans to apply for stablecoin licenses in major countries, aiming to slash cross-border payment costs by 90% and settle in 10 seconds.</p>"
+    },
+    {
+      "title": "Nobitex hacked for $73M as pro-Israel group claims responsibility",
+      "link": "https://cointelegraph.com/news/iranian-crypto-exchange-nobitex-exploited-for-73m-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgyMWItZTE4Yy03YTdiLWI4Y2EtNjk5ZGQ1YTQ0MzZl.jpg\" /></p><p>The Iranian crypto exchange\u2019s wallets were exploited for at least $73 million as attackers used vanity addresses for the theft.</p>"
+    },
     {
       "title": "Agriculture firm AgriFORCE powers 120 crypto miners with natural gas",
       "link": "https://cointelegraph.com/news/agriforce-powers-120-crypto-miners-stranded-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Washington\u2019s second-biggest city, Spokane, bans crypto ATMs",
       "link": "https://cointelegraph.com/news/washington-spokane-bans-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgxMmQtMDUwZi03MjU0LTg4NTAtODViMDZhMGIwZWYw.jpg\" /></p><p>Spokane City Council has banned crypto ATMs to curb rising scams, giving operators 60 days to remove machines amid concerns over fraud and vulnerable residents.</p>"
-    },
-    {
-      "title": "Archetyp dark web market shut down, but ecosystem adapts: TRM Labs",
-      "link": "https://cointelegraph.com/news/archetyp-dark-web-market-takedown-darknet-adapts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3MjYtMTMxMC03ZWZhLTliYmQtMThkOGE5OTY4MDFl.jpg\" /></p><p>The Archetyp dark web market had over 600,000 users, a total transaction volume of at least $287 million and over 17,000 listings, mainly offering drugs for sale.</p>"
-    },
-    {
-      "title": "Bitcoin and HYPE could get $844M total windfall from 4 public US firms",
-      "link": "https://cointelegraph.com/news/bitcoin-hype-884-million-windfall-public-firms-allocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgwNjgtOTMzOC03ZjJiLTg0Y2QtYzczNWFmZmJhMTZh.jpg\" /></p><p>DDC Enterprise and Fold Holdings have confirmed raises worth a total of $778 million as a biotech firm said it would raise $50 million to add HYPE as a treasury asset.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Iran-based crypto exchange hacked for $48M amid cyberattack claims by Israel-linked group",
+      "link": "https://cryptoslate.com/iran-based-crypto-exchange-hacked-for-48m-amid-cyberattack-claims-by-israel-linked-group/",
+      "summary": "<p>Iranian crypto exchange Nobitex has suffered a major security breach, resulting in the loss of over $48 million. The company confirmed the attack via an X post on June 18, revealing that the incident targeted its hot wallets. It stated: &#8220;This morning our technical team detected signs of unauthorized access to a portion of our [&#8230;]</p> <p>"
+    },
     {
       "title": "US DOJ, Europol seize world\u2019s largest dark web drug market operating via Monero",
       "link": "https://cryptoslate.com/us-doj-europol-seize-worlds-largest-dark-web-drug-market-operating-via-monero/",
@@ -73,14 +78,14 @@
       "title": "VanEck\u2019s Solana ETF moves closer to market entry with DTCC listing",
       "link": "https://cryptoslate.com/vanecks-solana-etf-moves-closer-to-market-entry-with-dtcc-listing/",
       "summary": "<p>VanEck\u2019s planned Solana (SOL) exchange-traded fund has been listed with the Depository Trust &#38; Clearing Corporation (DTCC) under the ticker symbol VSOL, signaling another step in mainstreaming Solana exposure for traditional investors. According to DTCC records, the fund is labeled \u201cVANECK SOLANA TR COM SHS BEN INT\u201d and falls under the \u2018D\u2019 settlement category, an [&#8230;]</p> <p>"
-    },
-    {
-      "title": "US Senate approves landmark GENIUS Act for stablecoin regulation",
-      "link": "https://cryptoslate.com/us-senate-approves-landmark-genius-act-for-stablecoin-regulation/",
-      "summary": "<p>The Senate approved the Guiding and Establishing National Innovation for US Stablecoins (GENIUS) Act in a 51-23 vote on June 17, sending the measure to the House for consideration. The vote followed a 68-30 cloture decision on June 11 that cut off debate and started the mandatory 30-hour countdown to the final roll call. Senator [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin NVT Enters Reversal Zone: BTC Dangerously Overvalued?",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-nvt-reversion-btc-dangerously-overvalued/",
+      "summary": "On-chain data shows the Bitcoin Network Value to Transactions (NVT) Golden Cross has surged into a zone that has historically signaled overpriced conditions for the asset. Bitcoin NVT Golden Cross Has Crossed Above 2.2 In a new post on X, CryptoQuant author Darkfrost has talked about the latest trend in the NVT Golden Cross of Bitcoin. The NVT Golden Cross is an indicator based on another metric known as the NVT Ratio. The NVT Ratio keeps track of the ratio between the BTC market cap and transaction volume. The idea behind the indicator is that the ability to transact coins (as gauged by the transaction volume) could be considered as a reflection of the asset&#8217;s &#8216;fair value.&#8217; Related Reading: XRP Bullish Signal: Shark &#38; Whale Wallets Set New All-Time High Thus, through the comparison of the cryptocurrency&#8217;s current value (that is, the market cap) with this fair value, the metric can tell us about whether the asset is overvalued or undervalued. When the value of the metric is high, it means the market cap is high compared to the transaction volume. Such a trend could imply BTC may be becoming overheated. On the other hand, the indicator being low could suggest room for the coin to grow relative to its volume. Now, the NVT Golden Cross, the actual metric of relevance here, is a signaling indicator like the Bollinger bands for the NVT Ratio that aims to locate tops and bottoms in its value. The NVT Golden Cross does so by comparing the short-term trend (represented by the 10-day MA) with the long-term one (30-day MA). Below is the chart shared by the analyst that shows the trend in the metric over the last couple of years. As displayed in the above graph, the Bitcoin NVT Golden Cross has recently registered a sharp uptick and entered into the region above the 2.2 mark (highlighted in red). This zone is where the cryptocurrency&#8217;s market cap has historically outpaced the transaction volume to a degree that a reversion to the mean has tended to occur. In other words, it&#8217;s where price corrections to the downside have taken place for the asset. Related Reading: Stablecoin Exchange Inflows Plummet $61 Billion\u2014Warning Sign For Bitcoin? Though, it&#8217;s visible from the chart that not every top in the NVT Golden Cross inside this territory coincides with a price top. And in many instances that it does, the decline in the asset isn&#8217;t to some major degree. So far since the signal has appeared, however, the asset has indeed been going down, a potential sign that the same reversion effect may be in play once more. It now remains to be seen whether downside will be limited, or if this will be one of those instances where the signal was followed by an extended drawdown. BTC Price At the time of writing, Bitcoin is floating around $103,700, down almost 5% in the last seven days. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin Setting Up For \u2018Large Move\u2019 Amid $103,000 Retest \u2013 Key Levels To Watch",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-setting-up-for-large-move-amid-103000-retest-key-levels-to-watch/",
@@ -100,11 +105,6 @@
       "title": "$150,000 Bitcoin Is In Play\u2014Unless This One Macro Metric Snaps",
       "link": "https://www.newsbtc.com/bitcoin-news/150000-bitcoin-unless-this-one-macro-metric-snaps/",
       "summary": "Bitcoin may be gearing up for a renewed surge, but according to trader Josh Olszewicz, the bullish setup is walking a macroeconomic tightrope\u2014and one wrong move could send everything tumbling. In his June 16 \u201cMacro Monday\u201d update, Olszewicz laid out a broad-based technical and macroeconomic case for why BTC is holding firm near all-time highs, while warning that the market\u2019s resilience is underpinned by a single, fragile macro factor: liquidity. $150K Bitcoin? Only If Powell Doesn\u2019t Pull The Plug \u201cCrypto clearly doesn&#8217;t care. Legacy clearly doesn&#8217;t care,\u201d Olszewicz said, referring to the continued rally in risk assets despite no rate cuts from the Federal Reserve. \u201cBoth of those are mooning without rates coming down.\u201d The key, according to him, lies in the quiet resurgence of global liquidity. While the Fed has not yet pivoted to easing, and markets are pricing near-zero odds of cuts in the June or July FOMC meetings, US and global liquidity metrics have started to turn upward. Olszewicz specifically pointed to reverse repo operations and the Treasury General Account (TGA) as crucial levers. \u201cWhen reverse repo drains, it helps liquidity. When TGA spends down, it helps liquidity. Right now, neither is doing much, but both are trending in the right direction,\u201d he said. \u201cAnd that\u2019s enough to keep risk assets buoyant.\u201d Related Reading: Bitcoin To $140,00 In 50 Days? Bitwise Bets On War Rally The current setup, Olszewicz argued, bears little resemblance to the hard tightening regimes of 2018 or 2022. Globally, rate hike cycles are easing or reversing altogether. \u201cIt has been liquidity going up,\u201d he emphasized. \u201cIf liquidity falls, if rates go up, then I&#8217;d expect crypto to have a hard time.\u201d For Bitcoin, which remains pinned near its all-time high, the structure looks increasingly constructive. The trader noted that BTC has so far resisted any meaningful breakdowns and continues to reclaim key technical levels. \u201cWe&#8217;re hovering at all-time highs. That&#8217;s what you want to see,\u201d he said. \u201cYou want to see us just continually fight off these sell-offs. It&#8217;s not a good look to lose highs quickly.\u201d From a technical standpoint, Olszewicz identified $97,980 as the key downside level to watch if Bitcoin does falter. But on the upside, he sees clear potential for continuation: \u201cI like $122K as a pit stop, and then eventually we\u2019ll settle in probably somewhere in the $150K range if we really get going.\u201d But that path is far from guaranteed. The wildcard in Olszewicz\u2019s framework is US liquidity\u2014a metric he calculates as the Federal Reserve balance sheet minus the TGA and reverse repo. It\u2019s rising, but only modestly. \u201cWe are seeing liquidity start to tick up again back to the top of the range,\u201d he said. \u201cNothing super impressive just yet, but this is very helpful\u2014especially for alts, obviously for BTC, but this is what alts need.\u201d And that\u2019s the catch. If liquidity stalls or reverses\u2014whether due to an unexpected Fed tightening move, a jump in TGA balances around tax deadlines, or a reactivation of reverse repo drains\u2014then the entire crypto rally could be put at risk. \u201cIf this goes to zero,\u201d Olszewicz warned about the reverse repo facility, \u201cthere may be liquidity issues and then they may have to reinstate QE.\u201d Related Reading: On-Chain Analyst Warns: Bitcoin Peak Expected, Altcoins Facing -95% Plunge He also flagged August as a critical juncture, with a possible US debt ceiling crunch looming. \u201cJust pay attention to what&#8217;s going on going into August, assuming the debt ceiling isn&#8217;t raised,\u201d he said. \u201cHigher the debt, higher the deficit, the more investors move to fixed supply assets. That\u2019s better for crypto.\u201d But none of this guarantees a clean move to $150K. As Olszewicz noted, we\u2019re still waiting on one essential domino to fall: inflation stability. While \u201ctrue inflation\u201d data from independent trackers is hovering in the low 2s, Fed-preferred metrics like CPI and PCE remain volatile. For Powell to act, the data needs to show three to six months of sustained, flatline 2% inflation. \u201cYou do not want 2.3 one month, 2.6 the next month, 2.4, 2.8,\u201d Olszewicz said. \u201cYou want a stable 2%.\u201d Until then, the Fed is likely to hold firm. But the longer Bitcoin maintains momentum without a rate cut, the more market psychology begins to shift\u2014toward a scenario where easing becomes a bonus, not a prerequisite. \u201cIf we\u2019re doing well without rates coming down, why are we rooting for rates to come down?\u201d Olszewicz asked. The answer, for Bitcoin, may come down to just one macro metric: liquidity. If it holds, $150,000 is still very much in play. But if it snaps\u2014so could the cycle. At press time, BTC traded at $105,325. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "XRP Price Slides Under Support Level, Selling Pressure Intensifies",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-slides-2-220/",
-      "summary": "XRP price started a fresh decline below the $2.20 zone. The price is now consolidating losses and might decline further below the $2.150 zone. XRP price started a fresh decline below the $2.20 zone. The price is now trading below $2.20 and the 100-hourly Simple Moving Average. There was a break below a key bullish trend line with support at $2.180 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start another decline if it trades below the $2.120 support zone. XRP Price Dips Again XRP price failed to continue higher above the $2.280 level and reacted to the downside, like Bitcoin and Ethereum. The price declined below the $2.250 and $2.220 support levels. Besides, there was a break below a key bullish trend line with support at $2.180 on the hourly chart of the XRP/USD pair. The pair tested the $2.150 support A low was formed at $2.1425 and the price is now consolidating losses below the 23.6% Fib retracement level of the recent decline from the $2.335 swing high to the $2.145 low. The price is now trading below $2.220 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.1880 level. The first major resistance is near the $2.20 level. The next resistance is $2.240 or the 50% Fib retracement level of the recent decline from the $2.335 swing high to the $2.145 low. A clear move above the $2.240 resistance might send the price toward the $2.280 resistance. Any more gains might send the price toward the $2.320 resistance or even $2.350 in the near term. The next major hurdle for the bulls might be $2.40. More Losses? If XRP fails to clear the $2.220 resistance zone, it could start another decline. Initial support on the downside is near the $2.150 level. The next major support is near the $2.120 level. If there is a downside break and a close below the $2.120 level, the price might continue to decline toward the $2.050 support. The next major support sits near the $2.020 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now below the 50 level. Major Support Levels \u2013 $2.150 and $2.120. Major Resistance Levels \u2013 $2.20 and $2.220."
     }
   ],
   "Bitcoin Magazine": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Iran\u2019s largest crypto exchange appears to have been exploited, suspected Israeli hackers threaten to leak source code and user data",
+      "link": "https://cryptobriefing.com/nobitex-cyberattack-iran-exchange/",
+      "summary": "<p>The breach highlights vulnerabilities in Iran's financial systems, potentially escalating geopolitical tensions and impacting regional cybersecurity.</p> <p>"
+    },
+    {
       "title": "US Senate passes GENIUS stablecoin bill, advancing it to the House for final approval",
       "link": "https://cryptobriefing.com/genius-stablecoin-bill-house/",
       "summary": "<p>US Senate passes the GENIUS stablecoin bill, advancing it to the House for a vote in 3 weeks with rules on backing, audits, and oversight.</p> <p>"
@@ -181,14 +186,19 @@
       "title": "Kraken-backed layer 2 Ink to launch $INK token",
       "link": "https://cryptobriefing.com/kraken-ink-token-launch/",
       "summary": "<p>The launch of $INK could significantly enhance DeFi ecosystems by fostering user-driven governance and expanding on-chain capital markets.</p> <p>"
-    },
-    {
-      "title": "Coinbase plans to offer tokenized equities to rival Robinhood, Charles Schwab",
-      "link": "https://cryptobriefing.com/coinbase-tokenized-equities-sec-approval/",
-      "summary": "<p>Coinbase's move into tokenized equities could reshape financial markets by increasing competition, innovation, and accessibility in trading.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "GENIUS crypto bill passed \u2013 Will stablecoins reach $3.7T by 2030?",
+      "link": "https://ambcrypto.com/senate-approves-genius-act-will-stablecoins-reach-3-7t-by-2030/",
+      "summary": "<img alt=\"stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/stablecoin-crypto-bill.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's all you need to know about the GENIUS Act and its progress."
+    },
+    {
+      "title": "Cardano bulls aim $0.84, but first, ADA must defend THIS support",
+      "link": "https://ambcrypto.com/cardano-bulls-aim-0-84-but-first-ada-must-defend-this-support/",
+      "summary": "<img alt=\"ADA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-17T171412.471-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sentiment, support, and buying pressure align as ADA battles to defend a critical zone."
+    },
     {
       "title": "Bitcoin\u2019s next big move? Here\u2019s why there\u2019s good reason to believe it\u2019s coming soon!",
       "link": "https://ambcrypto.com/bitcoins-next-big-move-heres-why-theres-good-reason-to-believe-its-coming-soon/",
@@ -203,16 +213,6 @@
       "title": "Zebec crypto\u2019s price struggles at $0.004 \u2013 Will support hold on for recovery?",
       "link": "https://ambcrypto.com/zebec-cryptos-price-struggles-at-0-004-will-support-hold-on-for-recovery/",
       "summary": "<img alt=\"Zebec crypto&#039;s price struggles at $0.004 \u2013 Will support hold on for recovery?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Zebec-crypto-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Stalled ZBCN momentum over the past ten days could be advantageous to swing traders."
-    },
-    {
-      "title": "What do Bitcoin\u2019s mid-cycle metrics tell us about its next price rally?",
-      "link": "https://ambcrypto.com/what-do-bitcoins-mid-cycle-metrics-tell-us-about-its-next-price-rally/",
-      "summary": "<img alt=\"What do Bitcoin&#039;s mid-cycle metrics tell us about its next price rally?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-17T161334.568-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin metrics hinted at mid-cycle strength and undervaluation, suggesting room for a sustained uptrend."
-    },
-    {
-      "title": "Optimism unveils major decentralization push with Season 8 governance overhaul",
-      "link": "https://ambcrypto.com/optimism-unveils-major-decentralization-push-with-season-8-governance-overhaul/",
-      "summary": "<img alt=\"Optimism unveils major decentralization push With Season 8 governance overhaul\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Optimism-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Optimism governance changes lowered the barriers for participation."
     }
   ]
 }
