@@ -28,6 +28,21 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "US DOJ files to seize $225M in crypto tied to pig butchering schemes",
+      "link": "https://cointelegraph.com/news/justice-department-seize-crypto-pig-butchering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg0ODYtOTg4Mi03N2QxLWFhYTItZWMwYTNiZjFlNGUz.jpg\" /></p><p>Justice Department officials did not go into great detail regarding the investment scam, but said that more than 400 suspected victims had lost millions of dollars.</p>"
+    },
+    {
+      "title": "Bitdeer to offer $330M convertible notes to expand operations",
+      "link": "https://cointelegraph.com/news/bitdeer-offer-330m-convertible-notes-to-expand-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg0ZDQtODBhNy03Y2FhLTljYzMtMzZhYmYzNGJmMzY5.jpg\" /></p><p>The fundraising comes as the company faces declining revenue and seeks to expand in the US to hedge against potential trade tensions.</p>"
+    },
+    {
       "title": "New York authorities freeze $300K linked to crypto scammers",
       "link": "https://cointelegraph.com/news/new-york-freeze-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjViOTEtMjJhMS03MjRiLWExODktMjc2MzUzNDRiOTVl.jpg\" /></p><p>Officials reported that scammers had used crypto to pay for fake digital asset investment ads on social media platforms, leading to more than $1 million in losses for victims.</p>"
@@ -36,24 +51,19 @@
       "title": "Bitcoin supply squeeze intensifies as \u2018ancient\u2019 holders eclipse newly mined BTC",
       "link": "https://cointelegraph.com/news/bitcoin-supply-squeeze-intensifies-as-holders-surpass-daily-mined-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg0MGYtMmZiOC03MTFmLThiNWMtMGYyY2Y1MDkxNDc5.jpg\" /></p><p>The \u201cancient\u201d Bitcoin cohort is growing faster than the amount of new coins mined, and with institutional flows accelerating, the path to $1 million BTC is starting to take shape.</p>"
-    },
-    {
-      "title": "Ethereum and the battle for yield: What is ETH\u2019s future?",
-      "link": "https://cointelegraph.com/news/ethereum-and-the-battle-for-yield-will-eth-win?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA2MWEtNGM1Ny03MWFjLTgxMmUtNjJjMmZhZTkyZjI2.jpg\" /></p><p>Ethereum staking yields are falling as yield-bearing stablecoins and DeFi protocols offer more competitive returns. Can ETH regain the upper hand in the yield wars?</p>"
-    },
-    {
-      "title": "Chinese Central Bank pledges global expansion of digital yuan \u2014 Report",
-      "link": "https://cointelegraph.com/news/china-central-bank-pledges-expand-international-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzZWYtYmU0My03MjY5LWIwZTctODYwMzUxMGQ1ZGY1.jpg\" /></p><p>China has been looking to challenge the US dollar\u2019s reserve status and wants to expand the digital yuan\u2019s reach to include domestic and international payments.</p>"
-    },
-    {
-      "title": "Deribit, Crypto.com integrate BlackRock&#039;s BUIDL as trading collateral",
-      "link": "https://cointelegraph.com/news/deribit-crypto-com-accepting-blackrock-buidl-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ0ZWItZDM0NS03MTZjLTgwOTctMzU0OTVlYWU5YzNk.jpg\" /></p><p>The move will lower collateral requirements to access leverage for crypto trading due to the relatively stable value of US government debt.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Coinbase launches stablecoin payment stack with USDC checkout targeting commerce giants",
+      "link": "https://cryptoslate.com/coinbase-launches-stablecoin-payment-stack-with-usdc-checkout-targeting-commerce-giants/",
+      "summary": "<p>Coinbase officially launched Coinbase Payments on June 18, a three-layer platform that enables commerce providers to add USDC checkout without running their blockchain infrastructure. The stack begins with Stablecoin Checkout, a wallet-native interface that supports hundreds of wallets, delivers gas-free transactions, and records payments in USDC. Beneath it, an E-commerce Engine exposes application programming interfaces [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Circle stock leaps to $200 record after 34% daily gain",
+      "link": "https://cryptoslate.com/circle-stock-leaps-to-200-record-after-34-daily-gain/",
+      "summary": "<p>Circle\u2019s CRCL shares climbed 34% and closed at $199.59 on June 18 after registering a new all-time high at $200.90. The new price peak is roughly 6.5x the company\u2019s initial public offering price of $31 set on June 5. The price leap came one day after the Senate advanced the Guiding and Establishing National Innovation [&#8230;]</p> <p>"
+    },
     {
       "title": "Distribution or death: Arthur Hayes says only exchange-backed or bank-linked stablecoins can thrive",
       "link": "https://cryptoslate.com/distribution-or-death-arthur-hayes-says-only-exchange-backed-or-bank-linked-stablecoins-can-thrive/",
@@ -68,19 +78,14 @@
       "title": "PancakeSwap surpasses Tether with $24.6M daily revenue, driven by record $10B trading surge",
       "link": "https://cryptoslate.com/insights/pancakeswap-surpasses-tether-with-24-6m-daily-revenue-driven-by-record-10b-trading-surge/",
       "summary": "<p>PancakeSwap has emerged as the highest revenue-generating platform in the crypto industry over the last 24 hours, outpacing even major players like Tether. According to DeFiLlama data, PancakeSwap generated $24.6 million in fees on July 17, eclipsing Tether\u2019s $19.9 million during the same period. This marks the DEX platform\u2019s second-largest single-day fee haul, just behind [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Two public firms announce plans to adopt HYPE as primary reserve asset for treasury",
-      "link": "https://cryptoslate.com/two-public-firms-announce-plans-to-adopt-hype-as-primary-reserve-asset-for-treasury/",
-      "summary": "<p>Lion Group Holding Ltd. (LGHL) and Eyenovia Inc. unveiled separate major financing moves this week to launch cryptocurrency treasury strategies centered on Hyperliquid\u2019s HYPE token. LGHL announced it has secured a $600 million facility to launch the first and largest HYPE treasury in Asia. The Singapore-based trading and financial services firm also revealed intentions to include [&#8230;]</p> <p>"
-    },
-    {
-      "title": "XRP network activity surges as Canada launches an XRP ETF",
-      "link": "https://cryptoslate.com/xrp-network-activity-surges-as-canada-launches-an-xrp-etf/",
-      "summary": "<p>Canadian asset manager 3iQ has launched an XRP-focused exchange-traded fund (ETF) on the Toronto Stock Exchange (TSX) under the XRPQ ticker. According to a June 18 statement, XRPQ will offer investors a six-month waiver on management fees and hold only long-term positions on the digital asset. These assets are sourced from reputable exchanges and over-the-counter [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Tron Shows Real Growth: Transaction Volume Soars While Success Rate Stays Above 96%",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-shows-real-growth-transaction-volume-soars-while-success-rate-stays-above-96/",
+      "summary": "Tron has captured renewed attention following a major development: its planned entry into public markets. Justin Sun, Tron&#8217;s founder, has reached a deal with Nasdaq-listed SRM Entertainment (SRM.O), under which SRM will acquire Tron-related tokens, rebrand as Tron Inc., and appoint Sun as an adviser. This move marks a significant step in bridging the gap between blockchain projects and traditional finance, potentially making Tron one of the first major public blockchain entities. Related Reading: Ethereum Golden Cross Approaching \u2013 Will History Repeat? Meanwhile, rising geopolitical tensions in the Middle East have sparked volatility across the broader crypto market, including Tron. Despite this uncertain macro environment, Tron\u2019s on-chain fundamentals remain strong. Top analyst Darkfost shared data showing that Tron\u2019s daily transaction volume has surged from 2.5 million in 2021 to over 9 million today. This exponential growth underscores a sharp rise in user activity and developer engagement across the network. The sustained increase in transaction volume also reflects growing confidence in Tron\u2019s infrastructure as a scalable and reliable alternative to other high-throughput blockchains. With both institutional exposure via SRM and strong on-chain growth, Tron finds itself at a pivotal moment in its evolution\u2014one that could reshape its trajectory in the months ahead. Tron Retraces After Public Listing Surge: Network Fundamentals Remain Strong Tron is currently trading around key demand levels after a sharp retrace from Monday\u2019s breakout rally. The surge\u2014triggered by the announcement that Tron would go public via a deal with Nasdaq-listed SRM Entertainment\u2014briefly sent TRX up over 9%, generating widespread attention. However, escalating tensions between Israel and Iran have weighed on market sentiment, dragging the price back to pre-announcement levels. Despite short-term volatility, Tron\u2019s fundamentals continue to paint a bullish picture. According to Darkfost, the Tron blockchain has demonstrated strong and consistent growth since 2021. Daily transaction volumes have risen from 2.5 million to over 9 million, reflecting increasing adoption and sustained demand for its infrastructure. This activity surge signals heightened investor interest and developer confidence in the network. Yet, high volume alone doesn\u2019t guarantee quality. What sets Tron apart is its impressive transaction success rate, which has remained above 96% throughout this growth phase. This reliability counters criticisms often aimed at other high-throughput chains like Solana, where failed or spammy transactions can inflate metrics. Additionally, Tron\u2019s block production has remained stable and linear, showcasing its operational consistency. Even amid rising global transaction fees, Tron continues to attract usage, suggesting that users still view it as a cost-effective, scalable solution. This blend of high performance, strong demand, and network resilience positions Tron as one of the most technically mature blockchains in the current market cycle. If macro conditions stabilize, Tron\u2019s public listing and robust on-chain metrics could reignite bullish momentum. Related Reading: Bitcoin Holds Strong Despite Israel-Iran Tensions \u2013 Weekly Resistance Begins To Crack TRX Price Analysis: Key Support Levels Hold Tron (TRX) is currently trading at approximately $0.273, consolidating just above the 50-day simple moving average (SMA), which sits around $0.268. After a sharp spike on Monday that pushed the price toward $0.30 following the announcement of Tron going public, the price retraced back to pre-announcement levels amid escalating geopolitical tensions in the Middle East. Despite this pullback, TRX remains in a bullish structure on the daily chart. The 100-day and 200-day SMAs, currently around $0.252 and $0.253, respectively, continue to trend upward and act as solid dynamic support, confirming that the medium- to long-term trend remains intact. Volume surged on the breakout but has since cooled, which is expected during periods of consolidation. Technically, TRX is forming a higher low structure while staying within a broader uptrend that began in late March. As long as the price holds above the $0.268 support level, bulls may attempt another push toward $0.285 and potentially retest the recent high near $0.30. Related Reading: Ethereum Consolidation Continues \u2013 Altseason May Follow A Clean Break Above Resistance A break below $0.268 could invalidate the bullish momentum and trigger a move toward the $0.252\u2013$0.255 zone. For now, price action remains constructive as TRX holds above all major moving averages and key structural support. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "$8 XRP Breakout Brewing \u2014 SEC No Longer A Roadblock, Bullish Analyst Says",
       "link": "https://www.newsbtc.com/news/8-xrp-breakout-brewing-sec-no-longer-a-roadblock-bullish-analyst-says/",
@@ -100,11 +105,6 @@
       "title": "Buy Bitcoin Now? Not Yet\u2014Analyst Says Time Holds The Key",
       "link": "https://www.newsbtc.com/bitcoin-news/buy-bitcoin-now-not-yet-time-holds-key/",
       "summary": "In a post on June 17, prominent crypto strategist Astronomer (@astronomer_zero) outlined his high-conviction roadmap for Bitcoin\u2019s next major breakout, emphasizing that timing\u2014not just price\u2014is the most critical factor for those still on the sidelines. Despite projecting a continuation of the broader uptrend that began at $18,000 in 2023, Astronomer warned that jumping in prematurely could blunt the risk-reward ratio of the next leg. \u201cPlanning to buy now into BTC is expected to net you a move of over 70% in a short period of time,\u201d he wrote. \u201cBut the closer we get to those 10 weeks, confirmed with price action, the closer BTC is to breaking out.\u201d Buy Bitcoin Now? His primary thesis: Bitcoin\u2019s breakout will not occur before June 30, and any significant move is statistically more likely after that date. This aligns with what he calls one of the \u201cmost ancient crypto mechanics\u201d\u2014Bitcoin moves first, and altcoins follow. Related Reading: Analyst Predicts Bitcoin Price Crash As War Tensions Mount In Middle East Astronomer\u2019s roadmap presents a tiered accumulation strategy rooted in probabilistic support zones. \u201cUpon statistical analysis, the expected close before going up only is around $103k,\u201d he wrote. \u201cProbably a good level to start getting involved. [\u2026] The expected level to be reached based on all prior signals (lowest wick) is $96k. Probably a good level to buy heavy if given. [\u2026] And finally, the expected lowest close is $90k. Probably a good level to allocate (almost) all your dry powder.\u201d But beyond the price levels, Astronomer places stronger emphasis on timing: \u201cIf the price doesn&#8217;t go as deep into the $90\u2019s\u2014which I don&#8217;t think is very likely\u2014I expect June to close between $95-110k and not go much lower. Then I&#8217;d buy more and more the closer we get to those 10 weeks regardless of the price. Time is more important than price.\u201d He also pointed to structural market dynamics supporting his thesis, including a bullish spot-to-perpetual rotation: \u201cThe order books start to rotate towards green into spot, red into perps (aggressive shorts, aggressive spot buys), simply visible with the increasing spot premiums.\u201d Adding to the signal strength is a recent weekly hash ribbon print\u2014\u201cone that never failed,\u201d he noted. Related Reading: $150,000 Bitcoin Is In Play\u2014Unless This One Macro Metric Snaps Astronomer further offered guidance for navigating altcoins, advising traders to wait for the breakout rather than attempting to catch falling knives. \u201cBuying alts when BTC breaks out [\u2026] is smarter than trying to knife catch them. To eliminate the drawdown and reap the upside rewards.\u201d Summarizing his plan, he said, \u201cIf I was sidelined, I&#8217;d look to buy below $103k and as much as possible as close to $90k as possible. And the closer we get to those 10 weeks, confirmed with price action, the more confident I become.\u201d Astronomer\u2019s final message underscores that his bullish stance hasn\u2019t changed since the flip at $18K: \u201cNo top being in yet, until we reach at least 170k+. That is the plan.\u201d And for those still unsure? He offers a blunt reminder: \u201c"
-    },
-    {
-      "title": "Analyst Says Bitcoin Price Could Rise 3x To $300,000 As AVIV Levels Resemble Previous Bull Cycles",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-could-rise-3x-to-300000/",
-      "summary": "Bitcoin has continued to hover above the $100,000 mark over the past few days, and its price action has stabilized around $105,000 in the wake of recent market tensions and despite inflows into Spot Bitcoin ETFs. A new analysis shared by crypto market commentator Gert van Lagen suggests that this current phase is going to precede an explosive move similar to those seen in previous market cycles. Backing his prediction with historical data and Glassnode\u2019s AVIV Ratio chart, the analyst noted that the current on-chain structure echoes moments before Bitcoin\u2019s major rallies in past bull markets. AVIV Ratio Flashes Familiar Pattern Before Market Top Bitcoin&#8217;s price volatility has slightly cooled since the initial surge to a new all-time high above $111,800 in May, and the latest candlestick structure suggests it may be preparing for another leg higher. Related Reading: Can Bitcoin Price Bounce To $120,000 Or Will It Break Below $100,000? Taking to the social media platform X, Gert van Lagen revealed a Bitcoin price prediction that centers around the true market Deviation metric known as the AVIV Ratio. This orange-colored line on the chart tracks a specific deviation in Bitcoin\u2019s market behavior and has always crossed a red line denoting +3 standard deviations at or just before cycle tops. The current AVIV behavior can be compared to previous price points before market tops in previous cycles. For instance, in 2013, the AVIV Ratio flagged a major rally when Bitcoin was trading near $200, shortly before the price pushed past $1,200. In 2017, the metric behaved similarly when Bitcoin was trading at $3,700 and later peaked near $20,000. The current AVIV Ratio can also be compared to when Bitcoin was priced at $13,000 in the 2021 bull market run, before its surge to an all-time high of $69,000. According to the analyst, today\u2019s AVIV ratio level is closely aligned with those previous mid-cycle breakouts. The current ratio has not yet crossed the red +3\u03c3 line, which the analyst refers to as the cycle top trigger. As such, its current reading suggests Bitcoin may be in the early phase of a major bull market expansion. If history repeats itself, a 3x move from today\u2019s levels would be a standard price move in line with previous price action. $300,000 Target Within Sight If AVIV Behavior Holds Crypto analyst van Lagen stops short of calling for an immediate top, but his analysis implies that Bitcoin could be preparing for a new parabolic surge to the upside. Using the AVIV model as a reference, a conservative 3x multiplier on the current Bitcoin price places a possible target around $300,000. Related Reading: Key Fractal From 2023 Says Bitcoin Price Is Still Bullish, But A Crash To $90,000 Could Be Coming At the time of writing, Bitcoin is trading at $104,997, having decreased by 1.4% in the past 24 hours. This decline has brought its price down from an intraday high of $106,795 back into its consolidation range around $105,000. Featured image from Pixabay, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitdeer Stock Falls as Bitcoin Miner Aims to Raise $330 Million",
+      "link": "https://decrypt.co/325884/bitdeer-stock-falls-bitcoin-miner-raise-330-million",
+      "summary": "Singapore-based Bitcoin miner Bitdeer is raising funds, but not to buy up BTC. The firm's shares continued falling following the move."
+    },
+    {
+      "title": "Crypto Prime Brokerage FalconX in Early Talks for IPO in 2025: Sources",
+      "link": "https://decrypt.co/325918/crypto-prime-brokerage-falconx-early-talks-ipo",
+      "summary": "FalconX is considering a public listing amid a broader crypto IPO boom, three sources told ."
+    },
+    {
       "title": "A Lawyer and His Wiener Doge Must Be Separated, Phantom Argues in Meme Coin Lawsuit",
       "link": "https://decrypt.co/325919/lawyer-wiener-doge-seperated-phantom-meme-coin-lawsuit",
       "summary": "Phantom\u2019s attorneys say you can\u2019t create a dog-themed meme coin, and then represent plaintiffs in a lawsuit over it. The litigator-turned-degen in question disagrees."
@@ -149,16 +159,6 @@
       "title": "Are Criminals Really Switching From Crypto to Gold for Money Laundering?",
       "link": "https://decrypt.co/325887/criminals-switching-crypto-gold-money-laundering",
       "summary": "Police note UK criminals are turning to gold, not crypto, to launder money\u2014but is it a growing trend or just a glittering myth?"
-    },
-    {
-      "title": "Justice Dept. Files to Seize Record $225 Million Tied to 'Pig Butchering' Crypto Scams",
-      "link": "https://decrypt.co/325882/justice-dept-seize-record-225-million-pig-butchering-crypto-scams",
-      "summary": "The U.S. Department of Justice has filed to seize over $225 million in USDT\u2014the largest-ever seizure tied to \"pig butchering\" crypto scams."
-    },
-    {
-      "title": "Bitcoin Shrugs Off Fed Decision to Keep Rates Unchanged",
-      "link": "https://decrypt.co/325643/bitcoin-shrugs-off-fed-decision-to-keep-rates-unchanged",
-      "summary": "The largest cryptocurrency by market value has been trading about 5% under its all-time high set last month."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Story\u2019s 12% profits wiped out in 24 hours \u2013 Is IP\u2019s hype fading?",
+      "link": "https://ambcrypto.com/storys-12-profits-wiped-out-in-24-hours-is-ips-hype-fading/",
+      "summary": "<img alt=\"ip\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-9.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The $3 zone will likely play the most important role in IP's future price movement."
+    },
+    {
       "title": "Dogecoin drops 20% \u2013 But 3 signals point to a BIG move for DOGE!",
       "link": "https://ambcrypto.com/dogecoin-drops-20-but-3-signals-hint-at-big-move-for-doge/",
       "summary": "<img alt=\"DOGE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-18T152117.570_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Dogecoin\u2019s key support at $0.167 sparks optimism, with experts predicting an 18% surge to $0.20."
@@ -208,11 +213,6 @@
       "title": "Bitcoin: THIS ratio hints at a possible BTC supply shock \u2013 How?",
       "link": "https://ambcrypto.com/bitcoin-this-ratio-hints-at-an-upcoming-btc-supply-shock-how/",
       "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-18T130609.677-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin shows rising accumulation and supply tightening, but demand-side metrics point to market fragility."
-    },
-    {
-      "title": "Bitcoin\u2019s price test \u2013 Will $98K support hold amid growing caution?",
-      "link": "https://ambcrypto.com/bitcoins-price-test-will-98k-support-hold-amid-growing-caution/",
-      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-31.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Support at $98.3K remains firm, even as leveraged money exits the scene."
     }
   ]
 }
