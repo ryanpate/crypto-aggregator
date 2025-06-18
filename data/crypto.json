@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Token That\u2019s Literally USELESS Is Crypto\u2019s Latest Meme Cult",
+      "link": "https://www.coindesk.com/markets/2025/06/18/token-that-s-literally-useless-is-crypto-s-latest-meme-cult",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin 'Accumulator' Better Fit for Corporates Than Dollar-Cost Averaging Strategy, Research Suggests",
+      "link": "https://www.coindesk.com/markets/2025/06/18/bitcoin-accumulator-better-fit-for-corporates-than-dollar-cost-averaging-strategy-research-suggests",
+      "summary": ""
+    },
+    {
       "title": "Every Fintech Firm Will Run Its Own Blockchain `in Next Five Years:' Optimism",
       "link": "https://www.coindesk.com/business/2025/06/18/every-fintech-firm-will-run-its-own-blockchain-in-next-five-years-optimism",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "The Blockchain Group Adds 182 Bitcoin, Lifts BTC Holdings to Over $170M",
       "link": "https://www.coindesk.com/business/2025/06/18/the-blockchain-group-adds-182-bitcoin-lifts-btc-holdings-to-over-170m",
       "summary": ""
-    },
-    {
-      "title": "Iranian Crypto Exchange Nobitex Hacked for Nearly $82M by Suspected Israeli Group",
-      "link": "https://www.coindesk.com/markets/2025/06/18/iranian-crypto-exchange-nobitex-hacked-for-47m-by-suspected-israeli-group",
-      "summary": ""
-    },
-    {
-      "title": "Ark Invest Dumps Nearly $45M Worth of Circle Shares as U.S. Senate Passes GENIUS Act",
-      "link": "https://www.coindesk.com/markets/2025/06/18/ark-invest-dumps-nearly-45m-worth-of-circle-shares-as-us-senate-passes-genius-act",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Circle dump: Cathie Wood\u2019s Ark sells another $45M as shares tumble",
+      "link": "https://cointelegraph.com/news/circle-dump-cathie-wood-ark-dumps-45-million-more-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgyNDgtN2YwOC03ZGY2LWE2YjAtNDI2NGE4NmM2YTNl.jpg\" /></p><p>In the past two days, ARK has offloaded a total of 642,766 Circle shares, accounting for 14% of its 4.49 million CRCL purchase made during the company\u2019s public launch.</p>"
+    },
+    {
+      "title": "Chinese Bitcoin ASIC makers to begin US production amid tariff pressure",
+      "link": "https://cointelegraph.com/news/producer-behind-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg4MjQtZDQxMi03ZjE5LTg5ZGItZmMyNWYwODgwY2U3.jpg\" /></p><p>Bitmain, Canaan and MicroBT \u2014 producing over 99% of global Bitcoin mining ASICs \u2014 are launching US-based production units in response to tariffs.</p>"
+    },
     {
       "title": "Europe\u2019s first Bitcoin treasury firm buys another $20M BTC, now holds over $170M",
       "link": "https://cointelegraph.com/news/blockchain-group-adds-20m-bitcoin-holdings-now-over-170m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "China\u2019s\u00a0JD.com enters stablecoin race as US passes GENIUS Act",
       "link": "https://cointelegraph.com/news/jdcom-stablecoin-global-licensing-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgyMTYtZmRkOC03MzQ1LTlmODItZjNjNzc1MGQ5OTRi.jpg\" /></p><p>JD.com plans to apply for stablecoin licenses in major countries, aiming to slash cross-border payment costs by 90% and settle in 10 seconds.</p>"
-    },
-    {
-      "title": "Iranian exchange Nobitex hacked for over $81M by Israel-linked hackers",
-      "link": "https://cointelegraph.com/news/iranian-crypto-exchange-nobitex-exploited-for-73m-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgyMWItZTE4Yy03YTdiLWI4Y2EtNjk5ZGQ1YTQ0MzZl.jpg\" /></p><p>The Iranian crypto exchange\u2019s wallets were exploited for at least $81 million as attackers used vanity addresses for the theft.</p>"
-    },
-    {
-      "title": "Agriculture firm AgriFORCE powers 120 crypto miners with natural gas",
-      "link": "https://cointelegraph.com/news/agriforce-powers-120-crypto-miners-stranded-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgwZGItOGYzOC03MDQ3LWIwMTEtNTBkYWY0ODU1Yjhl.jpg\" /></p><p>AgriFORCE says it launched a site that uses stranded gas to power 120 Bitcoin mining rigs and will expand to two additional sites in Canada.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Bitcoin Volume Surges 100% Amid War Threats \u2013 What To Expect",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-volume-surges-100/",
+      "summary": "Amid the chaos that was sparked by Israel\u2019s attack on Iran, Bitcoin has climbed again, shaking off the losses triggered by the conflict. Not only has the price seen an increase from its last week\u2019s lows, but there has also been a notable change in the cryptocurrency\u2019s daily trading volume. This points to continued interest despite global factors and could mean that the expectations of war are already getting priced in for the crypto market. Bitcoin Sees Almost 100% Jump In Volume According to data from Coinglass, there has been a turn in the tide for the Bitcoin trading volume after starting out the new week in a slow trend. Sunday and Monday had seen the Bitcoin daily trading volume come out under $50 billion. However, as the Bitcoin price rose leading up to Tuesday, so did the trading volume. Related Reading: What Are The Implications For XRP If Ripple Captures 14% Of SWIFT\u2019s Volume? At the time of writing, the Bitcoin daily trading volume had already crossed $88 billion for Tuesday, leading to an almost 100% increase in the trading volume during this time. This follows the trend of high volatility coming with increased volumes as the Bitcoin price swung wildly between $105,000 and $108,000. The sharp jump in volume comes as the Bitcoin open interest remains high at near all-time highs while the rest of the market struggles. Coinglass data shows the current open interest at $71 billion, less than $10 billion away from the $80 billion all-time high recorded in May 2025. In light of altcoins continuing to trend low while Bitcoin remains close to all-time highs, it suggests that most of the attention in the crypto market is now being focused on Bitcoin. As a result, the leading asset continues to dictate the direction of the market, with dominance remaining high above 64%. How War Could Affect This Trend The positive developments surrounding Bitcoin are coming as there seems to be a cooldown in the conflict in the Middle East. But with so little time having passed, expectations are that the war may only be starting, with some calling it the start of \u2018World War 3.\u2019 Related Reading: Key Fractal From 2023 Says Bitcoin Price Is Still Bullish, But A Crash To $90,000 Could Be Coming The Kobeissi Letter has taken to X (formerly Twitter) to address these World War 3 predictions, revealing how the markets would react if there really was a possibility of this happening. The first thing was that a 50% chance of World War 3 would\u2019ve seen the S&#38;P crash not 2%, but more of a 30% crash. Gold would be $5,000/oz, and oil would go for $100/barrel. Furthermore, a 90% chance of World War 3, as explained in"
+    },
+    {
       "title": "Ethereum Staking Hits 35M ETH: Is a Major Price Explosion on the Horizon?",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-staking-hits-35m-eth-is-a-major-price-explosion-on-the-horizon/",
       "summary": "Ethereum (ETH) has experienced a notable pullback after a brief period of upward momentum earlier this month. The asset, which surged past the $2,800 level in mid-June, has since declined by 8.7% over the past week, now trading at around $2,498. This retreat follows broader market consolidation, as Ethereum struggles to maintain upward pressure despite strong on-chain activity. Related Reading: Ethereum Consolidation Continues \u2013 Altseason May Follow A Clean Break Above Resistance Ethereum Staking and Accumulation Trends While ETH&#8217;s price action has turned negative, on-chain indicators suggest a contrasting narrative of growing investor conviction. According to insights shared by on-chain analyst OnChainSchool via CryptoQuant\u2019s QuickTake platform, Ethereum has set a new record in staking activity. In the first half of June alone, more than 500,000 ETH were staked, pushing the total locked amount to over 35 million ETH. This growth in staked ETH not only reflects rising validator participation but also contributes to reducing the circulating supply, a dynamic that may influence future price movements. The report also highlights a rise in accumulation addresses, wallets that have received ETH but have never transferred any out. These addresses now collectively hold 22.8 million ETH, another all-time high. This trend is often interpreted as a sign of long-term holding behavior and suggests that certain investor cohorts are positioning themselves for future price appreciation rather than short-term gains. Taken together, the record levels of staking and accumulation point toward an increasingly illiquid supply, which, if demand increases, could amplify upward price pressure. Ethereum Hits ATH in Staking: Over 35 Million ETH Locked \u201cAlongside this, Accumulation Addresses (holders with no history of selling) have also reached an all-time high, now holding 22.8 million ETH.\u201d \u2013 By @onchainschool Read more \u2935\ufe0fhttps://t.co/WYoX9qpODZ pic.twitter.com/6MAlK0sCfJ \u2014 CryptoQuant.com (@cryptoquant_com) June 17, 2025 A Technical Look: Price Explosion on the Horizon? In addition to the on-chain data, market participants are also analyzing Ethereum from a technical perspective. A crypto analyst on X operating under the pseudonym \u201cBitcoinsensus\u201d has drawn attention to a multi-year \u201cbullish flag\u201d pattern forming on ETH charts since 2021. A bullish flag is a technical chart formation that typically follows a strong price move upward, marked by a period of consolidation in a downward-sloping channel. If the asset breaks out of the flag to the upside, it can signal a continuation of the prior bullish trend. Related Reading: Ethereum Holds Key Range Support \u2013 Bulls Set Sights on Higher Levels Bitcoinsensus suggests that if the pattern completes, Ethereum could target a move toward the $8,000 range. This potential breakout would depend on several factors, including macroeconomic sentiment, ETF flows, and on-chain fundamentals. Featured image created with DALL-E, Chart from TradingView"
@@ -100,11 +105,6 @@
       "title": "Bitcoin Holds Below $110K as IBCI Suggests Market in Transition Phase",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-holds-below-110k-as-ibci-suggests-market-in-transition-phase/",
       "summary": "Bitcoin continues to trade in a range just below its recent all-time high, maintaining a relatively stable price structure despite broader market fluctuations. As of the time of writing, BTC is priced at approximately $105,756, reflecting a 1% drop in the past 24 hours and a 5.4% decline from its record peak of over $111,000 reached last month. The asset has been consolidating within this band for several weeks, with no clear breakout yet in sight, indicating a moment of uncertainty or possible transition in market direction. A CryptoQuany analyst known as Gaah has offered insights into this phase of the cycle. Related Reading: On-Chain Analyst Warns: Bitcoin Peak Expected, Altcoins Facing -95% Plunge Bitcoin IBCI Suggests Cycle Is Ongoing, Not Exhausted Gaah recently published an analysis on the QuickTake platform, focusing on Bitcoin\u2019s IBCI (Index Bitcoin Cycle Indicators). According to"
-    },
-    {
-      "title": "Solana (SOL) Tests Support After Dip \u2014 Bounce or Breakdown Ahead?",
-      "link": "https://www.newsbtc.com/analysis/solana-sol-tests-support-145/",
-      "summary": "Solana started a fresh decline from the $160 zone. SOL price is now consolidating losses and might decline further below the $145 level. SOL price started a fresh decline from the $160 resistance zone against the US Dollar. The price is now trading below $155 and the 100-hourly simple moving average. There was a break below a bullish trend line with support at $150 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $152 resistance zone. Solana Price Dips Further Solana price failed to continue higher above the $160 level and started a fresh decline, like Bitcoin and Ethereum. SOL gained pace and traded below the $155 support level. There was a break below a bullish trend line with support at $150 on the hourly chart of the SOL/USD pair. The pair even traded below the $148 level. A low was formed near $145 and the price recently started a consolidation phase. It tested the 23.6% Fib retracement level of the recent decline from the $158 swing high to the $145 low. Solana is now trading below $150 and the 100-hourly simple moving average. On the upside, the price is facing resistance near the $150 level. The next major resistance is near the $152 level. It is close to the 50% Fib retracement level of the recent decline from the $158 swing high to the $145 low. The main resistance could be $155. A successful close above the $155 resistance zone could set the pace for another steady increase. The next key resistance is $160. Any more gains might send the price toward the $165 level. Another Decline in SOL? If SOL fails to rise above the $152 resistance, it could start another decline. Initial support on the downside is near the $145 zone. The first major support is near the $142 level. A break below the $142 level might send the price toward the $130 zone. If there is a close below the $130 support, the price could decline toward the $125 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is gaining pace in the bearish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is below the 50 level. Major Support Levels \u2013 $145 and $142. Major Resistance Levels \u2013 $152 and $155."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Canada approves first spot XRP ETF \u2013 Will the U.S. catch up soon?",
+      "link": "https://ambcrypto.com/canada-approves-first-spot-xrp-etf-will-the-u-s-catch-up-soon/",
+      "summary": "<img alt=\"Canada approves XRP ETF\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Canada-approves-XRP-ETF.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Even though the U.S. delayed Ripple ETF verdict, Polymarket bets 90% on approval this year."
+    },
+    {
       "title": "Aptos could hit $8 \u2013 But only if APT buyers do this ONE thing!",
       "link": "https://ambcrypto.com/aptos-could-hit-8-but-only-if-apt-buyers-do-this-one-thing/",
       "summary": "<img alt=\"Aptos\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-18T105535.930-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />All signals suggest Aptos may break out soon if bulls reclaim the $4.6 level."
@@ -208,11 +213,6 @@
       "title": "Octaloop launches India Blockchain Tour 2025: Eight cities, one web3 movement",
       "link": "https://ambcrypto.com/octaloop-launches-india-blockchain-tour-2025-eight-cities-one-web3-movement/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"611\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-124741.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"930\" />Octaloop, one of the most active crypto-native communities in India, has officially announced the fourth [&#8230;]"
-    },
-    {
-      "title": "GENIUS crypto bill passed \u2013 Will stablecoins reach $3.7T by 2030?",
-      "link": "https://ambcrypto.com/senate-approves-genius-act-will-stablecoins-reach-3-7t-by-2030/",
-      "summary": "<img alt=\"stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/stablecoin-crypto-bill.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's all you need to know about the GENIUS Act and its progress."
     }
   ]
 }
