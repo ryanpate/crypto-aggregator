@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
-      "title": "Bitcoin Cash (BCH) Jumps to $480 as Trading Volume Spikes 22% Above Average",
+      "title": "ATOM Rebounds After Dip, Establishes New Support Level",
+      "link": "https://www.coindesk.com/markets/2025/06/19/atom-rebounds-after-dip-establishes-new-support-level",
+      "summary": ""
+    },
+    {
+      "title": "ADA Slips Below $0.60; 24-Hour Trading Volume Jumps 30% Amid Accumulation Signs",
+      "link": "https://www.coindesk.com/markets/2025/06/19/ada-24-hour-trading-volume-explodes-30-as-bulls-battle-to-hold-usd0-60",
+      "summary": ""
+    },
+    {
+      "title": "Why Pro-Israel Group's $90M Crypto Hack Could Be a Hammer Blow for Iran's Regime",
+      "link": "https://www.coindesk.com/business/2025/06/18/why-pro-israel-group-s-usd90m-crypto-hack-could-be-a-hammer-blow-for-iran-s-regime",
+      "summary": ""
+    },
+    {
+      "title": "Visa Expands Stablecoin Reach in Europe, Middle East and Africa",
+      "link": "https://www.coindesk.com/business/2025/06/19/visa-expands-stablecoin-reach-in-europe-middle-east-and-africa",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Cash Jumps to $480 as 24-Hour Trading Volume Spikes 22% Above Average",
       "link": "https://www.coindesk.com/markets/2025/06/19/bitcoin-cash-bch-jumps-to-usd480-as-trading-volume-spikes-22-above-average",
-      "summary": ""
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Gains 4.3%, Leading Index Higher",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/06/19/coindesk-20-performance-update-uniswap-uni-gains-4-3-leading-index-higher",
-      "summary": ""
-    },
-    {
-      "title": "Project Eleven Raises $6M to Defend Bitcoin From the Coming Quantum Threat",
-      "link": "https://www.coindesk.com/tech/2025/06/19/project-eleven-raises-6m-to-defend-bitcoin-from-the-coming-quantum-threat",
-      "summary": ""
-    },
-    {
-      "title": "Crypto Exchange Kraken Adds Bitcoin Staking Via Babylon as BTC Driven DeFi Picks Up",
-      "link": "https://www.coindesk.com/business/2025/06/19/crypto-exchange-kraken-adds-native-bitcoin-staking-via-babylon-integration",
-      "summary": ""
-    },
-    {
-      "title": "SOL Strategies Files to List on Nasdaq",
-      "link": "https://www.coindesk.com/policy/2025/06/19/sol-strategies-files-to-list-on-nasdaq",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Here\u2019s what Bitcoin did while the US added to its $37T debt",
+      "link": "https://cointelegraph.com/explained/heres-what-bitcoin-did-while-the-us-added-to-its-37t-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MDYzOTRiMzc1NWE1Y2FiYjI0MjAzYjFmNTdiMmM0Mi5qcGc=.jpg\" /></p><p>As Washington printed trillions, Bitcoin evolved into a global asset class, trusted by nations and corporations, amid growing US debt concerns.</p>"
+    },
+    {
+      "title": "Crypto&#039;s true revolution is about humanity, not technology",
+      "link": "https://cointelegraph.com/news/the-human-case-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1ODItYmE2Yy03YmI2LWJmNWMtOWY3NjBhZDYwODk5.jpg\" /></p><p>Crypto isn\u2019t just about technology or speculation. It\u2019s about restoring dignity and agency to those left behind by traditional finance. Crypto offers a path to financial dignity through education and inclusion.</p>"
+    },
+    {
+      "title": "Bitcoin volume metric suggests &#039;$130K-$135K BTC will happen&#039; in the summer",
+      "link": "https://cointelegraph.com/news/bitcoin-volume-metric-suggests-130k-135k-btc-will-happen-in-the-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4MzEtZjI5Yy03ZDFlLTljMDctYTRiM2U4YTk0MTdm.jpg\" /></p><p>A similar OBV divergence in March\u2013April 2025 triggered a 57% Bitcoin rally, reinforcing strong accumulation signals for the current setup.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Here&#039;s when Bitcoin analysts expect new BTC price volatility",
       "link": "https://cointelegraph.com/news/here-s-when-bitcoin-analysts-see-new-btc-price-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcxOTYtYzcxZC03ZDljLTg5ZjItZThkYjZmMjUzMTMy.jpg\" /></p><p>Bitcoin may be boring this Juneteenth holiday, but market commentators are already preparing for BTC price conditions to get volatile again.</p>"
-    },
-    {
-      "title": "There\u2019s more to crypto crime than meets the eye: What you need to know",
-      "link": "https://cointelegraph.com/news/there-s-more-to-crypto-crime-than-meets-the-eye-what-you-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4NWItNDFkNy03YzY0LWI0ZDktNGVmNmZkNzVmM2Nl.jpg\" /></p><p>Crypto crime isn\u2019t all FTX and fraud. Jennie Levin helps unpack the deeper, more technical threats facing blockchain today, including why regulators are still catching up.</p>"
-    },
-    {
-      "title": "Kraken launches Bitcoin staking with Babylon integration",
-      "link": "https://cointelegraph.com/news/kraken-launches-bitcoin-staking-babylon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4NmEtMzA4OS03YzZmLWFkNDAtZDA0NjQ5ZTE5ZmQx.jpg\" /></p><p>Kraken has launched a Bitcoin staking service in partnership with Babylon, allowing users to earn BABY tokens.</p>"
-    },
-    {
-      "title": "Mega breach of 16B passwords raises crypto security fears",
-      "link": "https://cointelegraph.com/news/16b-passwords-from-apple-facebook-and-google-leaked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDFiYmQtM2E0Zi03ZjAxLThiMmEtMzI3ZWI1N2YxMDY3.jpg\" /></p><p>A leak of 16 billion passwords from services including Apple, Google and Facebook poses serious risks for crypto holders.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Solana Will Flip Ethereum, Anthony Scaramucci Predicts",
+      "link": "https://decrypt.co/325844/solana-will-flip-ethereum-anthony-scaramucci",
+      "summary": "The SkyBridge Capital founder is leaning into Solana\u2019s \u201cEthereum killer\u201d narrative\u2014and going against Standard Chartered's recent prediction."
+    },
+    {
       "title": "Avalanche Game 'Forgotten Playland' Implements NFTs in Biggest Update Yet",
       "link": "https://decrypt.co/325926/avalanche-game-forgotten-playland-implements-nfts",
       "summary": "Forgotten Playland, an Avalanche-powered game on the Beam L1, has integrated in-game item NFTs along with other new features."
@@ -154,14 +159,14 @@
       "title": "Bitcoin Scandal Fails to Topple Czech Government in No-Confidence Vote",
       "link": "https://decrypt.co/326018/bitcoin-scandal-fails-czech-government-no-confidence-vote",
       "summary": "A $45 million Bitcoin donation from a convicted darknet operator set off a political crisis and brought the Czech government to its knees."
-    },
-    {
-      "title": "1inch Foundation Proposes User Compensation Plan Following October Hack",
-      "link": "https://decrypt.co/326012/1inch-foundation-proposes-user-compensation-plan",
-      "summary": "DAO members of 1inch are voting on whether to approve a reimbursement scheme for victims of a supply chain exploit last year."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Seamless Protocol launches plug and play Leverage Tokens as ERC-20 assets on Base",
+      "link": "https://cryptobriefing.com/launch-leveraged-defi-tokens/",
+      "summary": "<p> Seamless Protocol debuts Leverage Tokens on Base, packaging passive DeFi strategies into tradable ERC-20s for one-click exposure.</p> <p>"
+    },
     {
       "title": "Only 30% of crypto miners comply with Russia\u2019s new rules, finance ministry official says",
       "link": "https://cryptobriefing.com/crypto-mining-compliance-russia/",
@@ -181,14 +186,19 @@
       "title": "Iran restricts crypto exchange hours after massive Nobitex exploit drains BTC, ETH, XRP",
       "link": "https://cryptobriefing.com/iran-crypto-restrictions-nobitex-exploit/",
       "summary": "<p>Iran's crypto exchange restrictions may hinder financial innovation and exacerbate tensions in an already volatile geopolitical climate.</p> <p>"
-    },
-    {
-      "title": "Bitcoin holds steady at $104K as Fed eyes inflation from tariffs before easing",
-      "link": "https://cryptobriefing.com/bitcoin-stability-fed-rate/",
-      "summary": "<p>Bitcoin holds at $104K as the Fed keeps rates at 4.25% to 4.50%, citing tariff-driven inflation as reason to delay cuts.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Avalanche sees $6.5 mln ETH flow in 24 hours, yet its DeFi volume crashed \u2013 Why?",
+      "link": "https://ambcrypto.com/avalanche-sees-6-5-mln-eth-flow-in-24-hours-yet-its-defi-volume-crashed-why/",
+      "summary": "<img alt=\"Avalanche sees $6.5 mln ETH flow in 24 hours, yet its DeFi volume crashed - Why?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250619_124834_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AVAX becomes appealing to market investors."
+    },
+    {
+      "title": "Bitcoin stalls as demand wanes \u2013 What this means for BTC\u2019s next steps",
+      "link": "https://ambcrypto.com/bitcoin-stalls-as-demand-wanes-what-this-means-for-btcs-next-steps/",
+      "summary": "<img alt=\"Bitcoin stalls as demand wanes - What this means for BTC&#039;s next steps\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_51_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Market equilibrium holds as Bitcoin long-term holders remain firm."
+    },
     {
       "title": "FUNToken Follows Historic Cycle: Analyst Expects Upturn Ahead",
       "link": "https://ambcrypto.com/funtoken-follows-historic-cycle-analyst-expects-upturn-ahead/",
@@ -203,16 +213,6 @@
       "title": "Aerodome Finance: 3 reasons why AERO\u2019s 20% rally may not last",
       "link": "https://ambcrypto.com/aerodome-finance-3-reasons-why-aeros-20-rally-may-not-last/",
       "summary": "<img alt=\"AERO\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250619_100316_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is AERO's big price jump going to last, or is it just a quick pump?"
-    },
-    {
-      "title": "Blockchain Devfest: Matching potential with opportunity",
-      "link": "https://ambcrypto.com/blockchain-devfest-matching-potential-with-opportunity/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/drawkit-illustrations-FjMzj5NNDws-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Blockchain Developer Festival, a.k.a the Blockchain DevFest, is a developer-focused event, including a 3-day [&#8230;]"
-    },
-    {
-      "title": "Solana: 386K SOL sold in 4 days \u2013 Traders, watch THESE levels next",
-      "link": "https://ambcrypto.com/solana-386k-sol-sold-in-4-days-traders-watch-these-levels-next/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-29.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Why is Solana dropping despite previous gains?"
     }
   ]
 }
