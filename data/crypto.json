@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Crypto Daybook Americas: Bitcoin Shrugs Off Fed, Mideast War, but Derivatives Flash Caution",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/19/crypto-daybook-americas-bitcoin-shrugs-off-fed-mideast-war-but-derivatives-flash-caution",
+      "summary": ""
+    },
+    {
       "title": "Nobitex's Source Code Released a Day After Hackers Steal Tokens Across Bitcoin, EVM, Ripple Networks",
       "link": "https://www.coindesk.com/markets/2025/06/19/nobitexs-source-code-released-a-day-after-hackers-steal-tokens-across-bitcoin-evm-ripple-networks",
       "summary": ""
@@ -19,18 +24,23 @@
       "title": "Dogecoin Steady But Flashing 'Oversold' in Signal for Bearish Bets",
       "link": "https://www.coindesk.com/markets/2025/06/19/dogecoin-steady-but-flashing-oversold-in-signal-for-bearish-bets",
       "summary": ""
-    },
-    {
-      "title": "KuCoin Allows Institutional Clients to Trade Without Having to Pre-Fund Wallets",
-      "link": "https://www.coindesk.com/business/2025/06/19/kucoin-allows-institutional-clients-to-trade-without-having-to-pre-fund-wallets",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "OKX brings DEX aggregator to MetaMask with Consensys partnership",
+      "link": "https://cointelegraph.com/news/okx-consensys-dex-aggregator-metamask?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3NjItMzY0YS03MzI5LWJiOTAtY2NlNzY4YWJmYTQ5.jpg\" /></p><p>OKX partners with Consensys to integrate its DEX aggregator into MetaMask, giving users access to more than 500 DEXs and new MEV protection via SERVO.</p>"
+    },
+    {
+      "title": "Russia says 70% of crypto miners remain unregistered despite new laws",
+      "link": "https://cointelegraph.com/news/only-30-percent-russian-crypto-miners-legal-finance-ministry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ4ZGQtNDRiOS03NTdmLTljNGMtMTFhOWE3MmQ2ODQ2.jpg\" /></p><p>Russia will continue taking measures to encourage crypto mining businesses to register with the tax authority, including imposing bigger penalties for violations.</p>"
+    },
+    {
       "title": "Bitget secures Georgia license as part of Europe expansion",
       "link": "https://cointelegraph.com/news/bitget-expands-to-georgia-and-vietnam-with-new-licenses-and-payment-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzMjQtN2U4ZS03ZGZhLThmODQtMzFkZGY1NzVlOGQx.jpg\" /></p><p>Bitget picks Georgia for its next step in Eastern Europe, attracted by clear regulations, tax benefits and a growing crypto user base.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzMjQtN2U4ZS03ZGZhLThmODQtMzFkZGY1NzVlOGQx.jpg\" /></p><p>Bitget picks Georgia for the next step of its expansion in Eastern Europe, attracted by clear regulations, tax benefits and a growing crypto user base.</p>"
     },
     {
       "title": "Bitcoin user accidentally sent $60,000 in fees\u2014Don\u2019t make the same mistake",
@@ -41,19 +51,14 @@
       "title": "Is crypto still taxed in Australia? Major legal update explained",
       "link": "https://cointelegraph.com/news/is-crypto-still-taxed-in-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3YTMtYTc5NC03NzU1LThhNTktMzIyOWI1ZTU3ZjJh.jpg\" /></p><p>Australia now taxes crypto as property, with capital gains on swaps, DeFi and wrapped tokens, plus new ATO data sweeps targeting 1.2 million users.</p>"
-    },
-    {
-      "title": "Why is Bitcoin price stuck?",
-      "link": "https://cointelegraph.com/news/why-is-bitcoin-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvYWZjOGVjMDgtNDc2OC00MTdhLWEzNzEtYTQ2NDQyMzQ0ZWE4.jpg\" /></p><p>Bitcoin price remains stuck under $112K since May 23, and data suggest the pattern could continue for a few more days amid macroeconomic and geopolitical uncertainty.</p>"
-    },
-    {
-      "title": "Bitcoin gets Fed rate pause &#039;tailwind&#039; as BTC eyes $106K short squeeze",
-      "link": "https://cointelegraph.com/news/bitcoin-fed-rate-pause-tailwind-short-squeeze-106k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ1MDEtMmJhZS03ZWIwLTg4MmUtNDIyNjdlMWNlZGUx.jpg\" /></p><p>Bitcoin price trajectory is primed to benefit from both macroeconomic and crypto derivatives trends, said new research from CryptoQuant.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Iran-based Nobitex vows user protection despite $100 million attack by Israel-linked hacktivists",
+      "link": "https://cryptoslate.com/iran-based-nobitex-vows-user-protection-despite-100-million-attack-by-israel-linked-hacktivists/",
+      "summary": "<p>Iranian crypto exchange Nobitex has confirmed that it lost nearly $100 million in a cyberattack by a politically motivated hacking group. The breach, which occurred on July 18, has shaken the local crypto community and triggered a government-imposed curfew on crypto trading platforms nationwide. The attack was claimed by an Israel-linked group calling itself Gonjeshke [&#8230;]</p> <p>"
+    },
     {
       "title": "Open AI might kill us. Closed AI might enslave us. Choose your future.",
       "link": "https://cryptoslate.com/open-ai-might-kill-us-closed-ai-might-enslave-us-choose-your-future/",
@@ -73,14 +78,14 @@
       "title": "Donald Trump urges swift GENIUS Act passage to dominate digital asset space",
       "link": "https://cryptoslate.com/donald-trump-urges-swift-genius-act-passage-to-dominate-digital-asset-space/",
       "summary": "<p>President Donald Trump, who has interests in the stablecoin USD1 via his involvement in World Liberty Financial, has called on the US House of Representatives to move quickly on the GENIUS Act, a new bill aimed at regulating stablecoins and boosting America\u2019s role in the digital asset economy. In a June 19 post shared on [&#8230;]</p> <p>"
-    },
-    {
-      "title": "North Korean dev hijacks dormant Waves repositories, slips credential-stealing code in wallet updates",
-      "link": "https://cryptoslate.com/north-korean-dev-hijacks-dormant-waves-repositories-slips-credential-stealing-code-in-wallet-updates/",
-      "summary": "<p>A North Korean developer gained elevated privileges inside Waves Protocol&#8217;s Keeper-Wallet codebase, according to a June 18 report by Ketman. The report highlighted routine scans for Democratic People&#8217;s Republic of Korea (DPRK) activity on GitHub, which uncovered the account &#8220;AhegaoXXX&#8221; pushing updates to Keeper-Wallet. The wallet&#8217;s repositories showed no legitimate commits after August 2023, yet [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin\u2019s Momentum Wobbles\u2014Analyst Predicts Correction Below $94K",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-momentum-wobbles-analyst-predicts-correction-below-94k/",
+      "summary": "Bitcoin\u2019s recent climb to $105,000 has done little to shake off the worries piling up around its momentum. The world\u2019s biggest cryptocurrency eked out a 0.03% gain in the last 24 hours but still sits 3.5% lower than it did a week ago. According to analyst Captain Faibik, this mix of flat gains and fading strength could mean traders are buying Bitcoin at the top. Related Reading: Iran\u2019s Top Crypto Hub Loses $82 Million To Hackers With Israeli Links\u2014Details Bearish RSI Divergence Signals Weakness Based on data, the Relative Strength Index (RSI) has drifted downward after peaking near 80, even as Bitcoin\u2019s price pushed to fresh highs. The RSI now sits at 61.88, a clear sign that buyers are losing steam. Traders often watch for this kind of mismatch\u2014when price goes up but RSI goes down\u2014because it can spell a coming pullback. History shows it doesn\u2019t always lead to a crash, but it does make a correction more likely. After carving out fresh highs, it feels like Bitcoin has hit its ceiling, according to Fabik, and a pullback into the $92,000\u2013$94,000 zone could be on the cards. This setup usually sparks a quick correction, so many traders will be watching closely and tightening up their strategies as the market could shift in a hurry. $BTC is showing a massive RSI Bearish divergence on the weekly chart..!! It looks like Bitcoin has topped out and is now Ready for a major correction toward the 92\u201394k Range..\ud83d\udcc9 Just like it bottomed out at 16k in November 2022, We bought the dip and now we\u2019re selling the\u2026 pic.twitter.com/W25HCAxkIa \u2014 Captain Faibik \ud83d\udc3a (@CryptoFaibik) June 18, 2025 Resistance Levels Keep Price In Check Bitcoin has bumped into stiff barriers around $108,000 and $109,000, both set on May 19. An ascending trendline from December 2024 has also been capping gains for weeks. These levels are proving tough to clear. If Bitcoin can\u2019t break through soon, sellers may step in. Faibik points out that hitting these walls and seeing RSI divergence at the same time often marks the high point before a drop. This Activity Points To Caution The derivatives market adds another layer to the story. Trading volume in Bitcoin futures and options rose by 1.60%, taking total activity to around $100 billion. Open interest, meanwhile, slid down 1.30% to nearly $70 billion. This suggests some players are closing their bets rather than piling on new ones. In the past 24 hours, liquidations have wiped out $71 million in long positions. That kind of pain can trigger more sell\u2011offs if people rush to protect their profits. Related Reading: Tether Enforces Freeze On $12 Million In Tron Funds Over Illicit Activity Past Patterns Offer Mixed Lessons Looking back, Bitcoin\u2019s rebound in 2022 followed a different playbook. Back then, price hit a low near $16,000 and built strength even as RSI climbed from oversold levels. That setup led to a strong rally. Today, though, the RSI is nowhere near oversold territory. It\u2019s more of a warning flag than a green light. Captain Faibik reminds traders that past wins don\u2019t guarantee future results. Conditions now include higher interest rates and deeper institutional interest, which can change how Bitcoin reacts to the same signals. Featured image from Trade Brains, chart from TradingView"
+    },
     {
       "title": "\u2018Out of Time\u2019: XRP Consolidation Hits Final Moment, Analyst Alerts",
       "link": "https://www.newsbtc.com/news/out-of-time-xrp-consolidation-hits-final-moment-analyst-alerts/",
@@ -100,11 +105,6 @@
       "title": "Analyst Warns: Strategy On Track For Historic Collapse, Bigger Than FTX",
       "link": "https://www.newsbtc.com/bitcoin-news/analyst-warns-strategy-on-track-for-historic-collapse-bigger-than-ftx/",
       "summary": "In a bold and alarming statement, on-chain analyst OxChain raised the possibility of a catastrophic collapse involving Strategy (formerly MicroStrategy), the Bitcoin proxy firm co-founded by Michael Saylor. According to OxChain, this potential downfall could surpass the infamous collapse of FTX. \u2018Strategy&#8217;s Bitcoin Tactics Resemble Ponzi Scheme\u2019 In a recent post on X (formerly Twitter), OxChain expressed concerns about Strategy&#8217;s aggressive Bitcoin accumulation formula, suggesting that the company&#8217;s operations resemble a Ponzi scheme. OxChain pointed out that since 2020, MicroStrategy has transformed from a traditional software company into a significant player in the Bitcoin market, currently holding around 582,000 BTC, valued at nearly $61 billion. Related Reading: Researchers Forecast Bitcoin At $4.3 Million By 2036, Citing Institutional Demand However, OxChain claims that this impressive figure is underpinned by leverage, debt, and shareholder dilution, rather than genuine conviction in the cryptocurrency. The analyst outlined Strategy&#8217;s approach as a \u201ccyclical financial loop\u201d: the firm raises capital through shares or bonds, purchases Bitcoin, announces these purchases to drive up stock prices, and then raises more funds. The analyst asserts that this cycle has worked as long as Bitcoin&#8217;s price continues to rise. However, with plans for a new $1 billion share sale, OxChain believes that Strategy is increasing its risk exposure. Analyst Predicts Major Liquidation Risk OxChain warns that Strategy&#8217;s average cost per Bitcoin is approximately $70,000, creating a precarious situation. The analyst adds that if Bitcoin\u2019s price falls significantly below this level, the company&#8217;s treasury, currently valued at around $25 billion, could quickly start to suffer losses. According to the analyst, despite Saylor&#8217;s public commitment to never sell Bitcoin, the realities of accounting and risk management may force the company to act if market conditions deteriorate. In the first quarter of 2025, Strategy disclosed $5.9 billion in unrealized Bitcoin losses, revealing the volatility of its assets. Under the new accounting standard ASC 350-60, the company is required to report fair value, eliminating the ability to hide behind book value. This transparency has already led to legal repercussions, with shareholders filing a class action lawsuit alleging that Strategy concealed the risks associated with Bitcoin&#8217;s volatility while aggressively raising capital. OxChain further claimed during his social media thread that Strategy&#8217;s role as a Bitcoin access point is diminishing, especially as institutional capital flows into \u201cmore transparent and regulated options,\u201d such as BlackRock\u2019s iShares Bitcoin Trust (IBIT), which has amassed around $70 billion in assets under management. The analyst stressed that unlike Strategy, which reportedly faces dilution risks and operates with limited safeguards, IBIT offers a \u201cmore stable investment\u201d for those seeking exposure to Bitcoin. Related Reading: Altcoin Alert: Expert Reveals Hottest Opportunities For The Summer Season If Strategy were to falter, the implications would be far-reaching, OxChain added. The firm holds approximately 2.77% of Bitcoin\u2019s total supply, and a significant liquidation could send shockwaves through the market. The analyst warns that a decline in Bitcoin&#8217;s price by just 22% from its average buy price could trigger corporate liquidations, potentially leading to one of the largest liquidation events in history. Ultimately, OxChain cautions that Strategy is neither a hero nor a villain in the crypto ecosystem; instead, he said that it represents a \u201crisk vector heavily reliant on leverage and market sentiment.\u201d Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "SUI Preparing For New Highs As Falling Wedge Breakout Targets $5",
-      "link": "https://www.newsbtc.com/news/sui-preparing-for-new-highs-as-falling-wedge-breakout-targets-5/",
-      "summary": "After falling below the key $3.00 mark, SUI now retests a make-or-break level that could ignite or stall the cryptocurrency\u2019s rally. However, some market watchers believe that the altcoin is preparing for new highs despite the recent pullback. Related Reading: Bitcoin Setting Up For \u2018Large Move\u2019 Amid $103,000 Retest \u2013 Key Levels To Watch SUI Eyes Breakout To $5 This week, SUI fell below the $3.00 mark amid the Israel-Iran news-fueled market retrace. The cryptocurrency has seen a 7% decline over the past three days, hitting a two-month low of $2.68 on Wednesday morning before recovering. Since its late April breakout, SUI has been trading within the $2.33-$4.10 range, with the price hovering around the upper boundary over the past two months. Notably, the altcoin ended its multi-month downtrend after breaking above its descending resistance at the end of March, leading to its rally to the $4.00 mark. On Wednesday, analyst Crypto Bullet suggested that it could be preparing for a similar performance. According to"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Aerodome Finance: 3 reasons why AERO\u2019s 20% rally may not last",
+      "link": "https://ambcrypto.com/aerodome-finance-3-reasons-why-aeros-20-rally-may-not-last/",
+      "summary": "<img alt=\"AERO\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250619_100316_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is AERO's big price jump going to last, or is it just a quick pump?"
+    },
+    {
+      "title": "Blockchain Devfest: Matching potential with opportunity",
+      "link": "https://ambcrypto.com/blockchain-devfest-matching-potential-with-opportunity/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/drawkit-illustrations-FjMzj5NNDws-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Blockchain Developer Festival, a.k.a the Blockchain DevFest, is a developer-focused event, including a 3-day [&#8230;]"
+    },
+    {
       "title": "Solana: 386K SOL sold in 4 days \u2013 Traders, watch THESE levels next",
       "link": "https://ambcrypto.com/solana-386k-sol-sold-in-4-days-traders-watch-these-levels-next/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-29.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Why is Solana dropping despite previous gains?"
@@ -203,16 +213,6 @@
       "title": "GENIUS Act \u2013 Trump urges U.S. House to fast-track \u2018incredible\u2019 bill",
       "link": "https://ambcrypto.com/genius-act-trump-urges-u-s-house-to-fast-track-incredible-bill/",
       "summary": "<img alt=\"Stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/StablecoinGeniusActTrump.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Mastercard and Visa stocks dumped after passage of the Senate's stablecoin bill."
-    },
-    {
-      "title": "Ethereum eyes $3,237 next \u2013 But is there ONE missing factor?",
-      "link": "https://ambcrypto.com/ethereum-eyes-3237-next-but-is-there-one-missing-factor/",
-      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-18T152522.056-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum forms bullish structure, but divergence in activity and valuation clouds short-term direction."
-    },
-    {
-      "title": "Bitcoin\u2019s fate hinges on $102K \u2013 Breakdown or breakout ahead for the price?",
-      "link": "https://ambcrypto.com/bitcoins-fate-hinges-on-102k-breakdown-or-breakout-ahead-for-the-price/",
-      "summary": "<img alt=\"Bitcoin\u2019s Fate Hinges on $102K: Breakdown or Breakout Ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-102k.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Long-term outlook may be bullish for Bitcoin, but short-term volatility could play a role too."
     }
   ]
 }
