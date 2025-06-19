@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Return of Zero Interest Rate Policy as Swiss Central Bank Cuts Rates",
+      "link": "https://www.coindesk.com/markets/2025/06/19/return-of-zero-interest-rate-policy-as-swiss-central-bank-cuts-rates",
+      "summary": ""
+    },
+    {
       "title": "Circle Rockets After Stablecoin Bill Clears Senate, Pushes Post-IPO Rally to Over 500%",
       "link": "https://www.coindesk.com/markets/2025/06/19/circle-rockets-after-stablecoin-bill-clears-senate-pushes-post-ipo-rally-to-over-500",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Ether, Solana, and Other Majors Could Slide Further as Trump Threatens Iran Strikes",
       "link": "https://www.coindesk.com/markets/2025/06/19/ether-solana-and-other-majors-could-further-slide-as-trump-threatens-iran-strikes",
       "summary": ""
-    },
-    {
-      "title": "Who's Selling Bitcoin Above $100K and Holding Back the Price Rally?",
-      "link": "https://www.coindesk.com/markets/2025/06/19/who-s-been-selling-bitcoin-above-usd100k-and-holding-back-the-price-rally",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "South Korea to investigate fees of local crypto exchanges",
+      "link": "https://cointelegraph.com/news/south-korea-investigate-fees-local-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE3NWEtYjRlOS03NTZmLTgzN2UtMTFkNTU0MTk1Yjcw.jpg\" /></p><p>South Korea\u2019s newly elected president Lee Jae-myung reportedly promised to reduce crypto trading transaction costs as part of his presidential campaign.</p>"
+    },
+    {
+      "title": "Nobitex source code leaked after $100M hack by pro-Israel group",
+      "link": "https://cointelegraph.com/news/nobitex-hackers-reveal-source-code-after-100m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3MjYtODhmZi03MzYxLTliNjYtN2I4NTQzYjBmNTk4.jpg\" /></p><p>Hackers behind the $100 million Nobitex exploit have released the exchange\u2019s full source code, escalating tensions amid the Israel-Iran conflict.</p>"
+    },
     {
       "title": "Binance\u2019s CZ suggests \u2018will function\u2019 to distribute crypto in case of death",
       "link": "https://cointelegraph.com/news/binance-will-function-crypto-inheritance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Pacific nation Nauru passes law to establish a crypto regulator",
       "link": "https://cointelegraph.com/news/nauru-passes-legislation-crypto-digital-asset-regulator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg2NWMtZTg5NC03Zjg3LTk0YzAtYTg4NjM0YzY5MDUx.jpg\" /></p><p>The brother of former FTX CEO Sam Bankman-Fried once plotted to buy Nauru and build a doomsday bunker using funds from the now-defunct crypto exchange.</p>"
-    },
-    {
-      "title": "Bitcoin to Ether shift going unnoticed with \u2018bear market PTSD\u2019 \u2014 Trader",
-      "link": "https://cointelegraph.com/news/bitcoin-ether-rotation-going-unnoticed-bear-market-fear-crypto-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDcyN2UtZTA3OS03NDZmLWEwZWItZTY1ZWU0Mzk2Mzdk.jpg\" /></p><p>A crypto analyst says the altcoin season \u201cwe are all craving for\u201d now hinges on Ether doing better and showing strength.</p>"
-    },
-    {
-      "title": "Ohio House passes bill allowing up to $200 tax-free crypto payments",
-      "link": "https://cointelegraph.com/news/ohio-bill-tax-free-crypto-payments-passses-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg2MjktOGE3Ni03ZmI2LThkNDgtOGNkYmUzNjZkOTA4.jpg\" /></p><p>Ohio\u2019s House passed a bill to legally insulate various crypto activities, such as mining and staking, and exempt some transactions from capital gains tax.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Donald Trump urges swift GENIUS Act passage to dominate digital asset space",
+      "link": "https://cryptoslate.com/donald-trump-urges-swift-genius-act-passage-to-dominate-digital-asset-space/",
+      "summary": "<p>President Donald Trump, who has interests in the stablecoin USD1 via his involvement in World Liberty Financial, has called on the US House of Representatives to move quickly on the GENIUS Act, a new bill aimed at regulating stablecoins and boosting America\u2019s role in the digital asset economy. In a June 19 post shared on [&#8230;]</p> <p>"
+    },
     {
       "title": "North Korean dev hijacks dormant Waves repositories, slips credential-stealing code in wallet updates",
       "link": "https://cryptoslate.com/north-korean-dev-hijacks-dormant-waves-repositories-slips-credential-stealing-code-in-wallet-updates/",
@@ -73,14 +78,14 @@
       "title": "Circle stock leaps to $200 record after 34% daily gain",
       "link": "https://cryptoslate.com/circle-stock-leaps-to-200-record-after-34-daily-gain/",
       "summary": "<p>Circle\u2019s CRCL shares climbed 34% and closed at $199.59 on June 18 after registering a new all-time high at $200.90. The new price peak is roughly 6.5x the company\u2019s initial public offering price of $31 set on June 5. The price leap came one day after the Senate advanced the Guiding and Establishing National Innovation [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Distribution or death: Arthur Hayes says only exchange-backed or bank-linked stablecoins can thrive",
-      "link": "https://cryptoslate.com/distribution-or-death-arthur-hayes-says-only-exchange-backed-or-bank-linked-stablecoins-can-thrive/",
-      "summary": "<p>Arthur Hayes said that stablecoin issuers who cannot immediately tap a large exchange, a Web2 platform, or a legacy bank will struggle to survive. In a June 16 blog post, the BitMEX co-founder recounted how the banking shutdowns in the 2010s in Hong Kong and Mainland China drove traders toward Tether. Bitfinex and Tether allowed [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "SUI Preparing For New Highs As Falling Wedge Breakout Targets $5",
+      "link": "https://www.newsbtc.com/news/sui-preparing-for-new-highs-as-falling-wedge-breakout-targets-5/",
+      "summary": "After falling below the key $3.00 mark, SUI now retests a make-or-break level that could ignite or stall the cryptocurrency\u2019s rally. However, some market watchers believe that the altcoin is preparing for new highs despite the recent pullback. Related Reading: Bitcoin Setting Up For \u2018Large Move\u2019 Amid $103,000 Retest \u2013 Key Levels To Watch SUI Eyes Breakout To $5 This week, SUI fell below the $3.00 mark amid the Israel-Iran news-fueled market retrace. The cryptocurrency has seen a 7% decline over the past three days, hitting a two-month low of $2.68 on Wednesday morning before recovering. Since its late April breakout, SUI has been trading within the $2.33-$4.10 range, with the price hovering around the upper boundary over the past two months. Notably, the altcoin ended its multi-month downtrend after breaking above its descending resistance at the end of March, leading to its rally to the $4.00 mark. On Wednesday, analyst Crypto Bullet suggested that it could be preparing for a similar performance. According to"
+    },
     {
       "title": "Solana Plunges 13%: Can Key On-Chain Support Stop The Fall?",
       "link": "https://www.newsbtc.com/news/solana/solana-plunges-13-key-on-chain-support-stop-fall/",
@@ -100,11 +105,6 @@
       "title": "Dogecoin (DOGE) Struggles to Climb \u2014 Upside Moves Likely to Face Strong Resistance",
       "link": "https://www.newsbtc.com/analysis/doge/dogecoin-doge-struggles-0-180/",
       "summary": "Dogecoin started a fresh decline from the $0.1820 zone against the US Dollar. DOGE is now consolidating losses and might recover if it clears $0.1750. DOGE price started a fresh decline below the $0.1820 and $0.180 levels. The price is trading below the $0.1780 level and the 100-hourly simple moving average. There was a break above a bearish trend line forming with resistance at $0.1680 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could start a fresh decline if it stays below the $0.1780 zone. Dogecoin Price Faces Resistance Dogecoin price started a fresh decline after it failed to clear the $0.1820 zone, underperforming Bitcoin and Ethereum. DOGE declined below the $0.1800 and $0.1780 levels. The bears even pushed the price below the $0.170 level. A low was formed at $0.1641 and the price is now attempting to recover. There was a minor move above the 23.6% Fib retracement level of the downward move from the $0.1811 swing high to the $0.1641 low. Besides, there was a break above a bearish trend line forming with resistance at $0.1680 on the hourly chart of the DOGE/USD pair. Dogecoin price is now trading below the $0.1780 level and the 100-hourly simple moving average. Immediate resistance on the upside is near the $0.1725 level. It is close to the 50% Fib retracement level of the downward move from the $0.1811 swing high to the $0.1641 low. The first major resistance for the bulls could be near the $0.1750 level. The next major resistance is near the $0.1820 level. A close above the $0.1820 resistance might send the price toward the $0.1880 resistance. Any more gains might send the price toward the $0.200 level. The next major stop for the bulls might be $0.2120. Another Decline In DOGE? If DOGE\u2019s price fails to climb above the $0.1750 level, it could start another decline. Initial support on the downside is near the $0.1680 level. The next major support is near the $0.1640 level. The main support sits at $0.1620. If there is a downside break below the $0.1620 support, the price could decline further. In the stated case, the price might decline toward the $0.150 level or even $0.1440 in the near term. Technical Indicators Hourly MACD \u2013 The MACD for DOGE/USD is now losing momentum in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for DOGE/USD is now above the 50 level. Major Support Levels \u2013 $0.1640 and $0.1620. Major Resistance Levels \u2013 $0.1750 and $0.1800."
-    },
-    {
-      "title": "XRP Price Clings to Support \u2014 Recovery Hopes Hinge on Holding the Line",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-clings-to-support-2-120/",
-      "summary": "XRP price started a fresh decline below the $2.150 zone. The price is now consolidating losses and might recover unless the bears push it below $2.120. XRP price started a fresh decline below the $2.180 zone. The price is now trading below $2.20 and the 100-hourly Simple Moving Average. There was a break above a bearish trend line with resistance at $2.1550 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start a recovery wave if there is a close above the $2.20 resistance zone. XRP Price Holds Support XRP price reacted to the downside below the $2.220 support zone, like Bitcoin and Ethereum. The price declined below the $2.20 and $2.180 support levels. The pair tested the $2.120 support A low was formed at $2.120 and the price is now consolidating losses. There was a minor move above the 23.6% Fib retracement level of the recent decline from the $2.335 swing high to the $2.120 low. Besides, there was a break above a bearish trend line with resistance at $2.1550 on the hourly chart of the XRP/USD pair. The price is now trading below $2.20 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.180 level. The first major resistance is near the $2.20 level. The next resistance is $2.2250 or the 50% Fib retracement level of the recent decline from the $2.335 swing high to the $2.120 low. A clear move above the $2.2250 resistance might send the price toward the $2.2540 resistance. Any more gains might send the price toward the $2.280 resistance or even $2.30 in the near term. The next major hurdle for the bulls might be $2.350. Another Decline? If XRP fails to clear the $2.20 resistance zone, it could start another decline. Initial support on the downside is near the $2.1420 level. The next major support is near the $2.120 level. If there is a downside break and a close below the $2.120 level, the price might continue to decline toward the $2.050 support. The next major support sits near the $2.020 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now near the 50 level. Major Support Levels \u2013 $2.1420 and $2.120. Major Resistance Levels \u2013 $2.180 and $2.20."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Crypto in war crisis? Not Bitcoin \u2013 Here\u2019s how BTC is holding up",
+      "link": "https://ambcrypto.com/crypto-in-war-crisis-not-bitcoin-heres-how-btc-is-holding-up/",
+      "summary": "<img alt=\"bitcoin war crypto\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-34.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Geopolitical panic wiped out $200 billion, but ETFs and calm heads kept crypto grounded."
+    },
+    {
+      "title": "GENIUS Act \u2013 Trump urges U.S. House to fast-track \u2018incredible\u2019 bill",
+      "link": "https://ambcrypto.com/genius-act-trump-urges-u-s-house-to-fast-track-incredible-bill/",
+      "summary": "<img alt=\"Stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/StablecoinGeniusActTrump.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Mastercard and Visa stocks dumped after passage of the Senate's stablecoin bill."
+    },
+    {
       "title": "Ethereum eyes $3,237 next \u2013 But is there ONE missing factor?",
       "link": "https://ambcrypto.com/ethereum-eyes-3237-next-but-is-there-one-missing-factor/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-18T152522.056-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum forms bullish structure, but divergence in activity and valuation clouds short-term direction."
@@ -203,16 +213,6 @@
       "title": "Shiba Inu \u2013 A 6,306% hike in inflows? It could be a breakout or a bull trap IF\u2026",
       "link": "https://ambcrypto.com/shiba-inu-a-6306-hike-in-inflows-it-could-be-a-breakout-or-a-bull-trap-if/",
       "summary": "<img alt=\"Shiba Inu - A 6,306% hike in inflows? It could be a breakout or a bull trap IF...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-18T172712.105-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s price action has built momentum amid whale inflows, burn spikes, and a falling wedge setup."
-    },
-    {
-      "title": "Why is crypto down today \u2013 Geopolitical tensions, fear of war dictate Bitcoin\u2019s price action!",
-      "link": "https://ambcrypto.com/why-is-crypto-down-today-geopolitical-tensions-fear-of-war-dictate-bitcoins-price-action/",
-      "summary": "<img alt=\"Why is crypto down today - Geopolitical tensions, fear of war dictate Bitcoin&#039;s price action!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Capital flows into crypto and Bitcoin could slow down in the short-term."
-    },
-    {
-      "title": "Cardano: Here\u2019s why ADA might be the smartest bet right now!",
-      "link": "https://ambcrypto.com/cardano-heres-why-ada-might-be-the-smartest-bet-right-now/",
-      "summary": "<img alt=\"Cardano\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-33.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />After $50M in liquidations and an oversold market, is ADA ready to lead the next rebound?"
     }
   ]
 }
