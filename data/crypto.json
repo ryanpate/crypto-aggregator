@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Nobitex's Source Code Released a Day After Hackers Steal Tokens Across Bitcoin, EVM, Ripple Networks",
+      "link": "https://www.coindesk.com/markets/2025/06/19/nobitexs-source-code-released-a-day-after-hackers-steal-tokens-across-bitcoin-evm-ripple-networks",
+      "summary": ""
+    },
+    {
       "title": "Return of Zero Interest Rate Policy as Swiss Central Bank Cuts Rates",
       "link": "https://www.coindesk.com/markets/2025/06/19/return-of-zero-interest-rate-policy-as-swiss-central-bank-cuts-rates",
       "summary": ""
@@ -19,21 +24,21 @@
       "title": "KuCoin Allows Institutional Clients to Trade Without Having to Pre-Fund Wallets",
       "link": "https://www.coindesk.com/business/2025/06/19/kucoin-allows-institutional-clients-to-trade-without-having-to-pre-fund-wallets",
       "summary": ""
-    },
-    {
-      "title": "Ether, Solana, and Other Majors Could Slide Further as Trump Threatens Iran Strikes",
-      "link": "https://www.coindesk.com/markets/2025/06/19/ether-solana-and-other-majors-could-further-slide-as-trump-threatens-iran-strikes",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitget secures Georgia license as part of Europe expansion",
+      "link": "https://cointelegraph.com/news/bitget-expands-to-georgia-and-vietnam-with-new-licenses-and-payment-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzMjQtN2U4ZS03ZGZhLThmODQtMzFkZGY1NzVlOGQx.jpg\" /></p><p>Bitget picks Georgia for its next step in Eastern Europe, attracted by clear regulations, tax benefits and a growing crypto user base.</p>"
+    },
     {
       "title": "Bitcoin user accidentally sent $60,000 in fees\u2014Don\u2019t make the same mistake",
       "link": "https://cointelegraph.com/news/how-one-bitcoin-user-accidentally-paid-60k-in-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdkYjItYzJjNC03NWIzLThhNjktMTJhMTkxOWI4ODJl.jpg\" /></p><p>RBF lets you resend unconfirmed transactions with higher fees, but it requires a clear understanding of fee units, wallet behavior and transaction structure.</p>"
     },
     {
-      "title": "Is crypto still taxed in Australia? Major legal update, explained",
+      "title": "Is crypto still taxed in Australia? Major legal update explained",
       "link": "https://cointelegraph.com/news/is-crypto-still-taxed-in-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3YTMtYTc5NC03NzU1LThhNTktMzIyOWI1ZTU3ZjJh.jpg\" /></p><p>Australia now taxes crypto as property, with capital gains on swaps, DeFi and wrapped tokens, plus new ATO data sweeps targeting 1.2 million users.</p>"
     },
@@ -46,14 +51,19 @@
       "title": "Bitcoin gets Fed rate pause &#039;tailwind&#039; as BTC eyes $106K short squeeze",
       "link": "https://cointelegraph.com/news/bitcoin-fed-rate-pause-tailwind-short-squeeze-106k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ1MDEtMmJhZS03ZWIwLTg4MmUtNDIyNjdlMWNlZGUx.jpg\" /></p><p>Bitcoin price trajectory is primed to benefit from both macroeconomic and crypto derivatives trends, said new research from CryptoQuant.</p>"
-    },
-    {
-      "title": "South Korea to investigate fees of local crypto exchanges",
-      "link": "https://cointelegraph.com/news/south-korea-investigate-fees-local-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE3NWEtYjRlOS03NTZmLTgzN2UtMTFkNTU0MTk1Yjcw.jpg\" /></p><p>South Korea\u2019s newly elected president Lee Jae-myung reportedly promised to reduce crypto trading transaction costs as part of his presidential campaign.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Open AI might kill us. Closed AI might enslave us. Choose your future.",
+      "link": "https://cryptoslate.com/open-ai-might-kill-us-closed-ai-might-enslave-us-choose-your-future/",
+      "summary": "<p>There\u2019s a familiar discomfort creeping in again, something I felt in the early 2010s as I watched social media&#8217;s promises of connection and community unravel into mass manipulation. Facebook and propaganda bots were the first dominoes. Cambridge Analytica, Brexit, global elections, it all felt like a betrayal of the internet\u2019s original dream. Now, in the [&#8230;]</p> <p>"
+    },
+    {
+      "title": "XRP Ledger embraces decentralized governance with XAO DAO launch",
+      "link": "https://cryptoslate.com/xrp-ledger-embraces-decentralized-governance-with-xao-dao-launch/",
+      "summary": "<p>The XRP Ledger has entered a new phase of community participation with the upcoming launch of XAO DAO, marking the network&#8217;s first decentralized autonomous organization (DAO). This launch signals a shift toward deeper decentralized governance in XRPL&#8217;s future, offering users a structured way to engage in critical decisions, fund initiatives, and support real-world blockchain adoption. [&#8230;]</p> <p>"
+    },
     {
       "title": "Ford explores decentralized legal data storage on Cardano blockchain",
       "link": "https://cryptoslate.com/ford-explores-decentralized-legal-data-storage-on-cardano-blockchain/",
@@ -68,19 +78,19 @@
       "title": "North Korean dev hijacks dormant Waves repositories, slips credential-stealing code in wallet updates",
       "link": "https://cryptoslate.com/north-korean-dev-hijacks-dormant-waves-repositories-slips-credential-stealing-code-in-wallet-updates/",
       "summary": "<p>A North Korean developer gained elevated privileges inside Waves Protocol&#8217;s Keeper-Wallet codebase, according to a June 18 report by Ketman. The report highlighted routine scans for Democratic People&#8217;s Republic of Korea (DPRK) activity on GitHub, which uncovered the account &#8220;AhegaoXXX&#8221; pushing updates to Keeper-Wallet. The wallet&#8217;s repositories showed no legitimate commits after August 2023, yet [&#8230;]</p> <p>"
-    },
-    {
-      "title": "10-year Bitcoin holdings grow faster than daily issuance, marking scarcity signal after 2024 halving",
-      "link": "https://cryptoslate.com/10-year-bitcoin-holdings-grow-faster-than-daily-issuance-marking-scarcity-signal-after-2024-halving/",
-      "summary": "<p>On-chain data shows that Bitcoin\u2019s (BTC) \u201cancient supply\u201d is increasing faster than new BTC daily issuance, according to a June 18 research by Fidelity Digital Assets. The report treats ancient supply as Bitcoins that have remained unmoved for at least a decade, and it counted an average of 566 BTC entering the 10-year-plus cohort daily [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase launches stablecoin payment stack with USDC checkout targeting commerce giants",
-      "link": "https://cryptoslate.com/coinbase-launches-stablecoin-payment-stack-with-usdc-checkout-targeting-commerce-giants/",
-      "summary": "<p>Coinbase officially launched Coinbase Payments on June 18, a three-layer platform that enables commerce providers to add USDC checkout without running their blockchain infrastructure. The stack begins with Stablecoin Checkout, a wallet-native interface that supports hundreds of wallets, delivers gas-free transactions, and records payments in USDC. Beneath it, an E-commerce Engine exposes application programming interfaces [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "\u2018Out of Time\u2019: XRP Consolidation Hits Final Moment, Analyst Alerts",
+      "link": "https://www.newsbtc.com/news/out-of-time-xrp-consolidation-hits-final-moment-analyst-alerts/",
+      "summary": "In a post late Wednesday, independent technician CasiTrades\u2014followed by 20,000 accounts on the platform\u2014warned that \u201cthe market is officially out of time\u201d and that XRP\u2019s multi-month coil has compressed to the tipping point. Why XRP &#8216;Is Out Of Time&#8217; \u201cAfter months of tightening, the XRP consolidation has finally reached its apex and something big is coming next,\u201d she wrote. \u201cThere are only two paths from here: either the explosive breakout we\u2019ve been waiting for begins now, or we see one final sharp drop to support that ignites the breakout we\u2019ve all been preparing for.\u201d CasiTrades\u2019 roadmap turns on a single price: $2.25. XRP has probed that level repeatedly since the first week of June but has yet to close above it. \u201cPrice continues to struggle with the $2.25 level, a level I\u2019ve talked about continuously,\u201d she noted, arguing that every failed attempt increases the probability of a stop-hunt toward $2.01, $1.90, even $1.55. Those levels, she stressed, are \u201cmomentum zones\u2026 areas where the market grabs the liquidity it needs to build momentum for wave 3.\u201d Related Reading: XRP To End 7-Month Consolidation After 700% Surge \u2013 Is A Major Move On his daily chart the Relative-Strength Index has been tracing a shallow upward channel while price has moved sideways, a structure the analyst calls a \u201cguide for the end of this squeeze.\u201d The confluence\u2014a volatility funnel on price and a steady grind higher on momentum\u2014mirrors the pattern that preceded XRP\u2019s October 2023 breakout. Beyond geometry, timing is central to CasiTrades\u2019 argument. \u201cIt\u2019s mid-week, Wednesday\u2014this is when sentiment tends to flip,\u201d she wrote, invoking a playbook familiar to short-term traders: a fake-out in the back half of the week that reverses by Friday\u2019s close, leaving late-entrants stranded. The setup, she said, is no longer purely technical. \u201cThis is not just technicals lining up, it\u2019s the whole picture aligning. Sentiment, structure, timing, even global headlines.\u201d Related Reading: XRP Addresses Holding 1M Coins Reach 12-Year High As Experts Predict Move Above $4 By mid-morning in Europe, XRP was quoted at $2.16, roughly three percent below the resistance that defines CasiTrades\u2019 fork-in-the-road. Seven-day realised volatility has fallen to its lowest reading since February, underlining the sense of a market biding its time. Whether the catalyst comes from a decisive hourly close above $2.25 or from a liquidity sweep into the $1.90s, the analyst\u2019s central claim is unchanged: the consolidation\u2019s lifespan has effectively expired. As she signed off, CasiTrades offered a final exhortation\u2014short, sharp, and consistent with the urgency of his chart: \u201cDo not miss what\u2019s next.\u201d Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
+      "title": "Worries Over Bitcoin Treasuries Grow \u2014 Can Solaxy 100x as First-Ever Solana Layer-2?",
+      "link": "https://www.newsbtc.com/news/bitcoin-treasury-concerns-can-solaxy-100x-solana-l2/",
+      "summary": "Corporate treasury strategies are entering a new era as traditional finance and crypto converge. Two standout approaches are now reshaping how institutions manage digital assets. \ud83d\udca1 Approach One: The well-established Bitcoin playbook \u2013 buy $BTC and hold. Borrow billions to do so if necessary. \ud83d\udca1 Approach Two: A bold new frontier on Solana \u2013 buy $SOL and farm yield natively through chain-on-chain treasury mechanics. Both approaches have gained significant followings in recent months, with the $SOL treasury strategy emerging more recently. And with Solaxy preparing to launch the first true Solana Layer-2, the entire Solana-native treasury model could be about to jump to light speed. Debt-Fueled Bitcoin Strategies Face Growing Scrutiny MicroStrategy,"
+    },
     {
       "title": "Bitcoin Channel Break Below $105,000 Sparks Panic, Analysts Predict Further Crashes",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-channel-break/",
@@ -95,16 +105,6 @@
       "title": "SUI Preparing For New Highs As Falling Wedge Breakout Targets $5",
       "link": "https://www.newsbtc.com/news/sui-preparing-for-new-highs-as-falling-wedge-breakout-targets-5/",
       "summary": "After falling below the key $3.00 mark, SUI now retests a make-or-break level that could ignite or stall the cryptocurrency\u2019s rally. However, some market watchers believe that the altcoin is preparing for new highs despite the recent pullback. Related Reading: Bitcoin Setting Up For \u2018Large Move\u2019 Amid $103,000 Retest \u2013 Key Levels To Watch SUI Eyes Breakout To $5 This week, SUI fell below the $3.00 mark amid the Israel-Iran news-fueled market retrace. The cryptocurrency has seen a 7% decline over the past three days, hitting a two-month low of $2.68 on Wednesday morning before recovering. Since its late April breakout, SUI has been trading within the $2.33-$4.10 range, with the price hovering around the upper boundary over the past two months. Notably, the altcoin ended its multi-month downtrend after breaking above its descending resistance at the end of March, leading to its rally to the $4.00 mark. On Wednesday, analyst Crypto Bullet suggested that it could be preparing for a similar performance. According to"
-    },
-    {
-      "title": "Solana Plunges 13%: Can Key On-Chain Support Stop The Fall?",
-      "link": "https://www.newsbtc.com/news/solana/solana-plunges-13-key-on-chain-support-stop-fall/",
-      "summary": "Solana has declined by around 13% in the past week, which has brought the asset back to a major on-chain support cluster. Could this be where the bleed ends? Solana Has Strong On-Chain Support Between $145 &#38; $147 In a new post on X, the on-chain analytics firm Glassnode has talked about where support and resistance levels lie for Solana based on the Cost Basis Distribution (CBD) metric. Related Reading: These Altcoins Are Bucking The Trend\u2014But Can They Keep It Up? The Cost Basis Distribution tells us about how much of the cryptocurrency&#8217;s circulating supply was last purchased or transferred at what spot price. Below is the chart shared by Glassnode that shows the data of the indicator for Solana over the past few months. As is visible, there are a few price zones near the current Solana spot price that stand out in terms of the amount of supply that they hold. The $155 to $157 range carries the cost basis of around 31 million tokens and the $164 to $166 range that of 29 million tokens. A third demand zone exists at $145 to $147, a region that the cryptocurrency&#8217;s price is currently making a retest of. Here, the investors last purchased a total of 13 million SOL. To any investor, their cost basis is an important level, so they are more likely to show some kind of move when a retest of it occurs. Generally, this type of reaction isn&#8217;t anything relevant for the asset when just a few holders share their acquisition mark at the level, but when a large amount of them are involved, like in the case of the range that SOL is retesting right now, a sizeable reaction can sometimes appear. Generally, these moves tend toward buying when the retest occurs from above. That is, when the investors were in the green prior to the retest. This happens because these holders might believe the price decline to be just a dip opportunity or they may simply want to protect their cost basis. Similarly, holders might panic sell when the retest happens from below. This could happen because underwater sellers can be desperate to get back into the green and once they do, they might fear that the rise is only temporary so they could push for the exit. As Solana is retesting the $145 to $147 range from above, it&#8217;s possible that buyers from this region could provide support to the asset and help cushion its fall. In the event that a turnaround does happen, the $155 to $157 resistance range could be of focus next. Related Reading: Bitcoin NVT Enters Reversal Zone: BTC Dangerously Overvalued? The analytics firm has also shared the CBD of another altcoin, Tron (TRX). As Glassnode explains, Cost Basis Distribution shows TRON found support in the $0.26\u2013$0.27 range, where over 14B $TRX is held -marking the strongest cluster on the chart. Above that, the supply is relatively thin and most investor positioning remains below current price. SOL Price Solana is currently hanging right at the lower end of the support range as its price is floating around $145. Looks like the price of the coin has plunged during the last couple of days &#124; Source: SOLUSDT on TradingView Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Stalls at $2,500, But Is a $4,000 Breakout Closer Than You Think?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-stalls-at-2500-but-is-a-4000-breakout-closer-than-you-think/",
-      "summary": "Ethereum has struggled to maintain upward momentum following a brief rally that pushed its price above $2,800 last week. Currently, ETH is trading at $2,511, reflecting a 9.4% decline over the past week. This retreat comes amid a broader period of consolidation across the digital asset market, with Ethereum seeing both technical resistance levels and on-chain trends that could shape its price action in the coming weeks. Related Reading: Ethereum Golden Cross Approaching \u2013 Will History Repeat? Ethereum Faces Technical Resistance The latest analysis from \u0130brahim CO\u015eAR, a contributor to CryptoQuant\u2019s QuickTake platform, highlights the significance of the 50-week exponential moving average (EMA) as a resistance level for ETH. Historically, successful breakouts above this technical marker have been followed by substantial price gains. CO\u015eAR notes that in prior cycles, once ETH crossed above the 50-week EMA, price increases ranged from 25% to 135%. Averaging those moves suggests a breakout could see Ethereum targeting the $4,000 range. The EMA is a trend-following indicator that places more weight on recent price action, often used to identify potential breakout or breakdown zones in asset movements. Staking and Accumulation Metrics Show Investor Conviction In parallel to price action, Ethereum\u2019s staking metrics continue to show steady growth. On-chain analyst OnChainSchool reported that more than 500,000 ETH were staked in the first half of June, bringing the total staked to over 35 million ETH. This milestone represents the highest amount ever locked in Ethereum&#8217;s proof-of-stake contract and reflects a growing trend toward network participation and supply reduction. Staking, in ETH\u2019s case, involves locking ETH to help secure the network and validate transactions in return for staking rewards. As the amount of ETH staked rises, the liquid circulating supply shrinks, potentially tightening available supply on exchanges. Additionally, accumulation wallets, or addresses with no history of selling, have also reached an all-time high, now holding 22.8 million ETH. Combined, these metrics point toward long-term holding behavior, rather than speculative trading. Ethereum Hits ATH in Staking: Over 35 Million ETH Locked \u201cAlongside this, Accumulation Addresses (holders with no history of selling) have also reached an all-time high, now holding 22.8 million ETH.\u201d \u2013 By @onchainschool Read more \u2935\ufe0fhttps://t.co/WYoX9qpODZ pic.twitter.com/6MAlK0sCfJ \u2014 CryptoQuant.com (@cryptoquant_com) June 17, 2025 These on-chain developments coincide with ongoing interest in Ethereum-based financial products. The Ethereum ecosystem has seen renewed institutional and retail engagement, particularly after the US Securities and Exchange Commission approved the first spot ETH ETFs. Related Reading: Ethereum Price at Risk of Downside Break as Bears Test Key Support Just recently, SharpLink Gaming, a Nasdaq-listed firm, also a marketing partner to sportsbooks and online casino gaming operators, unveiled a $425M Ethereum reserve strategy led by ConsenSys. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Canadian Firm Sol Strategies Files With SEC for Nasdaq Debut",
+      "link": "https://decrypt.co/326024/canadian-firm-sol-strategies-files-with-sec-for-nasdaq-debut",
+      "summary": "As a foreign private issuer, the firm will follow Canadian disclosure rules while being exempt from certain U.S. reporting requirements."
+    },
+    {
       "title": "Treasury Secretary Bessent Says Stablecoins Can Bolster US Dollar 'Supremacy\u2019",
       "link": "https://decrypt.co/326021/treasury-secretary-bessent-stablecoins-dollar-supremacy",
       "summary": "Bessent framed stablecoins as a strategic asset for U.S. influence, as lawmakers weigh whether politics will stall key legislation again."
@@ -154,14 +159,14 @@
       "title": "Civil Rights Group Gives Elon Musk's xAI 60 Days to Fix Alleged Clean Air Act Violations",
       "link": "https://decrypt.co/326005/civil-rights-elon-musks-xai-60-days-fix-alleged-clean-air-act-violations",
       "summary": "The NAACP has threatened xAI with a lawsuit over unpermitted gas turbines at Memphis AI data center, citing pollution concerns."
-    },
-    {
-      "title": "Trump Pushes House to Pass GENIUS Act as Lawmakers Debate Crypto Oversight",
-      "link": "https://decrypt.co/325996/trump-pushes-house-genius-act-lawmakers-debate-crypto",
-      "summary": "The President has called on the House to approve the stablecoin bill, despite concerns over conflicts of interest and tech sector influence."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Binance co-founder calls for crypto platforms to implement \u2018will function\u2019 for asset inheritance",
+      "link": "https://cryptobriefing.com/crypto-inheritance-tools-platforms/",
+      "summary": "<p>Implementing a 'will function' in crypto platforms could ensure secure asset transfer, addressing inheritance challenges in digital finance.</p> <p>"
+    },
     {
       "title": "Iran restricts crypto exchange hours after massive Nobitex exploit drains BTC, ETH, XRP",
       "link": "https://cryptobriefing.com/iran-crypto-restrictions-nobitex-exploit/",
@@ -181,14 +186,14 @@
       "title": "Bitcoin stays resilient ahead of Fed meeting as investors await policy signals",
       "link": "https://cryptobriefing.com/bitcoin-resilient-ahead-fed-meeting/",
       "summary": "<p>Bitcoin's resilience amid Fed uncertainty highlights its potential as a hedge, but future rate signals could impact broader market liquidity.</p> <p>"
-    },
-    {
-      "title": "Canada\u2019s first XRP spot ETF goes live on Toronto Stock Exchange",
-      "link": "https://cryptobriefing.com/canadas-first-xrp-spot-etf/",
-      "summary": "<p>The launch of Canada's first XRP spot ETF could accelerate mainstream adoption of digital assets, enhancing financial market innovation.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Solana: 386K SOL sold in 4 days \u2013 Traders, watch THESE levels next",
+      "link": "https://ambcrypto.com/solana-386k-sol-sold-in-4-days-traders-watch-these-levels-next/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-29.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Why is Solana dropping despite previous gains?"
+    },
     {
       "title": "Crypto in war crisis? Not Bitcoin \u2013 Here\u2019s how BTC is holding up",
       "link": "https://ambcrypto.com/crypto-in-war-crisis-not-bitcoin-heres-how-btc-is-holding-up/",
@@ -208,11 +213,6 @@
       "title": "Bitcoin\u2019s fate hinges on $102K \u2013 Breakdown or breakout ahead for the price?",
       "link": "https://ambcrypto.com/bitcoins-fate-hinges-on-102k-breakdown-or-breakout-ahead-for-the-price/",
       "summary": "<img alt=\"Bitcoin\u2019s Fate Hinges on $102K: Breakdown or Breakout Ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-102k.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Long-term outlook may be bullish for Bitcoin, but short-term volatility could play a role too."
-    },
-    {
-      "title": "Shiba Inu \u2013 A 6,306% hike in inflows? It could be a breakout or a bull trap IF\u2026",
-      "link": "https://ambcrypto.com/shiba-inu-a-6306-hike-in-inflows-it-could-be-a-breakout-or-a-bull-trap-if/",
-      "summary": "<img alt=\"Shiba Inu - A 6,306% hike in inflows? It could be a breakout or a bull trap IF...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-18T172712.105-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SHIB\u2019s price action has built momentum amid whale inflows, burn spikes, and a falling wedge setup."
     }
   ]
 }
