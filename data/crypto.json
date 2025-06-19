@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Gains 4.3%, Leading Index Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/19/coindesk-20-performance-update-uniswap-uni-gains-4-3-leading-index-higher",
+      "summary": ""
+    },
+    {
+      "title": "Project Eleven Raises $6M to Defend Bitcoin From the Coming Quantum Threat",
+      "link": "https://www.coindesk.com/tech/2025/06/19/project-eleven-raises-6m-to-defend-bitcoin-from-the-coming-quantum-threat",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Exchange Kraken Adds Bitcoin Staking Via Babylon as BTC Driven DeFi Picks Up",
+      "link": "https://www.coindesk.com/business/2025/06/19/crypto-exchange-kraken-adds-native-bitcoin-staking-via-babylon-integration",
+      "summary": ""
+    },
+    {
+      "title": "SOL Strategies Files to List on Nasdaq",
+      "link": "https://www.coindesk.com/policy/2025/06/19/sol-strategies-files-to-list-on-nasdaq",
+      "summary": ""
+    },
+    {
       "title": "Crypto Daybook Americas: Bitcoin Shrugs Off Fed, Mideast War, but Derivatives Flash Caution",
       "link": "https://www.coindesk.com/daybook-us/2025/06/19/crypto-daybook-americas-bitcoin-shrugs-off-fed-mideast-war-but-derivatives-flash-caution",
-      "summary": ""
-    },
-    {
-      "title": "Nobitex's Source Code Released a Day After Hackers Steal Tokens Across Bitcoin, EVM, Ripple Networks",
-      "link": "https://www.coindesk.com/markets/2025/06/19/nobitexs-source-code-released-a-day-after-hackers-steal-tokens-across-bitcoin-evm-ripple-networks",
-      "summary": ""
-    },
-    {
-      "title": "Return of Zero Interest Rate Policy as Swiss Central Bank Cuts Rates",
-      "link": "https://www.coindesk.com/markets/2025/06/19/return-of-zero-interest-rate-policy-as-swiss-central-bank-cuts-rates",
-      "summary": ""
-    },
-    {
-      "title": "Circle Rockets After Stablecoin Bill Clears Senate, Pushes Post-IPO Rally to Over 500%",
-      "link": "https://www.coindesk.com/markets/2025/06/19/circle-rockets-after-stablecoin-bill-clears-senate-pushes-post-ipo-rally-to-over-500",
-      "summary": ""
-    },
-    {
-      "title": "Dogecoin Steady But Flashing 'Oversold' in Signal for Bearish Bets",
-      "link": "https://www.coindesk.com/markets/2025/06/19/dogecoin-steady-but-flashing-oversold-in-signal-for-bearish-bets",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Crypto VC partner loses \u2018life savings\u2019 during fake Zoom call",
+      "link": "https://cointelegraph.com/news/hypersphere-partner-loses-life-savings-in-zoom-phishing-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzFiZTYtZjVjYS03YjMyLThmODgtNjA2YzU3MmVlYTE5.jpg\" /></p><p>Hypersphere investment partner Mehdi Farooq said he lost six wallets and years of savings after falling victim to a fake Zoom call phishing attack.</p>"
+    },
+    {
+      "title": "Project Eleven raises $6M to defend Bitcoin from quantum attacks",
+      "link": "https://cointelegraph.com/news/project-eleven-raises-6m-to-defend-bitcoin-from-quantum-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg\" /></p><p>Quantum computing-focused Project Eleven raised $6 million to develop tools like Yellowpages that aim to secure Bitcoin against quantum attacks.</p>"
+    },
+    {
+      "title": "Nasdaq-listed Lion Group bets big on Hyperliquid with $600M treasury",
+      "link": "https://cointelegraph.com/news/lion-group-hyperliquid-crypto-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3YjMtYzI5Mi03YWVkLWE1YjEtNjdhMTBjYzc1NDFi.jpg\" /></p><p>The $600 million treasury announcement came on the same day Nasdaq-listed ophthalmic technologies firm Eyenovia shared plans for a Hyperliquid token treasury.</p>"
+    },
     {
       "title": "OKX brings DEX aggregator to MetaMask with Consensys partnership",
       "link": "https://cointelegraph.com/news/okx-consensys-dex-aggregator-metamask?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,31 +51,26 @@
       "title": "Russia says 70% of crypto miners remain unregistered despite new laws",
       "link": "https://cointelegraph.com/news/only-30-percent-russian-crypto-miners-legal-finance-ministry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ4ZGQtNDRiOS03NTdmLTljNGMtMTFhOWE3MmQ2ODQ2.jpg\" /></p><p>Russia will continue taking measures to encourage crypto mining businesses to register with the tax authority, including imposing bigger penalties for violations.</p>"
-    },
-    {
-      "title": "Bitget secures Georgia license as part of Europe expansion",
-      "link": "https://cointelegraph.com/news/bitget-expands-to-georgia-and-vietnam-with-new-licenses-and-payment-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzMjQtN2U4ZS03ZGZhLThmODQtMzFkZGY1NzVlOGQx.jpg\" /></p><p>Bitget picks Georgia for the next step of its expansion in Eastern Europe, attracted by clear regulations, tax benefits and a growing crypto user base.</p>"
-    },
-    {
-      "title": "Bitcoin user accidentally sent $60,000 in fees\u2014Don\u2019t make the same mistake",
-      "link": "https://cointelegraph.com/news/how-one-bitcoin-user-accidentally-paid-60k-in-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdkYjItYzJjNC03NWIzLThhNjktMTJhMTkxOWI4ODJl.jpg\" /></p><p>RBF lets you resend unconfirmed transactions with higher fees, but it requires a clear understanding of fee units, wallet behavior and transaction structure.</p>"
-    },
-    {
-      "title": "Is crypto still taxed in Australia? Major legal update explained",
-      "link": "https://cointelegraph.com/news/is-crypto-still-taxed-in-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3YTMtYTc5NC03NzU1LThhNTktMzIyOWI1ZTU3ZjJh.jpg\" /></p><p>Australia now taxes crypto as property, with capital gains on swaps, DeFi and wrapped tokens, plus new ATO data sweeps targeting 1.2 million users.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ethereum\u2019s strategic reserves hit nearly 1% of supply as top holders dominate",
+      "link": "https://cryptoslate.com/insights/ethereums-strategic-reserves-hit-nearly-1-of-supply-as-top-holders-dominate/",
+      "summary": "<p>The amount of Ethereum (ETH) held in strategic reserves is nearing a critical benchmark, with nearly 1% of the crypto\u2019s total circulating supply now held by major organizations and institutions. Data from the Strategic ETH Reserve shows that approximately 1,167,712 ETH, valued at nearly $2.96 billion, is currently designated as a strategic holding. This figure [&#8230;]</p> <p>"
+    },
+    {
+      "title": "South Korea moves closer to spot Bitcoin ETFs as FSC explores proposal",
+      "link": "https://cryptoslate.com/south-korea-moves-closer-to-spot-bitcoin-etfs-as-fsc-explores-proposal/",
+      "summary": "<p>South Korea&#8217;s top financial regulator is working on a detailed roadmap to support the launch of digital asset spot exchange-traded funds. According to a June 19 report by Herald Economy, the Financial Services Commission revealed the move during a policy update to the State Affairs Planning Committee. The FSC plans to roll out its proposal [&#8230;]</p> <p>"
+    },
     {
       "title": "Iran-based Nobitex vows user protection despite $100 million attack by Israel-linked hacktivists",
       "link": "https://cryptoslate.com/iran-based-nobitex-vows-user-protection-despite-100-million-attack-by-israel-linked-hacktivists/",
       "summary": "<p>Iranian crypto exchange Nobitex has confirmed that it lost nearly $100 million in a cyberattack by a politically motivated hacking group. The breach, which occurred on July 18, has shaken the local crypto community and triggered a government-imposed curfew on crypto trading platforms nationwide. The attack was claimed by an Israel-linked group calling itself Gonjeshke [&#8230;]</p> <p>"
     },
     {
-      "title": "Open AI might kill us. Closed AI might enslave us. Choose your future.",
+      "title": "Open source AI might kill us. Closed AI could enslave us. Choose your apocalypse.",
       "link": "https://cryptoslate.com/open-ai-might-kill-us-closed-ai-might-enslave-us-choose-your-future/",
       "summary": "<p>There\u2019s a familiar discomfort creeping in again, something I felt in the early 2010s as I watched social media&#8217;s promises of connection and community unravel into mass manipulation. Facebook and propaganda bots were the first dominoes. Cambridge Analytica, Brexit, global elections, it all felt like a betrayal of the internet\u2019s original dream. Now, in the [&#8230;]</p> <p>"
     },
@@ -68,19 +78,14 @@
       "title": "XRP Ledger embraces decentralized governance with XAO DAO launch",
       "link": "https://cryptoslate.com/xrp-ledger-embraces-decentralized-governance-with-xao-dao-launch/",
       "summary": "<p>The XRP Ledger has entered a new phase of community participation with the upcoming launch of XAO DAO, marking the network&#8217;s first decentralized autonomous organization (DAO). This launch signals a shift toward deeper decentralized governance in XRPL&#8217;s future, offering users a structured way to engage in critical decisions, fund initiatives, and support real-world blockchain adoption. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ford explores decentralized legal data storage on Cardano blockchain",
-      "link": "https://cryptoslate.com/ford-explores-decentralized-legal-data-storage-on-cardano-blockchain/",
-      "summary": "<p>Ford Motor Company, a Fortune 500 company, has joined forces with Iagon and Cloud Court to launch a proof-of-concept (PoC) focused on decentralized legal data storage, according to a June 18 announcement. The project, built on the Cardano blockchain, will test decentralized solutions for managing sensitive legal records across large organizations. Following the news, Iagon\u2019s [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Donald Trump urges swift GENIUS Act passage to dominate digital asset space",
-      "link": "https://cryptoslate.com/donald-trump-urges-swift-genius-act-passage-to-dominate-digital-asset-space/",
-      "summary": "<p>President Donald Trump, who has interests in the stablecoin USD1 via his involvement in World Liberty Financial, has called on the US House of Representatives to move quickly on the GENIUS Act, a new bill aimed at regulating stablecoins and boosting America\u2019s role in the digital asset economy. In a June 19 post shared on [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Is The Purest AI Trade, Says Wall Street Veteran",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-purest-ai-trade-wall-street-veteran/",
+      "summary": "Macro investor Jordi Visser has published a Substack essay arguing that Bitcoin is \u201cthe purest AI trade,\u201d a claim he says has followed him \u201cin nearly every one of my videos, Substack posts, and conversations with Anthony Pompliano.\u201d The piece, released yesterday under the title You Don\u2019t Find Bitcoin, Bitcoin Finds You: Why It\u2019s the Purest AI Trade, sets out a personal and macro-economic narrative that Visser believes binds artificial-intelligence disruption to the rise of the world\u2019s first decentralised digital asset. Visser, who now heads AI Macro Nexus Research at 22V Research after three decades trading derivatives at Morgan Stanley, running a global-macro hedge fund, and ultimately serving as president and CIO of Weiss Multi-Strategy Advisers, frames the essay as a pre-emptive answer to critics who \u201cdon\u2019t see it or understand it.\u201d \u201cThis statement wasn\u2019t born from a single insight but rather a journey that unfolded across three distinct steps and four accelerating forces that helped me connect the dots between monetary policy, exponential innovation, and a world shifting faster than our corporate, financial, and government systems can handle,\u201d he writes. The three steps, he explains, were \u201cpersonal awakening, macro-economic context, and the recognition of Bitcoin as foundational infrastructure for the digital economy.\u201d Why Bitcoin Is The Ultimate AI Trade The four forces Visser identifies as central to his thesis span the domains of monetary policy, technology, and sovereignty. The first, he writes, is \u201cunprecedented fiscal and monetary intervention which I believe marked the final climax of the global government debt super-cycle and ultimately the dollar as the global reserve currency.\u201d In his view, the pandemic-era explosion in government spending exposed the limits of fiat systems propped up by central bank liquidity. Related Reading: Buy Bitcoin Now? Not Yet\u2014Analyst Says Time Holds The Key The second force centers on structural deflation: \u201cdeflationary pressure from exponential technologies.\u201d Visser sees AI and automation as not just economic disruptors but forces that drive prices downward across the board\u2014pressuring legacy systems built on perpetual inflation and debt. The third pillar of his argument is institutional erosion. \u201cAccelerating institutional obsolescence through AI,\u201d he warns, will hollow out bureaucracies and corporate incumbents that are too slow to adapt to exponential change. Finally, Visser cites \u201cBitcoin\u2019s emergence as a sovereign digital asset\u2014independent, decentralised, and not defined by any nation-state.\u201d In contrast to fiat currencies reliant on state power and monetary intervention, Bitcoin exists as an autonomous, verifiable infrastructure layer for the digital economy. Visser dates his \u201cpersonal awakening\u201d to early 2021, when the pandemic-era money print collided with a household epiphany: \u201cAsset prices jumped and crypto prices were rising daily, and I was struck by the fact that my 13-year-old son \u2026 could explain the space in a way that I could not understand.\u201d That curiosity pushed him toward Michael Saylor\u2019s corporate-treasury bet on Bitcoin and Paul Tudor Jones\u2019s description of the asset as \u201cthe fastest horse in the race,\u201d convincing him that \u201cBitcoin [was] a rational response to an irrational system looking for a new one.\u201d The second intellectual milestone came through Jeff Booth\u2019s book The Price of Tomorrow, from which Visser lifts the line: \u201cInnovation is always deflationary for the economy so the baseline for inflation is always negative.\u201d Booth\u2019s argument, he says, revealed \u201can Economic Trilemma\u201d in which a debt-laden industrial economy can only survive by tapping government balance-sheets, even as a capital-light digital economy accelerates away. The result, he warns, is a fragile fiat system propped up by \u201cartificially low rates, quantitative easing, and fiscal stimulus\u201d that cannot be maintained indefinitely. Visser\u2019s third pivot came with Marc Andreessen\u2019s 2014 essay Why Bitcoin Matters. Andreessen\u2019s framing of the Bitcoin white paper as a monetary protocol\u2014\u201con par with the creation of the internet itself\u201d\u2014convinced Visser to stop viewing Bitcoin as a challenger to sovereign currency and start seeing it as \u201cthe base-layer for a new, decentralised economic system.\u201d Stablecoins, he concedes, may bridge fiat and crypto, but they remain \u201ctethered to the very institutions they\u2019re trying to outrun.\u201d Related Reading: $150,000 Bitcoin Is In Play\u2014Unless This One Macro Metric Snaps The final, self-described \u201cforce\u201d is AI itself: \u201cFor years, we\u2019ve said software is eating the world. But now, AI is eating software and soon it will eat everything in its path.\u201d He argues that intelligent agents will erode the scarcity premia that support most legacy assets, leaving Bitcoin\u2014algorithmically finite and independent of any issuer\u2014as \u201csovereignty at digital scale.\u201d In one of the essay\u2019s bleakest forecasts he writes, \u201cAI will destroy everything eventually\u2014not maliciously, but systematically. And the economic system we\u2019ve built on top of scarcity, debt, and centralisation is not equipped to survive it.\u201d Visser closes by channelling Saylor\u2019s mantra\u2014\u201cYou don\u2019t find Bitcoin, Bitcoin finds you\u201d\u2014to explain why adoption is emerging first in the periphery: retail investors in emerging markets, smaller firms outcompeted by big-tech AI monopolies, and early-mover states such as El Salvador. \u201cThis bottom-up foundation is setting the stage for a future top-down capital rotation as FOMO and greed eventually force more and more of the doubters in,\u201d he concludes. \u201cThat\u2019s why Bitcoin is, in many ways, the purest AI trade\u2014an opt-out of a system being reshaped by intelligence no one fully controls. At press time, BTC traded at $104,816. Featured image image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin\u2019s Momentum Wobbles\u2014Analyst Predicts Correction Below $94K",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-momentum-wobbles-analyst-predicts-correction-below-94k/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Channel Break Below $105,000 Sparks Panic, Analysts Predict Further Crashes",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-channel-break/",
       "summary": "Bitcoin has been crashing with the advent of the new week, spurred on by uncertainties that surround the growing conflict in the Middle East. There has also been a lot of negativity in the crypto market, with expectations that the Bitcoin price will not make new all-time highs after failing to reclaim $111,000. Even as the market continues to bleed, crypto analysts are still predicting further crashes for the digital asset, with some expecting a break of the psychological level at $100,000. Bitcoin Price Headed For Further Breakdown Crypto analyst TehThomas had previously called the Bitcoin price crash from the $108,000 territory, suggesting that the digital asset still had to fill Fair Value Gaps (FVG) at lower levels before it could continue to soar. Then recently, the crypto analyst has once again reiterated his stance as the price had begun to fall back toward $100.000. Related Reading: XRP To End 7-Month Consolidation After 700% Surge \u2013 Is A Major Move Coming? Thomas explained that Bitcoin was already showing signs of exhaustion. Hence, the reason for the crash was due to a loss of $108,500. At this level, with the price failing to break out higher, it showed that the initial surge had been a takeout, and the right direction was actually downward. The initial bullish move was seemingly a way for an internal liquidity grab while clearing out breakout buyers at the same time. Now, the Bitcoin price has broken below an important channel at $105,000 after a successful retest. The analyst explains that this aligns with the 50% equilibrium of the high-to-low range. Naturally, this means that the asset is still bearish and could continue to decline from here. The main levels to watch were initially at $104,600, but the Bitcoin price had first broken below this level on Tuesday. Now, if the decline continues, then the next major level investors are looking at is the $102,800, where support now lies for the cryptocurrency. Below $100,000 Is Still Possible In addition to Thomas, crypto analyst Xanrox has also predicted further price crashes for Bitcoin. He points out that the formation of a bull flag does not mean the price will continue to rise, as the flag could very well break. If this happens, then the analyst sees the Bitcoin price dropping to $100,000. Related Reading: Rising Bitcoin Dominance Above 64% Dashes Hopes Of Altcoin Season, Here\u2019s Why Unlike Thomas, Xanrox places his support levels at the much lower price of $88,000, which would suggest a major price crash from here. \u201cWhen we look at the current price action, it looks like a bullish flag consolidation pattern,\u201d the analyst said. \u201cIn this case we will probably see multiple liquidity sweeps below the previous swing lows to kick out early longs.\u201d Another analyst, Doctor Profit, has also turned bearish, predicting a decline below $100,000. In the X post, the crypto analyst said that the Bitcoin price is likely to fall to the $94,000-$95,000 level before seeing a bounce from there. Therefore, the analyst has told investors to prepare for more red candles. Featured image from Dall.E, chart from TradingView.com"
-    },
-    {
-      "title": "Analyst Warns: Strategy On Track For Historic Collapse, Bigger Than FTX",
-      "link": "https://www.newsbtc.com/bitcoin-news/analyst-warns-strategy-on-track-for-historic-collapse-bigger-than-ftx/",
-      "summary": "In a bold and alarming statement, on-chain analyst OxChain raised the possibility of a catastrophic collapse involving Strategy (formerly MicroStrategy), the Bitcoin proxy firm co-founded by Michael Saylor. According to OxChain, this potential downfall could surpass the infamous collapse of FTX. \u2018Strategy&#8217;s Bitcoin Tactics Resemble Ponzi Scheme\u2019 In a recent post on X (formerly Twitter), OxChain expressed concerns about Strategy&#8217;s aggressive Bitcoin accumulation formula, suggesting that the company&#8217;s operations resemble a Ponzi scheme. OxChain pointed out that since 2020, MicroStrategy has transformed from a traditional software company into a significant player in the Bitcoin market, currently holding around 582,000 BTC, valued at nearly $61 billion. Related Reading: Researchers Forecast Bitcoin At $4.3 Million By 2036, Citing Institutional Demand However, OxChain claims that this impressive figure is underpinned by leverage, debt, and shareholder dilution, rather than genuine conviction in the cryptocurrency. The analyst outlined Strategy&#8217;s approach as a \u201ccyclical financial loop\u201d: the firm raises capital through shares or bonds, purchases Bitcoin, announces these purchases to drive up stock prices, and then raises more funds. The analyst asserts that this cycle has worked as long as Bitcoin&#8217;s price continues to rise. However, with plans for a new $1 billion share sale, OxChain believes that Strategy is increasing its risk exposure. Analyst Predicts Major Liquidation Risk OxChain warns that Strategy&#8217;s average cost per Bitcoin is approximately $70,000, creating a precarious situation. The analyst adds that if Bitcoin\u2019s price falls significantly below this level, the company&#8217;s treasury, currently valued at around $25 billion, could quickly start to suffer losses. According to the analyst, despite Saylor&#8217;s public commitment to never sell Bitcoin, the realities of accounting and risk management may force the company to act if market conditions deteriorate. In the first quarter of 2025, Strategy disclosed $5.9 billion in unrealized Bitcoin losses, revealing the volatility of its assets. Under the new accounting standard ASC 350-60, the company is required to report fair value, eliminating the ability to hide behind book value. This transparency has already led to legal repercussions, with shareholders filing a class action lawsuit alleging that Strategy concealed the risks associated with Bitcoin&#8217;s volatility while aggressively raising capital. OxChain further claimed during his social media thread that Strategy&#8217;s role as a Bitcoin access point is diminishing, especially as institutional capital flows into \u201cmore transparent and regulated options,\u201d such as BlackRock\u2019s iShares Bitcoin Trust (IBIT), which has amassed around $70 billion in assets under management. The analyst stressed that unlike Strategy, which reportedly faces dilution risks and operates with limited safeguards, IBIT offers a \u201cmore stable investment\u201d for those seeking exposure to Bitcoin. Related Reading: Altcoin Alert: Expert Reveals Hottest Opportunities For The Summer Season If Strategy were to falter, the implications would be far-reaching, OxChain added. The firm holds approximately 2.77% of Bitcoin\u2019s total supply, and a significant liquidation could send shockwaves through the market. The analyst warns that a decline in Bitcoin&#8217;s price by just 22% from its average buy price could trigger corporate liquidations, potentially leading to one of the largest liquidation events in history. Ultimately, OxChain cautions that Strategy is neither a hero nor a villain in the crypto ecosystem; instead, he said that it represents a \u201crisk vector heavily reliant on leverage and market sentiment.\u201d Featured image from DALL-E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Avalanche Game 'Forgotten Playland' Implements NFTs in Biggest Update Yet",
+      "link": "https://decrypt.co/325926/avalanche-game-forgotten-playland-implements-nfts",
+      "summary": "Forgotten Playland, an Avalanche-powered game on the Beam L1, has integrated in-game item NFTs along with other new features."
+    },
+    {
       "title": "Canadian Firm Sol Strategies Files With SEC for Nasdaq Debut",
       "link": "https://decrypt.co/326024/canadian-firm-sol-strategies-files-with-sec-for-nasdaq-debut",
       "summary": "As a foreign private issuer, the firm will follow Canadian disclosure rules while being exempt from certain U.S. reporting requirements."
@@ -154,14 +159,14 @@
       "title": "1inch Foundation Proposes User Compensation Plan Following October Hack",
       "link": "https://decrypt.co/326012/1inch-foundation-proposes-user-compensation-plan",
       "summary": "DAO members of 1inch are voting on whether to approve a reimbursement scheme for victims of a supply chain exploit last year."
-    },
-    {
-      "title": "Civil Rights Group Gives Elon Musk's xAI 60 Days to Fix Alleged Clean Air Act Violations",
-      "link": "https://decrypt.co/326005/civil-rights-elon-musks-xai-60-days-fix-alleged-clean-air-act-violations",
-      "summary": "The NAACP has threatened xAI with a lawsuit over unpermitted gas turbines at Memphis AI data center, citing pollution concerns."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Elon Musk\u2019s X will soon launch investment and trading features as part of \u2018everything app\u2019 vision",
+      "link": "https://cryptobriefing.com/financial-services-expansion-elon-musk-x/",
+      "summary": "<p>Musk's X expansion into finance could redefine digital ecosystems, merging social media with financial services, impacting user engagement.</p> <p>"
+    },
     {
       "title": "Binance co-founder calls for crypto platforms to implement \u2018will function\u2019 for asset inheritance",
       "link": "https://cryptobriefing.com/crypto-inheritance-tools-platforms/",
@@ -181,14 +186,14 @@
       "title": "US DOJ seeks to forfeit $225 million in crypto from global scam network",
       "link": "https://cryptobriefing.com/crypto-scam-forfeiture-seizure/",
       "summary": "<p>The DOJ's action highlights the increasing need for robust international cooperation and advanced digital forensics in combating crypto fraud.</p> <p>"
-    },
-    {
-      "title": "Bitcoin stays resilient ahead of Fed meeting as investors await policy signals",
-      "link": "https://cryptobriefing.com/bitcoin-resilient-ahead-fed-meeting/",
-      "summary": "<p>Bitcoin's resilience amid Fed uncertainty highlights its potential as a hedge, but future rate signals could impact broader market liquidity.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Biggest crypto bust yet! \u2013 DOJ seizes $225M, 400 victims affected",
+      "link": "https://ambcrypto.com/biggest-crypto-bust-yet-doj-seizes-225m-400-victims-affected/",
+      "summary": "<img alt=\"DOJ crypto\" class=\"attachment-full size-full wp-post-image\" height=\"821\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/DOJ-crypto.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1459\" />U.S. authorities seized $225 million in Tether USDT from crypto scammers, aiming to reimburse victims."
+    },
     {
       "title": "Aerodome Finance: 3 reasons why AERO\u2019s 20% rally may not last",
       "link": "https://ambcrypto.com/aerodome-finance-3-reasons-why-aeros-20-rally-may-not-last/",
@@ -208,11 +213,6 @@
       "title": "Crypto in war crisis? Not Bitcoin \u2013 Here\u2019s how BTC is holding up",
       "link": "https://ambcrypto.com/crypto-in-war-crisis-not-bitcoin-heres-how-btc-is-holding-up/",
       "summary": "<img alt=\"bitcoin war crypto\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-34.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Geopolitical panic wiped out $200 billion, but ETFs and calm heads kept crypto grounded."
-    },
-    {
-      "title": "GENIUS Act \u2013 Trump urges U.S. House to fast-track \u2018incredible\u2019 bill",
-      "link": "https://ambcrypto.com/genius-act-trump-urges-u-s-house-to-fast-track-incredible-bill/",
-      "summary": "<img alt=\"Stablecoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/StablecoinGeniusActTrump.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Mastercard and Visa stocks dumped after passage of the Senate's stablecoin bill."
     }
   ]
 }
