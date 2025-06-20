@@ -1,6 +1,6 @@
 ---
 title: "Weekend Crypto Preview: This Week’s Headlines and My Weekend Watchlist"
-date: 2025-06-27T09:00:00-05:00
+date: 2025-06-20T00:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "A casual wrap of this week’s crypto action—macro news, price moves, and what I’m eyeing over the weekend."
