@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Arizona Moves Closer to Creating Bitcoin Reserve as Bill Passes Final Senate Vote",
+      "link": "https://www.coindesk.com/policy/2025/06/20/arizona-moves-closer-to-creating-bitcoin-reserve-as-bill-passes-final-senate-vote",
+      "summary": ""
+    },
+    {
       "title": "North Korean Hackers Are Targeting Top Crypto Firms With Malware Hidden in Job Applications",
       "link": "https://www.coindesk.com/tech/2025/06/20/north-korean-hackers-are-targeting-top-crypto-firms-with-malware-hidden-in-job-applications",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Bitcoin Steady Above $104K as Traders Eye Historically Bullish Second Half",
       "link": "https://www.coindesk.com/markets/2025/06/20/bitcoin-steady-above-104k-as-traders-eye-historically-bullish-second-half",
       "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: CryptoQuant Warns of $92K BTC Drop as Analyst Views Diverge",
-      "link": "https://www.coindesk.com/markets/2025/06/19/asia-morning-briefing-cryptoquant-warns-of-92k-btc-drop-as-analyst-views-diverge",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Blockdaemon launches non-custodial staking and DeFi stack for institutions",
+      "link": "https://cointelegraph.com/news/blockdaemon-launches-non-custodial-staking-defi-stack-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTRiZmQtNDE1ZS03ZmM4LWIxOGUtZmQxMTE0NjU3ODRi.jpg\" /></p><p>Blockdaemon has launched Earn Stack, a non-custodial institutional service that delivers DeFi yield farming and PoS staking across more than 50 protocols.</p>"
+    },
+    {
+      "title": "Bitcoin grabs $106K liquidity as whale longs BTC with $255M",
+      "link": "https://cointelegraph.com/news/bitcoin-grabs-106k-liquidity-as-whale-longs-btc-with-255m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkZDMtY2JlOS03ZWI3LTkwN2MtZGVmOThmMjdkMDZi.jpg\" /></p><p>Bitcoin sees a giant leveraged long liquidate late shorts, but is it enough to spark the BTC price range exit that traders have wanted?</p>"
+    },
     {
       "title": "TikTok denies TRUMP memecoin buys in reply to congressman\u2019s accusations",
       "link": "https://cointelegraph.com/news/tiktok-denies-trump-memecoin-buy-brad-sherman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Texas cops cut open crypto ATM to recover $25K lost to scam",
       "link": "https://cointelegraph.com/news/texas-police-open-crypto-atm-family-scam-funds-bitcoin-community-question-decision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY3YTMtODAyYy03YzI4LWE4M2ItMmM1ZDgyZDQzZDIx.jpg\" /></p><p>Pictures show a Texas sheriff\u2019s department taking a power-cutting tool to a crypto ATM after a family reportedly used it to pay a scammer.</p>"
-    },
-    {
-      "title": "Politicians\u2019 memecoins, dropped court cases fuel crypto \u2018crime supercycle\u2019",
-      "link": "https://cointelegraph.com/news/crypto-crime-supercycle-memecoins-scams-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhiY2QtYjllZC03Y2M5LWEyODQtZGI2ZjdjM2IwMTQw.jpg\" /></p><p>Blockchain sleuths ZachXBT and Taylor Monahan say crypto scammers have been emboldened with US regulators dropping crypto-related court cases and politicians endorsing memecoins.</p>"
-    },
-    {
-      "title": "Apple eyes generative AI to speed up custom chip design: Report",
-      "link": "https://cointelegraph.com/news/apple-mulls-ai-quickly-design-chips-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzUyODgtZTZlOS03YjYzLWEwYTAtN2U0YWI5NGVhYTQ0.jpg\" /></p><p>Apple may use generative AI to streamline chip design, building on years of AI-driven workflows with help from key EDA partners, Reuters reports.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Semler\u2019s $11B Bitcoin bet. Can the tiny med-tech firm become the next Strategy?",
+      "link": "https://cryptoslate.com/semlers-11b-bitcoin-bet-can-the-tiny-med-tech-firm-become-the-next-strategy/",
+      "summary": "<p>Semler Scientific, the previously obscure medical device maker, has unveiled plans to acquire a staggering 105,000 BTC by the end of 2027. Its ambition would make Semler the second-largest corporate Bitcoin holder in the world, behind only Strategy (formerly MicroStrategy). The announcement, made on June 20, sent Semler\u2019s shares soaring nearly 12% in pre-market trading, [&#8230;]</p> <p>"
+    },
     {
       "title": "Arizona revives bid for seized crypto reserve fund through House Bill 2324",
       "link": "https://cryptoslate.com/arizona-revives-bid-for-seized-crypto-reserve-fund-through-house-bill-2324/",
@@ -73,11 +78,6 @@
       "title": "Elon Musk\u2019s X accelerates fintech pivot with plans for in-app payments and trading",
       "link": "https://cryptoslate.com/elon-musks-x-accelerates-fintech-pivot-with-plans-for-in-app-payments-and-trading/",
       "summary": "<p>X (formerly known as Twitter) is ramping up efforts to integrate financial services directly into its ecosystem and moving beyond its roots in social networking, the Financial Times reported on June 19. According to the report, the social media giant is preparing to let users carry out a wide range of financial transactions within the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Trump family cuts stake in World Liberty Financial by 20%",
-      "link": "https://cryptoslate.com/trump-family-cuts-stake-in-world-liberty-financial-by-20/",
-      "summary": "<p>President Donald Trump&#8217;s family has reduced its stake in World Liberty Financial (WLFI) in the last couple of weeks, Forbes reported on June 20. DT Marks DEFI LLC, the Trump family\u2019s main holding company for the project, has trimmed its ownership from 75% in December 2024 to about 60% by January and further down to [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "XRP price poised for breakout? Analyst reveals 4 key bullish signals",
+      "link": "https://ambcrypto.com/xrp-price-poised-for-breakout-analyst-reveals-4-key-bullish-signals/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-1-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP is a coiled spring: Strong support, tight bands, calm leverage, and profit-taking cleared."
+    },
+    {
       "title": "Gate Releases May 2025 Transparency Report: Brand Revamp Ignites Strategic Acceleration",
       "link": "https://ambcrypto.com/gate-releases-may-2025-transparency-report-brand-revamp-ignites-strategic-acceleration/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"682\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-20-at-2.24.04 PM.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1230\" />Gate, a global leader in cryptocurrency trading, has released its May 2025 Transparency Report, revealing [&#8230;]"
@@ -208,11 +213,6 @@
       "title": "Optimism\u2019s addresses jump 28%, but can OP escape the $0.57 trap?",
       "link": "https://ambcrypto.com/optimisms-addresses-jump-28-but-can-op-escape-the-0-57-trap/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-19T164108.293-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />OP\u2019s user activity surges, but price remains uncertain near key support."
-    },
-    {
-      "title": "Arbitrum: Is a 40% drop on the way? What to expect as bulls fight for $0.3",
-      "link": "https://ambcrypto.com/arbitrum-is-a-40-drop-on-the-way-what-to-expect-as-bulls-fight-for-0-3/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/ARB-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The overwhelming selling pressure recently, combined with BTC volatility, meant ARB short sellers should prepare to enter the market."
     }
   ]
 }
