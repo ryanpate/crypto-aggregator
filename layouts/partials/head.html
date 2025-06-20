@@ -1,6 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="preload" as="image" href="/banner.png" />
   <script async 
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777"
     crossorigin="anonymous">
@@ -9,6 +10,7 @@
   {{ block "title" . }}
     <title>{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}</title>
   {{ end }}
+  <link rel="canonical" href="{{ .Permalink }}" />
   {{/* Meta description block */}}
   {{ block "description" . }}
     <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
@@ -17,7 +19,9 @@
   {{ block "keywords" . }}
     <meta name="keywords" content="{{ if .Params.keywords }}{{ .Params.keywords }}{{ else }}cryptocurrency, crypto news, Bitcoin, Ethereum, altcoins, blockchain, DeFi, NFTs, crypto blog{{ end }}" />
   {{ end }}
+  <meta name="author" content="{{ with .Params.author }}{{ .Params.author }}{{ else }}BlockWireNews Team{{ end }}" />
   <!-- Open Graph -->
+  <meta property="og:locale" content="en_US" />
   <meta property="og:site_name" content="BlockWireNews" />
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
   <meta property="og:title" content="{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}" />
@@ -29,6 +33,8 @@
   <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}" />
   <meta name="twitter:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.png{{ end }}" />
+  <meta name="twitter:site" content="@BlockWireNews" />
+  <meta name="twitter:creator" content="{{ with .Params.author }}@{{ .Params.author }}{{ else }}@BlockWireNews{{ end }}" />
   <meta name="google-adsense-account" content="ca-pub-5523870768931777">
   <!-- …other head tags (CSS, favicon)… -->
   {{ partial "structureddata.html" . }}
