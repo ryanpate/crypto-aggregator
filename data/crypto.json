@@ -1,36 +1,41 @@
 {
   "CoinDesk": [
     {
+      "title": "KindlyMD Raises Another $51.5M for Bitcoin Treasury Strategy",
+      "link": "https://www.coindesk.com/markets/2025/06/20/kindlymd-raises-another-515m-for-bitcoin-treasury-strategy",
+      "summary": ""
+    },
+    {
+      "title": "A South Korean Biotech Firms Gets $183.3M Funding to Build Bitcoin Treasury",
+      "link": "https://www.coindesk.com/business/2025/06/20/a-south-korean-biotech-firms-gets-1833m-funding-to-build-bitcoin-treasury",
+      "summary": ""
+    },
+    {
+      "title": "Coinbase Wins European MiCA License in Luxembourg",
+      "link": "https://www.coindesk.com/policy/2025/06/20/coinbase-wins-european-mica-license-in-luxembourg",
+      "summary": ""
+    },
+    {
+      "title": "ATOM Breaks $4 Resistance as Volume Surges 3%",
+      "link": "https://www.coindesk.com/markets/2025/06/20/atom-breaks-usd4-resistance-as-volume-surges-3",
+      "summary": ""
+    },
+    {
       "title": "TON Breaks $3 Barrier Amid Surging Volume, Riding Telegram's Growth",
       "link": "https://www.coindesk.com/markets/2025/06/20/ton-breaks-usd3-barrier-amid-surging-volume-riding-telegram-s-growth",
-      "summary": ""
-    },
-    {
-      "title": "Polkadot's DOT Bounces 4% After Forming Triple Bottom at $3.47 Support Level",
-      "link": "https://www.coindesk.com/markets/2025/06/20/polkadots-dot-bounces-4-after-forming-triple-bottom-at-347-support-level",
-      "summary": ""
-    },
-    {
-      "title": "CoinDesk 20 Performance Update:  AAVE Gains 3.5% as Index Trades Higher From Thursday",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/06/20/coindesk-20-performance-update-aave-gains-3-5-as-index-trades-higher-from-thursday",
-      "summary": ""
-    },
-    {
-      "title": "Thai SEC Consults on Rules Allowing Exchanges to Offer Utility Tokens",
-      "link": "https://www.coindesk.com/policy/2025/06/20/thai-sec-consults-on-rules-allowing-exchanges-to-offer-utility-tokens",
-      "summary": ""
-    },
-    {
-      "title": "Crypto Daybook Americas: Bitcoin Buoyed by Trump, but Analysts Eye $92K Risk",
-      "link": "https://www.coindesk.com/daybook-us/2025/06/20/crypto-daybook-americas-bitcoin-buoyed-by-trump-but-analysts-eye-usd92k-risk",
       "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin price &#039;trending back&#039; but new highs before July unlikely: Analysis",
+      "link": "https://cointelegraph.com/news/bitcoin-price-trending-back-new-highs-before-july-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFlYjItZTUzZi03NzlkLWJmMzMtNmUzZDRjZDYzOGU1.jpg\" /></p><p>Bitcoin\u2019s open interest divergence and a cleansing of latecomer longs could set BTC price on track toward fresh all-time highs.</p>"
+    },
+    {
       "title": "Bitcoin price slips under $104K into &#039;triple witching&#039; options expiry",
       "link": "https://cointelegraph.com/news/bitcoin-price-slips-under-104k-into-triple-witching-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlNjQtZTBiNi03NTNmLWFhNDEtYWFmNzhjZjhjODI2.jpg\" /></p><p>Bitcoin bulls attempt to reclaim daily moving averages while volatility warnings come before a unique options expiry event for TradFi markets.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhkZjQtZjRlNy03ZmFmLWIyNmQtZDljNDM5YmEzYTA2.jpg\" /></p><p>Bitcoin bulls attempt to reclaim daily moving averages while volatility warnings come before a unique options expiry event for TradFi markets.</p>"
     },
     {
       "title": "High risk, high reward: Crypto perpetual futures gain momentum in US",
@@ -46,14 +51,14 @@
       "title": "Korean biotech firm bought by Parataxis for Bitcoin treasury use",
       "link": "https://cointelegraph.com/news/parataxis-bitcoin-treasury-south-korea-bridge-bio-stock-20?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNiMWEtNDQ3Mi03MzMxLTg0ZmYtZDBiNWY0MzJhNTNh.jpg\" /></p><p>Parataxis will launch a Bitcoin-native treasury platform in South Korea via Bridge Bio, aiming to expand institutional access to BTC despite regulatory barriers.</p>"
-    },
-    {
-      "title": "$330K Bitcoin block win: How one solo miner outsmarted the odds",
-      "link": "https://cointelegraph.com/explained/330k-bitcoin-block-win-how-one-solo-miner-outsmarted-the-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MDNmNzkxOWZmZDQzMmI0MmMyMGVmYzI1NzM2ZDUwMi5qcGc=.jpg\" /></p><p>Against 1 in 3,000 odds, a solo miner used a short burst of rented hash power to win a $330,000 Bitcoin block, proving that strategy can still beat scale in today\u2019s mining landscape.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "TikTok clashes with US congressman over alleged $300M TRUMP token bribe",
+      "link": "https://cryptoslate.com/tiktok-clashes-with-us-congressman-over-alleged-300m-trump-token-bribe/",
+      "summary": "<p>TikTok has publicly denied allegations that it bought $300 million worth of TRUMP memecoins to sway US President Donald Trump. The company addressed the claims on June 19 in a post on X, labeling the accusation &#8220;false and irresponsible&#8221; and aimed at misrepresenting its actions. The statement followed comments by US Congressman Brad Sherman, who [&#8230;]</p> <p>"
+    },
     {
       "title": "Crypto funding soars past $1.5 billion in June with Circle IPO boost",
       "link": "https://cryptoslate.com/crypto-funding-soars-past-1-5-billion-in-june-with-circle-ipo-boost/",
@@ -73,11 +78,6 @@
       "title": "You\u2019re Hired! North Korea\u2019s new crypto scam starts with a job offer",
       "link": "https://cryptoslate.com/north-korea-leverages-fake-job-offers-and-deep%e2%80%91fakes-to-infiltrate-crypto-developer-networks/",
       "summary": "<p>A new wave of cyberattacks shows the DPRK is exploiting the crypto industry&#8217;s recruitment funnel, using fake LinkedIn job offers, deep\u2011fake Zoom calls, and backdoored interview files to access Web3 developers\u2019 wallets and repositories. With seasoned developer talent already thinning and open\u2011source protocols increasingly reliant on individual contributors, the stakes have never been higher. North [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Semler\u2019s $11B Bitcoin bet. Can the tiny med-tech firm become the next Strategy?",
-      "link": "https://cryptoslate.com/semlers-11b-bitcoin-bet-can-the-tiny-med-tech-firm-become-the-next-strategy/",
-      "summary": "<p>Semler Scientific, the previously obscure medical device maker, has unveiled plans to acquire a staggering 105,000 BTC by the end of 2027. Its ambition would make Semler the second-largest corporate Bitcoin holder in the world, behind only Strategy (formerly MicroStrategy). The announcement, made on June 20, sent Semler\u2019s shares soaring nearly 12% in pre-market trading, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,16 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "Parataxis Holdings to Create South Korea\u2019s First Bitcoin Treasury Company",
+      "link": "https://bitcoinmagazine.com/news/parataxis-holdings-to-create-south-koreas-first-bitcoin-treasury-company",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/New-York-based-investment-firm-Parataxis-enters-definitive-agreement-to-transform-Korean-biotech-company-into-institutional-Bitcoin-platform.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/parataxis-holdings-to-create-south-koreas-first-bitcoin-treasury-company\" rel=\"nofollow\">Parataxis Holdings to Create South Korea&#8217;s First Bitcoin Treasury Company </a></p> <p>Parataxis Holdings LLC has entered into a definitive agreement to acquire a controlling interest in South Korean biotech company Bridge Biotherapeutics, Inc. (KOSDAQ: 288330) for KRW 25 billion ($18.3 million), marking the creation of South Korea&#8217;s first institutionally backed Bitcoin treasury company.&#160; The transaction will see Bridge Biotherapeutics renamed to Parataxis Korea and continue trading [&#8230;]</p> <p>"
+    },
+    {
+      "title": "KindlyMD Secures $51.5M to Accelerate Its Bitcoin Treasury Strategy",
+      "link": "https://bitcoinmagazine.com/news/kindlymd-secures-51-5m-to-accelerate-its-bitcoin-treasury-strategy",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KindlyMD-Secures-51.5M-to-Accelerate-Its-Bitcoin-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kindlymd-secures-51-5m-to-accelerate-its-bitcoin-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>KindlyMD secures a total of $763M as it prepares to merge with Bitcoin-native Nakamoto Holdings to build one of the largest public Bitcoin treasuries.</p> <p>"
+    },
+    {
       "title": "BitBox Announces BitBox02 Nova, A New Hardware Wallet For Bitcoin",
       "link": "https://bitcoinmagazine.com/news/bitbox-announces-bitbox02-nova-a-new-hardware-wallet-for-bitcoin",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/BitBox-Announces-BitBox02-Nova-A-New-Hardware-Wallet-For-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitbox-announces-bitbox02-nova-a-new-hardware-wallet-for-bitcoin\" rel=\"nofollow\"> </a></p> <p>BitBox's latest wallet introduces iOS support, Bluetooth isolation, and hardware security for Bitcoin self-custody.</p> <p>"
@@ -122,43 +132,33 @@
       "title": "The CLARITY Act Shouldn\u2019t Be Included in the GENIUS Act Say Senator Hagerty, Analysts",
       "link": "https://bitcoinmagazine.com/politics/the-clarity-act-shouldnt-be-included-in-the-genius-act-say-senator-hagerty-analysts",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Senator-Hagerty-GENIUS-Act-and-CLARITY-Act.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/politics/the-clarity-act-shouldnt-be-included-in-the-genius-act-say-senator-hagerty-analysts\" rel=\"nofollow\"> </a></p> <p>Senator Bill Hagerty (R-TN), the main sponsor for the GENIUS Act, and policy analysts from the Bitcoin Policy Institute and Galaxy Digital believe that combining the GENIUS Act with the CLARITY Act as the former heads to the House floor for a vote will lower the likelihood of it passing.</p> <p>"
-    },
-    {
-      "title": "Forecasting Bitcoin Price Cycle Peak with the 200-Week Moving Average",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-200-week-moving-average",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Forecasting-Bitcoin-Price-Cycle-Peak-with-the-200-Week-Moving-Average.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-200-week-moving-average\" rel=\"nofollow\"> </a></p> <p>Learn how the 200WMA and Mayer Multiple forecast a $220,000 Bitcoin price by mid-2026, reshaping cycle expectations.</p> <p>"
-    },
-    {
-      "title": "How Bitcoin Reduces Counterparty Risk in Corporate Treasury Strategy",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/how-bitcoin-reduces-counterparty-risk-in-corporate-treasury-strategy",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/How-Bitcoin-Reduces-Counterparty-Risk-in-Corporate-Treasury-Strategy.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-for-corporations/how-bitcoin-reduces-counterparty-risk-in-corporate-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Bitcoin gives corporate treasuries direct access to capital that is immune to counterparty risk, financial censorship, and systemic collapse.</p> <p>"
     }
   ],
   "Decrypt": [
     {
+      "title": "China to Restore Classic Bruce Lee, Jackie Chan and Jet Li Movies Using AI",
+      "link": "https://decrypt.co/326252/china-to-restore-classic-bruce-lee-jackie-chan-and-jet-li-movies-using-ai",
+      "summary": "China invests $14M in AI to restore 100 classic kung fu films, reviving Bruce Lee and Jackie Chan movies for global cultural influence."
+    },
+    {
+      "title": "CRYPTO EDGES HIGHER, TRUMP FAMILY REDUCES WLFI STAKE, PUMPFUN TOKEN DELAYED!",
+      "link": "https://decrypt.co/videos/interviews/qPEdhutt/crypto-edges-higher-trump-family-reduces-wlfi-stake-pumpfun-token-delayed",
+      "summary": "FOMO HOUR LIVE ON DEGENZ. Degenz Live is the only content you need for crypto, macro, trading, gambling and risk-taking. Powered by MYRIAD MARKETS, REKT BRANDS and YEET CASINO. Crypto edges higher on volatile macro. Circle continues to push higher after GENIUS Act. Arizona passes crypto reserve bill. BTC buying surges in Japan as JPY hedge. Semler Scientific plans to buy 105k BTC in 3 years. Revolut considers its own stablecoin. Trump family reduces WLFI stake to 40%. Animoca, StanChart, HKT to collab for stablecoin. TRON flips DOGE market cap. Visa expands stablecoin to EMEA. Kraken debuts BTC staking. Fake OTC rounds see $50m stolen. Tether proposes fix to password exploits. 00:00 - Intro 01:30 - NBA going to a Game 7 02:00 - What's on todays show 03:52 - Mandos Market Report 06:27 - Iran/US news and the markets 10:38 - CRCL stocks still moving 12:00 - Trump reduces stake in WLFI 12:55 - Are we going to chop? 17:20 - BTC/ETH charts 19:00 - PumpFun Token Delayed 21:30 - Hyperliquid 25:58 - Digging into the CRCL trade 32:30 - Sharplink Gaming 34:55 - Gorbagana meme runs to $40M 37:52 - Trump WLFi tylers thoughts 40:00 - OSF and Rekt sell out 7/11 launch 42:08 - Yeet Giveaway! LINKS https://x.com/DegenzLive https://linktr.ee/DegenzLive https://kick.com/degenzlive https://www.instagram.com/degenzlive https://creators.spotify.com/pod/profile/degenzlive PARTNERS https://rekt.com/ https://yeet.com/ https://myriad.markets/ #bitcoin #crypto #trading #news #gambling"
+    },
+    {
+      "title": "Tokenized Assets \u2018Expand Participation in Equity\u2019 and Bring Wall Street On-Chain: Exodus",
+      "link": "https://decrypt.co/326237/tokenized-assets-expand-participation-in-equity-and-bring-wall-street-on-chain-exodus",
+      "summary": "Blockchain paves the way for 24/7 trades and lightning-fast settlement, the self-custodial crypto platform told ."
+    },
+    {
+      "title": "Bitcoin Holds Ground as Fed\u2019s Waller Calls for July Rate Cut",
+      "link": "https://decrypt.co/326241/bitcoin-holds-ground-as-feds-waller-calls-for-july-rate-cut",
+      "summary": "Fed futures traders penciled in a 14% chance that the U.S. central bank would cut rates in July on Friday."
+    },
+    {
       "title": "USDC Issuer Circle Spikes After Wall Street Firm Initiates With Buy Rating",
       "link": "https://decrypt.co/326235/usdc-issuer-circle-spikes-buy-rating",
       "summary": "Circle stock jumps 14% as stablecoin legislation passes Senate and Wall Street analyst predicts $2T market growth for the USDC issuer."
-    },
-    {
-      "title": "\u2018Users Need Safety\u2019: Former SpaceX Manager Raises $4.2M for Crypto Platform Stackup",
-      "link": "https://decrypt.co/325910/crypto-users-need-safety-former-spacex-manager-4-2-million-stackup",
-      "summary": "Using account abstraction, businesses can avoid catastrophic failures on-chain, said Stackup co-founder and CEO John Rising."
-    },
-    {
-      "title": "Former Celsius CEO Alex Mashinsky Forfeits All Claims to Bankruptcy Proceeds",
-      "link": "https://decrypt.co/326227/former-celsius-ceo-alex-mashinsky-forfeits-all-claims-to-bankruptcy-proceeds",
-      "summary": "The agreement blocks Mashinsky from receiving any recovery in the Celsius bankruptcy, allowing for more funds to be distributed to creditors."
-    },
-    {
-      "title": "TikTok Hits Back At Congressman's '$300 Million Bribe' Accusation Over Trump Meme Coin",
-      "link": "https://decrypt.co/326219/tiktok-hits-back-at-congressmans-300-million-bribe-accusation-over-trump-meme-coin",
-      "summary": "Congressman Brad Sherman accused TikTok's owners of bribing President Trump by purchasing his official meme coin."
-    },
-    {
-      "title": "SEC Thailand Opens Public Consultation on Crypto Listing Criteria",
-      "link": "https://decrypt.co/326194/sec-thailand-public-consultation-crypto-listing-criteria",
-      "summary": "Thailand's SEC has opened public feedback on new rules letting exchanges list self-issued tokens, with stronger disclosure requirements."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Is your crypto security at risk after the leak of 16 billion logins?",
+      "link": "https://ambcrypto.com/is-your-crypto-security-at-risk-after-the-leak-of-16-billion-logins/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"756\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Crypto-security-at-risk.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1344\" />Cisco Talos warned against a targeted crypto malware campaign using Python-based trojans."
+    },
+    {
       "title": "FARTCOIN sees a $2.3 mln whale dump: Is a deeper correction coming?",
       "link": "https://ambcrypto.com/fartcoin-sees-a-2-3-mln-whale-dump-is-a-deeper-correction-coming/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-20T093749.152-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN faces growing bearish pressure despite technical support."
@@ -208,11 +213,6 @@
       "title": "Bitwise CEO warns of Bitcoin\u2019s \u2018next obstacle over the coming quarters\u2019",
       "link": "https://ambcrypto.com/bitwise-ceo-warns-of-bitcoins-next-obstacle-over-the-coming-quarters/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-FIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Gold ETF inflows dropped 50% from $30B to $15B while BTC recovered up to $10B."
-    },
-    {
-      "title": "OKB hits $54.7 after 42.4 mln token burn \u2013 Can it break through $56?",
-      "link": "https://ambcrypto.com/okb-hits-54-7-after-42-4-mln-token-burn-can-it-break-through-56/",
-      "summary": "<img alt=\"OKB hits $54.7 after 42.4 mln token burn - Can it break through $56?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-1-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />OKB surges to a monthly high as OKX burns 42.4 million tokens, incentivizing whale comeback."
     }
   ]
 }
