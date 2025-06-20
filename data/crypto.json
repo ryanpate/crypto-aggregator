@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Wyoming stablecoin commission names Aptos highest-ranking blockchain",
+      "link": "https://cointelegraph.com/news/wyoming-stablecoin-pilot-aptos-sei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlN2MtYjBiMS03ZDNlLTg1OTItNDJiNjIyNGY0ZTg4.jpg\" /></p><p>The commission evaluated more than 10 blockchains, including Ethereum, Avalanche, Sui, Stellar and Polygon.</p>"
+    },
+    {
       "title": "Price predictions 6/20: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH, SUI",
       "link": "https://cointelegraph.com/news/price-predictions-6-20-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlNTQtOGM5Yi03ZDE5LTlkMmQtYzg1YjZkMGEyOTAw.jpg\" /></p><p>Bitcoin\u2019s sell-off is accelerating, and most altcoins are following BTC\u2019s path. Will traders buy the dips?</p>"
@@ -46,16 +51,16 @@
       "title": "Bitcoin should hold $100K as Q3 seasonality predicts sideways trading",
       "link": "https://cointelegraph.com/news/bitcoin-capped-at-100k-if-q3-seasonal-data-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhkZTctNGQzZi03MmQzLWJjYzUtZjE3ZmRlM2Y0ZGNk.jpg\" /></p><p>Bitcoin may hold above $100,000 throughout summer, but seasonal trading data suggests minimal upside in Q3.</p>"
-    },
-    {
-      "title": "Uber pitches AI labeling services following Meta\u2019s Scale acquisition \u2014 Report",
-      "link": "https://cointelegraph.com/news/uber-ai-data-labeling-meta-scale-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlMTAtMDYxMi03NzkwLWFhNjYtNDBlY2VmNDNjY2Yz.jpg\" /></p><p>The ride-hailing giant has reportedly offered AI \u201ccoders for hire\u201d since at least November.</p>"
     }
   ],
   "CryptoSlate": [
     {
-      "title": "Bitcoin\u2019s falls to monthly lows triggering $464 million in liquidations amid global market jitters",
+      "title": "Coinbase secures MiCA approval, shifts headquarters to Luxembourg",
+      "link": "https://cryptoslate.com/coinbase-secures-mica-approval-shifts-headquarters-to-luxembourg/",
+      "summary": "<p>Coinbase, the largest US-based exchange, has taken a major step in its global expansion by securing approval under the European Union\u2019s Markets in Crypto-Assets (MiCA) regulation, according to a June 20 statement. The exchange confirmed that Luxembourg\u2019s financial watchdog, the Commission de Surveillance du Secteur Financier (CSSF), granted it the necessary license to operate across the [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bitcoin falls to monthly lows triggering $464 million in liquidations amid global market jitters",
       "link": "https://cryptoslate.com/bitcoins-falls-to-monthly-lows-triggering-464-million-in-liquidations-amid-global-market-jitters/",
       "summary": "<p>Bitcoin (BTC) fell to its lowest price this month on June 20, triggering $464 million in liquidations across cryptocurrency markets as geopolitical jitters and heavy selling pressure rattled traders. Bitcoin dropped to a low of $102,225, reversing the gains recorded earlier in the day after failing to break through resistance above $106,000. Data from Coinglass [&#8230;]</p> <p>"
     },
@@ -73,11 +78,6 @@
       "title": "TikTok clashes with US congressman over alleged $300M TRUMP token bribe",
       "link": "https://cryptoslate.com/tiktok-clashes-with-us-congressman-over-alleged-300m-trump-token-bribe/",
       "summary": "<p>TikTok has publicly denied allegations that it bought $300 million worth of TRUMP memecoins to sway US President Donald Trump. The company addressed the claims on June 19 in a post on X, labeling the accusation &#8220;false and irresponsible&#8221; and aimed at misrepresenting its actions. The statement followed comments by US Congressman Brad Sherman, who [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Crypto funding soars past $1.5 billion in June with Circle IPO boost",
-      "link": "https://cryptoslate.com/crypto-funding-soars-past-1-5-billion-in-june-with-circle-ipo-boost/",
-      "summary": "<p>Venture capital activity in the crypto space has seen a significant rebound this month, with total investments crossing $1.5 billion by June 20, according to DeFiLlama data. This marks the strongest monthly performance since March 2025 and signals growing confidence in blockchain startups after a quieter second quarter. The raised funds are more than double [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "What Happens to Bitcoin When Quantum Computers Arrive?",
+      "link": "https://bitcoinmagazine.com/technical/what-happens-to-bitcoin-when-quantum-computers-arrive",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/ChaincodeReportHeader-fotor-20250620123039.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/what-happens-to-bitcoin-when-quantum-computers-arrive\" rel=\"nofollow\"> </a></p> <p>A high level overview of the recent report by Chaincode Labs on the threat quantum computing poses to Bitcoin. </p> <p>"
+    },
+    {
       "title": "Coinbase Secures MiCA License to Serve 450 Million Europeans",
       "link": "https://bitcoinmagazine.com/news/coinbase-secures-mica-license-to-serve-450-million-europeans",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Coinbase.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/coinbase-secures-mica-license-to-serve-450-million-europeans\" rel=\"nofollow\"> </a></p> <p>Coinbase has obtained its Markets in Crypto Assets (MiCA) license from Luxembourg&#8217;s Commission de Surveillance du Secteur Financier (CSSF), marking a significant regulatory milestone that enables them to offer its complete range of services across all 27 European Union member states. The license allows Coinbase to serve approximately 450 million Europeans under a unified regulatory [&#8230;]</p> <p>"
@@ -127,14 +132,19 @@
       "title": "KindlyMD Secures $51.5M to Accelerate Its Bitcoin Treasury Strategy",
       "link": "https://bitcoinmagazine.com/news/kindlymd-secures-51-5m-to-accelerate-its-bitcoin-treasury-strategy",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/KindlyMD-Secures-51.5M-to-Accelerate-Its-Bitcoin-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kindlymd-secures-51-5m-to-accelerate-its-bitcoin-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>KindlyMD secures a total of $763M as it prepares to merge with Bitcoin-native Nakamoto Holdings to build one of the largest public Bitcoin treasuries.</p> <p>"
-    },
-    {
-      "title": "BitBox Announces BitBox02 Nova, A New Hardware Wallet For Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/bitbox-announces-bitbox02-nova-a-new-hardware-wallet-for-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/BitBox-Announces-BitBox02-Nova-A-New-Hardware-Wallet-For-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitbox-announces-bitbox02-nova-a-new-hardware-wallet-for-bitcoin\" rel=\"nofollow\"> </a></p> <p>BitBox's latest wallet introduces iOS support, Bluetooth isolation, and hardware security for Bitcoin self-custody.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Texas Sheriffs Crack Bitcoin ATM With Power Tools to Retrieve $32,000",
+      "link": "https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000",
+      "summary": "Jasper County Sheriff Chuck Havard told that authorities have likely accessed the machines before."
+    },
+    {
+      "title": "Bitcoin Cools, But Forks Are on Fire as BCH and BSV Torch the Charts: Analysis",
+      "link": "https://decrypt.co/326281/bitcoin-cools-forks-fire-bch-bsv-torch-charts-analysis",
+      "summary": "While Bitcoin dozes near $103K, Bitcoin Cash and Bitcoin SV are on the rise, upstaging the flagship coin as traders chase double-digit gains."
+    },
     {
       "title": "Myriad Moves: Will Bitcoin Set a New All-Time High? Plus Strategy and PENGU Predictions",
       "link": "https://decrypt.co/326273/myriad-moves-bitcoin-all-time-high-strategy-pengu",
@@ -149,16 +159,6 @@
       "title": "CRYPTO EDGES HIGHER, TRUMP FAMILY REDUCES WLFI STAKE, PUMPFUN TOKEN DELAYED!",
       "link": "https://decrypt.co/videos/interviews/qPEdhutt/crypto-edges-higher-trump-family-reduces-wlfi-stake-pumpfun-token-delayed",
       "summary": "FOMO HOUR LIVE ON DEGENZ. Degenz Live is the only content you need for crypto, macro, trading, gambling and risk-taking. Powered by MYRIAD MARKETS, REKT BRANDS and YEET CASINO. Crypto edges higher on volatile macro. Circle continues to push higher after GENIUS Act. Arizona passes crypto reserve bill. BTC buying surges in Japan as JPY hedge. Semler Scientific plans to buy 105k BTC in 3 years. Revolut considers its own stablecoin. Trump family reduces WLFI stake to 40%. Animoca, StanChart, HKT to collab for stablecoin. TRON flips DOGE market cap. Visa expands stablecoin to EMEA. Kraken debuts BTC staking. Fake OTC rounds see $50m stolen. Tether proposes fix to password exploits. 00:00 - Intro 01:30 - NBA going to a Game 7 02:00 - What's on todays show 03:52 - Mandos Market Report 06:27 - Iran/US news and the markets 10:38 - CRCL stocks still moving 12:00 - Trump reduces stake in WLFI 12:55 - Are we going to chop? 17:20 - BTC/ETH charts 19:00 - PumpFun Token Delayed 21:30 - Hyperliquid 25:58 - Digging into the CRCL trade 32:30 - Sharplink Gaming 34:55 - Gorbagana meme runs to $40M 37:52 - Trump WLFi tylers thoughts 40:00 - OSF and Rekt sell out 7/11 launch 42:08 - Yeet Giveaway! LINKS https://x.com/DegenzLive https://linktr.ee/DegenzLive https://kick.com/degenzlive https://www.instagram.com/degenzlive https://creators.spotify.com/pod/profile/degenzlive PARTNERS https://rekt.com/ https://yeet.com/ https://myriad.markets/ #bitcoin #crypto #trading #news #gambling"
-    },
-    {
-      "title": "Tokenized Assets \u2018Expand Participation in Equity\u2019 and Bring Wall Street On-Chain: Exodus",
-      "link": "https://decrypt.co/326237/tokenized-assets-expand-participation-in-equity-and-bring-wall-street-on-chain-exodus",
-      "summary": "Blockchain paves the way for 24/7 trades and lightning-fast settlement, the self-custodial crypto platform told ."
-    },
-    {
-      "title": "Bitcoin Holds Ground as Fed\u2019s Waller Calls for July Rate Cut",
-      "link": "https://decrypt.co/326241/bitcoin-holds-ground-as-feds-waller-calls-for-july-rate-cut",
-      "summary": "Fed futures traders penciled in a 14% chance that the U.S. central bank would cut rates in July on Friday."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin\u2019s price, miners, and THIS volatility indicator \u2013 All the details!",
+      "link": "https://ambcrypto.com/bitcoins-price-miners-and-this-volatility-indicator-all-the-details/",
+      "summary": "<img alt=\"Bitcoin&#039;s price, miners, and THIS volatility indicator - All the details!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-2-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin's correlation with BTC miners has been falling sharply."
+    },
+    {
       "title": "PENDLE \u2013 Institutions, whales, and what the SEC\u2019s moves mean for DeFi",
       "link": "https://ambcrypto.com/pendle-institutions-whales-and-what-the-secs-moves-mean-for-defi/",
       "summary": "<img alt=\"PENDLE - Institutions, whales, and what the SEC&#039;s moves mean for DeFi\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-20T104742.962-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PENDLE\u2019s institutional inflows and growing network activity could be key."
@@ -208,11 +213,6 @@
       "title": "FARTCOIN sees a $2.3 mln whale dump: Is a deeper correction coming?",
       "link": "https://ambcrypto.com/fartcoin-sees-a-2-3-mln-whale-dump-is-a-deeper-correction-coming/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-20T093749.152-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN faces growing bearish pressure despite technical support."
-    },
-    {
-      "title": "Arizona revives controversial Bitcoin Reserve bill \u2013 Here\u2019s what it means for crypto seizures",
-      "link": "https://ambcrypto.com/arizona-revives-controversial-bitcoin-reserve-bill-heres-what-it-means-for-crypto-seizures/",
-      "summary": "<img alt=\"Arizona Revives Bitcoin Reserve Bill\" class=\"attachment-full size-full wp-post-image\" height=\"486\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Arizona-Revives-Bitcoin-Reserve-Bill.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"864\" />Arizona almost buried this bill, but a surprising Senate move brought it back. Now it\u2019s gaining serious traction."
     }
   ]
 }
