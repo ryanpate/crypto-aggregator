@@ -4,6 +4,15 @@ date: 2025-06-05T09:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "A laid-back recap of how the Trump-Musk feud shook crypto markets over the past couple days."
+keywords:
+  - "Trump Musk crypto feud"
+  - "crypto market volatility"
+  - "Bitcoin price fluctuation"
+  - "Ethereum market impact"
+  - "XRP crash analysis"
+  - "Dogecoin market reaction"
+  - "memecoin price movement"
+  - "political influence crypto"
 tags:
   - "crypto"
   - "politics"
@@ -18,7 +27,8 @@ tags:
   - "volatility"
 ---
 
-Hey, so the past couple days in crypto have felt like binge-watching a political thriller—except instead of *House of Cards*, it’s Trump and Musk duking it out on X, and our portfolios are caught in the crossfire. Here’s the lowdown:
+
+Hey, this **Trump Musk crypto feud** has unleashed extreme **crypto market volatility**, with **Bitcoin price fluctuation** and **Ethereum market impact** rippling through every exchange. We saw **memecoin price movement** explode—$Trump and Dogecoin faced wild swings—while **XRP crash analysis** and **Dogecoin market reactions** proved that **political influence crypto** can trigger unprecedented panic in mere hours. Here’s the lowdown:
 
 **Trump vs. Musk: When Billionaire Beef Meets Blockchain**  
 On June 5, Elon Musk went full keyboard warrior, ripping into Trump’s “One Big Beautiful Bill” (seriously, that’s the name) for gutting EV incentives. He even floated impeaching Trump and starting a new centrist party—bold moves for a guy who just left a White House advisory gig. Naturally, Trump retaliated by threatening to yank Musk’s federal contracts (you know, the ones fueling SpaceX and Tesla) and calling Musk “crazy.” Musk then dropped a bombshell, alleging Trump had ties to the Epstein files—again, via X—so you can imagine how civil this got.

@@ -4,6 +4,15 @@ date: 2025-06-17T00:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "Fresh off vacation, a light recap of this week’s crypto moves amid global headlines."
+keywords:
+  - "weekly crypto market analysis"
+  - "Bitcoin price volatility"
+  - "Ethereum safe haven asset"
+  - "XRP ETF regulatory update"
+  - "Polkadot developer summit highlights"
+  - "geopolitical crypto impact"
+  - "crypto portfolio strategy"
+  - "institutional Bitcoin buying"
 tags:
   - "crypto"
   - "weekly recap"
@@ -16,7 +25,7 @@ tags:
   - "Middle East"
 ---
 
-Hey gang, I’ve swapped my beach towel for a desk chair and—surprise—crypto’s still doing its roller-coaster thing. Here’s the quick and dirty on what’s moved since I got back:
+Hey gang, fresh off vacation and diving straight into this week's **weekly crypto market analysis**, we’ve seen **Bitcoin price volatility** spike amid renewed Middle East tensions. Ethereum behaved like a **safe haven asset**, while **XRP ETF regulatory updates** kept traders on edge. Meanwhile, Polkadot’s **developer summit highlights** are shaping future network strategies.
 
 Over the weekend, renewed Israel–Iran skirmishes sent Bitcoin tumbling about 0.7% to roughly \$106,120 before it bounced back toward \$107K. Ethereum wasn’t spared either, sliding nearly 2.6% as traders fled to oil and gold for a safe haven. Even XRP wobbled around \$2.08 before steadier hands pushed it back to \$2.12—ETF chatter from Trump Media filing with the SEC might be the next spark to watch.
 

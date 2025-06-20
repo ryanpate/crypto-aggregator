@@ -4,6 +4,15 @@ date: 2025-06-09T10:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "A quick, light midweek crypto update from vacation on Bald Head Island."
+keywords:
+  - "midweek crypto update"
+  - "crypto market check-in"
+  - "Bitcoin price trends"
+  - "Ethereum staking update"
+  - "XRP ETF news"
+  - "Litecoin trading insights"
+  - "Dogecoin rally analysis"
+  - "vacation crypto commentary"
 tags:
   - "crypto"
   - "midweek"
@@ -18,7 +27,7 @@ tags:
 
 **Midweek Crypto Check-In from Bald Head Island**  
 
-Hey fam, I’m halfway through my sand-and-sun retreat here at Bald Head Island, NC—sunscreen on, laptop mostly off. But I couldn’t help peeking at the markets, so here’s a quick roundup of how last week’s picks fared and what’s popping now:
+Hey fam, welcome to your **midweek crypto update** from Bald Head Island — where a **crypto market check-in** by the beach reveals **Bitcoin price trends** holding near $103k and an **Ethereum staking update** rolling out smoothly. **XRP ETF news** continues to stir traders, **Litecoin trading insights** netted a small win at $163, and **Dogecoin rally analysis** proves meme momentum is alive under the sun.
 
 1. **Bitcoin**  
    Still cruising near \$103k—up about 1% since Friday. Those bank custody rumors turned out less “now or never” and more “slow-and-steady,” so BTC’s just vibing.
