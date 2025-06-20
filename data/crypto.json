@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update:  AAVE Gains 3.5% as Index Trades Higher From Thursday",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/20/coindesk-20-performance-update-aave-gains-3-5-as-index-trades-higher-from-thursday",
+      "summary": ""
+    },
+    {
+      "title": "Thai SEC Consults on Rules Allowing Exchanges to Offer Utility Tokens",
+      "link": "https://www.coindesk.com/policy/2025/06/20/thai-sec-consults-on-rules-allowing-exchanges-to-offer-utility-tokens",
+      "summary": ""
+    },
+    {
       "title": "Crypto Daybook Americas: Bitcoin Buoyed by Trump, but Analysts Eye $92K Risk",
       "link": "https://www.coindesk.com/daybook-us/2025/06/20/crypto-daybook-americas-bitcoin-buoyed-by-trump-but-analysts-eye-usd92k-risk",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Arizona Moves Closer to Creating Bitcoin Reserve as Bill Passes Final Senate Vote",
       "link": "https://www.coindesk.com/policy/2025/06/20/arizona-moves-closer-to-creating-bitcoin-reserve-as-bill-passes-final-senate-vote",
       "summary": ""
-    },
-    {
-      "title": "North Korean Hackers Are Targeting Top Crypto Firms With Malware Hidden in Job Applications",
-      "link": "https://www.coindesk.com/tech/2025/06/20/north-korean-hackers-are-targeting-top-crypto-firms-with-malware-hidden-in-job-applications",
-      "summary": ""
-    },
-    {
-      "title": "XRP Early Buyers Accelerate Profit-Taking as Regulatory Wins Bolster XRP Ecosystem",
-      "link": "https://www.coindesk.com/markets/2025/06/20/xrp-early-buyers-accelerate-profit-taking-as-regulatory-wins-bolster-xrp-ecosystem",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "South Korean young people turning to crypto out of desperation",
+      "link": "https://cointelegraph.com/news/south-korean-youth-turn-to-crypto-out-of-desperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg3YWEtMGM5ZS03ZjU0LThiZGItZDc2ZDdlYzUxZGM5.jpg\" /></p><p>A local expert says a growing share of South Korea\u2019s youth is turning to cryptocurrency not out of belief in its technology, but as a last resort amid economic woes.</p>"
+    },
+    {
+      "title": "Solana DEX Jupiter suspends DAO voting until 2026 to focus on DeFi growth",
+      "link": "https://cointelegraph.com/news/jupiter-pauses-dao-governance-defi-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjRhOTktYTQ0My03YThjLTg0NzUtNmEyNjZlMjgzMjA2.jpg\" /></p><p>Jupiter exec Kash Dhanda announced a pause in DAO governance voting until 2026, citing the need to prioritize growth and product execution.</p>"
+    },
     {
       "title": "Bitcoin as corporate treasury: Why Meta, Amazon and Microsoft all said no",
       "link": "https://cointelegraph.com/explained/bitcoin-as-corporate-treasury-why-meta-amazon-and-microsoft-all-said-no?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "XRP onchain data shows why $3 is out of reach for now",
       "link": "https://cointelegraph.com/news/xrp-onchain-data-why-3-out-of-reach-for-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGIzNmQtNzBjZi03NWE5LThmOTMtNWU1ZWI4ZGM1YzJj.jpg\" /></p><p>XRP price struggles due to declining open interest and weakening network activity, as a classic chart pattern points to a further downside for the altcoin.</p>"
-    },
-    {
-      "title": "BlackRock ETF scoops up 3.25% of Bitcoin supply as \u2018new money\u2019 dries up",
-      "link": "https://cointelegraph.com/news/blackrock-etf-3-25-bitcoin-supply-new-money-dries-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzI0YmEtMDM0Ny03MTAzLWFjY2EtYjY2M2M1NWQ3ZjM3.jpg\" /></p><p>BlackRock\u2019s ETF is nearing the $70 billion mark as Bitcoin transactions continue to be dominated by large investors.</p>"
-    },
-    {
-      "title": "Blockdaemon launches non-custodial staking and DeFi stack for institutions",
-      "link": "https://cointelegraph.com/news/blockdaemon-launches-non-custodial-staking-defi-stack-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTRiZmQtNDE1ZS03ZmM4LWIxOGUtZmQxMTE0NjU3ODRi.jpg\" /></p><p>Blockdaemon has launched Earn Stack, a non-custodial institutional service that delivers DeFi yield farming and PoS staking across more than 50 protocols.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Crypto funding soars past $1.5 billion in June with Circle IPO boost",
+      "link": "https://cryptoslate.com/crypto-funding-soars-past-1-5-billion-in-june-with-circle-ipo-boost/",
+      "summary": "<p>Venture capital activity in the crypto space has seen a significant rebound this month, with total investments crossing $1.5 billion by June 20, according to DeFiLlama data. This marks the strongest monthly performance since March 2025 and signals growing confidence in blockchain startups after a quieter second quarter. The raised funds are more than double [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitwise CEO says Bitcoin\u2019s true rival is US Treasuries, not gold",
       "link": "https://cryptoslate.com/bitwise-ceo-says-bitcoins-true-rivals-are-us-treasuries-not-gold/",
@@ -73,11 +78,6 @@
       "title": "Semler\u2019s $11B Bitcoin bet. Can the tiny med-tech firm become the next Strategy?",
       "link": "https://cryptoslate.com/semlers-11b-bitcoin-bet-can-the-tiny-med-tech-firm-become-the-next-strategy/",
       "summary": "<p>Semler Scientific, the previously obscure medical device maker, has unveiled plans to acquire a staggering 105,000 BTC by the end of 2027. Its ambition would make Semler the second-largest corporate Bitcoin holder in the world, behind only Strategy (formerly MicroStrategy). The announcement, made on June 20, sent Semler\u2019s shares soaring nearly 12% in pre-market trading, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Arizona revives bid for seized crypto reserve fund through House Bill 2324",
-      "link": "https://cryptoslate.com/arizona-revives-bid-for-seized-crypto-reserve-fund-through-house-bill-2324/",
-      "summary": "<p>Arizona lawmakers are revisiting a previously rejected bill that would allow the state to manage a reserve fund built from seized cryptocurrencies. House Bill 2324 failed in an earlier House vote but is back in motion following a narrow 16\u201314 Senate decision on June 19. This decision returns the bill to the Arizona House for [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "Forecasting Bitcoin Price Cycle Peak with the 200-Week Moving Average",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-200-week-moving-average",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Forecasting-Bitcoin-Price-Cycle-Peak-with-the-200-Week-Moving-Average.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-200-week-moving-average\" rel=\"nofollow\"> </a></p> <p>Learn how the 200WMA and Mayer Multiple forecast a $220,000 Bitcoin price by mid-2026, reshaping cycle expectations.</p> <p>"
+    },
+    {
       "title": "How Bitcoin Reduces Counterparty Risk in Corporate Treasury Strategy",
       "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/how-bitcoin-reduces-counterparty-risk-in-corporate-treasury-strategy",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/How-Bitcoin-Reduces-Counterparty-Risk-in-Corporate-Treasury-Strategy.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-for-corporations/how-bitcoin-reduces-counterparty-risk-in-corporate-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Bitcoin gives corporate treasuries direct access to capital that is immune to counterparty risk, financial censorship, and systemic collapse.</p> <p>"
@@ -127,11 +132,6 @@
       "title": "3 Misconceptions About US Debt",
       "link": "https://bitcoinmagazine.com/markets/3-misconceptions-about-us-debt",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/FRED-chart.png\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/markets/3-misconceptions-about-us-debt\" rel=\"nofollow\"> </a></p> <p>This newsletter explores three common misconceptions about U.S. federal debt and deficits.</p> <p>"
-    },
-    {
-      "title": "The Smarter Web Company Acquires \u00a38.1M in Bitcoin For Treasury Holdings",
-      "link": "https://bitcoinmagazine.com/news/the-smarter-web-company-acquires-8-1m-in-bitcoin-for-treasury-holdings",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Smarter-Web-Company-Acquires-8.1M-in-Bitcoin-For-Treasury-Holdings.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-smarter-web-company-acquires-8-1m-in-bitcoin-for-treasury-holdings\" rel=\"nofollow\"> </a></p> <p>The London listed firm now holds 346.63 Bitcoin worth \u00a327.2 million, reinforcing its long-term strategy to integrate Bitcoin into corporate finance through its \"10 Year Plan.\"</p> <p>"
     }
   ],
   "Decrypt": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin\u2019s price braces for H2 2025 breakout \u2013 Watch these two critical signals!",
+      "link": "https://ambcrypto.com/bitcoins-price-braces-for-h2-2025-breakout-watch-these-two-critical-signals/",
+      "summary": "<img alt=\"Bitcoin&#039;s price braces for H2 2025 breakout - Watch these two critical signals!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-1-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Where do Bitcoin's rally odds stand right now?"
+    },
+    {
       "title": "Bitwise CEO warns of Bitcoin\u2019s \u2018next obstacle over the coming quarters\u2019",
       "link": "https://ambcrypto.com/bitwise-ceo-warns-of-bitcoins-next-obstacle-over-the-coming-quarters/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-FIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Gold ETF inflows dropped 50% from $30B to $15B while BTC recovered up to $10B."
@@ -208,11 +213,6 @@
       "title": "Gate Releases May 2025 Transparency Report: Brand Revamp Ignites Strategic Acceleration",
       "link": "https://ambcrypto.com/gate-releases-may-2025-transparency-report-brand-revamp-ignites-strategic-acceleration/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"682\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-20-at-2.24.04 PM.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1230\" />Gate, a global leader in cryptocurrency trading, has released its May 2025 Transparency Report, revealing [&#8230;]"
-    },
-    {
-      "title": "Solana short sellers on the run \u2013 THIS can fuel SOL\u2019s next move!",
-      "link": "https://ambcrypto.com/solana-short-sellers-on-the-run-this-can-fuel-sols-next-move/",
-      "summary": "<img alt=\"Solana short sellers on the run: THIS can fuel SOL&#039;s next move\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-20T094841.908-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana\u2019s sentiment flips bullish, but technical breakout depends on reclaiming Bollinger mid-band."
     }
   ]
 }
