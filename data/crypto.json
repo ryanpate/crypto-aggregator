@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "XRP Early Buyers Accelerate Profit-Taking as Regulatory Wins Bolster XRP Ecosystem",
+      "link": "https://www.coindesk.com/markets/2025/06/20/xrp-early-buyers-accelerate-profit-taking-as-regulatory-wins-bolster-xrp-ecosystem",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Cash Stages Surprise Run to Near $500 as Volumes Spike 500%",
+      "link": "https://www.coindesk.com/markets/2025/06/20/bitcoin-cash-stages-surprise-run-to-near-500-as-volumes-spike-500",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Steady Above $104K as Traders Eye Historically Bullish Second Half",
       "link": "https://www.coindesk.com/markets/2025/06/20/bitcoin-steady-above-104k-as-traders-eye-historically-bullish-second-half",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "NEAR Protocol Surges 5% as Buyers Dominate Amid Middle East Tensions",
       "link": "https://www.coindesk.com/markets/2025/06/19/near-protocol-surges-5-as-buyers-dominate-amid-middle-east-tensions",
       "summary": ""
-    },
-    {
-      "title": "XRP Tests Key Support as Traders Watch for Breakout Signal",
-      "link": "https://www.coindesk.com/markets/2025/06/19/xrp-tests-key-support-as-traders-watch-for-breakout-signal",
-      "summary": ""
-    },
-    {
-      "title": "SOL Slips Below $144 Even as Sol Strategies Eyes Nasdaq to Deepen Its Bet",
-      "link": "https://www.coindesk.com/markets/2025/06/19/sol-slips-below-usd144-even-as-sol-strategies-eyes-nasdaq-to-deepen-its-bet",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "South Korea\u2019s central bank won\u2019t oppose stablecoin: Report",
+      "link": "https://cointelegraph.com/news/south-korea-central-bank-wont-oppose-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhiNWQtYWUwMi03MWEyLWFkMGUtNjcxN2Y4YTg0MWI1.jpg\" /></p><p>The head of South Korea\u2019s central bank reportedly said he isn't against the issuance of a won-pegged stablecoin, but was wary of possible foreign exchange issues.</p>"
+    },
     {
       "title": "Texas cops cut open crypto ATM to recover $25K lost to scam",
       "link": "https://cointelegraph.com/news/texas-police-open-crypto-atm-family-scam-funds-bitcoin-community-question-decision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "Arizona Senate revives Bitcoin reserve bill after reconsideration vote",
       "link": "https://cointelegraph.com/news/arizona-senate-revives-bitcoin-reserve-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ2MWItMzNmYy03Mjc5LTllODAtMWZlZTgyNmNkMDAx.jpg\" /></p><p>The Arizona Senate has voted to revive House Bill 2324, a Bitcoin reserve bill that initially failed in the House.</p>"
-    },
-    {
-      "title": "North Korea targets crypto workers with new info-stealing malware",
-      "link": "https://cointelegraph.com/news/north-korea-targets-crypto-job-seekers-to-plant-password-jacking-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBjYmEtMWU0Mi03NmRmLWI5YTktZWNiNmI1ZmNiYjhi.jpg\" /></p><p>North Korean threat actors have been deploying malware through fake crypto job sites, targeting blockchain professionals to steal wallet credentials, Cisco Talos says.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "SEC Thailand Opens Public Consultation on Crypto Listing Criteria",
+      "link": "https://decrypt.co/326194/sec-thailand-public-consultation-crypto-listing-criteria",
+      "summary": "Thailand's SEC has opened public feedback on new rules letting exchanges list self-issued tokens, with stronger disclosure requirements."
+    },
+    {
+      "title": "South Korean Regulators Prepare for Spot Crypto ETFs This Year",
+      "link": "https://decrypt.co/326191/south-korean-regulators-spot-crypto-etfs-this-year",
+      "summary": "The country's financial regulator has submitted plans to launch crypto ETFs and won-based stablecoins by the second half of this year."
+    },
+    {
       "title": "North Korea Targets Crypto Professionals With New Malware in Hiring Scams",
       "link": "https://decrypt.co/326187/new-malware-crypto-job-scams-north-korea",
       "summary": "Hackers linked to Pyongyang are posing as Coinbase and Uniswap recruiters to deploy \"PylangGhost,\" a Python-based trojan."
@@ -149,16 +159,6 @@
       "title": "Arizona Senate Passes Bitcoin Reserve Bill for Seized Crypto, Heads to House For Debate",
       "link": "https://decrypt.co/326175/arizona-senate-passes-bitcoin-reserve-bill-for-seized-crypto-heads-to-house-for-debate",
       "summary": "The bill seeks to establish a state-managed digital asset fund using crypto seized through criminal forfeiture."
-    },
-    {
-      "title": "Massive Data Breach Hits Billions of Logins Across Google, Facebook and GitHub",
-      "link": "https://decrypt.co/326163/data-breach-hits-billions-logins-google-facebook-github",
-      "summary": "A data breach including over 16 billion passwords has sent a shockwave through the tech world as users scramble to protect themselves."
-    },
-    {
-      "title": "Hyperliquid Token Hits 10-Day Low Following Recent Record High",
-      "link": "https://decrypt.co/326147/hyperliquid-token-hits-10-day-low-following-recent-record-high",
-      "summary": "Analysts told that the dip may represent a reaction to recent corporate treasury buy-ins and a decline in trading volume."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Scaramucci backs Solana to surpass Ethereum in market cap \u2013 Here\u2019s why",
+      "link": "https://ambcrypto.com/scaramucci-backs-solana-to-surpass-ethereum-in-market-cap-heres-why/",
+      "summary": "<img alt=\"Scaramucci backs Solana to surpass Ethereum in market cap - Here\u2019s why\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Editors-1-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SkyBridge Capital founder and manager Anthony Scaramucci expects Solana to flip the Ethereum market cap- but is this realistic?"
+    },
+    {
+      "title": "Bitcoin stalls near $105K amid steady Fed rates \u2013 Sign of a correction?",
+      "link": "https://ambcrypto.com/bitcoin-stalls-near-105k-amid-steady-fed-rates-sign-of-a-correction/",
+      "summary": "<img alt=\"Bitcoin stalls near $105K amid steady Fed rates - Sign of a correction? \" class=\"attachment-full size-full wp-post-image\" height=\"745\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Fed-Keeps-Rates-Unchanged.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1324\" />Bitcoin isn\u2019t moving, but with calm Fed rates, are we on the edge of another crypto storm?"
+    },
+    {
       "title": "Bitcoin\u2019s market is cooling, but why the $100K support remains crucial",
       "link": "https://ambcrypto.com/bitcoins-market-is-cooling-but-why-the-100k-support-remains-crucial/",
       "summary": "<img alt=\"Bitcoin&#039;s market is cooling, but why the $100K support remains crucial\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As long as the price remains above $100k, bulls have some control."
@@ -203,16 +213,6 @@
       "title": "Tron: $0.30 in sight for TRX, but only if bulls clear THIS level",
       "link": "https://ambcrypto.com/tron-0-30-in-sight-for-trx-but-only-if-bulls-clear-this-level/",
       "summary": "<img alt=\"Tron\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-19T121527.815-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />TRX defends $0.27 support as whales accumulate and address activity rebounds."
-    },
-    {
-      "title": "\u2018Cardano may be about to outperform Bitcoin\u2019 \u2013 The case for ADA\u2019s bull run",
-      "link": "https://ambcrypto.com/cardano-may-be-about-to-outperform-bitcoin-the-case-for-adas-bull-run/",
-      "summary": "<img alt=\"&#039;Cardano may be about to outperform Bitcoin,&#039; - The case for ADA&#039;s bull run\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-37.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A rare reversal signal stirs altcoin optimism, but history urges a cautious approach."
-    },
-    {
-      "title": "Ethereum whale stakes $18M at a loss, but retail is dumping! \u2013 Who\u2019s right?",
-      "link": "https://ambcrypto.com/ethereum-whale-stakes-18m-at-a-loss-but-retail-is-dumping-whos-right/",
-      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-30.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A dormant Ethereum whale wakes up to stake 7,182 ETH worth $18.08 million"
     }
   ]
 }
