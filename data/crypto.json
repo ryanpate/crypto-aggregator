@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Crypto Daybook Americas: Bitcoin Buoyed by Trump, but Analysts Eye $92K Risk",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/20/crypto-daybook-americas-bitcoin-buoyed-by-trump-but-analysts-eye-usd92k-risk",
+      "summary": ""
+    },
+    {
+      "title": "Solana DEX Jupiter Pauses DAO Votes, Citing Breakdown in Trust",
+      "link": "https://www.coindesk.com/business/2025/06/20/solana-dex-jupiter-pauses-dao-votes-citing-breakdown-in-trust",
+      "summary": ""
+    },
+    {
       "title": "Arizona Moves Closer to Creating Bitcoin Reserve as Bill Passes Final Senate Vote",
       "link": "https://www.coindesk.com/policy/2025/06/20/arizona-moves-closer-to-creating-bitcoin-reserve-as-bill-passes-final-senate-vote",
       "summary": ""
@@ -14,46 +24,46 @@
       "title": "XRP Early Buyers Accelerate Profit-Taking as Regulatory Wins Bolster XRP Ecosystem",
       "link": "https://www.coindesk.com/markets/2025/06/20/xrp-early-buyers-accelerate-profit-taking-as-regulatory-wins-bolster-xrp-ecosystem",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Cash Stages Surprise Run to Near $500 as Volumes Spike 500%",
-      "link": "https://www.coindesk.com/markets/2025/06/20/bitcoin-cash-stages-surprise-run-to-near-500-as-volumes-spike-500",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Steady Above $104K as Traders Eye Historically Bullish Second Half",
-      "link": "https://www.coindesk.com/markets/2025/06/20/bitcoin-steady-above-104k-as-traders-eye-historically-bullish-second-half",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin as corporate treasury: Why Meta, Amazon and Microsoft all said no",
+      "link": "https://cointelegraph.com/explained/bitcoin-as-corporate-treasury-why-meta-amazon-and-microsoft-all-said-no?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYTExZmUwNzNiYmIwMDVjNGQ2MjllZGVhODk4MjI0MC5qcGc=.jpg\" /></p><p>Despite Bitcoin\u2019s rise, major corporations like Meta, Amazon and Microsoft are steering clear of holding it in their treasuries, favoring stability over crypto risk.</p>"
+    },
+    {
+      "title": "How to use ChatGPT to turn crypto news into trade signals",
+      "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-turn-crypto-news-into-trade-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjE1M2QtYzExNC03Mzg1LWJmZDktMDEwYTM2OWVkNWFl.jpg\" /></p><p>Crypto traders can use ChatGPT to decode crypto headlines and generate actionable trade setups \u2014 fast, flexible and surprisingly accurate (subject to human verification).</p>"
+    },
+    {
+      "title": "XRP onchain data shows why $3 is out of reach for now",
+      "link": "https://cointelegraph.com/news/xrp-onchain-data-why-3-out-of-reach-for-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGIzNmQtNzBjZi03NWE5LThmOTMtNWU1ZWI4ZGM1YzJj.jpg\" /></p><p>XRP price struggles due to declining open interest and weakening network activity, as a classic chart pattern points to a further downside for the altcoin.</p>"
+    },
     {
       "title": "BlackRock ETF scoops up 3.25% of Bitcoin supply as \u2018new money\u2019 dries up",
       "link": "https://cointelegraph.com/news/blackrock-etf-3-25-bitcoin-supply-new-money-dries-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzI0YmEtMDM0Ny03MTAzLWFjY2EtYjY2M2M1NWQ3ZjM3.jpg\" /></p><p>BlackRock\u2019s ETF is nearing the $70 billion mark as Bitcoin transactions continue to be dominated by large investors.</p>"
     },
     {
-      "title": "Death, divorce and lost keys: The question of succession in tokenized property",
-      "link": "https://cointelegraph.com/news/succession-in-tokenized-property?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGI2Y2YtNGFlMC03M2E2LWFkYjktNWI4MDJmNzg4YWVl.jpg\" /></p><p>Blockchain\u2019s promise of democratized property ownership faces a potential roadblock. Integrating automated, blockchain-native succession protocols is essential to protect digital assets and enable true democratization of RWA ownership.</p>"
-    },
-    {
       "title": "Blockdaemon launches non-custodial staking and DeFi stack for institutions",
       "link": "https://cointelegraph.com/news/blockdaemon-launches-non-custodial-staking-defi-stack-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTRiZmQtNDE1ZS03ZmM4LWIxOGUtZmQxMTE0NjU3ODRi.jpg\" /></p><p>Blockdaemon has launched Earn Stack, a non-custodial institutional service that delivers DeFi yield farming and PoS staking across more than 50 protocols.</p>"
-    },
-    {
-      "title": "Bitcoin grabs $106K liquidity as whale longs BTC with $255M",
-      "link": "https://cointelegraph.com/news/bitcoin-grabs-106k-liquidity-as-whale-longs-btc-with-255m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkZDMtY2JlOS03ZWI3LTkwN2MtZGVmOThmMjdkMDZi.jpg\" /></p><p>Bitcoin sees a giant leveraged long liquidate late shorts, but is it enough to spark the BTC price range exit that traders have wanted?</p>"
-    },
-    {
-      "title": "TikTok denies TRUMP memecoin buys in reply to congressman\u2019s accusations",
-      "link": "https://cointelegraph.com/news/tiktok-denies-trump-memecoin-buy-brad-sherman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhjNDQtM2M1MC03NzgyLTgzZDAtZGJhNjRmMTU0NGM0.jpg\" /></p><p>Bitcoin hater Brad Sherman accused US President Donald Trump of accepting a $300 million bribe from TikTok, but TikTok denied it has anything to do with it.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitwise CEO says Bitcoin\u2019s true rival is US Treasuries, not gold",
+      "link": "https://cryptoslate.com/bitwise-ceo-says-bitcoins-true-rivals-are-us-treasuries-not-gold/",
+      "summary": "<p>Bitwise CEO Hunter Horsley believes the actual competition for Bitcoin isn&#8217;t gold, but government-backed bonds like US Treasuries and UK gilts. In a June 20 post on X, Horsley argued that gold and Bitcoin are apolitical stores of value that operate outside direct government control. However, he said Bitcoin&#8217;s actual competition lies with instruments tightly [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Why Ripple thinks London can become the main crypto powerhouse in the west",
+      "link": "https://cryptoslate.com/why-ripple-thinks-london-can-become-the-main-crypto-powerhouse-in-the-west/",
+      "summary": "<p>When Ripple unveiled its four-point policy blueprint in London this week, the message was unmistakable: if the UK wants to lead in crypto, the time to act is now. Unfolding against a backdrop of draft legislation and shifting global regulatory alignments, the move signals Ripple\u2019s intent to turn Britain into the world\u2019s next blockchain capital [&#8230;]</p> <p>"
+    },
     {
       "title": "You\u2019re Hired! North Korea\u2019s new crypto scam starts with a job offer",
       "link": "https://cryptoslate.com/north-korea-leverages-fake-job-offers-and-deep%e2%80%91fakes-to-infiltrate-crypto-developer-networks/",
@@ -68,19 +78,14 @@
       "title": "Arizona revives bid for seized crypto reserve fund through House Bill 2324",
       "link": "https://cryptoslate.com/arizona-revives-bid-for-seized-crypto-reserve-fund-through-house-bill-2324/",
       "summary": "<p>Arizona lawmakers are revisiting a previously rejected bill that would allow the state to manage a reserve fund built from seized cryptocurrencies. House Bill 2324 failed in an earlier House vote but is back in motion following a narrow 16\u201314 Senate decision on June 19. This decision returns the bill to the Arizona House for [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Jupiter halts governance voting to tackle burnout and refocus on innovation",
-      "link": "https://cryptoslate.com/jupiter-halts-governance-voting-to-tackle-burnout-and-refocus-on-innovation/",
-      "summary": "<p>Solana\u2019s largest decentralized exchange aggregator, Jupiter, has decided to halt all community voting through next year and keep its governance Treasury sealed until 2027, citing community burnout and a need to prioritize building new products. The move temporarily disables one of the main utilities for Jupiter\u2019s native token, JUP, which powers governance proposals and decisions [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Circle approaches $50B valuation amid evolving regulatory landscape in the US",
-      "link": "https://cryptoslate.com/insights/circles-stock-rally-propels-valuation-to-nearly-50-billion/",
-      "summary": "<p>Circle, the issuer of the USD Coin (USDC) stablecoin, is edging closer to a $50 billion valuation after a major rally in its stock price. Since debuting at $31, Circle&#8217;s shares (CRCL) have climbed over 540%, now trading around $200, according to Yahoo Finance. This surge has helped push Circle&#8217;s valuation to approximately $48.4 billion [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Crypto Analyst Predicts $4 Dogecoin After Exhausted Selling Phase",
+      "link": "https://www.newsbtc.com/news/dogecoin/crypto-analyst-4-dogecoin-exhausted-selling-phase/",
+      "summary": "Dogecoin\u2019s six-month consolidation is a coil, not a coffin, according to the pseudonymous technician Cantonese Cat, whose 19 June video marshals multiple time-frame evidence to argue that the meme-coin\u2019s next directional break will be up\u2014potentially as far as $4.13 before the current cycle tops out. Dogecoin Breakout Is Only A Matter Of Time The analyst begins by addressing sentiment. Retail comment threads have turned caustic, he notes, because price has slipped from last autumn\u2019s spike and then \u201cdone nothing for months.\u201d Yet such fatigue is precisely what bull-market retracements are meant to produce: \u201cA lot of people are getting really bitter about Doge \u2026 that\u2019s exactly how higher highs and higher low type situations are supposed to get you all frustrated. This is still a bull trend until proven otherwise.\u201d Related Reading: Dogecoin Looks Like \u2018It Wants To Play Dead\u2019\u2014Again At the highest zoom level, Dogecoin is tracing what he calls \u201cstill a cup and \u2026 still a handle until proven otherwise.\u201d The first thrust of that handle halted almost exactly at the 0.786 Fibonacci retracement of the 2022\u201324 bear range\u2014\u201ca very important fib level here.\u201d Because initial attempts rarely pierce that resistance, he expected rejection. What matters is where the pullback found support: \u201cIn the case of Dogecoin, it decided to go all the way down to 0.382, which is nothing unusual \u2026 this is actually a pretty important zone of this nice Adam-and-Eve double bottom.\u201d The market is therefore testing, not violating, an historically powerful neckline. Zooming to the monthly chart, Dogecoin sits beneath what the analyst calls \u201ca pretty thick Ichimoku cloud.\u201d Two breakout attempts have failed, producing a pair of wicks that look ominous to casual chart watchers. Cantonese Cat disagrees: \u201cWe had a little bit of a false breakout here on the monthly \u2026 I think a third time is going to be the charm.\u201d Beneath the cloud, six consecutive monthly candles have nested entirely inside the tall green bar printed last November. He interprets the formation\u2014six inside bars\u2014as latency building for a violent move: \u201cYou\u2019re talking about consolidation with six inside candles forming a lot of energy here.\u201d That compression is mirrored on the weekly time frame: \u201cIf you also look at the weekly here, you can also see that you have six inside candles over here too \u2026 that tells me that there is not much bearish energy necessarily left anymore. I think we\u2019re closer to the bottom than the top.\u201d Key structural support is supplied by a rising 20-month simple moving average, now at $0.1737. Price currently ticks below it, but the slope is still positive. Historically, such combinations resolve in favour of the trend: \u201cIf you have a 20-month moving average that is up-sloping, most likely this is just going to be a wick.\u201d He cites an earlier cycle when Dogecoin wicked beneath the same metric before staging a dramatic reversal. Price action, he argues, is meaningless without context. \u201cIf I end up looking at Doge here on Coinbase and I pull up the volume here, you can also see that there is no selling volume here at all.\u201d Binance, the world\u2019s deepest Dogecoin market, shows identical inertia. \u201cThe selling volume is essentially non-existent,\u201d he says, concluding that supply overhang has vaporised and only demand is required to propel a reversal. Twice before\u2014in July 2023 and February 2024\u2014identical volume droughts preceded V-shaped rallies: \u201cLow selling volume over here, reversal once volume comes in \u2026 low selling volume over here, reversal once volume comes in.\u201d Related Reading: Dogecoin Shows Signs Of Life With Bottoming Signal Daily-chart oscillators are beginning to corroborate the structural read. Dogecoin has just registered what Cantonese Cat labels a \u201ctreasure bottom\u201d\u2014his term for a localised capitulation whose candle body is far smaller than its wick. More formally, the relative-strength index has exhibited bullish divergence: price has etched lower lows while RSI turns higher. \u201cLast time when you have some bullish diversions was right here \u2026 that was the local bottom right there,\u201d he says, pointing to the October 2023 reversal. The pattern repeated in March 2024 and appears again today: \u201cI think that we might be experiencing a trend change here relatively soon.\u201d DOGE Price Targets Should volume arrive and price claw back through the 0.5 and 0.618 retracements, Cantonese Cat\u2019s Fibonacci ladders flag successive targets. From the Binance dataset, \u201c$1.60, $2.26 and $4.13, all of these are possibility for Dogecoin.\u201d A composite feed of multiple exchanges tweaks the numbers to $1.50, $2.27 and $3.94. What he does not foresee is a reprise of 2021\u2019s parabolic blow-off, when Dogecoin tagged the 2.272 extension and briefly suggested a trajectory towards $23. \u201cI think that $23 doge is insane \u2026 I don\u2019t think that doge is going to end up becoming, you know, like anything like $3 trillion market cap.\u201d A quarter- to half-trillion-dollar capitalisation, however\u2014roughly the price zone between three and four dollars\u2014remains \u201csomething to think about\u201d given current monetary expansion. Cantonese Cat interprets the community\u2019s malaise as a contrarian gift: \u201cThe market makers are giving us more time to buy while the sentiment is extremely, extremely poor.\u201d Inside-bar ranges serve as a simple trigger. A close above the six-month range high would, in his reading, unlock the primary up-trend\u2019s next leg. Conversely, a close below the 20-month average might delay\u2014but not necessarily invalidate\u2014the thesis, provided the moving average itself keeps rising. Across every lens\u2014the macro cup-and-handle, the Adam-and-Eve neckline test, Ichimoku resistance, 20-month moving average support, volume exhaustion, daily bullish divergence\u2014the weight of evidence converges on a bullish outcome. Timing, he concedes, is unknowable: \u201cWhen is that going to be? I don\u2019t know.\u201d Yet none of the data justify capitulation. He closes with the maxim he repeats three times in the broadcast: \u201cThe trend is your friend, and the trend is up.\u201d If that view holds, Dogecoin\u2019s dormant coil may eventually unwind toward the analyst\u2019s most ambitious extension at $4.13\u2014a level unthinkable to today\u2019s demoralised sellers, and precisely for that reason, he argues, still within reach. At press time, DOGE traded at $0.171. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin\u2019s Back on the Table: 3 Best New Crypto as Arizona Revives Bill on Seized $BTC",
       "link": "https://www.newsbtc.com/news/arizona-hb2324-bitcoin-reserve-fund/",
@@ -100,14 +105,14 @@
       "title": "Solana Correction About To End? Analyst Forecasts $130 Retest Before Next Wave Up",
       "link": "https://www.newsbtc.com/news/solana-correction-about-to-end-analyst-forecasts-130-retest-before-next-wave-up/",
       "summary": "Amid the geopolitical turmoil, Solana (SOL) has retraced 10% in the past week. Some analysts believe that the altcoin\u2019s correction is about to end, but warned that a dip below a key support level might come first. Related Reading: SUI Preparing For New Highs As Falling Wedge Breakout Targets $5 Solana Eyes Key Retest Before Breakout After retesting the $168 resistance last Wednesday, Solana has fallen back to a key level fueled by the recent market pullback. The cryptocurrency has seen a 15% retracement from its monthly highs, trading around the $140 zone for the past three days. SOL has been hovering between the $145-$180 price range since its May breakout, falling to the range lows during the June market shakeouts. Since then, the altcoin has struggled to reclaim the $160-$170 mid-zone. Nonetheless, market watcher Lluciano considers that Solana \u201cmay dip a bit more, but the ultimate target is seriously huge.\u201d The analyst highlighted SOL\u2019s performance since April, noting that it ended its multi-month downtrend after breaking above its descending resistance at the end of March. After this price action, SOL retested the $100-$120 demand zone before breaking out to its current range in the following weeks. Now, the altcoin\u2019s chart displays a one-month falling wedge pattern, with the upper boundary sitting around the $155-$160 area. To the analyst, a breakout from this pattern could send the cryptocurrency toward May\u2019s $187 high resistance before propelling the price to retest the $240 mark. Similarly, trader Rose noted that SOL has been consolidating above the key $145 resistance and 50-day Moving Average (MA), signaling a potential breakout. \u201cIf confirmed, the price could rise toward targets at $165, $183, and $220,\u201d they suggested. SOL To Underperform In Coming Months? Market watcher Crypto Bullet suggested that Solana\u2019s correction is coming to an end. The analyst forecasted that SOL could soon lose its current range and retest the April consolidation range, around the $125-$135 area, to complete the correction. This would be followed by a bounce back into the current range before surging past the $200 barrier toward the $220-$250 targets, for \u201cone more wave up\u201d this cycle. Meanwhile, Altcoin Sherpa affirmed Solana won\u2019t outperform like it did during the first half of the cycle. According to the analyst, the cryptocurrency won\u2019t outperform Bitcoin (BTC) on any long-term timeframe \u201cother than a few blips here and there.\u201d Related Reading: Bitcoin Setting Up For \u2018Large Move\u2019 Amid $103,000 Retest \u2013 Key Levels To Watch He explained that the cycle\u2019s leading altcoin isn\u2019t \u201cdead,\u201d but that he doesn\u2019t \u201csee it having a run like it did in 2021/2024.\u201d Notably, SOL is currently retesting its late November 2023 support levels against BTC, which previously sent it to yearly lows after failing to hold them. Altcoin Sherpa concluded that Solana will likely continue to climb against its USDT pair but continue to bleed in its SOL/BTC chart. As of this writing, Solana is trading at $145, a 12.1% decline in the monthly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Cash (BCH) Pops 8% Higher \u2014 Can The Momentum Continue?",
-      "link": "https://www.newsbtc.com/analysis/bch/bitcoin-cash-bch-pops-500/",
-      "summary": "Bitcoin Cash price started a major increase above the $475 resistance. BCH is consolidating and might aim for more gains above the $500 resistance. Bitcoin cash price started a fresh increase above the $480 level. The price is trading above $480 and the 100-hour simple moving average. There was a break above a key bearish trend line with resistance at $472 on the hourly chart of the BCH/USD pair (data feed from Kraken). The pair could start another increase if it clears the $500 resistance zone. Bitcoin Cash Price Starts Fresh Surge After forming a base above the $440 level, Bitcoin Cash price started a fresh increase. BCH outpaced Bitcoin and Ethereum to gain over 8%. There was a clear move above the $470 resistance zone. The price even surpassed $480 and tested the $495 resistance zone. Besides, there was a break above a key bearish trend line with resistance at $472 on the hourly chart of the BCH/USD pair. A high was formed near $505 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $455 swing low to the $502 high. Bitcoin cash price is now trading above $485 and the 100-hour simple moving average. Immediate resistance on the upside sits near the $500 level. A clear move above the $500 resistance might start a decent increase. The next major resistance is $505, above which the price might accelerate higher toward the $520 level. Any further gains could lead the price toward the $535 resistance zone. Are Dips Supported In BCH? If Bitcoin Cash price fails to clear the $500 resistance, it could start a fresh decline. Initial support on the downside is near the $490 level. The next major support is near the $480 level or the 50% Fib retracement level of the upward move from the $455 swing low to the $502 high. If the price fails to stay above the $480 support, the price could test the $470 support. Any further losses could lead the price toward the $450 zone in the near term. Technical indicators 4-hour MACD \u2013 The MACD for BCH/USD is losing pace in the bullish zone. 4-hour RSI (Relative Strength Index) \u2013 The RSI is currently above the 60 level. Key Support Levels \u2013 $490 and $480. Key Resistance Levels \u2013 $500 and $505."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "How Bitcoin Reduces Counterparty Risk in Corporate Treasury Strategy",
+      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/how-bitcoin-reduces-counterparty-risk-in-corporate-treasury-strategy",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/How-Bitcoin-Reduces-Counterparty-Risk-in-Corporate-Treasury-Strategy.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-for-corporations/how-bitcoin-reduces-counterparty-risk-in-corporate-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Bitcoin gives corporate treasuries direct access to capital that is immune to counterparty risk, financial censorship, and systemic collapse.</p> <p>"
+    },
     {
       "title": "Semler Scientific Appoints Joe Burnett as Director of Bitcoin Strategy, Targets 105,000 BTC by 2027",
       "link": "https://bitcoinmagazine.com/news/semler-scientific-appoints-joe-burnett-as-director-of-bitcoin-strategy-targets-105000-btc-by-2027",
@@ -127,14 +132,19 @@
       "title": "The Smarter Web Company Acquires \u00a38.1M in Bitcoin For Treasury Holdings",
       "link": "https://bitcoinmagazine.com/news/the-smarter-web-company-acquires-8-1m-in-bitcoin-for-treasury-holdings",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Smarter-Web-Company-Acquires-8.1M-in-Bitcoin-For-Treasury-Holdings.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-smarter-web-company-acquires-8-1m-in-bitcoin-for-treasury-holdings\" rel=\"nofollow\"> </a></p> <p>The London listed firm now holds 346.63 Bitcoin worth \u00a327.2 million, reinforcing its long-term strategy to integrate Bitcoin into corporate finance through its \"10 Year Plan.\"</p> <p>"
-    },
-    {
-      "title": "\u2018Ancient\u2019 Bitcoin Supply Now Outpacing Newly Mined BTC: Fidelity Report",
-      "link": "https://bitcoinmagazine.com/news/ancient-bitcoin-supply-now-outpacing-newly-mined-btc-fidelity-report",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/\u2018Ancient-Bitcoin-Supply-Now-Outpacing-Newly-Mined-BTC-Fidelity-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/ancient-bitcoin-supply-now-outpacing-newly-mined-btc-fidelity-report\" rel=\"nofollow\"> </a></p> <p>Over 17% of all bitcoin has remained untouched for a decade, while 27 public companies hold more than 800,000 BTC combined.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Former Celsius CEO Alex Mashinsky Forfeits All Claims to Bankruptcy Proceeds",
+      "link": "https://decrypt.co/326227/former-celsius-ceo-alex-mashinsky-forfeits-all-claims-to-bankruptcy-proceeds",
+      "summary": "The agreement blocks Mashinsky from receiving any recovery in the Celsius bankruptcy, allowing for more funds to be distributed to creditors."
+    },
+    {
+      "title": "TikTok Hits Back At Congressman's '$300 Million Bribe' Accusation Over Trump Meme Coin",
+      "link": "https://decrypt.co/326219/tiktok-hits-back-at-congressmans-300-million-bribe-accusation-over-trump-meme-coin",
+      "summary": "Congressman Brad Sherman accused TikTok's owners of bribing President Trump by purchasing his official meme coin."
+    },
     {
       "title": "SEC Thailand Opens Public Consultation on Crypto Listing Criteria",
       "link": "https://decrypt.co/326194/sec-thailand-public-consultation-crypto-listing-criteria",
@@ -149,19 +159,14 @@
       "title": "North Korea Targets Crypto Professionals With New Malware in Hiring Scams",
       "link": "https://decrypt.co/326187/new-malware-crypto-job-scams-north-korea",
       "summary": "Hackers linked to Pyongyang are posing as Coinbase and Uniswap recruiters to deploy \"PylangGhost,\" a Python-based trojan."
-    },
-    {
-      "title": "Semler Scientific Targets Hefty Bitcoin Stash Over Next 2 Years",
-      "link": "https://decrypt.co/326183/semler-scientific-bitcoin-stash-2-years",
-      "summary": "Once a cautious believer in crypto, Semler Scientific is now racing to become the second-largest corporate holder of Bitcoin."
-    },
-    {
-      "title": "Arizona Senate Passes Bitcoin Reserve Bill for Seized Crypto, Heads to House For Debate",
-      "link": "https://decrypt.co/326175/arizona-senate-passes-bitcoin-reserve-bill-for-seized-crypto-heads-to-house-for-debate",
-      "summary": "The bill seeks to establish a state-managed digital asset fund using crypto seized through criminal forfeiture."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Norway to impose temporary restrictions on Bitcoin mining to save electricity",
+      "link": "https://cryptobriefing.com/norway-bitcoin-mining-restrictions/",
+      "summary": "<p>Norway's restrictions on Bitcoin mining highlight the tension between energy-intensive industries and sustainable energy priorities.</p> <p>"
+    },
     {
       "title": "Arizona revives Bitcoin reserve bill and passes it in Senate",
       "link": "https://cryptobriefing.com/arizona-bitcoin-reserve-fund-bill/",
@@ -181,14 +186,14 @@
       "title": "Only 30% of crypto miners comply with Russia\u2019s new rules, finance ministry official says",
       "link": "https://cryptobriefing.com/crypto-mining-compliance-russia/",
       "summary": "<p>The low compliance rate among crypto miners in Russia highlights challenges in enforcing regulations, potentially impacting energy policies and economic oversight.</p> <p>"
-    },
-    {
-      "title": "Elon Musk\u2019s X will soon launch investment and trading features as part of \u2018everything app\u2019 vision",
-      "link": "https://cryptobriefing.com/financial-services-expansion-elon-musk-x/",
-      "summary": "<p>Musk's X expansion into finance could redefine digital ecosystems, merging social media with financial services, impacting user engagement.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Bitwise CEO warns of Bitcoin\u2019s \u2018next obstacle over the coming quarters\u2019",
+      "link": "https://ambcrypto.com/bitwise-ceo-warns-of-bitcoins-next-obstacle-over-the-coming-quarters/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-FIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Gold ETF inflows dropped 50% from $30B to $15B while BTC recovered up to $10B."
+    },
     {
       "title": "OKB hits $54.7 after 42.4 mln token burn \u2013 Can it break through $56?",
       "link": "https://ambcrypto.com/okb-hits-54-7-after-42-4-mln-token-burn-can-it-break-through-56/",
@@ -208,11 +213,6 @@
       "title": "Solana short sellers on the run \u2013 THIS can fuel SOL\u2019s next move!",
       "link": "https://ambcrypto.com/solana-short-sellers-on-the-run-this-can-fuel-sols-next-move/",
       "summary": "<img alt=\"Solana short sellers on the run: THIS can fuel SOL&#039;s next move\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-20T094841.908-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana\u2019s sentiment flips bullish, but technical breakout depends on reclaiming Bollinger mid-band."
-    },
-    {
-      "title": "FUNToken Announces Deflationary Update, Achieves Certik Certification",
-      "link": "https://ambcrypto.com/funtoken-announces-deflationary-update-achieves-certik-certification/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"868\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/certik-pr-1.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1443\" />FUNToken, the leading token driving the future of Web3 gaming, has achieved a major milestone: [&#8230;]"
     }
   ]
 }
