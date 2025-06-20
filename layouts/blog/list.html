@@ -1,13 +1,9 @@
 {{ define "title" }}Blog | BlockWireNews{{ end }}
 
-{{ define "description" }}
-Stay updated with the latest cryptocurrency insights on BlockWireNews Blog – featuring in-depth weekly crypto market analysis, real-time Bitcoin price volatility, Ethereum staking updates, XRP ETF developments, DeFi yield farming tutorials, NFT drops, and blockchain technology news.
-{{ end }}
-{{ define "keywords" }}
-cryptocurrency, crypto news, Bitcoin price volatility, real-time crypto prices, weekly crypto market analysis, Ethereum staking update, XRP ETF developments, DeFi yield farming, NFT drops, altcoin price predictions, blockchain technology news, crypto trading tips, best crypto wallets, crypto regulation updates, market wrap, crypto portfolio strategy, midweek crypto update, weekend crypto vibes, political influence crypto, memecoin price movement
-{{ end }}
-
 {{ define "main" }}
+  <!-- Site Banner -->
+  <img src="/banner.png" alt="BlockWireNews Banner" style="width:100%; height:auto; margin-bottom:1rem;" />
+
   <!-- Responsive Styles -->
   <style>
     /* Container centered with responsive padding */
@@ -30,6 +26,14 @@ cryptocurrency, crypto news, Bitcoin price volatility, real-time crypto prices, 
     /* Other shared styles as in main page... */
     /* Include any CSS you need for blog page responsiveness */
   </style>
+
+  <div class="container mt-6">
+    <!-- Blog Banner -->
+    <div class="blog-banner" style="text-align:left; margin-top:3rem; margin-bottom:1rem;">
+      <a href="/blog/">
+        <img src="/blog_banner.png" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
+      </a>
+    </div>
 
     <!-- Blog Index -->
 
