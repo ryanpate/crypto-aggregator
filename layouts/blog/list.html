@@ -36,15 +36,22 @@
 
     {{ range .Pages.ByDate.Reverse }}
     <article style="margin-bottom:2rem;">
-      <h2 class="subtitle is-size-4">
-        <a href="{{ .RelPermalink }}" class="has-text-black" style="text-decoration:none;">{{ .Title }}</a>
-      </h2>
+      <h1 class="title">{{ .Title }}</h1>
       <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
       <div class="content">
-        <h1>{{ .Title }}</h1>
-        <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
         {{ .Content | safeHTML }}
       </div>
+
+      <!-- AdSense ad unit -->
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-5523870768931777"
+           data-ad-slot="1234567890"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
     </article>
     {{ end }}
   </div>
