@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "Thai SEC opens consultation period for token issuance rules",
+      "link": "https://cointelegraph.com/news/thai-sec-proposes-new-rules-crypto-token-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlZmEtYmIwNy03NzFmLThjMTItZTY0OWJiZTQ0YzZk.jpg\" /></p><p>The consultation period comes as Thailand seeks to clarify regulations for the crypto industry.</p>"
+    },
+    {
       "title": "Bitcoin\u2019s $96B open interest shows role leverage plays in rallies, but there is a risk",
       "link": "https://cointelegraph.com/news/bitcoin-leverage-use-sends-oi-to-96b-but-there-s-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhkYjQtYjVhNC03Y2Y2LWEwYTQtMzdhNDZiYmY1Y2Qy.jpg\" /></p><p>Bitcoin\u2019s $96 billion in derivatives open interest fuels BTC price momentum near all-time highs, but rising leverage use raises the risk of liquidations and market volatility.</p>"
@@ -41,19 +51,14 @@
       "title": "Crypto Biz: AI money rush could reshape digital asset industry",
       "link": "https://cointelegraph.com/news/ai-vs-crypto-venture-capital-decentralized-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NzgtNmJhYi03YzE4LWIwYzUtNjI5MmJkNGVmZTdk.jpg\" /></p><p> moderated an AI funding panel at the Web Summit conference in Vancouver, Canada.</p>"
-    },
-    {
-      "title": "US crypto ETF approval odds surge to \u201890% or higher\u2019 \u2014 Bloomberg analysts",
-      "link": "https://cointelegraph.com/news/us-crypto-etf-approval-odds-surge-bloomberg-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlYjItMTFhZS03MWVmLTgwNjgtNjZlZjQ3MTk4NTdm.jpg\" /></p><p>The SEC likely views cryptocurrencies Litecoin, Solana, XRP, Dogecoin, Cardano and others as \u201ccommodities.\u201d</p>"
-    },
-    {
-      "title": "Crypto user attacked in France over Ledger hardware wallet \u2014 Report",
-      "link": "https://cointelegraph.com/news/attack-france-kidnapping-ledger-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQ5MjctMmUxZS03NTM0LWE4OTEtYzg4ZWFjYzdmMzAy.jpg\" /></p><p>The latest reported \u201cwrench attack,\u201d in which criminals targeted individuals for their crypto holdings, occurred in the suburbs of Paris this week.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Alex Mashinsky forfeits rights to Celsius assets amid ongoing bankruptcy process",
+      "link": "https://cryptoslate.com/alex-mashinsky-forfeits-rights-to-celsius-assets-amid-ongoing-bankruptcy-process/",
+      "summary": "<p>Alex Mashinsky, the former CEO of Celsius, has agreed to surrender all rights to assets tied to the collapsed crypto lender. According to newly filed court documents, Mashinsky and entities associated with him, including AM Ventures Holdings Inc., Koala1 LLC, and Koala3 LLC, will be excluded from any future distributions under the Celsius bankruptcy plan. The [&#8230;]</p> <p>"
+    },
     {
       "title": "Bloomberg analysts revise ETF approval odds to \u201890% or higher\u2019 as SEC requests amended filings",
       "link": "https://cryptoslate.com/bloomberg-analysts-revise-etf-approval-odds-to-90-or-higher-as-sec-requests-amended-filings/",
@@ -73,11 +78,6 @@
       "title": "Standard Chartered forecasts surge tokenizing real-world assets beyond stablecoins",
       "link": "https://cryptoslate.com/standard-chartered-forecasts-surge-tokenizing-real-world-assets-beyond-stablecoins/",
       "summary": "<p>Standard Chartered projected that tokenization of real-world assets (RWAs) beyond stablecoins could accelerate significantly over the next five years, driven by regulatory progress and a sharper focus on high-impact use cases, according to a June 20 report shared with . The bank\u2019s report, titled \u201cRWA Tokenisation \u2014 A Growth Opportunity,\u201d highlighted that while stablecoins remain [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Norway eyes crypto mining ban amid local firms\u2019 heavy investments in Bitcoin",
-      "link": "https://cryptoslate.com/norway-eyes-crypto-mining-ban-amid-local-firms-heavy-investments-in-bitcoin/",
-      "summary": "<p>Norway is reportedly planning to introduce a temporary ban on the development of new data centres linked to crypto mining, Reuters reported on June 20. According to the report, the government is expected to implement the restrictions before the end of the year, citing environmental and energy concerns. The government says the aim is to [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "XRP joins Solana and Litecoin in top ETF approval tier",
+      "link": "https://cryptobriefing.com/spot-crypto-etf-approval-tier/",
+      "summary": "<p>The increased likelihood of crypto ETF approvals could significantly boost market legitimacy and attract institutional investment.</p> <p>"
+    },
+    {
       "title": "Why your business should start accepting Bitcoin today",
       "link": "https://cryptobriefing.com/accepting-bitcoin-payments-business/",
       "summary": "<p>Accepting Bitcoin can lower fees, reduce fraud risks, and simplify global payments as more consumers look to pay with crypto in 2024.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "Fed\u2019s Waller says rate cut could come as soon as July",
       "link": "https://cryptobriefing.com/fed-rate-cut-july-outlook/",
       "summary": "<p>A potential rate cut in July could signal a shift in monetary policy, impacting economic growth, inflation expectations, and market dynamics.</p> <p>"
-    },
-    {
-      "title": "Norway to impose temporary restrictions on Bitcoin mining to save electricity",
-      "link": "https://cryptobriefing.com/norway-bitcoin-mining-restrictions/",
-      "summary": "<p>Norway's restrictions on Bitcoin mining highlight the tension between energy-intensive industries and sustainable energy priorities.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Is ETH undervalued? Here\u2019s why 15x stablecoin surge could benefit Ethereum!",
+      "link": "https://ambcrypto.com/is-eth-undervalued-heres-why-15x-stablecoin-surge-could-benefit-ethereum/",
+      "summary": "<img alt=\"Is ETH undervalued? Here&#039;s why 15x stablecoin surge could benefit Ethereum!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/EthereumFII-1.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will the stablecoin market surge push ETH's value higher?"
+    },
     {
       "title": "All the reasons why Ethereum could outperform Bitcoin in Q3!",
       "link": "https://ambcrypto.com/all-the-reasons-why-ethereum-could-outperform-bitcoin-in-q3/",
@@ -208,11 +213,6 @@
       "title": "PENDLE \u2013 Institutions, whales, and what the SEC\u2019s moves mean for DeFi",
       "link": "https://ambcrypto.com/pendle-institutions-whales-and-what-the-secs-moves-mean-for-defi/",
       "summary": "<img alt=\"PENDLE - Institutions, whales, and what the SEC&#039;s moves mean for DeFi\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-20T104742.962-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PENDLE\u2019s institutional inflows and growing network activity could be key."
-    },
-    {
-      "title": "Bitcoin price prediction \u2013 Will $100K hold on despite risk-off sentiment?",
-      "link": "https://ambcrypto.com/bitcoin-price-prediction-will-100k-hold-on-despite-risk-off-sentiment/",
-      "summary": "<img alt=\"Bitcoin price prediction - Will $100K hold on despite risk-off sentiment?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/BitcoinpricepredictionFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />$100K remains a key price floor for bulls to hold on to in the short term."
     }
   ]
 }
