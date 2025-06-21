@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgzZjctMTdlYS03OTc0LWJlNzMtNjYxYzdjZDE1N2M3.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
       "title": "\u2018Policy procrastination\u2019 leaves UK trailing EU, US in crypto regulation: Experts",
       "link": "https://cointelegraph.com/news/uk-crypto-regulation-lags-behind-mica-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkyNmItMTQwOC03NGRiLTgyNjktZmUzOTI1NmFhYzBm.jpg\" /></p><p>A new OMFIF blog warns the UK is losing its early advantage in digital asset regulation, as the EU enforces MiCA and the US advances with the Genius Act.</p>"
@@ -46,11 +51,6 @@
       "title": "Nakamoto Holdings secures $51.5M to expand Bitcoin treasury strategy",
       "link": "https://cointelegraph.com/news/nakamoto-holdings-raises-51m-to-expand-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkxNTQtZjc5My03NDA2LWJiNGQtZDk1M2FkZGVhMGU3.jpg\" /></p><p>Nakamoto Holdings, led by Trump\u2019s crypto adviser David Bailey, raises $51.5M in fresh capital to accelerate its Bitcoin acquisition strategy.</p>"
-    },
-    {
-      "title": "Crypto cycle is playing out \u2018spookily similar\u2019 to 2017: Raoul Pal",
-      "link": "https://cointelegraph.com/news/crypto-cycle-resembles-2017-macro-data-raoul-pal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkxMWQtNjNmZi03MmMyLTg1MWMtZTJiMTdlY2VkMWYz.jpg\" /></p><p>Real Vision CEO Raoul Pal says macroeconomic data suggests the current crypto cycle could extend into Q2 2026.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Elliptic, Internet Watch Foundation Team Up to Combat Crypto Financing of Child Abuse Material",
+      "link": "https://decrypt.co/326305/elliptic-iwf-combat-crypto-financing-child-abuse-material",
+      "summary": "The Internet Watch Foundation found that cryptocurrencies are the most commonly offered method of payment on child abuse websites."
+    },
+    {
       "title": "Solana, XRP and Dogecoin ETF Approvals in 2025 Are a Near Lock, Analysts Say",
       "link": "https://decrypt.co/326353/solana-xrp-dogecoin-etf-approvals-2025-near-lock",
       "summary": "Wall Street analysts say that SEC approvals for ETFs based on altcoins including Dogecoin, XRP, and Solana are nearly a sure thing this year."
@@ -154,11 +159,6 @@
       "title": "Bitcoin, Dogecoin Targeted as Norway Eyes Ban on New Crypto Mining Operations",
       "link": "https://decrypt.co/326280/bitcoin-dogecoin-targeted-norway-eyes-ban-new-crypto-mining-operations",
       "summary": "The government said it will \"explore the possibility of temporarily prohibiting the establishment of new data centers in Norway that extract cryptocurrency.\""
-    },
-    {
-      "title": "Texas Sheriffs Crack Bitcoin ATM With Power Tools to Retrieve $32,000",
-      "link": "https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000",
-      "summary": "Jasper County Sheriff Chuck Havard told that authorities have likely accessed the machines before."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "FUNToken whales load up: Bullish signal",
+      "link": "https://ambcrypto.com/funtoken-whales-load-up-bullish-signal/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"507\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-21-181622.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"764\" />While recent market observations indicate strong buying pressure and order book imbalances for FUNToken, reports [&#8230;]"
+    },
+    {
+      "title": "$487 mln Solana on the move: What\u2019s hidden behind this transfer?",
+      "link": "https://ambcrypto.com/487-mln-solana-on-the-move-whats-hidden-behind-this-transfer/",
+      "summary": "<img alt=\"$487 mln Solana on the move: What&#039;s hidden behind this transfer?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-21T094945.865-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana\u2019s whale activity, strong fundamentals, and rising attention point to a stealth accumulation phase."
+    },
+    {
       "title": "Ethereum whales sell $321 mln in 60 seconds! Still, a tough battle remains",
       "link": "https://ambcrypto.com/ethereum-whales-sell-321-mln-in-60-seconds-still-a-tough-battle-remains/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-3-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Are bulls regaining control or will bearish momentum push ETH lower?"
@@ -203,16 +213,6 @@
       "title": "Can holding Bitcoin make you a target? France\u2019s scary new reality",
       "link": "https://ambcrypto.com/can-holding-bitcoin-make-you-a-target-frances-scary-new-reality/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"691\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Wrench-attack-in-France.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1228\" />Here's what happens when Bitcoin becomes too valuable to protect with just a password."
-    },
-    {
-      "title": "Semler Scientific\u2019s Bitcoin vision: 42K BTC buy in 2026, 105K in 2027",
-      "link": "https://ambcrypto.com/semler-scientifics-bitcoin-vision-42k-btc-buy-in-2026-105k-in-2027/",
-      "summary": "<img alt=\"Semler Scientific&#039;s Bitcoin vision: 42K BTC buy in 2026, 105K in 2027\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Semler-Scientifics-Bitcoin-strategy.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1267\" />What\u2019s behind the sudden crypto pivot by a medical tech company, and who\u2019s pulling the strings?"
-    },
-    {
-      "title": "KAIA surges 70% monthly, but THIS points to a pullback ahead",
-      "link": "https://ambcrypto.com/kaia-surges-70-monthly-but-this-points-to-a-pullback-ahead/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250620_161753_0000.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />KAIA sees a major break, but this isn\u2019t the bullish flag."
     }
   ]
 }
