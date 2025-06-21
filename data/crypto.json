@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "ADA Falls 4% on Heavy Volume, but Cardano's Upcoming Leios Upgrade Keeps Hopes Alive",
+      "link": "https://www.coindesk.com/markets/2025/06/21/ada-falls-4-on-heavy-volume-but-cardano-mainnet-s-leios-upgrade-keeps-hopes-alive",
+      "summary": ""
+    },
+    {
       "title": "ETH Under $2,500: Friday Sees Highest Outflows From Spot ETH ETFs This Month",
       "link": "https://www.coindesk.com/markets/2025/06/21/eth-under-usd2-500-friday-sees-highest-outflows-from-spot-eth-etfs-this-month",
       "summary": ""
@@ -18,11 +23,6 @@
     {
       "title": "Bitcoin Quickly Plunges Below $103K, With Volatility Burst Spurring $450M in Crypto Liquidations",
       "link": "https://www.coindesk.com/markets/2025/06/20/bitcoin-quickly-plunges-below-103k-with-volatility-burst-spurring-450m-in-crypto-liquidations",
-      "summary": ""
-    },
-    {
-      "title": "Trumps May Have Sold Platform Stake as U.S. Stablecoins See Wave of Good News",
-      "link": "https://www.coindesk.com/policy/2025/06/20/as-u-s-stablecoins-see-wave-of-good-news-trumps-may-have-sold-platform-stake",
       "summary": ""
     }
   ],
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "From Free NFT Mint to Drinks at 7-Eleven: Rekt Is Reaching the Masses",
+      "link": "https://decrypt.co/326337/from-nft-drinks-7-eleven-rekt-reaching-masses",
+      "summary": "Rekt began life as free Ethereum NFT drop and now is a rising drink brand, with cans hitting 7-Eleven stores this week."
+    },
+    {
       "title": "Elliptic, Internet Watch Foundation Team Up to Combat Crypto Financing of Child Abuse Material",
       "link": "https://decrypt.co/326305/elliptic-iwf-combat-crypto-financing-child-abuse-material",
       "summary": "The Internet Watch Foundation found that cryptocurrencies are the most commonly offered method of payment on child abuse websites."
@@ -154,11 +159,6 @@
       "title": "Public Keys: Circle and Coinbase Get GENIUS Bump, Bitcoin Treasuries on Shaky Ground?",
       "link": "https://decrypt.co/326330/public-keys-circle-coinbase-genius-bump-bitcoin-treasuries-shaky-ground",
       "summary": "Circle skyrockets on stablecoin optimism while Bitcoin treasury firms face valuation challenges in this week's public markets roundup."
-    },
-    {
-      "title": "Bitcoin, Dogecoin Targeted as Norway Eyes Ban on New Crypto Mining Operations",
-      "link": "https://decrypt.co/326280/bitcoin-dogecoin-targeted-norway-eyes-ban-new-crypto-mining-operations",
-      "summary": "The government said it will \"explore the possibility of temporarily prohibiting the establishment of new data centers in Norway that extract cryptocurrency.\""
     }
   ],
   "CryptoBriefing": [
