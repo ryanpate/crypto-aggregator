@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "What Are Savvy Bitcoin and Ether Traders Preparing For as Summer Approaches?",
+      "link": "https://www.coindesk.com/markets/2025/06/21/what-are-savvy-bitcoin-and-ether-traders-preparing-for-as-summer-approaches",
+      "summary": ""
+    },
+    {
+      "title": "Solana's SOL Holds $140 Support as Reversal Pattern Gains Strength",
+      "link": "https://www.coindesk.com/markets/2025/06/21/solana-s-sol-holds-usd140-support-as-reversal-pattern-gains-strength",
+      "summary": ""
+    },
+    {
+      "title": "BNB Slips Below Key Support as Traders Brace for Maxwell Upgrade and Mideast Shockwaves",
+      "link": "https://www.coindesk.com/markets/2025/06/21/bnb-slips-below-key-support-as-traders-brace-for-maxwell-upgrade-and-mideast-shockwaves",
+      "summary": ""
+    },
+    {
       "title": "ARK Invest Dumps $146.3M More Circle Shares After Meteoric 670% IPO Surge",
       "link": "https://www.coindesk.com/markets/2025/06/21/ark-invest-dumps-1463m-more-circle-shares-after-meteoric-670-ipo-surge",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "CoinMarketCap Briefly Exploited With Wallet Phishing Pop-Up Message",
       "link": "https://www.coindesk.com/tech/2025/06/21/coinmarketcap-briefly-exploited-with-wallet-phishing-pop-up-message",
       "summary": ""
-    },
-    {
-      "title": "ADA Falls 4% on Heavy Volume, but Cardano's Upcoming Leios Upgrade Keeps Hopes Alive",
-      "link": "https://www.coindesk.com/markets/2025/06/21/ada-falls-4-on-heavy-volume-but-cardano-mainnet-s-leios-upgrade-keeps-hopes-alive",
-      "summary": ""
-    },
-    {
-      "title": "ETH Under $2,500: Friday Sees Highest Outflows From Spot ETH ETFs This Month",
-      "link": "https://www.coindesk.com/markets/2025/06/21/eth-under-usd2-500-friday-sees-highest-outflows-from-spot-eth-etfs-this-month",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Falls Below $104K as Retail Investor Sentiment Returns to Liberation Day Levels",
-      "link": "https://www.coindesk.com/markets/2025/06/21/bitcoin-falls-below-usd104k-as-retail-investor-sentiment-returns-to-liberation-day-levels",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "SOL price drop to $120 looks likely, but there\u2019s a silver lining",
+      "link": "https://cointelegraph.com/news/sol-price-drop-to-120-looks-likely-but-there-s-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg5M2MtY2I3NS03MTI5LWJjYTMtMmFhMTc4MTZkMzBj.jpg\" /></p><p>A head-and-shoulders pattern sets a $120 target for SOL, but bullish onchain data points to resilient longer-term fundamentals.</p>"
+    },
     {
       "title": "Bitcoin Knots gain ground: Will a chain split kill BTC price?",
       "link": "https://cointelegraph.com/news/bitcoin-knots-chain-split-kill-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "XRP price rally\u2019s biggest earners are selling $68.5M tokens every day",
       "link": "https://cointelegraph.com/news/xrp-price-rally-biggest-earners-selling-68-5m-tokens-every-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg\" /></p><p>XRP could drop 35%, potentially revisiting the $1.35\u2013$1.60 range, on-chain and technical metrics suggest.</p>"
-    },
-    {
-      "title": "ZachXBT slams Bitcoin bridge Garden Finance for laundering hacked funds",
-      "link": "https://cointelegraph.com/news/zachxbt-garden-finance-lazarus-laundering-allegations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkxZTMtYmNhMi03ZjIyLThlZTAtZDVlNTliODk1ZTdk.jpg\" /></p><p>ZachXBT claims over 80% of Garden Finance\u2019s fees are tied to crypto laundering, challenging the project\u2019s decentralization narrative.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "All Signs Point To A Bitcoin Liftoff\u2014Here\u2019s What The Experts See",
+      "link": "https://www.newsbtc.com/news/bitcoin/all-signs-point-to-a-bitcoin-liftoff-heres-what-the-experts-see/",
+      "summary": "Based on reports from analyst Moustache, Bitcoin may be gearing up for its next big move. The world\u2019s largest cryptocurrency climbed above $105,000 for the second time this week. At press time, it was trading at nearly $104,000, up 0.50% over the past 24 hours. Related Reading: Bitcoin Nears Climax, But A Twist Awaits\u2014Analyst Reveals Key Insight Historical RSI Breakouts Could Signal New Push According to the charts shared by Moustache, Bitcoin\u2019s monthly Relative Strength Index (RSI) tends to surge into overbought territory just before major rallies. Back in July 2013, Bitcoin sat at $66, then jumped to nearly $1,120 by November as the RSI hit high levels. A similar spike happened in May 2017, when BTC rose from about $1,300 to $19,700 by December. On April 1, 2021, Bitcoin reached $64,800 while the RSI again climbed beyond its usual range. In 2024, those RSI peaks came on March 1 at $73,800 and again in November when it cleared $100,000. #Bitcoin$BTC monthly RSI is so close to entering overbought territory. The real run starts with this. Look at the past and you know why. pic.twitter.com/8O1Z8RDuNs \u2014 \ud835\udd44\ud835\udd60\ud835\udd66\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd54\u24d7\ud835\udd56 \ud83e\uddf2 (@el_crypto_prof) June 19, 2025 Whales Stack Up Bitcoin While Retail Pulls Back Based on reports from on\u2011chain data provider Santiment, large holders are scooping up coins even as smaller investors step aside. Over the last 10 days, wallets with at least 10 BTC rose by 231 addresses. At the same time, retail wallets holding between 0.001 and 10 BTC fell by 37,460 addresses. That shift suggests big players are using recent dips as a buying chance. In past cycles, similar moves by whales have come before sustained price gains. \ud83d\udcca Bitcoin&#8217;s elite vs. mortal wallets are moving in two different directions as its market value sits just north of $104.3K. \ud83d\udc33 Wallets with 10+ $BTC: +231 Wallets in 10 Days (+0.15%) \ud83e\udd90 Wallets with 0.001 to 10 $BTC: -37,465 Wallets in 10 Days (+0.15%) When large wallets\u2026 pic.twitter.com/uhZf6rPYvq \u2014 Santiment (@santimentfeed) June 19, 2025 Overbought But Not Out Analysts warn that an overbought RSI doesn\u2019t always mean an instant surge. In past runs, Bitcoin often paused or pulled back for days or even weeks before the real rally got underway. Sometimes the RSI stayed elevated while prices drifted sideways. In 2017, for example, a correction followed the high RSI but the broader uptrend kept going. Today\u2019s RSI is near those same levels\u2014and could linger there for a while. Related Reading: Dogecoin Breaks Free\u2014Could Soar 60%, Analyst Says What Comes Next For Bitcoin Investors will be looking beyond technical cues. Macro events, ETF moves and regulatory announcements may guide the next direction. If institutions continue to accumulate and retail continues to avoid, price pressure will develop. But a surprise headline or policy change might go the other direction. For now, the intersection of high RSI and increasing whale demand suggests a setup that has fueled previous bull frenzies. Featured image from Unsplash, chart from TradingView"
+    },
+    {
       "title": "Bitcoin Price Breakdown Spurs Sell-Offs, Analyst Reveals What Will Happen If BTC Hits 92,800",
       "link": "https://www.newsbtc.com/news/bitcoin/if-bitcoin-hits-92800/",
       "summary": "The Bitcoin price crashed from as high as $106,000 to $102,000 on June 20, sparking sell-offs among investors. Now, crypto analyst Colin has indicated that the flagship crypto could still drop to as low as $92,800 and revealed what will happen if BTC gets there. The Current Bitcoin Price Action And What To Expect In an X post, Colin said that it looks increasingly likely that the Bitcoin price will see a retest of at least 100,800 as the first major level of support. The analyst made this statement as BTC dropped out of a bullish pennant for a second time. The measured target for this bull pennant is $150,000. Related Reading: Analyst Says Bitcoin Price Could Rise 3x To $300,000 As AVIV Levels Resemble Previous Bull Cycles However, with the most recent breakdown, the Bitcoin price threatens to decline further before any potential move to the upside. Colin stated that the next major levels below $100,800 are $97,600 and $92,800. He opined that BTC is likely to quickly rebound from these support levels if it gets there. The crypto analyst remarked that this Bitcoin price movement is all possible within the confines of the right shoulder of the larger inverse Head-and-Shoulders pattern. He added that this can make the right shoulder more complete, basically on the same level as the left shoulder. This analysis comes just a day after Colin revealed that BTC has deviated from the global M2 money supply. However, he suggested that the BTC bull market is far from over. The analyst noted that the deviation happens 20% of the time and doesn\u2019t invalidate the macro trend. Basically, the Bitcoin price is primed to rally higher at some point and possibly reach the $150,000 measured target. Market expert Raoul Pal also commented on BTC\u2019s correlation with the money supply, stating that it shows that there is no need to worry about the current price action. Bulls Need To Step In For BTC In an X post, crypto analyst Titan of Crypto stated that the Bulls need to step in now for the Bitcoin price. He noted that BTC is facing a key test, having just been rejected at the Fair Value Gap at around $106,000. The analyst added that the flagship crypto is now retesting the lower boundary of the symmetrical triangle. Related Reading: Analyst Says Bitcoin Price Could Rise 3x To $300,000 As AVIV Levels Resemble Previous Bull Cycles Titan of Crypto stated that if this lower boundary at around $104,000 fails, then the next level would be the previous weekly low at $102,679. If the Bitcoin price fails to hold that level, it could further drop to the liquidity pocket near $100,300. At the time of writing, the Bitcoin price is trading at around $103,500, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com"
@@ -100,11 +105,6 @@
       "title": "Tron Energy Usage Surges 108% \u2013 Smart Contract Activity Accelerates",
       "link": "https://www.newsbtc.com/news/tron-trx/tron-energy-usage-surges-108-smart-contract-activity-accelerates/",
       "summary": "Tron (TRX) has captured investor attention once again with major developments surrounding its future. On Monday, Nasdaq-listed SRM Entertainment (SRM.O) confirmed a strategic agreement with Tron founder Justin Sun. The deal will see SRM acquire Tron tokens, rebrand itself as &#8220;Tron Inc.,&#8221; and onboard Sun as an adviser, effectively bringing Tron closer to becoming a publicly traded entity. This marks a historic shift for the blockchain industry and positions Tron in a unique space among crypto projects. Related Reading: Solana Analyst Sees $123 And $116 As Mid-Zone Support Levels \u2013 Here\u2019s Why However, the market backdrop is anything but calm. Rising geopolitical tensions in the Middle East have sparked sharp volatility across risk assets, including Tron. While the token\u2019s price has fluctuated significantly, long-term metrics suggest underlying strength in the network. According to new CryptoQuant data, TRON\u2019s total daily energy consumption\u2014an important measure of smart contract execution and user activity\u2014has surged 108% year-over-year. It now sits at 200 billion energy units per day, compared to just 77 billion a year ago. Notably, 80% of this demand originates from staked TRX, indicating robust participation in the protocol and a significant increase in smart contract interactions. Together, these factors underscore Tron&#8217;s growing relevance as both a technical platform and a public-facing blockchain enterprise. Tron Trades Near Key Demand Amid Broader Market Pullback Tron is currently testing key demand levels after a 9% correction from its recent high near $0.295. The price had briefly surged on Monday after the announcement of Tron\u2019s plans to go public through a deal with Nasdaq-listed SRM Entertainment. However, the excitement was short-lived. As macroeconomic uncertainty deepens and Middle East conflicts escalate, the entire crypto market has entered a retracement phase, dragging TRX below the levels it traded at prior to the news. Despite the challenging conditions, on-chain fundamentals paint a much more resilient picture. CryptoQuant data shows that Tron\u2019s network activity remains robust, with energy consumption\u2014used to execute smart contracts\u2014up 108% year-over-year. Total daily energy usage now exceeds 200 billion units, compared to just 77 billion at the same time last year. This surge in energy use signals growing demand for on-chain operations and smart contract execution. Importantly, about 80% of this energy demand comes from staked TRX, pointing to strong user commitment to the network and increased participation in decentralized applications. The divergence between TRX\u2019s on-chain strength and its current price performance suggests that the recent pullback may be more about broader market stress than any deterioration in Tron\u2019s fundamentals. If volatility stabilizes, these robust activity metrics could help position Tron for a strong recovery. Related Reading: Ethereum Prepares For A Decisive Move: ETH/BTC Setup Could Trigger Altseason TRX Price Holds Trendline Support Despite Volatile Reversal Tron is currently trading at $0.2730, showing a modest 9% pullback from the $0.295 high reached earlier this week following the announcement of a deal involving SRM Entertainment. Price action in the chart reflects this volatile reaction\u2014after spiking, TRX retraced sharply and is now consolidating just above the 50-day moving average (blue line), which has acted as dynamic support over the past two months. Despite this pullback, the structure remains bullish. TRX continues to respect the long-term ascending trendline formed since early March, with higher lows being maintained. Volume surged during the initial rally on the announcement but has since returned to pre-news levels, indicating fading short-term hype and a return to fundamentals. Looking at the broader setup, the 100-day and 200-day moving averages (green and red lines) remain sloped upward, reflecting sustained long-term momentum. The $0.269\u2013$0.253 support band, defined by these MAs, will be key if further downside pressure materializes. Related Reading: Ethereum Analyst Eyes High Timeframe Close \u2013 Range Break Above $2,800 Could Be Violent A break above $0.295 would invalidate this short-term pullback and potentially ignite a move toward $0.32. Conversely, failure to hold the trendline could trigger a deeper retracement. For now, TRX holds structure\u2014yet caution remains warranted given broader market uncertainty. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "XRP Price Crash Tests Critical Support At $2.1, Will It Break?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-crash-tests-2-1/",
-      "summary": "After the market crash that sent the Bitcoin price falling toward $100,000, the XRP price also saw a notable decline, and this crash has brought it toward an important level. While the digital asset continues to hold above the $2.1 level, it remains critical support and a break below this could be negative for the price. This is outlined by crypto analyst The Alchemist Trader, who has shown what direction the XRP price could be headed in depending on what happens here. XRP Price Threatens Major Support Level After the almost 4.5% decline that ravaged the XRP price over the last week, it has been pushed down toward the next major support level, lying just above $2.09. So far, the bulls have defended this level, but the multiple tests suggest that a breakdown at this level could be in view. Related Reading: Analyst Predicts 20% Ethereum Price Crash Below $2,000, Here\u2019s Why The analyst explains that the reason this level is so important is that it actually includes the value area low recorded in previous declines. Additionally, it is the 200-day moving average (MA) for the cryptocurrency, and also now serves as a key daily support/resistance flip. This means either camp of the bulls and bears can pull it in their direction, making it incredibly important for what happens to the XRP price in the short term. Given the importance of this level, whether it holds or breaks will carry serious implications for the XRP price. In the bearish scenario, the crypto analyst explains that a break below this support would trigger a liquidity sweep as the price dumps lower. The possibility of a break is even higher now, given that this level has already been tested multiple times. The Alchemist explains that each test weakens the level, putting it at risk of a breakdown. However, with long consolidation so far above this level, there is a bullish scenario that is rising. As bulls continue to maintain this support, further strength here could erode the possibility of a decline. If properly defended with a notable uptick in volume, in addition to a move upward into the recent local highs at $2.4, then it is likely that the XRP price continues to move up. Related Reading: Ethereum Bullish Wave Towards ATH Coming? Here Are The Targets \u201cFor bulls, a clean defense of this level with volume and a move back above recent local highs would indicate a potential rotation toward the next resistance,\u201d the analysis read. \u201cFor bears, a breakdown without a reclaim increases the likelihood of continuation to the downside.\u201d As for how to play the current trend, the analyst advises investors to exercise caution and wait for confirmation before taking positions. The confirmation here would either be a break below the support or a strong upward rally away from it, signaling a clear direction. Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "How 'MapleStory N' Is Fighting Back Against Thousands of Hackers",
+      "link": "https://decrypt.co/326266/how-maplestory-n-fighting-back-against-hackers",
+      "summary": "MapleStory N is banning thousands of hackers a day, as abusers try to make a quick buck off the Avalanche blockchain game."
+    },
+    {
       "title": "From Free NFT Mint to Drinks at 7-Eleven: Rekt Is Reaching the Masses",
       "link": "https://decrypt.co/326337/from-nft-drinks-7-eleven-rekt-reaching-masses",
       "summary": "Rekt began life as free Ethereum NFT drop and now is a rising drink brand, with cans hitting 7-Eleven stores this week."
@@ -154,11 +159,6 @@
       "title": "Nakamoto Holdings Rakes in $51.5 Million for Publicly Traded Bitcoin Treasury",
       "link": "https://decrypt.co/326316/nakamoto-holdings-51-5-million-publicly-traded-bitcoin-treasury",
       "summary": "The Bitcoin holdings company's merger partner KindlyMD closed the $51.5 million fundraise with private investors on Friday."
-    },
-    {
-      "title": "Public Keys: Circle and Coinbase Get GENIUS Bump, Bitcoin Treasuries on Shaky Ground?",
-      "link": "https://decrypt.co/326330/public-keys-circle-coinbase-genius-bump-bitcoin-treasuries-shaky-ground",
-      "summary": "Circle skyrockets on stablecoin optimism while Bitcoin treasury firms face valuation challenges in this week's public markets roundup."
     }
   ],
   "CryptoBriefing": [
