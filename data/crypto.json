@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin price risks sub-$100K dive after Trump confirms Iran strikes",
+      "link": "https://cointelegraph.com/news/bitcoin-price-risks-sub-100k-dive-after-trump-confirms-iran-strikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMzMtZWVhNS03ZDI0LWJiMWItMzllNGVkNzhiMGJk.jpg\" /></p><p>BTC price declines accelerate as the US hits Iran's nuclear facilities, but traders are hopeful that Bitcoin may even gain from geopolitical uncertainty.</p>"
+    },
+    {
       "title": "Texas governor signs bill adding Bitcoin to official reserves",
       "link": "https://cointelegraph.com/news/texas-creates-bitcoin-reserve-with-public-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg\" /></p><p>Texas becomes the first US state to commit public funds to a standalone Bitcoin reserve, aiming to treat BTC as a long-term strategic asset.</p>"
@@ -46,14 +51,14 @@
       "title": "Samson Mow wants Bitcoin in \u2018all of Europe,\u2019 receives invite to France",
       "link": "https://cointelegraph.com/news/jan3-samson-mow-bitcoin-adoption-europe-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0ZmEtZGI2Zi03MjFjLWEyNTYtNzIzMjI2MDI0YmI1.jpg\" /></p><p>French lawmaker Sarah Knafo has invited Samson Mow to visit France, and Mow says he is keen to kick off a wave of nation-state Bitcoin adoption across Europe.</p>"
-    },
-    {
-      "title": "Cathie Wood&#039;s ARK dumps $146M in Circle amid share surge",
-      "link": "https://cointelegraph.com/news/cathie-wood-ark-dump-146-million-circle-shares-crlc-rise-240?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkzZmUtMGI4OC03MDZmLTgwZTMtMTYxM2YxODE0NzQx.jpg\" /></p><p>Despite the massive sale, ARK remains the eighth largest Circle holder.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Crypto has grown up: Why the Rolex rally is on pause in 2025",
+      "link": "https://cryptoslate.com/crypto-has-grown-up-why-the-rolex-rally-is-on-pause-in-2025/",
+      "summary": "<p>The following is a guest post and opinion from Gracy Chen, CEO of Bitget. There was a time not too long ago when the pulse of the crypto market could be measured not only by candlestick charts but by the waitlists at luxury watch boutiques. During the 2020\u20132022 bull cycle, the correlation between Bitcoin and [&#8230;]</p> <p>"
+    },
     {
       "title": "Coinbase CEO highlights 3 key reasons why the world needs crypto",
       "link": "https://cryptoslate.com/coinbase-ceo-highlights-3-key-reasons-why-the-world-needs-crypto/",
@@ -73,11 +78,6 @@
       "title": "Bloomberg analysts revise altcoin ETF approval odds to \u201890% or higher\u2019 as SEC requests amended filings",
       "link": "https://cryptoslate.com/bloomberg-analysts-revise-etf-approval-odds-to-90-or-higher-as-sec-requests-amended-filings/",
       "summary": "<p>Bloomberg analysts have sharply increased the likelihood of U.S. regulators approving a new wave of cryptocurrency exchange-traded funds, pointing to a friendlier stance from the Securities and Exchange Commission (SEC). Bloomberg senior ETF analysts Eric Balchunas and James Seyffart said on June 20 that they now see a &#8220;90% or higher&#8221; chance that a broad [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase secures MiCA approval, shifts headquarters to Luxembourg",
-      "link": "https://cryptoslate.com/coinbase-secures-mica-approval-shifts-headquarters-to-luxembourg/",
-      "summary": "<p>Coinbase, the largest US-based exchange, has taken a major step in its global expansion by securing approval under the European Union\u2019s Markets in Crypto-Assets (MiCA) regulation, according to a June 20 statement. The exchange confirmed that Luxembourg\u2019s financial watchdog, the Commission de Surveillance du Secteur Financier (CSSF), granted it the necessary license to operate across the [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,7 +136,7 @@
   ],
   "Decrypt": [
     {
-      "title": "Crypto Market Liquidations Top $701M as U.S. Strikes Hit Iran's Nuclear Facilities",
+      "title": "Crypto Market Liquidations Top $701M as US Strikes Hit Iran's Nuclear Facilities",
       "link": "https://decrypt.co/326402/crypto-market-liquidations-top-701m-as-u-s-strikes-hit-irans-nuclear-facilities",
       "summary": "Ethereum led the crypto market selloff Sunday morning, after U.S. President Donald Trump ordered strikes on three Iranian nuclear facilities."
     },
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Solana stalls at $135 \u2013 Assessing the odds of a 20% SOL dip",
+      "link": "https://ambcrypto.com/solana-stalls-at-135-assessing-the-odds-of-a-20-sol-dip/",
+      "summary": "<img alt=\"SOLANA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-22T135914.561_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana's price could drop by over 20% and may reach the $114 level if the sentiment remains unchanged."
+    },
+    {
       "title": "Ethereum faces macro crisis: Can ETH\u2019s $2K hold? \u2013 KEY insights reveal\u2026",
       "link": "https://ambcrypto.com/ethereum-faces-macro-crisis-can-eths-2k-hold-key-insights-reveal/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could $2,000 be ETH\u2019s final lifeline before the plunge?"
@@ -208,11 +213,6 @@
       "title": "Fartcoin whale makes $2M move just before $6M liquidation \u2013 Warning sign?",
       "link": "https://ambcrypto.com/fartcoin-whale-makes-2m-move-just-before-6m-liquidation-warning-sign/",
       "summary": "<img alt=\"FARTCOIN\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-21T152710.704-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN faces intense bearish pressure as longs get wiped out and price stalls below key resistance."
-    },
-    {
-      "title": "$50M Telegram scam exposed! \u2013 4 altcoins targeted: Details here",
-      "link": "https://ambcrypto.com/50m-telegram-scam-exposed-4-altcoins-targeted-details-here/",
-      "summary": "<img alt=\"OTC Crypto Scams\" class=\"attachment-full size-full wp-post-image\" height=\"810\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/OTC-Crypto-Scams.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1440\" />Even with clear public warnings, millions kept flowing , what made investors ignore the red flags?"
     }
   ]
 }
