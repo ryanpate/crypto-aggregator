@@ -2,6 +2,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="preload" as="image" href="/banner.png" />
+  <!-- AdSense loader -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777" crossorigin="anonymous"></script>
 {{/* Page title block */}}
   {{ block "title" . }}
     <title>{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}</title>
@@ -9,11 +11,13 @@
   <link rel="canonical" href="{{ .Permalink }}" />
   {{/* Meta description block */}}
   {{ block "description" . }}
-    <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
+    <meta name="description"
+          content="BlockWireNews is your go-to source for real-time cryptocurrency coverage: in-depth weekly crypto market analysis, live Bitcoin & Ethereum price updates, Solana, Cardano & XRP ETF developments, DeFi yield farming strategies, NFT drops, blockchain technology news, crypto trading tips, Web3 tutorials, institutional adoption and more." />
   {{ end }}
   {{/* Meta keywords block */}}
   {{ block "keywords" . }}
-    <meta name="keywords" content="{{ if .Params.keywords }}{{ .Params.keywords }}{{ else }}cryptocurrency, crypto news, Bitcoin, Ethereum, altcoins, blockchain, DeFi, NFTs, crypto blog{{ end }}" />
+    <meta name="keywords"
+          content="cryptocurrency, Bitcoin price, Ethereum staking, Solana news, Cardano updates, XRP ETF, Dogecoin rally, Polkadot developments, Avalanche insights, Chainlink oracle, Polygon scaling, DeFi yield farming, NFT marketplace, crypto trading tips, best crypto wallets, how to buy crypto, crypto regulation, crypto taxation, blockchain technology, Web3, Metaverse, DAO governance, crypto portfolio strategy, live crypto prices, price prediction, altcoin analysis, institutional crypto adoption" />
   {{ end }}
   <meta name="author" content="{{ with .Params.author }}{{ .Params.author }}{{ else }}BlockWireNews Team{{ end }}" />
   <!-- Open Graph -->
@@ -35,11 +39,6 @@
   <!-- …other head tags (CSS, favicon)… -->
   {{ partial "structureddata.html" . }}
   {{ if .IsPage }}
-  <!-- AdSense loader -->
-  <script 
-    async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777"
-    crossorigin="anonymous">
-  </script>
   <script>
     (adsbygoogle = window.adsbygoogle || []).push({
       google_ad_client: "ca-pub-5523870768931777",
