@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "ADA Takes a Hard Fall as Traders Feel the Heat of War in the Middle East",
+      "link": "https://www.coindesk.com/markets/2025/06/22/ada-takes-a-hard-fall-as-traders-feel-the-heat-of-war-in-the-middle-east",
+      "summary": ""
+    },
+    {
       "title": "Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls",
       "link": "https://www.coindesk.com/markets/2025/06/22/dogecoin-drops-8-but-shows-v-shaped-recovery-in-boost-for-bulls",
       "summary": ""
@@ -18,11 +23,6 @@
     {
       "title": "Bullish Crypto Bets Liquidated for $595M as U.S. Bombs Iran Nuclear Sites",
       "link": "https://www.coindesk.com/markets/2025/06/22/bullish-crypto-bets-liquidated-for-595m-as-us-bombs-iran-nuclear-sites",
-      "summary": ""
-    },
-    {
-      "title": "ETH Drops 8% in Flash Crash, Recovers After Buyers Step In",
-      "link": "https://www.coindesk.com/markets/2025/06/22/eth-drops-8-in-flash-crash-recovers-after-buyers-step-in",
       "summary": ""
     }
   ],
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum faces macro crisis: Can ETH\u2019s $2K hold? \u2013 KEY insights reveal\u2026",
+      "link": "https://ambcrypto.com/ethereum-faces-macro-crisis-can-eths-2k-hold-key-insights-reveal/",
+      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could $2,000 be ETH\u2019s final lifeline before the plunge?"
+    },
+    {
       "title": "Mapping XRP\u2019s road to $2.35 \u2013 Bulls, watch THESE levels next",
       "link": "https://ambcrypto.com/mapping-xrps-road-to-2-35-bulls-watch-these-levels-next/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-21T153947.783-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP\u2019s optimism grows, but weak on-chain activity threatens breakout hopes below $2.35 resistance."
@@ -208,11 +213,6 @@
       "title": "$50M Telegram scam exposed! \u2013 4 altcoins targeted: Details here",
       "link": "https://ambcrypto.com/50m-telegram-scam-exposed-4-altcoins-targeted-details-here/",
       "summary": "<img alt=\"OTC Crypto Scams\" class=\"attachment-full size-full wp-post-image\" height=\"810\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/OTC-Crypto-Scams.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1440\" />Even with clear public warnings, millions kept flowing , what made investors ignore the red flags?"
-    },
-    {
-      "title": "Hacken: How a 251M token mint shook HAI to its core!",
-      "link": "https://ambcrypto.com/hacken-how-a-251m-token-mint-shook-hai-to-its-core/",
-      "summary": "<img alt=\"HAI\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-1-5.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The 251 million HAI mint erupted like a volcano - Liquidity surged, and panic swept the market."
     }
   ]
 }
