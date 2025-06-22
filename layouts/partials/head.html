@@ -35,11 +35,17 @@
   <!-- …other head tags (CSS, favicon)… -->
   {{ partial "structureddata.html" . }}
   {{ if .IsPage }}
-    <!-- AdSense loader -->
-    <script 
-      async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777"
-      crossorigin="anonymous">
-    </script>
+  <!-- AdSense loader -->
+  <script 
+    async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777"
+    crossorigin="anonymous">
+  </script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-5523870768931777",
+      enable_page_level_ads: true
+    });
+  </script>
   {{ end }}
 
 </head>
