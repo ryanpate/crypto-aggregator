@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Every Bank and Fintech Wants DeFi Under the Hood: Alchemy",
+      "link": "https://www.coindesk.com/business/2025/06/23/every-bank-and-fintech-wants-defi-under-the-hood-alchemy",
+      "summary": ""
+    },
+    {
       "title": "Dogecoin Jumps After Rollercoaster Weekend Price-Action",
       "link": "https://www.coindesk.com/markets/2025/06/23/dogecoin-jumps-after-rollercoaster-weekend-price-action",
       "summary": ""
@@ -19,41 +24,46 @@
       "title": "Metaplanet Buys 1,111 Bitcoin for $117M, Pushes Total Holdings to Over 11K BTC",
       "link": "https://www.coindesk.com/markets/2025/06/23/metaplanet-buys-1111-bitcoin-for-117m-pushes-total-holdings-to-over-11k-btc",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Holds Key Support; Oil Disappoints 'Doomers' as Brent and WTI Erase Early Price Gains",
-      "link": "https://www.coindesk.com/markets/2025/06/23/bitcoin-holds-key-support-oil-disappoints-doomers-as-brent-and-wti-erase-early-price-gains",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Ethereum whales open $100M of leveraged bets after US strikes Iran",
+      "link": "https://cointelegraph.com/news/ether-whales-100m-leveraged-bets-after-us-airstrike-on-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZhYTktYWY3ZC03NTYyLTk2MTktOTM0NWM5NzZmNDgw.jpg\" /></p><p>Whales are betting hundreds of millions on Ether\u2019s price recovery despite the industry\u2019s most successful traders being net short amid escalating conflict in the Middle East.</p>"
+    },
+    {
+      "title": "$92K dip vs &#039;short-lived war&#039; \u2014\u00a05 things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/news/92k-dip-vs-short-term-war-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliZjQtMGQyZS03Nzk3LWI3MDgtYjBkNmFkYmEzNWI0.jpg\" /></p><p>Bitcoin is about to juggle a slew of geopolitcal and macroeconomic volatility triggers in a nail-biting end to June as $100,000 support hangs in the balance.</p>"
+    },
+    {
+      "title": "How low can the Bitcoin price go?",
+      "link": "https://cointelegraph.com/news/how-low-can-the-bitcoin-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvN2EwNzM2NmEtNzRmMy00NGI4LWIzYjYtZGM0ZDlmNDRkODg1.jpg\" /></p><p>Bitcoin dipped below $100,000 for the first time in six weeks, prompting predictions that BTC price would fall further to $93,000, with a possible bottom of $74,000.</p>"
+    },
+    {
+      "title": "OKX crypto exchange considering US IPO after local relaunch: Report",
+      "link": "https://cointelegraph.com/news/okx-crypto-exhchange-ipo-united-states-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliY2QtNWY3Mi03OGU2LWI4NjktZDY3ZmYwZDk5Zjhi.jpg\" /></p><p>OKX\u2019s reported US IPO comes as the exchange faces regulatory pressures in Asia.</p>"
+    },
+    {
       "title": "Musk wants Grok AI to \u2018rewrite the entire corpus of human knowledge\u2019",
       "link": "https://cointelegraph.com/news/elon-musk-grok-ai-rewrite-the-entire-corpus-human-knowledge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliMDYtNDcwYS03NjdlLWFhNjgtNWZiZmEzYmM0ZjJh.jpg\" /></p><p>Elon Musk has said he\u2019s unhappy with the data used to train his AI model, Grok, and now plans to Grok-ify the entire history of human knowledge.</p>"
-    },
-    {
-      "title": "FTX rejects 3AC\u2019s $1.5B claim, citing \u2018failed trading strategy\u2019",
-      "link": "https://cointelegraph.com/news/ftx-seeks-toss-three-arrows-capital-1-5-billion-claim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlhYjUtM2YwNi03YTNlLWI3NzUtNWVhZjliYTgwZDY3.jpg\" /></p><p>FTX lawyers argued that creditors should not serve as a \u201cbackstop\u201d for Three Arrows Capital\u2019s risky leveraged strategy.</p>"
-    },
-    {
-      "title": "$5.1B Cardone Capital buys 1,000 Bitcoin, eyes another 3,000 BTC",
-      "link": "https://cointelegraph.com/news/5-1b-real-estate-firm-cardone-capital-buys-1-000-btc-plans-for-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliMjUtNTczOC03YTU1LTllZTMtNjEzODc0MzBkZDM3.jpg\" /></p><p>Grant Cardone\u2019s real estate investment firm has bought 1,000 Bitcoin as part of its new treasury strategy combining real estate and crypto.</p>"
-    },
-    {
-      "title": "Saylor hints next Bitcoin buy as investor sues over Strategy\u2019s Q1 loss",
-      "link": "https://cointelegraph.com/news/saylor-next-bitcoin-buy-investor-sues-over-strategy-6b-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YxMTItZjRkYS03NmYzLWFiMzctZjcxNmMwZDM3MjEz.jpg\" /></p><p>Strategy chair Michael Saylor cryptically hinted at another Bitcoin buy as the company faces a lawsuit over its $5.9 billion loss on Bitcoin in Q1.</p>"
-    },
-    {
-      "title": "Bitcoin \u2018weakness shall pass\u2019 after dip below $100K: Arthur Hayes",
-      "link": "https://cointelegraph.com/news/bitcoin-weakness-shall-pass-after-falling-below-100k-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI0ZjktM2U5Mi03NmE2LWFiODEtMmQ2M2Y3ZjE1MzA0.jpg\" /></p><p>Bitcoin has lost more than 8% over the past week as geopolitical tensions and military action between Israel and Iran ramped up.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Over $1.79 billion liquidated from crypto market as Bitcoin dipped below $100k after US bombed Iran",
+      "link": "https://cryptoslate.com/over-1-79-billion-liquidated-from-crypto-market-as-bitcoin-dipped-below-100k-after-us-bombed-iran/",
+      "summary": "<p>The sudden escalation in Middle East tensions over the weekend triggered sharp moves across global markets, with Bitcoin plunging below the $100,000 mark for the first time since May. The drop followed a surprise U.S. airstrike on Iranian nuclear facilities and a retaliatory vote by Tehran\u2019s parliament to authorize the closure of the Strait of [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Cointelegraph and CoinMarketCap front ends compromised with scam links over the weekend",
+      "link": "https://cryptoslate.com/cointelegraph-and-coinmarketcap-front-ends-compromised-with-scam-links-over-the-weekend/",
+      "summary": "<p>Cointelegraph, one of the leading crypto media platforms, has confirmed a front-end security breach that exposed its users to a malicious pop-up urging them to connect their wallets. The incident, which occurred on June 22, involved scammers promoting a fake Cointelegraph token (CTG) and a counterfeit initial coin offering (ICO) campaign. Scam Sniffer, a blockchain [&#8230;]</p> <p>"
+    },
     {
       "title": "Gracy Chen, the rare but glorious woman behind Bitget\u2019s epic growth",
       "link": "https://cryptoslate.com/gracy-chen-the-rare-but-glorious-woman-behind-bitgets-epic-growth/",
@@ -68,19 +78,14 @@
       "title": "Oil markets tense amid U.S. airstrikes on Iran, while Bitcoin price holds steady",
       "link": "https://cryptoslate.com/oil-markets-tense-amid-u-s-airstrikes-on-iran-while-bitcoin-price-holds-steady/",
       "summary": "<p>Global oil markets are on high alert following U.S. airstrikes on three of Iran\u2019s nuclear facilities, Fordow, Isfahan, and Natanz, with fears mounting over a potential closure of the critical Strait of Hormuz. The military action, announced by President Donald Trump last night, has intensified geopolitical tensions in the Middle East and raised concerns about [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Crypto has grown up: Why the Rolex rally is on pause in 2025",
-      "link": "https://cryptoslate.com/crypto-has-grown-up-why-the-rolex-rally-is-on-pause-in-2025/",
-      "summary": "<p>The following is a guest post and opinion from Gracy Chen, CEO of Bitget. There was a time not too long ago when the pulse of the crypto market could be measured not only by candlestick charts but by the waitlists at luxury watch boutiques. During the 2020\u20132022 bull cycle, the correlation between Bitcoin and [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase CEO highlights 3 key reasons why the world needs crypto",
-      "link": "https://cryptoslate.com/coinbase-ceo-highlights-3-key-reasons-why-the-world-needs-crypto/",
-      "summary": "<p>As the world faces increasing economic woes from soaring debt and stubborn inflation to dwindling trust in financial institutions, Coinbase CEO says, \u201cThe world needs crypto, now more than ever.\u201d He adds: \u201cDebt is growing exponentially, inflation is crippling entire nations, economic freedom is declining.\u201d Armstrong points to the astronomical level of U.S. federal debt, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Crypto Bull Run Over? Here\u2019s What A Top Trader Just Said",
+      "link": "https://www.newsbtc.com/news/crypto-bull-run-over-what-top-trader-just-said/",
+      "summary": "With Bitcoin precariously recovering above the $100,000 mark and altcoins bleeding momentum, traders are asking the obvious: Is the crypto bull run over? According to systematic trader Adam Bakay (@abetrade), the answer is not so clear-cut. In a detailed market breakdown posted June 22, Bakay offered a technically grounded, cautiously defensive assessment\u2014one that acknowledges geopolitical risks but stays rooted in positioning and price structure. Is The Bitcoin Bull Run Over? \u201cLooking at the monthly and weekly timeframes, we are still technically in an uptrend,\u201d Bakay wrote, noting that \u201cno key swing low was broken, and the 365-day rolling VWAP has been respected during the pullback in April.\u201d Despite this, he admits that \u201cthe failure to make new all-time highs similar to the top in 2021\u201d is a concern\u2014especially given the accumulation by players like BlackRock, which now holds around 3.5% of Bitcoin\u2019s total supply. It\u2019s that divergence\u2014between strong institutional interest and a market struggling to break higher\u2014that has made Bakay more cautious in recent weeks. \u201cThis is why I have been very defensive and kept most of my trades short-term,\u201d he said. Related Reading: Crypto Gets A Green Light From Spanish Banking Giant His trading view focuses on two potential technical scenarios: either a reclaim of the $100,000 support area\u2014\u201clikely if the conflict in the Middle East does not further escalate\u201d\u2014or a dip into the $97,000\u2013$95,000 range, where strong technical support resides in the form of the 200-day moving average, local price structure, and the 90-day rolling VWAP. Still, Bakay made it clear he\u2019s not shorting the market. \u201cI am not currently considering any short trades due to my current positioning,\u201d he emphasized, adding that open interest is dropping and that we are starting to see the \u201cfirst signs of clear spot bid interest since the April lows.\u201d The options market, meanwhile, is flashing early caution: the 25-delta risk reversal skew sits around -5, not yet at panic levels, but trending more negative. Crypto Bull Run In Jeopardy On Ethereum, Bakay was notably blunt. \u201cETH almost had its moment, but of course had to become a disappointment,\u201d he said. He attributes the failed breakout in part to how quickly the \u201cDeFi Summer 2025\u201d narrative went viral. \u201cPeople are getting too horny, and market made sure to punish them,\u201d he noted, referencing his own tweet from a few days earlier. Related Reading: Crypto\u2019s Unlikely Ally: Top Analyst Reveals War As A Surprising Bullish Force The technical picture on ETH doesn\u2019t inspire confidence either. \u201cDuring significant market moves, like we had at the beginning of May, the last thing you want to see is price retracing throughout that area,\u201d he explained, saying the next meaningful support lies near $1,800. On the daily chart, Ethereum is sitting right at a confluence of support\u2014both the 90-day rolling VWAP and what he calls a \u201cpivotal level.\u201d Still, much like Bitcoin, Bakay sees Ethereum\u2019s short-term fate as largely dependent on developments in the Middle East. On positioning, ETH also shows signs of an oversold environment, though Bakay believes high volatility in ETH options has caused traders to use spreads instead of outright directional bets. \u201cPositioning is now very clearly pointing towards the possible upside reversal in both perpetual and spot,\u201d he said. Altcoins received no reprieve. \u201cAltcoins have not been having fun for quite a while,\u201d Bakay wrote, pointing out that \u201cevery time it starts to look better, it will almost immediately get worse.\u201d He notes that the expected rotation from Bitcoin into altcoins hasn\u2019t materialized, and the real rotation now seems to be into crypto-related equities, which better reflect the ETF-driven macro trade. Even strong names like Solana are fading. \u201cSOL has almost retraced the entire rally from April,\u201d he warned. The key level to watch is $100. \u201cThere is not much of a technical support sub-$100,\u201d and if \u201cshit hits the fan,\u201d Bakay would look to bid around that round number. Bakay also briefly touched on two newer altcoins\u2014Hype and Fartcoin\u2014saying one offers a solid product and the other draws interest through volatility and liquidity. \u201cFartcoin would become attractive if it could reclaim the $1 or $0.50 area. Hype could find a bounce sub-$30.\u201d His closing thoughts were pragmatic: \u201cWe are not in easy market conditions, with a lot of geopolitical uncertainty, and markets can be significantly affected by a single news release.\u201d While he believes the market may be \u201cgetting too short at the moment,\u201d he remains highly conscious of the possibility that a multi-month correction is already in play. \u201cI don\u2019t think there is a need to be a hero and try to catch a falling knife,\u201d he concluded. \u201cI would much rather wait for some positive news and signs of lower timeframe reversals.\u201d In essence, Bakay doesn\u2019t call the top. But his post makes one thing clear: this is not a market for bravado. It\u2019s a time for restraint, tight risk management, and respect for volatility\u2014especially when the bullish case no longer has momentum on its side. At press time, BTC traded at $101,847. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin Price Crash Far From Over As Support Sits Below $90,000 \u2013 Details",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-crash-90000/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Crashed Below $100,000 Amid US Airstrikes On Iran And Market Sell-Off",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-crashed-below-100000-amid-us-airstrikes-on-iran-and-market-sell-off/",
       "summary": "The market\u2019s leading crypto, Bitcoin (BTC), dipped below the $100,000 mark for the first time in over a month on Sunday, following US airstrikes on Iran as conflicts in the middle east continue to escalate. This decline, which saw the Bitcoin price drop approximately 4% to around $99,300, coincided with a broader market sell-off, with Ethereum (ETH) experiencing an even sharper decline of nearly 10%. Overall, the total cryptocurrency market took a significant hit, falling about 7% in just 24 hours. Geopolitical Unrest And Tariff Troubles The timing of this downturn was particularly notable, occurring just hours after the US targeted three key nuclear sites in Iran. Tensions had escalated following a United Nations report that indicated Iran was not adhering to international prohibitions against developing a military nuclear program. In response to these revelations, Israel conducted strikes against Iran, leading to further retaliation from the Islamic Republic. On Saturday, President Donald Trump declared on social media: This is an HISTORIC MOMENT FOR THE UNITED STATES OF AMERICA, ISRAEL, AND THE WORLD. IRAN MUST NOW AGREE TO END THIS WAR. THANK YOU! Related Reading: Solana Cracks Below Key Structure \u2013 Head And Shoulders Breakdown Points To $106 This recent plummet below the psychologically significant $100,000 threshold follows a year of substantial gains for Bitcoin. After Trump took office in January, Bitcoin reached all-time highs above $100,000 in February, buoyed by executive orders aimed at supporting the cryptocurrency sector. However, the cryptocurrency&#8217;s price soon mirrored the broader declines in financial markets, particularly after Trump announced severe tariffs in April, which saw Bitcoin fall to nearly $75,000, its lowest point in 2025. Despite this volatility, Bitcoin had seen a resurgence, particularly in May when it reached new highs as Wall Street investors returned to the cryptocurrency through US exchange-traded funds (ETFs). However, by late Sunday, there were signs of recovery, with Bitcoin trading approximately at $101,300, down only 1% over the previous day, while ETH managed to pare its losses to around $2,200. Forced Liquidations Exacerbate Bitcoin Sell-Off According to CNBC, Iran has also threatened to block the Strait of Hormuz, a crucial shipping route responsible for approximately 20% of the global oil supply, further adding to the broader financial uncertainty. JPMorgan warned that such a blockade could drive oil prices up to $130 per barrel, which would have significant implications for US inflation, potentially pushing it back toward 5%\u2014a level not seen since March 2023. While Bitcoin has often been promoted as an inflation hedge, its recent behavior aligns more closely with that of high-beta tech stocks. Data from crypto provider Kaiko indicates that Bitcoin\u2019s correlation with the tech-heavy Nasdaq has increased sharply in recent weeks, particularly following the surge in inflows into Bitcoin ETFs. Related Reading: $312M ETH Transfer Triggers Sell-Off Fears As Ethereum Price Crashes Below Support Institutional investment patterns have also shifted. More than $1.04 billion flowed into spot Bitcoin ETFs from Monday to Wednesday last week, but this momentum dissipated as the weekend approached, with minimal net movement on Thursday and only $6.4 million on Friday. The technical aspects of the market further exacerbated the sell-off. Research from CoinGlass revealed that Bitcoin\u2019s drop below $99,000 triggered forced liquidations across offshore derivatives platforms, including Binance and Bybit. During this period, over $1 billion in crypto positions were liquidated within 24 hours, with more than 95% of these coming from long positions, highlighting the market&#8217;s overexposure. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Price Slides 10% \u2014 Market Sentiment Turns Cautious",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-slides-2150/",
-      "summary": "Ethereum price started a fresh decline below the $2,500 zone. ETH is now consolidating losses and might attempt to recover above the $2,250 resistance. Ethereum started a fresh decline below the $2,350 level. The price is trading below $2,350 and the 100-hourly Simple Moving Average. There is a key bearish trend line forming with resistance at $2,280 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it settles above the $2,320 resistance zone in the near term. Ethereum Price Eyes Recovery Ethereum price started a fresh decline below the $2,500 support level, like Bitcoin. ETH price declined below the $2,350 and $2,250 levels. The bears even pushed the price below the $2,200 level. The pair tested the $2,120 zone and started a consolidation phase. There was a minor move above the $2,200 level. The price climbed above the 23.6% Fib retracement level of the downward move from the $2,568 swing high to the $2,114 low. Ethereum price is now trading below $2,300 and the 100-hourly Simple Moving Average. On the upside, the price could face resistance near the $2,250 level. There is also a key bearish trend line forming with resistance at $2,280 on the hourly chart of ETH/USD. The next key resistance is near the $2,340 level. It is close to the 50% Fib retracement level of the downward move from the $2,568 swing high to the $2,114 low. The first major resistance is near the $2,400 level. A clear move above the $2,400 resistance might send the price toward the $2,500 resistance. An upside break above the $2,500 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,550 resistance zone or even $2,620 in the near term. More Losses In ETH? If Ethereum fails to clear the $2,340 resistance, it could start a fresh decline. Initial support on the downside is near the $2,200 level. The first major support sits near the $2,150 zone. A clear move below the $2,150 support might push the price toward the $2,120 support. Any more losses might send the price toward the $2,050 support level in the near term. The next key support sits at $2,000. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI &#8211; The RSI for ETH/USD is now below the 50 zone. Major Support Level \u2013 $2,150 Major Resistance Level \u2013 $2,340"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum breaks down! \u2013 THESE signals hint at more pain ahead",
+      "link": "https://ambcrypto.com/ethereum-breaks-down-these-signals-hint-at-more-pain-ahead/",
+      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With rising sell-side volume and high open interest, ETH may be bracing for a deeper dip."
+    },
+    {
       "title": "KAIA forced to shed 10.7% in 2 days \u2013 Here\u2019s the roadmap for traders now!",
       "link": "https://ambcrypto.com/kaia-forced-to-shed-10-7-in-2-days-heres-the-roadmap-for-traders-now/",
       "summary": "<img alt=\"KAIA forced to shed 10.7% in 2 days - Here&#039;s the roadmap for traders now!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/KAIA-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite Bitcoin's bearish price action in recent days, KAIA managed to hit a new local high."
@@ -208,11 +213,6 @@
       "title": "Cardano\u2019s price recovery may be unlikely anytime soon \u2013 Here\u2019s why!",
       "link": "https://ambcrypto.com/cardanos-price-recovery-may-be-unlikely-anytime-soon-heres-why/",
       "summary": "<img alt=\"Cardano&#039;s price recovery may be unlikely anytime soon - Here&#039;s why!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Cardano-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Heavy selling pressure amid fearful market conditions could have an effect on ADA."
-    },
-    {
-      "title": "Bitcoin alert! \u2013  Should BTC traders brace for $82K in a market reset?",
-      "link": "https://ambcrypto.com/bitcoin-alert-should-btc-traders-prepare-for-82k-in-a-market-reset/",
-      "summary": "<img alt=\"Bitcoin woes set to worsen? Here&#039;s what the fall below $102.5k could lead to\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-8.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The drawdown from the recent ATH was a meager 8.75%- Bitcoin has seen deeper corrections during recent bull runs, which investors should prepare for."
     }
   ]
 }
