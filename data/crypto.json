@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Asia Morning Briefing: BTC Reclaims 100K as Markets Shrug off Iran Strike",
+      "link": "https://www.coindesk.com/markets/2025/06/22/asia-morning-briefing-btc-reclaims-100k-as-markets-shrug-off-iran-strike",
+      "summary": ""
+    },
+    {
       "title": "Solana's SOL Falls 8% as Traders Brace for Fallout From a Spike in Oil Price",
       "link": "https://www.coindesk.com/markets/2025/06/22/solana-s-sol-falls-over-8-as-traders-brace-for-fallout-from-a-spike-in-oil-price",
       "summary": ""
@@ -18,11 +23,6 @@
     {
       "title": "ADA Takes a Hard Fall as Traders Feel the Heat of War in the Middle East",
       "link": "https://www.coindesk.com/markets/2025/06/22/ada-takes-a-hard-fall-as-traders-feel-the-heat-of-war-in-the-middle-east",
-      "summary": ""
-    },
-    {
-      "title": "Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls",
-      "link": "https://www.coindesk.com/markets/2025/06/22/dogecoin-drops-8-but-shows-v-shaped-recovery-in-boost-for-bulls",
       "summary": ""
     }
   ],
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin Rebounds as Markets Price in 'Short-Lived' Iran Conflict",
+      "link": "https://decrypt.co/326424/bitcoin-rebounds-markets-price-short-lived-iran-conflict",
+      "summary": "Bitcoin rose back above $100,000 as markets shrugged off U.S. strikes on Iran, with oil and equities remaining largely unchanged."
+    },
+    {
       "title": "This Week in Crypto Games: B3's Self-Destruct PC, Avalanche Battle Pass",
       "link": "https://decrypt.co/325851/this-week-crypto-games-self-destruct-pc-avalanche-battle-pass",
       "summary": "Ethereum gaming protocol B3 is launching a PC with self-destruct storage, Avalanche dropped a battle pass with rewards for players, and more."
@@ -154,11 +159,6 @@
       "title": "Which Crypto IPOs Could Be Next Following Circle?",
       "link": "https://decrypt.co/326369/which-crypto-ipos-could-be-next-following-circle",
       "summary": "Following Circle\u2019s hugely successful IPO, big names in the crypto industry are preparing listings as investor demand soars."
-    },
-    {
-      "title": "Crypto Market Liquidations Top $701M as US Strikes Hit Iran's Nuclear Facilities",
-      "link": "https://decrypt.co/326402/crypto-market-liquidations-top-701m-as-u-s-strikes-hit-irans-nuclear-facilities",
-      "summary": "Ethereum led the crypto market selloff Sunday morning, after U.S. President Donald Trump ordered strikes on three Iranian nuclear facilities."
     }
   ],
   "CryptoBriefing": [
