@@ -34,10 +34,7 @@ Description: Homepage template with SEO enhancements
       <meta name="twitter:image" content="{{ .Site.BaseURL }}banner.png" />
 
       <!-- Google AdSense -->
-      <script 
-        async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777"
-        crossorigin="anonymous">
-      </script>  
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777" crossorigin="anonymous"></script>
     
       <!-- JSON-LD Structured Data -->
       <script type="application/ld+json">
@@ -121,6 +118,30 @@ Description: Homepage template with SEO enhancements
         <h1 class="title has-text-centered is-size-2 has-text-weight-bold">
           BlockWireNews: Crypto Blogs, News & Updates
         </h1>
+      </div>
+
+      <div class="container mt-6">
+        {{/* Guides Pillar Section */}}
+        {{ $pillar := site.GetPage "section" "defi" }}
+        {{ if $pillar }}
+        <section class="section pillar-section">
+          <h2 class="title is-3">
+            <a href="{{ $pillar.Permalink }}" style="color:black; text-decoration:none;">
+              {{ $pillar.Title }}
+            </a>
+          </h2>
+          {{ with $pillar.Summary }}
+            <p class="is-size-6">{{ . | safeHTML }}</p>
+          {{ else }}
+            <p class="is-size-6">{{ $pillar.Params.description }}</p>
+          {{ end }}
+          <p>
+            <a href="{{ $pillar.Permalink }}" class="button is-link">
+              Read the full guide →
+            </a>
+          </p>
+        </section>
+        {{ end }}
       </div>
 
       <div class="container mt-6">
