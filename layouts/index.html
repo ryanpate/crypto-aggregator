@@ -125,8 +125,8 @@ Description: Homepage template with SEO enhancements
         {{ if $pillarSection }}
         <section class="section pillar-menu">
           <details class="pillar-dropdown" style="margin-bottom:1rem;">
-            <summary class="title is-3" style="cursor:pointer; list-style:none;">
-              Crypto Guides
+            <summary class="is-size-5" style="cursor:pointer; display:flex; align-items:center; font-weight:bold;">
+              ☰ Crypto Guides
             </summary>
             <ul style="padding-left:1rem; list-style:disc;">
               {{ range $pillarSection.Pages.ByDate.Reverse }}
