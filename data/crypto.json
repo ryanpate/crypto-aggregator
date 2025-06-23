@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Bounces After War-Driven Dip, $98.2K Emerges as Key Level to Maintain Bullish Momentum",
+      "link": "https://www.coindesk.com/markets/2025/06/23/bitcoin-bounces-after-war-driven-dip-usd98-2k-emerges-as-key-level-to-maintain-bullish-momentum",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Week Ahead: Focus on Powell's Testimony, U.S. Core PCE as Tariff Deadline Looms",
+      "link": "https://www.coindesk.com/markets/2025/06/23/focus-on-powell-s-testimony-u-s-core-pce-release-as-trump-s-tariff-deadline-looms",
+      "summary": ""
+    },
+    {
       "title": "Every Bank and Fintech Wants DeFi Under the Hood: Alchemy",
       "link": "https://www.coindesk.com/business/2025/06/23/every-bank-and-fintech-wants-defi-under-the-hood-alchemy",
       "summary": ""
@@ -14,26 +24,26 @@
       "title": "Cointelegraph Hit by Front-End Exploit, Fake Phishing Airdrop Pop Up on Website",
       "link": "https://www.coindesk.com/tech/2025/06/23/cointelegraph-hit-by-front-end-exploit-fake-phishing-airdrop-pop-up-on-website",
       "summary": ""
-    },
-    {
-      "title": "SOL, XRP, DOGE Lead Altcoin Recovery After $1B Weekend Liquidation",
-      "link": "https://www.coindesk.com/markets/2025/06/23/sol-xrp-doge-lead-altcoin-recovery-after-1b-weekend-liquidation",
-      "summary": ""
-    },
-    {
-      "title": "Metaplanet Buys 1,111 Bitcoin for $117M, Pushes Total Holdings to Over 11K BTC",
-      "link": "https://www.coindesk.com/markets/2025/06/23/metaplanet-buys-1111-bitcoin-for-117m-pushes-total-holdings-to-over-11k-btc",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Ethereum whales open $100M of leveraged bets after US strikes Iran",
+      "title": "Metaplanet adds 1,111 Bitcoin, approaches Tesla\u2019s BTC holdings",
+      "link": "https://cointelegraph.com/news/metaplanet-buys-1-111-bitcoin-approaches-tesla-s-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliYjgtZmQwZC03MzhlLTljYzUtZmVmNDA3ZWY3Njk4.jpg\" /></p><p>Metaplanet has added 1,111 BTC to its corporate treasury, bringing its total holdings to 11,111 BTC, just 398 BTC shy of Tesla\u2019s stash.</p>"
+    },
+    {
+      "title": "Crypto funds post $1.2B inflows despite market panic: CoinShares",
+      "link": "https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-panic-markets-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI5OTItMjFlMi03NjRlLTg0MzktZGM4MzYzZTk4OWEw.jpg\" /></p><p>ETP sentiment cooled in the latter half of last week amid reports of US involvement in the Iran conflict.</p>"
+    },
+    {
+      "title": "Ether whales open $100M of leveraged bets after US strikes Iran",
       "link": "https://cointelegraph.com/news/ether-whales-100m-leveraged-bets-after-us-airstrike-on-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZhYTktYWY3ZC03NTYyLTk2MTktOTM0NWM5NzZmNDgw.jpg\" /></p><p>Whales are betting hundreds of millions on Ether\u2019s price recovery despite the industry\u2019s most successful traders being net short amid escalating conflict in the Middle East.</p>"
     },
     {
-      "title": "$92K dip vs &#039;short-lived war&#039; \u2014\u00a05 things to know in Bitcoin this week",
+      "title": "$92K dip vs \u2018short-lived war\u2019 \u2014\u00a05 things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/news/92k-dip-vs-short-term-war-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliZjQtMGQyZS03Nzk3LWI3MDgtYjBkNmFkYmEzNWI0.jpg\" /></p><p>Bitcoin is about to juggle a slew of geopolitcal and macroeconomic volatility triggers in a nail-biting end to June as $100,000 support hangs in the balance.</p>"
     },
@@ -41,19 +51,14 @@
       "title": "How low can the Bitcoin price go?",
       "link": "https://cointelegraph.com/news/how-low-can-the-bitcoin-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvN2EwNzM2NmEtNzRmMy00NGI4LWIzYjYtZGM0ZDlmNDRkODg1.jpg\" /></p><p>Bitcoin dipped below $100,000 for the first time in six weeks, prompting predictions that BTC price would fall further to $93,000, with a possible bottom of $74,000.</p>"
-    },
-    {
-      "title": "OKX crypto exchange considering US IPO after local relaunch: Report",
-      "link": "https://cointelegraph.com/news/okx-crypto-exhchange-ipo-united-states-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliY2QtNWY3Mi03OGU2LWI4NjktZDY3ZmYwZDk5Zjhi.jpg\" /></p><p>OKX\u2019s reported US IPO comes as the exchange faces regulatory pressures in Asia.</p>"
-    },
-    {
-      "title": "Musk wants Grok AI to \u2018rewrite the entire corpus of human knowledge\u2019",
-      "link": "https://cointelegraph.com/news/elon-musk-grok-ai-rewrite-the-entire-corpus-human-knowledge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliMDYtNDcwYS03NjdlLWFhNjgtNWZiZmEzYmM0ZjJh.jpg\" /></p><p>Elon Musk has said he\u2019s unhappy with the data used to train his AI model, Grok, and now plans to Grok-ify the entire history of human knowledge.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Kazakhstan launches Central Asia\u2019s first Solana Economic Zone to boost crypto hub ambitions",
+      "link": "https://cryptoslate.com/kazakhstan-launches-central-asias-first-solana-economic-zone-to-boost-crypto-hub-ambitions/",
+      "summary": "<p>Kazakhstan has officially launched Central Asia\u2019s first Solana Economic Zone (SEZ), marking a major step toward its ambition to become a regional crypto and blockchain hub. The new zone was introduced during the 2025 International Forum in Kazakhstan and follows through on the country\u2019s Memorandum of Understanding (MOU) with the Solana Foundation, the non-profit organization [&#8230;]</p> <p>"
+    },
     {
       "title": "Over $1.79 billion liquidated from crypto market as Bitcoin dipped below $100k after US bombed Iran",
       "link": "https://cryptoslate.com/over-1-79-billion-liquidated-from-crypto-market-as-bitcoin-dipped-below-100k-after-us-bombed-iran/",
@@ -73,11 +78,6 @@
       "title": "Solana network extensions will redefine blockchain scaling",
       "link": "https://cryptoslate.com/solana-network-extensions-will-redefine-blockchain-scaling/",
       "summary": "<p>The following is a guest post and opinion from Aryan Sheikhalian, Head of Research at CMT Digital. Ethereum is betting big on a future filled with rollups. But in typical Solana fashion, the network is taking a different route\u2014one that doesn\u2019t just scale more blockspace, but bespoke execution environments with first-class developer control. Enter Network [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Oil markets tense amid U.S. airstrikes on Iran, while Bitcoin price holds steady",
-      "link": "https://cryptoslate.com/oil-markets-tense-amid-u-s-airstrikes-on-iran-while-bitcoin-price-holds-steady/",
-      "summary": "<p>Global oil markets are on high alert following U.S. airstrikes on three of Iran\u2019s nuclear facilities, Fordow, Isfahan, and Natanz, with fears mounting over a potential closure of the critical Strait of Hormuz. The military action, announced by President Donald Trump last night, has intensified geopolitical tensions in the Middle East and raised concerns about [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin falls below $100K \u2013 Should traders brace for a deeper BTC dip?",
+      "link": "https://ambcrypto.com/bitcoin-falls-below-100k-traders-are-you-in-for-a-bigger-btc-dip/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika3-1-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Geopolitical jolt hits BTC, but is the recovery built to last?"
+    },
+    {
       "title": "Ethereum breaks down! \u2013 THESE signals hint at more pain ahead",
       "link": "https://ambcrypto.com/ethereum-breaks-down-these-signals-hint-at-more-pain-ahead/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With rising sell-side volume and high open interest, ETH may be bracing for a deeper dip."
@@ -208,11 +213,6 @@
       "title": "TRON bulls must defend THIS support level for recovery \u2013 Can they do it?",
       "link": "https://ambcrypto.com/tron-bulls-must-defend-this-support-level-for-recovery-can-they-do-it/",
       "summary": "<img alt=\"TRON bulls must defend THIS support level for recovery - Can they do it?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/TRON-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The six-week-old range's low may be about to be tested once again."
-    },
-    {
-      "title": "Cardano\u2019s price recovery may be unlikely anytime soon \u2013 Here\u2019s why!",
-      "link": "https://ambcrypto.com/cardanos-price-recovery-may-be-unlikely-anytime-soon-heres-why/",
-      "summary": "<img alt=\"Cardano&#039;s price recovery may be unlikely anytime soon - Here&#039;s why!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Cardano-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Heavy selling pressure amid fearful market conditions could have an effect on ADA."
     }
   ]
 }
