@@ -1,9 +1,7 @@
 ---
-# What Is DeFi?
-
-**Title:** What Is DeFi?
-**Description:** An introduction to decentralized finance, explaining its principles, components, and how it differs from traditional finance.
-**Keywords:**
+title: "What Is DeFi?"
+description: "An introduction to decentralized finance, explaining its principles, components, and how it differs from traditional finance."
+keywords:
   - "What is DeFi"
   - "DeFi explained"
   - "decentralized finance definition"
