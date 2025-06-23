@@ -121,25 +121,15 @@ Description: Homepage template with SEO enhancements
       </div>
 
       <div class="container mt-6">
-        {{/* Guides Pillar Section */}}
-        {{ $pillar := site.GetPage "section" "defi" }}
-        {{ if $pillar }}
-        <section class="section pillar-section">
-          <h2 class="title is-3">
-            <a href="{{ $pillar.Permalink }}" style="color:black; text-decoration:none;">
-              {{ $pillar.Title }}
-            </a>
-          </h2>
-          {{ with $pillar.Summary }}
-            <p class="is-size-6">{{ . | safeHTML }}</p>
-          {{ else }}
-            <p class="is-size-6">{{ $pillar.Params.description }}</p>
-          {{ end }}
-          <p>
-            <a href="{{ $pillar.Permalink }}" class="button is-link">
-              Read the full guide →
-            </a>
-          </p>
+        {{ $pillarSection := site.GetPage "section" "defi" }}
+        {{ if $pillarSection }}
+        <section class="section pillar-menu">
+          <h2 class="title is-3">Crypto Guides</h2>
+          <ul>
+            {{ range $pillarSection.Pages.ByDate.Reverse }}
+              <li><a href="{{ .Permalink }}" style="color:black; text-decoration:none;">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
         </section>
         {{ end }}
       </div>
