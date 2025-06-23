@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Aptos' APT Gains 6% With High-Volume Buying Amidst Wider Crypto Market Bounce",
+      "link": "https://www.coindesk.com/markets/2025/06/23/aptos-apt-gains-6-with-high-volume-buying-amidst-wider-crypto-market-bounce",
+      "summary": ""
+    },
+    {
+      "title": "Texas Ready for $10M Bitcoin Purchase After Governor Signs Bill for State Reserve",
+      "link": "https://www.coindesk.com/policy/2025/06/23/texas-ready-for-10m-bitcoin-purchase-after-governor-signs-bill-for-state-reserve",
+      "summary": ""
+    },
+    {
       "title": "Bankrupt Crypto Exchange FTX Slams Three Arrows Capital\u2019s $1.53B Claim: \u201c3AC Is Owed Nothing\u201d",
       "link": "https://www.coindesk.com/policy/2025/06/23/bankrupt-crypto-exchange-ftx-slams-three-arrows-capital-s-usd1-53b-claim-3ac-is-owed-nothing",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Trump's Crypto Ties Still Toxic With Some Dems, Including One Seen as Industry Ally",
       "link": "https://www.coindesk.com/policy/2025/06/23/trump-s-crypto-ties-still-toxic-with-some-dems-including-one-seen-as-industry-ally",
       "summary": ""
-    },
-    {
-      "title": "Hedge Fund Veterans Plan $100M BNB Treasury Bet",
-      "link": "https://www.coindesk.com/markets/2025/06/23/hedge-fund-veterans-plan-100m-bnb-treasury-bet",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Bounce Fails, Tumbling Below $100K as Iran Reportedly Prepares Retaliation Against U.S.",
-      "link": "https://www.coindesk.com/markets/2025/06/23/bitcoin-bounce-fails-tumbling-below-100k-as-iran-reportedly-prepares-retaliation-against-us",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Democratic senator introduces bill to address Trump\u2019s crypto ties",
+      "link": "https://cointelegraph.com/news/adam-schiff-bill-donald-trump-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWIwMWUtNDI3Mi03ZjEzLWJjNzQtMGE2ZDA4ZWMzNjlm.jpg\" /></p><p>The proposed bill from Senator Adam Schiff followed similar legislation in the House of Representatives from Maxine Waters in response to the president's memecoin dinner.</p>"
+    },
+    {
+      "title": "Hyperliquid DEX token gains 300% in 2 months: Is the HYPE justified?",
+      "link": "https://cointelegraph.com/news/hype-gains-300-in-2-months-is-dex-overvalued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlkOTMtMmUwYy03YzZmLTg5MmItMGJlMDM0NWQ5NTg3.jpg\" /></p><p>HYPE is up 300%, and Hyperliquid leads the DEX perp market. But with a $38B valuation and just 21 validators, some question if the rise is sustainable.</p>"
+    },
+    {
+      "title": "DeFi Development Corp stock to go onchain via Kraken",
+      "link": "https://cointelegraph.com/news/defi-development-corp-stock-to-go-onchain-kraken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlkZjItMzY2Ny03MGJhLWI1YzUtOWJjNzY3ZmE1YjY3.jpg\" /></p><p>The company\u2019s CEO described the stock tokenization as a \u201cDeFi Lego block,\u201d suggesting it serves as a foundational piece for decentralized finance adoption.</p>"
+    },
     {
       "title": "Price predictions 6/23: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
       "link": "https://cointelegraph.com/news/price-predictions-6-23-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "As stablecoin bill heads to House, Senate shifts to market structure",
       "link": "https://cointelegraph.com/news/stablecoin-bill-house-senate-crypto-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA5Y2MtOTM5YS03NjQ1LWI4NTYtOGU4MWE2ODIwYjk4.jpg\" /></p><p>The digital assets subcommittee in the Senate will hold a Tuesday hearing to discuss a bipartisan effort to establish a crypto market structure.</p>"
-    },
-    {
-      "title": "Semiconductor firm Sequans to raise $384M for Bitcoin treasury",
-      "link": "https://cointelegraph.com/news/semiconductor-firm-sequans-raise-384m-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlkODQtMzI4ZC03ZGQ5LWI3ZTEtYTc0ZjQ4ZWQyMDg2.jpg\" /></p><p>Roughly 240 companies now hold Bitcoin in their treasuries, nearly doubling from 124 just weeks ago. Combined, they control around 4% of the total BTC supply.</p>"
-    },
-    {
-      "title": "Bitcoin eyes $104K CME gap as analysis says &#039;World War 3&#039; off the table",
-      "link": "https://cointelegraph.com/news/bitcoin-cme-gap-analysis-says-world-war-3-off-the-table?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlkODMtNThhMi03ZTI5LWJjNGMtNzg2ZjlhYTQ1MzM1.jpg\" /></p><p>Bitcoin price strength gradually returns after multiweek lows as risk assets show overwhelming confidence that a long war in the Middle East will not happen.</p>"
-    },
-    {
-      "title": "India wants 30% of your crypto gains, but that\u2019s not the worst part",
-      "link": "https://cointelegraph.com/explained/india-wants-30-of-your-crypto-gains-but-thats-not-the-worst-part?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZjg3NzFiYjJlYjUyNGY2MzJjZDQ5YTMxMzdiYjdlOS5qcGc=.jpg\" /></p><p>A 30% tax on crypto profits in India is only part of the story. Traders face even bigger hurdles under the current tax regime.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Fed joins regulators dropping reputational risk factor, clearing banks to serve crypto firms",
+      "link": "https://cryptoslate.com/fed-joins-regulators-dropping-reputational-risk-factor-clearing-banks-to-serve-crypto-firms/",
+      "summary": "<p>The Federal Reserve Board on June 23 removed reputational risk from its bank supervision program, ordering staff to strike the term from examination manuals and to concentrate on measurable financial exposures. The Fed move positions the central bank alongside the Federal Deposit Insurance Corporation (FDIC) and the Office of the Comptroller of the Currency, which [&#8230;]</p> <p>"
+    },
+    {
+      "title": "TMTG reaffirms Bitcoin commitment amid $400M share buyback plan",
+      "link": "https://cryptoslate.com/tmtg-reaffirms-bitcoin-commitment-amid-400m-share-buyback-plan/",
+      "summary": "<p>Trump Media and Technology Group announced plans to repurchase up to $400 million worth of its own shares while leaving intact the $2.3 billion it has earmarked for building a substantial Bitcoin (BTC) reserve. The board of directors authorized the buyback plan as a show of confidence in the company\u2019s stock and future growth strategy, [&#8230;]</p> <p>"
+    },
     {
       "title": "Texas could potentially invest up to $2.1B in Bitcoin if it allocates 10% of its treasury fund",
       "link": "https://cryptoslate.com/texas-could-potentially-invest-up-to-2-1b-in-bitcoin-if-it-allocates-10-of-its-treasury-fund/",
@@ -68,19 +78,14 @@
       "title": "Texas to buy Bitcoin for state reserves long before Trump\u2019s Bitcoin reserve delivers",
       "link": "https://cryptoslate.com/texas-to-buy-bitcoin-for-state-reserves-long-before-federal-bitcoin-reserve-delivers/",
       "summary": "<p>Texas is now legally empowered to build its own Bitcoin reserve funded with taxpayer dollars before the federal government takes any comparable action. Governor Greg Abbott on Saturday signed Senate Bill 21, a law that explicitly allows the state to buy and hold Bitcoin and other top-tier cryptocurrencies. The measure passed the Texas House and [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Metaplanet\u2019s latest $118 million Bitcoin buy dwarfs Strategy\u2019s new acquisition fivefold",
-      "link": "https://cryptoslate.com/metaplanet-outshines-strategy-in-latest-bitcoin-buying-spree/",
-      "summary": "<p>Japan&#8217;s Metaplanet has outpaced Strategy in Bitcoin accumulation, purchasing 1,111 BTC last week, approximately five times more than the US-based firm acquired in the same period. According to a June 23 disclosure, Metaplanet spent approximately $118 million on its latest purchase, securing the Bitcoin at an average price of $105,468 per coin. With this addition, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Nasdaq-listed Fiserv to launch USD-pegged stablecoin on Solana by the end of the year",
-      "link": "https://cryptoslate.com/nasdaq-listed-fiserv-to-launch-usd-pegged-stablecoin-on-solana-by-the-end-of-the-year/",
-      "summary": "<p>Fiserv Inc., a major player in global payments and financial services, has unveiled plans to launch a USD-pegged stablecoin called FIUSD on the Solana blockchain, according to a June 23 statement. The Nasdaq-listed company stated that the stablecoin was built using infrastructure from Paxos and Circle. It is expected to go live by the end [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Battles Key Support: Daily EMA-100 Must Hold to Prevent Deep Correction",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-battles-key-support-daily-ema-100-must-hold-to-prevent-deep-correction/",
+      "summary": "Bitcoin briefly fell below the critical $100,000 level over the weekend, reaching a low of approximately $98,200 and triggering a wave of panic selling across crypto markets. The sharp drop came after news broke of US military strikes on Iranian nuclear facilities, a move that significantly escalated the already volatile conflict between Israel and Iran. The geopolitical shock sent global markets into risk-off mode, with Bitcoin reacting quickly to the growing uncertainty. Related Reading: Solana Cracks Below Key Structure \u2013 Head And Shoulders Breakdown Points To $106 Despite the weekend dip, BTC has since reclaimed the $100K mark, but sentiment remains fragile. Investors are now watching key technical levels closely to determine the next move. According to top analyst Ted Pillows, Bitcoin must hold the daily EMA-100 to avoid further downside pressure. A decisive close below this level could open the door for a deeper correction, especially if macroeconomic and geopolitical risks persist. As volatility spikes and fear grows, Bitcoin\u2019s ability to maintain support at these levels may define whether the bull cycle continues or enters a prolonged consolidation phase. All eyes are now on the $100K zone, which has become a critical battleground for bulls and bears in a market driven by both technicals and global tension. Bulls Defend $100K As Dominance Rises and Market Faces Crucial Test Bitcoin is once again at a pivotal moment. After dipping below the psychological $100,000 level over the weekend amid growing geopolitical tensions, BTC quickly reclaimed this critical threshold, offering a glimmer of hope to market participants. Although bulls managed to push the price back up, the overall structure remains fragile, and technical indicators now carry more weight than ever. Ted Pillows noted in a recent update that Bitcoin must hold its daily EMA-100 to preserve bullish momentum. A daily close below $99,000 would confirm a break below this key support zone, likely triggering a retest of the $92,000\u2013$94,000 region. Such a move could create significant downside pressure, particularly on altcoins, which are already lagging behind in performance. In Pillows&#8217; words, \u201cIf Bitcoin loses this level, alts will be annihilated.\u201d Despite the looming risks, fundamentals remain solid. Bitcoin dominance continues to hover near its highest levels of the year, reflecting growing investor preference for BTC over high-beta assets during uncertain times. On-chain metrics still indicate strong holder conviction, and macro narratives continue to favor Bitcoin as a hedge amid fiat instability and rising geopolitical uncertainty. If Bitcoin can hold the $100K level and reclaim momentum, it could lead to renewed strength and eventually a push toward the $109K resistance zone. For now, however, bulls are on the defensive. Price action over the next few days will likely define the trajectory for the remainder of Q3, with a close watch on EMA support, macro headlines, and risk sentiment across global markets. Related Reading: Ethereum Weekly Chart Nears Tower Top Formation As US Launches Attack On Iran \u2013 Details Bitcoin Struggles Below Resistance Amid Bearish Price Structure The 12-hour chart for Bitcoin reveals a bearish structure following the breakdown below the $103,600 support zone. After forming a symmetrical triangle throughout mid-June, BTC failed to break upward and instead reversed direction, confirming a downward breakout. This move triggered a sharp decline to $98,200 over the weekend, followed by a modest recovery to the current $101,250 level. The price is now trading below both the 50 and 100-period simple moving averages, which are beginning to curl downward, signaling a shift in momentum away from bulls. The 200-period SMA, currently near $95,600, stands as the next major support if downside pressure continues. Volume has picked up notably on the red candles, adding weight to the bearish case and confirming active selling during the recent drop. Related Reading: Ethereum Charts Signal Potential Bottom \u2013 All Eyes On Next Move Bitcoin must reclaim the $103,600 zone and hold above it to invalidate the bearish pattern and regain control. Failure to do so could result in further downside toward $95,000 and possibly even $92,000. As long as BTC remains below the broken triangle support and the $103K resistance, the path of least resistance remains downward. Bulls face an uphill battle, and confidence may erode quickly if the $100K psychological level is breached again. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Bitcoin Dominance Hits New Cycle High Above 66% \u2013 How This 4-Year ATH Affects Altcoin SeasonBitcoin Dominance Hits New Cycle High Above 66% \u2013 How This 4-Year ATH Affects Altcoin Season",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-dominance-new-high/",
@@ -100,14 +105,14 @@
       "title": "Analyst Puts XRP Cycle High At $20-$30, Here\u2019s Why",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-cycle-high-at-20-30/",
       "summary": "The XRP price could be preparing for a historical rally, as a prominent crypto analyst has boldly predicted that the cryptocurrency could reach a fresh cycle top between $20 and $30. The forecast, which presents a massive upside for the altcoin, is based on the Elliott Wave Theory\u2014a key technical analysis tool. XRP Wave Map Signals Cycle Top Ahead Crypto analyst, XForceGlobal on X (formerly Twitter) has presented a bold new forecast for XRP, projecting a cycle high between $20 and $30. The analyst shared a chart that dissects XRP\u2019s price action over the last several months, suggesting that the cryptocurrency is currently in the final stages of a corrective wave before beginning a powerful multi-leg impulsive rally. If this wave count plays out as the market expert says, XRP could be on the verge of its most aggressive breakout to date. Related Reading: XRP Price Targets $3.61 In Short Term As \u2018Cup\u2019 Turns Hot The analysis focuses on XRP\u2019s medium-term correction, which has taken the form of a complex WXY structure. According to the chart, XRP is nearing the completion of Wave 2, a corrective phase that began after the last upward impulse. XForceGlobal has pinpointed a key Fibonacci confluence zone between $1.60 and $1.90, where XRP\u2019s pullback is expected to find support. The chart clearly marks this area as a potential springboard for the next bullish phase, as long as the price does not fall below the $1.618 level, which serves as the invalidation point for the current setup. Despite XRP\u2019s historical track record of sluggish performance and ongoing skepticism within the crypto community about the bullish forecast, XForceGlobal maintains confidence that the cryptocurrency will reach the ambitious $20-$30 cycle top\u2014a move he believes could unfold well into 2026. Intermediate Targets First, Cycle High Later According to XForceGlobal\u2019s chart, once XRP completes its current corrective move, the analyst predicts that the first leg of this upcoming rally may take the cryptocurrency past the $5 mark in Wave 3, followed by a deeper Wave 4 pullback and a final thrust into Wave 5 toward $6 or more. Related Reading: XRP 5-Wave Count Shows When The Price Will Hit All-Time Highs Above $5 While these targets represent an intermediate-term bullish setup, on a macro scale, the long-term wave map implies that the whole structure could later culminate in a parabolic cycle top rally that sends XRP between $20 and possibly even $30. This optimistic outlook gains further credibility, as the analyst notes that XRP\u2019s internal wave count for the flat scenario has taken longer to resolve than initially expected. Beyond technicals, XForceGlobal highlights that market psychology plays a central role in its bullish forecast. He notes that the XRP community has weathered regulatory battles, market crashes, and years of stagnation, most notably the US SEC lawsuit. This prolonged adversity has turned XRP holders into \u201cbattle-tested veterans\u201d who are largely immune to fear-driven selling. This resilience, according to the analyst, could be the key to the next bullish phase of XRP\u2019s price action. Featured image from iStock, chart from Tradingview.com"
-    },
-    {
-      "title": "Cointelegraph and CoinMarketCap Hacked: Why Non-Custodial Wallets Are Necessary",
-      "link": "https://www.newsbtc.com/news/cointelegraph-and-coinmarketcap-hacked-why-non-custodial-wallets-are-necessary/",
-      "summary": "Want to check on Bitcoin\u2019s latest price moves? Just pop over to CoinMarketCap and\u2026 enter your wallet info? On June 20, 2025, visitors to a number of major crypto sites, including CoinTelegraph and CoinMarketCap, were prompted to connect their crypto wallets before accessing the site. The pop-up was a hack, a wallet-stealer designed to siphon information away from users. CoinMarketCap users can create accounts and connect wallets to track their portfolios, so the pop-up itself might not have seemed entirely out-of-place. Users quickly uncovered the hack, and affected sites moved rapidly to limit the damage. The incident highlights a new potential vulnerability in the growing crypto ecosystem. With such attacks, phishing can occur even on trusted platforms. What Wallet? Hacks Exploited Common Wallet Connectivity Features The incident involved the injection of malicious JavaScript code into CoinMarketCap\u2019s homepage. When unsuspecting users visited the site, they were greeted with a realistic-looking \u2018Connect Wallet to Verify\u2019 popup, mimicking standard Web3 wallet connection prompts. Users who clicked the popup and approved the transaction gave attackers full access to their wallets. The CMC hack reportedly had 39 victims with over $18K in losses. The script was since removed, and CMC has patched the vulnerability. Cointelegraph Also Targeted Just days later, on June 23, Cointelegraph, another prominent crypto news outlet, faced a similar attack. In this case, attackers managed to compromise an ad-serving network, injecting code that produced a fake token airdrop popup promoting a nonexistent \u2018Cointelegraph token&#8217; or &#8216;CTG.&#8217; The popup redirected users to a phishing site designed to harvest wallet signatures. Once again, users who interacted and signed the transaction lost access to their funds. Cointelegraph quickly issued a warning across its social media channels and disabled the malicious script. Both the CMC and CT hacks are part of a growing category of crypto hacks focused on compromising wallets. Per CertiK\u2019s quarterly report, these attacks produce the largest losses (over $1.450M in Q1 2025 alone). Wallet compromises are not as successful as other attacks, ranking last by incident count. But when they work, hackers can make off with vast amounts quickly. Vigilance and Knowing the Warning Signs: Key to Avoid Losses Binance founder and former CEO Changpeng Zhao (CZ) took to X and warned users to \u2018be careful when authorizing wallet connect.\u2019 Both the CMC and CT hacks used pop-ups, one for a simple wallet connect prompt, and one for a purported crypto airdrop. Cointelegraph&#8217;s official account also posted a warning, urging users to not click the pop-ups, connect wallets, or provide their personal information. Crypto airdrops and crypto presales are often used by legitimate projects to develop early interest and generate buzz about new projects, making such phishing attacks more convincing. Scammers create fakes in order to encourage investors to give away wallet information. The supposed project or token \u2013 in this case \u2018CTG\u2019 \u2013 never existed. How do investors stay safe? Avoiding any unexpected or unusual pop-ups, even from trust sources, is a first step. And when it comes to the crypto ICOs and presales, it&#8217;s important to get your info from trusted sources. This is where a new solution, Best Wallet, stands out. This new app is the only Web3 wallet with a presale directory where you can browse only audited, secure presale tokens. The wallet also employs Multi-Party Computation technology, protecting your key from phishing attacks and hacks. Best Wallet Token ($BEST) \u2013 The World\u2019s First and Only Crypto Presale Wallet The evolution of crypto hacks is unfortunately part of crypto&#8217;s growing market and popularity. New Web3 solutions, like Best Wallet, are evolving to tackle these security challenges, becoming a critical part of the crypto economy. And the Best Wallet Token ($BEST) is here to power-up the Best Wallet ecosystem and provide additional perks for holders. With $BEST, token holders can trade and swap tokens more easily, participate in community governance, and earn higher staking rewards. The token also allows early access to the best crypto presales, gathered and vetted by Best Wallet in their \u2018Upcoming Tokens\u2019 section. Here, investors can find upcoming crypto projects, as well as all the key information, such as whitepapers and tokenomics, needed to do research before investing. That makes Best Wallet&#8217;s platform and token some of the handiest tools for crypto investors who want to avoid shady pop-ups and still stay ahead of the markets. Most importantly, Best Wallet is non-custodial and privacy-focused; investors control all their wallet keys and can sign up and swap crypto without KYC. The Best Wallet token presale has raised $13.5M so far, with the coin currently priced at $0.025225. Note that, given its sought-after, privacy-oriented wallet, the $BEST token could reach $0.05 by the end of 2026 after a successful launch, delivering 102% returns to early investors. If you&#8217;re interested in supporting the project, now&#8217;s the right opportunity to buy the Best Wallet Token at the lowest price. Visit Best Wallet&#8217;s Token presale today. Security in the Age of Web3 The recent front-end Cointelegraph and CoinMarketCap hacks mark a dangerous new phase in crypto security threats. Unlike traditional hacking methods that target backend systems or databases, these exploits weaponize the user interface, where trust is assumed but rarely verified. Secure Web3 wallets like Best Wallet can go a long way towards mitigating such growing risks. As always, do your own research before investing or choosing a crypto service provider. This article isn&#8217;t financial advice."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Sequans Launches $384M Bitcoin Treasury Initiative with Swan Bitcoin Partnership",
+      "link": "https://bitcoinmagazine.com/news/sequans-launches-384m-bitcoin-treasury-initiative-with-swan-bitcoin-partnership",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Sequans-Launches-384M-Bitcoin-Treasury-Initiative-with-Swan-Bitcoin-Partnership.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/sequans-launches-384m-bitcoin-treasury-initiative-with-swan-bitcoin-partnership\" rel=\"nofollow\"> </a></p> <p>Sequans Communications, a France-based developer of 5G and IoT semiconductor technology, has announced a move into Bitcoin with a new treasury initiative backed by a $384 million private placement.&#160;&#160; The funding includes $195 million in equity securities and $189 million in convertible secured notes. Sequans plans to allocate this capital toward building a Bitcoin position [&#8230;]</p> <p>"
+    },
     {
       "title": "The Blockchain Group Acquires 75 BTC After \u20ac7.2M Raise",
       "link": "https://bitcoinmagazine.com/news/the-blockchain-group-acquires-75-btc-after-e7-2m-raise",
@@ -127,14 +132,19 @@
       "title": "Anthony Pompliano Announces $1 Billion Merger in Record Bitcoin Treasury Company Fundraise",
       "link": "https://bitcoinmagazine.com/news/anthony-pompliano-announces-1-billion-merger-in-record-bitcoin-treasury-company-fundraise",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/ProCap-Financial-has-raised-over-750-million-in-the-largest-initial-funding-round-for-a-public-Bitcoin-treasury-company.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/anthony-pompliano-announces-1-billion-merger-in-record-bitcoin-treasury-company-fundraise\" rel=\"nofollow\"> </a></p> <p>Anthony Pompliano announced a $1 billion merger creating ProCap Financial through a Special Purpose Acquisition Company (SPAC) transaction with Columbus Circle Capital Corp. (CCCM). The deal represents the largest initial fundraise in history for a public Bitcoin treasury company, raising $516.5 million in equity and $235 million in convertible notes.&#160;&#160; ProCap Financial will operate with [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Norway\u2019s Green Minerals Announces Adoption Of Bitcoin Treasury Strategy",
-      "link": "https://bitcoinmagazine.com/news/norways-green-minerals-announces-adoption-of-bitcoin-treasury-strategy",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Norways-Green-Minerals-Announces-Adoption-Of-Bitcoin-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/norways-green-minerals-announces-adoption-of-bitcoin-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>The Norwegian miner is adopting Bitcoin to hedge inflation and support $1.2 billion in planned financing.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Midnight Network Plots NIGHT Airdrop for Users of Bitcoin, Ethereum, Cardano and Beyond",
+      "link": "https://decrypt.co/326566/midnight-network-night-airdrop-bitcoin-ethereum-cardano",
+      "summary": "Cardano-powered privacy network Midnight will offer NIGHT tokens in an airdrop to millions of crypto users on Bitcoin, Ethereum, and beyond."
+    },
+    {
+      "title": "Wen Lambo? Jaguar, Land Rover Customizer Revs Up Bitcoin Strategy",
+      "link": "https://decrypt.co/326565/wen-lambo-jaguar-land-rover-customizer-bitcoin-strategy",
+      "summary": "ECD Automotive Design, which bills itself as the largest Land Rover and Jaguar restorator, has raised half a billion dollars to buy Bitcoin and fund its corporate growth."
+    },
     {
       "title": "Circle Stock in Up Only Mode Even as Bitcoin, Crypto Market Struggle\u2014Why?",
       "link": "https://decrypt.co/326519/circle-stock-in-up-only-mode-bitcoin-crypto-market-struggle-why",
@@ -149,16 +159,6 @@
       "title": "Coinbase Target Price Raised After \u2018Transformative Week\u2019: Benchmark",
       "link": "https://decrypt.co/326522/coinbase-target-price-raised-transformative-week-benchmark",
       "summary": "The company\u2019s new license in Europe is bullish, along with the GENIUS Act\u2019s passage, Benchmark analysts said."
-    },
-    {
-      "title": "Trump Media Reaffirms $2.3 Billion Bitcoin Treasury Plan Amid Share Buyback",
-      "link": "https://decrypt.co/326520/trump-media-reaffirms-bitcoin-treasury-plan-share-buyback",
-      "summary": "President Trump's publicly traded Trump Media and Technology Group is buying back shares\u2014but still plans to buy Bitcoin too."
-    },
-    {
-      "title": "Pompliano Bitcoin Treasury ProCap Unveils $1 Billion SPAC Merger",
-      "link": "https://decrypt.co/326510/pomplianos-bitcoin-treasury-procap-unveils-1-billion-spac-merger",
-      "summary": "Instead of simply buying and holding Bitcoin, the company plans on putting capital to work."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Decoding Fartcoin\u2019s short squeeze zone: Traders, watch out for\u2026",
+      "link": "https://ambcrypto.com/decoding-fartcoins-short-squeeze-zone-traders-watch-out-for/",
+      "summary": "<img alt=\"FARTCOIN\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-23T134638.879-1-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whale buys, rising OI, and oversold RSI point to possible FARTCOIN breakout."
+    },
+    {
       "title": "XRP faces major sell-off risk as whales lock in profits \u2013 Is a crash coming?",
       "link": "https://ambcrypto.com/xrp-faces-major-sell-off-risk-as-whales-lock-in-profits-is-a-crash-coming/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-2-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Technical weakness and whale exits pile pressure on XRP as bulls struggle to hold the line."
@@ -208,11 +213,6 @@
       "title": "Why is crypto down today? \u2013 Iran\u2019s threats shake BTC, inflation fears & more",
       "link": "https://ambcrypto.com/why-is-crypto-down-today-irans-threats-shake-btc-inflation-fears-more/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/WhyiscryptodowntodayBitcoin-1.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Experts downplay market fears on Iran's chokepoint on Strait of Hormuz"
-    },
-    {
-      "title": "XRP\u2019s price to $30? ETF odds hitting 95% means it\u2019s possible!",
-      "link": "https://ambcrypto.com/xrps-price-to-30-etf-odds-hitting-95-means-its-possible/",
-      "summary": "<img alt=\"XRP&#039;s price to $30? ETF odds hitting 95% means it&#039;s possible!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP charts say caution, ETF odds say opportunity."
     }
   ]
 }
