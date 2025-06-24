@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Metaplanet Plans to Inject $5B Into U.S. Unit to Accelerate Bitcoin Buying Strategy",
+      "link": "https://www.coindesk.com/markets/2025/06/24/metaplanet-plans-to-inject-5b-into-us-unit-to-accelerate-bitcoin-buying-strategy",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Could Spike to $120K, Here Are 4 Factors Boosting the Case for a BTC Bull Run",
       "link": "https://www.coindesk.com/markets/2025/06/24/bitcoin-could-spike-to-usd120k-here-are-4-factors-boosting-the-case-for-a-btc-bull-run",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "XRP Jumps 11% With Eyes on $2.20, Analysts Split on What\u2019s Next",
       "link": "https://www.coindesk.com/markets/2025/06/24/xrp-jumps-11-with-eyes-on-220-analysts-split-on-whats-next",
       "summary": ""
-    },
-    {
-      "title": "Ark Invest Continues to Dump Circle Shares, Buys Robinhood and Coinbase",
-      "link": "https://www.coindesk.com/markets/2025/06/24/ark-invest-continues-to-dump-circle-shares-buys-robinhood-and-coinbase",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Celestia founder dismisses FUD, cites $100M war chest amid backlash",
+      "link": "https://cointelegraph.com/news/celestia-founder-defends-team-amid-dumping-allegations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwZTgtNTFiYy03MmMwLTg3MGMtNWY0NDhhODI3YmY4.jpg\" /></p><p>Celestia co-founder Mustafa Al-Bassam said the team remains fully committed despite community outrage over alleged insider dumping and a 95% token drawdown.</p>"
+    },
+    {
+      "title": "Why is the crypto market up today?",
+      "link": "https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvYTYzMzIzMGQtM2Y5YS00NzQ5LThiYWItMDE3YzRiOTQzNWEw.jpg\" /></p><p>The crypto market is up today, following Trump\u2019s announcement that Israel and Iran had agreed to a ceasefire, prompting investors to shift back into risk-on mode.</p>"
+    },
     {
       "title": "Who is Arthur Britto, the Ripple \u2018ghost\u2019 who just broke 14 years of silence?",
       "link": "https://cointelegraph.com/news/who-is-arthur-britto-the-ripple-ghost-who-just-broke-14-years-of-silence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Beware: SparkKitty malware wants your seed phrase screenshots",
       "link": "https://cointelegraph.com/news/crypto-seed-phrase-stealing-malware-on-major-app-stores?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3NDAtMzY2Ny03YzU1LWFhZGQtYmU2YjFjZmY0ZDNl.jpg\" /></p><p>Kaspersky says the malware SparkKitty has been around since at least early 2024, and is likely connected to a similar type of malicious software dubbed SparkCat.</p>"
-    },
-    {
-      "title": "Panther Metals up 21% after $5.4M Bitcoin play to buy minerals and gold",
-      "link": "https://cointelegraph.com/news/panther-metals-shares-soar-bitcoin-treasury-plan-buy-minerals-and-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwM2QtZmMxZC03N2YwLTgwMGQtNTc0YmYyYWQzYjg1.jpg\" /></p><p>Panther Metals is planning a $5.4 million Bitcoin treasury and will use it as collateral to buy a mineral mining deposit in Canada and other commodities in the future.</p>"
-    },
-    {
-      "title": "Fed cuts \u2018reputational risk\u2019 scrutiny used to \u2018assassinate\u2019 crypto firms",
-      "link": "https://cointelegraph.com/news/fed-removes-reputational-risk-boon-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGIzY2UtMTQ3Yi03OThjLTgyNDYtNTJjZGM4YjFjYjUx.jpg\" /></p><p>Under Operation Chokepoint 2.0, more than 30 technology and crypto companies were denied banking services in the US after the collapse of crypto-friendly banks in 2023.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Israel claims new Iran missiles detected as shorts wrecked after Bitcoin retook $105k amid ceasefire",
+      "link": "https://cryptoslate.com/shorts-wrecked-as-bitcoin-retakes-105k-after-israel-accepts-ceasefire-following-final-iran-volley/",
+      "summary": "<p>BREAKING: The BBC is now reporting new missile launches from Iran at 08.30 BST, potentially breaking the ceasefire just moments after Israel&#8217;s acceptance. Bitcoin returned above $105,000 early Monday after Israel formally accepted a ceasefire proposal brokered by the United States, capping a volatile 48-hour period that saw rapid escalations in the Iran-Israel conflict and [&#8230;]</p> <p>"
+    },
     {
       "title": "Dark market activity on Telegram persists despite $27B Huione ban \u2013 Elliptic",
       "link": "https://cryptoslate.com/dark-market-activity-on-telegram-persists-despite-27b-huione-ban-elliptic/",
@@ -73,14 +78,14 @@
       "title": "Survey: 82% of US wealthy investors favor advisers who can deliver informed crypto strategies",
       "link": "https://cryptoslate.com/survey-82-of-us-wealthy-investors-favor-advisers-who-can-deliver-informed-crypto-strategies/",
       "summary": "<p>Wealthy US investors say they are more likely to hire financial advisers who provide crypto guidance, according to a June 2025 CoinShares survey of 500 individuals with at least $500,000 in investable assets. A vast majority (88%) of investors already work with an adviser, and 58% rank advisers as their most trusted source for digital [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Fed joins regulators dropping reputational risk factor, clearing banks to serve crypto firms",
-      "link": "https://cryptoslate.com/fed-joins-regulators-dropping-reputational-risk-factor-clearing-banks-to-serve-crypto-firms/",
-      "summary": "<p>The Federal Reserve Board on June 23 removed reputational risk from its bank supervision program, ordering staff to strike the term from examination manuals and to concentrate on measurable financial exposures. The Fed move positions the central bank alongside the Federal Deposit Insurance Corporation (FDIC) and the Office of the Comptroller of the Currency, which [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Is Ethereum Staging A Repeat Of 2021? Here\u2019s Why A 200% Surge Could Follow",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeat-of-2021/",
+      "summary": "Ethereum saw a notable decline in its price over the last week, and the weekend culmination pulled the price back towards levels not seen in over one month. The movement tracks with the established bearish trend of the month of June and continues to show mounting sell pressure on the cryptocurrency. However, with this decline has emerged a trend similar to what was seen back in 2021, right before the market picked up and saw the beginning of the altcoin season. Ethereum Price Crash Similar To 2021 Looking at the current Ethereum price action and that of what was seen back in Q2 2021, there have been some striking similarities. Most especially, how the Ethereum price has performed in the month of June so far has been the same as what happened back in June 2021. Related Reading: Bears Will Be Washed Out Of Bitcoin If This Happens In 2021, the Ethereum price began the month of June trading above $2,600. However, as the month went on, the altcoin suffered multiple declines and crashed below $2,000 before it was over. Eventually, the price would find its bottom somewhere around $1,600 before the decline was over. Fast forward four years to the year 2025, and the month of June is showing the same trend. June 2025 had begun with the Ethereum price trending above $2,600 before the bears took control. Since then, the altcoin has crashed by more than 20%, and looks primed for more. Using the historical performance, it would suggest that the Ethereum price decline is far from over. If there is a repeat of June 2021, then Ethereum could suffer another 20% crash before the month of June is over, to find its bottom somewhere between $1,600 and $1,700. The Trigger For Altcoin Season Given that Ethereum is the largest altcoin in the market, it is naturally the trigger for the altcoin season. Looking back on 2021, the altcoin season began when the Ethereum price began to rally. But the recovery did not begin until the month of July, and eventually lasted into the month of November. Related Reading: XRP On-Chain Activity Down 80% In 5 Months, Experts Argue Bullish/Bearish Implications So far, investors are already looking positively toward July 2025, as there have been rumors of a rate cut. This is expected to trigger a market rally for risk assets such as Bitcoin and Ethereum, coupled with the fact that a resolution to the Iran-Israel war could be in the works. If this trend holds, then it is possible that the Ethereum price would begin to rally in July. As seen in 2021, Ethereum would end up rising over 200% in the course of five months, to put in a new all-time high in the month of November. Featured image from Dall.E, chart from TradingView.com"
+    },
     {
       "title": "This Bitcoin Zone Could Be Market\u2019s Next True \u2018Pivot,\u2019 Says Glassnode",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-zone-markets-next-true-pivot-glassnode/",
@@ -100,11 +105,6 @@
       "title": "XRP Price Reclaims Key Resistance \u2014 Are More Gains on the Horizon?",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-reclaims-2-10/",
       "summary": "XRP price started a fresh increase from the $1.920 zone. The price is back above $2.10 and might struggle to continue higher above the $2.20 zone. XRP price started a fresh increase above the $2.050 zone. The price is now trading above $2.10 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2.00 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start a fresh increase if there is a close above the $2.180 resistance zone. XRP Price Eyes More Gains XRP price remained supported above the $1.920 zone and started a fresh increase, like Bitcoin and Ethereum. The price recovered above the $2.00 and $2.020 resistance levels. Besides, there was a break above a key bearish trend line with resistance at $2.00 on the hourly chart of the XRP/USD pair. The pair even cleared the $2.10 resistance and $2.150 hurdle. However, the bears were active below $2.20. A high was formed at $2.170 and the price is now consolidating above the 23.6% Fib retracement level of the upward move from the $1.910 swing low to the $2.170 high. The price is now trading above $2.10 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.1650 level. The first major resistance is near the $2.180 level. The next resistance is $2.20. A clear move above the $2.20 resistance might send the price toward the $2.250 resistance. Any more gains might send the price toward the $2.300 resistance or even $2.320 in the near term. The next major hurdle for the bulls might be $2.50. Another Drop? If XRP fails to clear the $2.180 resistance zone, it could start another decline. Initial support on the downside is near the $2.0880 level. The next major support is near the $2.050 level or the 50% Fib retracement level of the upward move from the $1.910 swing low to the $2.170 high. If there is a downside break and a close below the $2.050 level, the price might continue to decline toward the $2.00 support. The next major support sits near the $1.920 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.050 and $2.00. Major Resistance Levels \u2013 $2.180 and $2.20."
-    },
-    {
-      "title": "Bitcoin\u2019s Drop Below $100k Sparks Bearish Chatter, But Data Says Something Else",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-drop-below-100k-sparks-bearish-chatter-but-data-says-something-else/",
-      "summary": "Bitcoin has rebounded slightly after dropping below the $100,000 mark, a decline attributed to escalating geopolitical tensions. The digital asset reached lows of approximately $98,974 following reports of US military strikes on Iran. At the time of writing, Bitcoin has regained some ground and is trading at $102,1010, representing a 2.4% increase over the past 24 hours and a 5.82% decrease over the last week. Amid this price performance, recent on-chain analysis points to a phase of consolidation rather than a structural breakdown. CryptoQuant analyst Darkfost shared in a QuickTake post that long-term Bitcoin holders appear to be maintaining their positions rather than exiting, indicating continued conviction despite short-term volatility. Related Reading: Bitcoin Crashed Below $100,000 Amid US Airstrikes On Iran And Market Sell-Off Bitcoin On-Chain Indicators Signal Consolidation, Not Capitulation According to Darkfost, the current market behavior is reflective of a quiet consolidation period, with long-term holders showing little inclination to sell. Based on the 30-day moving average of Binary Coin Days Destroyed (CDD), his analysis shows that the metric has stayed below the 0.8 threshold typically associated with major corrections. The value recently peaked at 0.6 before trending downward, suggesting limited market overheating at present levels. Darkfost emphasized that this moderation could precede a continuation of the broader bull cycle, mirroring past market structures where consolidation phases led to further price advances. He noted that past bull runs have often been characterized by a \u201cstaircase\u201d trajectory, periods of sideways or modest downward movement followed by renewed upward momentum. In this context, subdued sentiment may indicate that the market is preparing for a potential next leg higher. The analyst wrote: Importantly, this does not signal the end of the bull cycle. Instead, similar to the past two phases, we may once again see a staircase-like movement where consolidation is followed by another leg up. Historically, Bitcoin\u2019s explosive rallies tend to occur when market attention fades and sentiment is quiet, making the current silence potentially a precursor to the next big move. Whale Behavior Remains Steady Amid Market Tensions Complementing this outlook, another CryptoQuant contributor, Mignolet, provided insight into whale activity during the current consolidation phase. He noted that while the market setup resembles the double-top formation seen in 2021, key on-chain signals from whales have not aligned with those seen during that previous peak. Specifically, Ethereum transaction outflows, often used as a proxy for large investor exits, have not shown the kind of spikes observed during the 2021 market top. Related Reading: Bears Will Be Washed Out Of Bitcoin If This Happens Mignolet pointed out that although Ethereum has seen a gradual decline in market share relative to other layer-1 and layer-2 chains since 2020, its transactional data still maintains a strong correlation with Bitcoin price movements. The absence of aggressive exit activity among large holders suggests that major market participants are not rushing for the exits, despite heightened geopolitical uncertainty and short-term price volatility. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "\u2018Dump your altcoins for Bitcoin treasuries, \u2019 Adam Back tells altcoin traders!",
+      "link": "https://ambcrypto.com/dump-your-altcoins-for-bitcoin-treasuries-adam-back-tells-altcoin-traders/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/AltcoinseasonBitcoindominance.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin treasury stocks may be a better speculative asset than altcoins."
+    },
+    {
       "title": "$180, a major test for Solana \u2013 A fall below this level means\u2026",
       "link": "https://ambcrypto.com/180-a-major-test-for-solana-a-fall-below-this-level-means/",
       "summary": "<img alt=\"$180, a major test for Solana - A fall below this level means...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_53_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana network booms with user activity, but a bullish breakout hinges on the $180 resistance level."
@@ -208,11 +213,6 @@
       "title": "How low will the Crypto Fear & Greed Index go before Bitcoin recovers?",
       "link": "https://ambcrypto.com/how-low-will-the-crypto-fear-greed-index-go-before-bitcoin-recovers/",
       "summary": "<img alt=\"How low will the Crypto Fear &amp; Greed Index go before Bitcoin recovers?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Fear-and-Greed-Index-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sentiment is neutral now, and extreme fear levels might be necessary for a Bitcoin reset."
-    },
-    {
-      "title": "Cardone Capital buys $101M in Bitcoin, with plans to add 3000 BTC more!",
-      "link": "https://ambcrypto.com/cardone-capital-buys-101m-in-bitcoin-with-plans-to-add-3000-btc-more/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-3-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />From luxury apartments to digital assets, the firm\u2019s strategy marks a shift in long-term value bets."
     }
   ]
 }
