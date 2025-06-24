@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Could Spike to $120K, Here Are 4 Factors Boosting the Case for a BTC Bull Run",
+      "link": "https://www.coindesk.com/markets/2025/06/24/bitcoin-could-spike-to-usd120k-here-are-4-factors-boosting-the-case-for-a-btc-bull-run",
+      "summary": ""
+    },
+    {
       "title": "Dogecoin Surges 7% as Bulls Break Key Resistance",
       "link": "https://www.coindesk.com/markets/2025/06/24/dogecoin-surges-7-as-bulls-break-key-resistance",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Ark Invest Continues to Dump Circle Shares, Buys Robinhood and Coinbase",
       "link": "https://www.coindesk.com/markets/2025/06/24/ark-invest-continues-to-dump-circle-shares-buys-robinhood-and-coinbase",
       "summary": ""
-    },
-    {
-      "title": "ETH Surges 9% as Crypto Market Celebrates Trump's Ceasefire Announcement",
-      "link": "https://www.coindesk.com/markets/2025/06/24/eth-surges-9-as-crypto-market-celebrates-trump-s-peace-deal-announcement",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Who is Arthur Britto, the Ripple \u2018ghost\u2019 who just broke 14 years of silence?",
+      "link": "https://cointelegraph.com/news/who-is-arthur-britto-the-ripple-ghost-who-just-broke-14-years-of-silence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlmZjUtYmU1Yi03ZTJlLTg0ODctY2M5NDIxYzc1Y2Rk.jpg\" /></p><p>Arthur Britto, elusive co-creator of the XRP Ledger and co-founder of Ripple Labs, made the first-ever public post on his 14-year-old X account.</p>"
+    },
     {
       "title": "$4B family office VMS Group to begin investing in crypto: Report",
       "link": "https://cointelegraph.com/news/hong-kong-family-office-vms-group-begin-investing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "Fed cuts \u2018reputational risk\u2019 scrutiny used to \u2018assassinate\u2019 crypto firms",
       "link": "https://cointelegraph.com/news/fed-removes-reputational-risk-boon-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGIzY2UtMTQ3Yi03OThjLTgyNDYtNTJjZGM4YjFjYjUx.jpg\" /></p><p>Under Operation Chokepoint 2.0, more than 30 technology and crypto companies were denied banking services in the US after the collapse of crypto-friendly banks in 2023.</p>"
-    },
-    {
-      "title": "Ethereum dev floats halving slot times to 6 secs, doubling blocks",
-      "link": "https://cointelegraph.com/news/ethereum-dev-proposes-halving-slot-times-6-secs-doubling-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2M5NDUtMTM4NS03YTYzLWJlOGQtNjcxMWVhODE4ZTBi.jpg\" /></p><p>Core developer Barnab\u00e9 Monnot says six-second block times would slash confirmation delays, boost DeFi efficiency and create smoother user experiences across the Ethereum network.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "US Housing Regulator to Study Crypto Holdings in Mortgage Qualification Process",
+      "link": "https://decrypt.co/326657/us-housing-regulator-study-crypto-mortgage",
+      "summary": "FHFA Director Bill Pulte, a longtime crypto supporter, said the agency will examine how digital assets factor into home loan qualification."
+    },
+    {
       "title": "Crypto Scam Markets Thrive Again After Telegram\u2019s Cleanup Attempt: Report",
       "link": "https://decrypt.co/326653/crypto-scam-markets-thrive-telegram",
       "summary": "Platforms such as Shuangying and Fully Light have surged after the Huione ban, with transactions increasing three to fourfold."
@@ -154,11 +159,6 @@
       "title": "How AI Is Has Turned Propaganda Into a Potent Weapon",
       "link": "https://decrypt.co/326589/ai-propaganda-potent-weapon",
       "summary": "AI-generated videos and fake personas are flooding social media from Tel Aviv to Tehran, turning it into a digital battlefield of deception."
-    },
-    {
-      "title": "Senator Introduces Bill to Halt Trump\u2019s Crypto Activity\u2014But Voted to Allow It Last Week",
-      "link": "https://decrypt.co/326576/senator-introduces-bill-halt-trump-crypto-activity-voted-allow",
-      "summary": "Adam Schiff (D-CA) is the latest Democrat to propose a bill banning President Trump from engaging in crypto activity. Like the others, it's unlikely to pass anytime soon."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "$180, a major test for Solana \u2013 A fall below this level means\u2026",
+      "link": "https://ambcrypto.com/180-a-major-test-for-solana-a-fall-below-this-level-means/",
+      "summary": "<img alt=\"$180, a major test for Solana - A fall below this level means...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_53_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana network booms with user activity, but a bullish breakout hinges on the $180 resistance level."
+    },
+    {
       "title": "Tether\u2019s $2 billion liquidity bet \u2013 Is Bitcoin ready to rip right now?",
       "link": "https://ambcrypto.com/tethers-2-billion-liquidity-bet-is-bitcoin-ready-to-rip-right-now/",
       "summary": "<img alt=\"Tether\u2019s $2 billion liquidity bet - Is Bitcoin ready to rip right now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The $2B mint looks defensive, yet it also signals a bullish rotation loading."
@@ -208,11 +213,6 @@
       "title": "Cardone Capital buys $101M in Bitcoin, with plans to add 3000 BTC more!",
       "link": "https://ambcrypto.com/cardone-capital-buys-101m-in-bitcoin-with-plans-to-add-3000-btc-more/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-3-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />From luxury apartments to digital assets, the firm\u2019s strategy marks a shift in long-term value bets."
-    },
-    {
-      "title": "Story [IP] price prediction \u2013 Traders, look out for this key divergence!",
-      "link": "https://ambcrypto.com/story-ip-price-prediction-traders-look-out-for-this-key-divergence/",
-      "summary": "<img alt=\"Story [IP] price prediction - Traders, look out for this key divergence!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Story-IP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />IP saw some demand over the past few days that resulted in a price bounce."
     }
   ]
 }
