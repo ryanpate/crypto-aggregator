@@ -1,73 +1,66 @@
 ---
-title: "Token Standards: ERC-20 & ERC-721"
-description: "An overview of Ethereum’s token standards, covering the fungible ERC-20 and non-fungible ERC-721 specifications, use cases, and implementation details."
+title: "The NFT Revolution"
+description: "An exploration of the explosive growth of non-fungible tokens (NFTs), their major marketplaces, emerging use cases beyond digital art, and what’s next."
 keywords:
-  - "ERC-20 tokens"
-  - "ERC-721 NFTs"
-  - "Ethereum token standards"
-  - "fungible tokens"
+  - "NFT Revolution"
   - "non-fungible tokens"
-  - "smart contract interfaces"
-  - "token implementation"
+  - "digital art NFTs"
+  - "ERC-721"
+  - "ERC-1155"
+  - "NFT marketplaces"
+  - "NFT gaming"
+  - "tokenization"
+  - "NFT royalties"
 ---
 
-# Token Standards: ERC-20 & ERC-721
+# The NFT Revolution
 
-Ethereum introduced standardized interfaces for tokens, enabling interoperability across wallets, exchanges, and dApps. The two foundational standards are **ERC-20** for fungible tokens and **ERC-721** for non-fungible tokens (NFTs).
+Non-fungible tokens (NFTs) have redefined digital ownership by recording unique assets on the blockchain. From six-figure art sales to tokenized real-world assets, NFTs power a vibrant ecosystem of creators, collectors, and platforms.
 
-## ERC-20: Fungible Tokens
-
-### What Is ERC-20?
-- A smart contract interface defining a common set of functions for interchangeable (fungible) tokens.
-- Fungible tokens are identical and divisible (e.g., stablecoins, governance tokens).
-
-### Core Functions
-- `totalSupply()` — Returns total token supply.
-- `balanceOf(address owner)` — Returns token balance of an address.
-- `transfer(address to, uint256 amount)` — Transfers tokens.
-- `approve(address spender, uint256 amount)` — Authorizes another address to spend tokens.
-- `transferFrom(address from, address to, uint256 amount)` — Transfers on behalf of another.
-- `allowance(address owner, address spender)` — Returns remaining approved amount.
-
-### Events
-- `Transfer(address indexed from, address indexed to, uint256 value)`
-- `Approval(address indexed owner, address indexed spender, uint256 value)`
-
-### Use Cases
-- **Stablecoins:** USDC, DAI
-- **Governance Tokens:** UNI, AAVE
-- **Utility Tokens:** Gas tokens, reward tokens
-
-*Cluster article: [Understanding Smart Contracts & the EVM](/ethereum/smart-contracts-and-evm/)*
-
-## ERC-721: Non-Fungible Tokens (NFTs)
-
-### What Is ERC-721?
-- A standard for unique, indivisible tokens representing distinct digital assets.
-- Each token has a unique `tokenId` and metadata URI.
-
-### Core Functions
-- `balanceOf(address owner)` — Number of NFTs owned by an address.
-- `ownerOf(uint256 tokenId)` — Owner of a specific NFT.
-- `safeTransferFrom(address from, address to, uint256 tokenId)` — Secure transfer with checks.
-- `transferFrom(address from, address to, uint256 tokenId)` — Basic transfer without safety checks.
-- `approve(address to, uint256 tokenId)` — Approve another address to transfer a specific NFT.
-- `setApprovalForAll(address operator, bool approved)` — Approve or revoke operator for all NFTs.
-- `getApproved(uint256 tokenId)` — Address approved for a specific NFT.
-- `isApprovedForAll(address owner, address operator)` — Operator approval status.
-
-### Events
-- `Transfer(address indexed from, address indexed to, uint256 indexed tokenId)`
-- `Approval(address indexed owner, address indexed approved, uint256 indexed tokenId)`
-- `ApprovalForAll(address indexed owner, address indexed operator, bool approved)`
-
-### Use Cases
-- **Digital Art & Collectibles:** CryptoKitties, Bored Ape Yacht Club
-- **Game Assets:** In-game items with provable scarcity
-- **Real-World Tokenization:** Real estate deeds, event tickets
-
-*Cluster article: [The NFT Revolution](/ethereum/understanding-ethereum-basics-to-nfts/)*
+## Table of Contents
+1. [What Are NFTs?](#what-are-nfts)  
+2. [ERC-721 vs ERC-1155](#erc-721-vs-erc-1155)  
+3. [Leading Marketplaces](#leading-marketplaces)  
+4. [Use Cases Beyond Art](#use-cases-beyond-art)  
+5. [Economics & Royalties](#economics--royalties)  
+6. [Risks & Best Practices](#risks--best-practices)  
+7. [The Road Ahead](#the-road-ahead)  
 
 ---
 
-_Return to the pillar page: [Understanding Ethereum: From Basics to NFTs](/ethereum/understanding-ethereum-basics-to-nfts/)._
+## What Are NFTs?
+NFTs are unique, indivisible tokens on a blockchain that represent ownership of a distinct item or piece of content—whether digital art, a game asset, or a real-world collectible.
+
+*Related: [Token Standards: ERC-20 & ERC-721](/ethereum/token-standards-erc20-erc721/)*
+
+## ERC-721 vs ERC-1155
+- **ERC-721:** Single-asset standard for unique tokens (e.g. CryptoKitties).  
+- **ERC-1155:** Multi-asset standard supporting both fungible and non-fungible tokens in one contract.
+
+## Leading Marketplaces
+- **OpenSea** – The largest NFT marketplace (ERC-721 & ERC-1155).  
+- **Rarible** – Community-governed (RARI token) with on-chain royalties.  
+- **Foundation** – Curated digital art platform.  
+- **NBA Top Shot** – Licensed sports collectibles on Flow.
+
+## Use Cases Beyond Art
+- **Gaming:** In-game items & virtual land (Axie Infinity, Decentraland).  
+- **Collectibles:** Sports cards, music releases, limited drops.  
+- **Real-World Tokenization:** Real estate deeds, event tickets, luxury goods.
+
+## Economics & Royalties
+Smart contracts can automatically distribute a percentage of every secondary sale back to creators, ensuring ongoing revenue through programmable royalties.
+
+## Risks & Best Practices
+- **Smart Contract Audits:** Only mint or buy from audited contracts.  
+- **Wash Trading:** Beware of artificial volume.  
+- **Copyright & IP:** Verify the seller’s right to tokenize the asset.
+
+## The Road Ahead
+- **Cross-Chain NFTs:** Bridging between Ethereum, Solana, Flow.  
+- **Fractional Ownership:** Splitting expensive NFTs into shareable tokens.  
+- **Dynamic NFTs:** Assets that evolve with on-chain or real-world data.
+
+---
+
+_Return to your pillar guide: [Understanding Ethereum: From Basics to NFTs](/ethereum/understanding-ethereum-basics-to-nfts/)._  

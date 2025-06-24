@@ -1,73 +1,60 @@
 ---
-title: "Token Standards: ERC-20 & ERC-721"
-description: "An overview of Ethereum’s token standards, covering the fungible ERC-20 and non-fungible ERC-721 specifications, use cases, and implementation details."
+title: "Scaling & Layer 2 Solutions"
+description: "An in-depth look at Ethereum scaling challenges and the Layer 2 solutions—including rollups, sidechains, and sharding—designed to improve throughput and reduce fees."
 keywords:
-  - "ERC-20 tokens"
-  - "ERC-721 NFTs"
-  - "Ethereum token standards"
-  - "fungible tokens"
-  - "non-fungible tokens"
-  - "smart contract interfaces"
-  - "token implementation"
+  - "Ethereum scaling"
+  - "Layer 2 solutions"
+  - "rollups"
+  - "Optimistic rollups"
+  - "ZK rollups"
+  - "sidechains"
+  - "Polygon"
+  - "Arbitrum"
+  - "sharding"
+  - "Ethereum 2.0"
 ---
 
-# Token Standards: ERC-20 & ERC-721
+# Scaling & Layer 2 Solutions
 
-Ethereum introduced standardized interfaces for tokens, enabling interoperability across wallets, exchanges, and dApps. The two foundational standards are **ERC-20** for fungible tokens and **ERC-721** for non-fungible tokens (NFTs).
+As Ethereum adoption grows, the network faces throughput limits and rising gas fees. Layer 2 (L2) solutions and Ethereum 2.0 upgrades aim to address these challenges:
 
-## ERC-20: Fungible Tokens
+## 1. Rollups
 
-### What Is ERC-20?
-- A smart contract interface defining a common set of functions for interchangeable (fungible) tokens.
-- Fungible tokens are identical and divisible (e.g., stablecoins, governance tokens).
+### Optimistic Rollups  
+- **How they work:** Batch transactions off-chain, post a “compressed” proof on Layer 1, and assume validity unless fraud is proven.  
+- **Examples:** Optimism, Arbitrum One.  
+- **Pros/Cons:** Near-L1 security; 7-day withdrawal delays for fraud proofs.
 
-### Core Functions
-- `totalSupply()` — Returns total token supply.
-- `balanceOf(address owner)` — Returns token balance of an address.
-- `transfer(address to, uint256 amount)` — Transfers tokens.
-- `approve(address spender, uint256 amount)` — Authorizes another address to spend tokens.
-- `transferFrom(address from, address to, uint256 amount)` — Transfers on behalf of another.
-- `allowance(address owner, address spender)` — Returns remaining approved amount.
+### ZK (Zero-Knowledge) Rollups  
+- **How they work:** Generate succinct cryptographic proofs (SNARKs/ STARKs) that off-chain batches are valid.  
+- **Examples:** zkSync, StarkNet.  
+- **Pros/Cons:** Fast finality & withdrawals; more complex prover infrastructure.
 
-### Events
-- `Transfer(address indexed from, address indexed to, uint256 value)`
-- `Approval(address indexed owner, address indexed spender, uint256 value)`
+## 2. Sidechains
 
-### Use Cases
-- **Stablecoins:** USDC, DAI
-- **Governance Tokens:** UNI, AAVE
-- **Utility Tokens:** Gas tokens, reward tokens
+- **Definition:** Independent blockchains running EVM-compatible nodes secured by their own validator set.  
+- **Examples:** Polygon PoS, xDai, BNB Chain.  
+- **Trade-offs:** Lower fees & fast txns but rely on the sidechain’s security model.
 
-*Cluster article: [Understanding Smart Contracts & the EVM](/ethereum/smart-contracts-and-evm/)*
+## 3. Ethereum 2.0 (Eth2) Sharding
 
-## ERC-721: Non-Fungible Tokens (NFTs)
+- **Beacon Chain & Merge:** Transition from PoW to PoS via the Beacon Chain (launched Dec 2020) and The Merge (Sep 2022).  
+- **Sharding Roadmap:** Future split of the Ethereum state into 64 shards to parallelize transaction processing.  
+- **Benefits:** Dramatically increased throughput and data availability for rollups.
 
-### What Is ERC-721?
-- A standard for unique, indivisible tokens representing distinct digital assets.
-- Each token has a unique `tokenId` and metadata URI.
+## 4. Hybrid Approaches & Emerging L2s
 
-### Core Functions
-- `balanceOf(address owner)` — Number of NFTs owned by an address.
-- `ownerOf(uint256 tokenId)` — Owner of a specific NFT.
-- `safeTransferFrom(address from, address to, uint256 tokenId)` — Secure transfer with checks.
-- `transferFrom(address from, address to, uint256 tokenId)` — Basic transfer without safety checks.
-- `approve(address to, uint256 tokenId)` — Approve another address to transfer a specific NFT.
-- `setApprovalForAll(address operator, bool approved)` — Approve or revoke operator for all NFTs.
-- `getApproved(uint256 tokenId)` — Address approved for a specific NFT.
-- `isApprovedForAll(address owner, address operator)` — Operator approval status.
+- **Validium:** Off-chain data with ZK proofs (e.g., StarkEx).  
+- **Layer 2 Aggregators:** Matter Labs’ zkSync 2.0 combining rollups + data availability.  
+- **Interoperability:** Cross-rollup messaging standards (e.g., Hyperlane, Connext).
 
-### Events
-- `Transfer(address indexed from, address indexed to, uint256 indexed tokenId)`
-- `Approval(address indexed owner, address indexed approved, uint256 indexed tokenId)`
-- `ApprovalForAll(address indexed owner, address indexed operator, bool approved)`
+## 5. How to Try Layer 2 Today
 
-### Use Cases
-- **Digital Art & Collectibles:** CryptoKitties, Bored Ape Yacht Club
-- **Game Assets:** In-game items with provable scarcity
-- **Real-World Tokenization:** Real estate deeds, event tickets
-
-*Cluster article: [The NFT Revolution](/ethereum/understanding-ethereum-basics-to-nfts/)*
+1. **Bridge assets:** Use official bridges (Polygon Bridge, Arbitrum Bridge) to move ETH/USDC onto L2.  
+2. **Adjust your wallet:** Add the Layer 2 network RPC in MetaMask.  
+3. **Use L2-native dApps:** Try Uniswap on Arbitrum, 1inch on zkSync, or Aave on Optimism.  
+4. **Monitor security:** Check that bridges and protocols are audited and actively maintained.
 
 ---
 
-_Return to the pillar page: [Understanding Ethereum: From Basics to NFTs](/ethereum/understanding-ethereum-basics-to-nfts/)._
+_For full context, return to our pillar guide: [Understanding Ethereum: From Basics to NFTs](/ethereum/understanding-ethereum-basics-to-nfts/)._  
