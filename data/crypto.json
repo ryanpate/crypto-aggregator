@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Circle Drops 15%, Stock Frenzy Cools as BIS Warns of Stablecoin Risks",
+      "link": "https://www.coindesk.com/markets/2025/06/24/circle-drops-15-stock-frenzy-cools-as-bis-warns-of-stablecoin-risks",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Miner CleanSpark Hits 50 EH/s Hashrate Milestone",
+      "link": "https://www.coindesk.com/markets/2025/06/24/bitcoin-miner-cleanspark-hits-50-eh-s-hashrate-milestone",
+      "summary": ""
+    },
+    {
       "title": "Filecoin Surges 14% as Crypto Continues Gains on Middle East Ceasefire",
       "link": "https://www.coindesk.com/markets/2025/06/24/filecoin-surges-14-as-crypto-continues-gains-on-middle-east-ceasefire",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "What Tariffs Will \u2014 and Won\u2019t \u2014 Change for U.S. Bitcoin Miners",
       "link": "https://www.coindesk.com/news-analysis/2025/06/24/what-tariffs-will-and-wont-change-for-us-bitcoin-miners",
       "summary": ""
-    },
-    {
-      "title": "AVAX Gains 8%, but Faces Short-Term Resistance",
-      "link": "https://www.coindesk.com/markets/2025/06/24/avax-gains-8-but-faces-short-term-resistance",
-      "summary": ""
-    },
-    {
-      "title": "SOL Surges 8%, With Its CME Futures Volume Hitting an All-Time High",
-      "link": "https://www.coindesk.com/markets/2025/06/24/sol-surges-8-as-cme-futures-volume-hits-all-time-high",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ex-US top regulator warns of conflicts of interest as Senate weighs market structure",
+      "link": "https://cointelegraph.com/news/rostin-behnam-cftc-chair-conflicts-of-interest-crypto-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMyOWMtOWM2Ni03YzgyLWJjNmYtZDNmODI3ZGUxMjQz.jpg\" /></p><p>The US Senate Banking Committee\u2019s digital assets subcommittee will hear testimony from former CFTC Chair Rostin Behnam and lawyers at Coinbase and Multicoin Capital.</p>"
+    },
     {
       "title": "Aptos Labs, Jump Crypto launch Web3 cloud storage layer",
       "link": "https://cointelegraph.com/news/aptos-jump-crypto-shelby-web3-cloud-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "VanEck warns: Why Bitcoin treasury companies could face capital erosion",
       "link": "https://cointelegraph.com/explained/vaneck-warns-why-bitcoin-treasury-companies-could-face-capital-erosion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZjBlMmU0ZWViYWNhM2I1MmQ3NWUzZDlhNTIyZDBlNC5qcGc=.jpg\" /></p><p>More than 220 companies now hold Bitcoin on their balance sheets. But as VanEck warns of capital erosion and GBTC\u2019s crash proves, not all bets pay off.</p>"
-    },
-    {
-      "title": "Predictive intelligence is the upgrade blockchain can\u2019t afford to miss",
-      "link": "https://cointelegraph.com/news/predictive-intelligence-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1YTctNzEzMy03MjJiLTlmYjQtOWIyMzhhMTI2MGY3.jpg\" /></p><p>Blockchain\u2019s next leap is about intelligence. Predictive infrastructure anticipates demand, erases latency and enables new levels of trust and scalability. Blockchain can become proactive and invisible.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Powell reaffirms Fed has no issues with banks conducting crypto activities",
+      "link": "https://cryptoslate.com/powell-reaffirms-fed-has-no-issues-with-banks-conducting-crypto-activities/",
+      "summary": "<p>Federal Reserve Chair Jerome Powell reaffirmed that the central bank does not object to U.S. banks providing services to cryptocurrency companies or participating in crypto-related activities, so long as they follow established risk management and consumer protection standards. Powell made the statement during his semiannual monetary policy report testimony before the House Financial Services Committee [&#8230;]</p> <p>"
+    },
     {
       "title": "Polymarket data shows low chances of impeachment for President Donald Trump",
       "link": "https://cryptoslate.com/trump-impeachment-odds-remain-slim-in-crypto-markets/",
@@ -73,14 +78,14 @@
       "title": "Bitcoin\u2019s cold war: Nearly 3,000 nodes at risk as policy tensions escalate ahead of next Bitcoin Core release",
       "link": "https://cryptoslate.com/bitcoins-cold-war-nearly-3000-nodes-at-risk-as-policy-tensions-escalate-ahead-of-core-v30/",
       "summary": "<p>Bitcoin Core developer Antoine Poinsot\u2019s merged pull request removing the long-standing 80-byte OP_RETURN relay cap has triggered one of the most divisive mempool policy debates since the block size wars. In a rapid escalation, a separate contributor posted a public bash script to auto-ban every known node running Bitcoin Knots, a policy-opposed implementation now representing [&#8230;]</p> <p>"
-    },
-    {
-      "title": "US housing agency FHFA considers digital assets like Bitcoin for mortgage collateral",
-      "link": "https://cryptoslate.com/us-housing-agency-fhfa-considers-crypto-assets-like-bitcoin-for-mortgage-eligibility/",
-      "summary": "<p>The US Federal Housing Finance Agency (FHFA) is exploring whether digital asset holdings like Bitcoin should be considered in mortgage application processes. FHFA Director Bill Pulte announced the initiative on July 24 via X, noting that the agency is beginning a review process to determine how crypto might be used in home loan evaluations. According [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Buy-Side Pressure Surges: Taker Buy Volume Spikes Sharply",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-buy-side-pressure-surges-taker-buy-volume-spikes-sharply/",
+      "summary": "Bitcoin is trading above the $105,000 level after a sharp rebound triggered by the announcement of a ceasefire between Israel and Iran. The geopolitical relief provided a strong tailwind for risk assets, and BTC responded with a powerful surge, regaining a critical psychological level that had previously flipped into resistance. Now, as bulls regain momentum, Bitcoin is flirting with a potential breakout above the $110,000 mark \u2014 a key level that capped rallies throughout June. Related Reading: Bitcoin Battles Key Support: Daily EMA-100 Must Hold to Prevent Deep Correction This renewed strength comes after several days of volatility and fear, where BTC dipped to as low as $98,200 amid escalating conflict in the Middle East. However, the swift recovery has shifted sentiment back in favor of the bulls. According to on-chain data from CryptoQuant, there has been a heavy spike in Taker Buy Volume over the past 48 hours \u2014 a strong signal that aggressive market participants are stepping in with conviction. These buy-side imbalances suggest that institutional and high-conviction traders are positioning for further upside. As the market heats up and risk appetite grows, a breakout above the $110K resistance could confirm the start of a new bullish impulse. For now, all eyes are on whether BTC can hold and extend above current levels. Bitcoin Faces Uncertainty As Bulls Defend Structure Bitcoin is currently facing a critical test, trading in a tight range after failing to break above its all-time high. Although bulls have managed to defend the overall structure and keep BTC above key moving averages, the price action has not provided a clear directional signal. The asset is roughly 6% down from its $112K peak, and while some traders expect an imminent breakout toward new highs, others warn of a potential retrace below the $100K psychological level. This divide among analysts stems from ongoing geopolitical instability \u2014 particularly in the Middle East \u2014 and tightening macroeconomic conditions. The Fed\u2019s commitment to elevated interest rates and rising US Treasury yields continues to weigh on risk sentiment, making it difficult for BTC to build sustained momentum. Despite the uncertainty, buyers have shown signs of strength, with many looking to confirm the recent bounce as a solid bottom. Top analyst Maartunn highlighted one key bullish signal: heavy spikes in Taker Buy Volume, which indicate aggressive market orders being filled on the buy side. This suggests that high-conviction buyers are stepping in at current levels, potentially front-running a larger move to the upside. While this is a positive sign for short-term sentiment, Bitcoin must still reclaim the $109K\u2013$112K range to invalidate the risk of a broader correction. Until then, traders remain cautious. If BTC closes a daily candle below the $103.6K support or loses the $100K level again, it could trigger a wave of liquidations and send prices lower. On the other hand, holding above $105K and building volume could set the stage for the next leg up. The coming days will be crucial in defining Bitcoin\u2019s path forward. Related Reading: Ethereum Holds Critical Support \u2013 $2,350 Level Could Define The Next Move BTC Surges Above Key Support As Buyers Step In The 12-hour chart for Bitcoin reveals a strong bullish reaction after a brief dip below the $103,600 support level. The price rebounded sharply, reclaiming both the 100 and 50-period moving averages (green and blue lines, respectively), with BTC now trading around $105,357. This move confirms the importance of the $103,600 zone as a high-demand area, which has acted as a launchpad multiple times since early May. Volume surged on the recent bounce, indicating aggressive buying activity. The spike suggests whales and institutional buyers likely absorbed the panic selling triggered by geopolitical events earlier in the week. Price is now approaching the $109,300 resistance level, a key ceiling that capped multiple rallies in May and June. Related Reading: Solana Cracks Below Key Structure \u2013 Head And Shoulders Breakdown Points To $106 The short-term momentum remains constructive as long as BTC holds above the moving averages. However, a rejection near $109K could confirm a broader consolidation range between $103K and $109K. If bulls manage to flip $109,300 into support, the path to retest the all-time highs around $112K opens up. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Ethereum Price Crash To $2,100 Triggers Fear, But Why Are Analysts Predicting A Rally To $6,000?",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-price-rally-to-6000/",
@@ -100,14 +105,19 @@
       "title": "Ethereum Bounces Hard After Support Bluff, A False Alarm Or Fresh Rally?",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-bounces-hard/",
       "summary": "Ethereum just pulled a surprise upward move after dipping below key support and its rising trendline. The sudden rebound caught bears off guard, fueling speculation about whether this was a mere fakeout or the start of a fresh rally. Fakeout Fools The Bears: Ethereum Reclaims Critical Support In a recent post on X, UniChartz drew attention to a classic fakeout move by ETH, where the price momentarily dipped below a significant support level and an ascending trendline, only to reclaim both shortly after. This sudden reversal disrupted bearish expectations, especially for those anticipating a deeper drop. Instead of confirming a breakdown, ETH snapped back above the key zone with notable strength, shaking up short-term sentiment. Related Reading: Ethereum Price Headed For Crash To $2,000 With Current Price Action According to UniChartz, this kind of false breakdown often traps bearish traders and can act as fuel for an upward move if momentum builds. The reclaim of the support zone is a strong technical signal, indicating that bulls are still in control for now. It not only invalidated the bearish thesis but also injected fresh optimism into the market, hinting at the possibility of a short-term rally. Still, UniChartz cautioned that follow-through is critical. If ETH can hold above this reclaimed area and form higher lows, it could set the stage for continued upside. However, any weakness or failure to maintain the level could lead to another shakeout. From Breakdown To Breakout? Key Levels In Focus After reclaiming the previously lost support level, Ethereum is showing signs of strength, but whether it can sustain this momentum remains the key question. The bounce has surprised many, especially after what looked like a clean break below a rising trendline and horizontal support. The current price action suggests bulls are regaining control, but the road ahead is lined with several resistance hurdles that could stall or reverse the advance. Related Reading: Is Ethereum Staging A Repeat Of 2021? Here\u2019s Why A 200% Surge Could Follow The first level to watch lies around the $2,858 level, where Ethereum previously struggled to maintain traction. This area marks a confluence of short-term resistance from prior price rejections. A decisive close above this could open the door for a push toward $3,360, a level that has historically acted as a pivot zone and may attract both profit-taking and fresh short positions. Beyond that, the $3,659 level stands as a key psychological and technical barrier. This region is where bears have previously reasserted control, and reclaiming it would be a statement of intent from the bulls. Only a sustained break above this zone, ideally on strong volume, would signal a shift back toward a more dominant uptrend, potentially eyeing $4,100 and beyond. For now, the reclaimed support offers a solid base, but Ethereum\u2019s upward journey depends on the bulls defending it convincingly and clearing these major resistance zones with strength and consistency. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Bitcoin Elliott Wave Count Predicts Further Crash To $94,000, But What Next?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-further-crash-to-94000/",
-      "summary": "Bitcoin (BTC) has been facing significant volatility and downward pressure lately. However, analysts warn that the downtrend may not be over yet, as projections point to a deeper price crash toward $94,000 soon. According to Bitcoin\u2019s Elliott Wave count, the cryptocurrency is currently in a vulnerable phase that may trigger more losses, despite the market\u2019s efforts to rebound. Still, the analyst notes that the next move after this projected crash could see Bitcoin potentially reversing upward to new levels. Bitcoin Faces Epic Crash As Wave 2 Unfolds Luca, a crypto analyst on X (formerly Twitter), has unveiled a foreboding forecast for the Bitcoin price, warning that the flagship cryptocurrency could still be headed for more pain in the short term. The analyst has outlined an Elliott Wave count for Bitcoin that suggests that the cryptocurrency has not bottomed yet. Related Reading: Bitcoin Bullish Divergence That Appeared Before The May ATH Has Returned Again According to the 8-hour chart breakdown, Bitcoin is in the midst of completing a Wave 2 correction within a broader bullish trend. The chart shows a five-wave corrective structure unfolding, with the final leg potentially leading to a price crash toward the $94,000 support region. This level aligns with both the 0.382 Fibonacci Retracement and a key support zone. While Luca reveals that some signs indicate that the correction might have bottomed already, the analyst maintains that one final push lower remains possible before Bitcoin\u2019s next bullish move. The projected dip toward $94,000 is framed as the concluding move of the internal Wave (v) of Wave 2, creating what could be a textbook completion of a corrective cycle. With the Bitcoin price currently sitting above the $100,000 psychological level at $105,574, a decline to $94,000 would represent a massive blow to its slowly recovering value. Despite the possibility of an upcoming bullish move, this 11.3% decline from current prices could significantly slow down BTC\u2019s momentum, putting more strain on the already volatile market. Nevertheless, Luca suggests that this decline could present a prime accumulation opportunity, indicating that now may be a favorable time to buy Bitcoin. Game-Changing Reversal With Wave 3 Push Despite the potential for a further pullback, Luca&#8217;s broader outlook for Bitcoin remains highly bullish. The Elliott Wave count on the chart signals that BTC is preparing to exit Wave 2 and initiate Wave 3\u2014one of the most powerful phases in the five-wave structure. Once the projected correction to the $94,000 level concludes, Luca expects a strong reversal that could catapult the cryptocurrency to new ATHs. Related Reading: Crypto Pundit Reveals Why This Bitcoin Bull Market Feels Different As Crypto Enters \u2018New Era\u2019 A large purple upward arrow on the chart visualizes the anticipated Wave 3 surge, pointing toward a possible target zone above $122,000. This projection is rooted in the technical and historical tendency for Wave 3 to be the steepest and most aggressive wave in the Elliott Wave cycle. With Bitcoin still hovering near a high-confluence support zone, the stage appears set for a decisive rebound in the coming weeks, provided macro conditions don\u2019t shift dramatically. Featured image from Pixabay, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Lightning Labs Releases Taproot Assets v0.6 With Updates to Stablecoin Support On Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/lightning-labs-releases-taproot-assets-v0-6-with-updates-to-stablecoin-support-on-bitcoin",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Lightning-Labs-Releases-Taproot-Assets-v0.6-With-Updates-to-Stablecoin-Support-On-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/lightning-labs-releases-taproot-assets-v0-6-with-updates-to-stablecoin-support-on-bitcoin\" rel=\"nofollow\"> </a></p> <p>The update adds grouped asset identifiers, improves Lightning Network payment flows, and expands support for stablecoin transactions on Bitcoin.</p> <p>"
+    },
+    {
+      "title": "Republican Senators Scott, Lummis, Tillis, Hagerty Push For Digital Asset Market Structure Rules",
+      "link": "https://bitcoinmagazine.com/news/republican-senators-scott-lummis-tillis-hagerty-push-for-digital-asset-market-structure-rules",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Republican-Senators-Scott-Lummis-Tillis-Hagerty-Push-For-Digital-Asset-Market-Structure-Rules.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/republican-senators-scott-lummis-tillis-hagerty-push-for-digital-asset-market-structure-rules\" rel=\"nofollow\"> </a></p> <p>Republican senators have released principles to guide digital asset market structure legislation, marking a significant step toward regulatory clarity that could benefit Bitcoin and the broader crypto industry. Senate Banking Chairman Tim Scott (R-SC), along with Senators Cynthia Lummis (R-WY), Thom Tillis (R-NC), and Bill Hagerty (R-TN), announced the framework balancing innovation with consumer protection.&#160; [&#8230;]</p> <p>"
+    },
     {
       "title": "Anthony Pompliano\u2019s ProCap BTC Buys $386M in Bitcoin",
       "link": "https://bitcoinmagazine.com/news/anthony-pomplianos-procap-btc-buys-386m-in-bitcoin",
@@ -122,19 +132,19 @@
       "title": "Amazing AI Announces Adoption of A Bitcoin Treasury Policy",
       "link": "https://bitcoinmagazine.com/news/amazing-ai-announces-adoption-of-a-bitcoin-treasury-policy",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Amazing-AI-Announces-Adoption-of-A-Bitcoin-Treasury-Policy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/amazing-ai-announces-adoption-of-a-bitcoin-treasury-policy\" rel=\"nofollow\"> </a></p> <p>The fintech group plans to begin bitcoin acquisitions in July 2025, viewing bitcoin as a long-term store of value.</p> <p>"
-    },
-    {
-      "title": "The Spiral Scroll: Wallet Clustering Basics",
-      "link": "https://bitcoinmagazine.com/technical/the-spiral-scroll-wallet-clustering-basics",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Spiral.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/the-spiral-scroll-wallet-clustering-basics\" rel=\"nofollow\"> </a></p> <p>Every transaction consists of a list of inputs and outputs. By going through the public chain of transactions, an adversary can undermine your privacy.</p> <p>"
-    },
-    {
-      "title": "Sequans Launches $384M Bitcoin Treasury Initiative with Swan Bitcoin Partnership",
-      "link": "https://bitcoinmagazine.com/news/sequans-launches-384m-bitcoin-treasury-initiative-with-swan-bitcoin-partnership",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Sequans-Launches-384M-Bitcoin-Treasury-Initiative-with-Swan-Bitcoin-Partnership.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/sequans-launches-384m-bitcoin-treasury-initiative-with-swan-bitcoin-partnership\" rel=\"nofollow\"> </a></p> <p>Sequans Communications, a France-based developer of 5G and IoT semiconductor technology, has announced a move into Bitcoin with a new treasury initiative backed by a $384 million private placement.&#160;&#160; The funding includes $195 million in equity securities and $189 million in convertible secured notes. Sequans plans to allocate this capital toward building a Bitcoin position [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Microsoft-Backed Space and Time Surges as Grayscale Debuts SXT Crypto Fund",
+      "link": "https://decrypt.co/326783/microsoft-backed-space-time-surges-grayscale-sxt-crypto-fund",
+      "summary": "SXT's daily gains extended as Grayscale announced a fund that allows its clients to invest in the Space and Time blockchain\u2019s native token."
+    },
+    {
+      "title": "'It's a Great Thing': Fed Chair Powell Backs US Crypto Bills",
+      "link": "https://decrypt.co/326774/great-thing-fed-chair-powell-backs-us-crypto-bills",
+      "summary": "Federal Reserve Chair Jerome Powell shared support for crypto legislation before Congress, signaling that the U.S. would benefit from regulatory clarity."
+    },
     {
       "title": "Ledger Introduces Physical \u2018Recovery Key\u2019 NFC Backup for Wallets",
       "link": "https://decrypt.co/326759/ledger-introduces-physical-recovery-key-nfc-backup-for-wallets",
@@ -149,19 +159,14 @@
       "title": "Bitcoin Is Getting Native, Dollar-Backed Stablecoin USDB",
       "link": "https://decrypt.co/326741/bitcoin-gets-native-dollar-backed-stablecoin-usdb",
       "summary": "Flashnet and Brale are gearing up to launch the Bitcoin-native, dollar-backed USDB stablecoin this summer in collaboration with Magic Eden."
-    },
-    {
-      "title": "USDC Issuer Circle Stumbles on Neutral Rating From Compass Point",
-      "link": "https://decrypt.co/326708/usdc-issuer-circle-stumbles-on-neutral-rating-from-compass-point",
-      "summary": "Circle stock falls 6% on analyst skepticism despite stablecoin growth potential, as USDC market share declines amid rising competition concerns."
-    },
-    {
-      "title": "Mastercard Taps Fiserv Stablecoin for \u2018New Era\u2019 of Payments",
-      "link": "https://decrypt.co/326731/mastercard-taps-fiserv-stablecoin-new-era-of-payments",
-      "summary": "Through the partnership, the companies will explore how business can \u201ctransition smoothly\u201d between fiat currency and FIUSD."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "CME XRP futures hit $542 million volume in first month, strengthening case for spot XRP ETFs",
+      "link": "https://cryptobriefing.com/cme-xrp-futures-global-demand/",
+      "summary": "<p>The surge in XRP futures trading volume bolsters the likelihood of SEC approval for spot XRP ETFs, potentially transforming crypto investment.</p> <p>"
+    },
     {
       "title": "Mastercard and Chainlink team up to enable nearly 3 billion cardholders to buy crypto on-chain",
       "link": "https://cryptobriefing.com/mastercard-chainlink-partnership-crypto/",
@@ -181,14 +186,14 @@
       "title": "Michael Saylor pitches Strategy\u2019s Bitcoin credit model to Trump\u2019s FHFA Director",
       "link": "https://cryptobriefing.com/bitcoin-credit-model-mortgages/",
       "summary": "<p>Integrating Bitcoin into housing finance could revolutionize mortgage eligibility, potentially reshaping financial systems and credit models.</p> <p>"
-    },
-    {
-      "title": "Bitcoin drops below $100K, then rebounds after Iran reportedly fires missiles toward US military targets in Qatar and Iraq",
-      "link": "https://cryptobriefing.com/bitcoin-price-drop-mideast-tensions/",
-      "summary": "<p>Geopolitical tensions can significantly impact cryptocurrency markets, highlighting their volatility and sensitivity to global events.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "XRP\u2019s 8% weekly gain faces big test \u2013 Will $2.2 break or lead to sell-off?",
+      "link": "https://ambcrypto.com/xrps-8-weekly-gain-faces-big-test-will-2-2-break-or-lead-to-sell-off/",
+      "summary": "<img alt=\"XRP&#039;s 8% weekly gain faces big test - Will $2.2 break or lead to sell-off?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/XRP-Ripple-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP's chances of extending its 8% weekly recovery may be tested at $2.2."
+    },
     {
       "title": "Solana in a loop? Why SOL\u2019s $200 dream remains stuck",
       "link": "https://ambcrypto.com/solana-in-a-loop-why-sols-200-dream-remains-stuck/",
@@ -208,11 +213,6 @@
       "title": "CRCL stock jumps 8X in 12 days, but can USDC catch up to USDT?",
       "link": "https://ambcrypto.com/crcl-stock-jumps-8x-in-12-days-is-usdc-gaining-on-usdt/",
       "summary": "<img alt=\"crcl stock surges\" class=\"attachment-full size-full wp-post-image\" height=\"1058\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/crcl-stock-surges.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1881\" />Why are investors suddenly betting big on USDC instead of USDT?"
-    },
-    {
-      "title": "What makes a hardware crypto wallet more secure than exchanges?",
-      "link": "https://ambcrypto.com/what-makes-a-hardware-crypto-wallet-more-secure-than-exchanges/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"497\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-24-190114.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"866\" />Storing and managing digital assets demands both convenience and maximum security. Many individuals explore different [&#8230;]"
     }
   ]
 }
