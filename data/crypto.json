@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Mining Profitability Increased by Almost 20% in May, Jefferies Says",
+      "link": "https://www.coindesk.com/markets/2025/06/24/bitcoin-mining-profitability-increased-by-almost-20-in-may-jefferies-says",
+      "summary": ""
+    },
+    {
+      "title": "Saving Your Wallet Details, Seed Phrase as a Photo on Your Phone? This Trojan May Be Targeting You",
+      "link": "https://www.coindesk.com/tech/2025/06/24/saving-your-wallet-details-seed-phrase-as-a-photo-on-your-phone-this-trojan-may-be-targeting-you",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Daybook Americas: Bitcoin Reclaims $105K as Iran Tensions Ease, Bulls Regroup",
+      "link": "https://www.coindesk.com/daybook-us/2025/06/24/crypto-daybook-americas-bitcoin-reclaims-105k-as-iran-tensions-ease-bulls-regroup",
+      "summary": ""
+    },
+    {
       "title": "Ethereum Developer Proposes 6-Second Block Times to Boost Speed, Slash Fees",
       "link": "https://www.coindesk.com/tech/2025/06/24/ethereum-developer-proposes-6-second-block-times-to-boost-speed-slash-fees",
       "summary": ""
@@ -9,51 +24,41 @@
       "title": "Bitcoin Set for Biggest Mining Difficulty Drop Since July 2021",
       "link": "https://www.coindesk.com/markets/2025/06/24/bitcoin-set-for-biggest-mining-difficulty-drop-since-july-2021",
       "summary": ""
-    },
-    {
-      "title": "Hong Kong Family Office VMS to Allocate Up to $10M to First Crypto Play: Bloomberg",
-      "link": "https://www.coindesk.com/business/2025/06/24/hong-kong-family-office-vms-to-allocate-up-to-10m-to-first-crypto-play-bloomberg",
-      "summary": ""
-    },
-    {
-      "title": "Nasdaq Futures Chalk Out Golden Cross Near Record High, Offering Bullish Cues to Bitcoin",
-      "link": "https://www.coindesk.com/markets/2025/06/24/nasdaq-futures-chalk-out-golden-cross-near-record-high-offering-bullish-cues-to-bitcoin",
-      "summary": ""
-    },
-    {
-      "title": "U.S. Housing Regulator Could Let Crypto Be Considered in Mortgage Applications",
-      "link": "https://www.coindesk.com/business/2025/06/24/us-housing-regulator-could-let-crypto-be-considered-in-mortgage-applications",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "US housing agency may allow crypto assets in mortgage qualification",
-      "link": "https://cointelegraph.com/news/federal-housing-finance-agency-investigates-crypto-for-mortgage-qualification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMjYtNDc3Yi03Yjk2LWExYTgtZGE0NzMyNDZjODhi.jpg\" /></p><p>The US Federal Housing Finance Agency is reviewing whether crypto holdings like Bitcoin could be used to qualify for mortgages.</p>"
+      "title": "Trump administration mulls executive order on \u2018debanking\u2019 \u2014 WSJ",
+      "link": "https://cointelegraph.com/news/trump-administration-mulls-debanking-executive-order-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg1MmYtZTBlMS03NTMzLWI4MDgtOTNkYTljOGI5ZTNh.jpg\" /></p><p>Trump may issue an executive order to protect crypto firms from banking discrimination, ending what some call Operation Chokepoint 2.0, according to The Wall Street Journal.</p>"
     },
     {
-      "title": "Turkey tightens crypto rules with source, purpose checks on transfers",
-      "link": "https://cointelegraph.com/news/turkey-tighten-crypto-oversight-source-purpose-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExNjEtMTgzNS03N2M5LWEzNzUtMzkwODFmZTBiNmU2.jpg\" /></p><p>Turkey\u2019s Finance Ministry plans new rules requiring crypto platforms to collect source and purpose data, with limits on stablecoin transfers.</p>"
+      "title": "How to use Grok for real-time crypto trading signals",
+      "link": "https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVhZGMtNWZlYy03YzZjLWJkMmYtNGFkMzZiNTUwMzE1.jpg\" /></p><p>Grok scans posts and sentiment shifts on X to help crypto traders identify early signals, memes and macro-driven momentum plays.</p>"
     },
     {
-      "title": "Why is Bitcoin price up today?",
-      "link": "https://cointelegraph.com/news/why-is-bitcoin-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvMjk3NTY5OWMtYWJkZC00ZjdiLWJkMzUtNzQyNjdhNTcwMTE3.jpg\" /></p><p>Bitcoin price is up on June 24 as multiple BTC market metrics show an improvement in investor sentiment.</p>"
+      "title": "Bitcoin $105K &#039;trend switch&#039; comes as Fed hints at July rate cut",
+      "link": "https://cointelegraph.com/news/bitcoin-105k-trend-switch-comes-fed-hints-at-july-rate-cut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YwNWEtMjUwMC03MzI5LTgyMzgtODMzZjg1YjVhYWRh.jpg\" /></p><p>Bitcoin bullish catalysts are multiplying amid a Middle East ceasefire and new hopes of an earlier-than-expected Fed rate cut.</p>"
     },
     {
-      "title": "Bitcoin makes up one-third of investor crypto portfolios in 2025",
-      "link": "https://cointelegraph.com/news/bitcoin-accounts-one-third-investor-portfolios-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzE5NWItMGQ0OS03MGI4LTgzODMtYmM3OTViNjU0M2Y1.jpg\" /></p><p>Institutional Bitcoin allocation is on the rise, while retail BTC holdings are falling in favor of altcoins with a strong ETF approval chances, such as XRP.</p>"
+      "title": "Japan proposes reclassifying crypto, paving way for ETFs and lower taxes",
+      "link": "https://cointelegraph.com/news/japan-crypto-reclassification-etfs-tax-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVhNDYtYWUzZS03N2FkLTgzODAtYzI4OTk5ZDNmMTIw.jpg\" /></p><p>Japan\u2019s FSA proposed classifying crypto as financial products, potentially allowing ETFs and a flat 20% capital gains tax.</p>"
     },
     {
-      "title": "Hardware wallet Ledger launches offline recovery key for new wallets",
-      "link": "https://cointelegraph.com/news/hardware-wallet-ledger-offline-recovery-keys-new-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwYzktMzdiOS03OGI1LWIxODYtNWI3YjA5MTg2NjMz.jpg\" /></p><p>Unlike Ledger\u2019s previously released key recovery product, Ledger Recover, the new Ledger Recovery Key is always offline and doesn\u2019t require identification.</p>"
+      "title": "Cathie Wood\u2019s ARK starts week with fresh $110M Circle stock dump",
+      "link": "https://cointelegraph.com/news/cathie-wood-ark-fresh-110-million-circle-dump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFhMTctZWIyZC03Mjc5LWFmYjAtNDE1OWMzNjQxMTIy.jpg\" /></p><p>Circle\u2019s eighth-largest holder, ARK Invest, continued offloading CRCL shares on Monday amid the stock briefly topping at $299.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "US housing agency FHFA considers digital assets like Bitcoin for mortgage collateral",
+      "link": "https://cryptoslate.com/us-housing-agency-fhfa-considers-crypto-assets-like-bitcoin-for-mortgage-eligibility/",
+      "summary": "<p>The US Federal Housing Finance Agency (FHFA) is exploring whether digital asset holdings like Bitcoin should be considered in mortgage application processes. FHFA Director Bill Pulte announced the initiative on July 24 via X, noting that the agency is beginning a review process to determine how crypto might be used in home loan evaluations. According [&#8230;]</p> <p>"
+    },
     {
       "title": "XRP leads crypto market rally as Iran-Israel\u2019s tentative ceasefire lifts sentiment",
       "link": "https://cryptoslate.com/xrps-lead-crypto-market-rally-as-iran-israels-tentative-ceasefire-lifts-sentiment/",
@@ -73,14 +78,14 @@
       "title": "Dark market activity on Telegram persists despite $27B Huione ban \u2013 Elliptic",
       "link": "https://cryptoslate.com/dark-market-activity-on-telegram-persists-despite-27b-huione-ban-elliptic/",
       "summary": "<p>Telegram-based dark markets rapidly filled the gap left by Huione Guarantee after the $27 billion marketplace disappeared on May 13, according to a June 23 Elliptic report. Elliptic noted that Telegram banned thousands of Huione Guarantee channels and usernames once researchers traced billions of USDT-denominated sales to pig-butchering scams. However, data shows that merchants immediately [&#8230;]</p> <p>"
-    },
-    {
-      "title": "FTX fights back against 3AC\u2019s \u2018unreasonable and unsupportable\u2019 $1.53B claim",
-      "link": "https://cryptoslate.com/ftx-fights-back-against-3acs-unreasonable-and-unsupportable-1-53b-claim/",
-      "summary": "<p>FTX\u2019s bankruptcy lawyers have pushed back forcefully against a $1.53 billion claim filed by failed crypto hedge fund Three Arrows Capital (3AC), calling the demand \u201cillogical\u201d and warning that it would unfairly drain funds from FTX\u2019s legitimate creditors. In new court documents submitted on June 20, FTX\u2019s legal team asked a Delaware bankruptcy judge to [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Elliott Wave Count Predicts Further Crash To $94,000, But What Next?",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-further-crash-to-94000/",
+      "summary": "Bitcoin (BTC) has been facing significant volatility and downward pressure lately. However, analysts warn that the downtrend may not be over yet, as projections point to a deeper price crash toward $94,000 soon. According to Bitcoin\u2019s Elliott Wave count, the cryptocurrency is currently in a vulnerable phase that may trigger more losses, despite the market\u2019s efforts to rebound. Still, the analyst notes that the next move after this projected crash could see Bitcoin potentially reversing upward to new levels. Bitcoin Faces Epic Crash As Wave 2 Unfolds Luca, a crypto analyst on X (formerly Twitter), has unveiled a foreboding forecast for the Bitcoin price, warning that the flagship cryptocurrency could still be headed for more pain in the short term. The analyst has outlined an Elliott Wave count for Bitcoin that suggests that the cryptocurrency has not bottomed yet. Related Reading: Bitcoin Bullish Divergence That Appeared Before The May ATH Has Returned Again According to the 8-hour chart breakdown, Bitcoin is in the midst of completing a Wave 2 correction within a broader bullish trend. The chart shows a five-wave corrective structure unfolding, with the final leg potentially leading to a price crash toward the $94,000 support region. This level aligns with both the 0.382 Fibonacci Retracement and a key support zone. While Luca reveals that some signs indicate that the correction might have bottomed already, the analyst maintains that one final push lower remains possible before Bitcoin\u2019s next bullish move. The projected dip toward $94,000 is framed as the concluding move of the internal Wave (v) of Wave 2, creating what could be a textbook completion of a corrective cycle. With the Bitcoin price currently sitting above the $100,000 psychological level at $105,574, a decline to $94,000 would represent a massive blow to its slowly recovering value. Despite the possibility of an upcoming bullish move, this 11.3% decline from current prices could significantly slow down BTC\u2019s momentum, putting more strain on the already volatile market. Nevertheless, Luca suggests that this decline could present a prime accumulation opportunity, indicating that now may be a favorable time to buy Bitcoin. Game-Changing Reversal With Wave 3 Push Despite the potential for a further pullback, Luca&#8217;s broader outlook for Bitcoin remains highly bullish. The Elliott Wave count on the chart signals that BTC is preparing to exit Wave 2 and initiate Wave 3\u2014one of the most powerful phases in the five-wave structure. Once the projected correction to the $94,000 level concludes, Luca expects a strong reversal that could catapult the cryptocurrency to new ATHs. Related Reading: Crypto Pundit Reveals Why This Bitcoin Bull Market Feels Different As Crypto Enters \u2018New Era\u2019 A large purple upward arrow on the chart visualizes the anticipated Wave 3 surge, pointing toward a possible target zone above $122,000. This projection is rooted in the technical and historical tendency for Wave 3 to be the steepest and most aggressive wave in the Elliott Wave cycle. With Bitcoin still hovering near a high-confluence support zone, the stage appears set for a decisive rebound in the coming weeks, provided macro conditions don\u2019t shift dramatically. Featured image from Pixabay, chart from Tradingview.com"
+    },
     {
       "title": "Bitcoin Repeats Its 2021 Pattern\u2014Analyst Warns Final Crash Still Ahead",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-repeats-its-2021-pattern-analyst-warns-final-crash-still-ahead/",
@@ -100,14 +105,14 @@
       "title": "Is Ethereum Staging A Repeat Of 2021? Here\u2019s Why A 200% Surge Could Follow",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeat-of-2021/",
       "summary": "Ethereum saw a notable decline in its price over the last week, and the weekend culmination pulled the price back towards levels not seen in over one month. The movement tracks with the established bearish trend of the month of June and continues to show mounting sell pressure on the cryptocurrency. However, with this decline has emerged a trend similar to what was seen back in 2021, right before the market picked up and saw the beginning of the altcoin season. Ethereum Price Crash Similar To 2021 Looking at the current Ethereum price action and that of what was seen back in Q2 2021, there have been some striking similarities. Most especially, how the Ethereum price has performed in the month of June so far has been the same as what happened back in June 2021. Related Reading: Bears Will Be Washed Out Of Bitcoin If This Happens In 2021, the Ethereum price began the month of June trading above $2,600. However, as the month went on, the altcoin suffered multiple declines and crashed below $2,000 before it was over. Eventually, the price would find its bottom somewhere around $1,600 before the decline was over. Fast forward four years to the year 2025, and the month of June is showing the same trend. June 2025 had begun with the Ethereum price trending above $2,600 before the bears took control. Since then, the altcoin has crashed by more than 20%, and looks primed for more. Using the historical performance, it would suggest that the Ethereum price decline is far from over. If there is a repeat of June 2021, then Ethereum could suffer another 20% crash before the month of June is over, to find its bottom somewhere between $1,600 and $1,700. The Trigger For Altcoin Season Given that Ethereum is the largest altcoin in the market, it is naturally the trigger for the altcoin season. Looking back on 2021, the altcoin season began when the Ethereum price began to rally. But the recovery did not begin until the month of July, and eventually lasted into the month of November. Related Reading: XRP On-Chain Activity Down 80% In 5 Months, Experts Argue Bullish/Bearish Implications So far, investors are already looking positively toward July 2025, as there have been rumors of a rate cut. This is expected to trigger a market rally for risk assets such as Bitcoin and Ethereum, coupled with the fact that a resolution to the Iran-Israel war could be in the works. If this trend holds, then it is possible that the Ethereum price would begin to rally in July. As seen in 2021, Ethereum would end up rising over 200% in the course of five months, to put in a new all-time high in the month of November. Featured image from Dall.E, chart from TradingView.com"
-    },
-    {
-      "title": "This Bitcoin Zone Could Be Market\u2019s Next True \u2018Pivot,\u2019 Says Glassnode",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-zone-markets-next-true-pivot-glassnode/",
-      "summary": "The on-chain analytics firm Glassnode has highlighted the $97,000 to $98,000 zone as an important one for Bitcoin. Here&#8217;s why. Bitcoin CBD Suggests Build Up Of Supply In This Range In a new post on X, Glassnode has discussed about a potentially significant zone for Bitcoin based on the Cost Basis Distribution. The Cost Basis Distribution (CBD) is an indicator that measures the amount of the BTC supply that investors last purchased or transferred at the various price levels. As is visible in the above graph, there is a dense supply zone located between $97,000 to $98,000. Generally, investors are quite sensitive to retests of their cost basis, so a large amount of them (or alternatively, a few large holders) having their acquisition level inside a narrow range could make retests of it significant for Bitcoin. Related Reading: Bitcoin STHs Capitulate: 14,700 BTC Moved To Exchanges At Loss When the mood in the market is bullish, holders can react to retests of their cost basis from above by buying more. They may do so believing that the same level would end up proving profitable again in the future and the retrace is just a &#8216;dip.&#8217; The cryptocurrency suffered a plunge yesterday and nearly touched this region. Since then, however, things have turned around for the asset and it has gained some distance over it once more. In the event that the decline does continue, which may not be too unexpected given the volatile geopolitical situation at the moment, the zone could end up acting as the next true pivot for Bitcoin, according to the analytics firm. While the CBD tells us where the cryptocurrency&#8217;s supply is concentrated, it doesn&#8217;t contain any information about who bought or sold at those price levels. Glassnode&#8217;s behavioral cohorts, investor groups divided on the basis of their behavior, solve this problem. Here is a chart that shows the trend in the Bitcoin supply held by these holder cohorts over the past few years: There are five of these behavior groups. First Buyers (green) include the investors who are buying Bitcoin for the very first time. As displayed in the chart, the supply of this group has been on the rise, indicating fresh demand has been coming in. Momentum Buyers (blue) are those that capitalize on market momentum by buying during uptrends. On the opposite spectrum are the Conviction Buyers (purple), who buy despite falling prices. Finally, there are the Loss Sellers (red) and Profit Takers (yellow), who correspond to investors exiting at a loss and profit, respectively. During the past couple of weeks, the former cohort has seen an increase of 29%, a sign that weak hands have been capitulating. Related Reading: Consolidation Takes Its Toll: Bitcoin Investors No Longer Greedy That said, the analytics firm has noted, &#8220;Conviction Buyers also increased, suggesting sentiment isn\u2019t collapsing. Some are cutting losses &#8211; others are actively lowering their cost basis.&#8221; BTC Price At the time of writing, Bitcoin is floating around $103,900, down more than 4% in the last seven days. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "The Spiral Scroll: Wallet Clustering Basics",
+      "link": "https://bitcoinmagazine.com/technical/the-spiral-scroll-wallet-clustering-basics",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Spiral.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/the-spiral-scroll-wallet-clustering-basics\" rel=\"nofollow\"> </a></p> <p>Every transaction consists of a list of inputs and outputs. By going through the public chain of transactions, an adversary can undermine your privacy.</p> <p>"
+    },
     {
       "title": "Sequans Launches $384M Bitcoin Treasury Initiative with Swan Bitcoin Partnership",
       "link": "https://bitcoinmagazine.com/news/sequans-launches-384m-bitcoin-treasury-initiative-with-swan-bitcoin-partnership",
@@ -127,14 +132,14 @@
       "title": "ECD Automotive Design Secures $500M Facility to Acquire Bitcoin",
       "link": "https://bitcoinmagazine.com/news/ecd-automotive-design-secures-500m-facility-to-acquire-bitcoin",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/ECD-Automotive-Design-Secures-500M-Facility-to-Acquire-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/ecd-automotive-design-secures-500m-facility-to-acquire-bitcoin\" rel=\"nofollow\"> </a></p> <p>Luxury auto builder will grow its Bitcoin treasury, expand operations, and offer $21,000 in upgrades to early customers who pay with Bitcoin and other crypto.</p> <p>"
-    },
-    {
-      "title": "Anthony Pompliano Announces $1 Billion Merger in Record Bitcoin Treasury Company Fundraise",
-      "link": "https://bitcoinmagazine.com/news/anthony-pompliano-announces-1-billion-merger-in-record-bitcoin-treasury-company-fundraise",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/ProCap-Financial-has-raised-over-750-million-in-the-largest-initial-funding-round-for-a-public-Bitcoin-treasury-company.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/anthony-pompliano-announces-1-billion-merger-in-record-bitcoin-treasury-company-fundraise\" rel=\"nofollow\"> </a></p> <p>Anthony Pompliano announced a $1 billion merger creating ProCap Financial through a Special Purpose Acquisition Company (SPAC) transaction with Columbus Circle Capital Corp. (CCCM). The deal represents the largest initial fundraise in history for a public Bitcoin treasury company, raising $516.5 million in equity and $235 million in convertible notes.&#160;&#160; ProCap Financial will operate with [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Altcoin Sei Leaps 47% Following Wyoming Stablecoin Candidacy",
+      "link": "https://decrypt.co/326663/altcoin-sei-leaps-47-following-wyoming-stablecoin-candidacy",
+      "summary": "Analysts told that Sei's strong on-chain growth over the preceding months could help support its recent price gains."
+    },
     {
       "title": "Altcoins Surge on Trump\u2019s Israel-Iran Ceasefire Announcement\u2014But Will it Last?",
       "link": "https://decrypt.co/326660/altcoins-surge-on-trumps-israel-iran-ceasefire-announcement-but-will-it-last",
@@ -154,14 +159,14 @@
       "title": "Israeli Man Accused of Spying for Iran in Exchange for Crypto",
       "link": "https://decrypt.co/326647/israeli-man-spying-iran-for-crypto",
       "summary": "A Tel Aviv resident allegedly photographed sensitive sites and received thousands in crypto, authorities say."
-    },
-    {
-      "title": "Tech That Could Prove Whether Iran\u2019s Uranium Was Destroyed",
-      "link": "https://decrypt.co/326588/tech-irans-uranium-destroyed",
-      "summary": "Satellite images reveal damage, but experts suggest that new technology may be able to verify what actually happened underground."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Michael Saylor pitches Strategy\u2019s Bitcoin credit model to Trump\u2019s FHFA Director",
+      "link": "https://cryptobriefing.com/bitcoin-credit-model-mortgages/",
+      "summary": "<p>Integrating Bitcoin into housing finance could revolutionize mortgage eligibility, potentially reshaping financial systems and credit models.</p> <p>"
+    },
     {
       "title": "Bitcoin drops below $100K, then rebounds after Iran reportedly fires missiles toward US military targets in Qatar and Iraq",
       "link": "https://cryptobriefing.com/bitcoin-price-drop-mideast-tensions/",
@@ -181,14 +186,14 @@
       "title": "Michael Saylor\u2019s Strategy makes smallest Bitcoin purchase since mid-March",
       "link": "https://cryptobriefing.com/strategy-bitcoin-acquisition-record/",
       "summary": "<p>Saylor's ongoing Bitcoin acquisitions highlight a strategic commitment to digital assets, potentially influencing market dynamics and investor sentiment.</p> <p>"
-    },
-    {
-      "title": "Hackers exploit Trezor\u2019s website to send phishing emails",
-      "link": "https://cryptobriefing.com/trezor-security-alert-phishing-warning/",
-      "summary": "<p>This incident highlights the growing sophistication of phishing attacks, underscoring the need for enhanced cybersecurity measures in crypto platforms.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Analyzing Ethereum\u2019s 8% rebound \u2013 Will Q3 push ETH to $3K?",
+      "link": "https://ambcrypto.com/assessing-ethereums-8-rebound-will-q3-push-eth-to-3k/",
+      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-18.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Caught between conviction and caution, Ethereum tests a key supply wall."
+    },
     {
       "title": "Bitcoin \u2013 How the Israel-Iran ceasefire affects BTC\u2019s short-term outlook",
       "link": "https://ambcrypto.com/bitcoin-how-the-israel-iran-ceasefire-affects-btcs-short-term-outlook/",
@@ -208,11 +213,6 @@
       "title": "\u2018Dump your altcoins for Bitcoin treasuries, \u2019 Adam Back tells altcoin traders!",
       "link": "https://ambcrypto.com/dump-your-altcoins-for-bitcoin-treasuries-adam-back-tells-altcoin-traders/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/AltcoinseasonBitcoindominance.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin treasury stocks may be a better speculative asset than altcoins."
-    },
-    {
-      "title": "$180, a major test for Solana \u2013 A fall below this level means\u2026",
-      "link": "https://ambcrypto.com/180-a-major-test-for-solana-a-fall-below-this-level-means/",
-      "summary": "<img alt=\"$180, a major test for Solana - A fall below this level means...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_53_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana network booms with user activity, but a bullish breakout hinges on the $180 resistance level."
     }
   ]
 }
