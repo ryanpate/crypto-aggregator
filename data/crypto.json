@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
+      "title": "Dogecoin Surges 7% as Bulls Break Key Resistance",
+      "link": "https://www.coindesk.com/markets/2025/06/24/dogecoin-surges-7-as-bulls-break-key-resistance",
+      "summary": ""
+    },
+    {
+      "title": "Ether, Solana, Cardano Spike 7% as Trump Claims to Broker Israel-Iran Ceasefire",
+      "link": "https://www.coindesk.com/markets/2025/06/24/ether-solana-cardano-spike-7-as-trump-claims-to-broker-israel-iran-ceasefire",
+      "summary": ""
+    },
+    {
+      "title": "XRP Jumps 11% With Eyes on $2.20, Analysts Split on What\u2019s Next",
+      "link": "https://www.coindesk.com/markets/2025/06/24/xrp-jumps-11-with-eyes-on-220-analysts-split-on-whats-next",
+      "summary": ""
+    },
+    {
+      "title": "Ark Invest Continues to Dump Circle Shares, Buys Robinhood and Coinbase",
+      "link": "https://www.coindesk.com/markets/2025/06/24/ark-invest-continues-to-dump-circle-shares-buys-robinhood-and-coinbase",
+      "summary": ""
+    },
+    {
       "title": "ETH Surges 9% as Crypto Market Celebrates Trump's Ceasefire Announcement",
       "link": "https://www.coindesk.com/markets/2025/06/24/eth-surges-9-as-crypto-market-celebrates-trump-s-peace-deal-announcement",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Busts Past $106K on Reported Iran/Israel Ceasefire",
-      "link": "https://www.coindesk.com/markets/2025/06/23/bitcoin-busts-past-106k-on-reported-iranisrael-ceasefire",
-      "summary": ""
-    },
-    {
-      "title": "Circle Hits New Record With Market Cap Nearing That of Coinbase",
-      "link": "https://www.coindesk.com/markets/2025/06/23/circle-hits-new-record-with-market-cap-nearing-that-of-coinbase",
-      "summary": ""
-    },
-    {
-      "title": "Stablecoins Are a Monetary Revolution in the Making",
-      "link": "https://www.coindesk.com/opinion/2025/06/23/stablecoins-are-a-monetary-revolution-in-the-making",
-      "summary": ""
-    },
-    {
-      "title": "Cipher Mining Begins Bitcoin Production at 300 MW Black Pearl Data Center",
-      "link": "https://www.coindesk.com/markets/2025/06/23/cipher-mining-begins-bitcoin-production-at-300-mw-black-pearl-data-center",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "$4B family office VMS Group to begin investing in crypto: Report",
+      "link": "https://cointelegraph.com/news/hong-kong-family-office-vms-group-begin-investing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2U5YWQtZDdjZi03ZWIzLWIyOWQtM2ZkMzI2MTA1MmFi.jpg\" /></p><p>VMS Group is looking to invest up to $10 million with Re7 Capital strategies, as it hopes to diversify into more liquid investments, according to managing partner Elton Cheung.</p>"
+    },
+    {
+      "title": "Beware: SparkKitty malware wants your seed phrase screenshots",
+      "link": "https://cointelegraph.com/news/crypto-seed-phrase-stealing-malware-on-major-app-stores?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3NDAtMzY2Ny03YzU1LWFhZGQtYmU2YjFjZmY0ZDNl.jpg\" /></p><p>Kaspersky says the malware SparkKitty has been around since at least early 2024, and is likely connected to a similar type of malicious software dubbed SparkCat.</p>"
+    },
+    {
+      "title": "Panther Metals up 21% after $5.4M Bitcoin play to buy minerals and gold",
+      "link": "https://cointelegraph.com/news/panther-metals-shares-soar-bitcoin-treasury-plan-buy-minerals-and-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwM2QtZmMxZC03N2YwLTgwMGQtNTc0YmYyYWQzYjg1.jpg\" /></p><p>Panther Metals is planning a $5.4 million Bitcoin treasury and will use it as collateral to buy a mineral mining deposit in Canada and other commodities in the future.</p>"
+    },
     {
       "title": "Fed cuts \u2018reputational risk\u2019 scrutiny used to \u2018assassinate\u2019 crypto firms",
       "link": "https://cointelegraph.com/news/fed-removes-reputational-risk-boon-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Ethereum dev floats halving slot times to 6 secs, doubling blocks",
       "link": "https://cointelegraph.com/news/ethereum-dev-proposes-halving-slot-times-6-secs-doubling-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2M5NDUtMTM4NS03YTYzLWJlOGQtNjcxMWVhODE4ZTBi.jpg\" /></p><p>Core developer Barnab\u00e9 Monnot says six-second block times would slash confirmation delays, boost DeFi efficiency and create smoother user experiences across the Ethereum network.</p>"
-    },
-    {
-      "title": "Pompliano\u2019s crypto firm raises $750M to go public via SPAC",
-      "link": "https://cointelegraph.com/news/pompliano-crypto-firm-procap-raises-750m-to-go-public-via-spac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlmMTUtZWMwMS03YmU2LWJmNmMtOGJiNWU3NjhhM2M5.jpg\" /></p><p>Crypto entrepreneur and podcaster Anthony Pompliano has raised $750 million to take his crypto company ProCap public by merging it with a blank-check firm.</p>"
-    },
-    {
-      "title": "Huione marketplace death sprouts 30 more in its place: Elliptic",
-      "link": "https://cointelegraph.com/news/darknet-marketplaces-thriving-after-huione-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzllZjEtNWY1Yy03ZTdhLTg4NmItZWJlNTAxYTAzOWYy.jpg\" /></p><p>Huione Guarantee\u2019s shutdown sent \u201cshockwaves\u201d through the ecosystem but also left a vacuum for other crypto darknet marketplaces to fill.</p>"
-    },
-    {
-      "title": "Bitcoin rebounds to $106K amid Middle East ceasefire and rate cut bets",
-      "link": "https://cointelegraph.com/news/bitcoin-rebounds-to-106k-amid-middle-east-ceasefire-and-rate-cut-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzllZjctODM5ZS03NzcyLWI0ZWMtMmE2NDliOWEwZThl.jpg\" /></p><p>Bitcoin bounced to $106,000 as traders bet on higher chances of Fed interest rate cuts due to tensions in the Middle East.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "This Bitcoin Zone Could Be Market\u2019s Next True \u2018Pivot,\u2019 Says Glassnode",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-zone-markets-next-true-pivot-glassnode/",
+      "summary": "The on-chain analytics firm Glassnode has highlighted the $97,000 to $98,000 zone as an important one for Bitcoin. Here&#8217;s why. Bitcoin CBD Suggests Build Up Of Supply In This Range In a new post on X, Glassnode has discussed about a potentially significant zone for Bitcoin based on the Cost Basis Distribution. The Cost Basis Distribution (CBD) is an indicator that measures the amount of the BTC supply that investors last purchased or transferred at the various price levels. As is visible in the above graph, there is a dense supply zone located between $97,000 to $98,000. Generally, investors are quite sensitive to retests of their cost basis, so a large amount of them (or alternatively, a few large holders) having their acquisition level inside a narrow range could make retests of it significant for Bitcoin. Related Reading: Bitcoin STHs Capitulate: 14,700 BTC Moved To Exchanges At Loss When the mood in the market is bullish, holders can react to retests of their cost basis from above by buying more. They may do so believing that the same level would end up proving profitable again in the future and the retrace is just a &#8216;dip.&#8217; The cryptocurrency suffered a plunge yesterday and nearly touched this region. Since then, however, things have turned around for the asset and it has gained some distance over it once more. In the event that the decline does continue, which may not be too unexpected given the volatile geopolitical situation at the moment, the zone could end up acting as the next true pivot for Bitcoin, according to the analytics firm. While the CBD tells us where the cryptocurrency&#8217;s supply is concentrated, it doesn&#8217;t contain any information about who bought or sold at those price levels. Glassnode&#8217;s behavioral cohorts, investor groups divided on the basis of their behavior, solve this problem. Here is a chart that shows the trend in the Bitcoin supply held by these holder cohorts over the past few years: There are five of these behavior groups. First Buyers (green) include the investors who are buying Bitcoin for the very first time. As displayed in the chart, the supply of this group has been on the rise, indicating fresh demand has been coming in. Momentum Buyers (blue) are those that capitalize on market momentum by buying during uptrends. On the opposite spectrum are the Conviction Buyers (purple), who buy despite falling prices. Finally, there are the Loss Sellers (red) and Profit Takers (yellow), who correspond to investors exiting at a loss and profit, respectively. During the past couple of weeks, the former cohort has seen an increase of 29%, a sign that weak hands have been capitulating. Related Reading: Consolidation Takes Its Toll: Bitcoin Investors No Longer Greedy That said, the analytics firm has noted, &#8220;Conviction Buyers also increased, suggesting sentiment isn\u2019t collapsing. Some are cutting losses &#8211; others are actively lowering their cost basis.&#8221; BTC Price At the time of writing, Bitcoin is floating around $103,900, down more than 4% in the last seven days. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
+    },
+    {
       "title": "BNB Price Gathers Strength \u2014 Upside Potential Looms",
       "link": "https://www.newsbtc.com/analysis/bnb/bnb-price-gathers-strength-625/",
       "summary": "BNB price is gaining pace above the $632 support zone. The price is now showing positive signs and might aim for more gains in the near term. BNB price is attempting to recover from the $600 support zone. The price is now trading below $632 and the 100-hourly simple moving average. There was a break above a bearish trend line with resistance at $625 on the hourly chart of the BNB/USD pair (data source from Binance). The pair must stay above the $632 level to start another increase in the near term. BNB Price Eyes More Gains After forming a base above the $600 level, BNB price started a fresh increase. There was a move above the $620 and $625 resistance levels, like Ethereum and Bitcoin. There was a decent move above the 50% Fib retracement level of the recent decline from the $651 swing high to the $602 low. Besides, there was a break above a bearish trend line with resistance at $625 on the hourly chart of the BNB/USD pair. The price is now trading below $632 and the 100-hourly simple moving average. It is also consolidating near the 76.4% Fib retracement level of the recent decline from the $651 swing high to the $602 low. On the upside, the price could face resistance near the $644 level. The next resistance sits near the $650 level. A clear move above the $650 zone could send the price higher. In the stated case, BNB price could test $665. A close above the $665 resistance might set the pace for a larger move toward the $680 resistance. Any more gains might call for a test of the $700 level in the near term. Another Decline? If BNB fails to clear the $644 resistance, it could start another decline. Initial support on the downside is near the $635 level. The next major support is near the $632 level. The main support sits at $625. If there is a downside break below the $625 support, the price could drop toward the $612 support. Any more losses could initiate a larger decline toward the $600 level. Technical Indicators Hourly MACD \u2013 The MACD for BNB/USD is gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BNB/USD is currently above the 50 level. Major Support Levels \u2013 $632 and $625. Major Resistance Levels \u2013 $644 and $650."
@@ -100,11 +105,6 @@
       "title": "Bitcoin\u2019s Drop Below $100k Sparks Bearish Chatter, But Data Says Something Else",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-drop-below-100k-sparks-bearish-chatter-but-data-says-something-else/",
       "summary": "Bitcoin has rebounded slightly after dropping below the $100,000 mark, a decline attributed to escalating geopolitical tensions. The digital asset reached lows of approximately $98,974 following reports of US military strikes on Iran. At the time of writing, Bitcoin has regained some ground and is trading at $102,1010, representing a 2.4% increase over the past 24 hours and a 5.82% decrease over the last week. Amid this price performance, recent on-chain analysis points to a phase of consolidation rather than a structural breakdown. CryptoQuant analyst Darkfost shared in a QuickTake post that long-term Bitcoin holders appear to be maintaining their positions rather than exiting, indicating continued conviction despite short-term volatility. Related Reading: Bitcoin Crashed Below $100,000 Amid US Airstrikes On Iran And Market Sell-Off Bitcoin On-Chain Indicators Signal Consolidation, Not Capitulation According to Darkfost, the current market behavior is reflective of a quiet consolidation period, with long-term holders showing little inclination to sell. Based on the 30-day moving average of Binary Coin Days Destroyed (CDD), his analysis shows that the metric has stayed below the 0.8 threshold typically associated with major corrections. The value recently peaked at 0.6 before trending downward, suggesting limited market overheating at present levels. Darkfost emphasized that this moderation could precede a continuation of the broader bull cycle, mirroring past market structures where consolidation phases led to further price advances. He noted that past bull runs have often been characterized by a \u201cstaircase\u201d trajectory, periods of sideways or modest downward movement followed by renewed upward momentum. In this context, subdued sentiment may indicate that the market is preparing for a potential next leg higher. The analyst wrote: Importantly, this does not signal the end of the bull cycle. Instead, similar to the past two phases, we may once again see a staircase-like movement where consolidation is followed by another leg up. Historically, Bitcoin\u2019s explosive rallies tend to occur when market attention fades and sentiment is quiet, making the current silence potentially a precursor to the next big move. Whale Behavior Remains Steady Amid Market Tensions Complementing this outlook, another CryptoQuant contributor, Mignolet, provided insight into whale activity during the current consolidation phase. He noted that while the market setup resembles the double-top formation seen in 2021, key on-chain signals from whales have not aligned with those seen during that previous peak. Specifically, Ethereum transaction outflows, often used as a proxy for large investor exits, have not shown the kind of spikes observed during the 2021 market top. Related Reading: Bears Will Be Washed Out Of Bitcoin If This Happens Mignolet pointed out that although Ethereum has seen a gradual decline in market share relative to other layer-1 and layer-2 chains since 2020, its transactional data still maintains a strong correlation with Bitcoin price movements. The absence of aggressive exit activity among large holders suggests that major market participants are not rushing for the exits, despite heightened geopolitical uncertainty and short-term price volatility. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "Ethereum Price Rebounds Strongly, Clears $2,350 Resistance With 8% Gain",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-rebounds-2350/",
-      "summary": "Ethereum price started a fresh increase from the $2,120 zone. ETH is now up over 8% and might face resistance near the $2,460 zone. Ethereum started a fresh upward move above the $2,200 level. The price is trading above $2,250 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2,240 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it settles above the $2,460 resistance zone in the near term. Ethereum Price Regains Traction Ethereum price started a fresh increase from the $2,120 support level, like Bitcoin. ETH price was able to clear the $2,200 and $2,250 resistance levels to move into a positive zone. Besides, there was a break above a key bearish trend line with resistance at $2,240 on the hourly chart of ETH/USD. The bulls even pushed the price above the 61.8% Fib retracement level of the downward move from the $2,568 swing high to the $2,114 low. Ethereum price is now trading above $2,300 and the 100-hourly Simple Moving Average. On the upside, the price could face resistance near the $2,440 level. The next key resistance is near the $2,460 level. It is close to the 76.4% Fib retracement level of the downward move from the $2,568 swing high to the $2,114 low. The first major resistance is near the $2,500 level. A clear move above the $2,500 resistance might send the price toward the $2,550 resistance. An upside break above the $2,550 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,620 resistance zone or even $2,650 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,460 resistance, it could start a fresh decline. Initial support on the downside is near the $2,340 level. The first major support sits near the $2,320 zone. A clear move below the $2,320 support might push the price toward the $2,250 support. Any more losses might send the price toward the $2,150 support level in the near term. The next key support sits at $2,120. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is losing momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,320 Major Resistance Level \u2013 $2,460"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Crypto Scam Markets Thrive Again After Telegram\u2019s Cleanup Attempt: Report",
+      "link": "https://decrypt.co/326653/crypto-scam-markets-thrive-telegram",
+      "summary": "Platforms such as Shuangying and Fully Light have surged after the Huione ban, with transactions increasing three to fourfold."
+    },
+    {
       "title": "Israeli Man Accused of Spying for Iran in Exchange for Crypto",
       "link": "https://decrypt.co/326647/israeli-man-spying-iran-for-crypto",
       "summary": "A Tel Aviv resident allegedly photographed sensitive sites and received thousands in crypto, authorities say."
@@ -154,11 +159,6 @@
       "title": "Senator Introduces Bill to Halt Trump\u2019s Crypto Activity\u2014But Voted to Allow It Last Week",
       "link": "https://decrypt.co/326576/senator-introduces-bill-halt-trump-crypto-activity-voted-allow",
       "summary": "Adam Schiff (D-CA) is the latest Democrat to propose a bill banning President Trump from engaging in crypto activity. Like the others, it's unlikely to pass anytime soon."
-    },
-    {
-      "title": "Bitcoin, Ethereum and XRP Spike as Trump Says Iran, Israel Agree to Ceasefire",
-      "link": "https://decrypt.co/326577/bitcoin-ethereum-xrp-spike-trump-says-iran-israel-ceasefire",
-      "summary": "Crypto prices are surging again\u2014with Bitcoin back above $105K\u2014after President Trump said that Iran and Israel have agreed to a ceasefire."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Tether\u2019s $2 billion liquidity bet \u2013 Is Bitcoin ready to rip right now?",
+      "link": "https://ambcrypto.com/tethers-2-billion-liquidity-bet-is-bitcoin-ready-to-rip-right-now/",
+      "summary": "<img alt=\"Tether\u2019s $2 billion liquidity bet - Is Bitcoin ready to rip right now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The $2B mint looks defensive, yet it also signals a bullish rotation loading."
+    },
+    {
+      "title": "Dogecoin price prediction \u2013 Why the $0.21-level may be key for a reversal",
+      "link": "https://ambcrypto.com/dogecoin-price-prediction-why-the-0-21-level-may-be-key-for-a-reversal/",
+      "summary": "<img alt=\"Dogecoin price prediction - Why the $0.21-level may be key for a reversal\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The $0.21-level is a critical resistance for long-term DOGE bulls."
+    },
+    {
       "title": "How low will the Crypto Fear & Greed Index go before Bitcoin recovers?",
       "link": "https://ambcrypto.com/how-low-will-the-crypto-fear-greed-index-go-before-bitcoin-recovers/",
       "summary": "<img alt=\"How low will the Crypto Fear &amp; Greed Index go before Bitcoin recovers?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Fear-and-Greed-Index-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sentiment is neutral now, and extreme fear levels might be necessary for a Bitcoin reset."
@@ -203,16 +213,6 @@
       "title": "Story [IP] price prediction \u2013 Traders, look out for this key divergence!",
       "link": "https://ambcrypto.com/story-ip-price-prediction-traders-look-out-for-this-key-divergence/",
       "summary": "<img alt=\"Story [IP] price prediction - Traders, look out for this key divergence!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Story-IP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />IP saw some demand over the past few days that resulted in a price bounce."
-    },
-    {
-      "title": "Avalanche: Retail sells $821K of AVAX, smart money holds on \u2013 What next?",
-      "link": "https://ambcrypto.com/avalanche-retail-sells-821k-of-avax-smart-money-holds-on-what-next/",
-      "summary": "<img alt=\"AVAX\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250623_125539_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Avalanche gains 2.62% after a month-long decline, as smart money profits while retail sells"
-    },
-    {
-      "title": "Metaplanet buys $118M in Bitcoin during dip \u2013 Now holds over $1B in BTC",
-      "link": "https://ambcrypto.com/metaplanet-buys-118m-in-bitcoin-during-dip-now-holds-over-1b-in-btc/",
-      "summary": "<img alt=\"Metaplanet buys $118M in Bitcoin during dip - Now holds over $1B in BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/MetaplanetBTCFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Metaplanet's latest purchase is just the latest in a series of them."
     }
   ]
 }
