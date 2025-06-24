@@ -40,7 +40,7 @@
     {
       "title": "Ether liquidity sits above $2.5K: Will ETH bulls grab it?",
       "link": "https://cointelegraph.com/news/ether-liquidity-sits-above-2-5k-will-eth-bulls-grab-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJhZjQtMmJiMy03NTI5LWE4NTMtYmYxY2U4ZjA3NWZm.jpg\" /></p><p>Ether gains bullish momentum as technical indicators, rising ETF inflows, and a potential capital rotation from Bitcoin signal a possible breakout above $2,500.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJhZjQtMmJiMy03NTI5LWE4NTMtYmYxY2U4ZjA3NWZm.jpg\" /></p><p>Ether gains bullish momentum as technical indicators, rising ETF inflows and a potential capital rotation from Bitcoin signal a possible breakout above $2,500.</p>"
     },
     {
       "title": "Here\u2019s what happened in crypto today",
@@ -54,6 +54,11 @@
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Senate Banking Committee pushes for rapid legislative action on crypto market framework",
+      "link": "https://cryptoslate.com/senate-banking-committee-pushes-for-rapid-legislative-action-on-crypto-market-framework/",
+      "summary": "<p>The Senate Banking Committee released a seven-point framework for digital asset market structure and heard testimony urging Congress to translate those principles into statute without delay on June 23. Committee Chair Tim Scott and Senators Cynthia Lummis, Thom Tillis, and Bill Hagerty set out a plan that draws a statutory line between digital asset securities [&#8230;]</p> <p>"
+    },
     {
       "title": "WazirX gains crucial extension to revive post-hack restructuring plan",
       "link": "https://cryptoslate.com/wazirx-gains-crucial-extension-to-revive-post-hack-restructuring-plan/",
@@ -73,14 +78,14 @@
       "title": "Number of XRP holders almost doubled within six months, overtaking Solana",
       "link": "https://cryptoslate.com/number-of-xrp-holders-almost-doubled-within-six-months-overtaking-solana/",
       "summary": "<p>The number of XRP holders has nearly doubled between October 2024 and May 2025, expanding from 1.29% to 2.42%, while Solana (SOL) experienced the opposite, falling 35% from 2.72% to 1.76%. According to Bybit\u2019s &#8220;H1 2025 asset allocation report,&#8221; the rebalancing stems from a shift in sentiment as both retail and institutional investors have begun [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Chainlink surges 14% after partnering with Mastercard to bring 3 billion users direct access to crypto",
-      "link": "https://cryptoslate.com/chainlink-surges-14-after-partnering-with-mastercard-to-bring-3-billion-users-direct-access-to-crypto/",
-      "summary": "<p>Chainlink has announced a new partnership with Mastercard to make crypto purchases easier and more secure for mainstream users, according to a July 24 statement. The collaboration will allow over 3 billion Mastercard cardholders worldwide to buy digital assets directly on-chain using fiat. This marks a significant step forward in integrating traditional finance with blockchain [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Crypto Bears Rekt: $359M Gone As Bitcoin, Ethereum Rebound",
+      "link": "https://www.newsbtc.com/bitcoin-news/crypto-bears-rekt-359m-bitcoin-ethereum-rebound/",
+      "summary": "Data shows the rebound in Bitcoin and other cryptocurrencies has punished the bears, triggering a massive wave of short liquidations. Crypto Sector Has Just Witnessed A Mass Liquidation Event According to data from CoinGlass, a large amount of liquidations have piled up on the cryptocurrency derivatives market. &#8220;Liquidation&#8221; refers to the forceful shutdown that any open contract has to go through if its losses exceed the threshold defined by its platform. Related Reading: This Bitcoin Zone Could Be Market\u2019s Next True \u2018Pivot,\u2019 Says Glassnode Below is a table that shows the numbers related to the latest liquidations in the market. As displayed, the cryptocurrency sector has seen a derivatives flush of over half a billion dollars during the past day. Out of these, 73.7% of the liquidations, equivalent to $371 million, came from the short investors alone. The short-heavy mass liquidations have come as Bitcoin and company have rebounded following the news of a ceasefire between Israel and Iran. Earlier, US strikes on Iranian nuclear facilities had induced a crash in the market that ended up unleashing a flurry of long liquidations. This time, it seems the bears have been the ones caught out instead. As usual, Bitcoin and Ethereum have topped the list of liquidations, but interestingly, the latter ($168 million) has managed to outweigh the former ($153 million), which is generally not the case. Ethereum observing a higher amount of liquidations could come down to the fact that its price has seen a larger jump during the past day (7% vs 3.5%). It could also be an indication of an elevated level of speculative interest in the cryptocurrency. Out of the altcoins, Solana and XRP have topped the charts with $29 million and $13 million in liquidations, respectively. Though clearly, these numbers are quite small compared to the figures of the top two titans, showcasing the sheer difference in capital involved. In some other news, Bitcoin taker buy volume has shot up on the cryptocurrency exchange Bybit, as an analyst has pointed out in a CryptoQuant Quicktake post. In the chart, the data of the Bitcoin Taker Buy Sell Ratio is shown. This metric measures the ratio between the taker buy and taker sell volumes for a given platform. Here, the exchange involved is Bybit. Related Reading: Bitcoin STHs Capitulate: 14,700 BTC Moved To Exchanges At Loss It would appear that the indicator has recently seen a sharp spike above the 1 mark, a sign that long volume has started to sharply outpace the short one. According to the quant, spikes in the metric on Bybit have often preceded a surge in the BTC price. BTC Price Following the recovery run over the last 24 hours, Bitcoin has returned to the $105,100 mark. Featured image from Dall-E, CryptoQuant.com, CoinGlass.com, chart from TradingView.com"
+    },
     {
       "title": "Analyst Says XRP Is Moving According To Plan, Here\u2019s Why $1.90 Is Important",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-is-moving-according-to-plan/",
@@ -100,14 +105,14 @@
       "title": "Ethereum Price Crash To $2,100 Triggers Fear, But Why Are Analysts Predicting A Rally To $6,000?",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-price-rally-to-6000/",
       "summary": "Ethereum&#8217;s price action in the past 24 hours has been characterized by a fall toward $2,100 before rebounding to the upside very quickly. Ethereum\u2019s price dropped to $2,130 in the past 24 hours on crypto exchange Coinbase amidst a broader fall in the crypto industry, which also saw Bitcoin break below $100,000 very briefly. Despite the sudden Ethereum price correction, analysts have presented arguments that hint at a strong Ethereum rally once this current downturn is complete. Notably, their projections are not short-term, and one of them puts Ethereum\u2019s next major target around $6,000. Wave A Complete, But Downside Likely Before Rally The first detailed analysis came from @CryptoWaveV, a trader who uses Elliott Wave Theory to forecast market structure. According to his recent post, Ethereum\u2019s price has now completed what he considers to be wave A of a larger corrective structure. His chart shows Ethereum breaking down from a high around $2,900 and falling almost directly into a Fibonacci-based support zone between $2,134 and $1,957. Related Reading: Ethereum Bullish Wave Towards ATH Coming? Here Are The Targets Now that the Wave A pattern is complete, the prediction is a short-term bounce to as high as $2,792 as part of a wave B retracement. However, this upward move would likely be temporary before another Wave C leg downward, which could drive the Ethereum price to as low as $1,706 before a meaningful bottom is confirmed. This level is what the analyst refers to as his \u201cideal buy zone\u201d for long-term accumulation. Although the short-term view includes price crashes, a full bullish impulse will resume once this corrective phase is complete. Wyckoff Structure Points $6,000 ETH Price Merlijn, a popular analyst on X, shared a contrasting yet converging perspective. In this case, the analyst&#8217;s outlook is based on Wyckoff\u2019s accumulation framework. Merlijn stated, \u201cEthereum: Wyckoff says go.\u201d Related Reading: The 5 Bullish Cases That Says Ethereum Price Could Reach $10,000 In 2025 According to the daily price chart that followed his analysis, the analyst showed that the crypto had already completed the spring and test phases, which are both components of a Wyckoff accumulation pattern. What comes next, according to the Wyckoff method, is the markup phase. The chart Merlijn posted aligns with this outlook. The chart projected that Ethereum will reclaim a horizontal range between $2,150 and $2,450, followed by a steady progression above $3,850, and then another strong move past $4,800, before ultimately culminating around $6,800 to $7,000. This bullish setup suggests that while the recent dip to $2,100 might have shaken confidence, it may have served a larger structural purpose. The spring and test patterns imply a final shakeout of weak hands, clearing the path for long-term buyers to step in. Finally, the outlooks from both analysts converge on a six-month to one-year trajectory that could see Ethereum breaking into the $6,000 range, if not higher. At the time of writing, Ethereum is trading at $2,420, up by 7.4% in the past 24 hours. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Ethereum Whale Loads Up: $422M In ETH Bought In Under a Month",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-whale-loads-up-422m-in-eth-bought-in-under-a-month/",
-      "summary": "Ethereum has experienced significant volatility in recent days, driven largely by escalating geopolitical tensions in the Middle East. After breaking down from the range that had held since early May, ETH fell sharply to $2,100, triggering widespread concern among investors. The breakdown was largely attributed to the market&#8217;s reaction to the US attack on Iranian nuclear facilities, which escalated the conflict between Israel and Iran. Related Reading: Bitcoin Battles Key Support: Daily EMA-100 Must Hold to Prevent Deep Correction However, markets quickly responded to positive developments. Ethereum rebounded strongly above the $2,400 level following reports that Iran and Israel had agreed to a ceasefire, temporarily easing global risk sentiment. This relief rally brought new optimism to the Ethereum market, especially amid signs of institutional confidence. According to data shared by top analyst Ted Pillows, a major whale or institutional entity purchased another $8.91 million worth of ETH, continuing an aggressive accumulation streak. Over the past three weeks, this same entity has reportedly bought $422 million in Ethereum, signaling strong conviction despite recent market stress. This wave of accumulation suggests that long-term players may view the current price zone as a key opportunity, reinforcing the idea that Ethereum could be building a base for its next major move once broader conditions stabilize. Ethereum Surges As Ceasefire Ignites Market Optimism Ethereum surged over 14% following reports of a ceasefire agreement between Israel and Iran, providing a much-needed relief rally after weeks of geopolitical tension and uncertainty. The news sparked a wave of bullish momentum across the market, with ETH rebounding sharply from recent lows near $2,100 to trade firmly above the $2,400 mark. Bulls, who had lost control amid panic selling, are now showing signs of strength as the market prepares for its next decisive move. Despite this rebound, caution remains. The broader macroeconomic environment continues to tighten, with rising concerns over a potential US recession, high Treasury yields, and sustained hawkishness from the Federal Reserve. These factors could weigh on risk assets in the weeks ahead, putting Ethereum\u2019s rally to the test. Nonetheless, optimism is building, especially around the possibility of the long-awaited altseason\u2014one that many believe will be led by Ethereum. Adding fuel to this narrative is the growing trend of whale accumulation. According to insights shared by analyst Ted Pillows, a major whale or institutional entity has just acquired another $8.91 million worth of ETH. This purchase adds to a staggering $422 million in Ethereum accumulated over the past three weeks. Such aggressive buying suggests that large players are positioning themselves for a major move ahead, likely expecting Ethereum to be at the forefront of the next market cycle. As ETH consolidates above key levels, the accumulation trend could act as a foundational force supporting higher prices, especially if macro and geopolitical risks stabilize. Related Reading: Ethereum Holds Critical Support \u2013 $2,350 Level Could Define The Next Move ETH Reclaims $2,400 Following Sharp Rebound Ethereum has reclaimed the $2,400 level after a swift rebound from a breakdown near $2,100. The recent candle structure on the 3-day chart shows a strong wick to the downside, followed by a recovery, reflecting the impact of geopolitical developments, most notably the ceasefire between Iran and Israel. This bounce prevented a deeper selloff and has brought Ethereum back above a key psychological level. Looking at the chart, ETH remains under pressure from the 100-day and 200-day moving averages, currently acting as resistance around the $2,638 and $2,779 zones. Price also recently broke a short-term descending trendline and is now attempting to consolidate above it. This suggests the potential for a trend reversal if bulls can sustain momentum and push through the moving average cluster. Related Reading: Solana Cracks Below Key Structure \u2013 Head And Shoulders Breakdown Points To $106 Volume remains subdued but shows signs of recovery, signaling early interest returning after the fear-driven flush. A break and close above the $2,600 range would likely open the path to retest the $2,800 zone, which was a major supply area in previous months. Featured image from Dall-E, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Panelists at Senate Banking Hearing on Crypto Market Structure Call for Regulation ASAP",
+      "link": "https://bitcoinmagazine.com/news/panelists-at-senate-banking-hearing-on-crypto-market-structure-call-for-regulation-asap",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/US-Senate-Hearing-on-Crypto-Market-Structure.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/panelists-at-senate-banking-hearing-on-crypto-market-structure-call-for-regulation-asap\" rel=\"nofollow\"> </a></p> <p>Members of the crypto industry and digital asset specialists argue that if the U.S. doesn\u2019t pass legislation on digital asset market structure soon, it might cede authority to legal regimes from other countries.</p> <p>"
+    },
     {
       "title": "Lightning Labs Releases Taproot Assets v0.6 With Updates to Stablecoin Support On Bitcoin",
       "link": "https://bitcoinmagazine.com/news/lightning-labs-releases-taproot-assets-v0-6-with-updates-to-stablecoin-support-on-bitcoin",
@@ -127,14 +132,14 @@
       "title": "The Smarter Web Company Expands Bitcoin Holdings With \u00a315.2M Purchase",
       "link": "https://bitcoinmagazine.com/news/the-smarter-web-company-expands-bitcoin-holdings-with-15-2m-purchase",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/The-Smarter-Web-Comp._imresizer.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-smarter-web-company-expands-bitcoin-holdings-with-15-2m-purchase\" rel=\"nofollow\"> </a></p> <p>The Smarter Web Company, a web design, development, and online marketing services provider, has announced another Bitcoin purchase, acquiring 196.90 Bitcoin for \u00a315,185,259 as part of its &#8220;10 Year Plan&#8221; treasury strategy. The London listed technology company paid an average price of \u00a377,122 per Bitcoin ($103,290 per Bitcoin) for the acquisition.&#160; This purchase brings The [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Amazing AI Announces Adoption of A Bitcoin Treasury Policy",
-      "link": "https://bitcoinmagazine.com/news/amazing-ai-announces-adoption-of-a-bitcoin-treasury-policy",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Amazing-AI-Announces-Adoption-of-A-Bitcoin-Treasury-Policy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/amazing-ai-announces-adoption-of-a-bitcoin-treasury-policy\" rel=\"nofollow\"> </a></p> <p>The fintech group plans to begin bitcoin acquisitions in July 2025, viewing bitcoin as a long-term store of value.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Bitcoin in the Buckeye State: Ohio Eyes Its Own Crypto Reserve",
+      "link": "https://decrypt.co/326826/bitcoin-buckeye-state-ohio-eyes-crypto-reserve",
+      "summary": "Ohio Rep. Steve Demetriou, a Bitcoin advocate, said lawmakers should follow the lead of nearly 2 million Ohioans who own digital assets."
+    },
     {
       "title": "BNB Over Bitcoin? Chinese Company's Stock Skyrockets on $1 Billion Crypto Treasury Plan",
       "link": "https://decrypt.co/326837/bnb-over-bitcoin-chinese-company-stock-skyrockets-1-billion-treasury",
@@ -154,11 +159,6 @@
       "title": "Largest Bitcoin Leverage Unwind in Nearly a Year Triggered by Iran-Israel Tensions",
       "link": "https://decrypt.co/326812/largest-bitcoin-leverage-unwind-nearly-a-year-triggered-iran-israel-tensions",
       "summary": "Notional open interest in BTC perps saw the sharpest decline since the yen-led global market crash in August 2024."
-    },
-    {
-      "title": "FinTech Digital Asset Raises $135M for Its Institutional Blockchain Canton Network",
-      "link": "https://decrypt.co/326745/fintech-digital-asset-raises-135m-for-its-institutional-blockchain-canton-network",
-      "summary": "DRW Venture Capital and Tradeweb Markets led the funding round, which also included Circle Ventures, Goldman Sachs, and Citadel Securities."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Fed reverses course on \u2018reputational risk\u2019 \u2013 Will banks embrace crypto now?",
+      "link": "https://ambcrypto.com/fed-reverses-course-on-reputational-risk-will-banks-embrace-crypto-now/",
+      "summary": "<img alt=\"Fed\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Fed-reverses.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Crypto community cheered Fed's reversal on key risk standard."
+    },
+    {
       "title": "Ethereum\u2019s next big leap? Dev proposes halving block times for faster DeFi",
       "link": "https://ambcrypto.com/ethereums-next-big-leap-dev-proposes-halving-block-times-for-faster-defi/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could halving slot times make Ethereum faster for DeFi and rollups?"
@@ -208,11 +213,6 @@
       "title": "DeFi Dev Corp\u2019s $11.5M Solana bet: Blockchain-driven equity ahead?",
       "link": "https://ambcrypto.com/defi-dev-corps-11-5m-solana-bet-blockchain-driven-equity-ahead/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"723\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/DeFi-Dev-Corp.-Partners-with-Kraken.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1286\" />Solana shakes off its memecoin image as institutions flood in with serious financial projects."
-    },
-    {
-      "title": "XRP\u2019s 8% weekly gain faces big test \u2013 Will $2.2 break or lead to sell-off?",
-      "link": "https://ambcrypto.com/xrps-8-weekly-gain-faces-big-test-will-2-2-break-or-lead-to-sell-off/",
-      "summary": "<img alt=\"XRP&#039;s 8% weekly gain faces big test - Will $2.2 break or lead to sell-off?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/XRP-Ripple-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP's chances of extending its 8% weekly recovery may be tested at $2.2."
     }
   ]
 }
