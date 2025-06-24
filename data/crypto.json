@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Chainlink, Mastercard partner to allow 3 billion cardholders to buy crypto",
+      "link": "https://cointelegraph.com/news/chainlink-mastercard-partner-cardholders-buy-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EzMTAtM2MxNy03ZWVlLTliOTctYjBjZjVjMGMyZjg4.jpg\" /></p><p>The integration comes with help from several Web3 companies, whose technologies offer a compliant user experience.</p>"
+    },
+    {
       "title": "Ex-US top regulator warns of conflicts of interest as Senate weighs market structure",
       "link": "https://cointelegraph.com/news/rostin-behnam-cftc-chair-conflicts-of-interest-crypto-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMyOWMtOWM2Ni03YzgyLWJjNmYtZDNmODI3ZGUxMjQz.jpg\" /></p><p>The US Senate Banking Committee\u2019s digital assets subcommittee will hear testimony from former CFTC Chair Rostin Behnam and lawyers at Coinbase and Multicoin Capital.</p>"
@@ -46,14 +51,19 @@
       "title": "Tokenized US Treasurys increase market risk vectors",
       "link": "https://cointelegraph.com/news/tokenized-us-treasurys-increase-market-risk-vectors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTRhYjMtMjMyYy03ZTdkLThhYjctZTBkMzYyNDVlZTVk.jpg\" /></p><p>Tokenized US government debt used as collateral in leveraged trading exposes crypto markets to further geopolitical and liquidity risks.</p>"
-    },
-    {
-      "title": "VanEck warns: Why Bitcoin treasury companies could face capital erosion",
-      "link": "https://cointelegraph.com/explained/vaneck-warns-why-bitcoin-treasury-companies-could-face-capital-erosion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZjBlMmU0ZWViYWNhM2I1MmQ3NWUzZDlhNTIyZDBlNC5qcGc=.jpg\" /></p><p>More than 220 companies now hold Bitcoin on their balance sheets. But as VanEck warns of capital erosion and GBTC\u2019s crash proves, not all bets pay off.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Number of XRP holders almost doubled within six months, overtaking Solana",
+      "link": "https://cryptoslate.com/number-of-xrp-holders-almost-doubled-within-six-months-overtaking-solana/",
+      "summary": "<p>The number of XRP holders has nearly doubled between October 2024 and May 2025, expanding from 1.29% to 2.42%, while Solana (SOL) experienced the opposite, falling 35% from 2.72% to 1.76%. According to Bybit\u2019s &#8220;H1 2025 asset allocation report,&#8221; the rebalancing stems from a shift in sentiment as both retail and institutional investors have begun [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Chainlink surges 14% after partnering with Mastercard to bring 3 billion users direct access to crypto",
+      "link": "https://cryptoslate.com/chainlink-surges-14-after-partnering-with-mastercard-to-bring-3-billion-users-direct-access-to-crypto/",
+      "summary": "<p>Chainlink has announced a new partnership with Mastercard to make crypto purchases easier and more secure for mainstream users, according to a July 24 statement. The collaboration will allow over 3 billion Mastercard cardholders worldwide to buy digital assets directly on-chain using fiat. This marks a significant step forward in integrating traditional finance with blockchain [&#8230;]</p> <p>"
+    },
     {
       "title": "Powell reaffirms Fed has no issues with banks conducting crypto activities",
       "link": "https://cryptoslate.com/powell-reaffirms-fed-has-no-issues-with-banks-conducting-crypto-activities/",
@@ -68,16 +78,6 @@
       "title": "US lawmakers push COIN Act to block officials from profiting from crypto",
       "link": "https://cryptoslate.com/us-lawmakers-push-coin-act-to-block-officials-from-profiting-from-crypto/",
       "summary": "<p>A group of US lawmakers, led by Senator Adam Schiff, introduced a new bill on June 23 to stop public officials, including the president, from using digital assets for personal gain. The Curbing Officials\u2019 Income and Nondisclosure bill, also known as the COIN Act, aims to tighten ethical standards amid growing concern over crypto-linked financial [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethereum developers issue proposal to halve block slot time to boost transaction speed",
-      "link": "https://cryptoslate.com/ethereum-developers-issue-proposal-to-halve-block-slot-time-to-boost-transaction-speed/",
-      "summary": "<p>Ethereum&#8217;s core developers are pushing for a major technical change that could reshape how quickly the network processes transactions. On June 21, Barnab\u00e9 Monnot, one of Ethereum&#8217;s core contributors, suggested a new proposal, EIP-7782, which would halve the block slot time from 12 seconds to 6 seconds. According to him: &#8220;Shorter slot times make Ethereum [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin\u2019s cold war: Nearly 3,000 nodes at risk as policy tensions escalate ahead of next Bitcoin Core release",
-      "link": "https://cryptoslate.com/bitcoins-cold-war-nearly-3000-nodes-at-risk-as-policy-tensions-escalate-ahead-of-core-v30/",
-      "summary": "<p>Bitcoin Core developer Antoine Poinsot\u2019s merged pull request removing the long-standing 80-byte OP_RETURN relay cap has triggered one of the most divisive mempool policy debates since the block size wars. In a rapid escalation, a separate contributor posted a public bash script to auto-ban every known node running Bitcoin Knots, a policy-opposed implementation now representing [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Ethereum and XRP Pump on Relief Rally, But These Coins Are Mooning Harder: Analysis",
+      "link": "https://decrypt.co/326795/ethereum-xrp-pump-crypto-relief-rally",
+      "summary": "Risk-on appetite for crypto returns with a vengeance as geopolitical tensions ease, sending speculative assets soaring to multi-week highs."
+    },
+    {
+      "title": "SharpLink Gaming Boosts Ethereum Treasury Stash to $461 Million",
+      "link": "https://decrypt.co/326794/sharplink-gaming-boosts-ethereum-treasury-stash-461-million",
+      "summary": "The largest publicly traded Ethereum treasury company, SharpLink Gaming, added more than $30 million worth of ETH to its stash last week."
+    },
+    {
       "title": "Microsoft-Backed Space and Time Surges as Grayscale Debuts SXT Crypto Fund",
       "link": "https://decrypt.co/326783/microsoft-backed-space-time-surges-grayscale-sxt-crypto-fund",
       "summary": "SXT's daily gains extended as Grayscale announced a fund that allows its clients to invest in the Space and Time blockchain\u2019s native token."
@@ -149,16 +159,6 @@
       "title": "Ledger Introduces Physical \u2018Recovery Key\u2019 NFC Backup for Wallets",
       "link": "https://decrypt.co/326759/ledger-introduces-physical-recovery-key-nfc-backup-for-wallets",
       "summary": "The spare key is designed to make wallet recovery more easy while still keeping your Ledger wallet secure."
-    },
-    {
-      "title": "President Trump Meme Coin Jumps as He Begs Israel Not to Break Ceasefire Deal",
-      "link": "https://decrypt.co/326742/president-trump-meme-coin-israel-ceasefire",
-      "summary": "Iran and Israel have continued to fire missiles at each other despite a ceasefire agreement that President Trump wants to uphold."
-    },
-    {
-      "title": "Bitcoin Is Getting Native, Dollar-Backed Stablecoin USDB",
-      "link": "https://decrypt.co/326741/bitcoin-gets-native-dollar-backed-stablecoin-usdb",
-      "summary": "Flashnet and Brale are gearing up to launch the Bitcoin-native, dollar-backed USDB stablecoin this summer in collaboration with Magic Eden."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "DeFi Dev Corp\u2019s $11.5M Solana bet: Blockchain-driven equity ahead?",
+      "link": "https://ambcrypto.com/defi-dev-corps-11-5m-solana-bet-blockchain-driven-equity-ahead/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"723\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/DeFi-Dev-Corp.-Partners-with-Kraken.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1286\" />Solana shakes off its memecoin image as institutions flood in with serious financial projects."
+    },
+    {
       "title": "XRP\u2019s 8% weekly gain faces big test \u2013 Will $2.2 break or lead to sell-off?",
       "link": "https://ambcrypto.com/xrps-8-weekly-gain-faces-big-test-will-2-2-break-or-lead-to-sell-off/",
       "summary": "<img alt=\"XRP&#039;s 8% weekly gain faces big test - Will $2.2 break or lead to sell-off?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/XRP-Ripple-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP's chances of extending its 8% weekly recovery may be tested at $2.2."
@@ -208,11 +213,6 @@
       "title": "Bitcoin \u2013 $140T global liquidity signals a BTC market on the brink of\u2026",
       "link": "https://ambcrypto.com/bitcoin-140t-global-liquidity-signals-a-btc-market-on-the-brink-of/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-2-6.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Global liquidity and BTC's resilience could fuel continued uptrend."
-    },
-    {
-      "title": "CRCL stock jumps 8X in 12 days, but can USDC catch up to USDT?",
-      "link": "https://ambcrypto.com/crcl-stock-jumps-8x-in-12-days-is-usdc-gaining-on-usdt/",
-      "summary": "<img alt=\"crcl stock surges\" class=\"attachment-full size-full wp-post-image\" height=\"1058\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/crcl-stock-surges.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1881\" />Why are investors suddenly betting big on USDC instead of USDT?"
     }
   ]
 }
