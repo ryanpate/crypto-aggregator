@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Hong Kong Family Office VMS to Allocate Up to $10M to First Crypto Play: Bloomberg",
+      "link": "https://www.coindesk.com/business/2025/06/24/hong-kong-family-office-vms-to-allocate-up-to-10m-to-first-crypto-play-bloomberg",
+      "summary": ""
+    },
+    {
+      "title": "U.S. Housing Regulator Could Let Crypto Be Considered in Mortgage Applications",
+      "link": "https://www.coindesk.com/business/2025/06/24/us-housing-regulator-could-let-crypto-be-considered-in-mortgage-applications",
+      "summary": ""
+    },
+    {
+      "title": "Digital Asset, Builder of Privacy-Focused Blockchain Canton, Raises $135M",
+      "link": "https://www.coindesk.com/business/2025/06/23/digital-asset-builder-of-privacy-focused-blockchain-canton-raises-usd135m",
+      "summary": ""
+    },
+    {
       "title": "Metaplanet Plans to Inject $5B Into U.S. Unit to Accelerate Bitcoin Buying Strategy",
       "link": "https://www.coindesk.com/markets/2025/06/24/metaplanet-plans-to-inject-5b-into-us-unit-to-accelerate-bitcoin-buying-strategy",
       "summary": ""
@@ -9,28 +24,23 @@
       "title": "Bitcoin Could Spike to $120K, Here Are 4 Factors Boosting the Case for a BTC Bull Run",
       "link": "https://www.coindesk.com/markets/2025/06/24/bitcoin-could-spike-to-usd120k-here-are-4-factors-boosting-the-case-for-a-btc-bull-run",
       "summary": ""
-    },
-    {
-      "title": "Dogecoin Surges 7% as Bulls Break Key Resistance",
-      "link": "https://www.coindesk.com/markets/2025/06/24/dogecoin-surges-7-as-bulls-break-key-resistance",
-      "summary": ""
-    },
-    {
-      "title": "Ether, Solana, Cardano Spike 7% as Trump Claims to Broker Israel-Iran Ceasefire",
-      "link": "https://www.coindesk.com/markets/2025/06/24/ether-solana-cardano-spike-7-as-trump-claims-to-broker-israel-iran-ceasefire",
-      "summary": ""
-    },
-    {
-      "title": "XRP Jumps 11% With Eyes on $2.20, Analysts Split on What\u2019s Next",
-      "link": "https://www.coindesk.com/markets/2025/06/24/xrp-jumps-11-with-eyes-on-220-analysts-split-on-whats-next",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Hardware wallet Ledger launches offline recovery key for new wallets",
+      "link": "https://cointelegraph.com/news/hardware-wallet-ledger-offline-recovery-keys-new-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwYzktMzdiOS03OGI1LWIxODYtNWI3YjA5MTg2NjMz.jpg\" /></p><p>Unlike Ledger\u2019s previously released key recovery product, Ledger Recover, the new Ledger Recovery Key is always offline and doesn\u2019t require identification.</p>"
+    },
+    {
+      "title": "Why is XRP price up today?",
+      "link": "https://cointelegraph.com/news/why-is-xrp-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvNjJlNDdlMTgtYmFmMS00YzBiLWFkMDktZGRlZjY1NzYwN2Ew.jpg\" /></p><p>A truce between Israel and Iran and whale accumulation have helped XRP price recover sharply, positioning it for a potential rally to new all-time highs.</p>"
+    },
+    {
       "title": "Celestia founder dismisses FUD, cites $100M war chest amid backlash",
       "link": "https://cointelegraph.com/news/celestia-founder-defends-team-amid-dumping-allegations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwZTgtNTFiYy03MmMwLTg3MGMtNWY0NDhhODI3YmY4.jpg\" /></p><p>Celestia co-founder Mustafa Al-Bassam said the team remains fully committed despite community outrage over alleged insider dumping and a 95% token drawdown.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMDktOWM0OC03Y2M0LWI0N2MtODVhZjJjZGFhZGY0.jpg\" /></p><p>Celestia co-founder Mustafa Al-Bassam said the team remains fully committed despite community outrage over alleged insider dumping and a 95% token drawdown.</p>"
     },
     {
       "title": "Why is the crypto market up today?",
@@ -41,16 +51,6 @@
       "title": "Who is Arthur Britto, the Ripple \u2018ghost\u2019 who just broke 14 years of silence?",
       "link": "https://cointelegraph.com/news/who-is-arthur-britto-the-ripple-ghost-who-just-broke-14-years-of-silence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlmZjUtYmU1Yi03ZTJlLTg0ODctY2M5NDIxYzc1Y2Rk.jpg\" /></p><p>Arthur Britto, elusive co-creator of the XRP Ledger and co-founder of Ripple Labs, made the first-ever public post on his 14-year-old X account.</p>"
-    },
-    {
-      "title": "$4B family office VMS Group to begin investing in crypto: Report",
-      "link": "https://cointelegraph.com/news/hong-kong-family-office-vms-group-begin-investing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2U5YWQtZDdjZi03ZWIzLWIyOWQtM2ZkMzI2MTA1MmFi.jpg\" /></p><p>VMS Group is looking to invest up to $10 million with Re7 Capital strategies, as it hopes to diversify into more liquid investments, according to managing partner Elton Cheung.</p>"
-    },
-    {
-      "title": "Beware: SparkKitty malware wants your seed phrase screenshots",
-      "link": "https://cointelegraph.com/news/crypto-seed-phrase-stealing-malware-on-major-app-stores?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3NDAtMzY2Ny03YzU1LWFhZGQtYmU2YjFjZmY0ZDNl.jpg\" /></p><p>Kaspersky says the malware SparkKitty has been around since at least early 2024, and is likely connected to a similar type of malicious software dubbed SparkCat.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,16 @@
   ],
   "NewsBTC": [
     {
+      "title": "Israel, Iran Ceasefire Ignites Crypto Surge As Bitcoin Tops $106,000\u2014Details",
+      "link": "https://www.newsbtc.com/news-3/israel-iran-ceasefire-ignites-crypto-surge-as-bitcoin-tops-106000-details/",
+      "summary": "An unexpected peace in the Middle East created waves in the crypto market on 24th June, 2025. Iran and Israel agreed to cease hostilities, and US President Donald Trump termed it a &#8220;Complete and Total CEASEFIRE.&#8221; Related Reading: Bitcoin Paces $15 Billion YTD Influx Amid 10-Week Fund Flow Streak The traders had waited days with their hearts in their mouths as missiles soared and oil anxiety mounted. Then peace talks took hold, and digital-asset markets responded almost as quickly as the news broke. \ud83d\udca5BREAKING: TRUMP ANNOUNCES CEASEFIRE BETWEEN IRAN AND ISRAEL. BULLISH FOR MARKETS! \ud83d\ude80 pic.twitter.com/M9PZM9UsB8 \u2014 Crypto Rover (@rovercrc) June 24, 2025 Bitcoin Breaks Through Key Level According to reports, Bitcoin leapt more than 5% within minutes of the ceasefire announcement. It shot past $106,000 before settling just above $105,000. That\u2019s a sharp rebound after prices dipped below $99,000 at the height of the conflict. Investors who had been on the sidelines scrambled back in, driving trading volumes higher on exchanges worldwide. Ethereum And Altcoins Move Up Based on data from market trackers, Ethereum climbed over $2,400 in the hours following the news. A handful of smaller tokens also had a big day. Sei jumped 32%, while Dogwifhat surged 20%. Aptos wasn\u2019t far behind, gaining about 10%. When the top coins gain traction, it often pushes smaller projects higher too, and today was no exception. IRAN CONFIRMS CEASEFIRE AGREEMENT WITH ISRAEL Iran has officially confirmed it has agreed to a ceasefire with Israel, signaling a critical de-escalation in one of the world\u2019s most volatile conflicts. Markets may react swiftly to the easing geopolitical risk. https://t.co/1HKhmbqEGr pic.twitter.com/868bWekGte \u2014 Crypto Town Hall (@Crypto_TownHall) June 24, 2025 Market Cap Rebounds Rapidly The global cryptocurrency market cap reached $3.21 trillion, with a 4.40% increase in one session. Prior to the ceasefire, investors moved money into gold and the US dollar in case oil supplies were impaired. &#8220;CONGRATULATIONS TO EVERYONE! It has been fully agreed by and between Israel and Iran that there will be a Complete and Total CEASEFIRE (in approximately 6 hours from now, when Israel and Iran have wound down and completed their in progress, final missions!), for 12 hours, at\u2026 pic.twitter.com/Tdj8bPUd0w \u2014 U.S. State Dept &#8211; Near Eastern Affairs (@StateDept_NEA) June 23, 2025 As reports of peace circulated, those same investors funneled cash back into digital assets and equities. You could almost feel the relief in the tickers flashing green across trading screens. Experts Cautious On Future Edul Patel, CEO of Mudrex, told reporters that the market had picked up \u201cbullish momentum\u201d after the ceasefire. He noted that some altcoins rallied as much as 13% in one day. Market analysts pointed out how traders \u201cbought the dip\u201d when Bitcoin briefly tumbled under $99,000, helping it finish the day near $105,000. Related Reading: Stablecoin Wars Ignite: Peter Schiff Champions Gold-Backed Digital Assets Even so, they warn the calm may not be for long. A flare-up in the region or hints of a rate hike from the US Federal Reserve could send prices swinging again. Traders are celebrating today\u2019s gains, but there\u2019s a sense of caution in chat rooms and trading floors. Peace is welcome, but stability in crypto often depends on more than a single announcement. For now, though, the market is riding high\u2014and investors are hoping that this ceasefire really does stick. Featured image from Imagen, chart from TradingView"
+    },
+    {
+      "title": "Dogecoin About To Explode? \u2018Don\u2019t Send It Too Hard,\u2019 Analyst Warns",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-dont-send-it-too-hard-analyst/",
+      "summary": "The news that Iran and Israel have agreed to a ceasefire brokered by US President Donald Trump may have marked the bottom for the Dogecoin price. Via X, independent chartist Maelius (@MaeliusCrypto) uploaded a weekly DOGE/USDT study that he believes is tracing an unusually clean, nested 1-2, 1-2 \u201cspring-loaded\u201d Elliott set-up \u2013 the kind of formation that often precedes an outsized third-wave rally. \u201cDOGE \u2026 Market makers, please, don\u2019t send it too hard,\u201d the analyst joked on 23 June, imploring liquidity desks to let the structure mature before unleashing volatility. Dogecoin Ready To Explode? In Maelius\u2019 count, the second of the two minor wave-twos ended last week when price tagged $0.142 and immediately snapped higher. That inflection, visible on his chart as the tip of a long lower wick, occurred exactly where the 200-week exponential moving average ($0.142) intersects a rising support trend-line that has tracked Dogecoin since late-2023 \u2013 a textbook area for long-term money to defend. The bounce printed on Sunday\u2019s weekly close, giving technicians a hard reference point for risk. If the wave map is correct, the composite third wave that now follows could push into the $1.10\u2013$1.30 corridor, Maelius annotates. A fourth-wave pause somewhere near $0.60 would then reset oscillators before a terminal fifth wave above $1.60 completes the cycle. While the analyst stops short of publishing time targets, the price levels are etched in full on the chart, making the roadmap unambiguous. Related Reading: Dogecoin Crash Far From Over? Analyst Reveals The Target Underlying demand is also drawn into the picture. A broad green rectangle labelled \u201cDEMAND\u201d spans roughly $0.12\u2013$0.17. Last week\u2019s wick once again penetrated that zone before reversing, adding statistical weight to its importance. At the bottom of Maelius\u2019 chart lies the WaveTrend Oscillator (WTO), comprising a fast line (WT1), a slow line (WT2) and a histogram that plots their spread. The analyst shades the band between about \u201360 and \u201330 in green to denote the oversold floor. Both momentum lines double-bottomed in that zone in autumn 2024 and April this year, immediately before price rocketed higher. Related Reading: Crypto Analyst Predicts $4 Dogecoin After Exhausted Selling Phase As of Sunday\u2019s close WT1 prints \u201318.49 and WT2 \u201333.21, with the histogram at \u201322.80. In other words, momentum is cooling but could be reversing as it is touching Maelius\u2019 bottom zone as in previous instances. Sceptics note that a nested 1-2 count can fail if price undercuts the second wave-two, and that liquidity-driven memecoins are intrinsically prone to whipsaw. Even Maelius tempered his enthusiasm in a follow-up exchange when a follower warned of a \u201cchoppy summer,\u201d replying: \u201cWe are almost in July bro, one or two months of chop not changing anything if [it] happens.\u201d For now the battleground is clear: as long as Dogecoin holds above the converging 200-week EMA\u2013trend-line nexus and the upper rim of the demand zone, the wave thesis remains intact and the next directional verdict will belong to the market rather than the meme. At press time, DOGE traded at $0.1634, up 17% since the bottom on Sunday. Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
       "title": "Is Ethereum Staging A Repeat Of 2021? Here\u2019s Why A 200% Surge Could Follow",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-repeat-of-2021/",
       "summary": "Ethereum saw a notable decline in its price over the last week, and the weekend culmination pulled the price back towards levels not seen in over one month. The movement tracks with the established bearish trend of the month of June and continues to show mounting sell pressure on the cryptocurrency. However, with this decline has emerged a trend similar to what was seen back in 2021, right before the market picked up and saw the beginning of the altcoin season. Ethereum Price Crash Similar To 2021 Looking at the current Ethereum price action and that of what was seen back in Q2 2021, there have been some striking similarities. Most especially, how the Ethereum price has performed in the month of June so far has been the same as what happened back in June 2021. Related Reading: Bears Will Be Washed Out Of Bitcoin If This Happens In 2021, the Ethereum price began the month of June trading above $2,600. However, as the month went on, the altcoin suffered multiple declines and crashed below $2,000 before it was over. Eventually, the price would find its bottom somewhere around $1,600 before the decline was over. Fast forward four years to the year 2025, and the month of June is showing the same trend. June 2025 had begun with the Ethereum price trending above $2,600 before the bears took control. Since then, the altcoin has crashed by more than 20%, and looks primed for more. Using the historical performance, it would suggest that the Ethereum price decline is far from over. If there is a repeat of June 2021, then Ethereum could suffer another 20% crash before the month of June is over, to find its bottom somewhere between $1,600 and $1,700. The Trigger For Altcoin Season Given that Ethereum is the largest altcoin in the market, it is naturally the trigger for the altcoin season. Looking back on 2021, the altcoin season began when the Ethereum price began to rally. But the recovery did not begin until the month of July, and eventually lasted into the month of November. Related Reading: XRP On-Chain Activity Down 80% In 5 Months, Experts Argue Bullish/Bearish Implications So far, investors are already looking positively toward July 2025, as there have been rumors of a rate cut. This is expected to trigger a market rally for risk assets such as Bitcoin and Ethereum, coupled with the fact that a resolution to the Iran-Israel war could be in the works. If this trend holds, then it is possible that the Ethereum price would begin to rally in July. As seen in 2021, Ethereum would end up rising over 200% in the course of five months, to put in a new all-time high in the month of November. Featured image from Dall.E, chart from TradingView.com"
@@ -95,16 +105,6 @@
       "title": "BNB Price Gathers Strength \u2014 Upside Potential Looms",
       "link": "https://www.newsbtc.com/analysis/bnb/bnb-price-gathers-strength-625/",
       "summary": "BNB price is gaining pace above the $632 support zone. The price is now showing positive signs and might aim for more gains in the near term. BNB price is attempting to recover from the $600 support zone. The price is now trading below $632 and the 100-hourly simple moving average. There was a break above a bearish trend line with resistance at $625 on the hourly chart of the BNB/USD pair (data source from Binance). The pair must stay above the $632 level to start another increase in the near term. BNB Price Eyes More Gains After forming a base above the $600 level, BNB price started a fresh increase. There was a move above the $620 and $625 resistance levels, like Ethereum and Bitcoin. There was a decent move above the 50% Fib retracement level of the recent decline from the $651 swing high to the $602 low. Besides, there was a break above a bearish trend line with resistance at $625 on the hourly chart of the BNB/USD pair. The price is now trading below $632 and the 100-hourly simple moving average. It is also consolidating near the 76.4% Fib retracement level of the recent decline from the $651 swing high to the $602 low. On the upside, the price could face resistance near the $644 level. The next resistance sits near the $650 level. A clear move above the $650 zone could send the price higher. In the stated case, BNB price could test $665. A close above the $665 resistance might set the pace for a larger move toward the $680 resistance. Any more gains might call for a test of the $700 level in the near term. Another Decline? If BNB fails to clear the $644 resistance, it could start another decline. Initial support on the downside is near the $635 level. The next major support is near the $632 level. The main support sits at $625. If there is a downside break below the $625 support, the price could drop toward the $612 support. Any more losses could initiate a larger decline toward the $600 level. Technical Indicators Hourly MACD \u2013 The MACD for BNB/USD is gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BNB/USD is currently above the 50 level. Major Support Levels \u2013 $632 and $625. Major Resistance Levels \u2013 $644 and $650."
-    },
-    {
-      "title": "Cardano Headed For $0.32 If This Level Isn\u2019t Reclaimed \u2013 Is ADA\u2019s Rally Over?",
-      "link": "https://www.newsbtc.com/news/cardano-headed-for-0-32-if-this-level-isnt-reclaimed-is-adas-rally-over/",
-      "summary": "Cardano (ADA) has been struggling to hold some crucial levels over the month, falling to multi-month lows over the weekend. As the cryptocurrency attempts to hold a key support area, some analysts believe this make-or-break retest will determine its next big move. Related Reading: Bitcoin Wobbles? Metaplanet Buys Big, Breaks $1 Billion Mark Cardano To See More Bleeding Cardano is recording a 4.5% daily increase after bouncing from the $0.51 area on Sunday. Notably, ADA was in a downtrend following its 3-year high of $1.32 in December 2024, which ended after the late April breakout and May bullish rally. However, the cryptocurrency has struggled to hold its April-May range amid the June market pullback, losing the key $0.66 area ten days ago. Since then, Cardano has recorded seven consecutive red daily candles and fallen below the $0.60 support. Sjuul from AltCryptoGems suggested that Cardano\u2019s rally will be halted unless some ground is recovered. According to the analyst, the cryptocurrency\u2019s multi-month price action \u201cended up being a classic distribution schematic\u201d after losing the $0.66 support. This would signal that ADA\u2019s uptrend has ended and a potential downtrend is ahead. \u201cAs long as we don&#8217;t reclaim $0.66, just expect further downtrend from now on,\u201d he asserted. Meanwhile, market watcher Man of Bitcoin highlighted the cryptocurrency\u2019s June downtrend, affirming that if the price remains below the descending trendline, downward pressure will persist. He added that \u201cOne more low in wave iv is still possible,\u201d hinting that a drop below the $0.50 could be on the horizon before the next wave up. Nonetheless, the analyst noted that \u201cit should be a brief wick to the downside\u201d as a \u201csustained break lower would weaken the bullish outlook.\u201d ADA Retest To Trigger Rally To $1? Amid the ongoing global war tensions, ADA\u2019s price retested the crucial $0.52 support on Sunday, hitting a four-month low of $0.51, before recovering and closing the week around the $0.54 mark. Market watcher Rose Premium Signals noted that a weekly close around the crucial $0.56 level would continue the possible double-bottom setup forming on ADA\u2019s chart. The analyst added that a confirmed rebound from the $0.54-$0-56 area could send the price to the initial $0.99 target and set the stage for a climb toward the $1.20 and $1.50 resistances. On the contrary, failing to hold this area could see Cardano lose its six-month price range and retrace to the $0.32 level. Meanwhile, Crypto Billion affirmed that Cardano appears to be forming a potential triple bottom structure, which could lead to a bullish reversal. Related Reading: Ethereum Holds Critical Support \u2013 $2,350 Level Could Define The Next Move As the cryptocurrency retested the $0.50-$0.52 area over the weekend, the analyst highlighted that this key range had been held twice before since the November breakout. Additionally, he pointed out that ADA\u2019s price appears to be trading within a multi-month falling wedge pattern, which suggests a breakout toward the $1 mark if the price climbs toward the upper boundary. As of this writing, Cardano is trading at $0.54, a 15.6% decline in the weekly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
-    },
-    {
-      "title": "XRP Price Reclaims Key Resistance \u2014 Are More Gains on the Horizon?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-reclaims-2-10/",
-      "summary": "XRP price started a fresh increase from the $1.920 zone. The price is back above $2.10 and might struggle to continue higher above the $2.20 zone. XRP price started a fresh increase above the $2.050 zone. The price is now trading above $2.10 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2.00 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair might start a fresh increase if there is a close above the $2.180 resistance zone. XRP Price Eyes More Gains XRP price remained supported above the $1.920 zone and started a fresh increase, like Bitcoin and Ethereum. The price recovered above the $2.00 and $2.020 resistance levels. Besides, there was a break above a key bearish trend line with resistance at $2.00 on the hourly chart of the XRP/USD pair. The pair even cleared the $2.10 resistance and $2.150 hurdle. However, the bears were active below $2.20. A high was formed at $2.170 and the price is now consolidating above the 23.6% Fib retracement level of the upward move from the $1.910 swing low to the $2.170 high. The price is now trading above $2.10 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.1650 level. The first major resistance is near the $2.180 level. The next resistance is $2.20. A clear move above the $2.20 resistance might send the price toward the $2.250 resistance. Any more gains might send the price toward the $2.300 resistance or even $2.320 in the near term. The next major hurdle for the bulls might be $2.50. Another Drop? If XRP fails to clear the $2.180 resistance zone, it could start another decline. Initial support on the downside is near the $2.0880 level. The next major support is near the $2.050 level or the 50% Fib retracement level of the upward move from the $1.910 swing low to the $2.170 high. If there is a downside break and a close below the $2.050 level, the price might continue to decline toward the $2.00 support. The next major support sits near the $1.920 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.050 and $2.00. Major Resistance Levels \u2013 $2.180 and $2.20."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Altcoins Surge on Trump\u2019s Israel-Iran Ceasefire Announcement\u2014But Will it Last?",
+      "link": "https://decrypt.co/326660/altcoins-surge-on-trumps-israel-iran-ceasefire-announcement-but-will-it-last",
+      "summary": "Bitcoin recovered most of the weekend\u2019s losses due to the Iran-Israel conflict\u2014but questions remain over whether the ceasefire will hold."
+    },
+    {
       "title": "US Housing Regulator to Study Crypto Holdings in Mortgage Qualification Process",
       "link": "https://decrypt.co/326657/us-housing-regulator-study-crypto-mortgage",
       "summary": "FHFA Director Bill Pulte, a longtime crypto supporter, said the agency will examine how digital assets factor into home loan qualification."
@@ -154,11 +159,6 @@
       "title": "Tech That Could Prove Whether Iran\u2019s Uranium Was Destroyed",
       "link": "https://decrypt.co/326588/tech-irans-uranium-destroyed",
       "summary": "Satellite images reveal damage, but experts suggest that new technology may be able to verify what actually happened underground."
-    },
-    {
-      "title": "How AI Is Has Turned Propaganda Into a Potent Weapon",
-      "link": "https://decrypt.co/326589/ai-propaganda-potent-weapon",
-      "summary": "AI-generated videos and fake personas are flooding social media from Tel Aviv to Tehran, turning it into a digital battlefield of deception."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Pompliano\u2019s ProCap to go public with $1B in Bitcoin after $750M SPAC deal",
+      "link": "https://ambcrypto.com/pomplianos-procap-to-go-public-with-1b-in-bitcoin-after-750m-spac-deal/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-Featured-9.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As more companies follow Strategy's path, Anthony Pomplanio raises the stakes quite a bit."
+    },
+    {
       "title": "\u2018Dump your altcoins for Bitcoin treasuries, \u2019 Adam Back tells altcoin traders!",
       "link": "https://ambcrypto.com/dump-your-altcoins-for-bitcoin-treasuries-adam-back-tells-altcoin-traders/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/AltcoinseasonBitcoindominance.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin treasury stocks may be a better speculative asset than altcoins."
@@ -208,11 +213,6 @@
       "title": "Dogecoin price prediction \u2013 Why the $0.21-level may be key for a reversal",
       "link": "https://ambcrypto.com/dogecoin-price-prediction-why-the-0-21-level-may-be-key-for-a-reversal/",
       "summary": "<img alt=\"Dogecoin price prediction - Why the $0.21-level may be key for a reversal\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The $0.21-level is a critical resistance for long-term DOGE bulls."
-    },
-    {
-      "title": "How low will the Crypto Fear & Greed Index go before Bitcoin recovers?",
-      "link": "https://ambcrypto.com/how-low-will-the-crypto-fear-greed-index-go-before-bitcoin-recovers/",
-      "summary": "<img alt=\"How low will the Crypto Fear &amp; Greed Index go before Bitcoin recovers?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Fear-and-Greed-Index-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sentiment is neutral now, and extreme fear levels might be necessary for a Bitcoin reset."
     }
   ]
 }
