@@ -138,6 +138,24 @@ Description: Homepage template with SEO enhancements
               {{ end }}
             </ul>
           </details>
+          <!-- Bitcoin Guides Dropdown -->
+          {{ $btc := site.GetPage "section" "bitcoin" }}
+          {{ if $btc }}
+          <details class="pillar-dropdown" style="margin-bottom:1rem;">
+            <summary class="is-size-5" style="cursor:pointer; display:flex; align-items:center; font-weight:bold;">
+              ☰ Bitcoin Guides
+            </summary>
+            <ul style="padding-left:1rem; list-style:disc;">
+              {{ range $btc.Pages.ByDate.Reverse }}
+                <li style="margin:0.5rem 0;">
+                  <a href="{{ .Permalink }}" style="color:black; text-decoration:none;">
+                    {{ .Title }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          </details>
+          {{ end }}
           <!-- Ethereum Guides Dropdown -->
           {{ $eth := site.GetPage "section" "ethereum" }}
           {{ if $eth }}
