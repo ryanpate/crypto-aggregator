@@ -121,61 +121,48 @@ Description: Homepage template with SEO enhancements
       </div>
 
       <div class="container mt-6">
-        {{ $pillarSection := site.GetPage "section" "defi" }}
-        {{ if $pillarSection }}
         <section class="section pillar-menu">
           <details class="pillar-dropdown" style="margin-bottom:1rem;">
             <summary class="is-size-5" style="cursor:pointer; display:flex; align-items:center; font-weight:bold;">
-              ☰ Crypto Guides
+              ☰ Guides
             </summary>
-            <ul style="padding-left:1rem; list-style:disc;">
-              {{ range $pillarSection.Pages.ByDate.Reverse }}
-                <li style="margin:0.5rem 0;">
-                  <a href="{{ .Permalink }}" style="color:black; text-decoration:none;">
-                    {{ .Title }}
-                  </a>
-                </li>
+            <div style="padding-left:1rem;">
+              {{ $pillarSection := site.GetPage "section" "defi" }}
+              {{ if $pillarSection }}
+              <details class="submenu" style="margin-bottom:0.5rem;">
+                <summary class="is-size-6" style="cursor:pointer; font-weight:bold;">Crypto Guides</summary>
+                <ul style="list-style:disc; padding-left:1rem;">
+                  {{ range $pillarSection.Pages.ByDate.Reverse }}
+                  <li style="margin:0.25rem 0;"><a href="{{ .Permalink }}" style="color:black; text-decoration:none;">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              </details>
               {{ end }}
-            </ul>
-          </details>
-          <!-- Bitcoin Guides Dropdown -->
-          {{ $btc := site.GetPage "section" "bitcoin" }}
-          {{ if $btc }}
-          <details class="pillar-dropdown" style="margin-bottom:1rem;">
-            <summary class="is-size-5" style="cursor:pointer; display:flex; align-items:center; font-weight:bold;">
-              ☰ Bitcoin Guides
-            </summary>
-            <ul style="padding-left:1rem; list-style:disc;">
-              {{ range $btc.Pages.ByDate.Reverse }}
-                <li style="margin:0.5rem 0;">
-                  <a href="{{ .Permalink }}" style="color:black; text-decoration:none;">
-                    {{ .Title }}
-                  </a>
-                </li>
+              {{ $btc := site.GetPage "section" "bitcoin" }}
+              {{ if $btc }}
+              <details class="submenu" style="margin-bottom:0.5rem;">
+                <summary class="is-size-6" style="cursor:pointer; font-weight:bold;">Bitcoin Guides</summary>
+                <ul style="list-style:disc; padding-left:1rem;">
+                  {{ range $btc.Pages.ByDate.Reverse }}
+                  <li style="margin:0.25rem 0;"><a href="{{ .Permalink }}" style="color:black; text-decoration:none;">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              </details>
               {{ end }}
-            </ul>
-          </details>
-          {{ end }}
-          <!-- Ethereum Guides Dropdown -->
-          {{ $eth := site.GetPage "section" "ethereum" }}
-          {{ if $eth }}
-          <details class="pillar-dropdown" style="margin-bottom:1rem;">
-            <summary class="is-size-5" style="cursor:pointer; display:flex; align-items:center; font-weight:bold;">
-              ☰ Ethereum Guides
-            </summary>
-            <ul style="padding-left:1rem; list-style:disc;">
-              {{ range $eth.Pages.ByDate.Reverse }}
-                <li style="margin:0.5rem 0;">
-                  <a href="{{ .Permalink }}" style="color:black; text-decoration:none;">
-                    {{ .Title }}
-                  </a>
-                </li>
+              {{ $eth := site.GetPage "section" "ethereum" }}
+              {{ if $eth }}
+              <details class="submenu" style="margin-bottom:0.5rem;">
+                <summary class="is-size-6" style="cursor:pointer; font-weight:bold;">Ethereum Guides</summary>
+                <ul style="list-style:disc; padding-left:1rem;">
+                  {{ range $eth.Pages.ByDate.Reverse }}
+                  <li style="margin:0.25rem 0;"><a href="{{ .Permalink }}" style="color:black; text-decoration:none;">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              </details>
               {{ end }}
-            </ul>
+            </div>
           </details>
-          {{ end }}
         </section>
-        {{ end }}
       </div>
 
       <div class="container mt-6">
