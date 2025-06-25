@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Metaplanet Raises $515M, Blockchain Group Adds $4.8M in Bitcoin Treasury Equity Moves",
+      "link": "https://www.coindesk.com/markets/2025/06/25/metaplanet-raises-515m-blockchain-group-adds-48m-in-bitcoin-treasury-equity-moves",
+      "summary": ""
+    },
+    {
+      "title": "NYSE Tweaks Rule to List Trump Media's Bitcoin-Ethereum ETF",
+      "link": "https://www.coindesk.com/markets/2025/06/25/nyse-tweaks-rule-to-list-trump-medias-bitcoin-ethereum-etf",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Trader Sees Bitcoin Hitting $160K by Year-End; ETH, SOL, ADA to Gain on Middle East Truce",
+      "link": "https://www.coindesk.com/markets/2025/06/25/crypto-trader-sees-bitcoin-hitting-160k-by-year-end-eth-sol-ada-to-gain-on-middle-east-truce",
+      "summary": ""
+    },
+    {
       "title": "Bitfinex Securities Is Taking a Different Approach to RWAs, Launches Two New Products in the U.K.",
       "link": "https://www.coindesk.com/business/2025/06/25/bitfinex-securities-is-taking-a-different-approach-to-rwas-launches-two-new-products-in-the-u-k",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "Bitcoin's Upcoming $14B Options Expiry Marked by Surge in Put-Call Ratio. What Does it Indicate?",
       "link": "https://www.coindesk.com/markets/2025/06/25/bitcoin-s-put-call-ratio-surges-as-usd14b-options-expiry-looms",
       "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: Analysts Say BTC\u2019s Long-Term Focus Is Easing War Jitters",
-      "link": "https://www.coindesk.com/markets/2025/06/24/asia-morning-briefing-analysts-say-btcs-long-term-focus-is-easing-war-jitters",
-      "summary": ""
-    },
-    {
-      "title": "Hut 8 Doubles Bitcoin-Backed Loan With Coinbase to $130M, Locks in Lower Rate",
-      "link": "https://www.coindesk.com/markets/2025/06/24/hut-8-doubles-bitcoin-backed-loan-with-coinbase-to-130m-locks-in-lower-rate",
-      "summary": ""
-    },
-    {
-      "title": "BCH Stumbles at $467 After Triple Rejection, Ends Slightly Down Despite High-Volume Rebound",
-      "link": "https://www.coindesk.com/markets/2025/06/24/bch-stumbles-at-usd467-after-triple-rejection-ends-slightly-down-despite-high-volume-rebound",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Genesis lawsuit alleges DCG \u2018alter ego\u2019 scheme, ignored warnings",
+      "link": "https://cointelegraph.com/news/unsealed-genesis-lawsuit-dcg-alter-ego-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYzNDItZDY4ZC03ZmVhLTgyN2MtYWZhMGIxYjA5Y2Zk.jpg\" /></p><p>A newly unsealed complaint reveals DCG executives anticipated legal fallout and ignored risk warnings as Genesis spiraled toward collapse.</p>"
+    },
     {
       "title": "Everyone laughed at these 10 gadgets. Now, they\u2019re in every home",
       "link": "https://cointelegraph.com/news/10-failed-gadgets-that-are-now-everywhere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "Michael Saylor\u2019s Strategy has 91% chance of joining S&amp;P 500 in Q2: Analyst",
       "link": "https://cointelegraph.com/news/michael-saylor-strategy-sp500-inclusion-odds-financial-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YxMTItZjRkYS03NmYzLWFiMzctZjcxNmMwZDM3MjEz.jpg\" /></p><p>Financial analyst Jeff Walton says Strategy\u2019s odds of S&amp;P 500 eligibility hinge on Bitcoin\u2019s ability to remain above $95,240.</p>"
-    },
-    {
-      "title": "Anthony Pompliano\u2019s crypto venture buys $386M in Bitcoin",
-      "link": "https://cointelegraph.com/news/anthony-pompliano-crypto-venture-buys-386m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4YTUtMTU5YS03MDZiLTg5OGUtNjU1YzU3MjVkZDFj.jpg\" /></p><p>Anthony Pompliano\u2019s crypto firm ProCap has purchased 3,724 Bitcoin after announcing a $1 billion plan to go public later this year.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Bitcoin Price Crash Below $100,000: Pundit Reveals Next Area Of Action To Start Buying",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-crash-100000-2/",
+      "summary": "After the Bitcoin price breakdown below $100,000 over the weekend, multiple new narratives have emerged for where the digital asset may be headed. Calls for the next Bitcoin bear market continue to ring loud as analysts predict lower prices. One crypto analyst, known on X as Astronomer, has taken to the platform to give investors a possible roadmap of where the cryptocurrency is headed next and where to start buying for maximum gains. Next Course Of Action After Crash Following the Bitcoin price crash, Astronomer pointed out that the price had fallen below the expected close. However, it seems that the decline was not completely over, as there could be another final drop. This could come after the market reversal that has taken hold over the last few days, presenting another buy opportunity. Related Reading: XRP Price At Risk Of 20% Crash To $1.55 If This Level Fails To Hold From here, the crypto analyst explains that there could be a reversal toward the $95,000 level, and also a possibility of a bounce toward $110,000. As a result of this, the next area of action that investors could start buying from is placed at the $97,000 level, but the price could go lower. Astronomer explains that weekend lows are usually taken out, and with this weekend low still above $97,000, the price could revisit this territory. Nevertheless, the analyst explains that those who have been sidelined throughout the rally, or those who want to begin getting into the market, the Bitcoin price at around $97,000 is a good place to start. In addition to the current market factors, the analyst also points to sentiment and geopolitics as supporting the analysis. \u201cIt&#8217;s a shame we have to take advantage of blood being shed, from what&#8217;s happening in the world, but also from the bears soon at the end of this dip,\u201d the analyst said. Where Is The Bitcoin Price Headed? With the announcement from US President Donald Trump that Israel and Iran have agreed to a ceasefire, the market has already seen a recovery, with the Bitcoin price rallying to $106,000 initially. This has already triggered a turn in the sentiment from Fear back to Greed as investors begin piling in again. Related Reading: Bitcoin Dominance Hits New Cycle High Above 66% \u2013 How This 4-Year ATH Affects Altcoin Season In a subsequent post, Astronomer explains that missing out on the buy below $97,000 is no cause for alarm. But cautions against buying now due to fear. The analyst explains that such a move is not advisable as it could lead to losses, as buying during high euphoric times is not advisable. Given this, it is likely better to wait for a correction before going into the market. \u201cBuying higher now during high euphoric times (especially locally), is a worse idea,\u201d Astronomer warned. \u201cCreate good habits, create a solid plan, and stick to both.\u201d Featured image from Dall.E, chart from TradingView.com"
+    },
+    {
       "title": "Solana (SOL) Breakout Watch: Price Could Rally Hard Above $150 Level?",
       "link": "https://www.newsbtc.com/analysis/solana-sol-breakout-150/",
       "summary": "Solana started a fresh increase from the $125 zone. SOL price is now consolidating gains and aims for more gains above the $150 level. SOL price started a fresh increase above the $132 zone against the US Dollar. The price is now trading above $142 and the 100-hourly simple moving average. There is a key bullish trend line forming with support at $142 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $150 resistance zone. Solana Price Aims For More Gains Solana price remained supported above $125 and started a fresh increase, like Bitcoin and Ethereum. SOL gained pace and traded above the $132 resistance level. The bulls pushed the price above the $142 and $145 levels. They are now facing hurdles near $148 and $150. A high was formed at $147 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $126 swing low to the $147 swing high. Solana is now trading above $142 and the 100-hourly simple moving average. There is also a key bullish trend line forming with support at $142 on the hourly chart of the SOL/USD pair. On the upside, the price is facing resistance near the $148 level. The next major resistance is near the $150 level. The main resistance could be $155. A successful close above the $155 resistance zone could set the pace for another steady increase. The next key resistance is $160. Any more gains might send the price toward the $165 level. Another Decline in SOL? If SOL fails to rise above the $150 resistance, it could start another decline. Initial support on the downside is near the $142 zone. The first major support is near the $136 level or the 50% Fib retracement level of the upward move from the $126 swing low to the $147 swing high. A break below the $136 level might send the price toward the $130 zone. If there is a close below the $130 support, the price could decline toward the $125 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is losing pace in the bullish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is above the 50 level. Major Support Levels \u2013 $142 and $136. Major Resistance Levels \u2013 $148 and $150."
@@ -100,11 +105,6 @@
       "title": "Injective Prepares For Bullish Reversal Amid 25% Recovery \u2013 Analyst Forecasts Massive Breakout",
       "link": "https://www.newsbtc.com/news/injective-prepares-for-bullish-reversal-amid-25-recovery-analyst-forecasts-massive-breakout/",
       "summary": "Injective (INJ) is leading the crypto market with a 26% recovery from the recent lows, suggesting a \u201cstrong\u201d rally could be around the corner. Some analysts forecast further upside for the token if it reclaims a key price area. Related Reading: Cardano Headed For $0.32 If This Level Isn\u2019t Reclaimed \u2013 Is ADA\u2019s Rally Over? Injective Sees Strong Daily Move On Tuesday, Injective saw a massive recovery from its recent drop to the $9 mark, and it\u2019s attempting to reclaim a crucial resistance level. The cryptocurrency has been in a downtrend this month, driven by the increasing global geopolitical tensions. Since hitting its December high of $35.26, INJ has retraced over 65%, dropping below the $10 support multiple times during the 2025 retraces. However, the April-May rally saw the cryptocurrency break out of its multi-month downtrend and climb to its $10-$15 local price range. Following Monday night\u2019s news of a potential ceasefire between Israel and Iran, Injective, alongside the rest of the market, reclaimed some of its recently lost levels, surging to the $11 area on Tuesday morning and nearing a crucial resistance. Notably, INJ recorded a 26% rally intraday to hit the $12.02 mark, becoming one of the leading tokens during the crypto market\u2019s rebound. Analyst Crypto Rand noted that the cryptocurrency is now pushing over the June downtrend resistance following its price recovery, suggesting an explosive surge. According to"
-    },
-    {
-      "title": "Ethereum Price Targets Upside Break \u2014 Will Momentum Carry It Past the Hurdles?",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-targets-upside-2500/",
-      "summary": "Ethereum price started a fresh increase above the $2,220 zone. ETH is now showing positive signs and might aim for a move above the $2,550 zone. Ethereum started a fresh upward move above the $2,220 level. The price is trading above $2,320 and the 100-hourly Simple Moving Average. There is a connecting bullish trend line forming with support at $2,390 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it settles above the $2,500 resistance zone in the near term. Ethereum Price Eyes More Gains Ethereum price started a fresh increase above the $2,200 support level, like Bitcoin. ETH price was able to clear the $2,220 and $2,250 resistance levels to move into a positive zone. The bulls even pushed the price above the 61.8% Fib retracement level of the downward wave from the $2,568 swing high to the $2,115 low. However, they are now facing hurdles near the $2,480 and $2,500 levels. Ethereum price is now trading above $2,320 and the 100-hourly Simple Moving Average. The price is now just above the 76.4% Fib retracement level of the downward wave from the $2,568 swing high to the $2,115 low. On the upside, the price could face resistance near the $2,500 level. The next key resistance is near the $2,550 level. The first major resistance is near the $2,565 level. A clear move above the $2,565 resistance might send the price toward the $2,650 resistance. An upside break above the $2,650 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,500 resistance, it could start a fresh decline. Initial support on the downside is near the $2,390 level and the trend line. The first major support sits near the $2,350 zone. A clear move below the $2,350 support might push the price toward the $2,320 support. Any more losses might send the price toward the $2,250 support level in the near term. The next key support sits at $2,150. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,350 Major Resistance Level \u2013 $2,500"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Ledger Deal with NBA Team is Latest Sign of Crypto Sports Partnership Revival",
+      "link": "https://decrypt.co/326882/ledger-deal-with-nba-team-is-latest-sign-of-crypto-sports-partnership-revival",
+      "summary": "The San Antonio Spurs, a basketball team, debuted their Ledger-branded jerseys at the NBA draft on Tuesday."
+    },
+    {
       "title": "Arizona House Clears Bitcoin Reserve Bill Funded by Seized Crypto",
       "link": "https://decrypt.co/326879/arizona-house-clears-bitcoin-reserve-bill-seized-crypto",
       "summary": "The bill directs the first $300,000 from seized crypto to the Attorney General, with the remaining funds split between the state and reserve."
@@ -154,11 +159,6 @@
       "title": "Athena Bitcoin Clears Way For Early Investors to Sell Shares",
       "link": "https://decrypt.co/326869/athena-bitcoin-clears-way-early-investors-sell-shares",
       "summary": "Athena has filed to register shares previously issued through debt conversions, enabling early investors to exit without raising new capital."
-    },
-    {
-      "title": "Senate Banking Committee Sets Out Plan For Crypto Market Rules",
-      "link": "https://decrypt.co/326866/senate-banking-committee-plan-crypto-market-rules",
-      "summary": "The principles aim to define digital asset oversight as debates over Trump-linked crypto profits and federal legislation intensify."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "SEI price prediction \u2013 Will $0.3 resistance fall soon? Here\u2019s what traders should know!",
+      "link": "https://ambcrypto.com/sei-price-prediction-will-0-3-resistance-fall-soon-heres-what-traders-should-know/",
+      "summary": "<img alt=\"SEI price prediction - Will $0.3 resistance fall soon? Here&#039;s what traders should know!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Sei-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />This is not the time to FOMO into long or short positions, but rather a good time for SEI longs to take profits."
+    },
+    {
+      "title": "How Macro FUD can affect Bitcoin and fuel a \u2018different\u2019 altcoin season",
+      "link": "https://ambcrypto.com/how-macro-fud-can-affect-bitcoin-and-fuel-a-different-altcoin-season/",
+      "summary": "<img alt=\"How Macro FUD can affect Bitcoin and fuel a &#039;different&#039; altcoin season\" class=\"attachment-full size-full wp-post-image\" height=\"1047\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-1-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1862\" />Caught in the Bitcoin wave, can altcoins stay afloat?"
+    },
+    {
       "title": "Metaplanet doubles down on Bitcoin with new $5 billion capital infusion \u2013 Details!",
       "link": "https://ambcrypto.com/metaplanet-doubles-down-on-bitcoin-with-new-5-billion-capital-infusion-details/",
       "summary": "<img alt=\"Metaplanet doubles down on Bitcoin with new $5 billion capital infusion - Details!\" class=\"attachment-full size-full wp-post-image\" height=\"659\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Metaplanet-Allocates-5-Billion.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1171\" />Bitcoin is on its way to recovery, and Metaplanet is seeing that."
@@ -203,16 +213,6 @@
       "title": "FUNToken sees a 200% rise in 7 days of trading!",
       "link": "https://ambcrypto.com/funtoken-sees-a-200-rise-in-7-days-of-trading/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"615\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-24-at-5.12.37 PM-e1750765411565.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1200\" />FUNToken has seen a 200% rise in the past week of trading, establishing itself in [&#8230;]"
-    },
-    {
-      "title": "Is Sui\u2019s recovery sustainable? How $2.08 will define the road ahead",
-      "link": "https://ambcrypto.com/is-suis-recovery-sustainable-how-2-08-will-define-the-road-ahead/",
-      "summary": "<img alt=\"Is Sui&#039;s recovery sustainable? How $2.08 will define the road ahead\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Sui-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite the bullish weekly structure, the buying pressure behind SUI remained weak."
-    },
-    {
-      "title": "Is Bitcoin becoming too valuable to trade? THIS reveals\u2026",
-      "link": "https://ambcrypto.com/is-bitcoin-becoming-too-valuable-to-trade-this-reveals/",
-      "summary": "<img alt=\"Is Bitcoin becoming too valuable to trade? THIS reveals...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-10-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is Bitcoin finally becoming the asset its believers always claimed it was?"
     }
   ]
 }
