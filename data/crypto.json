@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "ATOM Surges 3.6% Amid Strong Volume Swings at Key Support Levels",
+      "link": "https://www.coindesk.com/markets/2025/06/25/atom-surges-3-6-amid-strong-volume-swings-at-key-support-levels",
+      "summary": ""
+    },
+    {
+      "title": "NEAR Protocol Plunges 4% Before Staging Recovery Amid Market Volatility",
+      "link": "https://www.coindesk.com/markets/2025/06/25/near-protocol-plunges-4-before-staging-recovery-amid-market-volatility",
+      "summary": ""
+    },
+    {
       "title": "The Next Frontier in Finance: Tokenized Access to Private Markets",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/24/the-next-frontier-in-finance-tokenized-access-to-private-markets",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Leading Crypto Senator Sees End of Year as U.S. Legislation Target",
       "link": "https://www.coindesk.com/policy/2025/06/25/leading-crypto-senator-sees-end-of-year-as-u-s-legislation-target",
       "summary": ""
-    },
-    {
-      "title": "XRP Breaks Out Above $2.20 With Triple Volume Surge",
-      "link": "https://www.coindesk.com/markets/2025/06/25/xrp-breaks-out-above-220-with-triple-volume-surge-in-volume",
-      "summary": ""
-    },
-    {
-      "title": "GameStop Has Another $2.7B in Bitcoin Buying Power After $450M Greenshoe Exercise",
-      "link": "https://www.coindesk.com/business/2025/06/25/gamestop-has-another-27b-in-bitcoin-buying-power-after-450m-greenshoe-exercise",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "US home mortgage regulator considers Bitcoin amid housing crisis",
+      "link": "https://cointelegraph.com/news/us-home-mortgage-regulator-bitcoin-amid-housing-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E3NjYtZDk0Mi03NDZiLWEyMmItYTUzNDhiOWQ3YWJl.jpg\" /></p><p>The head of the FHFA said his agency is considering how Bitcoin is counted in qualifying for a mortgage.</p>"
+    },
+    {
+      "title": "Bitcoin\u2019s \u2018bull pennant\u2019 targets $165K as BTC exchange flows hit 10-year lows",
+      "link": "https://cointelegraph.com/news/bitcoin-s-bull-pennant-targets-165k-as-btc-exchange-flows-hit-10-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E3YWYtYzQyZi03YzMyLThiMDAtZTliNzU4NmZiYTQz.jpg\" /></p><p>Bitcoin\u2019s price moves closer to its all-time high, but liquidity shortage could trigger a breakout toward $165,000.</p>"
+    },
+    {
+      "title": "Bitcoin vs. sovereign bonds: Why are some investors making the shift?",
+      "link": "https://cointelegraph.com/explained/bitcoin-vs-sovereign-bonds-why-are-some-investors-making-the-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mOGE2ZjE5YzA4NjM5YjIzZjA1ODNiZWE1YTdiNmEyNS5qcGc=.jpg\" /></p><p> Bitcoin is creating a new paradigm as an emerging financial asset; several investors are contemplating a shift to adopting the asset for higher returns. </p>"
+    },
     {
       "title": "Ethereum \u2018death cross\u2019 flashes for the first time since 2022 ETH price crash",
       "link": "https://cointelegraph.com/news/ethereum-flashes-death-cross-for-the-first-since-2022-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Bitcoin-stocks correlation signals USD fragility and not risk-on fervor",
       "link": "https://cointelegraph.com/news/bitcoin-stocksusd-fragility-and-not-risk-on-fervor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1YjAtN2Q3Yi03YjNjLWI3ZjAtMTdmYTc0NzhkYzA1.jpg\" /></p><p>Bitcoin\u2019s rising correlation with stocks is less about investor exuberance and more about eroding trust in the dollar. The real story is not a newfound appetite for risk \u2014 it\u2019s a flight from the perceived fragility of the US dollar.</p>"
-    },
-    {
-      "title": "The $1,150 trademark that could change crypto: What\u2019s hiding in JPMorgan\u2019s JPMD filing?",
-      "link": "https://cointelegraph.com/explained/the-1-150-trademark-that-could-change-crypto-whats-hiding-in-jpmorgans-jpmd-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMTRkMGIzMmQzZGU1MWRhNWQ5NTQ3MGJjNzNiM2U2Ny5qcGc=.jpg\" /></p><p>JPMD may be JPMorgan\u2019s next digital currency. Here\u2019s what the trademark filing reveals about stablecoins, deposit tokens and the GENIUS Act.</p>"
-    },
-    {
-      "title": "Bitcoin bulls &#039;in control&#039; as BTC price spikes to $108K",
-      "link": "https://cointelegraph.com/news/bitcoin-bulls-in-control-as-btc-price-spikes-to-108k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E3NzktNjgxOC03ZDQ2LWFiN2UtMWJlNDIwYWE2YWFj.jpg\" /></p><p>Bitcoin delivers a textbook liquidity grab, while traders eye a potential BTC price showdown with all-time highs next.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -115,6 +115,11 @@
       "summary": "An unidentified individual received a large sum of Ethereum into a wallet on a Greek exchange, prompting local authorities to investigate."
     },
     {
+      "title": "Kraken Embed is a 'One-Stop Shop' for TradFi Crypto Integrations",
+      "link": "https://decrypt.co/videos/interviews/iLTFesTy/kraken-embed-is-a-one-stop-shop-for-tradfi-crypto-integrations",
+      "summary": "is joined by Brett McLean, Head of Payments and Blockchain Business Unit at Kraken, to discuss why liquidity matters more to traders than trading volume, and how its new Kraken Embed service for fintechs reflects the evolving role of centralized exchanges in the crypto ecosystem."
+    },
+    {
       "title": "Can AI Crack the Cat Code? Baidu Thinks So",
       "link": "https://decrypt.co/326907/ai-translate-cat-meows-baidu",
       "summary": "A new patent proposes translating cat \u201cmeows\u201d and body language into plain speech, but scientists say the technology may still be chasing its tail."
@@ -128,14 +133,14 @@
       "title": "Anthropic Scores Partial Victory in Copyright Case Over AI Training Data",
       "link": "https://decrypt.co/326890/anthropic-gains-partial-victory-in-copyright-case-over-ai-training-data",
       "summary": "The AI firm downloaded over seven million pirated books to assemble its research library, internal emails revealed."
-    },
-    {
-      "title": "Ledger Deal with NBA Team is Latest Sign of Crypto Sports Partnership Revival",
-      "link": "https://decrypt.co/326882/ledger-deal-with-nba-team-is-latest-sign-of-crypto-sports-partnership-revival",
-      "summary": "The San Antonio Spurs, a basketball team, debuted their Ledger-branded jerseys at the NBA draft on Tuesday."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Fed\u2019s Powell says Bitcoin and crypto have matured and become more mainstream",
+      "link": "https://cryptobriefing.com/crypto-mainstream-adoption-fed/",
+      "summary": "<p>The mainstreaming of crypto prompts regulatory reassessment, potentially reshaping financial policies and banking practices globally.</p> <p>"
+    },
     {
       "title": "Starknet-based zkLend shuts down following exploit and ZEND token delisting from major exchanges",
       "link": "https://cryptobriefing.com/zklend-shutdown-zend-delisting/",
@@ -155,14 +160,14 @@
       "title": "Arizona Bitcoin Reserve bill HB2324 passes House, heads to Governor Hobbs for signature",
       "link": "https://cryptobriefing.com/arizona-bitcoin-reserve-hb2324/",
       "summary": "<p>Arizona's move to establish a state-managed crypto reserve could set a precedent for integrating digital assets into public financial systems.</p> <p>"
-    },
-    {
-      "title": "Binance co-founder Yi He dismisses rumors of CZ receiving pardon from President Trump: Report",
-      "link": "https://cryptobriefing.com/cz-presidential-pardon-binance/",
-      "summary": "<p>The incident highlights the volatility of crypto markets and the impact of misinformation on investor sentiment and asset prices.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Is this the end of easy crypto in Turkey? Here\u2019s what\u2019s changing",
+      "link": "https://ambcrypto.com/is-this-the-end-of-easy-crypto-in-turkey-heres-whats-changing/",
+      "summary": "<img alt=\"Is this the end of easy crypto in Turkey? Here&#039;s what&#039;s changing\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-8-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As Turkey introduces its most ambitious crypto rules yet, exchanges face higher compliance and capital demands."
+    },
     {
       "title": "Bitcoin: THIS group refuses to sell \u2013 Are more gains on the way?",
       "link": "https://ambcrypto.com/bitcoin-this-group-refuses-to-sell-are-more-gains-on-the-way/",
@@ -182,11 +187,6 @@
       "title": "TRON \u2013 Retail vs. whales: TRX\u2019s next move hinges on THIS\u2026",
       "link": "https://ambcrypto.com/tron-retail-vs-whales-trxs-next-move-hinges-on-this/",
       "summary": "<img alt=\"TRX\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-25T114403.297-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Old wallets woke up and they brought billions with them."
-    },
-    {
-      "title": "BTCC Exchange Celebrates 14th Anniversary with Launch of First-Ever User Badge Program",
-      "link": "https://ambcrypto.com/btcc-exchange-celebrates-14th-anniversary-with-launch-of-first-ever-user-badge-program/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"664\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-25-at-5.56.40 PM.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1196\" />BTCC, one of the world\u2019s longest-serving exchanges, celebrates its 14th anniversary by launching its first-ever [&#8230;]"
     }
   ]
 }
