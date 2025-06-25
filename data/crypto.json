@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Rises Past $107K as FHFA's Pulte Orders Crypto Consideration in Mortgage Applications",
+      "link": "https://www.coindesk.com/markets/2025/06/25/bitcoin-rises-past-107k-as-fhfas-pulte-orders-crypto-consideration-in-mortgage-applications",
+      "summary": ""
+    },
+    {
       "title": "SoFi to Launch Blockchain Remittances With Stablecoins as Crypto Returns to Platform",
       "link": "https://www.coindesk.com/business/2025/06/25/sofi-to-launch-blockchain-remittances-with-stablecoins-as-crypto-returns-to-platform",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Ethereum's 'Identity Crisis' Is What Real Decentralization Looks Like",
       "link": "https://www.coindesk.com/opinion/2025/06/25/ethereums-identity-crisis-is-what-real-decentralization-looks-like",
       "summary": ""
-    },
-    {
-      "title": "Solana Will Lead Tokenization, Hyperliquid the 'Perpification of Everything': Ryan Watkins",
-      "link": "https://www.coindesk.com/markets/2025/06/25/hedge-fund-founder-says-solana-will-lead-tokenization-of-everything",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Unhedged spot Bitcoin ETF flows show BTC is now a macro asset",
+      "link": "https://cointelegraph.com/news/unhedged-spot-bitcoin-etf-flows-show-btc-is-now-a-macro-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I1ZTEtNmQxZi03OGFkLTg4MzktYzRiMTcyMWFhN2Vl.jpg\" /></p><p>Data shows spot Bitcoin ETF inflows are largely unhedged, pointing to real institutional investor conviction and BTC\u2019s growing role as a macro-driven financial asset.</p>"
+    },
+    {
+      "title": "US Senator sets 2026 goal for two crypto bills",
+      "link": "https://cointelegraph.com/news/senator-cynthia-lummia-end-year-crypto-bills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E4NjAtNzVkOC03Mjg4LWJlYWQtYmY5NWM0YzdiMDE2.jpg\" /></p><p>Cynthia Lummis said she expects the CLARITY Act and GENIUS Act to pass through Congress and be ready for the president\u2019s signature by the end of the year.</p>"
+    },
     {
       "title": "US home mortgage regulator to recognize crypto assets in risk assessments",
       "link": "https://cointelegraph.com/news/fannie-mae-freddie-mac-recognize-crypto-assets-mortgage-risk-assessments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,19 @@
       "title": "How to use ChatGPT for crypto strategy, signals, and sentiment",
       "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-analyze-crypto-market-movements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM2MTAtY2VhMC03ZjRlLWI5NjAtNGQ4ZDQ2YTU1ODJj.jpg\" /></p><p>Use ChatGPT to summarize market news, interpret on-chain data, compare token metrics, and spot sentiment shifts using structured prompts.</p>"
-    },
-    {
-      "title": "Barclays to ban crypto transactions on  credit cards from Friday",
-      "link": "https://cointelegraph.com/news/barclays-ban-crypto-transactions-credit-cards-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E4MDYtYjlkZi03OGVkLTk1NGEtMTM2YjgwNmQyOTQ4.jpg\" /></p><p>The move comes as a debate is unfolding in the UK on whether users should be allowed to buy cryptocurrencies with credit cards.</p>"
-    },
-    {
-      "title": "Everyone laughed at these 10 gadgets. Now, they\u2019re in every home",
-      "link": "https://cointelegraph.com/news/10-failed-gadgets-that-are-now-everywhere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1Y2MtY2Q0ZC03MTYxLTliMTgtNTdmNDg2ZGNiZTg1.jpg\" /></p><p>From robotic pets and digital currencies to virtual reality, some of the biggest innovations were once considered failures.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "European Commission to ease rules on foreign stablecoins despite ECB opposition",
+      "link": "https://cryptoslate.com/european-commission-to-ease-rules-on-foreign-stablecoins-despite-ecb-opposition/",
+      "summary": "<p>The European Union is preparing to relax its stance on foreign-issued stablecoins, potentially allowing U.S. dollar-backed tokens like USDC and USDT to circulate freely within the bloc, the Financial Times reported on June 25. According to the report, the European Commission will soon issue formal guidance enabling stablecoins issued outside the EU to be treated [&#8230;]</p> <p>"
+    },
+    {
+      "title": "US adopts crypto in mortgage risks as Fannie Mae and Freddie Mac update asset models",
+      "link": "https://cryptoslate.com/us-adopts-crypto-in-mortgage-risks-as-fannie-mae-and-freddie-mac-update-asset-models/",
+      "summary": "<p>US Federal Housing Finance Agency (FHFA) Director Willian J. Pulte ordered on June 25 that Fannie Mae and Freddie Mac treat cryptocurrency reserves as eligible assets when they measure risk on single-family mortgage loans, effective immediately. The two government-sponsored enterprises must draft plans that show how they will recognize borrower crypto holdings without first converting [&#8230;]</p> <p>"
+    },
     {
       "title": "Coinbase launches Cardano and Litecoin wrapped tokens cbADA, cbLTC on Base",
       "link": "https://cryptoslate.com/coinbase-launches-cardano-and-litecoin-wrapped-tokens-cbada-cbltc-on-base/",
@@ -68,19 +78,14 @@
       "title": "Lumia and Avail team up for secure, scalable real-world asset tokenization",
       "link": "https://cryptoslate.com/lumia-and-avail-team-up-for-secure-scalable-real-world-asset-tokenization/",
       "summary": "<p>Lumia, a blockchain platform focused on real-world asset (RWA) tokenization, is rolling out a new cross-chain model through a strategic integration with Avail Stack, according to a statement shared with . The partnership aims to improve how tokenized assets are created, verified, and moved across different blockchain networks. Through this integration, Lumia will access Avail\u2019s [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitfinex launches groundbreaking equity tokens worth $143 million",
-      "link": "https://cryptoslate.com/bitfinex-launches-groundbreaking-equity-tokens-worth-143-million/",
-      "summary": "<p>Bitfinex Securities has introduced two tokenized equity offerings with a combined value of \u00a3105 million (around $143 million), according to a June 25 statement shared with . The listings, TITAN1 and TITAN2, were issued by Ctrl Alt and represent the first equity-based tokens available on the Bitfinex Securities exchange. The Astana Financial Services Authority regulates [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Designing for the Real World: Reflections on building with the Finternet",
-      "link": "https://cryptoslate.com/designing-for-the-real-world-reflections-on-building-with-the-finternet/",
-      "summary": "<p>The following is a guest post and opinion from Anurag Arjun, Co-Founder of Avail. The next financial architecture won\u2019t just move money faster \u2014 it will make value, identity, and rights verifiable and enforceable across fragmented systems and real-world institutions. Every time we build a new payment system, we rebuild the rails. Every new identity [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Chainlink Reclaims Key Structure \u2013 Quiet Accumulation Could Fuel $25\u2013$30 Surge",
+      "link": "https://www.newsbtc.com/chainlink-news/chainlink-reclaims-key-structure-quiet-accumulation-could-fuel-25-30-surge/",
+      "summary": "Chainlink (LINK) is up 21% from its Sunday lows, gaining momentum in an otherwise uncertain macro and geopolitical environment. While global tensions continue to spark volatility across markets, Chainlink has stood out for its resilience, supported by a series of strong partnerships and growing on-chain fundamentals. The recent price action signals a potential shift in trend, but analysts warn that a confirmed breakout is still needed before bulls can fully take over. Related Reading: Bitcoin Buy-Side Pressure Surges: Taker Buy Volume Spikes Sharply Top analyst Henry Lord of Alts highlighted that LINK has endured months of persistent downtrend and unusually quiet price behavior. However, recent moves suggest that something is changing beneath the surface. Volume is increasing, volatility is picking up, and LINK is forming a base structure that could mark the end of its accumulation phase. Despite this strength, Chainlink remains technically locked within a consolidation range. A clean breakout above key resistance levels will be critical to trigger the next phase of upward momentum. Until then, traders are cautiously optimistic as LINK teases a larger move. Chainlink Prepares For A Decisive Move Chainlink is currently trading over 25% below its May high, reflecting the broader market impact of rising macroeconomic uncertainty and geopolitical tensions, especially the recent Middle East conflicts. Despite these pressures, LINK has managed to hold within a steady consolidation range, signaling resilience as the crypto market awaits its next decisive move. Maintaining prices above current levels is crucial. A breakdown here could open the door for deeper corrections. However, analyst Henry believes the tides may be turning. According to Henry, Chainlink has endured months of downtrend and silence, but a structural shift is now underway. His analysis highlights that the long-standing downtrend has been broken, and LINK has entered a clear accumulation and consolidation phase. \u201cThese zones often come before the loudest moves,\u201d Henry notes. Historically, such phases have preceded explosive rallies, and this time may be no different. If momentum picks up, a breakout toward the $25\u2013$30 range wouldn\u2019t be surprising. Henry also points out that periods of inactivity often mask the actions of smart money\u2014buying quietly before the broader market catches on. While it\u2019s easy to overlook assets during calm phases, that\u2019s often when the groundwork for major moves is laid. For now, Chainlink remains on watch. Related Reading: Ethereum Whale Loads Up: $422M In ETH Bought In Under a Month LINK Price Analysis: Signs of Reversal Emerge Chainlink is showing early signs of a trend reversal after months of consistent decline. As seen in the 12-hour chart, LINK recently rebounded from the $11.50 level and is now trading above $13.20. This recovery follows a steep drop that marked a new local low, but the bounce has pushed the price above the 50-day simple moving average (SMA), now acting as short-term support at $13.50. Importantly, LINK is now testing the 100-day SMA (around $14.65), which previously served as resistance in late May and early June. If bulls manage to break and consolidate above this level, the next target lies near the 200-day SMA at $14.16\u2014a confluence zone that may act as a critical decision point for trend continuation or rejection. Related Reading: Ethereum Holds Critical Support \u2013 $2,350 Level Could Define The Next Move While the macro structure remains bearish, this short-term accumulation range suggests growing demand, especially as the price begins to form higher lows. A clear break above $14.65 with volume could confirm the breakout and signal the start of a larger move toward the $17\u2013$18 range. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Bitcoin Price Could Rally To $110,000 ATH As These Macroeconomic Factors Align",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-could-rally-to-110000/",
@@ -100,11 +105,6 @@
       "title": "GoldenMining Investors Earn Average Profit of $9,800 on Bitcoin Surge Day Stable Daily Income Model Attracts Thousands to Join Global Cloud Mining Platform",
       "link": "https://www.newsbtc.com/news/goldenmining-investors-earn-average-profit-of-9800-on-bitcoin-surge-day-stable-daily-income-model-attracts-thousands-to-join-global-cloud-mining-platform/",
       "summary": "As geopolitical developments continue to impact global markets, the cryptocurrency space remains highly reactive. Earlier this week, Bitcoin (BTC) dipped below the $100,000 mark amid heightened tensions in the Middle East. However, with tensions easing, market optimism rebounded swiftly, propelling BTC through multiple technical resistance levels. The rally underscored Bitcoin\u2019s strength as \u201cdigital gold.\u201d Amid this volatile market, GoldenMining, a leading global intelligent cloud mining platform, reported that its investors earned an average of $9,800 per person in daily profits during the surge, demonstrating the platform\u2019s ability to capitalize on market swings. GoldenMining Cloud Mining: Simplifying Profitability for Everyday Traders GoldenMining has optimized its AI-driven cloud mining services under a \u2018Hash Power as a Service\u2019 (HaaS) model. Backed by 13+ data centers and multi-currency support, it currently supports BTC, Litecoin (LTC), and Dogecoin (DOGE)\u2014among the most active and profitable mining options on the platform. Technology, Security, and Performance at the Core GoldenMining\u2019s continued success lies in its technology and commitment to user performance: AI Intelligent Computing Engine The proprietary \u2018Smart Computing Chain\u2019 analyzes 100,000+ market data points hourly using deep learning and parallel computing. Hash power is dynamically allocated to the most profitable assets in real time. AI Hash Rate Scheduling Adjusts for BTC network difficulty and mining pool fees to optimize hash power usage and maximize returns. Fully Automated Income System Once contracts are active, earnings are automatically deposited into users\u2019 wallets\u2014no manual action required. Flexible Contracts for All Investors Contract durations include 5-day, 12-day, 25-day, 30-day, and 45-day terms. Profit Reinvestment Option Users can enable automatic reinvestment of daily earnings for compounding growth. Multi-Currency Support BTC contracts can be funded using USDT, DOGE, ETH, and BNB with real-time exchange and transparent settlement. How to Get Started GoldenMining makes it simple to begin earning: Register an Account Sign up at GoldenMining.com and claim a $15 new user bonus. Choose a Mining Plan Select from a variety of contract terms based on your budget and goals. Activate and Start Mining The system begins mining automatically using optimized hash power. Receive Daily Payouts Profits are settled and distributed daily, with funds available for withdrawal or reinvestment. Sample Contracts &#38; Estimated Profits Contract Price Estimated Profit Total Return Elphapex DG1+ $100 $6 $106 Bitmain Antminer S23 Hyd $650 $41.27 $691.27 Antminer L9 17GH $1,800 $280.8 $2,080.8 Antminer L9 16GH $4,500 $1,518.75 $6,018.75 ElphaPex DG Hydro 1 $7,800 $3,276 $11,076 Elphapex DG2 $12,000 $8,100 $20,100 Elphapex DG2+ $28,000 $22,680 $50,680 Profits are credited the next day. Users can withdraw once their balance reaches $100 or reinvest for increased earnings. CEO Statement A GoldenMining spokesperson noted that thanks to the platform\u2019s proprietary AI engine, early adopters have seen annualized net returns exceeding 500%, underscoring both the profitability and resilience of the system. About GoldenMining Headquartered in London, UK, GoldenMining serves over 1.5 million users globally, with daily contract settlements surpassing $100 million. As the digital economy matures, GoldenMining stands out as a key driver of sustainable and intelligent crypto investment. Join GoldenMining Toda Unlock smarter, more stable returns from cryptocurrency. Visit GoldenMining.com Contact: info@GoldenMining.com Disclaimer: This is a paid release. The statements, views and opinions expressed in this column are solely those of the content provider and do not necessarily represent those of . does not guarantee the accuracy or timeliness of information available in such content. Do your research and invest at your own risk."
-    },
-    {
-      "title": "Dogecoin Price Closes Daily Candle With A Doji, What This Means",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-daily-candle-with-doji/",
-      "summary": "The Dogecoin price is in focus, having closed the daily candle with a Doji. Crypto analyst Trader Tardigrade commented on this development and revealed what it could mean for the foremost meme coin. What\u2019s Next For Dogecoin Price Following Doji Daily Close In an X post, Trader Tardigrade highlighted the fact that the Dogecoin price daily candle closed with a Doji. He remarked that a new sign of a breakout has emerged following a Doji at the end of a downtrend. The analyst noted that this indicates a high possibility of a trend reversal from downtrend to uptrend. Related Reading: Dogecoin Price Enters Historical Bounce Zone, But Will This Time Be Different? The Dogecoin price has witnessed a massive decline over the last month, down over 27% during this period, according to CoinMarketCap data. DOGE has dropped way below the psychological $0.2 price level, providing a bearish outlook for the meme coin. However, Trader Tardigrade\u2019s analysis suggested that the meme coin could soon record another massive rally to the upside. The analyst\u2019s accompanying chart showed that the Dogecoin price could reclaim the $0.2 level on this projected trend reversal to the upside. Fundamentals also support a DOGE rally, seeing as tensions in the Middle East have cooled off, with Israel and Iran agreeing to a ceasefire. Meanwhile, the Bitcoin price has again rallied and reclaimed the $106,000 level. This is bullish for the meme coin given its correlation with the flagship crypto. In another X post, Trader Tardigrade provided a bullish outlook for the Dogecoin price, stating that DOGE season could be approaching soon. He revealed that the DOGE/BTC pair has experienced the last shakeout, signaling the start of the meme coin\u2019s season. His accompanying chart showed that Dogecoin could rally above $2 once this DOGE season begins. Key Levels To Watch For DOGE In a YouTube video, crypto analyst Kevin Capital highlighted the range between $0.12 and $0.142 as the key level to watch for the Dogecoin price. The analyst also alluded to DOGE\u2019s weekly Relative Strength Index (RSI), stating that the meme coin cannot afford to drop below 38. He claimed that a drop could lead to the meme coin falling into a bear market structure. Related Reading: Dogecoin Price Crash Below $0.2: 4H Order Block Shows Exactly What\u2019s Happening Kevin Capital then highlighted the DOGE/BTC pair, noting that the meme coin is at a critical level that it needs to hold above if it is to outperform Bitcoin later in the year. The analyst expects the meme coin to make a significant run and outperform the flagship crypto when the Fed begins to ease monetary policies. The analyst remarked that a positive for DOGE is that there are bullish indicators flashing for the meme coin on the daily timeframe. At the time of writing, the Dogecoin price is trading at around $0.16, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Adobe Stock, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Will GameStop Buy More Bitcoin? GME Boosts Latest Fundraise to $2.7 Billion",
+      "link": "https://decrypt.co/327068/will-gamestop-buy-more-bitcoin-gme-boosts-latest-fundraise",
+      "summary": "GameStop raised another $450 million that it can use to buy Bitcoin, boosting its latest raise to $2.7 billion. Will it grab more BTC?"
+    },
+    {
       "title": "Crypto VCs Crown New Unicorn as Confidentiality Startup Zama Raises $57M at $1 Billion Valuation",
       "link": "https://decrypt.co/327047/crypto-vcs-crown-new-unicorn-zama-57-million-raise-1-billion-valuation",
       "summary": "Zama raised $57 million and launched a public testnet aimed at bringing privacy and encrypted smart contracts to public blockchains."
@@ -154,11 +159,6 @@
       "title": "Bitcoin Cash Breaks Out, Cardano Breaks Down as Crypto Traders Hold Breath on Fed: Analysis",
       "link": "https://decrypt.co/327000/bitcoin-cash-cardano-ada-crypto-markets-fed",
       "summary": "Bitcoin Cash breaks key resistance amid renewed demand while Cardano tests critical support levels in sideways market conditions."
-    },
-    {
-      "title": "UK Bitcoin Reserve Company Buys More BTC, Stock Continues to Rise",
-      "link": "https://decrypt.co/327016/uk-bitcoin-reserve-company-buys-btc",
-      "summary": "UK web company's Bitcoin strategy delivers 6,400% stock gains, sparking copycat wave as CEO claims \"most successful IPO in UK history.\""
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Aptos spikes 15% \u2013 This ONE move could decide if APT hits $5.50",
+      "link": "https://ambcrypto.com/aptos-spikes-15-this-one-move-could-decide-if-apt-hits-5-50/",
+      "summary": "<img alt=\"Aptos [APT]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-12-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With leverage stacking and $5 under siege, is this breakout real or a bull trap in disguise?"
+    },
+    {
+      "title": "Analyzing why PENGU\u2019s next move relies on $0.010 breakout",
+      "link": "https://ambcrypto.com/analyzing-why-pengus-next-move-relies-on-0-010-breakout/",
+      "summary": "<img alt=\"PENGU\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-25T143237.284-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PENGU\u2019s breakout attempt faces skepticism as technicals and sentiment show hesitation near $0.010."
+    },
+    {
       "title": "XRP Futures hit $542M, but price stalls \u2013 What traders should know",
       "link": "https://ambcrypto.com/xrp-futures-hit-542m-still-price-stays-stuck-below-1-80-why/",
       "summary": "<img alt=\"One Month of XRP futures\" class=\"attachment-full size-full wp-post-image\" height=\"734\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/One-Month-of-XRP-futures.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1305\" />XRP is gaining momentum, but could an underlying bearish pattern derail the rally?"
@@ -203,16 +213,6 @@
       "title": "As Gold weakens, will a positive macro shift take Ethereum to $3K?",
       "link": "https://ambcrypto.com/as-gold-weakens-will-a-positive-macro-shift-take-ethereum-to-3k/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ethereum-FI-.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's what you need to know about van de Poppe's bullish call for ETH."
-    },
-    {
-      "title": "Pepe Dollar or Solaxy? SOL Millionaires Debate On Which Cryptocurrency will grow more",
-      "link": "https://ambcrypto.com/pepe-dollar-or-solaxy-sol-millionaires-debate-on-which-cryptocurrency-will-grow-more/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-25-at-8.29.14 PM.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1246\" />As the crypto market heats up in 2025, Solana (SOL) millionaires find themselves debating two [&#8230;]"
-    },
-    {
-      "title": "Chainlink crypto: Will rising demand break LINK\u2019s downtrend?",
-      "link": "https://ambcrypto.com/chainlink-crypto-will-rising-demand-break-links-downtrend/",
-      "summary": "<img alt=\"Chainlink crypto: Will rising demand break LINK&#039;s downtrend?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-25T123022.943-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />LINK shows bullish signs across on-chain and spot metrics, but $15.53 remains a critical resistance."
     }
   ]
 }
