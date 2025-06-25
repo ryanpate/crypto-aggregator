@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Chinese Marketing Company Aurora Mobile Plans to Adopt Crypto Treasury",
+      "link": "https://www.coindesk.com/business/2025/06/25/chinese-marketing-company-aurora-mobile-plans-to-adopt-crypto-treasury",
+      "summary": ""
+    },
+    {
       "title": "Deep Sea Mining Firm Goes Deep on Bitcoin With $1.2B BTC Treasury Plan",
       "link": "https://www.coindesk.com/business/2025/06/25/deep-sea-mining-firm-goes-deep-on-bitcoin-with-12b-btc-treasury-plan",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Crypto Trader Sees Bitcoin Hitting $160K by Year-End; ETH, SOL, ADA to Gain on Middle East Truce",
       "link": "https://www.coindesk.com/markets/2025/06/25/crypto-trader-sees-bitcoin-hitting-160k-by-year-end-eth-sol-ada-to-gain-on-middle-east-truce",
       "summary": ""
-    },
-    {
-      "title": "Bitfinex Securities Is Taking a Different Approach to RWAs, Launches Two New Products in the U.K.",
-      "link": "https://www.coindesk.com/business/2025/06/25/bitfinex-securities-is-taking-a-different-approach-to-rwas-launches-two-new-products-in-the-u-k",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Fuzzland says ex-employee was behind $2M Bedrock UniBTC exploit",
+      "link": "https://cointelegraph.com/news/fuzzland-ex-employee-bedrock-unibtc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY5MjUtYjZlYS03ZjViLTg3NzMtOGY5NTQ2NTQ1ZTcy.jpg\" /></p><p>Fuzzland says a former employee used insider access and malware to exploit Bedrock\u2019s UniBTC protocol, resulting in $2 million in losses.</p>"
+    },
     {
       "title": "Bitcoin ETFs log biggest June inflows at $588M, extend 11-day streak",
       "link": "https://cointelegraph.com/news/bitcoin-etfs-june-biggest-inflows-588m-11-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "South Korea\u2019s central bank wants gradual stablecoin rollout",
       "link": "https://cointelegraph.com/news/south-korea-central-bank-gradual-stablecoin-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NmQtZDJkOC03M2Y4LWE2NTYtZjU4NzdiMjMyZjM4.jpg\" /></p><p>Bank of Korea governor Ryoo Sangdai reportedly said that banks should be the first to issue stablecoins, and they should do so slowly.</p>"
-    },
-    {
-      "title": "SharpLink Gaming stock rallies 7% after $30M Ethereum buy",
-      "link": "https://cointelegraph.com/news/sharplink-gaming-buys-30m-eth-stock-rallie?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM1YjgtN2M2ZC03ODM4LTkzNzItYjVlNTVhYTdjNWRm.jpg\" /></p><p>SharpLink Gaming has seen its share price jump over 7% after the firm boosted its Ethereum holdings to 188,000 Ether.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "XRP Ledger\u2019s new upgrade looks to fuel institutional interest for the network",
+      "link": "https://cryptoslate.com/xrp-ledgers-new-upgrade-looks-to-fuel-institutional-interest-for-the-network/",
+      "summary": "<p>The XRP Ledger (XRPL) has launched version 2.5.0 of its core software, according to a June 24 statement. This update introduces a suite of upgrades designed to enhance network performance, support enterprise-grade functionality, and strengthen regulatory compliance. Market observers noted that the update reflects Ripple&#8217;s broader push to position XRPL as a viable alternative to [&#8230;]</p> <p>"
+    },
     {
       "title": "Arizona state won\u2019t buy Bitcoin \u2013 But is happy to seize and hold it",
       "link": "https://cryptoslate.com/arizona-state-wont-buy-bitcoin-but-is-happy-to-seize-and-hold-it/",
@@ -73,14 +78,14 @@
       "title": "WazirX gains crucial extension to revive post-hack restructuring plan",
       "link": "https://cryptoslate.com/wazirx-gains-crucial-extension-to-revive-post-hack-restructuring-plan/",
       "summary": "<p>WazirX, once India\u2019s largest crypto exchange by trading volume, has secured a crucial extension from Singapore\u2019s High Court as it struggles to recover from a devastating $234 million hack and a year of growing user frustration. In a statement posted on social media, WazirX confirmed that the court will allow it to present new arguments [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Spot Ethereum ETFs record $1B inflows in 15 trading days, hitting $4B for the first time",
-      "link": "https://cryptoslate.com/spot-ethereum-etfs-record-1b-inflows-in-15-trading-days-hitting-4b-for-the-first-time/",
-      "summary": "<p>Spot Ethereum (ETH) exchange-traded funds (ETFs) listed in the US crossed $4 billion in cumulative net inflows on June 23, only eleven months after their market debut. The products launched on July 23, 2024, and required 216 US trading sessions to accumulate their first $3 billion by May 30. Following the $3 billion mark, spot [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Dogecoin Flashes Rare Buy Signal\u2014But One Move Could Ruin It",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-rare-buy-signal-but-one-move-could-ruin-it/",
+      "summary": "Dogecoin is once again at a technical crossroads, flashing a rare confluence of bullish indicators\u2014but one wrong move could unravel the setup entirely. In his June 24 video analysis, crypto strategist Kevin (@Kev_Capital_TA) outlined why Dogecoin\u2019s recent bounce from the $0.14 region may mark the beginning of a new uptrend\u2014or the last gasp before breakdown. Dogecoin Hits Critical Zone \u201cWe\u2019re hitting a very, very key level, folks,\u201d Kevin stressed. \u201cThat being the weekly 200 SMA, the weekly 200 EMA, and again that macro 0.382 Fib.\u201d The confluence of these levels between $0.143 and $0.127 marks what he calls a \u201cmake-or-break zone,\u201d and Dogecoin is currently sitting right in the middle of it. The analyst previously entered a swing long position at $0.141, highlighting the area as a strong risk-reward trade zone. \u201cWorst comes to worst, you could throw your stop loss below that level\u2026 but the upside is great,\u201d he said. Since then, DOGE has bounced about 6\u20137%, but the real test lies ahead. Kevin noted that this level has acted as structural support since the end of the 2022\u20132023 bear market. The macro 0.382 Fibonacci retracement, drawn from Dogecoin\u2019s full bull run top to its bear market bottom, aligns with long-standing trendlines and a weekly demand candle. \u201cThis is your zone,\u201d he emphasized. \u201cMark this off on your charts.\u201d Related Reading: Dogecoin Crash Far From Over? Analyst Reveals The Target Yet despite the recent bounce, Dogecoin remains beneath all its major daily and 4-hour moving averages. The next critical resistance stands at $0.19. \u201cIf you can reclaim $0.19 on Dogecoin, you then break back into this range\u2014the $0.19 to $0.26 range,\u201d Kevin explained, calling it the key to any continuation higher. Until then, he cautions against assuming a full reversal is underway: \u201cLet\u2019s not get too crazy here\u2026 still a lot of work to do.\u201d The RSI also tells a story. Kevin pointed out that Dogecoin\u2019s weekly RSI has repeatedly bounced off the 38 level throughout the current bull cycle. The coin now hovers just above that zone once again. \u201cAnything below 38 on this weekly RSI is going to be a breakdown of that $0.143 to $0.127 range, which would be very, very sketchy at that point,\u201d he warned. Momentum indicators on multiple time frames are sending mixed signals. The daily chart is flashing oversold conditions, and Kevin\u2019s custom indicator lit up with a buy signal. On the 3-day timeframe, market cipher\u2019s momentum wave is \u201ckind of trying to clip\u201d upward, while money flow is beginning to tick slightly higher. \u201cThat three-day candle was very nice,\u201d he added. \u201cThat\u2019s the kind you want to see\u2014strong demand candles at major support.\u201d Related Reading: Dogecoin About To Explode? \u2018Don\u2019t Send It Too Hard,\u2019 Analyst Warns Still, Kevin urged caution. \u201cIf that doesn\u2019t work out and we start to head lower, the daily time frame doesn\u2019t produce the buy signal, doesn\u2019t produce much upside, we start to roll over\u2014then you know your Dogecoin support.\u201d DOGE/BTC Remains The Focus On the DOGE/BTC pair, Kevin noted that Dogecoin has returned to an \u201corange zone\u201d he previously highlighted as critical support. The strength of that zone may determine whether DOGE can hold relative strength against Bitcoin\u2014or continue to bleed lower as BTC dominance increases. \u201cDoge will follow Bitcoin at the end of the day,\u201d he reiterated. \u201cAnyone not doing their Dogecoin analysis in tandem with Bitcoin and USDT dominance\u2014be suspect of that analysis.\u201d Kevin concluded with a warning rooted in experience. \u201cI\u2019ve been in this game a long time. The first move out of these patterns\u2026 sometimes it\u2019s the wrong move. It traps people.\u201d While a reversal may be underway, confirmation is everything\u2014and the climb above $0.19 remains the gatekeeper. For now, Dogecoin teeters on the edge. The signals are there\u2014but so is the risk. At press time, DOGE traded at $0.166. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Fast-Tracking A Bitcoin Rally: Expert Identifies 3 Bullish Catalysts",
       "link": "https://www.newsbtc.com/bitcoin-news/fast-tracking-a-bitcoin-rally-expert-identifies-3-bullish-catalysts/",
@@ -100,11 +105,6 @@
       "title": "Tron\u2019s 374% Profit-Taking Spree Uncovered\u2014Here\u2019s Who Was Behind It",
       "link": "https://www.newsbtc.com/news/tron-trx/trons-374-profit-taking-spree-who-was-behind-it/",
       "summary": "On-chain data shows Tron (TRX) observed a large profit-taking spike earlier in the month. Which type of holder was responsible for the move? Tron SOPR Saw A Huge Spike Earlier In The Month In a CryptoQuant Quicktake post, analyst Maartunn has talked about the recent trend in the Spent Output Profit Ratio (SOPR) of Tron. The SOPR refers to an on-chain indicator that tells us about whether the TRX investors are moving or selling their coins at a profit or loss. The indicator works by going through the transfer history of each coin being moved to see what price it was last transacted at. Coins that have this cost basis above the current spot price are contributing to loss realization, while those with the opposite setup to profit realization. Related Reading: Crypto Bears Rekt: $359M Gone As Bitcoin, Ethereum Rebound The SOPR takes the ratio between the spent value and cost basis, and sums it up for all coins being sold on the blockchain to find a net situation for the market as a whole. When the value of the indicator is greater than 1, it means the investors are, on average, realizing a profit through their transactions. On the other hand, the metric being under this threshold suggests the dominance of loss realization in the market. Now, here is the chart shared by the quant that shows the trend in the Tron SOPR over the past year: As displayed in the above graph, the Tron SOPR saw a huge spike above the 1 mark earlier in the month, implying investors took part in a significant amount of profit-taking. From the chart, it&#8217;s also visible that there were other profit realization spikes during the past year, but the current one stands out for its scale. The latest peak in the metric saw its value go to 4.74, corresponding to a profit margin of 374%. &#8220;With TRX priced at $0.268 at the time, the average acquisition price for those coins would have been around $0.0566,&#8221; explains Maartunn. Interestingly, Tron hasn&#8217;t seen extended periods around this price mark since late 2022, meaning that the tokens would have been held for a good while before being finally transacted this month. Usually, when dormant hands break their silence, it&#8217;s likely to be for selling-related purposes. That said, it&#8217;s not the only reason they may do so. &#8220;The activity could be tied to early investors realizing gains, internal transfers, or reallocation decisions,&#8221; notes the analyst. Related Reading: This Bitcoin Zone Could Be Market\u2019s Next True \u2018Pivot,\u2019 Says Glassnode In some other news, the USDT supply on the Tron network has reached a new milestone, as institutional DeFi solutions provider Sentora (formerly IntoTheBlock) has pointed out in an X post. There is now over $80 billion in USDT supply circulating on Tron, the second-most out of any cryptocurrency network. TRX Price At the time of writing, Tron is trading around $0.273, up 0.5% over the last 24 hours. Featured image from Dall-E, IntoTheBlock.com, CryptoQuant.com, chart from TradingView.com"
-    },
-    {
-      "title": "XRP Price Fails to Hold Above $2.20 \u2014 Is Support Building on Pullbacks?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-fails-to-hold-2-20/",
-      "summary": "XRP price started a fresh increase from the $2.050 zone. The price is back above $2.10 and might struggle to continue higher above the $2.20 zone. XRP price started a fresh increase above the $2.120 zone. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. There is a bullish trend line forming with support at $2.080 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move up if it closes above the $2.20 resistance zone. XRP Price Faces Hurdles XRP price remained supported above the $2.00 zone and started a fresh increase, like Bitcoin and Ethereum. The price recovered above the $2.020 and $2.080 resistance levels. The pair even cleared the $2.150 resistance and spiked above the $2.20 barrier. However, the bears were active above the $2.20 zone. A high was formed at $2.215 and the price is now correcting some gains. There was a move below the $2.00 level, but the price is still above the 23.6% Fib retracement level of the upward move from the $1.910 swing low to the $2.2150 high. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. Besides, there is a bullish trend line forming with support at $2.080 on the hourly chart of the XRP/USD pair. On the upside, the price might face resistance near the $2.20 level. The first major resistance is near the $2.220 level. The next resistance is $2.250. A clear move above the $2.250 resistance might send the price toward the $2.320 resistance. Any more gains might send the price toward the $2.350 resistance or even $2.420 in the near term. The next major hurdle for the bulls might be $2.50. Another Drop? If XRP fails to clear the $2.20 resistance zone, it could start another decline. Initial support on the downside is near the $2.150 level. The next major support is near the $2.080 level. If there is a downside break and a close below the $2.080 level, the price might continue to decline toward the $2.020 support or the 61.8% Fib retracement level of the upward move from the $1.910 swing low to the $2.2150 high. The next major support sits near the $1.950 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.150 and $2.080. Major Resistance Levels \u2013 $2.20 and $2.250."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Crypto stocks rally on ceasefire optimism \u2013 But will it last?",
+      "link": "https://ambcrypto.com/crypto-stocks-rally-on-ceasefire-optimism-but-will-it-last/",
+      "summary": "<img alt=\"Crypto stocks rally on ceasefire optimism - But will it last?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-7-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />4,000 BTC and 61,000 ETH exit Binance as geopolitical and inflation fears ease."
+    },
+    {
+      "title": "How to increase Bitcoin miner profitability",
+      "link": "https://ambcrypto.com/how-to-increase-bitcoin-miner-profitability/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"618\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-25-152305.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"929\" />As Bitcoin network difficulty continues to rise, electricity costs increase, and mining hardware prices become [&#8230;]"
+    },
+    {
       "title": "Japan proposes crypto ETFs and tax cuts: Could this unlock $34B in assets?",
       "link": "https://ambcrypto.com/japan-proposes-crypto-etfs-and-tax-cuts-could-this-unlock-34b-in-assets/",
       "summary": "<img alt=\"Japan&#039;s FSA to reclassify crypto assets, potentially allow ETFs and reduced crypto taxes\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Japan-FSA-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Japan's FSA noted that there were more than 12 million domestic crypto accounts as of January 2025, holding assets worth $34 billion."
@@ -203,16 +213,6 @@
       "title": "SEI price prediction \u2013 Will $0.3 resistance fall soon? Here\u2019s what traders should know!",
       "link": "https://ambcrypto.com/sei-price-prediction-will-0-3-resistance-fall-soon-heres-what-traders-should-know/",
       "summary": "<img alt=\"SEI price prediction - Will $0.3 resistance fall soon? Here&#039;s what traders should know!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Sei-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />This is not the time to FOMO into long or short positions, but rather a good time for SEI longs to take profits."
-    },
-    {
-      "title": "How Macro FUD can affect Bitcoin and fuel a \u2018different\u2019 altcoin season",
-      "link": "https://ambcrypto.com/how-macro-fud-can-affect-bitcoin-and-fuel-a-different-altcoin-season/",
-      "summary": "<img alt=\"How Macro FUD can affect Bitcoin and fuel a &#039;different&#039; altcoin season\" class=\"attachment-full size-full wp-post-image\" height=\"1047\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-1-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1862\" />Caught in the Bitcoin wave, can altcoins stay afloat?"
-    },
-    {
-      "title": "Metaplanet doubles down on Bitcoin with new $5 billion capital infusion \u2013 Details!",
-      "link": "https://ambcrypto.com/metaplanet-doubles-down-on-bitcoin-with-new-5-billion-capital-infusion-details/",
-      "summary": "<img alt=\"Metaplanet doubles down on Bitcoin with new $5 billion capital infusion - Details!\" class=\"attachment-full size-full wp-post-image\" height=\"659\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Metaplanet-Allocates-5-Billion.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1171\" />Bitcoin is on its way to recovery, and Metaplanet is seeing that."
     }
   ]
 }
