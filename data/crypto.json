@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Newest 'Star' in Sky Ecosystem Launches With $1B Tokenized Credit Strategy",
+      "link": "https://www.coindesk.com/business/2025/06/25/newest-star-in-sky-ecosystem-launches-with-1b-tokenized-credit-strategy",
+      "summary": ""
+    },
+    {
       "title": "Baanx Adds BNB Support on Its Crypto Card for UK, EU, LATAM",
       "link": "https://www.coindesk.com/business/2025/06/25/baanx-s-crypto-life-card-adds-support-for-bnb-across-uk-eu-latam",
       "summary": ""
@@ -19,41 +24,46 @@
       "title": "Chinese Marketing Company Aurora Mobile Plans to Adopt Crypto Treasury",
       "link": "https://www.coindesk.com/business/2025/06/25/chinese-marketing-company-aurora-mobile-plans-to-adopt-crypto-treasury",
       "summary": ""
-    },
-    {
-      "title": "XRP Ledger Brings Token Escrow, Other Upgrades for DEXs in New Release",
-      "link": "https://www.coindesk.com/tech/2025/06/25/xrp-ledger-brings-token-escrow-other-upgrades-for-dexs-in-new-release",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "German regulator closes case against Ethena GmbH over USDe issuance",
+      "link": "https://cointelegraph.com/news/ethena-bafin-usde-redemption-plan-eu-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgxODYtZTAyOS03ZmYyLTgyNjctNDJlMjNmNTYyMTMy.jpg\" /></p><p>Ethena Labs and Germany\u2019s BaFin have agreed on a 42-day USDe redemption plan, marking the end of a months-long regulatory dispute.</p>"
+    },
+    {
+      "title": "Crypto in a time of crisis: Can decentralized fintech hold the line?",
+      "link": "https://cointelegraph.com/news/crypto-in-a-time-of-crisis-can-decentralized-fintech-hold-the-line?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzVmZGUtNTA4Zi03ODlhLWEzZTYtMzExZWQ4ZjkwNjhi.jpg\" /></p><p>As tensions escalate around the globe, Byte-Sized Insight explores how crypto behaves in crisis, from Bitcoin\u2019s market resilience to blockchain\u2019s role in preserving journalism and dispersing aid.</p>"
+    },
+    {
+      "title": "Animoca-backed Moca Chain launches for decentralized digital identity",
+      "link": "https://cointelegraph.com/news/animoca-moca-chain-launches-to-allow-privacy-preserving-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E2YjAtOTlhMy03OWJiLWE0MGItZWNlMGU5NzA2MjIw.jpg\" /></p><p>Moca Chain is a new EVM-compatible layer-1 network designed for decentralized, privacy-preserving identity verification.</p>"
+    },
+    {
+      "title": "Russian ruble stablecoin A7A5 tied to Garantex successor: FT",
+      "link": "https://cointelegraph.com/news/russian-ruble-stablecoin-a7a5-grinex-link-garantex-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E2YjgtMzcyMy03Y2FiLTgxOGMtYmUwOWZlMmVlYjRh.jpg\" /></p><p>With a $151 million market cap, A7A5 has reportedly been involved in $9.3 billion of transactions with Grinex, the supposed successor to the sanctioned Garantex exchange.</p>"
+    },
+    {
       "title": "South Korean banks plan won-pegged stablecoin launch by 2026",
       "link": "https://cointelegraph.com/news/korean-banks-to-launch-won-pegged-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E2YjUtYzFlNi03MjM0LWJlNjctMjMwZDNlZTA1NTg4.jpg\" /></p><p>Eight major banks in South Korea are working on a stablecoin backed by the won, aiming to protect the currency from the growing US dollar dominance.</p>"
-    },
-    {
-      "title": "Bitcoin hashrate down ~15% since June 15, steepest drop in 3 years",
-      "link": "https://cointelegraph.com/news/bitcoin-hashrate-down-15-since-june-15-biggest-drop-in-3-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGI3ZDYtZmM1Zi03YjIxLWFmZTAtMjI3MzUyZDJjMmNi.jpg\" /></p><p>In what looks to be the most dramatic decline in three years, Bitcoin\u2019s hashrate dropped over 15% between June 15 and Tuesday.</p>"
-    },
-    {
-      "title": "BIS says stablecoins fail as money, calls for strict limits on their role",
-      "link": "https://cointelegraph.com/news/stablecoins-fail-money-bis-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E2YzQtNDZhNi03OTBmLWExNWQtN2ViNGMxMzk3ZmFk.jpg\" /></p><p>BIS says stablecoins fall short on key monetary principles, warning of financial crime risks and threats to monetary sovereignty.</p>"
-    },
-    {
-      "title": "Bitcoin price analysis now sees up to $111K liquidity grab next",
-      "link": "https://cointelegraph.com/news/bitcoin-price-analysis-now-sees-up-to-111k-liquidity-grab-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E2YjktZTczYS03YWQwLTllYjMtNGNmM2Q5ZmFlODA4.jpg\" /></p><p>Bitcoin exchange order books reveal a liquidity showdown in waiting as BTC price consolidates in a narrow range.</p>"
-    },
-    {
-      "title": "XRP price \u2018breakout is coming\u2019 between July and September: Analyst",
-      "link": "https://cointelegraph.com/news/xrp-price-breakout-is-coming-between-july-and-september-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0ZDItOGRlMC03YzJhLThlYjQtMGU5YzVlMTAwNWMy.jpg\" /></p><p>Historical analysis suggests XRP\u2019s big breakout could come between July and mid-September if the price overcomes resistance at $2.40.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "South Korea\u2019s biggest banks unite for won-backed stablecoin to reclaim monetary sovereignty",
+      "link": "https://cryptoslate.com/south-koreas-biggest-banks-unite-for-won-backed-stablecoin-to-reclaim-monetary-sovereignty/",
+      "summary": "<p>South Korea\u2019s eight largest commercial banks have joined forces to launch a Korean-won-pegged stablecoin, forming the country\u2019s first unified financial consortium dedicated to this purpose. The initiative, quietly coordinated by the Open Blockchain &#38; DID Association and overseen by the Financial Supervisory Service (FSS), aims to pilot issuance by early 2026 The participating banks, KB [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Near Protocol faces pivotal vote to slash token inflation by half",
+      "link": "https://cryptoslate.com/near-protocol-faces-pivotal-vote-to-slash-token-inflation-by-half/",
+      "summary": "<p>A new proposal from HOT Protocol, a decentralized group operating on the NEAR Protocol, has called for a significant reduction in the AI crypto project&#8216;s token inflation rate. On June 24, the decentralized organization submitted a plan to slash NEAR&#8217;s annual inflation rate from 5% to 2.5%. The proposal aims to enhance the long-term sustainability [&#8230;]</p> <p>"
+    },
     {
       "title": "Coinbase and Tether backed sting helps Secret Service freeze $225M from crypto scammers",
       "link": "https://cryptoslate.com/coinbase-and-tether-backed-sting-helps-secret-service-freeze-225m-from-crypto-scammers/",
@@ -68,19 +78,14 @@
       "title": "Melania insiders dump $35M in tokens as price crashes over 98%",
       "link": "https://cryptoslate.com/insights/melania-insiders-dump-35m-in-tokens-as-price-crashes-over-98/",
       "summary": "<p>Data from Lookonchain has revealed that the Solana-based MELANIA memecoin team has sold over 8% of its total supply in the past four months. According to the blockchain analytics platform, wallets tied to the MELANIA team offloaded 82.18 million tokens, equivalent to around 8.2% of the token&#8217;s total 1 billion supply, between March and June. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "XRP Ledger\u2019s new upgrade looks to fuel institutional interest for the network",
-      "link": "https://cryptoslate.com/xrp-ledgers-new-upgrade-looks-to-fuel-institutional-interest-for-the-network/",
-      "summary": "<p>The XRP Ledger (XRPL) has launched version 2.5.0 of its core software, according to a June 24 statement. This update introduces a suite of upgrades designed to enhance network performance, support enterprise-grade functionality, and strengthen regulatory compliance. Market observers noted that the update reflects Ripple&#8217;s broader push to position XRPL as a viable alternative to [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Arizona state won\u2019t buy Bitcoin \u2013 But is happy to seize and hold it",
-      "link": "https://cryptoslate.com/arizona-state-wont-buy-bitcoin-but-is-happy-to-seize-and-hold-it/",
-      "summary": "<p>HB 2324 heads to the governor\u2019s desk after House vote, establishing a U.S. first: a state-run Bitcoin reserve funded entirely by forfeited digital assets The Arizona House of Representatives passed House Bill 2324 on Tuesday, approving legislation to create the first Bitcoin reserve in the United States funded solely through seized digital assets. The 34\u201322 [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "XRP Whales Go All-In On Altcoin Dip, Calling Sub-$2 Prices A \u2018Gift\u2019",
+      "link": "https://www.newsbtc.com/altcoin/xrp-whales-go-all-in-on-altcoin-dip-calling-sub-2-prices-a-gift/",
+      "summary": "XRP climbed more than 7% in a single day, jumping from about $1.92 over the weekend to $2.20 today. Traders say Bitcoin\u2019s move back above $106K gave altcoins a breather after a rough patch. That lift sent XRP bulls into a frenzy and set off fresh chatter about how high the coin could go. Related Reading: Bunker Buster: Ethereum Titans Stake $100 Million Amid US-Iran Hostilities XRP Whales Loading Up Under $2 According to Crypto Bitlord, big players made their move when XRP dipped below $2. He called those dips a \u201cgift\u201d for anyone who believes in a $7 target. That kind of confident talk can spark FOMO fast. When whales buy millions of dollars\u2019 worth of XRP, smaller investors want in, too. Monster whales are loading the $XRP dip. Anything under $2 is a gift. When you know it\u2019s going to $7 it\u2019s no longer gambling. It\u2019s pure belief. \u2014 Crypto Bitlord (@crypto_bitlord7) June 23, 2025 Bullish Targets In Sight Based on reports from social channels, Crypto Bitlord reckons XRP\u2019s next stop is $7\u2014and he doesn\u2019t expect the price to fall below $2 again. In his words, \u201cNot in this lifetime.\u201d To reach $7 from today\u2019s level, XRP needs to climb about 210%. That jump would lift its market cap above $410 billion and push its fully diluted cap near $700 billion. $XRP will never be under $2 again. Not in this lifetime. \u2014 Crypto Bitlord (@crypto_bitlord7) June 23, 2025 ETF And Institutional Buzz A growing number of spot XRP ETF applications has fed more optimism. Bitcoin analyst George Tung put an $8 price tag on XRP for year-end, calling that a safe estimate. Crypto analyst Bearable Bull agreed on $8, saying it\u2019d mark the start of a new chapter. Some even think $10 is too low. All this buzz is a sign that institutions are eyeing XRP hard. $8 XRP Is Next \ud83d\ude08 The Generational Wealth Journey For XRP Is About To Come To An End.. So It\u2019s Time For A Brand New Beginning \ud83e\udd19 The Man Behind The Bull Has Arrived \ud83d\ude24\ud83d\udc02 My Privacy Has Been Key For The Past 7 Years As I\u2019ve Built Numerous Successful Businesses In Crypto\u2026 pic.twitter.com/g0EOyr6bBp \u2014 The Bearable Bull (@thebearablebull) May 22, 2025 Legal Clarity And Market Moves Meanwhile, regulatory decisions will play a big part in whether belief turns into reality. XRP\u2019s long fight with regulators has hung over it for years. If courts give a clear green light, we could see similar jumps in other tokens. If not, bulls may have to wait even longer. Investors shouldn\u2019t count on instant fireworks just because someone yells \u201c$7.\u201d It takes real-world adoption, legal wins, and big-money backing to push prices that high. Markets have surprised us before. This time, though, faith will only go so far without solid proof. Related Reading: Bitcoin Paces $15 Billion YTD Influx Amid 10-Week Fund Flow Streak Overall, today\u2019s rally shows how much belief drives crypto moves. People buy with their guts as much as their brains. XRP\u2019s next chapters will depend on both confidence and concrete wins. Featured image from Imagen, chart from TradingView"
+    },
     {
       "title": "Crypto Rally Or Crash? Powell Just Made July The Market\u2019s Make-Or-Break",
       "link": "https://www.newsbtc.com/news/crypto-rally-or-crash-powell-july-make-or-break/",
@@ -100,14 +105,14 @@
       "title": "Fast-Tracking A Bitcoin Rally: Expert Identifies 3 Bullish Catalysts",
       "link": "https://www.newsbtc.com/bitcoin-news/fast-tracking-a-bitcoin-rally-expert-identifies-3-bullish-catalysts/",
       "summary": "The cryptocurrency market is currently experiencing heightened volatility, particularly with Bitcoin (BTC) fluctuating dramatically. Recently, the price dipped below $99,000 before rebounding to over $106,000 within a span of just 24 hours. Bullish Bitcoin Setup Amid Geopolitical Tensions In a recent post on social media platform X (formerly Twitter), analyst Cyclop suggested that despite the current market conditions, BTC exhibits a bullish setup reminiscent of the patterns seen in March 2020. The analyst noted that Bitcoin appears to be mirroring its past movements, with a brief dip followed by a rally for both BTC and altcoins. Cyclop drew parallels between the ongoing geopolitical tensions involving Israel, Iran, and the US and the market dynamics observed during the COVID-19 crash. Related Reading: Dogecoin About To Explode? \u2018Don\u2019t Send It Too Hard,\u2019 Analyst Warns While acknowledging that geopolitical strife and global market panic are distinct issues, he pointed out that both scenarios resulted in sharp but temporary sell-offs followed by swift recoveries. According to Cyclop, the current market setup displays similar characteristics: widespread fear, a risk-off sentiment among investors, and global uncertainty. He emphasized the importance of understanding the timing of resolution to these tensions, suggesting that for a robust rally, several bullish catalysts are necessary to alleviate market uncertainty. He identified three key factors: potential interest rate cuts, a ceasefire between Iran and Israel, and Bitcoin holding crucial support levels. $120,000 By Year-End? Recently, a ceasefire was declared following 12 days of intense conflict between Iran and Israel. In a notable public statement, President Donald Trump criticized both nations, suggesting that their actions were misguided. This period of relative calm is seen as a positive indicator for the market. Cyclop highlighted that maintaining the $100,000 level for Bitcoin was crucial, and the cryptocurrency has successfully broken through the $106,000 barrier, signaling further growth. Furthermore, Ethereum (ETH) has also shown signs of a quick recovery alongside Bitcoin with its price nearing the key $2,500 level. Cyclop advised investors not to attempt to time the market perfectly, as reversals can often feel unsettling and uncertain. Related Reading: Ethereum Bounces Hard After Support Bluff, A False Alarm Or Fresh Rally? Looking ahead, Cyclop anticipates a consolidation phase for Bitcoin within the $102,000 to $106,000 range, with expectations of a breakout that could push BTC to an all-time high of around $120,000 by November or December of this year. As of this writing, Bitcoin is trading at $106,500 per coin. Despite ongoing economic uncertainties, the market\u2019s leading cryptocurrency has seen a 75% increase year-to-date. However, Bitcoin is still trading nearly 5% below its record high of $111,800, which was reached on May 23. The most important resistance level is $110,200, which has prevented a new price discovery phase for Bitcoin on two occasions. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Price Crash Below $100,000: Pundit Reveals Next Area Of Action To Start Buying",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-crash-100000-2/",
-      "summary": "After the Bitcoin price breakdown below $100,000 over the weekend, multiple new narratives have emerged for where the digital asset may be headed. Calls for the next Bitcoin bear market continue to ring loud as analysts predict lower prices. One crypto analyst, known on X as Astronomer, has taken to the platform to give investors a possible roadmap of where the cryptocurrency is headed next and where to start buying for maximum gains. Next Course Of Action After Crash Following the Bitcoin price crash, Astronomer pointed out that the price had fallen below the expected close. However, it seems that the decline was not completely over, as there could be another final drop. This could come after the market reversal that has taken hold over the last few days, presenting another buy opportunity. Related Reading: XRP Price At Risk Of 20% Crash To $1.55 If This Level Fails To Hold From here, the crypto analyst explains that there could be a reversal toward the $95,000 level, and also a possibility of a bounce toward $110,000. As a result of this, the next area of action that investors could start buying from is placed at the $97,000 level, but the price could go lower. Astronomer explains that weekend lows are usually taken out, and with this weekend low still above $97,000, the price could revisit this territory. Nevertheless, the analyst explains that those who have been sidelined throughout the rally, or those who want to begin getting into the market, the Bitcoin price at around $97,000 is a good place to start. In addition to the current market factors, the analyst also points to sentiment and geopolitics as supporting the analysis. \u201cIt&#8217;s a shame we have to take advantage of blood being shed, from what&#8217;s happening in the world, but also from the bears soon at the end of this dip,\u201d the analyst said. Where Is The Bitcoin Price Headed? With the announcement from US President Donald Trump that Israel and Iran have agreed to a ceasefire, the market has already seen a recovery, with the Bitcoin price rallying to $106,000 initially. This has already triggered a turn in the sentiment from Fear back to Greed as investors begin piling in again. Related Reading: Bitcoin Dominance Hits New Cycle High Above 66% \u2013 How This 4-Year ATH Affects Altcoin Season In a subsequent post, Astronomer explains that missing out on the buy below $97,000 is no cause for alarm. But cautions against buying now due to fear. The analyst explains that such a move is not advisable as it could lead to losses, as buying during high euphoric times is not advisable. Given this, it is likely better to wait for a correction before going into the market. \u201cBuying higher now during high euphoric times (especially locally), is a worse idea,\u201d Astronomer warned. \u201cCreate good habits, create a solid plan, and stick to both.\u201d Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin Layer 2: Lightning Network",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-layer-2-lightning-network",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Lightning-Layer-2.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitcoin-layer-2-lightning-network\" rel=\"nofollow\"> </a></p> <p>The third article in the Bitcoin Layer 2 series. This article covers the Lightning Network created by Joseph Poon and Tadge Dryja. </p> <p>"
+    },
     {
       "title": "The Global Bitcoin Treasury Playbook: How Jurisdiction Shapes Capital Strategy",
       "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/the-global-bitcoin-treasury-playbook-how-jurisdiction-shapes-capital-strategy",
@@ -127,14 +132,14 @@
       "title": "Republican Senators Scott, Lummis, Tillis, Hagerty Push For Digital Asset Market Structure Rules",
       "link": "https://bitcoinmagazine.com/news/republican-senators-scott-lummis-tillis-hagerty-push-for-digital-asset-market-structure-rules",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Republican-Senators-Scott-Lummis-Tillis-Hagerty-Push-For-Digital-Asset-Market-Structure-Rules.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/republican-senators-scott-lummis-tillis-hagerty-push-for-digital-asset-market-structure-rules\" rel=\"nofollow\"> </a></p> <p>Republican senators have released principles to guide digital asset market structure legislation, marking a significant step toward regulatory clarity that could benefit Bitcoin and the broader crypto industry. Senate Banking Chairman Tim Scott (R-SC), along with Senators Cynthia Lummis (R-WY), Thom Tillis (R-NC), and Bill Hagerty (R-TN), announced the framework balancing innovation with consumer protection.&#160; [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Anthony Pompliano\u2019s ProCap BTC Buys $386M in Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/anthony-pomplianos-procap-btc-buys-386m-in-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Anthony-Pomplianos-ProCap-BTC-Buys-386M-in-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/anthony-pomplianos-procap-btc-buys-386m-in-bitcoin\" rel=\"nofollow\"> </a></p> <p>ProCap BTC acquires 3,724 bitcoin as part of a strategy to build a $1 billion Bitcoin treasury.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Can AI Crack the Cat Code? Baidu Thinks So",
+      "link": "https://decrypt.co/326907/ai-translate-cat-meows-baidu",
+      "summary": "A new patent proposes translating cat \u201cmeows\u201d and body language into plain speech, but scientists say the technology may still be chasing its tail."
+    },
     {
       "title": "Polymarket Nails NYC Democratic Mayoral Primary Upset, Nears $1B Unicorn Valuation",
       "link": "https://decrypt.co/326892/polymarket-nails-nyc-democratic-mayoral-primary-upset-nears-1b-unicorn-valuation",
@@ -154,14 +159,14 @@
       "title": "Arizona House Clears Bitcoin Reserve Bill Funded by Seized Crypto",
       "link": "https://decrypt.co/326879/arizona-house-clears-bitcoin-reserve-bill-seized-crypto",
       "summary": "The bill directs the first $300,000 from seized crypto to the Attorney General, with the remaining funds split between the state and reserve."
-    },
-    {
-      "title": "Stablecoin Issuance Should Begin With Banks, Says BOK Official",
-      "link": "https://decrypt.co/326876/stablecoin-issuance-should-begin-with-banks-bok-official",
-      "summary": "The Bank of Korea deputy governor said the move would create a \"safety net\u201d and reduce risks as the nation advances its crypto policies."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Blockchain venture Republic to offer digital tokens tracking shares of Elon Musk\u2019s SpaceX",
+      "link": "https://cryptobriefing.com/tokenized-private-shares-spacex/",
+      "summary": "<p>Republic's token initiative could democratize access to high-value private firms, but regulatory hurdles may challenge its long-term viability.</p> <p>"
+    },
     {
       "title": "Arizona Bitcoin Reserve bill HB2324 passes House, heads to Governor Hobbs for signature",
       "link": "https://cryptobriefing.com/arizona-bitcoin-reserve-hb2324/",
@@ -181,14 +186,19 @@
       "title": "Majority Whip Tom Emmer says House will vote on GENIUS stablecoin bill if paired with CLARITY Act",
       "link": "https://cryptobriefing.com/genius-stablecoin-bill-house-vote/",
       "summary": "<p>The potential passage of these bills could significantly shape the regulatory landscape for digital assets, impacting innovation and market dynamics.</p> <p>"
-    },
-    {
-      "title": "CME XRP futures hit $542 million volume in first month, strengthening case for spot XRP ETFs",
-      "link": "https://cryptobriefing.com/cme-xrp-futures-global-demand/",
-      "summary": "<p>The surge in XRP futures trading volume bolsters the likelihood of SEC approval for spot XRP ETFs, potentially transforming crypto investment.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "TRON \u2013 Retail vs. whales: TRX\u2019s next move hinges on THIS\u2026",
+      "link": "https://ambcrypto.com/tron-retail-vs-whales-trxs-next-move-hinges-on-this/",
+      "summary": "<img alt=\"TRX\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Evans-2025-06-25T114403.297-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Old wallets woke up and they brought billions with them."
+    },
+    {
+      "title": "BTCC Exchange Celebrates 14th Anniversary with Launch of First-Ever User Badge Program",
+      "link": "https://ambcrypto.com/btcc-exchange-celebrates-14th-anniversary-with-launch-of-first-ever-user-badge-program/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"664\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-25-at-5.56.40 PM.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1196\" />BTCC, one of the world\u2019s longest-serving exchanges, celebrates its 14th anniversary by launching its first-ever [&#8230;]"
+    },
     {
       "title": "South Korean banks team up to issue Won-backed stablecoin \u2013 Details",
       "link": "https://ambcrypto.com/south-korean-banks-team-up-to-issue-won-backed-stablecoin-details/",
@@ -203,16 +213,6 @@
       "title": "SYRUP crypto jumps 34% but bearish signals emerge \u2013 What\u2019s next?",
       "link": "https://ambcrypto.com/syrup-crypto-jumps-34-but-bearish-signals-emerge-whats-next/",
       "summary": "<img alt=\"SYRUP crypto jumps 34% but bearish signals emerge - What&#039;s next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250625_102109_0000.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SYRUP's rally could lose its bullish momentum."
-    },
-    {
-      "title": "25 Million Funtokens Burned!: How Does The Community React?",
-      "link": "https://ambcrypto.com/25-million-funtokens-burned-how-does-the-community-react/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"900\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/FUN-BURN-PR.jpeg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1600\" />In a decisive move that underscores its commitment to long-term deflationary economics, the FUNToken team [&#8230;]"
-    },
-    {
-      "title": "Crypto stocks rally on ceasefire optimism \u2013 But will it last?",
-      "link": "https://ambcrypto.com/crypto-stocks-rally-on-ceasefire-optimism-but-will-it-last/",
-      "summary": "<img alt=\"Crypto stocks rally on ceasefire optimism - But will it last?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-7-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />4,000 BTC and 61,000 ETH exit Binance as geopolitical and inflation fears ease."
     }
   ]
 }
