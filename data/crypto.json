@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitfinex Securities Is Taking a Different Approach to RWAs, Launches Two New Products in the U.K.",
+      "link": "https://www.coindesk.com/business/2025/06/25/bitfinex-securities-is-taking-a-different-approach-to-rwas-launches-two-new-products-in-the-u-k",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin's Upcoming $14B Options Expiry Marked by Surge in Put-Call Ratio. What Does it Indicate?",
+      "link": "https://www.coindesk.com/markets/2025/06/25/bitcoin-s-put-call-ratio-surges-as-usd14b-options-expiry-looms",
+      "summary": ""
+    },
+    {
       "title": "Asia Morning Briefing: Analysts Say BTC\u2019s Long-Term Focus Is Easing War Jitters",
       "link": "https://www.coindesk.com/markets/2025/06/24/asia-morning-briefing-analysts-say-btcs-long-term-focus-is-easing-war-jitters",
       "summary": ""
@@ -14,26 +24,26 @@
       "title": "BCH Stumbles at $467 After Triple Rejection, Ends Slightly Down Despite High-Volume Rebound",
       "link": "https://www.coindesk.com/markets/2025/06/24/bch-stumbles-at-usd467-after-triple-rejection-ends-slightly-down-despite-high-volume-rebound",
       "summary": ""
-    },
-    {
-      "title": "ZKsync\u2019s Airbender zkVM Proves Ethereum Blocks in 35 Seconds",
-      "link": "https://www.coindesk.com/tech/2025/06/24/zksyncs-airbender-zkvm-proves-ethereum-blocks-in-35-seconds",
-      "summary": ""
-    },
-    {
-      "title": "Chainlink's LINK Surges 13% as Mastercard Partnership Fuels Rally Amid Crypto Recovery",
-      "link": "https://www.coindesk.com/markets/2025/06/24/chainlinks-link-surges-13-as-mastercard-partnership-fuels-rally-amid-crypto-recovery",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Everyone laughed at these 10 gadgets. Now, they\u2019re in every home",
+      "link": "https://cointelegraph.com/news/10-failed-gadgets-that-are-now-everywhere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1Y2MtY2Q0ZC03MTYxLTliMTgtNTdmNDg2ZGNiZTg1.jpg\" /></p><p>From robotic pets and digital currencies to virtual reality, some of the biggest innovations were once considered failures.</p>"
+    },
+    {
+      "title": "South Korea\u2019s central bank wants gradual stablecoin rollout",
+      "link": "https://cointelegraph.com/news/south-korea-central-bank-gradual-stablecoin-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NmQtZDJkOC03M2Y4LWE2NTYtZjU4NzdiMjMyZjM4.jpg\" /></p><p>Bank of Korea governor Ryoo Sangdai reportedly said that banks should be the first to issue stablecoins, and they should do so slowly.</p>"
+    },
     {
       "title": "SharpLink Gaming stock rallies 7% after $30M Ethereum buy",
       "link": "https://cointelegraph.com/news/sharplink-gaming-buys-30m-eth-stock-rallie?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM1YjgtN2M2ZC03ODM4LTkzNzItYjVlNTVhYTdjNWRm.jpg\" /></p><p>SharpLink Gaming has seen its share price jump over 7% after the firm boosted its Ethereum holdings to 188,000 Ether.</p>"
     },
     {
-      "title": "Michael Saylor\u2019s Strategy at 91% odds of qualifying for S&amp;P 500 in Q2: Analyst",
+      "title": "Michael Saylor\u2019s Strategy has 91% chance of joining S&amp;P 500 in Q2: Analyst",
       "link": "https://cointelegraph.com/news/michael-saylor-strategy-sp500-inclusion-odds-financial-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YxMTItZjRkYS03NmYzLWFiMzctZjcxNmMwZDM3MjEz.jpg\" /></p><p>Financial analyst Jeff Walton says Strategy\u2019s odds of S&amp;P 500 eligibility hinge on Bitcoin\u2019s ability to remain above $95,240.</p>"
     },
@@ -41,16 +51,6 @@
       "title": "Anthony Pompliano\u2019s crypto venture buys $386M in Bitcoin",
       "link": "https://cointelegraph.com/news/anthony-pompliano-crypto-venture-buys-386m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4YTUtMTU5YS03MDZiLTg5OGUtNjU1YzU3MjVkZDFj.jpg\" /></p><p>Anthony Pompliano\u2019s crypto firm ProCap has purchased 3,724 Bitcoin after announcing a $1 billion plan to go public later this year.</p>"
-    },
-    {
-      "title": "Norway deep-sea mining firm plans $1.2B Bitcoin buy",
-      "link": "https://cointelegraph.com/news/norwegian-deep-sea-mining-firm-adopting-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1MDYtZmYwMC03ODA5LThmYjUtMWJmZDI5ZTNkZjQy.jpg\" /></p><p>Green Minerals says it will raise $1.2 billion to buy Bitcoin and plans to adopt blockchain technology in areas such as supply chain transparency and operational efficiency.</p>"
-    },
-    {
-      "title": "Polymarket set for $200M raise at $1B valuation: Reports",
-      "link": "https://cointelegraph.com/news/polymarket-set-for-200m-raise-1b-valuation-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E0ZTctNmU1Zi03MGFmLWEzYTktZjk5Mzg4ZmQzYWYx.jpg\" /></p><p>Betting platform Polymarket is reportedly set to be valued at $1 billion in a $200 million raise led by Peter Thiel\u2019s Founders Fund.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Solana (SOL) Breakout Watch: Price Could Rally Hard Above $150 Level?",
+      "link": "https://www.newsbtc.com/analysis/solana-sol-breakout-150/",
+      "summary": "Solana started a fresh increase from the $125 zone. SOL price is now consolidating gains and aims for more gains above the $150 level. SOL price started a fresh increase above the $132 zone against the US Dollar. The price is now trading above $142 and the 100-hourly simple moving average. There is a key bullish trend line forming with support at $142 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $150 resistance zone. Solana Price Aims For More Gains Solana price remained supported above $125 and started a fresh increase, like Bitcoin and Ethereum. SOL gained pace and traded above the $132 resistance level. The bulls pushed the price above the $142 and $145 levels. They are now facing hurdles near $148 and $150. A high was formed at $147 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $126 swing low to the $147 swing high. Solana is now trading above $142 and the 100-hourly simple moving average. There is also a key bullish trend line forming with support at $142 on the hourly chart of the SOL/USD pair. On the upside, the price is facing resistance near the $148 level. The next major resistance is near the $150 level. The main resistance could be $155. A successful close above the $155 resistance zone could set the pace for another steady increase. The next key resistance is $160. Any more gains might send the price toward the $165 level. Another Decline in SOL? If SOL fails to rise above the $150 resistance, it could start another decline. Initial support on the downside is near the $142 zone. The first major support is near the $136 level or the 50% Fib retracement level of the upward move from the $126 swing low to the $147 swing high. A break below the $136 level might send the price toward the $130 zone. If there is a close below the $130 support, the price could decline toward the $125 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is losing pace in the bullish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is above the 50 level. Major Support Levels \u2013 $142 and $136. Major Resistance Levels \u2013 $148 and $150."
+    },
+    {
       "title": "Tron\u2019s 374% Profit-Taking Spree Uncovered\u2014Here\u2019s Who Was Behind It",
       "link": "https://www.newsbtc.com/news/tron-trx/trons-374-profit-taking-spree-who-was-behind-it/",
       "summary": "On-chain data shows Tron (TRX) observed a large profit-taking spike earlier in the month. Which type of holder was responsible for the move? Tron SOPR Saw A Huge Spike Earlier In The Month In a CryptoQuant Quicktake post, analyst Maartunn has talked about the recent trend in the Spent Output Profit Ratio (SOPR) of Tron. The SOPR refers to an on-chain indicator that tells us about whether the TRX investors are moving or selling their coins at a profit or loss. The indicator works by going through the transfer history of each coin being moved to see what price it was last transacted at. Coins that have this cost basis above the current spot price are contributing to loss realization, while those with the opposite setup to profit realization. Related Reading: Crypto Bears Rekt: $359M Gone As Bitcoin, Ethereum Rebound The SOPR takes the ratio between the spent value and cost basis, and sums it up for all coins being sold on the blockchain to find a net situation for the market as a whole. When the value of the indicator is greater than 1, it means the investors are, on average, realizing a profit through their transactions. On the other hand, the metric being under this threshold suggests the dominance of loss realization in the market. Now, here is the chart shared by the quant that shows the trend in the Tron SOPR over the past year: As displayed in the above graph, the Tron SOPR saw a huge spike above the 1 mark earlier in the month, implying investors took part in a significant amount of profit-taking. From the chart, it&#8217;s also visible that there were other profit realization spikes during the past year, but the current one stands out for its scale. The latest peak in the metric saw its value go to 4.74, corresponding to a profit margin of 374%. &#8220;With TRX priced at $0.268 at the time, the average acquisition price for those coins would have been around $0.0566,&#8221; explains Maartunn. Interestingly, Tron hasn&#8217;t seen extended periods around this price mark since late 2022, meaning that the tokens would have been held for a good while before being finally transacted this month. Usually, when dormant hands break their silence, it&#8217;s likely to be for selling-related purposes. That said, it&#8217;s not the only reason they may do so. &#8220;The activity could be tied to early investors realizing gains, internal transfers, or reallocation decisions,&#8221; notes the analyst. Related Reading: This Bitcoin Zone Could Be Market\u2019s Next True \u2018Pivot,\u2019 Says Glassnode In some other news, the USDT supply on the Tron network has reached a new milestone, as institutional DeFi solutions provider Sentora (formerly IntoTheBlock) has pointed out in an X post. There is now over $80 billion in USDT supply circulating on Tron, the second-most out of any cryptocurrency network. TRX Price At the time of writing, Tron is trading around $0.273, up 0.5% over the last 24 hours. Featured image from Dall-E, IntoTheBlock.com, CryptoQuant.com, chart from TradingView.com"
@@ -100,11 +105,6 @@
       "title": "Ethereum Price Targets Upside Break \u2014 Will Momentum Carry It Past the Hurdles?",
       "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-targets-upside-2500/",
       "summary": "Ethereum price started a fresh increase above the $2,220 zone. ETH is now showing positive signs and might aim for a move above the $2,550 zone. Ethereum started a fresh upward move above the $2,220 level. The price is trading above $2,320 and the 100-hourly Simple Moving Average. There is a connecting bullish trend line forming with support at $2,390 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it settles above the $2,500 resistance zone in the near term. Ethereum Price Eyes More Gains Ethereum price started a fresh increase above the $2,200 support level, like Bitcoin. ETH price was able to clear the $2,220 and $2,250 resistance levels to move into a positive zone. The bulls even pushed the price above the 61.8% Fib retracement level of the downward wave from the $2,568 swing high to the $2,115 low. However, they are now facing hurdles near the $2,480 and $2,500 levels. Ethereum price is now trading above $2,320 and the 100-hourly Simple Moving Average. The price is now just above the 76.4% Fib retracement level of the downward wave from the $2,568 swing high to the $2,115 low. On the upside, the price could face resistance near the $2,500 level. The next key resistance is near the $2,550 level. The first major resistance is near the $2,565 level. A clear move above the $2,565 resistance might send the price toward the $2,650 resistance. An upside break above the $2,650 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,500 resistance, it could start a fresh decline. Initial support on the downside is near the $2,390 level and the trend line. The first major support sits near the $2,350 zone. A clear move below the $2,350 support might push the price toward the $2,320 support. Any more losses might send the price toward the $2,250 support level in the near term. The next key support sits at $2,150. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,350 Major Resistance Level \u2013 $2,500"
-    },
-    {
-      "title": "Bitcoin Poised For Rally As Geopolitical Tensions Ease And Inflation Expectations Fall",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-poised-for-rally-as-geopolitical-tensions-ease-and-inflation-expectations-fall/",
-      "summary": "Leading crypto exchange Binance witnessed a significant outflow of Bitcoin (BTC) and Ethereum (ETH) on June 23, with investors pulling out over 4,000 BTC and 61,000 ETH in a single day. This shift comes amid easing geopolitical tensions and declining inflation, fuelling speculation about a renewed rally. Bitcoin Likely To Rally As Global Tensions Simmer According to a recent CryptoQuant Quicktake post by contributor Amr Taha, Bitcoin is likely to resume its upward trajectory, bolstered by a series of recent macroeconomic and geopolitical developments. The analyst highlighted multiple positive signals that could propel the top digital asset closer to its all-time high (ATH). Related Reading: Bitcoin Yearly Trend Suggests Cycle Top Near $205,000 By Year-End, Analyst Says One of the key developments was an announcement by US President Donald Trump, who stated that a ceasefire agreement had been reached between Israel and Iran. This deal removes the immediate threat of Iran closing the Strait of Hormuz, a vital chokepoint for global oil supply. The ceasefire had an immediate and positive effect on global equity markets, with the S&#38;P 500 index surpassing 6,000 for the first time since February 2025. This recovery signals growing investor confidence as geopolitical risks subside. In addition, crude oil prices dropped by 14%, adding to the disinflationary narrative. Lower energy costs help reduce production and transportation expenses, thereby supporting a broader decline in inflationary pressures. Taha concluded: The convergence of significant crypto outflows from Binance, falling oil prices, a bullish breakout in US equities, and the reduction of Middle Eastern tensions presents a striking scenario. With the geopolitical overhang removed, inflation easing, and macro markets stabilizing, Bitcoin is now well-positioned to resume its upward trajectory. Meanwhile, Bitcoin whales &#8211; wallets holding large amounts of BTC &#8211; appear to be quietly accumulating in anticipation of a breakout. In another CryptoQuant post, contributor Mignolet noted that whale accumulation has been rising steadily since BTC bottomed in April. Mignolet pointed out that whale activity typically increases during periods of low market attention or heightened fear, often foreshadowing bullish reversals. Historical data supports this trend, showing that increased accumulation often precedes significant price surges. Bullish Quarter For BTC In an X post published today, seasoned crypto analyst Titan of Crypto stated that BTC is set to close a bullish monthly candle, reinforcing the long-term uptrend for the flagship cryptocurrency. Several other on-chain and technical indicators also suggest further upside potential. For example, Bitcoin Binary CDD shows that long-term holders are continuing to hold rather than sell, indicating strong conviction in BTC\u2019s long-term value. Related Reading: Bitcoin Forming Inverse Head And Shoulders Pattern \u2013 Is $150,000 The Next Target? At the same time, the number of short positions is climbing as BTC consolidates between $100,000 and $110,000. This dynamic raises the probability of a short squeeze, potentially propelling Bitcoin to a new ATH. At press time, BTC trades at $105,408, up 5.2% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant, X, and TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Arizona House Clears Bitcoin Reserve Bill Funded by Seized Crypto",
+      "link": "https://decrypt.co/326879/arizona-house-clears-bitcoin-reserve-bill-seized-crypto",
+      "summary": "The bill directs the first $300,000 from seized crypto to the Attorney General, with the remaining funds split between the state and reserve."
+    },
+    {
       "title": "Stablecoin Issuance Should Begin With Banks, Says BOK Official",
       "link": "https://decrypt.co/326876/stablecoin-issuance-should-begin-with-banks-bok-official",
       "summary": "The Bank of Korea deputy governor said the move would create a \"safety net\u201d and reduce risks as the nation advances its crypto policies."
@@ -154,11 +159,6 @@
       "title": "Senate Banking Committee Sets Out Plan For Crypto Market Rules",
       "link": "https://decrypt.co/326866/senate-banking-committee-plan-crypto-market-rules",
       "summary": "The principles aim to define digital asset oversight as debates over Trump-linked crypto profits and federal legislation intensify."
-    },
-    {
-      "title": "Bernie Sanders Blasts AI Firms Over Jobs Displacement: \u2018They Couldn\u2019t Care Less\u2019",
-      "link": "https://decrypt.co/326863/bernie-sanders-blasts-ai-firms-job-displacement",
-      "summary": "Vermont Senator Bernie Sanders warned that AI will uproot workers unless reforms shift power from CEOs to the American people."
     }
   ],
   "CryptoBriefing": [
