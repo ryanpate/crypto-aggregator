@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Holds Above $107K Ahead of Friday\u2019s Big Options Expiry With $102K Max Pain Price",
+      "link": "https://www.coindesk.com/markets/2025/06/26/btc-holds-above-107k-ahead-of-fridays-big-options-expiry-with-102k-max-pain-price",
+      "summary": ""
+    },
+    {
+      "title": "Lingerie Fighting Championships to Add $2M in Bitcoin to Treasury Ahead of Expansion to UK",
+      "link": "https://www.coindesk.com/markets/2025/06/26/lingerie-fighting-championships-to-add-2m-in-bitcoin-to-treasury-ahead-of-expansion-to-uk",
+      "summary": ""
+    },
+    {
       "title": "Core Scientific Soars 25% as WSJ Reports Buyout Talks With CoreWeave",
       "link": "https://www.coindesk.com/markets/2025/06/26/coreweave-back-in-talks-to-acquire-bitcoin-miner-core-scientific-wsj",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Ripple Integrates Wormhole With XRP Ledger to Power Institutional Multichain Moves",
       "link": "https://www.coindesk.com/tech/2025/06/26/ripple-integrates-wormhole-with-xrp-ledger-to-power-institutional-multichain-moves",
       "summary": ""
-    },
-    {
-      "title": "Key U.S. Senator Tells White House Crypto Market Structure Bill Will Be Done by Sept. 30",
-      "link": "https://www.coindesk.com/policy/2025/06/26/key-us-senator-tells-white-house-crypto-market-structure-bill-will-be-done-by-sept-30",
-      "summary": ""
-    },
-    {
-      "title": "Hong Kong Sets Out Plan to Regulate Crypto, Encourage Tokenization",
-      "link": "https://www.coindesk.com/policy/2025/06/26/hong-kong-sets-out-plan-to-regulate-crypto-encourage-tokenization",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin price pattern with 78% accuracy emerges, pointing to new BTC highs",
+      "link": "https://cointelegraph.com/news/bitcoin-price-pattern-with-78percent-accuracy-emerges-pointing-to-new-btc-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjRlMjYtNWQzYy03ODVhLWI3ZGUtOGU4YzY2MDM4MmU4.jpg\" /></p><p>A Bitcoin price pattern with a high hit rate formed on the daily chart. Are new BTC all-time highs incoming?</p>"
+    },
     {
       "title": "Core Scientific shares soar as CoreWeave revives buyout talks",
       "link": "https://cointelegraph.com/news/coreweave-core-scientific-takeover-talks-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "US judge denies Ripple, SEC joint request to reduce $125M penalty",
       "link": "https://cointelegraph.com/news/judge-denies-ripple-sec-request-reverse-rulings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjNjgtYjc3ZC03NzZlLWE1ODctNmFiNDFhNWMwZmNm.jpg\" /></p><p>Judge Analisa Torres wrote that Ripple is still required to follow federal securities laws regardless of the SEC's regulatory pivot.</p>"
-    },
-    {
-      "title": "World Chain launches tool to prioritize real humans over bots",
-      "link": "https://cointelegraph.com/news/world-chain-launches-tool-to-prioritize-real-humans-over-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjZDktOTIzZS03OWRhLWJlYjYtOWU5MjkyMmZkYjQz.jpg\" /></p><p>Created jointly with Flashblocks, World\u2019s Priority Blockspace for Humans aims to ensure the best transaction speed for real humans.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin stays confined to $100k\u2013$110k band as realized profit and network activity recede",
+      "link": "https://cryptoslate.com/bitcoin-stays-confined-to-100k-110k-band-as-realized-profit-and-network-activity-recede/",
+      "summary": "<p>Bitcoin (BTC) has traded between $100,000 and $110,000 for a seventh consecutive week due to slower profit realization, cooling transfer volume, and a cautious derivatives backdrop, according to a June 26 Glassnode report. The report cited the market&#8217;s struggles to extend May&#8217;s all-time high rally, with the 30-day realized profit gauge peaking in early May, [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Kraken enters payments with new Krak app enabling seamless global crypto, fiat transfers",
+      "link": "https://cryptoslate.com/kraken-enters-payments-with-new-krak-app-enabling-seamless-global-crypto-fiat-transfers/",
+      "summary": "<p>Cryptocurrency exchange Kraken unveiled Krak, a new mobile payment app that allows users to send digital assets and fiat currencies to recipients in more than 110 countries. The app supports over 300 currencies and aims to usurp the dominance of established financial apps such as PayPal, Venmo, and Cash App. Developed to offer a faster [&#8230;]</p> <p>"
+    },
     {
       "title": "Analysts predict $30 trillion market cap for tokenized RWA by 2034",
       "link": "https://cryptoslate.com/analysts-predict-30-trillion-market-cap-for-tokenized-rwa-by-2034/",
@@ -68,16 +78,6 @@
       "title": "Ripple partners with Wormhole to expand XRP Ledger\u2019s cross-chain capabilities",
       "link": "https://cryptoslate.com/ripple-partners-with-wormhole-to-expand-xrp-ledgers-cross-chain-capabilities/",
       "summary": "<p>Ripple has partnered with Wormhole, a cross-chain messaging protocol, to bring multichain support to the XRP Ledger (XRPL) and its upcoming Ethereum Virtual Machine (EVM) sidechain. According to the June 26 statement, the integration will introduce advanced functionality to the XRPL and allow assets and data to flow freely between it and over 35 other [&#8230;]</p> <p>"
-    },
-    {
-      "title": "US judge denies SEC and Ripple\u2019s second bid to amend penalty",
-      "link": "https://cryptoslate.com/us-judge-denies-sec-and-ripples-second-bid-to-amend-penalty/",
-      "summary": "<p>US District Judge Analisa Torres has denied a joint request from the US Securities and Exchange Commission (SEC) and Ripple Labs to dissolve an earlier court order and lower Ripple&#8217;s financial penalty. The ruling, issued on June 26, firmly rejected the attempt to undo a prior judgment tied to Ripple&#8217;s violations of securities laws through [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Indian ruling party spokesperson pushes Bitcoin reserve pilot, crypto regulation reform",
-      "link": "https://cryptoslate.com/indian-ruling-party-spokesperson-pushes-bitcoin-reserve-pilot-crypto-regulation-reform/",
-      "summary": "<p>A senior figure in India\u2019s ruling Bharatiya Janata Party (BJP) has called for the country to consider integrating Bitcoin into its official reserve strategy. On July 26, Pradeep Bhandari, a spokesperson for the BJP, encouraged Indian policymakers to adopt a measured approach to Bitcoin, suggesting that even a small-scale pilot program could strengthen India\u2019s economic [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin Headed for One of the Largest Options Expiries of the Year",
+      "link": "https://decrypt.co/327260/bitcoin-one-of-largest-options-expiries",
+      "summary": "Bitcoin faces one of its largest options expiries with $15 billion in contracts set to expire Friday as volatility hits multi-year lows."
+    },
+    {
       "title": "Tether, Blackstone Vets Raising $1 Billion for Public Bitcoin, Ethereum and Solana Treasury",
       "link": "https://decrypt.co/327249/tehter-blackstone-veterans-raising-1-billion-bitcoin-ethereum-solana-treasury",
       "summary": "Former Tether and Blackstone execs plan to build a publicly traded crypto treasury spanning Bitcoin, Ethereum, Solana, and more."
@@ -154,11 +159,6 @@
       "title": "Coinbase Brings Cardano and Litecoin to Base, Joining DOGE and XRP",
       "link": "https://decrypt.co/327210/coinbase-brings-cardano-litecoin-base-joining-doge-xrp",
       "summary": "Crypto exchange Coinbase has added new ways for crypto holders to make use of Cardano and Litecoin on its Base network."
-    },
-    {
-      "title": "Coinbase Stock Eyes Record Close as Analysts Project Massive Gains",
-      "link": "https://decrypt.co/327197/marching-forward-coinbase-stock-eyes-record-close-regulatory-hope",
-      "summary": "A drumbeat of \u201cpositive regulatory news\u201d under U.S. President Donald Trump has buoyed the stock, one analyst said."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin: Analyst eyes 3 historical patterns for $160K rally",
+      "link": "https://ambcrypto.com/bitcoin-analyst-eyes-3-historical-patterns-for-160k-rally/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-15-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will Bitcoin bulls use this ammo to punch through the $110K wall?"
+    },
+    {
       "title": "Metaplanet dethrones Tesla with 12,345 Bitcoin \u2013 \u2018This is huge!\u2019",
       "link": "https://ambcrypto.com/metaplanet-dethrones-tesla-with-12345-btc-this-is-huge/",
       "summary": "<img alt=\"Metaplanet dethrones Tesla with 12,345 BTC - &#039;This is huge!&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"745\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Metaplanet-overtakes-Tesla.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1324\" />The purchase was part of Metaplanet\u2019s broader crypto strategy announced through its \u201c555 Million Plan.\""
@@ -208,11 +213,6 @@
       "title": "One wallet, 863M TON stacked: Decoding a whale\u2019s Toncoin strategy",
       "link": "https://ambcrypto.com/one-wallet-863m-ton-stacked-decoding-a-whales-toncoin-strategy/",
       "summary": "<img alt=\"TONCOIN\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-12-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A wallet has accumulated 863M TON over time, indicating a long-term strategy that could influence prices."
-    },
-    {
-      "title": "BCH Bulls Buy More Bitcoin Cash and Pepe Dollar (PEPD) In BCH Bank RUN!",
-      "link": "https://ambcrypto.com/bch-bulls-buy-more-bitcoin-cash-and-pepe-dollar-pepd-in-bch-bank-run/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"448\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-183730.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"773\" />Bitcoin Cash (BCH) is drawing renewed attention from investors in 2025, with bullish momentum fueling [&#8230;]"
     }
   ]
 }
