@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Ex-Blackstone, Tether Execs Seek $1B to Build Multitoken Crypto Treasury: Bloomberg",
+      "link": "https://www.coindesk.com/business/2025/06/26/ex-blackstone-tether-execs-seek-1b-to-build-multitoken-crypto-treasury-bloomberg",
+      "summary": ""
+    },
+    {
       "title": "For Altcoin Whales Trading May be Easier on Bitget Than Binance, CoinGecko Research Finds",
       "link": "https://www.coindesk.com/markets/2025/06/26/for-crypto-whales-trading-may-be-easier-on-bitget-than-binance-coingecko-research-finds",
       "summary": ""
@@ -19,14 +24,24 @@
       "title": "Crypto Daybook Americas: Bitcoin Retreats From $108K, But Bulls Aren\u2019t Done",
       "link": "https://www.coindesk.com/daybook-us/2025/06/26/crypto-daybook-americas-bitcoin-retreats-from-108k-but-bulls-arent-done",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Illiquid Supply Climbs to Over 14M BTC, Reflects Strong HODL Trend",
-      "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-illiquid-supply-climbs-to-over-14m-btc-reflects-strong-hodl-trend",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Indian politician calls for Bitcoin reserve pilot as US embraces BTC",
+      "link": "https://cointelegraph.com/news/india-bitcoin-reserve-pilot-bjp-bhandari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjMmQtNzQ1Ny03YzkyLTliM2YtZThmYzI5NjA5YmFk.jpg\" /></p><p>Pradeep Bhandari, spokesperson for India\u2019s ruling BJP party, called for a Bitcoin reserve pilot and clarity on the country\u2019s \u201ctaxed but unregulated\u201d approach to crypto.</p>"
+    },
+    {
+      "title": "New Billions app offers secure ID checks without invasive biometrics",
+      "link": "https://cointelegraph.com/news/billions-network-ai-proof-identity-app-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljMDAtYzE4MS03NjhlLTk4MTUtMDY3NWNiODk5ZjI0.jpg\" /></p><p>Billions Network has launched its mobile identity app for Android and iOS, offering AI-resistant, privacy-preserving verification using NFC-based document checks and zero-knowledge proofs.</p>"
+    },
+    {
+      "title": "Wall Street buys over $1B in Bitcoin amid dollar&#039;s \u2018do or die\u2019 moment",
+      "link": "https://cointelegraph.com/news/wall-street-buys-1-5b-in-bitcoin-amid-dollar-s-do-or-die-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIwNGYtYWIzYS03YjZiLWI3N2ItYWUwYjNlNWE3ODFl.jpg\" /></p><p>Trump\u2019s early Fed replacement plans rattled markets, accelerating dollar losses and sending DXY to its lowest level since April 2022.</p>"
+    },
     {
       "title": "How to read a stablecoin attestation report and why it matters",
       "link": "https://cointelegraph.com/news/how-to-read-a-stablecoin-attestation-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "DeFAI layer Edwin blends wallets and AI chatbot with terminal launch",
       "link": "https://cointelegraph.com/news/defai-layer-edwin-crypto-wallet-ai-chatbot-terminal-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiNTQtNjMwYy03ZWNjLWE0ZjUtODk0OWUzNTk2OWIx.jpg\" /></p><p>The concept of integrating crypto wallets into chatbots for DeFi access and AI-driven trade execution is relatively new, industry observers say.</p>"
-    },
-    {
-      "title": "Stablecoin protocol Resupply loses $9.6M to price manipulation exploit",
-      "link": "https://cointelegraph.com/news/resupplyfi-defi-exploit-wstusr-96m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg\" /></p><p>A flaw in ResupplyFi\u2019s contract allowed an attacker to manipulate token prices and drain $9.6 million from its wstUSR market.</p>"
-    },
-    {
-      "title": "Bitcoin \u2018Satoshi-era\u2019 miners sold just 150 BTC in 2025 amid all-time highs",
-      "link": "https://cointelegraph.com/news/bitcoin-satoshi-era-miners-sold-just-150-btc-in-2025-amid-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyNjEtNDllOC03ZjI4LWJlNDctMDA5MTI4M2U1NTM3.jpg\" /></p><p>Bitcoin price all-time highs spark a sea change among larger miners, who instead of taking profits are actively adding to their BTC reserves.</p>"
-    },
-    {
-      "title": "Galaxy Digital raises $175M in first fund to expand crypto investments",
-      "link": "https://cointelegraph.com/news/galaxy-digital-closes-175m-crypto-venture-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWNjZjMtOTdkMC03N2E3LTljZjUtNWU5YThlYzQ5YjQ2.jpg\" /></p><p>Galaxy Digital raises $175 million for its first externally backed venture fund, targeting early-stage crypto startups.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Hong Kong expands digital asset agenda with unified rules, tokenization push",
+      "link": "https://cryptoslate.com/hong-kong-expands-digital-asset-agenda-with-unified-rules-tokenization-push/",
+      "summary": "<p>Hong Kong released a second policy statement to accelerate its digital asset (DA) development and reinforce its ambition to become a global leader in financial innovation. The latest statement, dated June 26 and dubbed &#8220;Policy Statement 2.0,&#8221; expands on the framework laid out in its initial release from October 2022. According to the Hong Kong [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bitcoin miners hold firm as daily revenues hit multi-month lows of $34 million",
+      "link": "https://cryptoslate.com/bitcoin-miners-hold-firm-as-daily-revenues-hit-multi-month-lows-of-34-million/",
+      "summary": "<p>Bitcoin miners are holding onto their assets even as mining profitability dips to multi-month lows, a new CryptoQuant report shared with shows. The data reveals that miner revenues dropped to $34 million on June 22, marking their weakest earnings since April 20. &#160; This comes amid a broader market pullback and a drop in [&#8230;]</p> <p>"
+    },
     {
       "title": "Kraken secures MiCA license via Central Bank of Ireland to ensure EU operations continue",
       "link": "https://cryptoslate.com/kraken-secures-mica-license-via-central-bank-of-ireland-to-ensure-eu-operations-continue/",
@@ -65,22 +75,17 @@
       "summary": "<p>World Liberty Financial, the DeFi project part-owned by US President Donald Trump, has announced plans to enable transfers of its WLFI token. In a June 25 post on X, the team stated: &#8220;You asked to make WLFI transferable \u2014 we heard you. The team is working behind the scenes to make it happen.&#8221; The team [&#8230;]</p> <p>"
     },
     {
-      "title": "New Metaplanet buy flips Tesla in Bitcoin holdings as shares slide 5%",
+      "title": "Metaplanet shares slide 5% as new buy flips Tesla in Bitcoin holdings",
       "link": "https://cryptoslate.com/new-metaplanet-buy-flips-tesla-in-bitcoin-holdings-as-shares-slide-5/",
       "summary": "<p>Japan-based Metaplanet has overtaken Tesla among corporate Bitcoin holders following its largest single purchase to date. On June 26, the firm confirmed that it acquired 1,234 BTC for approximately $132.7 million, paying an average of $107,557 per coin. This brings Metaplanet&#8217;s total Bitcoin holdings to 12,345 BTC, now worth about $1.33 billion based on current [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Iran and Israel spent over $25B during the \u201912-day war,\u2019 equivalent to 1% of total Bitcoin supply",
-      "link": "https://cryptoslate.com/insights/iran-and-israel-spent-over-25b-during-the-12-day-war-equivalent-to-1-of-total-bitcoin-supply/",
-      "summary": "<p>The Iran-Israel conflict reportedly cost the two nations roughly $25.5 billion, worth over 240,837 BTC at current prices, according to a report by Opportunity Cost, a digital tool that translates global spending into Bitcoin and Satoshi equivalents. According to the platform, Israel fired Arrow interceptor missiles, each costing around $3 million or 28.3 BTC, to counter Iranian missiles [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Binance Bitcoin inflows plunge to 5,700 BTC, less than 50% of the monthly average since 2020",
-      "link": "https://cryptoslate.com/binance-bitcoin-inflows-plunge-to-5700-btc-less-than-50-of-the-monthly-average-since-2020/",
-      "summary": "<p>Binance\u2019s monthly Bitcoin (BTC) inflows have fallen to 5,700 BTC, less than half the 12,000 BTC average recorded since 2020 and 25% of the 24,000 BTC that hit the exchange during the FTX panic of late 2022, CryptoQuant analyst Darkfost shared in a June 24 note. Darkfost\u2019s data showed that every material deposit surge of [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "$179,000 Or $79,000? Bitcoin Faces Critical Cycle Pivot, Says Analyst",
+      "link": "https://www.newsbtc.com/bitcoin-news/179000-or-79000-bitcoin-critical-cycle-pivot/",
+      "summary": "A popular crypto analyst has issued a stark cyclical warning that could define Bitcoin\u2019s trajectory for the rest of the summer. Dr. Cat, known for his integrated use of Ichimoku Cloud analysis, Elliott Wave Theory, and proprietary time-cycle forecasting, posted an intricate scenario on X suggesting Bitcoin now stands at a pivotal inflection point\u2014one that may ultimately determine whether the next major move is to $179,000 or back down to $79,000. Bitcoin Faces Make-or-Break Moment \u201cIf we set a daily high between the 25th and 27th of June,\u201d Dr. Cat began, referencing the window derived from his Time Theory model, \u201cand it turns out to be a lower high per the Wave Theory, then a lower low should follow.\u201d The implications, however, go far beyond near-term downside. \u201cIf a lower low comes, we invalidate the weekly cycle which implies no bottom before mid-July to mid-August.\u201d According to the forecast timeline, the earliest potential bottom would fall between July 14 and August 17, with a primary target range from July 28 to August 3, incorporating a \u00b12 week deviation. That timing model dovetails with the chart\u2019s behavior around critical Ichimoku levels. Dr. Cat emphasized that Bitcoin is currently \u201cmaking a bearish retest of the weekly Tenkan Sen,\u201d adding that yesterday&#8217;s attempt to reclaim that level failed: \u201cPrice touched Tenkan Sen yesterday but I saw that it would open below it today.\u201d Related Reading: Trump\u2019s Truth Social Officialy Files For Bitcoin And Ethereum ETFs With NYSE The Tenkan Sen and Kijun Sen\u2014two key lines in the Ichimoku system\u2014are not just flat; they are structurally unconvincing despite a nominal 10% price advance. \u201cThis isn\u2019t a real uptrend,\u201d noted one user, to which Dr. Cat replied: \u201cThis is simply a neutral chart trying to flip bullish.\u201d He elaborated that this neutrality means neither bullish nor bearish continuation is guaranteed, but warned that inaction or false optimism at this stage could expose traders to a cascading downside. One of the most significant technical levels lies just beneath current price. \u201cThe super key support of 93.2K (weekly Kijun Sen) is relatively close\u2014and too close to hold if the time cycles play out,\u201d Dr. Cat stated. A failure of that level would likely trigger a deeper reversion to the 3-week Kijun Sen, which remains unvisited and is currently positioned near $75K but rising. The entire bearish cascade remains \u201ccompletely valid and with a very real chance of playing out,\u201d unless Bitcoin manages to break above $110.6K after June 27. Such a move would invalidate both the time and wave-based lower-high structure and neutralize the scenario before it unfolds. But until then, Dr. Cat is urging traders to look beyond surface-level price movements. \u201cMost people look at whether price goes up or down but don\u2019t look at how it does it,\u201d he said. Recalling his accurate bullish stance in April and May\u2014when others were waiting for retracement\u2014and his caution in early June, he emphasized the importance of reading the structure, not just the candles. Related Reading: Bitcoin Repeats Its 2021 Pattern\u2014Analyst Warns Final Crash Still Ahead \u201cThe weekly chart was one candle away from a bullish TK cross, which would\u2019ve implied big bullish continuation. But I waited. Then the market dumped,\u201d he reminded followers. \u201cNow it is relatively similar\u2026 dramatic reversals happen as close to invalidation as possible so everyone is tested and trapped to the limit.\u201d In summary, Dr. Cat\u2019s outlook remains balanced\u2014but volatile. \u201cI\u2019m not telling you I can read the future,\u201d he said. \u201cI\u2019m telling you that you need to distinguish neutral from bullish charts, which many people can\u2019t\u2014and suffer the consequences.\u201d With time cycles converging and Ichimoku structures flashing indecision, Bitcoin now stands at a binary junction. The next high or low could lock in a multi-week trend, with targets as distant as $179K\u2014or as painful as $79K\u2014hanging in the balance. \u201cThis is simply a neutral chart trying to flip bullish. Which can certainly flip bullish pretty soon but until that happens I discuss whether first comes 179K or 79K with pretty much equal probability and I&#8217;m warning about an absolutely valid scenario which is on the table unless the chart flips bullish,\u201d Dr. Cat concludes. At press time, BTC traded at $107,356. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Crypto ETF Race Heats Up, More Solana ETFs Planned as Snorter Bot Corners Market for Solana Memes",
       "link": "https://www.newsbtc.com/news/crypto-etf-race-heats-up-more-solana-etfs-planned-as-snorter-bot-corners-market/",
@@ -100,11 +105,6 @@
       "title": "Solana Price At \u2018A Very Delicate Level\u2019 \u2013 Analyst Says $148 Reclaim Is Key",
       "link": "https://www.newsbtc.com/news/solana-price-at-a-very-delicate-level-analyst-says-148-reclaim-is-key/",
       "summary": "Despite recovering from the weekend retrace, Solana (SOL) is trading between two levels that could make or break the altcoin\u2019s rally. Nonetheless, some analysts suggest that the cryptocurrency could be gearing up for a massive breakout beyond the local highs. Related Reading: Injective Prepares For Bullish Reversal Amid 25% Recovery \u2013 Analyst Forecasts Massive Breakout Solana Sits At Decisive Level On Wednesday, Solana fell to the $143 mark after failing to reclaim a crucial area lost over a week ago. Following the May breakout, the cryptocurrency hovered between the $148-$184 price range, hitting a four-month high of $187 at the end of last month. However, the June market pullback saw SOL lose its range and move toward the $144-$148 levels. This area was briefly lost during the weekend retrace, with Solana falling to the $125 support level before recovering. Over the past three days, the altcoin has surged nearly 15%, touching the $148 barrier on Wednesday morning, which has been one of the key levels since May. After recovering from the recent drop, SOL has attempted to reclaim this level, but was rejected once again. Analyst Sjuul from AltCryptoGems highlighted that Solana \u201cjust completed a very nice V-shaped recovery from the low,\u201d but noted that the cryptocurrency is at a \u201cvery delicate level\u201d as it trades within the $144-$148 zone. He suggested that investors should pay attention to this area, as a reclaim of the $148 resistance could propel the price to a \u201cquick move to the upside.\u201d On the contrary, rejection from this level and losing the $144 range low could signal that the recent price action was a bearish retest. Analyst Man of Bitcoin affirmed that a \u201csustained break above the resistance zone would be the first signal that the chart has formed a low. He detailed that a confirmed break above the $148 resistance would support the case for a reversal. Nonetheless, he warned that a potential scenario \u201cwith one more low in wave-5.\u201d SOL Ready For A Rally Continuation? As price hovers between the $143-$144 levels, market watcher Altcoin Hunter considers that SOL is \u201cdancing with the devil.\u201d He pointed out that the cryptocurrency has been trading within a one-month falling wedge, with the $148-$150 rejection zone \u201ccoming in HOT.\u201d Per"
-    },
-    {
-      "title": "Chainlink Holders Set Record As 1-Yr MVRV Signals \u2018Opportunity\u2019",
-      "link": "https://www.newsbtc.com/news/chainlink/chainlink-holders-set-record-1-yr-mvrv-opportunity/",
-      "summary": "On-chain data shows new investors have been coming into Chainlink (LINK) as the MVRV Ratio signals a potential long-term opportunity for the asset. Chainlink Has Seen Its Total Holder Count Reach A New High In a new post on X, the analytics firm Santiment has discussed about the latest trend in the Total Amount of Holders metric for Chainlink. This indicator measures, as its name suggests, the total number of addresses on the LINK network that are carrying some non-zero balance. Related Reading: Tron\u2019s 374% Profit-Taking Spree Uncovered\u2014Here\u2019s Who Was Behind It Below is the chart shared by Santiment that shows how the value of the metric has changed during the past year. As displayed in the graph, the Total Amount of Holders observed an inflection point earlier this year and has since been climbing up at a notable rate. This suggests that new non-empty wallets are popping up on the network. This kind of trend can arise due to a number of reasons. Fresh investors coming into the space or old ones who sold before making a return naturally contribute to an increase in the indicator. Another factor could be existing users creating new wallets to distribute their holdings or for privacy purposes. In general, all of these could be assumed to be occurring simultaneously to a degree whenever the Total Amount of Holders goes up. As such, the recent uptrend in the metric could indicate that some net adoption (that is, the influx of new investors) has steadily been taking place for Chainlink. Over the past month, 7,903 new non-zero balance addresses have joined the chain, bringing the Total Amount of Holders to a fresh all-time high (ATH) of 769,380. In the same chart, the analytics firm has also attached the data of another indicator: the Market Value to Realized Value (MVRV) Ratio. This metric basically compares how the value held by the BTC investors (the market cap) compares against the value put in by them (the realized cap). In other words, the indicator tells us about the profit-loss balance of the holders. Here, the version of the MVRV Ratio that&#8217;s relevant is the 365-day version, capturing the situation of the investors who bought their coins within the past year. Related Reading: Crypto Bears Rekt: $359M Gone As Bitcoin, Ethereum Rebound From the graph, it&#8217;s visible that the 1-year MVRV Ratio of Chainlink is currently sitting at a negative 17.3%, an indication that these traders are, on average, holding a loss of 17.3%. Generally, however, investors being underwater isn&#8217;t actually a bad thing for the cryptocurrency. This is because holders in profit are the ones more likely to participate in selling. As such, Santiment notes that the trend in the 365-day MVRV Ratio could suggest the asset&#8217;s &#8220;long-term investing timeframe is in an opportunity zone.&#8221; LINK Price At the time of writing, Chainlink is trading around $13.15, up more than 2% in the last seven days. Featured image from Dall-E, Santiment.net, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Will crypto bills be delayed until 2026? \u2013 Senator Lummis shares insight",
+      "link": "https://ambcrypto.com/will-crypto-bills-be-delayed-until-2026-senator-lummis-gives-insight/",
+      "summary": "<img alt=\"Lummis on CLARITY &amp; GENIUS Act\" class=\"attachment-full size-full wp-post-image\" height=\"583\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lummis-on-CLARITY-GENIUS-Act.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1036\" />Political chess continues in D.C. as crypto bills inch closer. When will they be approved?"
+    },
+    {
       "title": "FUNToken\u2019s Telegram Bot Gets a Major Upgrade With High-Stakes Spins",
       "link": "https://ambcrypto.com/funtokens-telegram-bot-gets-a-major-upgrade-with-high-stakes-spins/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"628\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/FUN-WOF-PR.jpeg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1200\" />FUNToken is taking its community experience to the next level with a massive upgrade to [&#8230;]"
@@ -208,11 +213,6 @@
       "title": "What Alaskans Need to Know about Crypto Casinos",
       "link": "https://ambcrypto.com/what-alaskans-need-to-know-about-crypto-casinos/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"514\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-155751.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"779\" />Alaska finds itself in a peculiar position. You can invest in cryptocurrency here and pay [&#8230;]"
-    },
-    {
-      "title": "Whales add $915M in XRP \u2013 Can retail catch up, if so, prices will\u2026",
-      "link": "https://ambcrypto.com/whales-add-915m-in-xrp-can-retail-catch-up-if-so-what-next/",
-      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-11-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP whales accumulated $915M in a week, but retail fatigue could prevent sustained bullish momentum."
     }
   ]
 }
