@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Illiquid Supply Climbs to Over 14M BTC, Reflects Strong HODL Trend",
+      "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-illiquid-supply-climbs-to-over-14m-btc-reflects-strong-hodl-trend",
+      "summary": ""
+    },
+    {
+      "title": "PEPE Slides 5% as Hype Fades Despite Elon Musk's April Nod",
+      "link": "https://www.coindesk.com/markets/2025/06/26/pepe-slides-5-as-hype-fades-despite-elon-musk-s-april-nod",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin's Podium-Ready 'Bull Flag' Hints at Price Boom to $140K",
+      "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-s-podium-ready-bull-flag-hints-at-price-boom-to-usd140k",
+      "summary": ""
+    },
+    {
       "title": "What's Driving SEI Prices as Token Soars 50% in a Week",
       "link": "https://www.coindesk.com/markets/2025/06/26/whats-driving-sei-prices-as-token-soars-50-in-a-week",
       "summary": ""
@@ -9,24 +24,19 @@
       "title": "Semler Scientific Trades at Premium to Bitcoin Holdings for First Time in Three Weeks",
       "link": "https://www.coindesk.com/markets/2025/06/26/semler-scientific-trades-at-premium-to-bitcoin-holdings-for-first-time-in-three-weeks",
       "summary": ""
-    },
-    {
-      "title": "Australia\u2019s Securities Regulator to Probe ASX After Collapsed Blockchain Project",
-      "link": "https://www.coindesk.com/policy/2025/06/26/australias-securities-regulator-to-probe-asx-after-collapsed-blockchain-project",
-      "summary": ""
-    },
-    {
-      "title": "Crypto Exchange Kraken Wins MiCA License in Ireland",
-      "link": "https://www.coindesk.com/policy/2025/06/26/crypto-exchange-kraken-wins-mica-license-in-ireland",
-      "summary": ""
-    },
-    {
-      "title": "Coinbase Brings Wrapped Cardano, Litecoin to Base With cbADA, cbLTC",
-      "link": "https://www.coindesk.com/markets/2025/06/26/coinbase-brings-wrapped-cardano-litecoin-to-base-with-cbada-cbltc",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Stablecoin protocol Resupply loses $9.6M to price manipulation exploit",
+      "link": "https://cointelegraph.com/news/resupplyfi-defi-exploit-wstusr-96m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg\" /></p><p>A flaw in ResupplyFi\u2019s contract allowed an attacker to manipulate token prices and drain $9.6 million from its wstUSR market.</p>"
+    },
+    {
+      "title": "Bitcoin \u2018Satoshi-era\u2019 miners sold just 150 BTC in 2025 amid all-time highs",
+      "link": "https://cointelegraph.com/news/bitcoin-satoshi-era-miners-sold-just-150-btc-in-2025-amid-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyNjEtNDllOC03ZjI4LWJlNDctMDA5MTI4M2U1NTM3.jpg\" /></p><p>Bitcoin price all-time highs spark a sea change among larger miners, who instead of taking profits are actively adding to their BTC reserves.</p>"
+    },
     {
       "title": "Galaxy Digital raises $175M in first fund to expand crypto investments",
       "link": "https://cointelegraph.com/news/galaxy-digital-closes-175m-crypto-venture-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Pi Network token spikes 38% on AI plans, Google partnership rumors",
       "link": "https://cointelegraph.com/news/pi-network-google-ai-rumors-pi2day-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMzYtODM1Ny03MDQ3LWJmZjUtMmE1MDMwNTI5YzY3.jpg\" /></p><p>Pi Network\u2019s token surged 38% as talk of an AI partnership with Google spread ahead of the project\u2019s upcoming Pi2Day event announcement on Saturday.</p>"
-    },
-    {
-      "title": "Japan\u2019s Metaplanet buys 1,234 BTC, now holds more than Tesla",
-      "link": "https://cointelegraph.com/news/metaplanet-bitcoin-holdings-overtakes-tesla-after-latest-1-234-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMmMtYmQ3MC03ZGI1LWFhMjQtZDY2MmZmNWJjMjIx.jpg\" /></p><p>Metaplanet has overtaken Tesla in corporate Bitcoin holdings, buying 1,234 BTC and bringing its total to 12,345 BTC as it eyes more expansion.</p>"
-    },
-    {
-      "title": "Trump-backed World Liberty to release stablecoin audit, make WLFI transferable",
-      "link": "https://cointelegraph.com/news/trump-crypto-platform-wlfi-transferable-stablecoin-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMjQtN2RiYi03ZmIxLWI4ZTktOThjOWExZGNiMDA5.jpg\" /></p><p>World Liberty Financial, the Trump-backed crypto venture, is preparing to publish its first stablecoin audit and may enable WLFI token transfers.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Meta and OpenAI Use of Copyrighted Books for Training AI Was Fair Use: Federal Judge",
+      "link": "https://decrypt.co/327137/meta-openai-copyrighted-books-ai-fair-use",
+      "summary": "\u201cThese plaintiffs made the wrong arguments,\u201d Judge Chhabria wrote, as he ruled Meta\u2019s AI training on their copyrighted books was fair use."
+    },
+    {
       "title": "Kraken Becomes Latest to Win a License Under Europe's New Rules",
       "link": "https://decrypt.co/327112/kraken-license-europes-new-rules",
       "summary": "Approval from Ireland's central bank gives Kraken the ability to operate across 27 EU states as it races to catch up to rival Coinbase."
@@ -154,11 +159,6 @@
       "title": "US Housing Chief Orders Fannie Mae, Freddie Mac to Prepare for Crypto Assessment in Mortgages",
       "link": "https://decrypt.co/327087/us-housing-head-orders-fannie-mae-freddie-mac-accept-crypto",
       "summary": "Under a directive from the FHFA, Fannie Mae and Freddie Mac were ordered to prepare for crypto mortgage payments."
-    },
-    {
-      "title": "Solana, Pudgy Penguins ETF Filings Added to SEC's Crypto To-Do List",
-      "link": "https://decrypt.co/327076/solana-pudgy-penguins-etf-filings-sec-crypto",
-      "summary": "A proposal for a Solana ETF and a new fund tied to Pudgy Penguins tokens have joined a growing list of products offering crypto exposure."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin for home loans? FHFA approves crypto for mortgage reserves",
+      "link": "https://ambcrypto.com/bitcoin-for-home-loans-fhfa-approves-crypto-for-mortgage-reserves/",
+      "summary": "<img alt=\"Crypto loans Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/cryptohomeloansFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Market pundits viewed crypto reserves in home applications as a tailwind for BTC."
+    },
+    {
+      "title": "What Alaskans Need to Know about Crypto Casinos",
+      "link": "https://ambcrypto.com/what-alaskans-need-to-know-about-crypto-casinos/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"514\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-155751.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"779\" />Alaska finds itself in a peculiar position. You can invest in cryptocurrency here and pay [&#8230;]"
+    },
+    {
       "title": "Whales add $915M in XRP \u2013 Can retail catch up, if so, prices will\u2026",
       "link": "https://ambcrypto.com/whales-add-915m-in-xrp-can-retail-catch-up-if-so-what-next/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-11-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP whales accumulated $915M in a week, but retail fatigue could prevent sustained bullish momentum."
@@ -203,16 +213,6 @@
       "title": "BTC Whales Offload Bitcoin Profits Into Pepe Dollar, The Federal Reserve Parody",
       "link": "https://ambcrypto.com/btc-whales-offload-bitcoin-profits-into-pepe-dollar-the-federal-reserve-parody/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"448\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-123243.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"773\" />Recent geopolitical tensions between Iran and the United States have introduced volatility to the cryptocurrency [&#8230;]"
-    },
-    {
-      "title": "SEI crypto hits 5-month high, but this 10% dip could signal trouble \u2013 Why?",
-      "link": "https://ambcrypto.com/sei-crypto-hits-5-month-high-but-this-10-dip-could-signal-trouble-why/",
-      "summary": "<img alt=\"Sei [SEI]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-13.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will the whales re-enter and continue to push SEI higher? Assessing..."
-    },
-    {
-      "title": "Bow Miner test: BTC earns $20,000 a day, ETH earns $30,000 a day, and DOGE earns $15,000 a day!",
-      "link": "https://ambcrypto.com/bow-miner-test-btc-earns-20000-a-day-eth-earns-30000-a-day-and-doge-earns-15000-a-day/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"421\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-125127.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"745\" />Against the backdrop of rising global inflation and greater volatility in financial markets, the value [&#8230;]"
     }
   ]
 }
