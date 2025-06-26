@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Nears $108K as Fed Rate Cut Bets Rise; Traders Eye Ether, Solana, Cardano",
+      "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-nears-108k-as-fed-rate-cut-bets-rise-traders-eye-ether-solana-cardano",
+      "summary": ""
+    },
+    {
       "title": "World Liberty Makes Narrative U-Turn, Says WLFI Token Will Become Tradable Soon",
       "link": "https://www.coindesk.com/markets/2025/06/26/world-liberty-makes-narrative-u-turn-says-wlfi-token-will-become-tradable-soon",
       "summary": ""
@@ -11,7 +16,7 @@
       "summary": ""
     },
     {
-      "title": "Asia Morning Briefing: BTC Climbs to 107K as 'War Drums Fade, Risk Appetite Roars'",
+      "title": "Asia Morning Briefing: BTC Climbs to $107K as 'War Drums Fade, Risk Appetite Roars'",
       "link": "https://www.coindesk.com/markets/2025/06/25/asia-morning-briefing-btc-climbs-to-107k-as-war-drums-fade-risk-appetite-roars",
       "summary": ""
     },
@@ -19,38 +24,33 @@
       "title": "Bit Digital Exits BTC Mining to Focus Solely on ETH Staking Strategy",
       "link": "https://www.coindesk.com/markets/2025/06/25/bit-digital-exits-btc-mining-to-focus-solely-on-eth-staking-strategy",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Rises Past $107K as FHFA's Pulte Orders Crypto Consideration in Mortgage Applications",
-      "link": "https://www.coindesk.com/markets/2025/06/25/bitcoin-rises-past-107k-as-fhfas-pulte-orders-crypto-consideration-in-mortgage-applications",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "\u2018Major bummer\u2019 \u2014 Users discover Ledger is sunsetting the \u2018OG\u2019 Nano S",
+      "link": "https://cointelegraph.com/news/ledger-sunsetting-support-nano-s-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhOTQtMTQ3MC03OTBiLTlhYTEtMjVjNDMxZmUyMGIx.jpg\" /></p><p>Some users were questioning whether the Nano S would still work after support ends, and whether there was a security risk involved if they decided to keep using it.</p>"
+    },
+    {
+      "title": "Citibank accused of ignoring signs of $20M crypto romance scam",
+      "link": "https://cointelegraph.com/news/citibank-accused-ignoring-signs-20m-crypto-romance-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E5ZWUtM2RkOS03N2UwLWJkN2ItNjc4OWMzZGVmMjEz.jpg\" /></p><p>The victim of a $20 million crypto pig butchering scam has sued Citibank, alleging it ignored \u201cred flags\u201d and should have investigated suspicious activity.</p>"
+    },
+    {
+      "title": "Bit Digital falls 4% as it ditches Bitcoin mining for Ethereum",
+      "link": "https://cointelegraph.com/news/bit-digital-ditches-bitcoin-mining-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhMmEtNTA5My03ZDU0LWE1YmItYTQ4YTZkOTEzNWYx.jpg\" /></p><p>The crypto mining firm will additionally sell its own stock to purchase more ETH for its treasury.</p>"
+    },
+    {
+      "title": "Coinme pays $300K fine for violating California crypto ATM laws",
+      "link": "https://cointelegraph.com/news/coinme-pays-300k-fine-violating-california-crypto-atm-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhNmUtOGVhNi03NzIyLWI3YTAtNjIyNzJjYzJhYTI5.jpg\" /></p><p>The case marks California DFPI\u2019s first enforcement action under the state\u2019s Digital Financial Assets Law.</p>"
+    },
+    {
       "title": "GameStop fails to woo traders with $450M raise, possibly for Bitcoin",
       "link": "https://cointelegraph.com/news/gamestop-trades-flat-capital-raise-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVjOTEtNWYwYi03ZTcxLWIyM2MtZTE5MjM1NzY2NmJk.jpg\" /></p><p>Vincent Liu, the chief investment officer at Kronos Research, said buying Bitcoin alone isn\u2019t enough to increase a company\u2019s stock price; there needs to be a clear plan.</p>"
-    },
-    {
-      "title": "SoFi digital bank brings back crypto services after 2-year hiatus",
-      "link": "https://cointelegraph.com/news/san-francisco-sofi-reoffering-crypto-trading-after-2-year-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhMTMtMWFmYS03MGFlLTlhYzgtNDY5OWMzNmZiMGQz.jpg\" /></p><p>SoFi reenters the crypto space with onchain remittances and digital asset trading following the ease of regulations in the US.</p>"
-    },
-    {
-      "title": "\u2018Fiat is fading\u2019 \u2014 USD lowest in 3 years as Bitcoin reclaims $107K",
-      "link": "https://cointelegraph.com/news/us-dollar-lows-iran-israel-bitcoin-uptrend-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzEzNjgtMDI4OS03ODQwLWFlN2UtZGU3ZDExZWRkMDU1.jpg\" /></p><p>Macroeconomist Lyn Alden said the US dollar barely \u201cgot any flight-to-safety bid\u201d despite recent geopolitical tensions between Iran and Israel.</p>"
-    },
-    {
-      "title": "Crypto ATM sting uncovers elderly widow who lost $281K in a scam",
-      "link": "https://cointelegraph.com/news/widow-scammed-life-savings-crypto-atm-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E5NDItMTEwMy03NDAwLTkyNzAtMTU1MjA2NjkxZWM4.jpg\" /></p><p>One of the victims identified in the police operation said she carried around $13,000 in cash at one point to send Bitcoin to scammers via crypto ATMs.</p>"
-    },
-    {
-      "title": "Invesco Galaxy files for Solana ETF, 9 issuers now in the race",
-      "link": "https://cointelegraph.com/news/invesco-galaxy-files-solana-etf-making-nine-bidders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwZWYtYTE1Yy03MzA5LWJkZDYtOWRlZWEwOWIwYTVk.jpg\" /></p><p>Invesco and Galaxy Digital have filed the initial documents to launch a spot Solana ETF, making the ninth similar entry to be put before US regulators.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Chainlink Holders Set Record As 1-Yr MVRV Signals \u2018Opportunity\u2019",
+      "link": "https://www.newsbtc.com/news/chainlink/chainlink-holders-set-record-1-yr-mvrv-opportunity/",
+      "summary": "On-chain data shows new investors have been coming into Chainlink (LINK) as the MVRV Ratio signals a potential long-term opportunity for the asset. Chainlink Has Seen Its Total Holder Count Reach A New High In a new post on X, the analytics firm Santiment has discussed about the latest trend in the Total Amount of Holders metric for Chainlink. This indicator measures, as its name suggests, the total number of addresses on the LINK network that are carrying some non-zero balance. Related Reading: Tron\u2019s 374% Profit-Taking Spree Uncovered\u2014Here\u2019s Who Was Behind It Below is the chart shared by Santiment that shows how the value of the metric has changed during the past year. As displayed in the graph, the Total Amount of Holders observed an inflection point earlier this year and has since been climbing up at a notable rate. This suggests that new non-empty wallets are popping up on the network. This kind of trend can arise due to a number of reasons. Fresh investors coming into the space or old ones who sold before making a return naturally contribute to an increase in the indicator. Another factor could be existing users creating new wallets to distribute their holdings or for privacy purposes. In general, all of these could be assumed to be occurring simultaneously to a degree whenever the Total Amount of Holders goes up. As such, the recent uptrend in the metric could indicate that some net adoption (that is, the influx of new investors) has steadily been taking place for Chainlink. Over the past month, 7,903 new non-zero balance addresses have joined the chain, bringing the Total Amount of Holders to a fresh all-time high (ATH) of 769,380. In the same chart, the analytics firm has also attached the data of another indicator: the Market Value to Realized Value (MVRV) Ratio. This metric basically compares how the value held by the BTC investors (the market cap) compares against the value put in by them (the realized cap). In other words, the indicator tells us about the profit-loss balance of the holders. Here, the version of the MVRV Ratio that&#8217;s relevant is the 365-day version, capturing the situation of the investors who bought their coins within the past year. Related Reading: Crypto Bears Rekt: $359M Gone As Bitcoin, Ethereum Rebound From the graph, it&#8217;s visible that the 1-year MVRV Ratio of Chainlink is currently sitting at a negative 17.3%, an indication that these traders are, on average, holding a loss of 17.3%. Generally, however, investors being underwater isn&#8217;t actually a bad thing for the cryptocurrency. This is because holders in profit are the ones more likely to participate in selling. As such, Santiment notes that the trend in the 365-day MVRV Ratio could suggest the asset&#8217;s &#8220;long-term investing timeframe is in an opportunity zone.&#8221; LINK Price At the time of writing, Chainlink is trading around $13.15, up more than 2% in the last seven days. Featured image from Dall-E, Santiment.net, chart from TradingView.com"
+    },
+    {
       "title": "Dogecoin (DOGE) Eyes Upside, Yet $0.20 Remains Out of Reach for Now",
       "link": "https://www.newsbtc.com/analysis/doge/dogecoin-doge-eyes-upside-0-1680/",
       "summary": "Dogecoin started a fresh increase above the $0.1550 zone against the US Dollar. DOGE is now consolidating and might aim for a move above $0.1680. DOGE price started a fresh increase above the $0.150 and $0.1550 levels. The price is trading above the $0.160 level and the 100-hourly simple moving average. There is a key rising channel forming with resistance at $0.1680 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could start a fresh decline if it stays below the $0.180 zone. Dogecoin Price Faces Resistance Dogecoin price started a fresh increase above the $0.1420 zone, like Bitcoin and Ethereum. DOGE was able to climb above the $0.150 and $0.1550 resistance levels. The bulls even pushed the price above the $0.1620 resistance. A high was formed at $0.1677 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $0.1427 swing low to the $0.1677 high. Dogecoin price is now trading above the $0.160 level and the 100-hourly simple moving average. Immediate resistance on the upside is near the $0.1680 level. There is also a key rising channel forming with resistance at $0.1680 on the hourly chart of the DOGE/USD pair. The first major resistance for the bulls could be near the $0.1720 level. The next major resistance is near the $0.1750 level. A close above the $0.1750 resistance might send the price toward the $0.180 resistance. Any more gains might send the price toward the $0.200 level. The next major stop for the bulls might be $0.2120. Another Decline In DOGE? If DOGE\u2019s price fails to climb above the $0.1680 level, it could start another decline. Initial support on the downside is near the $0.1620 level. The next major support is near the $0.1550 level and the 50% Fib retracement level of the upward move from the $0.1427 swing low to the $0.1677 high. The main support sits at $0.1550. If there is a downside break below the $0.1550 support, the price could decline further. In the stated case, the price might decline toward the $0.1420 level or even $0.1350 in the near term. Technical Indicators Hourly MACD \u2013 The MACD for DOGE/USD is now gaining momentum in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for DOGE/USD is now above the 50 level. Major Support Levels \u2013 $0.1620 and $0.1550. Major Resistance Levels \u2013 $0.1680 and $0.1800."
@@ -100,11 +105,6 @@
       "title": "Bitcoin Short-Term Holder Floor Rises Toward $100,000, Reinforcing Bullish Sentiment",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-short-term-holder-floor-rises-toward-100000-reinforcing-bullish-sentiment/",
       "summary": "Following a quick drop to nearly $98,000 over the weekend, Bitcoin (BTC) has recovered most of its recent losses and is now trading above $107,000 at the time of writing. Fresh on-chain data suggests that the short-term holder (STH) floor for BTC has been steadily rising toward the $100,000 level. Bitcoin STH Floor Approaching $100,000 According to a recent CryptoQuant Quicktake post by contributor unchained, Bitcoin\u2019s STH Realized Price has been making its slow grind up toward the psychologically important $100,000 level. Notably, the analyst had earlier dubbed this metric as the \u201cfault line\u201d to watch. Related Reading: Bitcoin Binary CDD Hints At Healthy Consolidation, Not A Top For the uninitiated, the STH Realized Price represents the average price at which all Bitcoin held for less than 155 days was acquired. It acts as both a key psychological and technical support level. When the market price stays above it, STH are in profit and more confident, whereas if it falls below, fear and selling pressure often increase. Currently, the STH Realized Price hovers around $98,000. The analyst notes that each $500 rise in the STH Realized Price effectively resets the \u201cnew buyers\u2019 comfort floor.\u201d As this metric nears six figures, the mental stop-loss for newer investors also moves upward. The following chart illustrates two recent instances where BTC bounced sharply after touching the blue STH Realized Price line. This price action suggests a bullish structure, where selling pressure diminishes as soon as BTC revisits its average cost basis. Meanwhile, the premium &#8211; the difference between BTC\u2019s spot price and STH Realized Price &#8211; currently hovers around 7.2%. A shrinking premium, typically under 10%, has historically signalled reduced market froth and often preceded the next leg up once open interest began to rebuild. On the long-term side, the long-term holder (LTH) Realized Price remains largely unchanged at $32,000, roughly one-third of the STH Realized Price. The analyst observes that these long-term coins are likely held in cold storage, indicating \u201cstrong hands\u201d with little incentive to sell. They concluded: The blue line is climbing relentlessly; as long as BTC lives above it, the prevailing tide is still higher-lows, higher-highs. Lose it on a daily close, and we get our first real gut-check since April &#8211; otherwise the bull engine is merely cooling its cylinders. Experts Predict New High For BTC As BTC\u2019s STH Realized Price continues to surge higher &#8211; resulting in a higher floor price for the digital asset &#8211; several crypto experts seem to agree that the cryptocurrency may soon reach a new all-time high (ATH) in the coming months. Related Reading: Bitcoin May Surprise Bears: $100K\u2013$110K Range Shows Rising Short Interest For instance, Bitcoin is forming a bullish inverse head and shoulders pattern on the three-day chart, eyeing a potential ATH of as high as $150,000. At press time, BTC trades at $107,711, up 2.1% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant and TradingView.com"
-    },
-    {
-      "title": "Ethereum Price Signals Strength \u2014 Bullish Pop May Be Just Ahead",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-signals-strength-2450/",
-      "summary": "Ethereum price started a fresh increase above the $2,350 zone. ETH is now showing positive signs and might aim for a move above the $2,550 zone. Ethereum started a fresh upward move above the $2,320 level. The price is trading above $2,350 and the 100-hourly Simple Moving Average. There is a connecting bullish trend line forming with support at $2,440 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it settles above the $2,550 resistance zone in the near term. Ethereum Price Eyes More Gains Ethereum price started a fresh increase above the $2,250 support level, like Bitcoin. ETH price was able to clear the $2,320 and $2,350 resistance levels to move into a positive zone. The bulls even pushed the price above the 61.8% Fib retracement level of the downward move from the $2,568 swing high to the $2,115 low. The price is now facing hurdles near the $2,500 zone. Ethereum price is now trading above $2,450 and the 100-hourly Simple Moving Average. The price is now stuck near the 76.4% Fib retracement level of the downward move from the $2,568 swing high to the $2,115 low. On the upside, the price could face resistance near the $2,480 level. The next key resistance is near the $2,500 level. The first major resistance is near the $2,550 level. A clear move above the $2,550 resistance might send the price toward the $2,600 resistance. An upside break above the $2,600 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. Another Drop In ETH? If Ethereum fails to clear the $2,550 resistance, it could start a fresh decline. Initial support on the downside is near the $2,440 level and the trend line. The first major support sits near the $2,390 zone. A clear move below the $2,390 support might push the price toward the $2,310 support. Any more losses might send the price toward the $2,220 support level in the near term. The next key support sits at $2,150. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,310 Major Resistance Level \u2013 $2,550"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "ASIC Appoints Panel to Probe ASX Following Failed Blockchain Project",
+      "link": "https://decrypt.co/327103/asic-appoints-panel-to-probe-asx-following-failed-blockchain-project",
+      "summary": "The inquiry will assess the ASX\u2019s governance, capability, and risk management frameworks across its group operations."
+    },
+    {
+      "title": "ASX-Listed Biotech Firm Latest to Adopt a Bitcoin Strategy to Stay Afloat",
+      "link": "https://decrypt.co/327099/asx-listed-biotech-firm-bitcoin-strategy",
+      "summary": "Opyl is betting on the so-called Bitcoin treasury strategy to navigate its financial chop and follow recent examples set by others."
+    },
+    {
       "title": "US Housing Chief Orders Fannie Mae, Freddie Mac to Prepare for Crypto Assessment in Mortgages",
       "link": "https://decrypt.co/327087/us-housing-head-orders-fannie-mae-freddie-mac-accept-crypto",
       "summary": "Under a directive from the FHFA, Fannie Mae and Freddie Mac were ordered to prepare for crypto mortgage payments."
@@ -149,16 +159,6 @@
       "title": "Google's AlphaGenome AI Makes DNA Readable\u2014And It's on GitHub",
       "link": "https://decrypt.co/327050/google-alphagenome-makes-dna-readable-github",
       "summary": "AlphaGenome, accessible via API, cracks the \u201cjunk DNA\u201d code, outperforms top rivals in key tests, and puts advanced genomics tools within reach of labs around the world."
-    },
-    {
-      "title": "Prediction Market Kalshi Notches $2 Billion Valuation With $185 Million Raise",
-      "link": "https://decrypt.co/327074/prediction-market-kalshi-2-billion-valuation-185-million-raise",
-      "summary": "Kalshi achieved unicorn status following its latest Series C funding round, amid the prediction markets platform's growing crypto embrace."
-    },
-    {
-      "title": "Will GameStop Buy More Bitcoin? GME Boosts Latest Fundraise to $2.7 Billion",
-      "link": "https://decrypt.co/327068/will-gamestop-buy-more-bitcoin-gme-boosts-latest-fundraise",
-      "summary": "GameStop raised another $450 million that it can use to buy Bitcoin, boosting its latest raise to $2.7 billion. Will it grab more BTC?"
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin reclaims $107K \u2013 What\u2019s next as 3 factors align for BTC",
+      "link": "https://ambcrypto.com/bitcoin-reclaims-107k-whats-next-as-3-factors-align-for-btc/",
+      "summary": "<img alt=\"Bitcoin reclaims $107K - What&#039;s next as 3 factors align for BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/1000001592_1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin could be on the verge of setting a new high."
+    },
+    {
+      "title": "Zama Raises $57M in Series B to Bring End-to-End Encryption to Public Blockchains",
+      "link": "https://ambcrypto.com/zama-raises-57m-in-series-b-to-bring-end-to-end-encryption-to-public-blockchains/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"432\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-111110.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"621\" />Zama, the open-source cryptography company building state-of-the-art Fully Homomorphic Encryption (FHE) solutions for blockchain, announced [&#8230;]"
+    },
+    {
       "title": "Dogecoin price prediction: Here\u2019s why bulls should prepare for a 20% rally",
       "link": "https://ambcrypto.com/dogecoin-price-prediction-heres-why-bulls-should-prepare-for-a-20-rally/",
       "summary": "<img alt=\"Dogecoin price prediction: Here&#039;s why bulls should prepare for a 20% rally\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The range lows saw a bullish reaction from Dogecoin, and the CMF signaled sizeable capital inflows recently."
@@ -203,16 +213,6 @@
       "title": "DEXE climbs 10%, yet RISK lingers, with sellers in control \u2013 What next?",
       "link": "https://ambcrypto.com/dexe-climbs-10-yet-risk-lingers-with-sellers-in-control-what-next/",
       "summary": "<img alt=\"DEXE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_54_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DEXE rallies 10%, but taker-seller pressure and overheating signals raise questions about trend durability."
-    },
-    {
-      "title": "Norway\u2019s Green Minerals to buy $1.2 billion in Bitcoin, citing fiat risk hedge",
-      "link": "https://ambcrypto.com/norways-green-minerals-to-buy-1-2-billion-in-bitcoin-citing-fiat-risk-hedge/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"745\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Green-Minerals-to-Buy-1.2B-in-Bitcoin.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1324\" />Will larger, non-crypto companies follow in the footsteps of Strategy and Green Minerals?"
-    },
-    {
-      "title": "BNB daily activity drops off a cliff \u2013 How long before the price follows?",
-      "link": "https://ambcrypto.com/bnb-daily-activity-drops-off-a-cliff-how-long-before-the-price-follows/",
-      "summary": "<img alt=\"BNB daily activity drops off a cliff - How long before the price follows?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250625_123611_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BNB is facing downward pressure as on-chain sentiment deteriorates."
     }
   ]
 }
