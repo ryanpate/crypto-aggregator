@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Coinbase Brings Wrapped Cardano, Litecoin to Base With cbADA, cbLTC",
+      "link": "https://www.coindesk.com/markets/2025/06/26/coinbase-brings-wrapped-cardano-litecoin-to-base-with-cbada-cbltc",
+      "summary": ""
+    },
+    {
       "title": "Dogecoin Bulls Defend 16 Cent Support as Elon Musk\u2019s X Payments Speculations Loom",
       "link": "https://www.coindesk.com/markets/2025/06/26/dogecoin-bulls-defend-16-cent-support-as-elon-musks-x-payments-speculations-loom",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Bitcoin Nears $108K as Fed Rate Cut Bets Rise; Traders Eye Ether, Solana, Cardano",
       "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-nears-108k-as-fed-rate-cut-bets-rise-traders-eye-ether-solana-cardano",
       "summary": ""
-    },
-    {
-      "title": "World Liberty Makes Narrative U-Turn, Says WLFI Token Will Become Tradable Soon",
-      "link": "https://www.coindesk.com/markets/2025/06/26/world-liberty-makes-narrative-u-turn-says-wlfi-token-will-become-tradable-soon",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Trump-backed World Liberty to release stablecoin audit, make WLFI transferable",
+      "link": "https://cointelegraph.com/news/trump-crypto-platform-wlfi-transferable-stablecoin-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMjQtN2RiYi03ZmIxLWI4ZTktOThjOWExZGNiMDA5.jpg\" /></p><p>World Liberty Financial, the Trump-backed crypto venture, is preparing to publish its first stablecoin audit and may enable WLFI token transfers.</p>"
+    },
+    {
+      "title": "Zero-knowledge proofs, explained",
+      "link": "https://cointelegraph.com/explained/zero-knowledge-proofs-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNWZiMjE1NjFjMGRkOTkyYmNjYTdlZGMzZGUxZTA5ZS5qcGc=.jpg\" /></p><p>Zero-knowledge proofs are a game-changing innovation with profound implications for how users transact business, but can they replace the conventional contract?</p>"
+    },
     {
       "title": "\u2018Major bummer\u2019 \u2014 Users discover Ledger is sunsetting the \u2018OG\u2019 Nano S",
       "link": "https://cointelegraph.com/news/ledger-sunsetting-support-nano-s-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Bit Digital falls 4% as it ditches Bitcoin mining for Ethereum",
       "link": "https://cointelegraph.com/news/bit-digital-ditches-bitcoin-mining-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhMmEtNTA5My03ZDU0LWE1YmItYTQ4YTZkOTEzNWYx.jpg\" /></p><p>The crypto mining firm will additionally sell its own stock to purchase more ETH for its treasury.</p>"
-    },
-    {
-      "title": "Coinme pays $300K fine for violating California crypto ATM laws",
-      "link": "https://cointelegraph.com/news/coinme-pays-300k-fine-violating-california-crypto-atm-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhNmUtOGVhNi03NzIyLWI3YTAtNjIyNzJjYzJhYTI5.jpg\" /></p><p>The case marks California DFPI\u2019s first enforcement action under the state\u2019s Digital Financial Assets Law.</p>"
-    },
-    {
-      "title": "GameStop fails to woo traders with $450M raise, possibly for Bitcoin",
-      "link": "https://cointelegraph.com/news/gamestop-trades-flat-capital-raise-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVjOTEtNWYwYi03ZTcxLWIyM2MtZTE5MjM1NzY2NmJk.jpg\" /></p><p>Vincent Liu, the chief investment officer at Kronos Research, said buying Bitcoin alone isn\u2019t enough to increase a company\u2019s stock price; there needs to be a clear plan.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,29 +190,29 @@
   ],
   "AMBcrypto": [
     {
+      "title": "BTC Whales Offload Bitcoin Profits Into Pepe Dollar, The Federal Reserve Parody",
+      "link": "https://ambcrypto.com/btc-whales-offload-bitcoin-profits-into-pepe-dollar-the-federal-reserve-parody/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"448\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-123243.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"773\" />Recent geopolitical tensions between Iran and the United States have introduced volatility to the cryptocurrency [&#8230;]"
+    },
+    {
+      "title": "SEI crypto hits 5-month high, but this 10% dip could signal trouble \u2013 Why?",
+      "link": "https://ambcrypto.com/sei-crypto-hits-5-month-high-but-this-10-dip-could-signal-trouble-why/",
+      "summary": "<img alt=\"Sei [SEI]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-13.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will the whales re-enter and continue to push SEI higher? Assessing..."
+    },
+    {
+      "title": "Bow Miner test: BTC earns $20,000 a day, ETH earns $30,000 a day, and DOGE earns $15,000 a day!",
+      "link": "https://ambcrypto.com/bow-miner-test-btc-earns-20000-a-day-eth-earns-30000-a-day-and-doge-earns-15000-a-day/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"421\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-125127.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"745\" />Against the backdrop of rising global inflation and greater volatility in financial markets, the value [&#8230;]"
+    },
+    {
+      "title": "Pi crypto bulls to struggle to push past $0.64, here\u2019s why",
+      "link": "https://ambcrypto.com/pi-crypto-bulls-to-struggle-to-push-past-0-64-heres-why/",
+      "summary": "<img alt=\"Pi crypto bulls to struggle to push past $0.64, here&#039;s why\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Editors-1-2.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As Pi's market structure remains bearish, traders worry about the $0.64 mark."
+    },
+    {
       "title": "MELANIA loses 90% after 8% supply dump \u2013 Is recovery still possible?",
       "link": "https://ambcrypto.com/melania-loses-90-after-8-supply-dump-is-recovery-still-possible/",
       "summary": "<img alt=\"MELANIA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/MELANIA-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />MELANIA's trading volume declined over 80% in Q2."
-    },
-    {
-      "title": "Bitcoin reclaims $107K \u2013 What\u2019s next as 3 factors align for BTC",
-      "link": "https://ambcrypto.com/bitcoin-reclaims-107k-whats-next-as-3-factors-align-for-btc/",
-      "summary": "<img alt=\"Bitcoin reclaims $107K - What&#039;s next as 3 factors align for BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/1000001592_1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin could be on the verge of setting a new high."
-    },
-    {
-      "title": "Zama Raises $57M in Series B to Bring End-to-End Encryption to Public Blockchains",
-      "link": "https://ambcrypto.com/zama-raises-57m-in-series-b-to-bring-end-to-end-encryption-to-public-blockchains/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"432\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-111110.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"621\" />Zama, the open-source cryptography company building state-of-the-art Fully Homomorphic Encryption (FHE) solutions for blockchain, announced [&#8230;]"
-    },
-    {
-      "title": "Dogecoin price prediction: Here\u2019s why bulls should prepare for a 20% rally",
-      "link": "https://ambcrypto.com/dogecoin-price-prediction-heres-why-bulls-should-prepare-for-a-20-rally/",
-      "summary": "<img alt=\"Dogecoin price prediction: Here&#039;s why bulls should prepare for a 20% rally\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Dogecoin-Featured-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The range lows saw a bullish reaction from Dogecoin, and the CMF signaled sizeable capital inflows recently."
-    },
-    {
-      "title": "Solana traders bet on a bounce, but is the market ready to move?",
-      "link": "https://ambcrypto.com/solana-traders-bet-on-a-bounce-but-is-the-market-ready-to-move/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-10-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />High-volume optimism meets hesitant momentum as SOL stands at a technical crossroads."
     }
   ]
 }
