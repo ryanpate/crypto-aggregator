@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Australia\u2019s Securities Regulator to Probe ASX After Collapsed Blockchain Project",
+      "link": "https://www.coindesk.com/policy/2025/06/26/australias-securities-regulator-to-probe-asx-after-collapsed-blockchain-project",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Exchange Kraken Wins MiCA License in Ireland",
+      "link": "https://www.coindesk.com/policy/2025/06/26/crypto-exchange-kraken-wins-mica-license-in-ireland",
+      "summary": ""
+    },
+    {
       "title": "Coinbase Brings Wrapped Cardano, Litecoin to Base With cbADA, cbLTC",
       "link": "https://www.coindesk.com/markets/2025/06/26/coinbase-brings-wrapped-cardano-litecoin-to-base-with-cbada-cbltc",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "\u2018XRP to $3\u2019 Searches Rise as Token Shows Whale Activity Spike",
       "link": "https://www.coindesk.com/markets/2025/06/26/xrp-to-3-searches-rise-as-token-shows-whale-activity-spike",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin's Bull Case Strengthens as Dollar Index Slides, Nvidia Hits Record High Amid Recession Cues",
-      "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-s-bull-case-strengthens-as-dollar-index-slides-nvidia-hits-record-high-amid-recession-cues",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Nears $108K as Fed Rate Cut Bets Rise; Traders Eye Ether, Solana, Cardano",
-      "link": "https://www.coindesk.com/markets/2025/06/26/bitcoin-nears-108k-as-fed-rate-cut-bets-rise-traders-eye-ether-solana-cardano",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Pi Network token spikes 38% on AI plans, Google partnership rumors",
+      "link": "https://cointelegraph.com/news/pi-network-google-ai-rumors-pi2day-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMzYtODM1Ny03MDQ3LWJmZjUtMmE1MDMwNTI5YzY3.jpg\" /></p><p>Pi Network\u2019s token surged 38% as rumors of an AI partnership with Google spread ahead of the project\u2019s upcoming Pi2Day event announcement on June 28.</p>"
+    },
+    {
+      "title": "Japan\u2019s Metaplanet buys 1,234 BTC, now holds more than Tesla",
+      "link": "https://cointelegraph.com/news/metaplanet-bitcoin-holdings-overtakes-tesla-after-latest-1-234-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMmMtYmQ3MC03ZGI1LWFhMjQtZDY2MmZmNWJjMjIx.jpg\" /></p><p>Metaplanet has overtaken Tesla in corporate Bitcoin holdings, buying 1,234 BTC and bringing its total to 12,345 BTC as it eyes more expansion.</p>"
+    },
     {
       "title": "Trump-backed World Liberty to release stablecoin audit, make WLFI transferable",
       "link": "https://cointelegraph.com/news/trump-crypto-platform-wlfi-transferable-stablecoin-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35,25 +45,20 @@
     {
       "title": "Zero-knowledge proofs, explained",
       "link": "https://cointelegraph.com/explained/zero-knowledge-proofs-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNWZiMjE1NjFjMGRkOTkyYmNjYTdlZGMzZGUxZTA5ZS5qcGc=.jpg\" /></p><p>Zero-knowledge proofs are a game-changing innovation with profound implications for how users transact business, but can they replace the conventional contract?</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNWZiMjE1NjFjMGRkOTkyYmNjYTdlZGMzZGUxZTA5ZS5qcGc=.jpg\" /></p><p> Zero-knowledge proofs are a game-changing innovation with profound implications for how users transact business, but can they replace the conventional contract? </p>"
     },
     {
       "title": "\u2018Major bummer\u2019 \u2014 Users discover Ledger is sunsetting the \u2018OG\u2019 Nano S",
       "link": "https://cointelegraph.com/news/ledger-sunsetting-support-nano-s-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhOTQtMTQ3MC03OTBiLTlhYTEtMjVjNDMxZmUyMGIx.jpg\" /></p><p>Some users were questioning whether the Nano S would still work after support ends, and whether there was a security risk involved if they decided to keep using it.</p>"
-    },
-    {
-      "title": "Citibank accused of ignoring signs of $20M crypto romance scam",
-      "link": "https://cointelegraph.com/news/citibank-accused-ignoring-signs-20m-crypto-romance-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E5ZWUtM2RkOS03N2UwLWJkN2ItNjc4OWMzZGVmMjEz.jpg\" /></p><p>The victim of a $20 million crypto pig butchering scam has sued Citibank, alleging it ignored \u201cred flags\u201d and should have investigated suspicious activity.</p>"
-    },
-    {
-      "title": "Bit Digital falls 4% as it ditches Bitcoin mining for Ethereum",
-      "link": "https://cointelegraph.com/news/bit-digital-ditches-bitcoin-mining-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhMmEtNTA5My03ZDU0LWE1YmItYTQ4YTZkOTEzNWYx.jpg\" /></p><p>The crypto mining firm will additionally sell its own stock to purchase more ETH for its treasury.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "New Metaplanet buy flips Tesla in Bitcoin holdings as shares slide 5%",
+      "link": "https://cryptoslate.com/new-metaplanet-buy-flips-tesla-in-bitcoin-holdings-as-shares-slide-5/",
+      "summary": "<p>Japan-based Metaplanet has overtaken Tesla among corporate Bitcoin holders following its largest single purchase to date. On June 26, the firm confirmed that it acquired 1,234 BTC for approximately $132.7 million, paying an average of $107,557 per coin. This brings Metaplanet&#8217;s total Bitcoin holdings to 12,345 BTC, now worth about $1.33 billion based on current [&#8230;]</p> <p>"
+    },
     {
       "title": "Iran and Israel spent over $25B during the \u201912-day war,\u2019 equivalent to 1% of total Bitcoin supply",
       "link": "https://cryptoslate.com/insights/iran-and-israel-spent-over-25b-during-the-12-day-war-equivalent-to-1-of-total-bitcoin-supply/",
@@ -73,14 +78,14 @@
       "title": "US adopts crypto in mortgage risks as Fannie Mae and Freddie Mac update asset models",
       "link": "https://cryptoslate.com/us-adopts-crypto-in-mortgage-risks-as-fannie-mae-and-freddie-mac-update-asset-models/",
       "summary": "<p>US Federal Housing Finance Agency (FHFA) Director Willian J. Pulte ordered on June 25 that Fannie Mae and Freddie Mac treat cryptocurrency reserves as eligible assets when they measure risk on single-family mortgage loans, effective immediately. The two government-sponsored enterprises must draft plans that show how they will recognize borrower crypto holdings without first converting [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase launches Cardano and Litecoin wrapped tokens cbADA, cbLTC on Base",
-      "link": "https://cryptoslate.com/coinbase-launches-cardano-and-litecoin-wrapped-tokens-cbada-cbltc-on-base/",
-      "summary": "<p>Coinbase launched wrapped tokens for Cardano (cbADA) and Litecoin (cbLTC) on its Base layer-2 network, the exchange said in a June 25 post. Each synthetic token is backed 1:1 by the underlying asset held in Coinbase custody, and proof-of-reserves pages list the on-chain addresses securing the collateral. The transparency pages already show 11,364 LTC and [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "The Ethereum Waiting Game: Breakout To $2,800 Or Crash To $2,000?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-breakout-to-2800/",
+      "summary": "After suffering a major price crash back during the weekend, the Ethereum price has enjoyed an over 10% bounce that has put it back above major support levels. However, even with the recovery, the altcoin sits on shaky ground with geopolitical and macroeconomic factors still unstable. On the charts, there is also uncertainty as the second-largest cryptocurrency by market cap has failed to make any definitive moves from here, showing inconsistencies in movement. Ethereum Price Struggling At EMA Crypto analyst Swallow Academy noted that the Ethereum price has returned to trading at its Exponential Moving Average (EMA) earlier in the week after bouncing from its weekend lows. This has been referred to as the level of interest and sits around the $2,400 level, which has served as major support in the past. Related Reading: Analyst Says XRP Is Moving According To Plan, Here\u2019s Why $1.90 Is Important The harsh drop from the weekend that pushed ETH from $2,500 to $2,150 has no doubt dented sentiment and sparked caution among investors. But the retest of the EMA at $2,400 suggests that buyers are still exerting their force and have been pushing up the price. Given these recent developments, the crypto analyst explains that it is currently a waiting game for the Ethereum price. From here, it could go either way, as confirmation is needed for which direction it is headed next. A breakout from here could move it back above the $2,800 resistance. However, a crash could be confirmation of rejection, sending Ethereum spiraling back toward lows at $2,000. Mapping Out Next Steps As the Ethereum price continues to show signs of continuation, crypto analysts have begun to map out where the altcoin might be headed next. Mister Spread pointed to the fact that Ethereum had actually shown a bullish Power of 3 (PO3), consisting of accumulation, deviation, and expansion. Related Reading: Ethereum Price Crash To $2,100 Triggers Fear, But Why Are Analysts Predicting A Rally To $6,000? The accumulation phase has been completed, and is now in the phase of deviation, explaining the price crash. Now, the price seems to already be breaking out of the deviation box, suggesting that the expansion phase will be coming sooner than expected. Once the expansion phase is in motion, the crypto analyst expects the Ethereum price to move back into the supply area of $2,800-$3,000. However, if the price fails to climb and falls back below $2,100, then this bullish thesis would be invalidated. Featured image from Dall.E, chart from TradingView.com"
+    },
     {
       "title": "Solana Price At \u2018A Very Delicate Level\u2019 \u2013 Analyst Says $148 Reclaim Is Key",
       "link": "https://www.newsbtc.com/news/solana-price-at-a-very-delicate-level-analyst-says-148-reclaim-is-key/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Eyes $120K? Analyst Reveals What Comes After BTC\u2019s 50-Day EMA Breakout",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-eyes-120k-analyst-reveals-what-comes-after-btcs-50-day-ema-breakout/",
       "summary": "Bitcoin has resumed its upward movement, maintaining strength above the $107,000 level as market momentum builds toward the asset\u2019s recent all-time high above $111,000. As of this writing, BTC is trading at $107,242, reflecting a 1.3% gain over the past 24 hours and a 2.7% rise in the past week. The market\u2019s rebound comes after a brief dip last weekend, suggesting that investor confidence remains resilient heading into the next potential leg up. Contributing to the bullish outlook, CryptoQuant analyst \u0130brahim CO\u015eAR recently highlighted Bitcoin\u2019s successful reclaim of the 50-day Exponential Moving Average (EMA), which he described as a key level to track for short-term price trends. Related Reading: Fast-Tracking A Bitcoin Rally: Expert Identifies 3 Bullish Catalysts Bitcoin Reclaims Key Technical Level, Eyes $120K Potential According to CO\u015eAR, the 50-day EMA often acts as dynamic support during corrections, and regaining this level typically precedes a price rally. In past cycles, similar conditions have led to gains between 10% to 20% shortly after the level was reclaimed. CO\u015eAR further noted that Bitcoin\u2019s reclaim of the 50-day EMA occurred after a short-lived breakdown, which was quickly reversed with three consecutive daily closes above the level. This technical setup mirrors previous instances that preceded substantial upward moves. CO\u015eAR also cautioned that while the technical structure favors continued gains, geopolitical uncertainties, especially involving the US, Israel, and Iran, could introduce sudden volatility. As a result, he advised market participants to avoid leveraged positions in the short term and remain prepared for potential price swings. CO\u015eAR wrote: That said, geopolitical developments\u2014particularly any positive or negative news involving the U.S., Israel, and Iran\u2014could trigger sudden volatility in BTC\u2019s price. Please avoid using leverage during this period and remain cautious in the face of potential market swings. Further Into Technicals: Analyst Points to Bullish Flag Adding to the conversation, independent crypto analyst Captain Faibik suggested that Bitcoin\u2019s price pattern is forming a bullish flag, a common continuation pattern in technical analysis. According to Faibik, while the structure indicates a likely breakout, a final corrective dip to the $97,000\u2013$98,000 range may occur before upward momentum resumes. Related Reading: Bitcoin Poised For Rally As Geopolitical Tensions Ease And Inflation Expectations Fall He emphasized that a confirmed breakout above the $108,000 resistance would be a key signal, potentially setting the stage for a mid-term target of $130,000. $BTC is currently forming Bullish flag Pattern, but there\u2019s a chance we could see one more correction before the massive Bullish Rally begins.. I expect Bitcoin to dip towards the 97\u201398k zone before bouncing back towards the 108k Crucial Resistance.. Bulls need to break and\u2026 pic.twitter.com/YwOOREZTe7 \u2014 Captain Faibik \ud83d\udc3a (@CryptoFaibik) June 25, 2025 Notably, while short-term price forecasts vary, both analysts agree on the broader direction: Bitcoin remains in a bullish phase supported by technical trends. These insights align with broader market sentiment, including the increased inflow from institutional investors. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "XRP Price Trades Sideways \u2014 Bulls Preparing for Next Push?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-trades-sideways-2-20/",
-      "summary": "XRP price started a fresh increase from the $2.150 zone. The price is consolidating gains and might aim for a move above the $2.220 zone. XRP price started a fresh increase above the $2.150 zone. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. There is a bullish trend line forming with support at $2.1320 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move up if it closes above the $2.220 resistance zone. XRP Price Eyes Upside Break XRP price remained supported and started a fresh increase above the $2.050 zone, like Bitcoin and Ethereum. The price recovered above the $2.080 and $2.120 resistance levels. The pair even cleared the $2.180 resistance and recently spiked above the $2.220 zone. A high was formed at $2.2294 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $1.910 swing low to the $2.2294 high. The price is now trading above $2.180 and the 100-hourly Simple Moving Average. Besides, there is a bullish trend line forming with support at $2.1320 on the hourly chart of the XRP/USD pair. On the upside, the price might face resistance near the $2.220 level. The first major resistance is near the $2.250 level. The next resistance is $2.320. A clear move above the $2.320 resistance might send the price toward the $2.40 resistance. Any more gains might send the price toward the $2.480 resistance or even $2.50 in the near term. The next major hurdle for the bulls might be $2.550. Downside Correction? If XRP fails to clear the $2.220 resistance zone, it could start another decline. Initial support on the downside is near the $2.150 level. The next major support is near the $2.1320 level and the trend line. If there is a downside break and a close below the $2.1320 level, the price might continue to decline toward the $2.050 support or the 50% Fib retracement level of the upward move from the $1.910 swing low to the $2.2294 high. The next major support sits near the $2.00 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.150 and $2.1320. Major Resistance Levels \u2013 $2.220 and $2.250."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Whales add $915M in XRP \u2013 Can retail catch up, if so, prices will\u2026",
+      "link": "https://ambcrypto.com/whales-add-915m-in-xrp-can-retail-catch-up-if-so-what-next/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-11-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP whales accumulated $915M in a week, but retail fatigue could prevent sustained bullish momentum."
+    },
+    {
+      "title": "WIF bulls defend the $0.7 support \u2013 Can they drive a rally beyond $1?",
+      "link": "https://ambcrypto.com/wif-bulls-defend-the-0-7-support-can-they-drive-a-rally-beyond-1/",
+      "summary": "<img alt=\"WIF bulls defend the $0.7 support - Can they drive a rally beyond $1?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/WIF-Featured-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A lack of demand and dwindling trading volume showed that dogwifhat was not yet ready to rally."
+    },
+    {
       "title": "BTC Whales Offload Bitcoin Profits Into Pepe Dollar, The Federal Reserve Parody",
       "link": "https://ambcrypto.com/btc-whales-offload-bitcoin-profits-into-pepe-dollar-the-federal-reserve-parody/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"448\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-123243.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"773\" />Recent geopolitical tensions between Iran and the United States have introduced volatility to the cryptocurrency [&#8230;]"
@@ -203,16 +213,6 @@
       "title": "Bow Miner test: BTC earns $20,000 a day, ETH earns $30,000 a day, and DOGE earns $15,000 a day!",
       "link": "https://ambcrypto.com/bow-miner-test-btc-earns-20000-a-day-eth-earns-30000-a-day-and-doge-earns-15000-a-day/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"421\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-125127.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"745\" />Against the backdrop of rising global inflation and greater volatility in financial markets, the value [&#8230;]"
-    },
-    {
-      "title": "Pi crypto bulls to struggle to push past $0.64, here\u2019s why",
-      "link": "https://ambcrypto.com/pi-crypto-bulls-to-struggle-to-push-past-0-64-heres-why/",
-      "summary": "<img alt=\"Pi crypto bulls to struggle to push past $0.64, here&#039;s why\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Editors-1-2.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As Pi's market structure remains bearish, traders worry about the $0.64 mark."
-    },
-    {
-      "title": "MELANIA loses 90% after 8% supply dump \u2013 Is recovery still possible?",
-      "link": "https://ambcrypto.com/melania-loses-90-after-8-supply-dump-is-recovery-still-possible/",
-      "summary": "<img alt=\"MELANIA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/MELANIA-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />MELANIA's trading volume declined over 80% in Q2."
     }
   ]
 }
