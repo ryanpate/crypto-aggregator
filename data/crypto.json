@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "US judge denies Ripple, SEC joint request to reduce $125M penalty",
+      "link": "https://cointelegraph.com/news/judge-denies-ripple-sec-request-reverse-rulings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjNjgtYjc3ZC03NzZlLWE1ODctNmFiNDFhNWMwZmNm.jpg\" /></p><p>Judge Analisa Torres wrote that Ripple is still required to follow federal securities laws regardless of the SEC's regulatory pivot.</p>"
+    },
+    {
+      "title": "World Chain launches tool to prioritize real humans over bots",
+      "link": "https://cointelegraph.com/news/world-chain-launches-tool-to-prioritize-real-humans-over-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjZDktOTIzZS03OWRhLWJlYjYtOWU5MjkyMmZkYjQz.jpg\" /></p><p>Created jointly with Flashblocks, World\u2019s Priority Blockspace for Humans aims to ensure the best transaction speed for real humans.</p>"
+    },
+    {
       "title": "Private credit powers $24B tokenization market, Ethereum still dominates \u2014 RedStone",
       "link": "https://cointelegraph.com/news/private-credit-powers-24b-tokenization-market-ethereum-still-dominates-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FkMTUtMzkxNC03ZmQyLWJkMmEtNGFkODA3MGE2NDA4.jpg\" /></p><p>The tokenized RWA market is now valued at $24 billion, dominated by private credit and US Treasury debt.</p>"
@@ -41,19 +51,14 @@
       "title": "Can Bitcoin ETFs replace bonds in institutional portfolios?",
       "link": "https://cointelegraph.com/explained/can-bitcoin-etfs-replace-bonds-in-institutional-portfolios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MjkxZThkODRjZGYxMTVhMTI2YzUxZGE0OTkyMTQ5MS5qcGc=.jpg\" /></p><p>As Bitcoin ETFs gain traction, some institutions are asking whether crypto can serve as a modern hedge. Can it really take the place of bonds?</p>"
-    },
-    {
-      "title": "The multichain future might kill DeFi before it saves it",
-      "link": "https://cointelegraph.com/news/multichain-kill-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1YjQtMjQzMS03ZDg5LTk2MjAtOTJkMWMwMTFlZTZi.jpg\" /></p><p>The explosion of new blockchains has fractured DeFi\u2019s once-unified liquidity, threatening its core advantage of composability. Without infrastructure that seamlessly connects siloed markets, DeFi risks losing its revolutionary qualities.</p>"
-    },
-    {
-      "title": "Bitcoin price starts &#039;normal and healthy&#039; support test as $108K halts bulls",
-      "link": "https://cointelegraph.com/news/bitcoin-price-starts-normal-and-healthy-support-test-as-108k-halts-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjOTktY2M2Ny03NTExLWI1NmItM2NiOGFmMmM4YWI0.jpg\" /></p><p>BTC price returns to retest recently reclaimed levels as Bitcoin analysis flags the 50-day moving average trendline as a \"buying opportunity.\"</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "House clears HB 1664, setting Commerce Department as lead federal blockchain coordinator",
+      "link": "https://cryptoslate.com/house-clears-hb-1664-setting-commerce-department-as-lead-federal-blockchain-coordinator/",
+      "summary": "<p>The House passed HB 1664 on June 26, which designates the Secretary of Commerce as the President\u2019s principal advisor on matters involving distributed-ledger technology The measure, introduced by Rep. Kat Cammack and co-sponsored by Rep. Darren Soto, passed by voice vote under suspension of the rules on June 26, according to the chamber\u2019s floor summary. [&#8230;]</p> <p>"
+    },
     {
       "title": "Ripple partners with Wormhole to expand XRP Ledger\u2019s cross-chain capabilities",
       "link": "https://cryptoslate.com/ripple-partners-with-wormhole-to-expand-xrp-ledgers-cross-chain-capabilities/",
@@ -73,14 +78,14 @@
       "title": "Hong Kong expands digital asset agenda with unified rules, tokenization push",
       "link": "https://cryptoslate.com/hong-kong-expands-digital-asset-agenda-with-unified-rules-tokenization-push/",
       "summary": "<p>Hong Kong released a second policy statement to accelerate its digital asset (DA) development and reinforce its ambition to become a global leader in financial innovation. The latest statement, dated June 26 and dubbed &#8220;Policy Statement 2.0,&#8221; expands on the framework laid out in its initial release from October 2022. According to the Hong Kong [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin miners hold firm as daily revenues hit multi-month lows of $34 million",
-      "link": "https://cryptoslate.com/bitcoin-miners-hold-firm-as-daily-revenues-hit-multi-month-lows-of-34-million/",
-      "summary": "<p>Bitcoin miners are holding onto their assets even as mining profitability dips to multi-month lows, a new CryptoQuant report shared with shows. The data reveals that miner revenues dropped to $34 million on June 22, marking their weakest earnings since April 20. &#160; This comes amid a broader market pullback and a drop in [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "XRP Gears Up For Major Move \u2014 Chart Signals Are Clear",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-gears-up-for-major-move-chart-signals-are-clear/",
+      "summary": "XRP is showing all the signs of a move brewing, and the chart doesn&#8217;t lie. After a period of consolidation, price action is tightening, and technical indicators are flashing signals of an impending move. Whether it&#8217;s a surge to the upside or a sharp reversal, the setup is in place, and momentum is building. XRP looks loaded and ready to make its next move. Volume Remains Subdued \u2014 Calm Before The Storm? XRP price remains trapped inside a long-standing triangle, a pattern known for building pressure before sharp directional moves. The chart shows that sellers continue to push lower highs, compressing price action toward a support level. Related Reading: XRP Price Trades Sideways \u2014 Bulls Preparing for Next Push? Parshwa Turakhiya pointed out on X that the Exponential Moving Average (EMA) cluster between $2.17 and $2.23 is the key breakout zone capping any upward momentum. A clean break above this range could trigger a bullish reversal. On the other hand, $2.09 is the last line of defense for the bulls. If this level fails, the structure breaks down, and XRP could swiftly drop to $1.85. Despite the building tension, the Relative Strength Index (RSI) remains neutral, which Parshwa Turakhiya describes as &#8220;the calm before the volatility storm.&#8221; The chart structure suggests that a move is imminent. With early July just ahead, Parshwa Turakhiya warns that a breakout or breakdown is coming, and it won&#8217;t be subtle. XRP is on the edge of eruption. Fabio Zuccara stated that Dr. Profit, known for his sharp and historically accurate calls on XRP at $0.15, $0.38, and $0.50, has now projected a new mid-term target of $4.00. In a weekly chart shared via social media, XRP is forming a bullish structure, with a green arrow projecting a continuation move to the upside. Zuccara outlined a crucial level for maintaining the bullish trajectory. This rebound adds strength to the outlook, suggesting that momentum is building in favor of the bulls. In the same vein, SquirtleCharts revealed that XRP&#8217;s 4-hour chart has mapped out a precise path toward $3.00 target, with several resistance levels standing in the way, and each level varies in difficulty. The first is $2.22, the easy one, a weak resistance point that XRP could clear without much effort. Next is $2.33, which SquirtleCharts labels as &#8220;a lot harder,&#8221; signaling a barrier that may require volume and conviction to break. The $2.48 level is &#8220;not too bad,&#8221; a moderate resistance area that might slow the rally but not be a roadblock. Finally, the $2.65 is the &#8220;pretty hard,&#8221; a zone where bulls may face challenges. Perfect Technical Structure Sets Stage For Explosive Breakout Massive move incoming for XRP. After a clean bounce off the $2.00 support level, the setup is aligning perfectly on the daily chart. Related Reading: XRP Pullback Nearly Complete\u2014Next Stop: $8 To $12, Says Analyst Sara emphasizes that the chart structure looks flawless, with price action respecting critical zones and now coiling for an explosive breakout, with momentum building and bulls defending the support zone. The next target is $3.50; a breakout might happen fast. Featured image from Istock images, chart from tradingview.com"
+    },
     {
       "title": "Ethereum Reclaims $2,444 Level \u2013 Bullish Continuation In Focus",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-reclaims-2444-level-bullish-continuation-in-focus/",
@@ -100,14 +105,14 @@
       "title": "Crypto ETF Race Heats Up, More Solana ETFs Planned as Snorter Bot Corners Market for Solana Memes",
       "link": "https://www.newsbtc.com/news/crypto-etf-race-heats-up-more-solana-etfs-planned-as-snorter-bot-corners-market/",
       "summary": "The SEC\u2019s filing cabinet has to be pretty full these days, and their \u2018paperwork pending\u2019 stack is getting perilously high. Invesco Ltd and Galaxy Digital LP combined forces to offer another Solana-based exchange-traded fund (ETF). They filed the appropriate paperwork with the SEC and joined at least 12 other potential spot and future ETFs on the SEC to rule on their status. The competition for the leading $SOL ETF takes place at the most visible end of the crypto ecosystem. Far lower down, there\u2019s a different race on, with Snorter poised to corner the market in the fast-paced world of Solana meme coins on Telegram. It\u2019s two ends of the same spectrum and speaks to the growing strength and versatility of the Solana ecosystem. Invesco Galaxy Solana ETF Ready to List Why the race for a Solana ETF? Partly because of the tremendous success of Bitcoin and Ethereum ETFs: $IBIT: iShares Bitcoin Trust, $70.6B Assets Under Management (AUM) $FBTC: Fidelity Wise Origin Bitcoin Fund, $20.4B AUM $GBTC: Grayscale Bitcoin Trust, $19.6B AUM $ETHA: iShares Ethereum Trust, $3.9B AUM $ETHE: Grayscale Ethereum Trust, $2.8B AUM It\u2019s no surprise that more players are ready to enter the game, particularly as the realms of traditional finance (TradFi) and decentralized finance (DeFi) move ever-closer together. Only $BTC and $ETH currently have single-asset crypto ETFs, but the pile of pending filings includes everything from $XRP to $SOL to the first-ever NFT ETF, with Pudgy Penguins ($PENGU). And with single-asset crypto ETFs rolling along, institutions aren\u2019t waiting around for the SEC. They\u2019ve already started to move towards multi-asset ETFs. Converting Existing Funds to Multi-Asset ETFs One of the holdups so far has been that the SEC lacks a clear set of rules around crypto ETFs, even after the $BTC and $ETH approvals went ahead. The question now is, will the SEC hold approvals until they draw up new rules? Or will they approve first and develop the rule set as they go? There is some time pressure at work here. Grayscale wants to convert its Digital Large Cap Fund (GDLC) to an ETF, and the deadline for that is July 2. That fund already holds a number of crypto assets, including $XRP, $SOL, and $ADA. If the conversion is approved, look for others to follow. Investment managers from Bitwise to Hasdex have plans to convert other funds to multi-asset ETFs that include cryptos. The funds sit at the top of the financial and investment world, and every one that gets approved boosts Solana\u2019s long-term outlook just slightly. But much, much farther down, there\u2019s another reason to be excited for Solana. The frenetic, fast-paced world of Solana meme coin trading just got a tool that could bring much-needed clarity and make finding those 10x or 100x opportunities much easier. Snorter Token ($SNORT) \u2013 One Bot to Rule Them All for Meme Coin Trading on Telegram What do you need to find and trade memes on Telegram? You need: Lightning-fast transactions and swaps Automated sniping, to get in and out at the right time Protection from rug pulls, honeypots, and front-running trades Thankfully, traders now have Snorter Bot, the meme coin-styled trading bot designed specifically for trading low-cap Solana memes on Telegram. The $SNORT token powers the bot, providing for rapid trade execution and the lowest fees possible. The project\u2019s presale has already raised nearly $1.3M in a few weeks, indicating broad support. The roadmap includes launching the bot on Solana but expanding to EVM-compatible chains post-launch. In the meantime, the plans feature a token bridge and a built-in Telegram dashboard. No more avoiding Telegram tokens; traders can dive in with confidence with Snorter. Visit the Snorter website to learn more. Solana ETFs Mark the Next Stage of Crypto Adoption As plans proceed, even the rate of ETF filings indicates just how fast crypto adoption is moving. From Wall Street boardrooms to Telegram chats, Solana is becoming increasingly accessible to investors of every stripe. Keep an eye on Snorter, and another on the broader Solana ecosystem. But remember \u2013 always do your own research. This isn\u2019t financial advice."
-    },
-    {
-      "title": "XRP Bulls On Alert\u2014\u2019This Trendline Is Everything,\u2019 Says Analyst",
-      "link": "https://www.newsbtc.com/xrp-news/xrp-this-trendline-is-everything-analyst/",
-      "summary": "XRP spent the past forty-eight hours coiling into a textbook inflection zone, and the 15-minute chart published by independent analyst Casi makes it hard to miss where the battle lines now stand. Price is hovering at $2.18, clinging to a steeply rising trendline that has underpinned every impulsive thrust since the local swing low near the 0.618 retracement at $1.9824 on 23 June. That trendline intersects a horizontal shelf of former resistance-turned-support at the 1.618 extension measured from the same base move, labelled on the chart at $2.186. The confluence forms the geometric \u201capex of consolidation\u201d Casi has been highlighting on X. XRP Price At Breaking Point \u201cThis trendline is everything right now,\u201d Casi wrote. \u201cWe just got a clean reaction off it. This correction already reached the .382 retracement at $2.145, which also happens to be the apex of consolidation\u2026 that\u2019s the most critical level on the chart, short-term.\u201d The most recent corrective pullback already tagged the 0.382 Fibonacci retracement of the advance, exactly at $2.145, before bulls forced a reaction. As long as candles continue to close above that retracement\u2014effectively the floor of the micro-range\u2014Casi argues that the underlying market structure remains constructive. A decisive break beneath $2.145, by contrast, would represent both a loss of the diagonal trendline and a surrender of the consolidation base, signalling short-term weakness and, in his words, \u201copening the door to a deeper flush.\u201d Related Reading: XRP Pullback Nearly Complete\u2014Next Stop: $8 To $12, Says Analyst Overhead, XRP must still reckon with layered resistance. The first ceiling sits at $2.20, but the level called out as \u201cthe next big test\u201d is the thicker pink band at $2.25. That mark capped price repeatedly during yesterday\u2019s U.S. session and coincides with a prior 1.272 extension of the late-May corrective leg. \u201cIf we can flip that level, we\u2019ll likely open the path toward the $2.69 retrace test,\u201d Casi noted, \u201cand from there, the breakout potential increases dramatically!\u201d If price can reclaim $2.25 on expanding volume and then retest it as support, the chart leaves an unobstructed lane toward the 2.618 extension at $2.296\u2014effectively $2.30\u2014and, by projection, the $2.69 Fibonacci target that would complete the measured-move roadmap Casi is tracking. Related Reading: XRP To $30 Beyond 2026? Analyst Reveals Key BTC Ratio To Watch Momentum, however, is not yet offering a clean green light. The lower pane shows a 14-period RSI capped by its own descending trendline that has compressed every rally since 24 June. With the oscillator printing 46.24 (signal) versus 43.59 (base line) at the time of the screenshot, the gauge is climbing but still mid-range. A marginal higher high in price paired with a lower high in RSI would etch a textbook bearish divergence\u2014an outcome Casi told one follower he is \u201cexpecting to set up\u201d if XRP pierces $2.25 before consolidating anew. \u201cI think this next high will form a bearish div,\u201d he added. \u201cThe RSI is telling me it\u2019s about to set that up.\u201d In short, the token is balanced on a knife-edge: the bull case hinges on the integrity of the $2.145\u2013$2.186 support complex and a breakout through $2.25, while the bear case rests on trendline failure and an RSI divergence confirming upside exhaustion. With liquidity thinning into the weekend, the resolution of this narrow consolidation could shape the next wave\u2014whether that proves to be the ignition of a larger third impulse or the start of a deeper corrective detour. As Casi put it, \u201cThis is the kind of price action you want to see if XRP is serious about continuing this new trend to the upside.\u201d At press time, XRP traded at $2.19. Featured image created with DALL.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Tahini\u2019s Bitcoin Treasury: How a Family Chain Outsmarted Inflation",
+      "link": "https://bitcoinmagazine.com/business/tahinis-bitcoin-treasury-how-a-family-chain-outsmarted-inflation",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/tahini-bitcoin-2020-treasury-playbook.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/business/tahinis-bitcoin-treasury-how-a-family-chain-outsmarted-inflation\" rel=\"nofollow\"> </a></p> <p>Tahini\u2019s, a Canadian fast-casual chain, embraced Bitcoin in 2020, leveraging it to compete with giants like McDonald\u2019s. Here\u2019s their treasury playbook.</p> <p>"
+    },
     {
       "title": "Coinbase to Launch US Nano Bitcoin Perpetual-Style Futures In July",
       "link": "https://bitcoinmagazine.com/news/coinbase-to-launch-us-nano-bitcoin-perpetual-style-futures-in-july",
@@ -127,14 +132,19 @@
       "title": "Castle Raises $1M to Bring Automated Bitcoin Treasury to Small & Medium-Sized Businesses",
       "link": "https://bitcoinmagazine.com/news/castle-raises-1m-to-bring-automated-bitcoin-treasury-to-small-medium-sized-businesses",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Castle-Raises-1M-to-Bring-Automated-Bitcoin-Treasury-to-Small-Medium-Sized-Businesses-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/castle-raises-1m-to-bring-automated-bitcoin-treasury-to-small-medium-sized-businesses\" rel=\"nofollow\">Castle Raises $1M to Bring Automated Bitcoin Treasury to Small &amp; Medium-Sized Businesses</a></p> <p>Backed by Boost VC and Winklevoss Capital, Castle aims to help SMBs protect their balance sheets by automating bitcoin allocations.</p> <p>"
-    },
-    {
-      "title": "FHFA Orders to Recognize Bitcoin And Other Cryptos in Mortgage Assessments",
-      "link": "https://bitcoinmagazine.com/news/fhfa-orders-to-recognize-bitcoin-and-other-cryptos-in-mortgage-assessments",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/FHFA-Orders-to-Recognize-Bitcoin-And-Other-Cryptos-in-Mortgage-Assessments.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/fhfa-orders-to-recognize-bitcoin-and-other-cryptos-in-mortgage-assessments\" rel=\"nofollow\"> </a></p> <p>Fannie Mae and Freddie Mac are now directed to treat properly documented Bitcoin and other crypto assets as part of borrower reserves for mortgages.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Moon or Doom: Where Does Ethereum Go Next?",
+      "link": "https://decrypt.co/327214/moon-doom-ethereum-eth-price-predictions",
+      "summary": "Ethereum sits at a crossroads as traders debate whether the second-largest cryptocurrency will finally break through $3,000 or plunge back down to $2,000."
+    },
+    {
+      "title": "Coinbase Brings Cardano and Litecoin to Base, Joining DOGE and XRP",
+      "link": "https://decrypt.co/327210/coinbase-brings-cardano-litecoin-base-joining-doge-xrp",
+      "summary": "Crypto exchange Coinbase has added new ways for crypto holders to make use of Cardano and Litecoin on its Base network."
+    },
     {
       "title": "Coinbase Stock Eyes Record Close as Analysts Project Massive Gains",
       "link": "https://decrypt.co/327197/marching-forward-coinbase-stock-eyes-record-close-regulatory-hope",
@@ -149,16 +159,6 @@
       "title": "Ripple Stuck With $125 Million Penalty as Judge Denies XRP Settlement With SEC",
       "link": "https://decrypt.co/327157/ripple-stuck-with-125-million-penalty-as-judge-denies-xrp-settlement-with-sec",
       "summary": "While the SEC has become more crypto friendly, a federal judge in Manhattan found that the law hasn't changed."
-    },
-    {
-      "title": "Hacker Drains $9.6 Million From DeFi Stablecoin Protocol Resupply",
-      "link": "https://decrypt.co/327148/hacker-drained-9-6-million-from-defi-stablecoin-protocol-resupply",
-      "summary": "\u201cUsers should avoid reUSD vaults and withdraw funds if possible,\" one security expert told ."
-    },
-    {
-      "title": "Bitcoin and Ethereum Flat as Iran Claims Victory Over US",
-      "link": "https://decrypt.co/327140/bitcoin-ethereum-flat-as-iran-claims-victory",
-      "summary": "Bitcoin and Ethereum have inched forward, as 77% of Myriad Market users signal they\u2019re certain Iran's supreme leader will remain in power."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin hits $108K, but retail traders go short \u2013 Will they regret it?",
+      "link": "https://ambcrypto.com/bitcoin-hits-108k-but-retail-traders-go-short-will-they-regret-it/",
+      "summary": "<img alt=\"Bitcoin [BTC]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/1000001598.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Multiple metrics indicate that Bitcoin investors have started selling the asset, even as its price rises."
+    },
+    {
       "title": "Is Coinbase the \u2018Amazon of crypto?\u2019 COIN gets $510 target from Bernstein",
       "link": "https://ambcrypto.com/is-coinbase-the-amazon-of-crypto-coin-gets-510-target-from-bernstein/",
       "summary": "<img alt=\"Is Coinbase the &#039;Amazon of crypto?&#039; COIN gets $510 target from Bernstein\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Benjamin-2025-06-26T141953.518.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bernstein expects Coinbase to benefit from stablecoin boom, foresees no meaningful competition risk."
@@ -208,11 +213,6 @@
       "title": "Bitcoin fear fades, but investors remain cautious \u2013 What\u2019s holding BTC back?",
       "link": "https://ambcrypto.com/bitcoin-fear-fades-but-investors-remain-cautious-whats-holding-btc-back/",
       "summary": "<img alt=\"Bitcoin fear fades, but investors remain cautious - What\u2019s holding BTC back?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-26T132551.061-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin cools off near all-time highs, but long-term selling and leverage buildup raise caution."
-    },
-    {
-      "title": "Will crypto bills be delayed until 2026? \u2013 Senator Lummis shares insight",
-      "link": "https://ambcrypto.com/will-crypto-bills-be-delayed-until-2026-senator-lummis-gives-insight/",
-      "summary": "<img alt=\"Lummis on CLARITY &amp; GENIUS Act\" class=\"attachment-full size-full wp-post-image\" height=\"583\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lummis-on-CLARITY-GENIUS-Act.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1036\" />Political chess continues in D.C. as crypto bills inch closer. When will they be approved?"
     }
   ]
 }
