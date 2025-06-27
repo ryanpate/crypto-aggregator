@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin Treasury Corporation to relist on Toronto exchange, buys 292 BTC",
+      "link": "https://cointelegraph.com/news/bitcoin-treasury-resumes-tsxv-trading-raises-92m-buys-292-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IwZGEtNjUzOC03OTU3LWIzNDktNTUxYjI1Yzg5NDBl.jpg\" /></p><p>Bitcoin Treasury Corporation completed a $92 million raise and bought 292.8 BTC ahead of its trading resumption on the TSX Venture Exchange.</p>"
+    },
+    {
       "title": "Three signs that XRP price will soon break out after 4-month consolidation",
       "link": "https://cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg\" /></p><p>XRP price fundamental and technical indicators are giving bulls hope that the current consolidation sets the stage for a move toward $5.</p>"
@@ -46,14 +51,14 @@
       "title": "Genius Group eyes massive Bitcoin buys from billion-dollar lawsuits",
       "link": "https://cointelegraph.com/news/genius-group-lawsuit-dividend-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzEyMmUtYmM4My03NzgwLTg1OTAtYjY0OTgyMDFjODFi.jpg\" /></p><p>If successful, Genius Group\u2019s $1 billion lawsuits could net shareholders $7 per share while boosting the company\u2019s Bitcoin holdings by 5,000 BTC.</p>"
-    },
-    {
-      "title": "UK\u2019s The Smarter Web Company raises $56M days after big Bitcoin buy",
-      "link": "https://cointelegraph.com/news/the-smarter-web-company-raises-56m-days-after-196-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhNDctODdkMS03MGRmLWJjZDEtNDk5ZTU2MDk0NmNk.jpg\" /></p><p>UK-based The Smarter Web Company has made a multimillion-dollar raise just days after it purchased $20 million worth of Bitcoin to bring its holdings to over 540 BTC.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Crypto heists reach $2.1B so far in 2025 as state-backed hackers ramp up attacks",
+      "link": "https://cryptoslate.com/crypto-heists-reach-2-1b-so-far-in-2025-as-state-backed-hackers-ramp-up-attacks/",
+      "summary": "<p>The first half of 2025 exposed deep vulnerabilities in the crypto industry, with hackers stealing over $2.1 billion across 75 separate incidents. This marks a 10% increase from the previous H1 record of $2 billion in 2022 and nearly matches the full-year figure for 2024, which closed at $2.2 billion, according to a report from [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin market cap overtakes Google\u2019s $2.1 billion valuation as crypto equities also rise",
       "link": "https://cryptoslate.com/bitcoin-market-cap-overtakes-googles-2-1-billion-valuation-as-coinbase-stock-jumps-on-stablecoin-hopes/",
@@ -73,11 +78,6 @@
       "title": "Dinari wins broker-dealer license to roll out tokenized stocks across US platforms",
       "link": "https://cryptoslate.com/dinari-wins-broker-dealer-license-to-roll-out-tokenized-stocks-across-us-platforms/",
       "summary": "<p>Dinari secured a US broker-dealer registration for its subsidiary, becoming the first platform cleared to offer blockchain-based shares of publicly traded companies to domestic investors, Reuters reported on June 26. The San Francisco firm stated that it will activate the licensed entity during the next quarter, following completion of onboarding with the Securities and Exchange [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Former Tether, Hut 8, Blackstone execs to launch $1B crypto treasury firm",
-      "link": "https://cryptoslate.com/former-tether-hut-8-blackstone-execs-to-launch-1b-crypto-treasury-firm/",
-      "summary": "<p>A group of high-profile financial executives, including former Blackstone dealmaker Chinh Chu and Tether co-founder Reeve Collins, are seeking to raise $1 billion to launch what could become the first publicly traded crypto treasury firm with a diversified portfolio, Bloomberg News reported on June 25, citing people familiar with the matter. The effort is being [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Octora AI brings real-time context to AI agents with a next-generation playground experience",
+      "link": "https://cryptobriefing.com/real-time-ai-context-octora/",
+      "summary": "<p>Octora AI's integration of real-time data access for AI agents could revolutionize AI applications by enhancing contextual understanding and decision-making.</p> <p>"
+    },
+    {
       "title": "Crypto exchange Bakkt files to raise up to $1 billion to support Bitcoin strategy",
       "link": "https://cryptobriefing.com/bakkt-bitcoin-strategy-funding/",
       "summary": "<p>Bakkt's fundraising could accelerate its shift towards crypto infrastructure, potentially influencing market dynamics and digital asset adoption.</p> <p>"
@@ -181,14 +186,19 @@
       "title": "Court rejects Ripple and SEC bid to slash $125M penalty and lift injunction on XRP sales to institutions",
       "link": "https://cryptobriefing.com/ripple-sec-penalty-court-decision/",
       "summary": "<p>The court's decision underscores the ongoing regulatory challenges and legal scrutiny facing the cryptocurrency industry.</p> <p>"
-    },
-    {
-      "title": "Galaxy Digital secures $175 million for first venture fund to back early-stage crypto startups",
-      "link": "https://cryptobriefing.com/early-stage-crypto-startups-fund/",
-      "summary": "<p>Galaxy Digital's venture fund expansion could accelerate innovation in crypto, bridging traditional finance and blockchain, impacting global markets.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Bakkt Holding\u2019s $1B Bitcoin play: What this move means amidst market doubts",
+      "link": "https://ambcrypto.com/bakkt-holdings-1b-bitcoin-play-what-this-move-means-amidst-market-doubts/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"637\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bakkt-Holdings-Inc.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1132\" />Can a firm with \u201csubstantial doubt\u201d about survival lead the next wave of crypto corporates?"
+    },
+    {
+      "title": "Ethereum\u2019s $7.3 billion fee surge \u2013 How utility will fuel ETH",
+      "link": "https://ambcrypto.com/ethereums-7-3-billion-fee-surge-how-utility-will-fuel-eth/",
+      "summary": "<img alt=\"Ethereum&#039;s $7.3 billion fee surge - How utility will fuel ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-20.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could Ethereum be quietly setting the stage for a Q3 comeback?"
+    },
     {
       "title": "Coinbase\u2019s new perps come for Hyperliquid\u2019s crown \u2013 \u2018Net bearish for HYPE\u2019",
       "link": "https://ambcrypto.com/coinbases-new-perps-come-for-hyperliquids-crown-net-bearish-for-hype/",
@@ -203,16 +213,6 @@
       "title": "$15B in Bitcoin Options expire today \u2013 Will it trigger a crypto market shake-up?",
       "link": "https://ambcrypto.com/15b-in-bitcoin-options-expire-today-will-it-trigger-a-crypto-market-shake-up/",
       "summary": "<img alt=\"$15B in Bitcoin Options expire today - Will it trigger a crypto market shake-up?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika3-1-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could this expiry be the spark that breaks Bitcoin out of its current range?"
-    },
-    {
-      "title": "How to play online casino in Norway with Bitcoin",
-      "link": "https://ambcrypto.com/how-to-play-online-casino-in-norway-with-bitcoin/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"487\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-27-133651.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"744\" />Norway maintains strict control over gambling through a state monopoly that limits access to offshore [&#8230;]"
-    },
-    {
-      "title": "Kaspa [KAS] on a long-term downtrend? Here\u2019s why it should worry investors!",
-      "link": "https://ambcrypto.com/kaspa-kas-on-a-long-term-downtrend-heres-why-it-should-worry-investors/",
-      "summary": "<img alt=\"Kaspa [KAS] on a long-term downtrend? Here&#039;s why it should worry investors!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kaspa-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Kaspa's recovery from $0.06 support may be underway, but the bulls would likely struggle to make steady gains."
     }
   ]
 }
