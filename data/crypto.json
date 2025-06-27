@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "ACX Token Slides 10% as Accusations of DAO Manipulation Rock Across Protocol",
+      "link": "https://www.coindesk.com/markets/2025/06/27/acx-token-slides-10-as-accusations-of-dao-manipulation-rock-across-protocol",
+      "summary": ""
+    },
+    {
+      "title": "Market Cap of Euro Stablecoins Surges to Nearly $500M as EUR/USD Rivals Bitcoin's H1 Gains",
+      "link": "https://www.coindesk.com/markets/2025/06/27/market-cap-of-euro-stablecoins-surges-to-nearly-500m-as-eurusd-rivals-bitcoins-h1-gains",
+      "summary": ""
+    },
+    {
+      "title": "Circle Mania Grips South Korea as Retail Investors Pile Into Stablecoin Play",
+      "link": "https://www.coindesk.com/markets/2025/06/27/circle-mania-grips-south-korea-as-retail-investors-pile-into-stablecoin-play",
+      "summary": ""
+    },
+    {
       "title": "XRP Slides 5% as Selling Pressure Intensifies Despite Whale Transfers",
       "link": "https://www.coindesk.com/markets/2025/06/27/xrp-slides-5-as-selling-pressure-intensifies-despite-whale-transfers",
       "summary": ""
@@ -8,21 +23,6 @@
     {
       "title": "Dogecoin Finds Support Around 16 Cents After 6% Drop",
       "link": "https://www.coindesk.com/markets/2025/06/27/dogecoin-finds-support-around-16-cents-after-6-drop",
-      "summary": ""
-    },
-    {
-      "title": "XRP, Solana Lead Profit-Taking Among Crypto Majors Even as Bullish Mood Persists",
-      "link": "https://www.coindesk.com/markets/2025/06/27/xrp-solana-lead-profit-taking-among-crypto-majors-even-as-bullish-mood-persists",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin's Double Top Warrants Caution, But a Full-Blown Price Crash Seems Unlikely: Sygnum Bank",
-      "link": "https://www.coindesk.com/markets/2025/06/27/caution-on-bitcoin-double-top-but-a-full-blown-price-crash-seems-unlikely-sygnum-bank-s-tischhauser-says",
-      "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: Asia's Banks Look to Stablecoins to Prevent Deposit Flight",
-      "link": "https://www.coindesk.com/markets/2025/06/26/asia-morning-briefing-asias-banks-look-to-stablecoins-to-prevent-deposit-flight",
       "summary": ""
     }
   ],
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "World Liberty Financial Receives $100 Million from UAE Crypto Investment",
+      "link": "https://www.newsbtc.com/news/world-liberty-financial-receives-100-million-from-uae-crypto-investment/",
+      "summary": "A fund based in the United Arab Emirates (UAE) has announced a significant investment of $100 million in the Trump-backed decentralized finance (DeFi) platform World Liberty Financial, and its native token WLFI. The investment was confirmed in a joint statement by Aqua 1 and World Liberty Financial, highlighting the collaboration as a step towards developing a blockchain financial ecosystem and integrating stablecoins. World Liberty Financial Partners With Aqua 1 Zak Folkman, co-founder of World Liberty Financial, expressed enthusiasm about the partnership, stating, &#8220;We\u2019re excited to work hand-in-hand with the team at Aqua 1.\u201d This investment positions Aqua 1 among the largest stakeholders in the Trump family&#8217;s cryptocurrency project. It is further strengthened by the backing of crypto billionaire Justin Sun, who is the top investor in the company with a substantial $75 million stake. Related Reading: XRP Gears Up For Major Move \u2014 Chart Signals Are Clear This marks the second investment from a UAE-based firm in World Liberty Financial within a short span; earlier this year, Abu Dhabi&#8217;s MGX used World Liberty Financial&#8217;s USD1 stablecoin to facilitate a $2 billion investment in Binance. David Lee, a founding partner at Aqua 1, stated that Aqua 1 and the decentralized platform will collaborate to \u201cidentify and nurture promising blockchain projects.\u201d World Liberty Financial also plans to support the Aqua Fund, an investment vehicle focused on enhancing the digital economy in the Middle East. In addition, Aqua 1 will aid World Liberty Financial in expanding its reach into South America, Europe, Asia, and emerging markets. Both companies are also set to develop &#8220;BlockRock,&#8221; a platform aimed at tokenizing real-world assets (RWAs) to bridge traditional investments like real estate with the Web3 ecosystem. New App Launch Planned In tandem with these initiatives, World Liberty Financial is preparing to release an audit report of its stablecoin, USD1, within days. Folkman, speaking at the Permissionless conference in Brooklyn, New York, also mentioned that the platform&#8217;s WLFI token may soon become tradable. Launched two months prior to the US presidential election, WLFI has already generated substantial revenue for Trump\u2019s family business through the sale of governance tokens. These tokens grant holders the ability to vote on project changes and influence its strategic direction. Related Reading: Is The Bitcoin Top In? Bitcoin MVRV-Score Has The Answer While WLFI is currently not tradable, Folkman hinted at forthcoming updates that users should watch for in the coming weeks. He also revealed that the company\u2019s stablecoin has received its first attestation report, which will be available on the company&#8217;s website. To further facilitate user engagement, Folkman announced the upcoming launch of a new app designed to simplify cryptocurrency use for everyday investors. As of press time, the official TRUMP memecoin trades at $8.96, recording a major 30% drop in the monthly time frame. Featured image from DALL-E, chart from TradingView.com"
+    },
+    {
       "title": "Bitcoin Next Price Discovery Coming? Analyst Shares BTC\u2019s 2025 Roadmap",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-next-price-discovery-coming-analyst-shares-btcs-2025-roadmap/",
       "summary": "This week, Bitcoin (BTC) has recovered from its recent drop below the $100,000 level and is attempting to turn the crucial $108,000 resistance into support for the fourth time. As we approach the second half of 2025, a market watcher has shared his forecast for BTC. Related Reading: Solana Price At \u2018A Very Delicate Level\u2019 \u2013 Analyst Says $148 Reclaim Is Key Bitcoin Sees Transitional Period On Thursday, analyst Rekt Capital shared a roadmap for BTC for the rest of the year. He noted that this cycle has been \u201ctruly a cycle of re-accumulation ranges,\u201d explaining that these have formed throughout the cycle since the end of 2022 and evolved since the Bitcoin Halving last year. In the pre-having period, BTC registered brief price deviations with downside wicks below the re-accumulation range lows in the weekly chart. Meanwhile,"
@@ -100,11 +105,6 @@
       "title": "Bitcoin Net Taker Volume Spikes as Billions Exit Derivatives, What Going On?",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-net-taker-volume-spikes-as-billions-exit-derivatives/",
       "summary": "Bitcoin has regained some upward momentum, with its market price currently hovering around $107,155 at the time of writing. This marks a 0.4% decrease in the past 24 hours, and a 4.3% drop below its all-time high of $111,000, set in May. Despite the rebound, analysts are closely watching for potential shifts in momentum as a number of market indicators and macroeconomic signals suggest a more cautious short-term outlook. Among the recent developments drawing attention is a sharp rise in Net Taker Volume on Binance, along with significant stablecoin outflows from derivative platforms. CryptoQuant analyst Amr Taha noted in a recent market commentary that these changes could indicate increased speculative activity. While some traders interpret such surges as bullish signals, they often occur due to short liquidations or sudden retail buying rather than consistent organic demand. Related Reading: Bitcoin Short-Term Holder Floor Rises Toward $100,000, Reinforcing Bullish Sentiment Derivatives Activity and Fed Commentary Fuel Market Caution On June 24, Binance\u2019s Net Taker Volume crossed $100 million for the first time since early June. This level of activity, according to Taha, can sometimes signal buying momentum but may also point to forced closures of short positions, especially in high-leverage environments. Taha emphasized that without strong capital inflows to back the movement, these bursts tend to be short-lived. Simultaneously, more than $1.25 billion in stablecoin liquidity has exited derivative exchanges, marking the largest capital outflow from these platforms since May. These outflows reduce the base for opening new leveraged positions, potentially dampening future market momentum. Taha also pointed to external economic cues, particularly a recent statement by US Federal Reserve Chair Jerome Powell. During his testimony before Congress, Powell signaled that rate cuts may be on the table depending on upcoming economic conditions. While looser monetary policy is often viewed as favorable for risk assets like Bitcoin, the shift also reflects underlying uncertainty. The analyst also mentioned that the Swiss Franc, traditionally seen as a safe-haven currency, has also surged against the US dollar, suggesting that some investors are leaning risk-off amid broader macroeconomic developments. Market Structure Remains Firm, But Momentum Is Slowing Separately, another CryptoQuant analyst known as Crypto Dan offered a different perspective using a bubble chart model that visualizes trading volume trends across exchanges. According to Dan, Bitcoin is currently experiencing a \u201ccooling\u201d phase. This implies reduced trading activity without dramatic spikes in volume, often seen as a sign that the market is consolidating rather than overheating. Related Reading: CME Gap At $92,000: Is A 12% Retrace Inevitable For Bitcoin? He noted that while BTC remains close to its all-time high, the path forward may depend on macroeconomic catalysts such as confirmed interest rate cuts or regulatory clarity. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "TRUMP Token In Trouble? Over $4 Million Liquidity Exit Sparks Crash Fears",
-      "link": "https://www.newsbtc.com/altcoin/trump-token-in-trouble-4-4-million-liquidity-exit-sparks-crash-fears/",
-      "summary": "US President Donald Trump\u2019s namesake meme token has tumbled hard, slumping nearly 90% from its all-time high set six months ago. Related Reading: Double Win: Dogwifhat Jumps 24% Alongside Bitcoin\u2019s $107K Push Today, TRUMP is trading at $8.80, down 6% in the last seven days. Traders are on edge after the project\u2019s team yanked $4.4 million in USDC from liquidity pools and a single whale lined up a $2.5 million sell order. Team Pulls Millions From Liquidity According to a recent post on X by Lookonchain, the Trump Coin team withdrew $4.4 million worth of USDC and moved 347,438 TRUMP tokens\u2014valued at $3.12 million\u2014from the main liquidity pool into a fresh wallet. The #Trump Meme Team removed 4.4M $USDC and 347,438 $TRUMP($3.12M) in liquidity 6 hours ago. They then bridged 4.4M $USDC to #Ethereum and transferred 347,438 $TRUMP($3.12M) to a new wallet.https://t.co/ORSLE6vJiAhttps://t.co/SYyNae1nio pic.twitter.com/okTk1u0Ow9 \u2014 Lookonchain (@lookonchain) June 26, 2025 That move came without any heads-up or clear reason. Now, many investors worry that the team might be preparing to dump coins, which would add selling pressure to a coin already struggling with low demand. Whale Places Huge Sell Order Based on reports, a major wallet known as Kewh32 has put 275,672 TRUMP tokens on the market, roughly $2.5 million at current prices. This whale also sold 100,000 tokens earlier in June and still holds 369,400 coins. If those tokens ever hit exchanges, the added supply could push the price even lower. Price Pattern Offers Mixed Signal On the daily chart, TRUMP has traced out a falling wedge pattern. That setup often leads to a breakout, but only when buyers step in with strength. Here, trading volumes remain weak. The relative strength index (RSI) has sat below 50 for over a month, signaling that sellers are still in control. At the same time, the Awesome Oscillator just flipped green\u2014albeit still below zero\u2014which hints that bearish momentum may be fading. Related Reading: Bitcoin Paces $15 Billion YTD Influx Amid 10-Week Fund Flow Streak Investor Confidence Falters Many traders are watching the $8 to $9 range closely. A failure to hold above $8 could spell more losses and test deeper support. Right now, there\u2019s no sign of a strong rally. Without fresh buying interest or positive news, the downtrend inside the wedge looks set to continue. It won\u2019t take much to spark a short squeeze\u2014maybe a burst of social media hype or a big buy from another whale. But trust in the token\u2019s team is shaky after the recent liquidity pull. Until on-chain activity shows real demand, most market players expect more choppy trading and lower prices. Featured image from Unsplash, chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin ETFs Notch 13 Consecutive Days of Inflow\u2014Why It Matters",
+      "link": "https://decrypt.co/327337/bitcoin-etfs-13-consecutive-inflow-days",
+      "summary": "Most Bitcoin ETF inflows are driven by long-only fundamental investors, not short-term traders, analyst Peter Chung told ."
+    },
+    {
+      "title": "MrBeast Pulls AI Thumbnail Tool Following Backlash",
+      "link": "https://decrypt.co/327338/mrbeast-pulls-ai-thumbnail-tool-backlash",
+      "summary": "The YouTube star has made key changes to an AI tool he recently launched, following copyright concerns from content creators."
+    },
+    {
       "title": "Coinbase US Perpetuals Are Arriving Next Month as Stock Soars to New Heights",
       "link": "https://decrypt.co/327312/coinbase-us-perpetuals-are-arriving-next-month-as-stock-soars-to-new-heights",
       "summary": "Coinbase aims to fill what it describes as a \u201ccritical gap\u201d in the U.S. market, where domestic traders have long relied on offshore platforms."
@@ -149,16 +159,6 @@
       "title": "Bitwise Dogecoin, Aptos ETF Filing Updates Suggest Path to Approvals: Analyst",
       "link": "https://decrypt.co/327189/bitwise-dogecoin-aptos-etf-filing-approvals-analyst",
       "summary": "Amended Bitwise prospectuses for Dogecoin and Aptos ETFs are a good sign for their eventual approvals, a Bloomberg analyst told ."
-    },
-    {
-      "title": "Metaplanet Boosts Bitcoin Stash Above $1.3 Billion With 1,234 BTC Buy",
-      "link": "https://decrypt.co/327272/metaplanet-boosts-bitcoin-stash-above-1-3-billion",
-      "summary": "Japan's biggest publicly traded Bitcoin treasury company now holds 12,345 BTC, following its latest purchase of 1,234 BTC."
-    },
-    {
-      "title": "Avalanche Crypto Game 'Raini: The Lords of Light' Is Shutting Down",
-      "link": "https://decrypt.co/327281/avalanche-crypto-game-raini-lords-light-shutting-down",
-      "summary": "Blockchain games are closing left and right, with Avalanche-based NFT card game Raini: The Lords of Light the latest to join the list."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "How to play online casino in Norway with Bitcoin",
+      "link": "https://ambcrypto.com/how-to-play-online-casino-in-norway-with-bitcoin/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"487\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-27-133651.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"744\" />Norway maintains strict control over gambling through a state monopoly that limits access to offshore [&#8230;]"
+    },
+    {
+      "title": "Kaspa [KAS] on a long-term downtrend? Here\u2019s why it should worry investors!",
+      "link": "https://ambcrypto.com/kaspa-kas-on-a-long-term-downtrend-heres-why-it-should-worry-investors/",
+      "summary": "<img alt=\"Kaspa [KAS] on a long-term downtrend? Here&#039;s why it should worry investors!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kaspa-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Kaspa's recovery from $0.06 support may be underway, but the bulls would likely struggle to make steady gains."
+    },
+    {
       "title": "IMF\u2019s Bo Li questions stablecoin\u2019s \u2018money\u2019 status even as it clocks $35T",
       "link": "https://ambcrypto.com/imfs-bo-li-questions-stablecoins-money-status-even-as-it-clocks-35t/",
       "summary": "<img alt=\"IMF&#039;s Bo Li questions stablecoin&#039;s &#039;money&#039; status even as it clocks $35T\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Stablecoin-legislation.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1267\" />From Asia to Europe, regulators rush to tame stablecoins before adoption outpaces oversight."
@@ -203,16 +213,6 @@
       "title": "IP\u2019s recovery fizzles out? Decoding Story\u2019s price action and conflicting signals",
       "link": "https://ambcrypto.com/ips-recovery-fizzles-out-decoding-storys-price-action-and-conflicting-signals/",
       "summary": "<img alt=\"IP&#039;s recovery fizzles out? Decoding Story&#039;s price action and conflicting signals\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/IP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish structure break on the 12-hour timeframe was overpowered by the swing bearish structure of IP."
-    },
-    {
-      "title": "Invesco, Galaxy join Solana ETF rush \u2014 9 issuers now competing for SEC approval!",
-      "link": "https://ambcrypto.com/invesco-galaxy-join-solana-etf-rush-9-issuers-now-competing-for-sec-approval/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"810\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Invesco-Galaxy-files-for-Solana-ETF.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1440\" />Solana ETFs may launch together by October. Or maybe, well before that!"
-    },
-    {
-      "title": "Weed announces partnership with Khalifa Kush: Launches global commercialization",
-      "link": "https://ambcrypto.com/weed-announces-partnership-with-khalifa-kush-launches-global-commercialization/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"432\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-27-105111.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"769\" />Weed, a U.S.-based IP company aimed at reshaping the global conversation around well-being, begins its [&#8230;]"
     }
   ]
 }
