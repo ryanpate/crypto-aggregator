@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "AVAX Breaks Out of Consolidation Phase",
+      "link": "https://www.coindesk.com/markets/2025/06/27/avax-breaks-out-of-consolidation-phase",
+      "summary": ""
+    },
+    {
+      "title": "TON Rises 2% as Short-Term Uptrend Pattern Emerges",
+      "link": "https://www.coindesk.com/markets/2025/06/27/ton-rises-2-as-short-term-uptrend-pattern-emerges",
+      "summary": ""
+    },
+    {
       "title": "CoinDesk 20 Performance Update: Filecoin (FIL) Drops 2% as Index Trades Lower",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/27/coindesk-20-performance-update-filecoin-fil-drops-2-as-index-trades-lower",
       "summary": ""
@@ -14,46 +24,41 @@
       "title": "Short COIN/Long BTC Trade Will Be a Winner as Soaring Coinbase Nears Overvaluation: 10x Research",
       "link": "https://www.coindesk.com/markets/2025/06/27/time-to-short-coinbase-coin-and-long-bitcoin-btc-as-high-flying-coinbase-nears-overvaluation-10x-research",
       "summary": ""
-    },
-    {
-      "title": "Tokenization Firm Midas Introduces Private Credit Product with Fasanara, Morpho and Steakhouse",
-      "link": "https://www.coindesk.com/business/2025/06/27/tokenization-firm-midas-introduces-private-credit-product-with-fasanara-morpho-and-steakhouse",
-      "summary": ""
-    },
-    {
-      "title": "Crypto\u2019s Worst Six Months Yet? North Korea Hacks Lead to $2.1B in Thefts",
-      "link": "https://www.coindesk.com/markets/2025/06/27/cryptos-worst-six-months-yet-north-korea-hacks-lead-to-21b-in-thefts",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Legal strategy matters more than ever for your crypto startup in the UAE",
+      "link": "https://cointelegraph.com/news/legal-strategy-crypto-startup-in-the-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NGQtZDczMC03NTA2LWI2NjEtYjA1YWJmYTVhOTUw.jpg\" /></p><p>In the UAE\u2019s complex crypto landscape, founders who treat legal and regulatory structuring as a core element of their go-to-market strategy \u2014 not an afterthought \u2014 are the ones who thrive.</p>"
+    },
+    {
+      "title": "95 rigs, 1 KamAZ truck: How Russian miners built a mobile crypto farm and got busted",
+      "link": "https://cointelegraph.com/explained/95-rigs-1-kamaz-truck-how-russian-miners-built-a-mobile-crypto-farm-and-got-busted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xY2VhY2U5NTAxNjZjYTdjZGQ5YWFhNWVkODRjZmMxOC5qcGc=.jpg\" /></p><p>Russian miners packed 95 crypto rigs into a KamAZ truck. The scam is now busted, but the case reveals how mobile farms exploit weak energy enforcement in remote areas.</p>"
+    },
+    {
+      "title": "Ethereum chart signals \u2018altseason\u2019 as analysts predict $10K ETH price top",
+      "link": "https://cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg\" /></p><p>Crypto analysts and several metrics suggest that an \"altcoin season\" will begin once Ether\u2019s price breaks new all-time highs.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
       "title": "Crypto payments abroad may be legal despite domestic bans in several countries",
       "link": "https://cointelegraph.com/news/crypto-payments-abroad-if-illegal-home-country?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxNTEtN2FiZi03NmMxLTlhZjMtMGVkNmYxYjllODU3.jpg\" /></p><p>Countries that ban crypto payments often have no restrictions on using crypto abroad, but such legal overlaps may attract scrutiny from global regulators like the FATF.</p>"
-    },
-    {
-      "title": "Bitcoin loans are back, rewriting the book Celsius burned",
-      "link": "https://cointelegraph.com/news/bitcoin-loans-back-rewriting-book-celsius-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY5NWUtN2E4MS03ZWZjLWIzMTQtZTQxY2Q5NjIxMWI4.jpg\" /></p><p>Bitcoin lending is making a quiet comeback with tighter controls, but volatility still threatens sudden liquidations.</p>"
-    },
-    {
-      "title": "Across Protocol DAO under fire over $23M fund misuse claims",
-      "link": "https://cointelegraph.com/news/across-protocol-founders-accused-of-funneling-23m-to-own-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDMwZjUtMWU5Yy03ODlkLTk1MzktOGJjNmQ1MjE5OGU5.jpg\" /></p><p>Across Protocol founders are accused of manipulating DAO governance to funnel $23 million in tokens to their affiliated for-profit company, Risk Labs.</p>"
-    },
-    {
-      "title": "Small crypto trading prodigy nets $1.5M using unorthodox strategy",
-      "link": "https://cointelegraph.com/news/crypto-trader-turns-6800-into-1-5m-using-maker-volume-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxMmQtZjYxYS03M2ViLTg4MjItYWNkOWM1MzUxYThi.jpg\" /></p><p>A crypto trader turned $6,800 into $1.5 million with a one-sided quoting strategy, dominating over 3% of maker volume on a major exchange in just two weeks.</p>"
-    },
-    {
-      "title": "Bitcoin Treasury Corporation to relist on Toronto exchange, buys 292 BTC",
-      "link": "https://cointelegraph.com/news/bitcoin-treasury-resumes-tsxv-trading-raises-92m-buys-292-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IwZGEtNjUzOC03OTU3LWIzNDktNTUxYjI1Yzg5NDBl.jpg\" /></p><p>Bitcoin Treasury Corporation completed a $92 million raise and bought 292.8 BTC ahead of its trading resumption on the TSX Venture Exchange.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "PayPal CEO says US consumers need incentives to try stablecoins as PYUSD expands",
+      "link": "https://cryptoslate.com/paypal-ceo-says-us-consumers-need-incentives-to-try-stablecoins-as-pyusd-expands/",
+      "summary": "<p>PayPal chief executive Alex Chriss said the United States remains far from widespread stablecoin adoption, telling Bloomberg TV on June 26 that consumers lack meaningful incentives to shift away from existing payment rails, a view surfacing as the company advances new initiatives around rewards and cross-border transfers. His comments follow the Senate\u2019s passage of the [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin near all-time high as dollar slides to three-year low",
       "link": "https://cryptoslate.com/bitcoin-near-all-time-high-as-dollar-slides-to-three-year-low/",
@@ -73,14 +78,14 @@
       "title": "Bitcoin market cap overtakes Google\u2019s $2.1 billion valuation as crypto equities also rise",
       "link": "https://cryptoslate.com/bitcoin-market-cap-overtakes-googles-2-1-billion-valuation-as-coinbase-stock-jumps-on-stablecoin-hopes/",
       "summary": "<p>Bitcoin has overtaken Google\u2019s parent Alphabet to become the world\u2019s sixth most valuable asset, and is now sitting within a few percent of Amazon. The move comes amid a renewed burst of crypto optimism, as Coinbase stock surges on imminent U.S. stablecoin regulation. This one-two punch of market and policy news is fuelling speculation that [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase hints at Bitcoin treasury as COIN stock reaches new heights",
-      "link": "https://cryptoslate.com/coinbase-hints-at-bitcoin-treasury-as-coin-stock-reaches-new-heights/",
-      "summary": "<p>Coinbase CEO Brian Armstrong has revealed that the exchange is steadily acquiring Bitcoin weekly, signaling what many believe could be the early stages of a treasury-building effort. Armstrong shared the update on June 27, stating that Coinbase has adopted a \u201cLong Bitcoin\u201d strategy. However, he stopped short of confirming whether these acquisitions are explicitly intended [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Spot Dogecoin ETF Gains SEC Traction\u2014Is A Price Surge Next?",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-etf-gains-sec-traction-price-surge-next/",
+      "summary": "Bitwise Asset Management has quietly nudged Dogecoin one step closer to Wall Street\u2019s ETF club, filing an amended S-1 on 26 June that for the first time allows \u201cin-kind\u201d creations and redemptions. The tweak is more than procedural. It lines the proposed Bitwise Dogecoin ETF up with the operational playbook the US Securities and Exchange Commission already blessed for spot-bitcoin and spot-ether products, and it signals that SEC staff are now deep in the weeds on the mechanics of custody and settlement. Signs Point To Dogecoin ETF Approval \u201cBitwise has filed amended S-1s for their spot Dogecoin ETF and their spot Aptos ETFs. Good signs as it indicates SEC engagement, and tracks with other spot approvals,\u201d Bloomberg Intelligence senior ETF analyst Eric Balchunas wrote on X. He underscored the importance of the new language: \u201cOne HUGE update to the filing is \u2018in-kind\u2019 creations and redemptions\u2026 Near-lock at this point that in-kind will be allowed in spot ETFs across board.\u201d Related Reading: Dogecoin Flashes Rare Buy Signal\u2014But One Move Could Ruin It The change matters because in-kind processing lets authorized participants swap DOGE directly for ETF shares (and vice versa) without the tax friction and slippage that accompany the cash-only model imposed on futures-based crypto funds. The SEC\u2019s willingness to consider that structure for a dog-branded altcoin would have seemed fanciful a year ago. It now appears consistent with the regulator\u2019s post-bitcoin-ETF d\u00e9tente, during which issuers also sought in-kind redemptions. Approval odds are converging on the high end of the spectrum. Less than a week ago, Balchunas and fellow analyst James Seyffart raised their probability for \u201cthe vast majority\u201d of pending altcoin ETFs\u2014including Dogecoin\u2014to \u201c90 percent or higher,\u201d citing what Seyffart called \u201cvery positive\u201d SEC engagement. Related Reading: Dogecoin Crash Far From Over? Analyst Reveals The Target Notably, that optimism has not fully washed into prediction markets: on Polymarket, the contract titled \u201cDoge ETF approved in 2025?\u201d was trading around 69% early Friday morning in Europe, while a shorter-dated line for approval by 31 July priced in barely 13% odds. Dogecoin Price Stalls (For Now) Dogecoin itself has yet to reflect the regulatory tail-wind. The token changed hands near $0.161\u2014down roughly 2% on the day. Technical trader Kevin (@Kev_Capital_TA) argues that bulls still control the longer-term picture: on his weekly chart, DOGE has respected a momentum breakout line traced back to late-2022 on five separate tests, each time spring-boarding into \u201cmajor bounces.\u201d He pegs the \u201cline in the sand\u201d at the $0.143\u20130.127 support band: \u201c Yet Kevin cautions that meme-coin exuberance ultimately hinges on the Federal Reserve, not tweet-driven hype. In a separate post this week, he noted that fresh highs in bitcoin dominance continue to ride \u201crestrictive monetary policy and an uncertain geopolitical environment.\u201d Alt-season, he wrote, will require the end of quantitative tightening and a tangible decline in the US terminal rate\u2014conditions absent since late-2023 and still distant according to Fed-funds futures. At press time, DOGE traded at $0.16123. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "$15B Bitcoin Options Expire Today: Will This Send BTC Bull Token Soaring?",
       "link": "https://www.newsbtc.com/news/15b-bitcoin-options-expire-today-will-this-send-btc-bull-token-soaring/",
@@ -100,14 +105,14 @@
       "title": "XRP Price Declines Back To $2 As Legal Dispute With SEC Continues",
       "link": "https://www.newsbtc.com/xrp-news/xrp-price-declines-back-to-2-as-legal-dispute-with-sec-continues/",
       "summary": "The XRP price experienced a significant decline on Thursday following new developments in the ongoing legal dispute between Ripple Labs and the US Securities and Exchange Commission (SEC). Judge Analisa Torres&#8217; decision to deny the joint motion from Ripple and the SEC for an indicative ruling halted the XRP price recovery as it aimed to breach the nearest resistance level at $2.23. Key Issues Unresolved For Ripple Despite the SEC dropping its appeal, which indicated that the primary legal conflict between the two parties may be reaching a conclusion, Judge Torres&#8217; ruling highlighted that several procedural matters still require resolution, including necessary court approvals. In her judgment, she made it clear that private agreements cannot supersede public court decisions, stating, \u201cThe parties do not have the authority to agree not to be bound by a court\u2019s final judgment\u2026 They have not come close to doing so here.\u201d Related Reading: XRP Gears Up For Major Move \u2014 Chart Signals Are Clear In response to the ruling, Ripple&#8217;s Chief Legal Officer, Stuart Alderoty, took to social media platform X (formerly Twitter) to convey that the situation is now back in Ripple&#8217;s hands. The executive pointed out that the court has given them two options: either to dismiss their appeal regarding the historic institutional sales or to continue with the appeal. Regardless of the path chosen, Alderoty emphasized that XRP&#8217;s legal status as a non-security remains intact, reassuring stakeholders that it is business as usual. Expert Reactions To Torres\u2019 Decision Legal expert Fred Rispoli also weighed in on the implications of the injunction, stating that it would not impact XRP in secondary markets or affect potential exchange-traded fund (ETF) filings awaiting approval by the SEC. He noted that the injunction is merely a court document and emphasized the low likelihood of Judge Torres calling Ripple and the SEC back into court unless the SEC believes Ripple is violating the terms of the injunction. Rispoli further questioned whether the SEC has the authority to grant Ripple the necessary exemptions to alleviate any restrictions imposed by the injunction, suggesting that such actions fall within the SEC&#8217;s executive powers. Ripple has asserted that it has adjusted its operations to align with the court&#8217;s findings, particularly regarding its past sales to institutional investors. Related Reading: Is The Bitcoin Top In? Bitcoin MVRV-Score Has The Answer Alderoty&#8217;s use of the term &#8220;historic institutional sales&#8221; in his recent statement indicates a shift in how both parties might approach future transactions, signaling a potential settlement that would allow XRP sales to institutions in a manner acceptable to the SEC. XRP Price Could Reach $5 Despite this temporary setback, market analysts remain optimistic about XRP&#8217;s future. Crypto analyst CryptoBullet recently noted that XRP&#8217;s two-week price chart resembles patterns seen in 2017, including a significant accumulation phase and a potential breakout. With this historical context in mind, the expert predicts a final surge in the XRP price, forecasting new all-time high targets between $4.50 and $5.40 for the cryptocurrency. As of press time, the XRP price has retreated to the $2.08 mark, which is a key support level for bulls anticipating further recovery of the token. In the last 24 hours, XRP has dropped 4.4%, and 10% in the last month. According to CoinGecko data, the XRP price remains 38% below its record high of $3.40. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "Deaton Says Ripple IPO Could Trigger $100B Valuation, How High Will The XRP Price Be?",
-      "link": "https://www.newsbtc.com/analysis/xrp/ripple-ipo-100b-xrp-price/",
-      "summary": "The possibilities of a Ripple Initial Public Offering (IPO) have become higher as time goes on and the company moves toward a complete resolution of its SEC lawsuit. With expectations of the IPO rising, possible valuations have started to fly around as the company is one of the largest cryptocurrency companies. Most notably, pro-XRP lawyer and community member John Deaton has proposed that the Ripple IPO could lead to the company being valued at over $100 billion. Deaton Puts Ripple At $100 Billion The comment and valuation from lawyer John Deaton come after Circle, the company behind the USDC stablecoin, successfully completed its Initial Public Offering (IPO). So far, the crypto firm has found a lot of success in the market, surging from an initial $5 billion valuation to over $63 billion in valuation post-IPO. Related Reading: Bitcoin To Surge To $130,000 Next? What The Wave Count Says Deaton responded to a post on X (formerly Twitter), highlighting this feat, pointing out how Ripple could be even more successful in this regard. He explains that despite Ripple CEO Brad Garlinghouse saying that the company was in no rush to go public, the IPO should be timed correctly to have the right impact. Pointing to the current market environment, he points out that if Circle can grow to a $63 billion valuation, then it means that Ripple can soar even higher. Given XRP\u2019s standing in the market as the 4th-largest cryptocurrency, ahead of Circle\u2019s USDC, which sits at 7th place, Deaton believes that Ripple\u2019s valuation post-IPO can rise to $100 billion. \u201cIf Circle can hit a 62B-75B market cap then Ripple, with nearly 40B XRP, currently valued at $2 (ie $80B), could certainly hit a $100B market cap in this environment,\u201d Deaton wrote. As Bitcoinist reported, Ripple had issued a $700 million tender offer with shares priced at $175. This now puts the equity valuation of the company at $25 billion with 141 million outstanding shares as investors look favorably at the crypto firm. How High Could The XRP Price Go? Market experts have speculated that if the Ripple IPO does go through and the valuation soars, the XRP price will soar in tandem. Crypto investor Dennis Liu shared a video that suggested a successful IPO would be positive for the XRP price. He points out that a symbiotic relationship of the XRP coin related to the Ripple stock would be the dream of investors. Related Reading: Bitcoin Price Could Rally To $110,000 ATH As These Macroeconomic Factors Align Other market experts have debated that the XRP price would go double-digits to rise above $10 if this happens. In some cases, the XRP price has been pegged as high as $100 if Ripple does complete its IPO and begins trading as a publicly listed company. Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Lnfi Network Integrates RGB Protocol to Enhance Lightning Network",
+      "link": "https://bitcoinmagazine.com/news/lnfi-network-integrates-rgb-protocol-to-enhance-lightning-network",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_A_futuristic_digital_dashboard_glowing_wit_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/lnfi-network-integrates-rgb-protocol-to-enhance-lightning-network\" rel=\"nofollow\"> </a></p> <p>Lnfi Network adopts RGB for Bitcoin\u2019s Lightning, enabling secure asset trading. Nostr\u2019s encryption stops manipulation.</p> <p>"
+    },
     {
       "title": "If Institutions Are Buying Why Isn\u2019t The Bitcoin Price Going Up?",
       "link": "https://bitcoinmagazine.com/markets/why-isnt-the-bitcoin-price-going-up",
@@ -127,14 +132,24 @@
       "title": "Japan\u2019s Metaplanet Acquires 1,234 More Bitcoin, Total Holdings Reach 12,345 BTC",
       "link": "https://bitcoinmagazine.com/news/japans-metaplanet-acquires-1234-more-bitcoin-total-holdings-reach-12345-btc",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Japans-Metaplanet-Acquires-1234-More-Bitcoin-Total-Holdings-Reach-12345-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/japans-metaplanet-acquires-1234-more-bitcoin-total-holdings-reach-12345-btc\" rel=\"nofollow\">Japan&#8217;s Metaplanet Acquires 1,234 More Bitcoin, Total Holdings Reach 12,345 BTC</a></p> <p>The Japanese company continues accelerating its Bitcoin treasury strategy with a \u00a519.27 billion purchase.</p> <p>"
-    },
-    {
-      "title": "Kraken Launches Krak, a No-Fee App to Use and Store Bitcoin and Crypto",
-      "link": "https://bitcoinmagazine.com/news/kraken-launches-krak-a-no-fee-app-to-use-and-store-bitcoin-and-crypto",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kraken-launches-krak-a-no-fee-app-to-use-and-store-bitcoin-and-crypto\" rel=\"nofollow\"> </a></p> <p>Bitcoin and crypto platform Kraken has officially launched Krak, a no-fee, all-in-one global money app that lets users spend, send, and save across over 300 fiat and digital assets\u2014including Bitcoin. Designed to merge the best of banking, payments, and crypto into a single user experience, the Krak app is set to redefine how people move [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Crypto Fueling Weapons Programs for Sanctioned States: FATF",
+      "link": "https://decrypt.co/327404/crypto-fueling-weapons-programs-for-sanctioned-states-fatf",
+      "summary": "North Korea and Iran are among the states leveraging digital assets to bypass international sanctions, says the Financial Action Task Force."
+    },
+    {
+      "title": "Crypto Game Crashouts: The Biggest Shutdowns So Far in 2025",
+      "link": "https://decrypt.co/323136/crypto-game-crashouts-shutdowns-2025",
+      "summary": "From Deadrop to Nyan Heroes and plenty in between, many promising crypto games have closed up shop this year. These are the biggest so far."
+    },
+    {
+      "title": "Flipping Housecoin? Parody Solana Meme Coin Overtakes Token It Was Created to Laugh At",
+      "link": "https://decrypt.co/327392/chillhouse-flips-housecoin",
+      "summary": "Meme coins highlight the absurdity of crypto investing. No more than Chillhouse flipping Housecoin and aiming for Chillguy next."
+    },
     {
       "title": "Why Are So Many Firms Suing Strategy Over Its Bitcoin Holdings?",
       "link": "https://decrypt.co/327259/why-so-many-firms-suing-strategy-bitcoin-holdings",
@@ -144,24 +159,14 @@
       "title": "Russian Mother and Self-Styled 'Crypto Expert' Jailed Over $23M Bitcoin Scam",
       "link": "https://decrypt.co/327389/russian-mother-and-self-styled-crypto-expert-jailed-over-23m-bitcoin-scam",
       "summary": "A Moscow court sentenced \"Bitmama\" to seven years in jail over a crypto scheme saw millions moved daily through informal deals."
-    },
-    {
-      "title": "Bitcoin ETFs Notch 13 Consecutive Days of Inflow\u2014Why It Matters",
-      "link": "https://decrypt.co/327337/bitcoin-etfs-13-consecutive-inflow-days",
-      "summary": "Most Bitcoin ETF inflows are driven by long-only fundamental investors, not short-term traders, analyst Peter Chung told ."
-    },
-    {
-      "title": "MrBeast Pulls AI Thumbnail Tool Following Backlash",
-      "link": "https://decrypt.co/327338/mrbeast-pulls-ai-thumbnail-tool-backlash",
-      "summary": "The YouTube star has made key changes to an AI tool he recently launched, following copyright concerns from content creators."
-    },
-    {
-      "title": "Coinbase US Perpetuals Are Arriving Next Month as Stock Soars to New Heights",
-      "link": "https://decrypt.co/327312/coinbase-us-perpetuals-are-arriving-next-month-as-stock-soars-to-new-heights",
-      "summary": "Coinbase aims to fill what it describes as a \u201ccritical gap\u201d in the U.S. market, where domestic traders have long relied on offshore platforms."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Bitcoin retreats after Fed\u2019s preferred inflation gauge shows mild uptick",
+      "link": "https://cryptobriefing.com/bitcoin-pce-inflation-gauge-impact/",
+      "summary": "<p>Bitcoin's volatility highlights economic uncertainty, with inflation concerns and potential Fed rate decisions impacting market stability.</p> <p>"
+    },
     {
       "title": "Elon Musk announces Grok 4 to be released just after July 4",
       "link": "https://cryptobriefing.com/grok-4-release-after-july/",
@@ -181,14 +186,14 @@
       "title": "US Treasury may release federal Bitcoin holdings report, says Bo Hines",
       "link": "https://cryptobriefing.com/us-bitcoin-holdings-treasury-report/",
       "summary": "<p>The potential release of the US Bitcoin holdings report could enhance transparency, influencing global crypto market dynamics and policy debates.</p> <p>"
-    },
-    {
-      "title": "USDT on TRON surpasses $80 billion, strengthening TRON\u2019s position as the leading stablecoin network",
-      "link": "https://cryptobriefing.com/usdt-on-tron-stablecoin-leader/",
-      "summary": "<p>USDT on TRON exceeds $80 billion in circulation, accounting for over half of global supply and leading active stablecoin network metrics.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "SPX drops 10% in 24 hours amid liquidity squeeze \u2013 Can bulls bounce back?",
+      "link": "https://ambcrypto.com/spx-drops-10-in-24-hours-amid-liquidity-squeeze-can-bulls-bounce-back/",
+      "summary": "<img alt=\"SPX drops 10% in 24 hours amid liquidity squeeze - Can bulls bounce back?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/665D4D75-D123-46F1-B876-EEA07F43C46C.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SPX bulls attempt to take over from bears."
+    },
     {
       "title": "Wiki Finance Expo Cyprus 2025: Europe\u2019s Premier Fintech, Crypto & Forex Event!",
       "link": "https://ambcrypto.com/wiki-finance-expo-cyprus-2025-europes-premier-fintech-crypto-forex-event/",
@@ -208,11 +213,6 @@
       "title": "Bakkt Holding\u2019s $1B Bitcoin play: What this move means amidst market doubts",
       "link": "https://ambcrypto.com/bakkt-holdings-1b-bitcoin-play-what-this-move-means-amidst-market-doubts/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"637\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bakkt-Holdings-Inc.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1132\" />Can a firm with \u201csubstantial doubt\u201d about survival lead the next wave of crypto corporates?"
-    },
-    {
-      "title": "Ethereum\u2019s $7.3 billion fee surge \u2013 How utility will fuel ETH",
-      "link": "https://ambcrypto.com/ethereums-7-3-billion-fee-surge-how-utility-will-fuel-eth/",
-      "summary": "<img alt=\"Ethereum&#039;s $7.3 billion fee surge - How utility will fuel ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-20.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could Ethereum be quietly setting the stage for a Q3 comeback?"
     }
   ]
 }
