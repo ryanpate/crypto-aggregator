@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Ripple to Drop Cross-Appeal Against SEC, Ending Years-Long Legal Battle With SEC",
+      "link": "https://www.coindesk.com/policy/2025/06/27/ripple-to-drop-cross-appeal-against-sec-ending-years-long-legal-battle-with-sec",
+      "summary": ""
+    },
+    {
+      "title": "Bitvavo Secures a MiCA License From the Netherlands",
+      "link": "https://www.coindesk.com/policy/2025/06/27/bitvavo-secures-a-mica-license-from-the-netherlands",
+      "summary": ""
+    },
+    {
       "title": "Gemini Rolls Out Tokenized Stocks in EU, Starting With Strategy Shares",
       "link": "https://www.coindesk.com/business/2025/06/27/gemini-rolls-out-tokenized-stocks-in-eu-starting-with-strategy-shares",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Core Scientific Could Top $30 on CoreWeave Buyout Deal: Cantor Fitzgerald",
       "link": "https://www.coindesk.com/markets/2025/06/27/core-scientific-could-top-30-on-coreweave-buyout-deal-cantor-fitzgerald",
       "summary": ""
-    },
-    {
-      "title": "Market Wrap: Crypto Markets Shrug Off New Trump Tariff Threat as July Deadline Looms",
-      "link": "https://www.coindesk.com/markets/2025/06/27/market-wrap-crypto-markets-shrug-off-new-trump-tariff-threat-as-july-deadline-looms",
-      "summary": ""
-    },
-    {
-      "title": "CoinDesk Weekly Recap: Stablecoins Dominate the Cycle",
-      "link": "https://www.coindesk.com/news-analysis/2025/06/27/coindesk-weekly-recap-stablecoins-dominate-the-cycle",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Fake IT insiders behind $1M in crypto losses across NFT protocols \u2014 ZackXBT",
+      "link": "https://cointelegraph.com/news/it-insiders-responsible-1-million-losses-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IyZjAtNGY0Yi03ZjExLTg2ZGEtOTg1NGM1M2IwYTUz.jpg\" /></p><p>Hackers and threat actors continue to infiltrate companies, blockchain projects and Web3 firms by exploiting remote work arrangements.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "Aptos sees surge in tokenization as asset managers go onchain",
       "link": "https://cointelegraph.com/news/aptos-tokenized-assets-traditional-managers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IyYzMtZjQ5MS03ODY2LWI4ZTMtYWE2MGI2NDIxM2Qw.jpg\" /></p><p>Aptos\u2019 tokenized economy is being fueled by issuers such as Berkeley Square, Franklin Templeton and BlackRock.</p>"
-    },
-    {
-      "title": "Trump sidesteps question on crypto divesting to pass key bills",
-      "link": "https://cointelegraph.com/news/trump-sidesteps-crypto-divesting-pass-key-bills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmODQtY2ExZS03OTQ2LWI5ZGItZGRjNWY1NDg4NDE0.jpg\" /></p><p>Several Democratic lawmakers have said that they will not vote to pass crypto regulations if potential conflicts of interest are not addressed.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Crypto payments soar 630% in Bolivia, central bank reports $430M since lifting ban",
+      "link": "https://cryptoslate.com/crypto-payments-soar-630-in-bolivia-central-bank-reports-430m-since-lifting-ban/",
+      "summary": "<p>The Bolivian central bank reported on June 27 that domestic crypto transactions totaled $430 million in the 12 months since regulators reopened formal payment rails, a 630% jump over the previous year. The Banco Central de Bolivia (BCB) reported that users processed 10,193 operations worth BOB 611 million as of May 31, 2025, approximately $88 [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Ripple, SEC agree to mutually abandon appeals, ending 5-year legal battle",
+      "link": "https://cryptoslate.com/ripple-sec-agree-to-mutually-abandon-appeals-ending-5-year-legal-battle/",
+      "summary": "<p>Ripple will drop its cross-appeal in its prolonged legal battle with the U.S. Securities and Exchange Commission, signaling an end to one of the crypto industry\u2019s most consequential court cases. Ripple CEO Brad Garlinghouse announced the move on social media on June 27 and also revealed that the SEC is expected to drop its appeal [&#8230;]</p> <p>"
+    },
     {
       "title": "FATF sounds alarm over rising stablecoin misuse as global crypto rules lag",
       "link": "https://cryptoslate.com/fatf-sounds-alarm-over-rising-stablecoin-misuse-as-global-crypto-rules-lag/",
@@ -68,19 +78,14 @@
       "title": "Pepe meme creator\u2019s NFT projects hit for $1 million as contract hijackers drain collections",
       "link": "https://cryptoslate.com/pepe-meme-creators-nft-projects-hit-for-1-million-as-contract-hijackers-drain-collections/",
       "summary": "<p>Projects tied to Pepe meme creator Matt Furie and the NFT studio ChainSaw lost roughly $1 million to contract takeover exploits last week, according to on-chain investigator ZachXBT. On June 27, ZachXBT reported transaction records showing that the attacker seized control of the \u201cReplicandy\u201d contract at 4:25 a.m. UTC on June 18 by transferring ownership [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Trump says Bitcoin eases pressure on dollar, boosts America\u2019s crypto dominance",
-      "link": "https://cryptoslate.com/trump-says-bitcoin-eases-pressure-on-dollar-boosts-americas-crypto-dominance/",
-      "summary": "<p>President Donald Trump said Bitcoin (BTC) transactions \u201ctake a lot of pressure off the dollar\u201d and argued that US leadership in digital assets blocks China from dominating the sector. He made the comments during a White House press conference on June 27, which was held after what he described as a major Supreme Court victory [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Robinhood expands crypto offerings with micro futures for XRP, Solana, and Bitcoin",
-      "link": "https://cryptoslate.com/robinhood-expands-crypto-offerings-with-micro-futures-for-xrp-solana-and-bitcoin/",
-      "summary": "<p>Robinhood expanded its futures trading suite by adding micro futures contracts for XRP, Solana (SOL), and Bitcoin (BTC), according to a June 27 announcement. The zero-commission brokerage said the new products offer lower margin requirements and seamless execution via its trading ladder interface. Each micro XRP futures contract represents 2,500 XRP, roughly $5,200 at current [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Fading Spot Volumes And Muted Futures Sentiment Threaten To Send Bitcoin Below $99,000 Again",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-to-go-below-99000/",
+      "summary": "Bitcoin returned to its familiar price range over the week after a dip last weekend brought its price to just under $99,000. This was followed by a bounce to the $106,000 price level, which has given bulls a reason to remain hopeful. However, on-chain data shows some deeper cracks are forming beneath the surface. The latest on-chain data from analytics firm Glassnode shows growing signs of fatigue in both spot and futures markets. These are conditions that may again cause Bitcoin price to retest $99,000. Price Support Holds, But Momentum is Clearly Fading Bitcoin has gone through multiple price swings in recent days, but it has found its way back to the narrow $100,000 to $110,000 band that has defined market structure since early May. On-chain data from Glassnode shows that strong accumulation between $93,000 and $100,000, which is visible on the Cumulative Volume Delta (CBD) Heatmap, has so far served as a buffer zone that helped Bitcoin&#8217;s prices bounce during the most recent geopolitical volatility. However, market volume indicates that this structural support may soon face additional pressure. Related Reading: Is The Bitcoin Top In? Bitcoin MVRV-Score Has The Answer According to the latest weekly report by Glassnode, investor profitability and engagement surrounding Bitcoin are cooling rapidly. Specifically, a third major wave of profit-taking is causing the 30-day realized profit average to taper, and on-chain activity has decreased significantly. The 7-day moving average of on-chain transfer volume has dropped by about 32%, from a peak of $76 billion in late May to $52 billion over the recent weekend. Current spot volume trading, which is now at just $7.7 billion, is far below the volumes seen during previous rallies. The lack of strong buying enthusiasm on the spot market shows that bullish sentiment has been replaced by caution. As such, the risk of a breakdown below $99,000 grows unless another wave of demand re-enters. Futures Market Also Cooling Off The slowdown in sentiment is not limited to the spot market. Although Bitcoin is attracting interest on derivatives exchanges, there are clear signs that futures sentiment is waning. Open interest dropped by 7% over the weekend, from 360,000 BTC to 334,000 BTC, and funding rates have been declining steadily since Bitcoin hit its Q1 2025 all-time high. Related Reading: Bitcoin Price Could Rally To $110,000 ATH As These Macroeconomic Factors Align Futures market participants had been very active through Bitcoin\u2019s climb to $111,800 in May, but their conviction appears to be fading now. A further indication of a growing reluctance to hold long positions is the sharp decline in both the annualized funding rate and the 3-month rolling basis. Without stronger directional conviction, the futures markets may not provide the upside needed to push Bitcoin to new highs. This situation may instead contribute to additional downward pressure. So far, Bitcoin has respected the $93,000 to $100,000 support zone, which was heavily accumulated during the Q1 2025 top formation. However, with low spot volumes, on-chain activity slowing, and fading futures sentiment, this support could become tested again. If market participants with a cost basis in this zone begin to sell, the resulting pressure could drag Bitcoin below $99,000 again next week. At the time of writing, Bitcoin is trading at $107,100. Featured image from Pixabay, chart from Tradingview.com"
+    },
     {
       "title": "Bitcoin Forms 4-Year Inverse H&S Pattern \u2013 Neckline Break Could Send It Parabolic",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-forms-4-year-inverse-hs-pattern-neckline-break-could-send-it-parabolic/",
@@ -100,11 +105,6 @@
       "title": "Ethereum Staking Hits Record High: 29.02% Of Supply Locked Signals Long-Term Conviction",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-staking-hits-record-high-29-02-of-supply-locked-signals-long-term-conviction/",
       "summary": "Ethereum is trading at a critical level after reclaiming the $2,400 mark, showing resilience in the face of market-wide volatility. Bulls have managed to defend key support levels following a recent fakeout below $2,200, but momentum remains fragile as ETH struggles to establish a clear trend. Despite attempts to push higher, price action is consolidating near the mid-range, suggesting indecision among traders. However, fundamental strength continues to build beneath the surface. Related Reading: Ethereum Fakes Out Bears \u2013 Altcoin Rally Depends On Key Level Breakout Top analyst Ted Pillows highlighted a major on-chain development: the percentage of Ethereum supply being staked has reached a new all-time high. This milestone signals rising confidence among long-term holders and validators, who are increasingly locking up ETH to secure the network and earn yield. Elevated staking levels historically coincide with lower active supply and reduced sell pressure\u2014an encouraging sign for bulls anticipating a breakout. As macroeconomic uncertainty and geopolitical risks persist, Ethereum\u2019s price behavior at this level could determine whether the broader altcoin market finally ignites. For now, ETH sits at a technical and psychological crossroads, with both bulls and bears preparing for the next major move. All eyes are on staking data and price structure to guide what comes next. Ethereum Builds Bullish Momentum As Staking Hits All-Time High Ethereum has climbed 75% from its April lows, showing strong recovery and resilience in a volatile market. Despite this impressive rebound, ETH remains nearly 98% below its all-time high, leaving significant upside potential. Many analysts believe Ethereum could be gearing up for a rally that may trigger the long-awaited altseason. However, caution still lingers in the market due to ongoing global risks and macroeconomic uncertainty, including rising interest rates and geopolitical tensions. The growing optimism is supported by improving on-chain fundamentals. Ted Pillows highlighted a key metric showing that the percentage of Ethereum supply staked has reached a new all-time high of 29.02%. This steady increase in staked ETH reflects strong long-term conviction from holders, who are choosing to lock up their assets to support the network and earn yield rather than sell during market turbulence. Historically, high levels of staking reduce active circulating supply, which can ease sell pressure and fuel bullish price movements. Combined with technical strength and growing confidence among long-term investors, Ethereum appears well-positioned for a breakout, provided bulls can hold current levels and reclaim resistance zones. Related Reading: Ethereum Reclaims $2,444 Level \u2013 Bullish Continuation In Focus ETH Reclaims Key Level But Faces Resistance Ethereum (ETH) is showing renewed strength after bouncing from its April 2025 lows and reclaiming the $2,400 level. On the weekly chart, ETH is up over 10% this week, closing firmly above the 200-week simple moving average (SMA) at $2,437.52 \u2014 a key threshold that previously acted as both resistance and support in past cycles. Reclaiming this level is a bullish sign and shows that buyers are stepping back in after months of selling pressure. However, Ethereum now faces significant resistance around the $2,625\u20132,660 zone, where the 100-week and 50-week SMAs converge. This zone has historically served as a pivot for major price action, and a clear break above it would likely trigger a broader rally targeting the $2,800\u2013$3,000 range. Volume has also picked up, signaling renewed interest, though it remains below early 2024 levels. This indicates cautious optimism among traders, especially as global macro uncertainty and geopolitical tensions continue to weigh on markets. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin Dominance Holds Altcoin Season At Bay, Analyst Says No Upside Until This Happens",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-dominance-holds-altseason/",
-      "summary": "The Bitcoin Dominance (BTC.D) continues to exert pressure on the broader crypto market, casting a shadow on the prospects of an incoming altcoin season. Despite recent volatility and decline in the market, a crypto analyst observes that Bitcoin Dominance remains firmly elevated, signaling that capital is still concentrated in the leading cryptocurrency. This trend, they argue, is preventing any meaningful breakout for altcoins and could persist unless a decisive shift in market structure occurs. Altcoin Season Stifled As Bitcoin Dominance Surges The Bitcoin Dominance in the cryptocurrency market is tightening its grip, crushing hopes of an imminent altcoin season. According to a recent technical analysis posted on X (formerly Twitter) by market expert Tony Severino, Bitcoin\u2019s market cap dominance has reached 65.72% with both monthly and Relative Strength Index (RSI) readings pushing above the critical 70 level. Related Reading: Bitcoin Dominance Hits New Cycle High Above 66% \u2013 How This 4-Year ATH Affects Altcoin Season At the time of the analysis, the RSI on the monthly timeline stood at 73.19, while the weekly registered at 70.58\u2014both firmly in overbought territory. These levels typically reflect strong momentum and extended bullish conditions, indicating that Bitcoin\u2019s command over the crypto market is still strong and growing. Severino shared a dual chart view of Bitcoin Dominance and RSI across the weekly and monthly time frames, highlighting candlestick structures that support Bitcoin\u2019s ongoing upward momentum. BTC.D has been climbing since late 2023. The RSI values also remain comfortably above their respective Moving Average (MA) baselines of 67.31 and 65.42, indicating sustained strength rather than signs of immediate exhaustion. As long as Bitcoin Dominance holds these elevated RSI levels across their major time frames, Severino suggests that altcoins will likely continue to underperform, further delaying the long-awaited altcoin season. The analyst emphasizes that meaningful upside for altcoins will not begin until BTC.D starts to wane and RSI readings fall below 70\u2014effectively signaling a shift in sentiment and market strength that could allow capital to rotate to alternative cryptocurrencies. Until such a pullback occurs, the analyst argues that the weekly and monthly BTC.D and RSI charts strongly indicate that any expectations of an altcoin season this cycle remain premature. Dragonfly Doji Forms On BTC.D Chart In another X post, Severino announced that the Bitcoin Dominance has potentially formed a Dragonfly Doji on the weekly chart. With four days left in the weekly session, the analyst notes that the distinct candle pattern is still developing but presently resembles the classic Dragonfly Doji, characterized by a long lower wick and a close near the opening price. Related Reading: Rising Bitcoin Dominance Above 64% Dashes Hopes Of Altcoin Season, Here\u2019s Why Typically, this chart pattern is viewed as a bullish reversal signal when it appears at the bottom of a downtrend, indicating possible upside momentum. However, in this case, it has emerged during a broader uptrend in BTC.D, creating a more complicated technical picture. Severino believes that the Dragonfly Doji could either represent a continuation of the current momentum or a temporary pause in market direction. If the candle evolves into a larger bullish body and closes above the 65.65% level, it may confirm further strengthening of Bitcoin\u2019s growing market dominance relative to altcoins. Featured image from Pixabay, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Trump Blames Biden for Banks Blocking Crypto: 'There Is a Lot of Debanking'",
+      "link": "https://decrypt.co/327531/trump-blames-biden-banks-blocking-crypto-debanking",
+      "summary": "President Trump unloaded on the issue of crypto debanking Friday, but stopped short of committing to issuing an executive order on the subject."
+    },
+    {
       "title": "'Rogue' Police Are Destroying Bitcoin ATMs: Bitcoin Depot Legal Chief",
       "link": "https://decrypt.co/327503/rogue-police-are-destroying-bitcoin-atms-bitcoin-depot-legal-chief",
       "summary": "Chris Ryan said that police may be breaking the law in some instances and that the provider of the machines is entitled to the funds."
@@ -154,11 +159,6 @@
       "title": "White House Weighs Federal Land and Fast-Tracked Permits to Drive AI Boom: Reuters",
       "link": "https://decrypt.co/327489/white-house-weighs-federal-land-fast-tracked-permits-ai-boom",
       "summary": "President Trump is reportedly mulling executive orders to boost AI infrastructure in the U.S. amid soaring energy demands."
-    },
-    {
-      "title": "Moon or Doom: Where Does Bitcoin Go Next, $115K or $95K?",
-      "link": "https://decrypt.co/327440/bitcoin-btc-price-predictions-115k-or-95k",
-      "summary": "What\u2019s next for the price of Bitcoin? Prediction markets show growing bullish sentiment despite technical indicators suggesting caution."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "$7.5M pulled from TRUMP coin liquidity pool \u2013 Is the hype crumbling?",
+      "link": "https://ambcrypto.com/7-5m-pulled-from-trump-coin-liquidity-pool-is-the-hype-crumbling/",
+      "summary": "<img alt=\"$7.5M pulled from TRUMP coin liquidity pool - Is the hype crumbling?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/4C1AF4BA-400C-43A5-AC82-E106A3B1BF98.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Even as the TRUMP team sells, investors hold firm."
+    },
+    {
       "title": "ETF giants hold 6% of Bitcoin \u2013 But BTC at $73K could break their patience",
       "link": "https://ambcrypto.com/etf-giants-hold-6-of-bitcoin-but-btc-at-73k-could-break-their-patience/",
       "summary": "<img alt=\"ETF giants hold 6% of Bitcoin - But $73K could break their patience\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-11.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Over 1.2M BTC locked in ETFs, will 50% profits tempt institutions to break ranks?"
@@ -208,11 +213,6 @@
       "title": "Is Solana\u2019s 8% staking yield \u2018kind of a meme?\u2019 What this VC believes",
       "link": "https://ambcrypto.com/is-solanas-8-staking-yield-kind-of-a-meme-what-this-vc-believes/",
       "summary": "<img alt=\"Is Solana&#039;s 8% staking yield &#039;Kind of a meme?&#039; What this VC believes\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Benjamin-2025-06-27T155203.529.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Crypto VC downplays inflation as a model for 'network security.'"
-    },
-    {
-      "title": "PayPal CEO says stablecoins need a killer use case \u2013 Here\u2019s where he sees it first",
-      "link": "https://ambcrypto.com/paypal-ceo-says-stablecoins-need-a-killer-use-case-heres-where-he-sees-it-first/",
-      "summary": "<img alt=\"PayPal CEO says stablecoins need a killer use case - Here\u2019s where he sees it first\" class=\"attachment-full size-full wp-post-image\" height=\"1037\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/PayPal-CEO-on-Stablecoins.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1843\" />Alex Chriss admits there's \u201cno real incentive\u201d for consumers to use stablecoins yet."
     }
   ]
 }
