@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Treasury Corporation Acquires 292 BTC, Prepares for Toronto Trading Debut",
+      "link": "https://www.coindesk.com/business/2025/06/27/bitcoin-treasury-corporation-acquires-292-btc-prepares-for-toronto-trading-debut",
+      "summary": ""
+    },
+    {
+      "title": "XRP's Price Volatility Crashes to Lowest Level Since Trump's Victory. What Next?",
+      "link": "https://www.coindesk.com/markets/2025/06/27/xrp-s-price-volatility-crashes-to-lowest-level-since-trump-s-victory-what-next",
+      "summary": ""
+    },
+    {
       "title": "ACX Token Slides 10% as Accusations of DAO Manipulation Rock Across Protocol",
       "link": "https://www.coindesk.com/markets/2025/06/27/acx-token-slides-10-as-accusations-of-dao-manipulation-rock-across-protocol",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Circle Mania Grips South Korea as Retail Investors Pile Into Stablecoin Play",
       "link": "https://www.coindesk.com/markets/2025/06/27/circle-mania-grips-south-korea-as-retail-investors-pile-into-stablecoin-play",
       "summary": ""
-    },
-    {
-      "title": "XRP Slides 5% as Selling Pressure Intensifies Despite Whale Transfers",
-      "link": "https://www.coindesk.com/markets/2025/06/27/xrp-slides-5-as-selling-pressure-intensifies-despite-whale-transfers",
-      "summary": ""
-    },
-    {
-      "title": "Dogecoin Finds Support Around 16 Cents After 6% Drop",
-      "link": "https://www.coindesk.com/markets/2025/06/27/dogecoin-finds-support-around-16-cents-after-6-drop",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Genius Group eyes massive Bitcoin buys from billion-dollar lawsuits",
+      "link": "https://cointelegraph.com/news/genius-group-lawsuit-dividend-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzEyMmUtYmM4My03NzgwLTg1OTAtYjY0OTgyMDFjODFi.jpg\" /></p><p>If successful, Genius Group\u2019s $1 billion lawsuits could net shareholders $7 per share while boosting the company\u2019s Bitcoin holdings by 5,000 BTC.</p>"
+    },
     {
       "title": "UK\u2019s The Smarter Web Company raises $56M days after big Bitcoin buy",
       "link": "https://cointelegraph.com/news/the-smarter-web-company-raises-56m-days-after-196-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "US futures hit record high, setting Bitcoin up for new peak: Analysts",
       "link": "https://cointelegraph.com/news/us-stock-futures-record-sets-bitcoin-all-time-high-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDkzMWUtOWMzNy03MGM3LWJmZTctMTJiOTliNjQxMzgw.jpg\" /></p><p>US stock futures have hit record highs, fueling analyst predictions that Bitcoin could soon break past resistance to hit a new price peak.</p>"
-    },
-    {
-      "title": "Coinbase stock \u2018going vertical\u2019 as it hits new closing high",
-      "link": "https://cointelegraph.com/news/crypto-exchange-coinbase-stock-price-soars-new-closing-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E3YmUtZGJkMi03ZDc0LTkxZjktYzM0ZGRlZGUwNTBm.jpg\" /></p><p>One investment adviser says Coinbase stock is looking strong despite being \u201cdue for a pullback,\u201d but other analysts are more skeptical.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Coinbase hints at Bitcoin treasury as COIN stock reaches new heights",
+      "link": "https://cryptoslate.com/coinbase-hints-at-bitcoin-treasury-as-coin-stock-reaches-new-heights/",
+      "summary": "<p>Coinbase CEO Brian Armstrong has revealed that the exchange is steadily acquiring Bitcoin weekly, signaling what many believe could be the early stages of a treasury-building effort. Armstrong shared the update on June 27, stating that Coinbase has adopted a \u201cLong Bitcoin\u201d strategy. However, he stopped short of confirming whether these acquisitions are explicitly intended [&#8230;]</p> <p>"
+    },
     {
       "title": "USDT on TRON Surpasses $80 Billion, Strengthening TRON\u2019s Position as the Leading Stablecoin Network",
       "link": "https://cryptoslate.com/usdt-on-tron-surpasses-80-billion-strengthening-trons-position-as-the-leading-stablecoin-network/",
@@ -73,14 +78,14 @@
       "title": "CoreWeave revives bid for Core Scientific causing shares to surge 33%",
       "link": "https://cryptoslate.com/coreweave-revives-bid-for-core-scientific-causing-shares-to-surge-33/",
       "summary": "<p>CoreWeave is negotiating to acquire Bitcoin (BTC) miner-turned-compute host Core Scientific, the Wall Street Journal reported on June 26, citing people familiar with the matter. The cloud infrastructure company attempted to acquire the miner for $5.75 per share in June 2024 but withdrew after Core Scientific\u2019s board deemed the price inadequate. Core Scientific and CoreWeave [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin stays confined to $100k\u2013$110k band as realized profit and network activity recede",
-      "link": "https://cryptoslate.com/bitcoin-stays-confined-to-100k-110k-band-as-realized-profit-and-network-activity-recede/",
-      "summary": "<p>Bitcoin (BTC) has traded between $100,000 and $110,000 for a seventh consecutive week due to slower profit realization, cooling transfer volume, and a cautious derivatives backdrop, according to a June 26 Glassnode report. The report cited the market&#8217;s struggles to extend May&#8217;s all-time high rally, with the 30-day realized profit gauge peaking in early May, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Deaton Says Ripple IPO Could Trigger $100B Valuation, How High Will The XRP Price Be?",
+      "link": "https://www.newsbtc.com/analysis/xrp/ripple-ipo-100b-xrp-price/",
+      "summary": "The possibilities of a Ripple Initial Public Offering (IPO) have become higher as time goes on and the company moves toward a complete resolution of its SEC lawsuit. With expectations of the IPO rising, possible valuations have started to fly around as the company is one of the largest cryptocurrency companies. Most notably, pro-XRP lawyer and community member John Deaton has proposed that the Ripple IPO could lead to the company being valued at over $100 billion. Deaton Puts Ripple At $100 Billion The comment and valuation from lawyer John Deaton come after Circle, the company behind the USDC stablecoin, successfully completed its Initial Public Offering (IPO). So far, the crypto firm has found a lot of success in the market, surging from an initial $5 billion valuation to over $63 billion in valuation post-IPO. Related Reading: Bitcoin To Surge To $130,000 Next? What The Wave Count Says Deaton responded to a post on X (formerly Twitter), highlighting this feat, pointing out how Ripple could be even more successful in this regard. He explains that despite Ripple CEO Brad Garlinghouse saying that the company was in no rush to go public, the IPO should be timed correctly to have the right impact. Pointing to the current market environment, he points out that if Circle can grow to a $63 billion valuation, then it means that Ripple can soar even higher. Given XRP\u2019s standing in the market as the 4th-largest cryptocurrency, ahead of Circle\u2019s USDC, which sits at 7th place, Deaton believes that Ripple\u2019s valuation post-IPO can rise to $100 billion. \u201cIf Circle can hit a 62B-75B market cap then Ripple, with nearly 40B XRP, currently valued at $2 (ie $80B), could certainly hit a $100B market cap in this environment,\u201d Deaton wrote. As Bitcoinist reported, Ripple had issued a $700 million tender offer with shares priced at $175. This now puts the equity valuation of the company at $25 billion with 141 million outstanding shares as investors look favorably at the crypto firm. How High Could The XRP Price Go? Market experts have speculated that if the Ripple IPO does go through and the valuation soars, the XRP price will soar in tandem. Crypto investor Dennis Liu shared a video that suggested a successful IPO would be positive for the XRP price. He points out that a symbiotic relationship of the XRP coin related to the Ripple stock would be the dream of investors. Related Reading: Bitcoin Price Could Rally To $110,000 ATH As These Macroeconomic Factors Align Other market experts have debated that the XRP price would go double-digits to rise above $10 if this happens. In some cases, the XRP price has been pegged as high as $100 if Ripple does complete its IPO and begins trading as a publicly listed company. Featured image from Dall.E, chart from TradingView.com"
+    },
     {
       "title": "World Liberty Financial Receives $100 Million from UAE Crypto Investment",
       "link": "https://www.newsbtc.com/news/world-liberty-financial-receives-100-million-from-uae-crypto-investment/",
@@ -100,11 +105,6 @@
       "title": "Cardano (ADA) Bears Active \u2014 Token at Risk of Another Leg Down",
       "link": "https://www.newsbtc.com/analysis/ada/cardano-ada-bears-active-0-580/",
       "summary": "Cardano price started a fresh decline below the $0.5750 zone. ADA is now consolidating and might struggle to stay above the $0.550 support. ADA price started a fresh decline below $0.580 and $0.5750. The price is trading below $0.570 and the 100-hourly simple moving average. There is a key bearish trend line forming with resistance at $0.570 on the hourly chart of the ADA/USD pair (data source from Kraken). The pair could start a fresh decline if it dips below the $0.550 support zone. Cardano Price Dips Again In the past few sessions, Cardano saw a fresh decline below the $0.580, unlike Bitcoin and Ethereum. ADA even declined below the $0.5750 level to enter a bearish zone. The bears even pushed the price below the 23.6% Fib retracement level of the upward move from the $0.5102 swing low to the $0.5938 high. The price even spiked below the $0.5520 support. There is also a key bearish trend line forming with resistance at $0.570 on the hourly chart of the ADA/USD pair. Cardano price is now trading below $0.570 and the 100-hourly simple moving average. On the upside, the price might face resistance near the $0.570 zone. The first resistance is near $0.5850. The next key resistance might be $0.5920. If there is a close above the $0.5920 resistance, the price could start a strong rally. In the stated case, the price could rise toward the $0.620 region. Any more gains might call for a move toward $0.6350 in the near term. Another Drop In ADA? If Cardano\u2019s price fails to climb above the $0.5850 resistance level, it could start another decline. Immediate support on the downside is near the $0.5520 level and the 50% Fib retracement level of the upward move from the $0.5102 swing low to the $0.5938 high. The next major support is near the $0.530 level. A downside break below the $0.530 level could open the doors for a test of $0.5120. The next major support is near the $0.50 level where the bulls might emerge. Technical Indicators Hourly MACD \u2013 The MACD for ADA/USD is gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for ADA/USD is now below the 50 level. Major Support Levels \u2013 $0.5520 and $0.5300. Major Resistance Levels \u2013 $0.5850 and $0.6000."
-    },
-    {
-      "title": "Bitcoin Net Taker Volume Spikes as Billions Exit Derivatives, What Going On?",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-net-taker-volume-spikes-as-billions-exit-derivatives/",
-      "summary": "Bitcoin has regained some upward momentum, with its market price currently hovering around $107,155 at the time of writing. This marks a 0.4% decrease in the past 24 hours, and a 4.3% drop below its all-time high of $111,000, set in May. Despite the rebound, analysts are closely watching for potential shifts in momentum as a number of market indicators and macroeconomic signals suggest a more cautious short-term outlook. Among the recent developments drawing attention is a sharp rise in Net Taker Volume on Binance, along with significant stablecoin outflows from derivative platforms. CryptoQuant analyst Amr Taha noted in a recent market commentary that these changes could indicate increased speculative activity. While some traders interpret such surges as bullish signals, they often occur due to short liquidations or sudden retail buying rather than consistent organic demand. Related Reading: Bitcoin Short-Term Holder Floor Rises Toward $100,000, Reinforcing Bullish Sentiment Derivatives Activity and Fed Commentary Fuel Market Caution On June 24, Binance\u2019s Net Taker Volume crossed $100 million for the first time since early June. This level of activity, according to Taha, can sometimes signal buying momentum but may also point to forced closures of short positions, especially in high-leverage environments. Taha emphasized that without strong capital inflows to back the movement, these bursts tend to be short-lived. Simultaneously, more than $1.25 billion in stablecoin liquidity has exited derivative exchanges, marking the largest capital outflow from these platforms since May. These outflows reduce the base for opening new leveraged positions, potentially dampening future market momentum. Taha also pointed to external economic cues, particularly a recent statement by US Federal Reserve Chair Jerome Powell. During his testimony before Congress, Powell signaled that rate cuts may be on the table depending on upcoming economic conditions. While looser monetary policy is often viewed as favorable for risk assets like Bitcoin, the shift also reflects underlying uncertainty. The analyst also mentioned that the Swiss Franc, traditionally seen as a safe-haven currency, has also surged against the US dollar, suggesting that some investors are leaning risk-off amid broader macroeconomic developments. Market Structure Remains Firm, But Momentum Is Slowing Separately, another CryptoQuant analyst known as Crypto Dan offered a different perspective using a bubble chart model that visualizes trading volume trends across exchanges. According to Dan, Bitcoin is currently experiencing a \u201ccooling\u201d phase. This implies reduced trading activity without dramatic spikes in volume, often seen as a sign that the market is consolidating rather than overheating. Related Reading: CME Gap At $92,000: Is A 12% Retrace Inevitable For Bitcoin? He noted that while BTC remains close to its all-time high, the path forward may depend on macroeconomic catalysts such as confirmed interest rate cuts or regulatory clarity. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Meme Coin News: How to Buy Little Pepe (LILPEPE) as Presale Begins",
+      "link": "https://ambcrypto.com/meme-coin-news-how-to-buy-little-pepe-lilpepe-as-presale-begins/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"431\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-27-142727.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"763\" />Little Pepe ($LILPEPE) is one of the latest meme coins to attract attention in 2025. [&#8230;]"
+    },
+    {
+      "title": "$15B in Bitcoin Options expire today \u2013 Will it trigger a crypto market shake-up?",
+      "link": "https://ambcrypto.com/15b-in-bitcoin-options-expire-today-will-it-trigger-a-crypto-market-shake-up/",
+      "summary": "<img alt=\"$15B in Bitcoin Options expire today - Will it trigger a crypto market shake-up?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika3-1-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could this expiry be the spark that breaks Bitcoin out of its current range?"
+    },
+    {
       "title": "How to play online casino in Norway with Bitcoin",
       "link": "https://ambcrypto.com/how-to-play-online-casino-in-norway-with-bitcoin/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"487\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-27-133651.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"744\" />Norway maintains strict control over gambling through a state monopoly that limits access to offshore [&#8230;]"
@@ -203,16 +213,6 @@
       "title": "IMF\u2019s Bo Li questions stablecoin\u2019s \u2018money\u2019 status even as it clocks $35T",
       "link": "https://ambcrypto.com/imfs-bo-li-questions-stablecoins-money-status-even-as-it-clocks-35t/",
       "summary": "<img alt=\"IMF&#039;s Bo Li questions stablecoin&#039;s &#039;money&#039; status even as it clocks $35T\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Stablecoin-legislation.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1267\" />From Asia to Europe, regulators rush to tame stablecoins before adoption outpaces oversight."
-    },
-    {
-      "title": "FUNToken\u2019s Bullish Surge: Set to Dominate Web3 Gaming?",
-      "link": "https://ambcrypto.com/funtokens-bullish-surge-set-to-dominate-web3-gaming/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1017\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/AMB-CRYPT-COVER-IMAGE.jpeg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1600\" />The Web3 gaming landscape is buzzing with opportunity, and FUNToken is leading the charge. As [&#8230;]"
-    },
-    {
-      "title": "IP\u2019s recovery fizzles out? Decoding Story\u2019s price action and conflicting signals",
-      "link": "https://ambcrypto.com/ips-recovery-fizzles-out-decoding-storys-price-action-and-conflicting-signals/",
-      "summary": "<img alt=\"IP&#039;s recovery fizzles out? Decoding Story&#039;s price action and conflicting signals\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/IP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish structure break on the 12-hour timeframe was overpowered by the swing bearish structure of IP."
     }
   ]
 }
