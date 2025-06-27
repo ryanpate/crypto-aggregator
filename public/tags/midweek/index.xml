@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Midweek on BlockWireNews - Aggregated CryptoCurrency News</title>
-    <link>https://www.blockwirenews.com/tags/midweek/</link>
+    <link>http://localhost:1313/tags/midweek/</link>
     <description>Recent content in Midweek on BlockWireNews - Aggregated CryptoCurrency News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jun 2025 10:00:00 -0500</lastBuildDate>
-    <atom:link href="https://www.blockwirenews.com/tags/midweek/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/midweek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Midweek Crypto Check-In from Bald Head Island</title>
-      <link>https://www.blockwirenews.com/blog/2025-06-11-midweek-vaca-update/</link>
+      <link>http://localhost:1313/blog/2025-06-11-midweek-vaca-update/</link>
       <pubDate>Mon, 09 Jun 2025 10:00:00 -0500</pubDate>
-      <guid>https://www.blockwirenews.com/blog/2025-06-11-midweek-vaca-update/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Midweek Crypto Check-In from Bald Head Island&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey fam, I’m halfway through my sand-and-sun retreat here at Bald Head Island, NC—sunscreen on, laptop mostly off. But I couldn’t help peeking at the markets, so here’s a quick roundup of how last week’s picks fared and what’s popping now:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bitcoin&lt;/strong&gt;&lt;br&gt;&#xA;Still cruising near $103k—up about 1% since Friday. Those bank custody rumors turned out less “now or never” and more “slow-and-steady,” so BTC’s just vibing.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/2025-06-11-midweek-vaca-update/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Midweek Crypto Check-In from Bald Head Island&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey fam, welcome to your &lt;strong&gt;midweek crypto update&lt;/strong&gt; from Bald Head Island — where a &lt;strong&gt;crypto market check-in&lt;/strong&gt; by the beach reveals &lt;strong&gt;Bitcoin price trends&lt;/strong&gt; holding near $103k and an &lt;strong&gt;Ethereum staking update&lt;/strong&gt; rolling out smoothly. &lt;strong&gt;XRP ETF news&lt;/strong&gt; continues to stir traders, &lt;strong&gt;Litecoin trading insights&lt;/strong&gt; netted a small win at $163, and &lt;strong&gt;Dogecoin rally analysis&lt;/strong&gt; proves meme momentum is alive under the sun.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

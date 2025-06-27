@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weekend on BlockWireNews - Aggregated CryptoCurrency News</title>
-    <link>https://www.blockwirenews.com/tags/weekend/</link>
+    <link>http://localhost:1313/tags/weekend/</link>
     <description>Recent content in Weekend on BlockWireNews - Aggregated CryptoCurrency News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jun 2025 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://www.blockwirenews.com/tags/weekend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/weekend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekend Send-Off: Final Crypto Lowdown from the Beach</title>
-      <link>https://www.blockwirenews.com/blog/2025-06-13-end-of-vacation/</link>
+      <link>http://localhost:1313/blog/2025-06-13-end-of-vacation/</link>
       <pubDate>Fri, 13 Jun 2025 12:00:00 -0500</pubDate>
-      <guid>https://www.blockwirenews.com/blog/2025-06-13-end-of-vacation/</guid>
-      <description>&lt;p&gt;Hey crew, it’s my last day soaking up sun on Bald Head Island, so here’s a slightly longer wrap-up before I pack up my beach chair. Over the weekend, the Israel-Iran airstrikes kicked off a wave of risk-off trading—Bitcoin dipped below $103K before clawing back to around $105K by this afternoon as oil and gold spiked (&lt;a href=&#34;(https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-sinks-below-103000-as-israel-iran-conflict-sparks-global-crypto-selloff/articleshow/121820959.cms?utm_source=chatgpt.com)&#34;&gt;Economic Times&lt;/a&gt;, &lt;a href=&#34;https://www.reuters.com/world/africa/dollar-other-safe-havens-rise-israel-strikes-iran-2025-06-13/?utm_source=chatgpt.com&#34;&gt;Reuters&lt;/a&gt;). Ether and XRP weren’t immune either, down roughly 4% and 3.5% respectively at the worst of it. The big red flag? If Iran actually closes the Strait of Hormuz, we could see another cliff dive in crypto—as Cointelegraph warned, that chokepoint handles 20% of global oil, and any shutdown would torch risk assets overnight (&lt;a href=&#34;https://cointelegraph.com/news/closing-strait-hormuz-biggest-risk-btc-price-weekend?utm_source=chatgpt.com&#34;&gt;Cointelegraph&lt;/a&gt;).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend Crypto Vibes: Quick Picks Before Vacation</title>
-      <link>https://www.blockwirenews.com/blog/2025-06-06-weekend-update/</link>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 -0500</pubDate>
-      <guid>https://www.blockwirenews.com/blog/2025-06-06-weekend-update/</guid>
-      <description>&lt;p&gt;Hey everyone, happy Friday! Crypto’s been doing its usual dance: Bitcoin’s been holding strong around $102k after that overnight pop on news of another major bank announcing they’re dipping their toes into BTC custody services. Ethereum’s chilling in the $2,600–$2,650 range, but I’m keeping an eye on a possible breakout if Sunday’s staking rewards update comes through without hiccups. Meanwhile, XRP’s just hanging out near $2.12, flirting with resistance—if that ETF chat heats up again, it could see a quick spike. Personally, I’m tossing a small buy into Litecoin (LTC) this afternoon since it’s been creeping back toward $160 and feels like a low-key play if overall sentiment stays upbeat. Oh, and I snagged a few dollars’ worth of Dogecoin, mostly for old times’ sake and because Elon teased something cryptic about “meme power” in his morning tweet. Who knows, right?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/2025-06-13-end-of-vacation/</guid>
+      <description>&lt;p&gt;Hey crew, as I wrap up this &lt;strong&gt;crypto market wrap&lt;/strong&gt; from Bald Head Island, we witnessed a classic &lt;strong&gt;risk-off trading session&lt;/strong&gt; driven by recent &lt;strong&gt;Israel-Iran airstrikes&lt;/strong&gt;, which sent &lt;strong&gt;Bitcoin price volatility&lt;/strong&gt; through the roof—BTC briefly dipped below $103K before rebounding to $105K as traditional &lt;strong&gt;safe haven assets&lt;/strong&gt; like oil and gold surged (&lt;a href=&#34;https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-sinks-below-103000-as-israel-iran-conflict-sparks-global-crypto-selloff/articleshow/121820959.cms?utm_source=chatgpt.com&#34;&gt;Economic Times&lt;/a&gt;, &lt;a href=&#34;https://www.reuters.com/world/africa/dollar-other-safe-havens-rise-israel-strikes-iran-2025-06-13/?utm_source=chatgpt.com&#34;&gt;Reuters&lt;/a&gt;). Ether and XRP rode the same wave, down 4% and 3.5% respectively at the low. On the regulatory front, EU’s &lt;strong&gt;MiCA licensing&lt;/strong&gt; for Gemini and Crypto.com in Malta paves the way for harmonized crypto rules across Europe (&lt;a href=&#34;https://www.reuters.com/sustainability/boards-policy-regulation/crypto-giants-set-eu-green-light-amid-growing-regulatory-rift-sources-say-2025-06-13/?utm_source=chatgpt.com&#34;&gt;Reuters&lt;/a&gt;), while US-China trade talks continue to inject uncertainty into broader crypto liquidity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
