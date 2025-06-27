@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "XRP Slides 5% as Selling Pressure Intensifies Despite Whale Transfers",
+      "link": "https://www.coindesk.com/markets/2025/06/27/xrp-slides-5-as-selling-pressure-intensifies-despite-whale-transfers",
+      "summary": ""
+    },
+    {
+      "title": "Dogecoin Finds Support Around 16 Cents After 6% Drop",
+      "link": "https://www.coindesk.com/markets/2025/06/27/dogecoin-finds-support-around-16-cents-after-6-drop",
+      "summary": ""
+    },
+    {
       "title": "XRP, Solana Lead Profit-Taking Among Crypto Majors Even as Bullish Mood Persists",
       "link": "https://www.coindesk.com/markets/2025/06/27/xrp-solana-lead-profit-taking-among-crypto-majors-even-as-bullish-mood-persists",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Asia Morning Briefing: Asia's Banks Look to Stablecoins to Prevent Deposit Flight",
       "link": "https://www.coindesk.com/markets/2025/06/26/asia-morning-briefing-asias-banks-look-to-stablecoins-to-prevent-deposit-flight",
       "summary": ""
-    },
-    {
-      "title": "Coinbase Comes Full Circle, Soars to Highest Price Since 2021 Nasdaq Debut",
-      "link": "https://www.coindesk.com/markets/2025/06/26/coinbase-comes-full-circle-soars-to-highest-price-since-2021-nasdaq-debut",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Holds Above $107K Ahead of Friday\u2019s Big Options Expiry With $102K Max Pain Price",
-      "link": "https://www.coindesk.com/markets/2025/06/26/btc-holds-above-107k-ahead-of-fridays-big-options-expiry-with-102k-max-pain-price",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "UK\u2019s The Smarter Web Company raises $56M days after big Bitcoin buy",
+      "link": "https://cointelegraph.com/news/the-smarter-web-company-raises-56m-days-after-196-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhNDctODdkMS03MGRmLWJjZDEtNDk5ZTU2MDk0NmNk.jpg\" /></p><p>UK-based The Smarter Web Company has made a multimillion-dollar raise just days after it purchased $20 million worth of Bitcoin to bring its holdings to over 540 BTC.</p>"
+    },
+    {
+      "title": "Ethereum set for rally as it holds above crucial $2.4K price: Analyst",
+      "link": "https://cointelegraph.com/news/ether-price-rally-speculation-crucial-level-holds-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4NzgtNDU5Ni03NzBjLTg2NzQtMGQ2YmNlZThlOGJj.jpg\" /></p><p>Crypto analyst Micha\u00ebl van de Poppe says Ether could be \u201ctesting the other side of the range\u201d in the coming weeks as it trades above $2,400.</p>"
+    },
+    {
+      "title": "Crypto seed phrase, front-end hacks drive record losses in 2025: TRM Labs",
+      "link": "https://cointelegraph.com/news/seed-phrase-front-end-hacks-drive-2025-record-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYzZjQtYWQzYi03ODcwLTlkNGQtZGVlZWJjMzM4ODg4.jpg\" /></p><p>Crypto private key exploits and front-end protocol attacks account for 80% of the $2.1 billion worth of crypto that has been stolen so far this year, TRM Labs reports.</p>"
+    },
     {
       "title": "US futures hit record high, setting Bitcoin up for new peak: Analysts",
       "link": "https://cointelegraph.com/news/us-stock-futures-record-sets-bitcoin-all-time-high-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Coinbase stock \u2018going vertical\u2019 as it hits new closing high",
       "link": "https://cointelegraph.com/news/crypto-exchange-coinbase-stock-price-soars-new-closing-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E3YmUtZGJkMi03ZDc0LTkxZjktYzM0ZGRlZGUwNTBm.jpg\" /></p><p>One investment adviser says Coinbase stock is looking strong despite being \u201cdue for a pullback,\u201d but other analysts are more skeptical.</p>"
-    },
-    {
-      "title": "Bakkt Holdings files $1B shelf offering that could fuel Bitcoin buys",
-      "link": "https://cointelegraph.com/news/bakkt-holdings-files-1b-shelf-offering-to-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FmMWQtZmM0Zi03ODdlLTljMzgtZThhOTdhODA4OGYz.jpg\" /></p><p>Bakkt has filed for a $1 billion shelf registration after the firm updated its investment policy earlier this month to allow it to buy Bitcoin and other cryptocurrencies.</p>"
-    },
-    {
-      "title": "AI crypto app users nearly double this year as funding beats 2024 total",
-      "link": "https://cointelegraph.com/news/ai-crypto-activity-near-double-2025-funding-beats-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDNkMDktMzQzNi03ZDhiLWIzYzUtN2QyOTQ5OGNjMzgx.jpg\" /></p><p>DappRadar found AI agent projects raised $1.39 billion this year, a 9.4% increase on the total funding in 2024, while a onchain activity has surged 86%.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Bitcoin Binance Open Interest Shoots Up: Warning For BTC?",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-binance-open-interest-warning-btc/",
+      "summary": "Data shows the Bitcoin Open Interest on the cryptocurrency exchange Binance has recently shot up. What could this mean for the asset&#8217;s price? Bitcoin Binance Open Interest Has Seen A Sharp Increase As explained by an analyst in a CryptoQuant Quicktake post, the Bitcoin Open Interest on Binance has spiked. The &#8220;Open Interest&#8221; refers to an indicator that measures the total amount of BTC positions that are currently open on a given derivatives platform. When the value of the metric goes up, it means the investors are opening up fresh positions on the market. As the total amount of leverage present in the sector rises when new positions appear, this kind of trend can lead to the asset&#8217;s price becoming more volatile. Related Reading: Bitcoin Retests $108,000, But Holders Disagree On Direction On the other hand, the indicator observing a decline suggests the holders are either closing up positions of their own volition or getting liquidated by their platform. Since leverage goes down with such a trend, the cryptocurrency can become more stable following it. Now, here is a chart that shows the trend in the 24-hour percentage change of the Bitcoin Open Interest for the Binance exchange over the past month: As displayed in the above graph, the 24-hour change in the Binance Bitcoin Open Interest recently shot up to a notably positive value, implying the number of positions on the platform saw a significant jump. At the peak of this spike, the indicator hit a value of more than 6%. From the chart, it&#8217;s visible that there have been a couple of other occasions that the metric has breached this mark during the past month. Interestingly, each of these spikes coincided with points that preceded a period of consolidation/decline for Bitcoin. As the quant notes, This recurring pattern suggests that large inflows into leveraged positions often precede periods where short-term gains are realized, leading to potential price pullbacks or sideways movement as market participants de-risk. The analyst has also shared another chart, this one tracking the 7-day change in the Realized Cap of the short-term holders and long-term holders. The &#8220;Realized Cap&#8221; refers to an indicator that keeps track of the capital that the holders have invested into Bitcoin. Below is a chart that shows the change in this metric for two investor cohorts, short-term holders (holding time of 155 days or lesser) and long-term holders (holding time greater than 155 days). As is apparent from the graph, the 7-day change in the Realized Cap has recently been positive for long-term holders, which suggests capital has been maturing from the short-term holders into this cohort. Related Reading: Chainlink Holders Set Record As 1-Yr MVRV Signals \u2018Opportunity\u2019 That said, earlier in the month, the indicator hit a peak of $57 billion, but today it has come down to just $3.5 billion. So, while capital is still aging into long-term holders, it&#8217;s now happening at a much slower rate. BTC Price Bitcoin has been attempting to break past the $108,000 mark, but so far, it hasn&#8217;t found success as its price is still trading around $107,200. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com"
+    },
+    {
       "title": "Cardano (ADA) Bears Active \u2014 Token at Risk of Another Leg Down",
       "link": "https://www.newsbtc.com/analysis/ada/cardano-ada-bears-active-0-580/",
       "summary": "Cardano price started a fresh decline below the $0.5750 zone. ADA is now consolidating and might struggle to stay above the $0.550 support. ADA price started a fresh decline below $0.580 and $0.5750. The price is trading below $0.570 and the 100-hourly simple moving average. There is a key bearish trend line forming with resistance at $0.570 on the hourly chart of the ADA/USD pair (data source from Kraken). The pair could start a fresh decline if it dips below the $0.550 support zone. Cardano Price Dips Again In the past few sessions, Cardano saw a fresh decline below the $0.580, unlike Bitcoin and Ethereum. ADA even declined below the $0.5750 level to enter a bearish zone. The bears even pushed the price below the 23.6% Fib retracement level of the upward move from the $0.5102 swing low to the $0.5938 high. The price even spiked below the $0.5520 support. There is also a key bearish trend line forming with resistance at $0.570 on the hourly chart of the ADA/USD pair. Cardano price is now trading below $0.570 and the 100-hourly simple moving average. On the upside, the price might face resistance near the $0.570 zone. The first resistance is near $0.5850. The next key resistance might be $0.5920. If there is a close above the $0.5920 resistance, the price could start a strong rally. In the stated case, the price could rise toward the $0.620 region. Any more gains might call for a move toward $0.6350 in the near term. Another Drop In ADA? If Cardano\u2019s price fails to climb above the $0.5850 resistance level, it could start another decline. Immediate support on the downside is near the $0.5520 level and the 50% Fib retracement level of the upward move from the $0.5102 swing low to the $0.5938 high. The next major support is near the $0.530 level. A downside break below the $0.530 level could open the doors for a test of $0.5120. The next major support is near the $0.50 level where the bulls might emerge. Technical Indicators Hourly MACD \u2013 The MACD for ADA/USD is gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for ADA/USD is now below the 50 level. Major Support Levels \u2013 $0.5520 and $0.5300. Major Resistance Levels \u2013 $0.5850 and $0.6000."
@@ -100,11 +105,6 @@
       "title": "XRP Price Under Pressure \u2014 Can It Maintain The Bullish Structure?",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-under-pressure-2-020/",
       "summary": "XRP price started a downside correction from the $2.220 zone. The price is consolidating and might decline further toward the $2.020 support. XRP price started a downside correction below the $2.20 zone. The price is now trading below $2.150 and the 100-hourly Simple Moving Average. There was a break below a bullish trend line with support at $2.150 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could find bids near the $2.020 zone and start a fresh increase. XRP Price Dips Below Support XRP price attempted more gains above the $2.150 zone, like Bitcoin and Ethereum. The price spiked above the $2.20 and $2.220 levels, but the bulls failed to extend gains. A high was formed at $2.2294 and the price is now correcting gains. There was a move below the $2.20 and $2.15 levels. The price dipped below the 23.6% Fib retracement level of the upward move from the $1.910 swing low to the $2.2294 high. Besides, there was a break below a bullish trend line with support at $2.150 on the hourly chart of the XRP/USD pair. The price is now trading below $2.180 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.150 level. The first major resistance is near the $2.20 level. The next resistance is $2.220. A clear move above the $2.220 resistance might send the price toward the $2.320 resistance. Any more gains might send the price toward the $2.40 resistance or even $2.450 in the near term. The next major hurdle for the bulls might be $2.50. More Losses? If XRP fails to clear the $2.20 resistance zone, it could start another decline. Initial support on the downside is near the $2.070 level or the 50% Fib retracement level of the upward move from the $1.910 swing low to the $2.2294 high. The next major support is near the $2.020 level. If there is a downside break and a close below the $2.020 level, the price might continue to decline toward the $2.00 support. The next major support sits near the $1.920 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now below the 50 level. Major Support Levels \u2013 $2.070 and $2.020. Major Resistance Levels \u2013 $2.20 and $2.220."
-    },
-    {
-      "title": "Ethereum Price Action Turns Bearish \u2014 Risk of Near-Term Correction",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-action-bearish-2520/",
-      "summary": "Ethereum price started a fresh increase above the $2,450 zone. ETH is now correcting gains from $2,520 and might slip to test the $2,320 zone. Ethereum started a fresh upward move above the $2,350 level. The price is trading above $2,400 and the 100-hourly Simple Moving Average. There was a break below a connecting bullish trend line with support at $2,450 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains stable above the $2,320 zone in the near term. Ethereum Price Dips Below Support Ethereum price started a fresh increase above the $2,320 support level, like Bitcoin. ETH price was able to clear the $2,350 and $2,450 resistance levels to move into a positive zone. The bulls even pushed the price above the 76.4% Fib retracement level of the downward move from the $2,569 swing high to the $2,115 low. However, the bulls were active above the $2,500 level. A high was formed at $2,520 and the price is now correcting some gains. There was a move below the 23.6% Fib retracement level of the upward move from the $2,114 swing low to the $2,520 high. Besides, there was a break below a connecting bullish trend line with support at $2,450 on the hourly chart of ETH/USD. Ethereum price is now trading above $2,400 and the 100-hourly Simple Moving Average. On the upside, the price could face resistance near the $2,500 level. The next key resistance is near the $2,520 level. The first major resistance is near the $2,550 level. A clear move above the $2,550 resistance might send the price toward the $2,600 resistance. An upside break above the $2,600 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. More Losses In ETH? If Ethereum fails to clear the $2,520 resistance, it could start a fresh decline. Initial support on the downside is near the $2,400 level. The first major support sits near the $2,320 zone. A clear move below the $2,320 support might push the price toward the $2,250 support. Any more losses might send the price toward the $2,200 support level in the near term. The next key support sits at $2,150. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is losing momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now below the 50 zone. Major Support Level \u2013 $2,320 Major Resistance Level \u2013 $2,520"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,29 +190,29 @@
   ],
   "AMBcrypto": [
     {
+      "title": "FUNToken\u2019s Bullish Surge: Set to Dominate Web3 Gaming?",
+      "link": "https://ambcrypto.com/funtokens-bullish-surge-set-to-dominate-web3-gaming/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1017\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/AMB-CRYPT-COVER-IMAGE.jpeg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1600\" />The Web3 gaming landscape is buzzing with opportunity, and FUNToken is leading the charge. As [&#8230;]"
+    },
+    {
+      "title": "IP\u2019s recovery fizzles out? Decoding Story\u2019s price action and conflicting signals",
+      "link": "https://ambcrypto.com/ips-recovery-fizzles-out-decoding-storys-price-action-and-conflicting-signals/",
+      "summary": "<img alt=\"IP&#039;s recovery fizzles out? Decoding Story&#039;s price action and conflicting signals\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/IP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish structure break on the 12-hour timeframe was overpowered by the swing bearish structure of IP."
+    },
+    {
+      "title": "Invesco, Galaxy join Solana ETF rush \u2014 9 issuers now competing for SEC approval!",
+      "link": "https://ambcrypto.com/invesco-galaxy-join-solana-etf-rush-9-issuers-now-competing-for-sec-approval/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"810\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Invesco-Galaxy-files-for-Solana-ETF.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1440\" />Solana ETFs may launch together by October. Or maybe, well before that!"
+    },
+    {
+      "title": "Weed announces partnership with Khalifa Kush: Launches global commercialization",
+      "link": "https://ambcrypto.com/weed-announces-partnership-with-khalifa-kush-launches-global-commercialization/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"432\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-27-105111.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"769\" />Weed, a U.S.-based IP company aimed at reshaping the global conversation around well-being, begins its [&#8230;]"
+    },
+    {
       "title": "ETH ETF inflows rise, but Futures data warns traders aren\u2019t buying the rally!",
       "link": "https://ambcrypto.com/eth-etf-inflows-rise-but-futures-data-warns-traders-arent-buying-the-rally/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Benjamin-2025-06-26T172244.142.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite mixed signals, ETH may be close to flagging a buy signal."
-    },
-    {
-      "title": "FARTCOIN wipes out $3.05 mln in value \u2013 Can THIS lead to a market reversal?",
-      "link": "https://ambcrypto.com/fartcoin-wipes-out-3-05-mln-in-value-can-this-lead-to-a-market-reversal/",
-      "summary": "<img alt=\"FARTCOIN wipes out $3.05 mln in value - Can THIS lead to a market reversal?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/1000001603.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />FARTCOIN's decline could trigger a major reversal - Here's how."
-    },
-    {
-      "title": "Ethereum stablecoin adoption hits record 750K weekly users \u2013 What\u2019s fueling the surge?",
-      "link": "https://ambcrypto.com/ethereum-stablecoin-adoption-hits-record-750k-weekly-users-whats-fueling-the-surge/",
-      "summary": "<img alt=\"Ethereum stablecoin adoption hits record 750K weekly users - What\u2019s fueling the surge?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-14-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />USDT and USDC still dominate, but rising competition and use cases are reshaping the stablecoin race."
-    },
-    {
-      "title": "Curve DAO [CRV]: $0.42 could be next \u2013 Here\u2019s what you should know",
-      "link": "https://ambcrypto.com/curve-dao-crv-0-42-could-be-next-heres-what-you-should-know/",
-      "summary": "<img alt=\"Curve DAO in Danger of Breaking Below $0.42: Here\u2019s What Investors Need to Know\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Curve-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Curve DAO faces bearish pressure, trading below $0.70; $0.42\u2013$0.50 zone could determine its recovery."
-    },
-    {
-      "title": "Ethereum stuck below $2.5K \u2013 Why ETH price hangs on THESE triggers!",
-      "link": "https://ambcrypto.com/ethereum-stuck-below-2-5k-why-eth-price-hangs-on-these-triggers/",
-      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Lennox-1-8.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />For Ethereum to sustain its earlier bullishness, price need to confirm meeting two key conditions."
     }
   ]
 }
