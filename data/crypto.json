@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Saylor signals impending Bitcoin buy for 11th consecutive week",
+      "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-11-consecutive-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ2ZDUtMGZhNi03NDRkLWJlMWItM2JhM2M4NmFjYmU5.jpg\" /></p><p>Michael Saylor's Strategy is up over 52% on its Bitcoin investment, representing an unrealized capital gain of over $21.8 billion.</p>"
+    },
+    {
       "title": "How mass decoy messaging protects whistleblowers  \u2014 CoverDrop founder",
       "link": "https://cointelegraph.com/news/decoy-messaging-protect-whistleblowers-coverdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JjOWMtODgzYS03MzM5LTkzYjEtNDI2ZGE3YWE1N2Zj.jpg\" /></p><p>The growing sophistication of the mass surveillance state has created the need for new tools to obfuscate identity and restore anonymity.</p>"
@@ -46,14 +51,14 @@
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Bitcoin price will make history with $109K weekly, monthly close",
-      "link": "https://cointelegraph.com/news/bitcoin-price-will-make-history-with-109k-weekly-monthly-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JiYjctMWU1Yi03OTQwLTllMjktY2QxY2IzMGRhMGQ1.jpg\" /></p><p>Bitcoin weekend volatility gets a late boost thanks to a familiar source with the key $109,000 BTC price closing level within easy reach.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Financial advisor Ric Edelman says crypto should make up 10-40% of a portfolio",
+      "link": "https://cryptoslate.com/financial-advisor-ric-edelman-says-crypto-should-make-up-10-40-of-a-portfolio/",
+      "summary": "<p>Financial advisors should be recommending clients to allocate between 10% to 40% of their portfolio to crypto, influential investment manager Ric Edelman told CNBC on Friday. According to Edelman, founder of the Digital Assets Council of Financial Professionals, the percentage of allocation to crypto should be decided based on the client\u2019s risk appetite. Therefore, he [&#8230;]</p> <p>"
+    },
     {
       "title": "US entrepreneur Hayden Davis testifies in LIBRA case in New York as legal proceedings advance",
       "link": "https://cryptoslate.com/us-entrepreneur-hayden-davis-testifies-in-libra-case-in-new-york-as-legal-proceedings-advance/",
@@ -73,11 +78,6 @@
       "title": "Billions in corporate buys can\u2019t budge Bitcoin\u20145 reasons the BTC price won\u2019t move",
       "link": "https://cryptoslate.com/billions-in-corporate-buys-cant-budge-bitcoin-5-reasons-the-btc-price-wont-move/",
       "summary": "<p>From Michael Saylor to David Bailey, Anthony Pompliano to Jack Mallers, and everyone in between, there\u2019s a rising tide of executives buying bitcoin for their corporate treasuries. Large companies and Wall Street are vacuuming up billions of dollars\u2019 worth of BTC every week, yet its price remains relatively untouched. One Bitcoiner took to Twitter to [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Gemini launches tokenized US stock trading in EU starting with MSTR",
-      "link": "https://cryptoslate.com/gemini-launches-tokenized-us-stock-trading-in-eu-starting-with-mstr/",
-      "summary": "<p>Crypto exchange Gemini has launched tokenized Strategy (MSTR) shares for customers in the EU, marking the beginning of its rollout of tokenized U.S. equities on blockchain networks. The offering, enabled through a partnership with tokenization platform Dinari, allows Gemini users to buy fractional shares of Strategy as on-chain tokens backed by real securities. MSTR tokens [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "This Week in Crypto Games: 'Raini: The Lords of Light' Shutting Down, 'Eve Frontier' Trial",
+      "link": "https://decrypt.co/327726/this-week-crypto-games-raini-lords-light-eve-frontier",
+      "summary": "Avalanche card game Raini: The Lords of Light is closing soon, Eve Frontier launched a free trial period, and more."
+    },
+    {
       "title": "Bitcoin Alkanes: The Next Big BTC Innovation After Ordinals and Runes?",
       "link": "https://decrypt.co/327721/bitcoin-alkanes-next-big-btc-innovation-after-ordinals-runes",
       "summary": "The Alkanes metaprotocol enables the creation of apps, NFTs, and tokens on Bitcoin. Will it fuel a new wave of BTC innovation?"
@@ -154,11 +159,6 @@
       "title": "Ripple vs SEC: Why the XRP Legal Battle Still Isn't Officially Over",
       "link": "https://decrypt.co/327521/ripple-vs-sec-why-xrp-legal-battle-still-not-over",
       "summary": "It hasn't been an easy road to resolution for Ripple and the SEC in the long-running legal fight over XRP sales. Here's why."
-    },
-    {
-      "title": "Can China's MiniMax-M1 AI Topple US Rivals? We Put It to the Test",
-      "link": "https://decrypt.co/327569/can-china-minimax-m1-ai-topple-us-rivals-review",
-      "summary": "We break down China\u2019s new open-source reasoning model, MiniMax-M1: real benchmarks, hidden tradeoffs, and how it stacks up against competitors."
     }
   ],
   "CryptoBriefing": [
