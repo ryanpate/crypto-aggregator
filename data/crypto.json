@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Stablecoins are becoming \u2018default settlement layer\u2019 for internet: Alchemy",
+      "link": "https://cointelegraph.com/news/stablecoins-default-settlement-layer-internet-alchemy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JiZjYtYjBjZi03NmFhLTk4M2ItMzUwOTkyN2I3MGFi.jpg\" /></p><p>Stablecoins are now the \u201cdefault settlement layer for the internet,\u201d surpassing Visa and Mastercard in onchain transaction volume.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
       "title": "Bitcoin price will make history with $109K weekly, monthly close",
       "link": "https://cointelegraph.com/news/bitcoin-price-will-make-history-with-109k-weekly-monthly-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JiYjctMWU1Yi03OTQwLTllMjktY2QxY2IzMGRhMGQ1.jpg\" /></p><p>Bitcoin weekend volatility gets a late boost thanks to a familiar source with the key $109,000 BTC price closing level within easy reach.</p>"
@@ -41,16 +51,6 @@
       "title": "27% of Koreans aged 20\u201350 hold crypto, 70% eye more investments: Report",
       "link": "https://cointelegraph.com/news/27-of-koreans-aged-20-50-hold-crypto-70-eye-more-investments-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JhOGItMjY4Mi03NWY3LTlmMmMtODEyMjZkNTk5ZTFm.jpg\" /></p><p>Over 25% of Koreans in their 20s to 50s now hold crypto, with 70% looking to expand their investments as virtual assets become central to retirement planning.</p>"
-    },
-    {
-      "title": "Bitcoin is &#039;bad for dictators&#039;: Human Rights Foundation exec",
-      "link": "https://cointelegraph.com/news/bitcoin-bad-for-dictators-human-rights-foundation-bitcoin-policy-summit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZmOTQtYTVlNC03NzMwLWI4MDktYTgzYTI2MTVjNGEy.jpg\" /></p><p>Human Rights Foundation\u2019s Alex Gladstein told a group of US political leaders that Bitcoin has \u201cessentially saved\u201d citizens living under dictatorships.</p>"
-    },
-    {
-      "title": "\u2018All systems go\u2019 for Solana staking ETF to launch any moment: Analysts",
-      "link": "https://cointelegraph.com/news/spot-solana-staking-etf-rex-shares-launch-soon-analysts-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA5Y2QtNTk2Mi03Y2FhLWEzNDQtY2QxZjdiMTc1MGY3.jpg\" /></p><p>ETF analyst Eric Balchunas says REX Shares\u2019 latest Solana staking ETF filing with the SEC suggests the product is ready launch any day now.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,9 +82,9 @@
   ],
   "NewsBTC": [
     {
-      "title": "Bitcoin Consolidating Below $108,000 But Eyes $115,000 Target",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-consolidating-below-108000-but-eyes-115000-target/",
-      "summary": "Bitcoin\u2019s price action has been relatively stable in recent days, currently trading just above $107,000 after briefly touching previous highs near $108,000. Amid this backdrop, technical analysis from a popular crypto analyst on the TradingView platform outlined a compelling structural setup forming on Bitcoin\u2019s daily chart. The analysis shows that Bitcoin&#8217;s action is in a compression phase that could precede a breakout to $115,000 very soon. Related Reading: Stablecoin Skepticism Grows As IMF Official Challenges Their Money Role Compression Structure Forming Below $108,000 Resistance Bitcoin&#8217;s price action is currently following movements in traditional risk assets like the S&#38;P 500 and Nasdaq, both of which have recovered following the recent de-escalation of geopolitical tensions in the Middle East. Against this backdrop, crypto analyst RLinda shared an outlook on TradingView that highlights a structural setup forming on the D1 chart and predicts a breakout to as high as $115,000 if some resistance levels are cleared. According to RLinda, Bitcoin is in the middle of a compression phase just below the $108,100 resistance level. This follows what the analyst describes as a false breakout above $100,000, which led to a brief distribution and now an active accumulation zone. The daily chart shows price action gradually tightening within the $106,500 to $108,100 range since June 25, the essence of which the analyst called a pause for a breather before a possible continuation of growth. The current setup has already established well-defined boundaries, with support at $106,500 and $108,100 as immediate resistance. A breakout above this immediate resistance would pave the way for the next resistance around $110,400 and bring Bitcoin within striking distance of its all-time high at $111,000. On the other hand, a short-term pullback toward $105,650 is still possible before a new move to the upside. Bitcoin Price Levels To Watch Bitcoin&#8217;s price action is really pressing on this resistance level around $108,000 and is building momentum for a breakout once the price level gives way. The key resistance levels to monitor are stacked around $108,100, $108,900, and $110,400. As long as the structure between $106,500 and $108,100 holds, and Bitcoin&#8217;s price is sticky near the top of that zone, the breakout scenario becomes increasingly probable. Although there are currently no reasons for a decline on the daily and weekly candlestick charts, the analyst noted that a temporary pullback to $105,650 or even $104,650 cannot be ruled out. However, even such a pullback would likely only serve as a retest but still keep the broader setup intact. Related Reading: The $100K Mirage: Bitcoin\u2019s Rally Not Backed By On-Chain Strength At the time of writing, Bitcoin is trading at $107,457, up by 0.5% in the past 24 hours. The breakout trigger is still at $108,100. If broken, Bitcoin could easily move to new highs around $115,000. Featured image from Unsplash, chart from TradingView"
+      "title": "Bitcoin In Stalemate With Liquidation Traps On Both Sides Of The Market",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-in-stalemate-with-liquidation-traps-on-both-sides-of-the-market/",
+      "summary": "Bitcoin prices climbed by 5.07% in the past week to hit a local peak of $108,000 before experiencing a solid rejection. Since then, the leading cryptocurrency has remained in the $106,000 &#8211; $107,000 range showing no indications of a breakout in either market direction. Amidst this market consolidation, renowned crypto analyst with X username KillaXBT has highlighted the key liquidation zones in the present Bitcoin market structure that are critical to the next significant price move. Related Reading: Bitcoin Bullishness For Q3 Grows: What Happens In Every Post-Halving Year? Bitcoin: Clustering At $103K\u2013$106K And $108K\u2013$111K &#8211; What Could This Mean? In a recent X post , KillaXBT shares that Bitcoin is currently at a pivotal decision zone as liquidation heatmap data from Coinglass reveals notable liquidity clusters forming on both ends of the current price range. The market expert explains that BTC is trapped between long and short liquidation zones in both low and high time frames (L/HTF) signaling a moment of market indecision On the 7-day chart (LTF), KillaXBT states there are accumulations of long positions between $103,400 and $106,000. This data suggests that a move below this price range could trigger cascading stop-losses and force liquidations, sending Bitcoin prices lower in a short-term decline. On the other hand, there are also liquidity clusters in the $108,000\u2013$109,000 region, indicating the presence of potentially significant short positions. A breakout above $109,000 could initiate a sharp short squeeze, perhaps driving prices higher toward the current all-time high in the $111,000 price range. Using the 30-day chart (HTF), KillaXBT provides more information on the Bitcoin market stalemate. The analyst notes that more short-side liquidations are clustered between $108,300 and $109,000 than long-side liquidations between $103,000 and $106,000. However, the presence of short positions at $111,000 presents a scenario where bulls could reclaim control if they successfully push past this upper resistance. Ultimately, KillaXBT concludes the current BTC market structure suggests a delicate balance with high-leverage positions stacked both above and below current prices. The market expert warns that traders refrain from engaging the market until the highlighted liquidation zones are tested. Related Reading: Sui (SUI) Eyes Breakout With Bullish Dual Pattern: Is A Rally To $27 On? Bitcoin Market Overview At press time, Bitcoin trades at $107,451, after a slight 0.41% gain in the past day. Meanwhile, the asset\u2019s daily trading volume is down by a staggering 36.12% suggesting a fall in market participation. Meanwhile, blockchain analytics firm Sentora reports that Bitcoin&#8217;s weekly network fees totaled $3.39 million, marking a 38.9% decline from the previous week. Despite this drop in on-chain activity, exchange outflows of $310 million suggest a strong market confidence, as investors increasingly move their assets into private wallets, typically a sign of long-term holding intent. Featured image from Pexels, chart from Tradingview"
     },
     {
       "title": "Crypto Bombshell: Developer Claims XRP Could Hit $20,000",
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Dogecoin consolidates \u2013 Is DOGE setting up a bear trap for $0.20?",
+      "link": "https://ambcrypto.com/dogecoin-consolidates-is-doge-setting-a-bear-trap-for-0-20/",
+      "summary": "<img alt=\"DOGE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-25.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Are DOGE bulls quietly setting the stage for a textbook bear trap?"
+    },
+    {
       "title": "BONK surges 98% in volume, but the odds of reversal loom, IF\u2026",
       "link": "https://ambcrypto.com/bonk-surges-98-in-volume-but-the-odds-of-reversal-loom-if/",
       "summary": "<img alt=\"Bonk Coin [BONK]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-19-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is this fresh demand, or just a fakeout dressed like conviction?"
@@ -208,11 +213,6 @@
       "title": "SYRUP slips, $1.85M in profits taken \u2013 Yet 85% of bulls hold strong: Why?",
       "link": "https://ambcrypto.com/syrup-slips-1-85m-in-profits-taken-yet-85-of-bulls-hold-strong-why/",
       "summary": "<img alt=\"SYRUP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Abdul_20250628_141404_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Profitable SYRUP holders are adding fear to the market."
-    },
-    {
-      "title": "AI Companions: After defying market trends, can AIC break $0.19 next?",
-      "link": "https://ambcrypto.com/ai-companions-after-defying-market-trends-can-aic-break-0-19-next/",
-      "summary": "<img alt=\"AIC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_56_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AI Companions defies the bearish AI market with an 8% surge as bullish momentum and a $0.19 liquidity target hint at a potential breakout."
     }
   ]
 }
