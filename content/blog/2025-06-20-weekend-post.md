@@ -3,22 +3,21 @@ title: "Weekend Crypto Preview: This Week’s Headlines and My Weekend Watchlist
 date: 2025-06-20T00:00:00-05:00
 draft: false
 author: "Ryan Pate"
-description: "A casual wrap of this week’s crypto action—macro news, price moves, and what I’m eyeing over the weekend."
+description: "End-of-week cryptocurrency market preview June 20, 2025—covering Bitcoin Fed minutes reaction, Ethereum EIP and DeFi incentives, altcoin highlights, and macroeconomic impacts for your weekend trading strategy."
 tags:
-  - "crypto"
-  - "weekend preview"
-  - "weekly recap"
-  - "Bitcoin"
-  - "Ethereum"
-  - "altcoins"
-  - "Blockchain"
-  - "Fed minutes"
-  - "macro news"
-  - "trading strategy"
-  - "investing"
-  - "market sentiment"
-  - "DeFi"
-  - "NFTs"
+  - "end-of-week cryptocurrency market preview June 2025"
+  - "Bitcoin Fed minutes reaction analysis"
+  - "Ethereum EIP gas refund update"
+  - "Uniswap v4 DeFi incentive report"
+  - "Chainlink gaming studio partnership impact"
+  - "Polygon Layer-2 NFT marketplace launch review"
+  - "Solana congestion easing update"
+  - "US Q2 GDP crypto market correlation"
+  - "China mining regulation crypto sell-off analysis"
+  - "Red Sea tensions crypto volatility forecast"
+  - "Polkadot staking yield weekend strategy"
+  - "LINK dip-buy weekend trading plan"
+  - "DJ NFT drop floor price spike"
 ---
 
 ![Crypto Weekend Preview](/images/crypto-weekend-preview.jpg)
