@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "BlackRock's Spot Bitcoin ETF Snaps Four-Week Downtrend in Volumes",
+      "link": "https://www.coindesk.com/markets/2025/06/30/blackrock-s-spot-bitcoin-etf-snaps-four-week-downtrend-in-volumes",
+      "summary": ""
+    },
+    {
+      "title": "Bhutan Bets on Binance Pay to Power Crypto-Backed Tourism Economy",
+      "link": "https://www.coindesk.com/markets/2025/06/30/bhutan-bets-on-binance-pay-to-power-crypto-backed-tourism-economy",
+      "summary": ""
+    },
+    {
+      "title": "Metaplanet Acquires 1,005 Bitcoin, Issues $208M Bonds for Further BTC Buys",
+      "link": "https://www.coindesk.com/markets/2025/06/30/metaplanet-acquires-1005-bitcoin-issues-208m-bonds-for-further-btc-buys",
+      "summary": ""
+    },
+    {
       "title": "Shiba Inu Whale Accumulation, 'Inside Week' Candle Offer Hope to SHIB Bulls",
       "link": "https://www.coindesk.com/markets/2025/06/30/shiba-inu-whale-accumulation-inside-week-candle-offer-hope-to-shib-bulls",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Asia Morning Briefing: ETH Bulls Eye $3K as Validator Backbone Upgrade Rolls In",
       "link": "https://www.coindesk.com/markets/2025/06/29/asia-morning-briefing-eth-bulls-eye-3k-as-validator-backbone-upgrade-rolls-in",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Jumps After Trump Says Growth Will Offset Deficits, Boosting Bull Case for BTC and Gold",
-      "link": "https://www.coindesk.com/markets/2025/06/29/bitcoin-jumps-after-trump-says-growth-will-offset-deficits-boosting-bull-case-for-btc-and-gold",
-      "summary": ""
-    },
-    {
-      "title": "BNB Hovers Above $648 as Maxwell Hard Fork Upgrade Set to Double Block Production Speed",
-      "link": "https://www.coindesk.com/markets/2025/06/29/bnb-hovers-above-usd648-as-maxwell-hard-fork-upgrade-set-to-double-block-production-speed",
-      "summary": ""
-    },
-    {
-      "title": "Ondo Finance: \u20182025 Will Be the Year of Tokenized Stocks\u2019",
-      "link": "https://www.coindesk.com/markets/2025/06/29/ondo-finance-2025-will-be-the-year-of-tokenized-stocks",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Unlucky trader \u2018Qwatio\u2019 liquidated 8 times in a week, loses $12.5M",
+      "link": "https://cointelegraph.com/news/trader-liquidated-eight-times-in-week-lookonchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmM2YtOWVjNi03ODNlLTg0ZTUtMWUyN2M5ZWQwODZi.jpg\" /></p><p>A trader under the handle Qwatio has been liquidated eight times in the last week, with the latest a partial liquidation of an Ether position leveraged by 25X.</p>"
+    },
+    {
+      "title": "South Korea pauses CBDC tests as stablecoin fever hits banks",
+      "link": "https://cointelegraph.com/news/south-korea-pauses-cbdc-tests-banks-eye-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjQtMGMzOC03ODIwLWE0ZjEtMzA1YjM4OWY3NDNk.jpg\" /></p><p>The Bank of Korea reportedly suspended its central bank digital currency trials as participating banks are tempted by the government\u2019s promise to allow stablecoins.</p>"
+    },
+    {
+      "title": "Metaplanet surpasses Cleanspark with $108M Bitcoin buy",
+      "link": "https://cointelegraph.com/news/metaplanet-buys-108m-bitcoin-issues-bonds-buy-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IxNWUtNzVkZS03MzA0LTg2NzMtY2UyZTY4OTcwNWU3.jpg\" /></p><p>Metaplanet has become the fifth-largest corporate Bitcoin holder after its latest $108 million purchase, which comes on the same day that the Japanese firm issued 0% interest bonds to buy more.</p>"
+    },
     {
       "title": "BNB Smart Chain block times fall to 0.8 secs amid Maxwell upgrade",
       "link": "https://cointelegraph.com/news/bnb-smart-chain-block-times-fall-to-0-8-secs-amid-maxwell-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Bitcoin price stuck as OGs are \u2018dumping on Wall Street\u2019: Analyst",
       "link": "https://cointelegraph.com/news/bitcoin-og-dumping-on-wall-street-have-kept-btc-from-moving-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjAtM2EyOC03YjdmLWE1NWQtMmM0NGI4ZTBiY2U2.jpg\" /></p><p>Long-term Bitcoin holders have been selling to institutions since spot ETFs launched, keeping prices stagnant.</p>"
-    },
-    {
-      "title": "Arbitrum jumps 17% on speculation of partnership with Robinhood",
-      "link": "https://cointelegraph.com/news/arbitrum-gains-speculation-robinhood-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmM5OTUtMjJiOS03OGFiLTg4MWYtNTZjYTVhMDJjNGQ0.jpg\" /></p><p>Speculation has been growing of a potential tie-up between Arbitrum and Robinhood Markets after an X post.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Growing dissatisfaction among young people to drive BTC price: Analyst",
-      "link": "https://cointelegraph.com/news/growing-dissatisfaction-young-people-drive-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JkN2YtNjVlNS03ZDljLTgzMmItNGJlM2JlYzhlOTlj.jpg\" /></p><p>Jordi Visser argued that growing dissatisfaction among those 25 and younger with the current financial system will increase BTC adoption.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Top Analyst Predicts Major Ethereum Rally Toward $4,000 As Shorts Hit All-Time Highs",
+      "link": "https://www.newsbtc.com/ethereum-news/top-analyst-predicts-major-ethereum-rally-toward-4000-as-shorts-hit-all-time-highs/",
+      "summary": "As the market\u2019s second largest cryptocurrency, Ethereum (ETH), struggles to maintain momentum above the crucial $2,500 threshold, one analyst believes that ETH is poised for a significant rally. In a recent post on social media platform X (formerly Twitter), crypto analyst Cyclop expressed a bullish outlook, labeling the current market conditions as the best long setup for Ethereum he has seen in years. Analyst Sees $4,000 Target This Summer Cyclop highlighted that Ethereum short positions have reached all-time highs, a situation reminiscent of a previous spike that occurred just weeks ago. The analyst noted that liquidity has been swept on both sides, creating a scenario where market uncertainty may actually benefit Ethereum. &#8220;Most doubt ETH and altcoins right now\u2014I&#8217;m betting on $4,000 this summer,&#8221; he stated confidently. Related Reading: TD Sequential Flashes Buy: Dogecoin Ready For Rebound To $0.21 Cyclop outlined several key factors driving his optimistic stance. First, he pointed to the recent Pectra update, which has reinvigorated interest in Ethereum by enhancing transaction capabilities, updating security features, and improving staking options. This update has reportedly led to increased demand, contributing to a potential price surge. Moreover, Cyclop emphasized the broader macroeconomic landscape, noting that cryptocurrency adoption is accelerating beyond Bitcoin (BTC), with Ethereum taking a prominent role. The analyst suggests that major corporations and banks are beginning to purchase and stake Ethereum, further boosting trust and interest in the digital asset which could ultimately result in more demand and more price uptrends. Ethereum Rallies May Trigger Altcoin Boom On-chain metrics also favor Ethereum, with the cryptocurrency ranking highly in various categories, according to Cyclop. It currently stands as the second-highest by fees, leads in bridged net flows, and ranks third in stablecoin supply changes, showcasing its robust market position. Another critical aspect of Cyclop&#8217;s analysis concerns altcoins and the upcoming altseason, traditionally characterized by a rush of investment into Ethereum before spilling over into smaller tokens. He pointed out that historical patterns indicate that Ethereum price rallies often trigger broader altcoin surges, and the current market sentiment suggests that many altcoins are at their lowest ebb. Related Reading: Dogecoin Silent Build-Up: Double Bottom Hints At Explosive Move To $0.47 While Cyclop acknowledges that a majority of altcoins may face significant challenges, he argues that ETH remains undervalued, especially with Bitcoin trading near $100,000. He has made strategic moves, reallocating some of his Bitcoin holdings into Ethereum and promising strong altcoins. His initial target for Ethereum is $3,000, where he plans to take profits, followed by a series of sell orders between $4,000 and $6,000. As of press time, ETH trades at $2,500, a 12% price increase in the weekly time frame. Featured image from DALL-E, chart from TradingView.com"
+    },
+    {
       "title": "Dogecoin (DOGE) Recovery Sees Uptick \u2014 But Lacks Follow\u2011Through at $0.168",
       "link": "https://www.newsbtc.com/analysis/doge/dogecoin-doge-recovery-0-168/",
       "summary": "Dogecoin started a fresh increase above the $0.160 zone against the US Dollar. DOGE is now consolidating and might aim for a move above $0.1680. DOGE price started a fresh increase above the $0.1520 and $0.160 levels. The price is trading above the $0.1620 level and the 100-hourly simple moving average. There is a key bullish trend line forming with support at $0.1650 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could start a fresh decline if it stays below the $0.1680 zone. Dogecoin Price Faces Resistance Dogecoin price started a fresh increase above the $0.1450 zone, like Bitcoin and Ethereum. DOGE was able to climb above the $0.1550 and $0.160 resistance levels. The bulls even pushed the price above the $0.1650 resistance. A high was formed at $0.1699 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $0.1572 swing low to the $0.1699 high. Dogecoin price is now trading above the $0.1650 level and the 100-hourly simple moving average. There is also a key bullish trend line forming with support at $0.1650 on the hourly chart of the DOGE/USD pair. Immediate resistance on the upside is near the $0.1680 level. The first major resistance for the bulls could be near the $0.1720 level. The next major resistance is near the $0.1750 level. A close above the $0.1750 resistance might send the price toward the $0.180 resistance. Any more gains might send the price toward the $0.200 level. The next major stop for the bulls might be $0.2120. Another Drop In DOGE? If DOGE\u2019s price fails to climb above the $0.1680 level, it could start another decline. Initial support on the downside is near the $0.1660 level or the trend line zone. The next major support is near the $0.1620 level and the 61.8% Fib retracement level of the upward move from the $0.1572 swing low to the $0.1699 high. The main support sits at $0.160. If there is a downside break below the $0.160 support, the price could decline further. In the stated case, the price might decline toward the $0.150 level or even $0.1450 in the near term. Technical Indicators Hourly MACD \u2013 The MACD for DOGE/USD is now losing momentum in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for DOGE/USD is now above the 50 level. Major Support Levels \u2013 $0.1650 and $0.1620. Major Resistance Levels \u2013 $0.1680 and $0.1800."
@@ -100,11 +105,6 @@
       "title": "Ethereum Price Tests Resistance \u2014 Breakout Could Spark Rally",
       "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-tests-resistance-2520/",
       "summary": "Ethereum price started a fresh increase above the $2,480 zone. ETH is now consolidating gains and might soon aim for a move above the $2,520 resistance. Ethereum started a fresh upward move above the $2,450 level. The price is trading above $2,450 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2,440 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains stable above the $2,420 zone in the near term. Ethereum Price Eyes More Gains Ethereum price started a fresh increase above the $2,420 support level, like Bitcoin. ETH price was able to clear the $2,450 and $2,480 resistance levels to move into a positive zone. The bulls even pushed the price above the $2,500 zone. However, the bulls were active above the $2,500 level. A high was formed at $2,523 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $2,394 swing low to the $2,523 high. Ethereum price is now trading above $2,450 and the 100-hourly Simple Moving Average. There is also a key bullish trend line forming with support at $2,440 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,520 level. The next key resistance is near the $2,550 level. The first major resistance is near the $2,580 level. A clear move above the $2,580 resistance might send the price toward the $2,650 resistance. An upside break above the $2,650 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. Downside Correction In ETH? If Ethereum fails to clear the $2,520 resistance, it could start a fresh decline. Initial support on the downside is near the $2,480 level. The first major support sits near the $2,460 zone or the 50% Fib retracement level of the upward move from the $2,394 swing low to the $2,523 high. A clear move below the $2,460 support might push the price toward the $2,440 support. Any more losses might send the price toward the $2,400 support level in the near term. The next key support sits at $2,350. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,440 Major Resistance Level \u2013 $2,520"
-    },
-    {
-      "title": "Bitcoin Price Uptrend Intact \u2014 Extension Likely if Momentum Holds",
-      "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-uptrend-intact-108k/",
-      "summary": "Bitcoin price started a fresh increase above the $107,500 zone. BTC is now consolidating and might aim for a move above the $108,800 resistance. Bitcoin started a fresh increase above the $107,500 zone. The price is trading above $107,500 and the 100 hourly Simple moving average. There is a bullish trend line forming with support at $107,600 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a fresh increase if it stays above the $106,500 zone. Bitcoin Price Eyes More Gains Bitcoin price started a fresh increase above the $105,000 zone. BTC gained pace and was able to climb above the $105,500 and $106,500 levels to enter a positive zone. The bulls pushed the price above the $107,500 resistance and the price tested the $108,800 zone. A high was formed at $108,792 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $106,477 swing low to the $108,792 high. Bitcoin is now trading above $107,000 and the 100 hourly Simple moving average. There is also a bullish trend line forming with support at $107,600 on the hourly chart of the BTC/USD pair. On the upside, immediate resistance is near the $109,800 level. The first key resistance is near the $109,200 level. A close above the $109,200 resistance might send the price further higher. In the stated case, the price could rise and test the $110,000 resistance level. Any more gains might send the price toward the $112,000 level. Downside Correction Reaction In BTC? If Bitcoin fails to rise above the $108,800 resistance zone, it could start another decline. Immediate support is near the $107,800 level. The first major support is near the $107,500 level and the trend line. The next support is now near the $107,200 zone and the 61.8% Fib retracement level of the upward move from the $106,477 swing low to the $108,792 high. Any more losses might send the price toward the $106,500 support in the near term. The main support sits at $105,500, below which BTC might gain bearish momentum. Technical indicators: Hourly MACD \u2013 The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BTC/USD is now above the 50 level. Major Support Levels \u2013 $107,500, followed by $107,200. Major Resistance Levels \u2013 $108,800 and $110,000."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Netflix\u2019s \u2018Squid Game\u2019 Creator Compares Rich Villains to Elon Musk",
+      "link": "https://decrypt.co/327740/netflixs-squid-game-creator-compares-rich-villains-elon-musk",
+      "summary": "The creator says the show\u2019s billionaire villains now mirror figures like Elon Musk, as Season 3 sharpens its critique of visible oligarch power."
+    },
+    {
+      "title": "Hong Kong's Upcoming Stablecoin Rules to Shake Up US Dollar Dominance, Deter Bigger Players",
+      "link": "https://decrypt.co/327737/hong-kong-stablecoin-rules-us-dollar-dominance",
+      "summary": "The city has aligned its fintech push with China's de-dollarization efforts as new stablecoin laws take effect in August."
+    },
+    {
       "title": "Why Spanish Vanadi Coffee\u2019s $1.1B Bitcoin Bet Will \u2018Likely Fail\u2019",
       "link": "https://decrypt.co/327734/spanish-vanadi-coffee-bitcoin-likely-fail",
       "summary": "With just six locations and millions in losses, Vanadi is hoping its crypto pivot can lift financials and bolster confidence in its business."
@@ -149,16 +159,6 @@
       "title": "This Week in Crypto Games: 'Raini: The Lords of Light' Shutting Down, 'Eve Frontier' Trial",
       "link": "https://decrypt.co/327726/this-week-crypto-games-raini-lords-light-eve-frontier",
       "summary": "Avalanche card game Raini: The Lords of Light is closing soon, Eve Frontier launched a free trial period, and more."
-    },
-    {
-      "title": "Bitcoin Alkanes: The Next Big BTC Innovation After Ordinals and Runes?",
-      "link": "https://decrypt.co/327721/bitcoin-alkanes-next-big-btc-innovation-after-ordinals-runes",
-      "summary": "The Alkanes metaprotocol enables the creation of apps, NFTs, and tokens on Bitcoin. Will it fuel a new wave of BTC innovation?"
-    },
-    {
-      "title": "The 6 Doomsday Scenarios That Keep AI Experts Up at Night",
-      "link": "https://decrypt.co/327246/6-doomsday-scenarios-keep-ai-experts-up-night",
-      "summary": "Experts warn the real AI threat is not destruction, but subtle manipulation that makes us surrender willingly."
     }
   ],
   "CryptoBriefing": [
