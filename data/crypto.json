@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Senator Seeks to Waive U.S. Taxes on Small-Scale Crypto Activity in Big Budget Bill",
+      "link": "https://www.coindesk.com/policy/2025/06/30/senator-seeks-to-waive-us-taxes-on-small-scale-crypto-activity-in-big-budget-bill",
+      "summary": ""
+    },
+    {
       "title": "ETH Price Surges as $2.9B Inflows, EthCC, and Robinhood\u2019s L2 Fuel Bullish Sentiment",
       "link": "https://www.coindesk.com/markets/2025/06/30/eth-price-surges-as-usd2-9b-inflows-ethcc-and-robinhood-s-l2-fuel-bullish-sentiment",
       "summary": ""
@@ -18,11 +23,6 @@
     {
       "title": "Bitcoin Carried Crypto Markets in 2025's First Half as Altcoins Crumbled. What's Next?",
       "link": "https://www.coindesk.com/markets/2025/06/30/bitcoin-carries-crypto-markets-in-2025s-first-half-as-altcoins-crumble-whats-next",
-      "summary": ""
-    },
-    {
-      "title": "Filecoin Gives Back Chunk of Recent Gain to Trade 2% Higher",
-      "link": "https://www.coindesk.com/markets/2025/06/30/filecoin-gives-back-chunk-of-recent-gain-to-trade-2-higher",
       "summary": ""
     }
   ],
@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "DEXs capture almost 30% of CEX spot activity in June, setting new record",
+      "link": "https://cryptoslate.com/dexs-capture-almost-30-of-cex-spot-activity-in-june-setting-new-record/",
+      "summary": "<p>Decentralized exchanges (DEX) processed roughly $385 billion of spot trades in June, equal to almost 30% of the turnover recorded by centralized venues, according to DefiLlama and The Block data. The 30-day DEX figure represents a 12% decline from May, but centralized exchange (CEX) spot volume contracted nearly 30% in the same period. Notably, this [&#8230;]</p> <p>"
+    },
+    {
       "title": "German banking giant Sparkassen to offer crypto trading to 50 million customers by 2026",
       "link": "https://cryptoslate.com/german-banking-giant-sparkassen-to-offer-crypto-trading-to-50-million-customers-by-2026/",
       "summary": "<p>Germany\u2019s largest banking group, Sparkassen-Finanzgruppe, is preparing to offer crypto trading services to its retail clients by summer 2026, Bloomberg News reported on June 30. The move represents a significant policy shift for Sparkassen, which had previously avoided crypto offerings due to concerns about volatility and risk. According to the report, the bank\u2019s board of [&#8230;]</p> <p>"
@@ -73,11 +78,6 @@
       "title": "Ethereum poised for $3,000 with regulatory tailwinds and ETF demand",
       "link": "https://cryptoslate.com/ethereum-poised-for-3000-with-regulatory-tailwinds-and-etf-demand/",
       "summary": "<p>Recent tailwinds such as staking on exchange-traded funds (ETFs) and regulatory clarity may drive Ethereum (ETH) toward $3,000 in the coming weeks, according to a note by MEXC Research. As of press time, ETH was trading at $2,510, up 3% over the past 24 hours. MEXC Research linked the upside scenario to two key drivers: [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Senator Lummis announces OBBB crypto tax amendment while crypto advocates mobilize for approval",
-      "link": "https://cryptoslate.com/senator-lummis-announces-obbb-crypto-tax-amendment-while-crypto-advocates-mobilize-for-approval/",
-      "summary": "<p>Senator Cynthia Lummis revealed on June 30 that she would introduce an amendment to add crypto tax language to the \u201cOne Big Beautiful Bill\u201d (OBBB) amid pushes from crypto advocates in the same direction. Lummis posted on X that she is drafting an OBBB amendment \u201cto ensure Americans can use digital assets without fear of [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Solana Advisor Nikita Bier Joins Elon Musk's X, Reigniting Crypto Payments Speculation",
+      "link": "https://decrypt.co/327908/solana-advisor-nikita-bier-joins-elon-musk-x-crypto-payments",
+      "summary": "Bier\u2019s announcement is fueling speculation about X's future crypto payment plans, including long-rumored Dogecoin integration."
+    },
+    {
       "title": "Trump Admin Beats Coinbase, Privacy Advocates in Supreme Court IRS Showdown",
       "link": "https://decrypt.co/327898/trump-admin-beats-coinbase-privacy-advocates-supreme-court-irs-showdown",
       "summary": "The Supreme Court declined on Monday to hear a case that could have re-examined whether crypto exchanges like Coinbase need to comply with government requests for customer data."
@@ -154,11 +159,6 @@
       "title": "What\u2019s Next for 'MapleStory Universe'? More Ways to Play",
       "link": "https://decrypt.co/327787/whats-next-maplestory-universe-more-ways-play",
       "summary": "Following the launch of Avalanche game MapleStory N, Nexpace plans on expanding the broader MapleStory Universe in various ways. Here's how."
-    },
-    {
-      "title": "Solana Skyrockets as Bitcoin and Ethereum Grind Higher: Where Do Prices Go Next?",
-      "link": "https://decrypt.co/327835/solana-price-skyrockets-bitcoin-ethereum-grind-higher",
-      "summary": "Bitcoin and Ethereum are climbing upwards, but Solana is outperforming. What\u2019s next for its price? Here\u2019s what the charts say."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Toncoin: Can a 42% hike in whale inflows propel TON to $3.28?",
+      "link": "https://ambcrypto.com/toncoin-can-a-42-hike-in-whale-inflows-propel-ton-to-3-28/",
+      "summary": "<img alt=\"TON\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-30T120257.392-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Toncoin\u2019s breakout potential strengthens as on-chain growth aligns with rising trading and user activity."
+    },
+    {
       "title": "Ethereum accumulation hits record high \u2013 Will ETH explode past $3K?",
       "link": "https://ambcrypto.com/ethereum-accumulation-hits-record-high-will-eth-explode-past-3k/",
       "summary": "<img alt=\"Ethereum accumulation hits record high - Will ETH explode past $3K?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-5-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With the tide in its favor, Ethereum may be all set for a summer breakout."
@@ -208,11 +213,6 @@
       "title": "3 key events this week that could move Bitcoin and crypto prices",
       "link": "https://ambcrypto.com/3-key-events-this-week-that-could-move-bitcoin-and-crypto-prices/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-27.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Macro risks are looming. Is Bitcoin's next move a trap in disguise?"
-    },
-    {
-      "title": "PEPE has eyes on a 50% price rally, but here\u2019s what must happen first!",
-      "link": "https://ambcrypto.com/pepe-has-eyes-on-a-50-price-rally-but-heres-what-must-happen-first/",
-      "summary": "<img alt=\"PEPE has eyes on a 50% price rally, but here&#039;s what must happen first!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-30T135546.045_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />More upside for the memecoin depends on a few key things."
     }
   ]
 }
