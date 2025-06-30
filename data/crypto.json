@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Circle Applies for National Trust Bank Charter",
+      "link": "https://www.coindesk.com/business/2025/06/30/circle-applies-for-national-trust-bank-charter",
+      "summary": ""
+    },
+    {
+      "title": "HBAR Climbs 2.1% as Traders Digest ETF Review, AI Launch, and Energy Governance Move",
+      "link": "https://www.coindesk.com/markets/2025/06/30/hbar-climbs-2-1-as-traders-digest-etf-review-ai-launch-and-energy-governance-move",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Carried Crypto Markets in 2025's First Half as Altcoins Crumbled. What's Next?",
+      "link": "https://www.coindesk.com/markets/2025/06/30/bitcoin-carries-crypto-markets-in-2025s-first-half-as-altcoins-crumble-whats-next",
+      "summary": ""
+    },
+    {
       "title": "Filecoin Gives Back Chunk of Recent Gain to Trade 2% Higher",
       "link": "https://www.coindesk.com/markets/2025/06/30/filecoin-gives-back-chunk-of-recent-gain-to-trade-2-higher",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "First Solana ETF to Hit the Market This Week; SOL Price Jumps 5%",
       "link": "https://www.coindesk.com/markets/2025/06/30/first-solana-etf-to-hit-the-market-this-week-sol-price-jumps-5",
       "summary": ""
-    },
-    {
-      "title": "Katana Mainnet Goes Live as Pre-Deposits Hit $232M",
-      "link": "https://www.coindesk.com/business/2025/06/26/katana-mainnet-goes-live-as-pre-deposits-hit-usd180m",
-      "summary": ""
-    },
-    {
-      "title": "Why Are There No Big DApps on Ethereum?",
-      "link": "https://www.coindesk.com/opinion/2025/06/30/why-are-there-no-big-dapps-on-ethereum",
-      "summary": ""
-    },
-    {
-      "title": "Fold Holdings Slumps 7% on Delay in Bitcoin Rewards Credit Card",
-      "link": "https://www.coindesk.com/markets/2025/06/30/fold-holdings-slumps-7-on-delay-in-bitcoin-rewards-credit-card",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin \u2018demand generation\u2019 phase mirrors 2022 market bottom: Are new highs incoming?",
+      "link": "https://cointelegraph.com/news/bitcoin-demand-generation-phase-mirrors-2022-market-bottom-are-new-highs-incoming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZjYzItNjRlNS03OTU1LWEzYTMtMzRhNTE0YjkyNDQw.jpg\" /></p><p>Onchain data points to a major Bitcoin price rally in the making, while short-term price weakness highlights the absence of \u201cnew\u201d buyers.</p>"
+    },
     {
       "title": "US Supreme Court will not review IRS case involving Coinbase user data",
       "link": "https://cointelegraph.com/news/supreme-court-irs-coinbase-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Where are we in the Bitcoin cycle? Analyst Lyn Alden shares her view",
       "link": "https://cointelegraph.com/news/stuck-around-100k-lyn-alden-on-the-state-of-the-bitcoin-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwNWMtMjRlYi03ZDY3LTgxMGUtODdiNjc4NzQzMTdk.jpg\" /></p><p>Analyst Lyn Alden discusses whether Bitcoin has reached the top of the four-year market cycle and how to navigate the current macroeconomic uncertainty.</p>"
-    },
-    {
-      "title": "Texas makes gold, silver legal tender following governor\u2019s approval",
-      "link": "https://cointelegraph.com/news/texas-makes-gold-silver-legal-tender-following-governor-s-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MxNWQtNzYyOS03ZTk5LWJjYjItOGFlYTAzZWM2NmU3.jpg\" /></p><p>Governor Greg Abbott signed a bill into law allowing Texas residents to use the precious metals for \u201cday-to-day financial transactions\u201d starting in May 2027.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Macro conditions keep Bitcoin boxed between $100k and $110k, bulls awaiting catalyst",
+      "link": "https://cryptoslate.com/macro-conditions-keep-bitcoin-boxed-between-100k-and-110k-bulls-awaiting-catalyst/",
+      "summary": "<p>Bitcoin (BTC) is in a &#8220;waiting game,&#8221; trading between $100,000 and $110,000, with analysts highlighting the need for a macro catalyst to break the top of the channel. The latest &#8220;Bitfinex Alpha&#8221; report noted lighter spot activity, softer taker-buy flow, and profit-taking by wallets that had bought below $80,000 in April as the reasons behind [&#8230;]</p> <p>"
+    },
     {
       "title": "Ethereum poised for $3,000 with regulatory tailwinds and ETF demand",
       "link": "https://cryptoslate.com/ethereum-poised-for-3000-with-regulatory-tailwinds-and-etf-demand/",
@@ -73,14 +78,14 @@
       "title": "Robinhood unveils crypto-heavy roadmap that lifts stock to all-time high",
       "link": "https://cryptoslate.com/robinhood-unveils-crypto-heavy-roadmap-that-lifts-stock-to-all-time-high/",
       "summary": "<p>Robinhood&#8217;s stock (HOOD) reached a new all-time high (ATH) after it revealed plans to launch several innovative products, including its own Layer 2 blockchain, tokenized stocks offering, perpetual futures trading, and crypto staking services. Following the news, the stock surged approximately 11% to $92, a new all-time high for the firm. This extends a growth [&#8230;]</p> <p>"
-    },
-    {
-      "title": "XRP Ledger launches EVM sidechain, bridging Ethereum and XRP",
-      "link": "https://cryptoslate.com/xrp-ledger-launches-evm-sidechain-bridging-ethereum-and-xrp/",
-      "summary": "<p>The XRP Ledger (XRPL) has launched its Ethereum Virtual Machine (EVM) sidechain on the mainnet, according to a June 30 announcement. The sidechain would allow developers to create, port, and deploy Ethereum-compatible decentralized applications (dApps) within the XRPL ecosystem. The XRPL EVM sidechain is built to be fast and secure and is connected to the [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Warning Signs? Long-Term Bitcoin Holders Take Profits as Leverage Spikes",
+      "link": "https://www.newsbtc.com/bitcoin-news/warning-signs-long-term-bitcoin-holders-take-profits-as-leverage-spikes/",
+      "summary": "Bitcoin continues to maintain its upward trajectory following a minor correction, now trading at $107,251, reflecting a 2.3% increase over the past week. Although still trailing its May all-time high of $111,000 by around 4%, the asset\u2019s price action signals a notable return of momentum. The crypto market, led by Bitcoin, has seen renewed trading activity in recent weeks as investor sentiment oscillates between bullish optimism and profit-taking behavior. According to new on-chain data analyzed by CryptoQuant contributor Amr Taha, Bitcoin may be approaching a critical phase that demands greater attention from market participants. Related Reading: $179,000 Or $79,000? Bitcoin Faces Critical Cycle Pivot, Says Analyst Open Interest Spikes Signal Potential Profit-Taking Zones In his analysis titled &#8220;Binance Open Interest Spikes and Long-Term Holder De-risking: Bitcoin is Approaching a Turning Point&#8221;, Taha highlights two developing trends: repeated spikes in open interest on Binance and a significant drawdown in long-term holders\u2019 exposure. Both indicators, he suggests, reflect changing market dynamics that could influence Bitcoin\u2019s short-term trajectory. One of the key observations from Taha\u2019s analysis is the behavior of Binance\u2019s 24-hour open interest (OI), which has exceeded 6% for the third time in two months. Historical patterns indicate that previous occurrences on May 26 and June 10 were followed by short-term price corrections or periods of consolidation. These spikes often indicate an increase in leveraged trading positions, which tend to precede short-term profit-taking as traders seek to lock in gains. This trend may suggest that Bitcoin is entering another phase of heightened volatility where rapid shifts in market sentiment could influence price direction. The presence of leveraged positions, particularly at elevated price levels, increases the likelihood of sudden liquidations or pullbacks. While this does not confirm an imminent reversal, it marks a zone where caution may be warranted, especially for short-term traders. Such spikes in open interest often act as precursors to more conservative positioning or brief market cooling periods. Bitcoin Long-Term Holders Reduce Risk Exposure In addition to rising speculative activity, a separate trend tracked by Taha focuses on the behavior of long-term holders (LTHs). Data shows that the LTH Net Position Realized Cap, a measure of the realized value of Bitcoin held by these investors, has declined sharply, falling from over $57 billion to just $3.5 billion. This reduction points to active profit-taking among more strategic investors, possibly in response to macroeconomic developments or uncertainty surrounding the current market cycle. Related Reading: Bitcoin Price Could Rally To $110,000 ATH As These Macroeconomic Factors Align While this shift in behavior does not automatically imply a bearish outlook, it suggests that experienced investors are trimming exposure after a notable price rally. Historically, long-term holders have exhibited a higher degree of market foresight, making this activity worth noting. Combined with elevated open interest and a potential cooling-off period, these developments highlight the possibility of increased short-term volatility without fundamentally altering the long-term bullish structure of Bitcoin\u2019s market. Featured image created with DALL-E, Chart from TradingView"
+    },
     {
       "title": "Bitcoin Dominance Shows Bearish Divergence \u2013 Altseason Could Be Near",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-dominance-shows-bearish-divergence-altseason-could-be-near/",
@@ -100,11 +105,6 @@
       "title": "South Korea Pauses CBDCs, Stablecoins Heat Up: Here\u2019s Why Best Wallet Wins the New Crypto Framework",
       "link": "https://www.newsbtc.com/news/south-korea-cbdc-delay-best-wallet-edge/",
       "summary": "South Korea pressed pause on its central bank digital currency (CBDC) initiative, even as its new government pivoted toward promoting domestic stablecoins. Telling banks involved that introducing won-denominated stablecoins would be \u2018desirable,\u2019 South Korea&#8217;s central bank has slowed down on any progress towards a CBDC. In the meantime, Hong Kong is rolling out a regulatory framework for stablecoin issuance aimed at challenging U.S. dollar dominance and bolstering its own financial infrastructure. Both countries reinforce a common perception: crypto is here to stay, and you\u2019ll need a top-notch crypto wallet like Best Wallet app to keep on top of everything. South Korea: Cold Feet on CBDC, but Full Speed Ahead on Stablecoins In a surprise move, the Bank of Korea halted the second phase of its CBDC pilot, planned for later this year, for further review. The advanced pilot, involving peer-to-peer transfers and merchant payments, takes a back seat amid rising concern over cost, commercialization ambiguity, and regulatory readiness. This policy change is strongly influenced by President Lee Jae\u2011myung\u2019s administration, which won elections earlier in June based at least partly on crypto promises. The new administration also fostered a regulatory framework enabling firms with modest capital (\u20a9500 million ~ US$370K) to issue stablecoins under the Digital Asset Basic Act. At a time when over a third of South Korea\u2019s population \u2013 roughly 18M people \u2013 trade crypto, boosting stablecoins seems like a solid move. The decision to move away from a CBDC is a bit more surprising. Still, with so many investors trading crypto daily, there\u2019s a real desire to build and strengthen frameworks like the ones for stablecoins. Other countries are making similar moves, though perhaps for more political reasons. Hong Kong: Regulating Stablecoins to Reduce U.S. Dollar Dependence Hong Kong is set to enforce its Stablecoins Ordinance starting August 1, 2025. Passed on May 21, the law mandates HKMA licensing for any fiat-referenced stablecoin issuer targeting the city\u2019s residents. The rigorous licensing requirements cover reserve holdings, fund segregation, redemption rights, and anti-money-laundering protocols. Hong Kong Financial Secretary Paul Chan ties the initiative to China\u2019s broader de\u2011dollarization strategy, highlighting stablecoins as pivotal for trade and cross-border payments in local currencies. In his words: \u2018Fintech has great potential in the application of cross-border trade, and the goal is to solve the long-standing pain points of slow and high cost of cross-border payment, and better serve the real economy in the field of payment\u2026 stablecoins are a cost-effective alternative to the traditional financial system and have the potential to revolutionize payments and capital market activities, including cross-border payments. The stablecoin legislation will\u2026 encourage issuers to extend the application of stablecoins to different scenarios, and help solve the real pain points of enterprises in business and people&#8217;s lives.\u2019 Hong Kong anticipates local issuers and regulated institutions taking the lead, with limited retail uptake initially, but significant promise for cross-border institutional use. And as retail interest grows, more and more investors are going to need a crypto wallet \u2013 the best kind of crypto wallet. Best Wallet Token ($BEST) \u2013 Supercharge the Leading Web3 Wallet for the World Crypto Economy Best Wallet Token ($BEST) takes two key ingredients for crypto wallet utility and creates something even more powerful. The first element is a simple, powerful web3 wallet \u2013 Best Wallet app. With MPC and biometric security, the ability to set up multiple wallets, and a unique upcoming tokens hub to research and purchase hot crypto presales, Best Wallet app gives new and experienced crypto users everything they need to succeed in today\u2019s crypto economy. The $BEST token supercharges the entire ecosystem. Token holders gain: \u2705 Reduced transaction fees \u2705 Better staking returns \u2705 Exclusive project access \u2705 Governance rights The ongoing presale has raised $13.6M so far. $BEST tokens are on sale for $0.025255, but our price prediction shows they could reach $0.05106175 by the end of 2026, delivering 102% gains for presale participants. Learn how to buy Best Wallet Token to avoid missing out. Visit the Best Wallet token presale now. What These Moves Signal Both governments seek to balance private stablecoin innovation with preserving monetary policy control. South Korea\u2019s pivot reflects a pragmatic approach: redirecting momentum from costly and uncertain CBDC deployment toward a more agile, regulated stablecoin model. Hong Kong\u2019s strategy signifies a calculated expansion of its role in the global digital asset economy, linking stablecoin issuance to monetary liberalization and regional trade objectives, and supporting China\u2019s broader political goals. In each case, the success of stablecoin ambitions hinges on the dirty details of regulation, institutional participation, and financial market dynamics. And success means that everyone, not just major institutions, will want their own Web3 wallet. As always, do your own research \u2013 this isn\u2019t financial advice."
-    },
-    {
-      "title": "Solana Forms Bullish Flag On Daily Chart \u2014 Breakout Imminent?",
-      "link": "https://www.newsbtc.com/news/solana/solana-forms-bullish-flag-on-daily-chart-breakout-imminent/",
-      "summary": "Solana is displaying signs of strength as it trades with a key chart pattern, which indicates that the altcoin is preparing for a solid move. The price has been holding steady, forming lower highs and higher lows within a narrowing range. This pause in momentum could be setting the stage for another breakout. Key Resistance Levels In Focus As Breakout Approaches Solana has developed a bullish flag pattern on the daily chart, signaling a continuation of its uptrend. According to Dynamite Trader&#8217;s post on X, this pattern often precedes strong breakouts, suggesting that momentum could soon accelerate. Related Reading: Solana (SOL) Breakout Watch: Price Could Rally Hard Above $150 Level? Currently, SOL&#8217;s price is holding above the midline of the flag, indicating underlying strength. However, it&#8217;s also testing the daily 100 moving average (MA100), which is acting as a dynamic resistance. SOL&#8217;s reaction to this level will be crucial in determining whether the bullish flag leads to a decisive breakout or a deeper consolidation. Another analyst, Henry, highlighted that Solana is gearing up for a big move after completing a clean Cup and Handle breakout on the 4-hour chart, a bullish pattern that signals continuation. The breakout saw SOL flip the $149 resistance into support, a key technical shift. If this level holds, Henry sees a rally toward the $168 to $174 zone, which aligns with previous resistance levels and bullish extension targets. He adds a warning that volatility is increasing, and high-leverage positions are at risk on both sides. Solana is setting up a clean wedge on the weekly chart. Currently trading at $150, SOL has been consistently bouncing between support and resistance levels, which is known for building pressure before delivering sharp moves. Talking about this, Top G emphasizes that if this plays out as expected, the next leg up could be significant, and $300 isn&#8217;t just speculation; it&#8217;s a realistic target based on the structure and behavior. Holding Above The Breakout Zone Could Accelerate The Move Upward Solana has broken above the downtrend line on the 4-hour chart. This move could mark a pivotal shift in short-term momentum, with potential bullish continuation if current levels hold. Related Reading: Solana Price At \u2018A Very Delicate Level\u2019 \u2013 Analyst Says $148 Reclaim Is Key If SOL maintains its position above this trend line, crypto analyst Bens BTC noted that the price could climb toward the next resistance area at $165. The price action is forming a bullish structure, and momentum indicators may soon align with the breakout, further supporting the continuation of the upside. The asset had broken out with strong momentum and is now trading firmly within a long-term bullish channel, a structure that has supported uptrends. The price action looks clean, with higher highs and higher lows forming as SOL surges upward. Furthermore, analyst Persis10t revealed that momentum is picking up, and as long as the channel remains intact, the path forward could be explosive. If the structure holds and attracts volume, Persis10t projects a target of $700+ in the next run, pointing to the upper boundary of the bullish channel as a magnet for price. Featured image from iStock Images, chart from tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Stablecoin Giant Circle Wants to Be Its Own Bank, Applies for National Trust License",
+      "link": "https://decrypt.co/327893/stablecoin-giant-circle-applies-national-trust-license",
+      "summary": "Circle is seeking approval from the OCC to establish a national trust bank to oversee its USDC stablecoin reserves."
+    },
+    {
+      "title": "What\u2019s Next for 'MapleStory Universe'? More Ways to Play",
+      "link": "https://decrypt.co/327787/whats-next-maplestory-universe-more-ways-play",
+      "summary": "Following the launch of Avalanche game MapleStory N, Nexpace plans on expanding the broader MapleStory Universe in various ways. Here's how."
+    },
+    {
       "title": "Solana Skyrockets as Bitcoin and Ethereum Grind Higher: Where Do Prices Go Next?",
       "link": "https://decrypt.co/327835/solana-price-skyrockets-bitcoin-ethereum-grind-higher",
       "summary": "Bitcoin and Ethereum are climbing upwards, but Solana is outperforming. What\u2019s next for its price? Here\u2019s what the charts say."
@@ -149,19 +159,14 @@
       "title": "Robinhood Shares Hit All-Time High as Firm Unveils Tokenized Stocks, Ethereum L2",
       "link": "https://decrypt.co/327816/robinhood-shares-hit-all-time-high-firm-unveils-tokenized-stocks-ethereum-l2",
       "summary": "The firm said on Monday that it had secured a MiCA license, allowing it to offer tokenized stock trading to customers on Arbitrum."
-    },
-    {
-      "title": "More Bitcoin? Crypto Should Account for Up to 40% of Portfolios, Influential Financial Advisor Says",
-      "link": "https://decrypt.co/327814/more-bitcoin-crypto-should-account-for-up-to-40-of-portfolios-influential-financial-advisor-says",
-      "summary": "Ric Edelman told that even 90-year-olds should consider digital asset investments with an eye toward helping future generations."
-    },
-    {
-      "title": "Iranian Exchange Nobitex Restarts After Bitcoin, Dogecoin and Tron Swiped in $90M Hack",
-      "link": "https://decrypt.co/327774/iranian-exchange-nobitex-restarts-bitcoin-dogecoin-tron-90-million-hack",
-      "summary": "Nobitex is slowly restoring its services to verified users, following a $90 million hack from a pro-Israeli hacker group earlier this month."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Circle applies for national trust bank license to expand USDC reserve custody",
+      "link": "https://cryptobriefing.com/circle-trust-bank-license-tokenized/",
+      "summary": "<p>Circle seeks a trust bank license to directly manage USDC reserves and offer custody for tokenized stocks and bonds onchain.</p> <p>"
+    },
     {
       "title": "SEC to rule on Grayscale\u2019s proposal to convert Bitcoin, Ether, XRP, and ADA large-cap fund into a spot ETF this week",
       "link": "https://cryptobriefing.com/crypto-etf-approval-grayscale/",
@@ -181,14 +186,14 @@
       "title": "Kazakhstan plans to establish national crypto reserve using seized and state-mined assets",
       "link": "https://cryptobriefing.com/kazakhstan-crypto-asset-reserve/",
       "summary": "<p>Kazakhstan's crypto reserve initiative could enhance financial innovation and regulatory frameworks, potentially influencing global crypto policies.</p> <p>"
-    },
-    {
-      "title": "REX-Osprey Ethereum, Solana staked ETFs may launch soon as SEC raises no objections",
-      "link": "https://cryptobriefing.com/staking-etf-launch-eth-sol/",
-      "summary": "<p>The potential launch of staked ETH and SOL ETFs could enhance crypto market liquidity and signal regulatory openness to innovative financial products.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Ethereum accumulation hits record high \u2013 Will ETH explode past $3K?",
+      "link": "https://ambcrypto.com/ethereum-accumulation-hits-record-high-will-eth-explode-past-3k/",
+      "summary": "<img alt=\"Ethereum accumulation hits record high - Will ETH explode past $3K?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-5-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With the tide in its favor, Ethereum may be all set for a summer breakout."
+    },
     {
       "title": "Can XRP\u2019s price ape 2017\u2019s pattern after institutions move $1 billion?",
       "link": "https://ambcrypto.com/can-xrps-price-ape-2017s-pattern-after-institutions-move-1-billion/",
@@ -208,11 +213,6 @@
       "title": "PEPE has eyes on a 50% price rally, but here\u2019s what must happen first!",
       "link": "https://ambcrypto.com/pepe-has-eyes-on-a-50-price-rally-but-heres-what-must-happen-first/",
       "summary": "<img alt=\"PEPE has eyes on a 50% price rally, but here&#039;s what must happen first!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chandan-2025-06-30T135546.045_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />More upside for the memecoin depends on a few key things."
-    },
-    {
-      "title": "Can AAVE bulls push prices past $300, if so, what next?",
-      "link": "https://ambcrypto.com/can-aave-bulls-push-prices-past-300-if-so-what-next/",
-      "summary": "<img alt=\"AAVE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Kelvin-_57_.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />AAVE rallies over 7%, fueled by strong buyer interest and bullish momentum toward the $300 milestone psychological level."
     }
   ]
 }
