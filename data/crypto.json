@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin DEX Traders Position for Downside Volatility With $85K-$106K Puts, Derive Data Show",
+      "link": "https://www.coindesk.com/markets/2025/06/30/bitcoin-dex-traders-position-for-downside-volatility-with-usd85k-usd106k-puts-derive-data-show",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Market Maker Wintermute Snags Bitcoin Credit Line From Cantor Fitzgerald",
+      "link": "https://www.coindesk.com/business/2025/06/30/crypto-market-maker-wintermute-snags-bitcoin-credit-line-from-cantor-fitzgerald",
+      "summary": ""
+    },
+    {
       "title": "BlackRock's Spot Bitcoin ETF Snaps Four-Week Downtrend in Volumes",
       "link": "https://www.coindesk.com/markets/2025/06/30/blackrock-s-spot-bitcoin-etf-snaps-four-week-downtrend-in-volumes",
       "summary": ""
@@ -14,23 +24,18 @@
       "title": "Metaplanet Acquires 1,005 Bitcoin, Issues $208M Bonds for Further BTC Buys",
       "link": "https://www.coindesk.com/markets/2025/06/30/metaplanet-acquires-1005-bitcoin-issues-208m-bonds-for-further-btc-buys",
       "summary": ""
-    },
-    {
-      "title": "Shiba Inu Whale Accumulation, 'Inside Week' Candle Offer Hope to SHIB Bulls",
-      "link": "https://www.coindesk.com/markets/2025/06/30/shiba-inu-whale-accumulation-inside-week-candle-offer-hope-to-shib-bulls",
-      "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: ETH Bulls Eye $3K as Validator Backbone Upgrade Rolls In",
-      "link": "https://www.coindesk.com/markets/2025/06/29/asia-morning-briefing-eth-bulls-eye-3k-as-validator-backbone-upgrade-rolls-in",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Unlucky trader \u2018Qwatio\u2019 liquidated 8 times in a week, loses $12.5M",
+      "title": "Hacked Iranian crypto exchange Nobitex slowly restores services",
+      "link": "https://cointelegraph.com/news/hacked-crypto-exchange-nobitex-slowly-restores-services-starting-with-verified-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcyZmQtNTQ0Zi03OTBhLTk4YjUtN2NhY2Y2M2ViZWI3.jpg\" /></p><p>Hacked Iranian crypto exchange Nobitex is slated to resume withdrawal services, starting with verified users.</p>"
+    },
+    {
+      "title": "Unlucky trader \u2018qwatio\u2019 liquidated 8 times in a week, loses $12.5M",
       "link": "https://cointelegraph.com/news/trader-liquidated-eight-times-in-week-lookonchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmM2YtOWVjNi03ODNlLTg0ZTUtMWUyN2M5ZWQwODZi.jpg\" /></p><p>A trader under the handle Qwatio has been liquidated eight times in the last week, with the latest a partial liquidation of an Ether position leveraged by 25X.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmM2YtOWVjNi03ODNlLTg0ZTUtMWUyN2M5ZWQwODZi.jpg\" /></p><p>A trader under the handle qwatio has been liquidated eight times in the last week, with the latest a partial liquidation of an Ether position leveraged by 25X.</p>"
     },
     {
       "title": "South Korea pauses CBDC tests as stablecoin fever hits banks",
@@ -40,17 +45,12 @@
     {
       "title": "Metaplanet surpasses Cleanspark with $108M Bitcoin buy",
       "link": "https://cointelegraph.com/news/metaplanet-buys-108m-bitcoin-issues-bonds-buy-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IxNWUtNzVkZS03MzA0LTg2NzMtY2UyZTY4OTcwNWU3.jpg\" /></p><p>Metaplanet has become the fifth-largest corporate Bitcoin holder after its latest $108 million purchase, which comes on the same day that the Japanese firm issued 0% interest bonds to buy more.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IxNWUtNzVkZS03MzA0LTg2NzMtY2UyZTY4OTcwNWU3.jpg\" /></p><p>Metaplanet has become the fifth-largest corporate Bitcoin holder after its latest $108 million purchase, which comes on the same day the Japanese firm issued 0% interest bonds to buy more.</p>"
     },
     {
       "title": "BNB Smart Chain block times fall to 0.8 secs amid Maxwell upgrade",
       "link": "https://cointelegraph.com/news/bnb-smart-chain-block-times-fall-to-0-8-secs-amid-maxwell-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlMjQtMTYxOC03YjhjLTlhNGItZWViZDQ1ZGVmY2Vk.jpg\" /></p><p>BNB Smart Chain\u2019s Maxwell hard fork has three main proposals geared toward boosting scalability, validator sync and overall network efficiency.</p>"
-    },
-    {
-      "title": "Bitcoin price stuck as OGs are \u2018dumping on Wall Street\u2019: Analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-og-dumping-on-wall-street-have-kept-btc-from-moving-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjAtM2EyOC03YjdmLWE1NWQtMmM0NGI4ZTBiY2U2.jpg\" /></p><p>Long-term Bitcoin holders have been selling to institutions since spot ETFs launched, keeping prices stagnant.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlMjQtMTYxOC03YjhjLTlhNGItZWViZDQ1ZGVmY2Vk.jpg\" /></p><p>BNB Smart Chain\u2019s Maxwell hard fork has three main proposals to boost scalability, validator sync and overall network efficiency.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Analyst Says Buying This Meme Coin Is A 3X Leveraged Play If Solana ETFs Go Live",
+      "link": "https://www.newsbtc.com/news/solana/meme-coin-3x-solana-etfs/",
+      "summary": "As the crypto market looks toward a recovery and the likes of Solana make their way out of losses, a crypto trader has called out one meme coin that could be a great play as the SOL price recovers. The BONK meme coin, currently the largest meme coin in the Solana ecosystem and billed for triggering the revival of the blockchain, continues to receive a lot of support as a meme coin that could outperform as the market ushers in the next altcoin season. Solana\u2019s BONK Meme Coin Is The Play Crypto analyst and trader Unipcs became popular in crypto circles on the social media platform X (formerly Twitter) after turning $16,000 into more than $10 million with a long BONK trade. Despite making what many have referred to as a life-changing trade, the trader has refused to close this trade, with the expectation that the meme coin will continue to rise. Related Reading: TD Sequential Flashes Buy: Dogecoin Ready For Rebound To $0.21 In a recent post, Unipcs has once again reiterated his support for the BONK meme coin and why he believes it\u2019s a great play to be involved in."
+    },
+    {
       "title": "Top Analyst Predicts Major Ethereum Rally Toward $4,000 As Shorts Hit All-Time Highs",
       "link": "https://www.newsbtc.com/ethereum-news/top-analyst-predicts-major-ethereum-rally-toward-4000-as-shorts-hit-all-time-highs/",
       "summary": "As the market\u2019s second largest cryptocurrency, Ethereum (ETH), struggles to maintain momentum above the crucial $2,500 threshold, one analyst believes that ETH is poised for a significant rally. In a recent post on social media platform X (formerly Twitter), crypto analyst Cyclop expressed a bullish outlook, labeling the current market conditions as the best long setup for Ethereum he has seen in years. Analyst Sees $4,000 Target This Summer Cyclop highlighted that Ethereum short positions have reached all-time highs, a situation reminiscent of a previous spike that occurred just weeks ago. The analyst noted that liquidity has been swept on both sides, creating a scenario where market uncertainty may actually benefit Ethereum. &#8220;Most doubt ETH and altcoins right now\u2014I&#8217;m betting on $4,000 this summer,&#8221; he stated confidently. Related Reading: TD Sequential Flashes Buy: Dogecoin Ready For Rebound To $0.21 Cyclop outlined several key factors driving his optimistic stance. First, he pointed to the recent Pectra update, which has reinvigorated interest in Ethereum by enhancing transaction capabilities, updating security features, and improving staking options. This update has reportedly led to increased demand, contributing to a potential price surge. Moreover, Cyclop emphasized the broader macroeconomic landscape, noting that cryptocurrency adoption is accelerating beyond Bitcoin (BTC), with Ethereum taking a prominent role. The analyst suggests that major corporations and banks are beginning to purchase and stake Ethereum, further boosting trust and interest in the digital asset which could ultimately result in more demand and more price uptrends. Ethereum Rallies May Trigger Altcoin Boom On-chain metrics also favor Ethereum, with the cryptocurrency ranking highly in various categories, according to Cyclop. It currently stands as the second-highest by fees, leads in bridged net flows, and ranks third in stablecoin supply changes, showcasing its robust market position. Another critical aspect of Cyclop&#8217;s analysis concerns altcoins and the upcoming altseason, traditionally characterized by a rush of investment into Ethereum before spilling over into smaller tokens. He pointed out that historical patterns indicate that Ethereum price rallies often trigger broader altcoin surges, and the current market sentiment suggests that many altcoins are at their lowest ebb. Related Reading: Dogecoin Silent Build-Up: Double Bottom Hints At Explosive Move To $0.47 While Cyclop acknowledges that a majority of altcoins may face significant challenges, he argues that ETH remains undervalued, especially with Bitcoin trading near $100,000. He has made strategic moves, reallocating some of his Bitcoin holdings into Ethereum and promising strong altcoins. His initial target for Ethereum is $3,000, where he plans to take profits, followed by a series of sell orders between $4,000 and $6,000. As of press time, ETH trades at $2,500, a 12% price increase in the weekly time frame. Featured image from DALL-E, chart from TradingView.com"
@@ -100,11 +105,6 @@
       "title": "Bitcoin Price Surges Above $108,000: Analyst Predicts Potential Breakout To $150,000",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-price-surges-above-108000-analyst-predicts-potential-breakout-to-150000/",
       "summary": "The Bitcoin price has recently climbed back above the $108,000 mark, yet it struggles to surpass its current record of $111,800, creating a sense of uncertainty in the market. This persistent inability to break through has characterized the cryptocurrency&#8217;s performance in recent weeks, leaving analysts to speculate on its next moves. Analyst Predicts Major Upswing Crypto analyst Doctor Profit has outlined two potential scenarios for the Bitcoin price trajectory in the near term, offering insights into both immediate volatility and a long-term bullish outlook. In a recent post on social media platform X (formerly Twitter), Doctor Profit emphasized the significance of the current market conditions, suggesting that Bitcoin could reach between $120,000 and $150,000 in the coming months. Related Reading: Dogecoin Silent Build-Up: Double Bottom Hints At Explosive Move To $0.47 According to Doctor Profit, the market is poised for a breakout. He noted, \u201cWe\u2019re standing in front of a breakout, one that has the potential to send Bitcoin into the $120,000\u2013$150,000 zone over the next few months.\u201d This assertion is supported by data reflecting strong on-chain activity, favorable technical structures, liquidity flow, and macroeconomic factors. While the long-term outlook appears promising, he cautioned that short-term fluctuations will remain prevalent. Two Scenarios For The Bitcoin Price Doctor Profit outlined two primary outcomes that traders should consider. The first scenario involves a bullish breakout from a bull flag pattern, allowing Bitcoin to surge past the $113,000 resistance level and continue climbing without a pullback. However, the analyst views this scenario as overly simplistic, suggesting that market makers typically prefer not to allow such parabolic moves to occur without a preceding shakeout. The second scenario, which appears more likely, involves either a rejection at the bull flag breakout or a liquidity grab at the $113,000 mark. This would potentially lead Bitcoin to revisit the lower boundary of the current range, around $90,000 to $93,000. Doctor Profit noted that this region is attractive because it contains significant liquidity and a notable gap in the Chicago Mercantile Exchange (CME) futures market. He views a dip to these levels not as a bearish signal, but rather as an opportunity to accumulate more Bitcoin. In his analysis, he stated, \u201c$93K is not bearish. It\u2019s clearly a gift!.\u201d Doctor Profit believes that this potential dip would not only reset market leverage but also shake out weaker hands, creating a more robust foundation for a subsequent rally. Macroeconomic Trends Favor BTC Looking at the long-term prospects, Doctor Profit highlighted that larger wallets continue to accumulate Bitcoin, indicating that major investors are positioning themselves for a significant upward movement. He pointed to macroeconomic indicators, particularly the M2 money supply, which suggests that Bitcoin remains undervalued relative to broader economic trends. Related Reading: TD Sequential Flashes Buy: Dogecoin Ready For Rebound To $0.21 Notably, the Bitcoin price has been trading within its current range for 226 days, which echoes patterns observed during previous accumulation phases before major price breakouts. As Doctor Profit concluded, the Bitcoin price trajectory remains optimistic, with expectations of reaching between $120,000 and $150,000 in the foreseeable future. He notes that while there are multiple paths to achieving this target, a dip into the $90,000 to $93,000 range would provide a crucial opportunity for accumulation and set the stage for a powerful upward move. Featured image from DALL-E, chart from TradingView.com"
-    },
-    {
-      "title": "Ethereum Price Tests Resistance \u2014 Breakout Could Spark Rally",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-tests-resistance-2520/",
-      "summary": "Ethereum price started a fresh increase above the $2,480 zone. ETH is now consolidating gains and might soon aim for a move above the $2,520 resistance. Ethereum started a fresh upward move above the $2,450 level. The price is trading above $2,450 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2,440 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains stable above the $2,420 zone in the near term. Ethereum Price Eyes More Gains Ethereum price started a fresh increase above the $2,420 support level, like Bitcoin. ETH price was able to clear the $2,450 and $2,480 resistance levels to move into a positive zone. The bulls even pushed the price above the $2,500 zone. However, the bulls were active above the $2,500 level. A high was formed at $2,523 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $2,394 swing low to the $2,523 high. Ethereum price is now trading above $2,450 and the 100-hourly Simple Moving Average. There is also a key bullish trend line forming with support at $2,440 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,520 level. The next key resistance is near the $2,550 level. The first major resistance is near the $2,580 level. A clear move above the $2,580 resistance might send the price toward the $2,650 resistance. An upside break above the $2,650 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. Downside Correction In ETH? If Ethereum fails to clear the $2,520 resistance, it could start a fresh decline. Initial support on the downside is near the $2,480 level. The first major support sits near the $2,460 zone or the 50% Fib retracement level of the upward move from the $2,394 swing low to the $2,523 high. A clear move below the $2,460 support might push the price toward the $2,440 support. Any more losses might send the price toward the $2,400 support level in the near term. The next key support sits at $2,350. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,440 Major Resistance Level \u2013 $2,520"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "XRP\u2019s bullish setup \u2013 Examining odds of altcoin hitting its mid-term target",
+      "link": "https://ambcrypto.com/xrps-bullish-setup-examining-odds-of-altcoin-hitting-its-mid-term-target/",
+      "summary": "<img alt=\"XRP\u2019s bullish setup - Examining odds of altcoin hitting its mid-term target\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-29T152605.976-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP may be close to a critical breakout as speculation rises, but weak network activity could limit upside."
+    },
+    {
       "title": "Investors can buy CRV for cheap if price falls to $0.42-$0.48 demand zone \u2013 Details!",
       "link": "https://ambcrypto.com/investors-can-buy-crv-for-cheap-if-price-falls-to-0-42-0-48-demand-zone-details/",
       "summary": "<img alt=\"Investors can buy CRV for cheap if price falls to $0.42-$0.48 demand zone - Details!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Curve-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could a bullish reversal be ahead for CRV investors?"
@@ -208,11 +213,6 @@
       "title": "Bitcoin miners suffer at 12-year low \u2013 But why aren\u2019t they selling?",
       "link": "https://ambcrypto.com/bitcoin-miners-suffer-at-12-year-low-but-why-arent-they-selling/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-20-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />If revenue keeps falling will miners finally break and start selling?"
-    },
-    {
-      "title": "SEI\u2019s user activity soars \u2013 Is a short squeeze near as price nears $0.35?",
-      "link": "https://ambcrypto.com/seis-user-activity-soars-is-a-short-squeeze-near-as-price-nears-0-35/",
-      "summary": "<img alt=\"Sei [SEI]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-29T145427.668-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SEI breaks out of a months-long downtrend as user growth and social buzz accelerate."
     }
   ]
 }
