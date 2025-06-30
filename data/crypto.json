@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "'Like Ordering McDonald's:' Malta's MiCA Fast-Track Draws Oversight Concerns",
+      "link": "https://www.coindesk.com/news-analysis/2025/06/30/malta-the-small-island-nation-granting-big-exchanges-access-to-europe",
+      "summary": ""
+    },
+    {
+      "title": "The Blockchain Group Bolsters Bitcoin Holdings and Capital Base",
+      "link": "https://www.coindesk.com/markets/2025/06/30/the-blockchain-group-bolsters-bitcoin-holdings-and-capital-base",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin DEX Traders Position for Downside Volatility With $85K-$106K Puts, Derive Data Show",
       "link": "https://www.coindesk.com/markets/2025/06/30/bitcoin-dex-traders-position-for-downside-volatility-with-usd85k-usd106k-puts-derive-data-show",
       "summary": ""
@@ -13,16 +23,6 @@
     {
       "title": "BlackRock's Spot Bitcoin ETF Snaps Four-Week Downtrend in Volumes",
       "link": "https://www.coindesk.com/markets/2025/06/30/blackrock-s-spot-bitcoin-etf-snaps-four-week-downtrend-in-volumes",
-      "summary": ""
-    },
-    {
-      "title": "Bhutan Bets on Binance Pay to Power Crypto-Backed Tourism Economy",
-      "link": "https://www.coindesk.com/markets/2025/06/30/bhutan-bets-on-binance-pay-to-power-crypto-backed-tourism-economy",
-      "summary": ""
-    },
-    {
-      "title": "Metaplanet Acquires 1,005 Bitcoin, Issues $208M Bonds for Further BTC Buys",
-      "link": "https://www.coindesk.com/markets/2025/06/30/metaplanet-acquires-1005-bitcoin-issues-208m-bonds-for-further-btc-buys",
       "summary": ""
     }
   ],
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Low HYPE demand follows Hyperliquid\u2019s high DEX volume \u2013 Can bulls change this?",
+      "link": "https://ambcrypto.com/low-hype-demand-follows-hyperliquids-high-dex-volume-can-bulls-change-this/",
+      "summary": "<img alt=\"Low HYPE demand follows Hyperliquid&#039;s high DEX volume - Can bulls change this?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Hyperliquid-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Mid-range resistance at $39.1 was breached, but HYPE bulls still appeared weak."
+    },
+    {
       "title": "XRP\u2019s bullish setup \u2013 Examining odds of altcoin hitting its mid-term target",
       "link": "https://ambcrypto.com/xrps-bullish-setup-examining-odds-of-altcoin-hitting-its-mid-term-target/",
       "summary": "<img alt=\"XRP\u2019s bullish setup - Examining odds of altcoin hitting its mid-term target\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-29T152605.976-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP may be close to a critical breakout as speculation rises, but weak network activity could limit upside."
@@ -208,11 +213,6 @@
       "title": "Chainlink bulls beware! \u2013 Could LINK be topping out at $13.4?",
       "link": "https://ambcrypto.com/chainlink-bulls-beware-could-link-be-topping-out-at/",
       "summary": "<img alt=\"Chainlink at a crossroads: On-chain metrics signal a potential local price top\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Chainlink-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Chainlink did not show signs of network-wide accumulation in recent months, and holders were willing to sell based on short-term price moves."
-    },
-    {
-      "title": "Bitcoin miners suffer at 12-year low \u2013 But why aren\u2019t they selling?",
-      "link": "https://ambcrypto.com/bitcoin-miners-suffer-at-12-year-low-but-why-arent-they-selling/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-20-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />If revenue keeps falling will miners finally break and start selling?"
     }
   ]
 }
