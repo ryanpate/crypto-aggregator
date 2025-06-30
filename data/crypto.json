@@ -1,7 +1,22 @@
 {
   "CoinDesk": [
     {
-      "title": "BitMine Immersion Stock Triples as it Raises $250M for Ether Treasury, Adds Thomas Lee to Board",
+      "title": "Bhutan Possibly Readies $15M Bitcoin Sale as Holdings Near $1.3B",
+      "link": "https://www.coindesk.com/markets/2025/06/30/bhutan-possibly-readies-15m-bitcoin-sale-as-holdings-near-13b",
+      "summary": ""
+    },
+    {
+      "title": "Circle Valuation Is 'Outside Our Comfort Zone,' Initiate at Underweight: JPMorgan",
+      "link": "https://www.coindesk.com/markets/2025/06/30/circle-valuation-is-outside-our-comfort-zone-initiate-at-underweight-jpmorgan",
+      "summary": ""
+    },
+    {
+      "title": "Popular Financial Advisor Ric Edelman Says Investors Should Allocate Up to 40% of Wealth to Crypto",
+      "link": "https://www.coindesk.com/markets/2025/06/30/usd290b-financial-advisor-ric-edelman-says-investors-should-allocate-up-to-40-of-wealth-to-crypto",
+      "summary": ""
+    },
+    {
+      "title": "BitMine Immersion Stock Triples as It Raises $250M for Ether Treasury, Adds Thomas Lee to Board",
       "link": "https://www.coindesk.com/markets/2025/06/30/bitmine-immersion-stock-triples-as-it-adds-thomas-lee-to-board-raises-250m-for-ether-treasury-strategy",
       "summary": ""
     },
@@ -9,51 +24,41 @@
       "title": "CoinDesk 20 Performance Update: Filecoin (FIL) Gains 7.3% as Index Climbs Higher",
       "link": "https://www.coindesk.com/coindesk-indices/2025/06/30/coindesk-20-performance-update-filecoin-fil-gains-7-3-as-index-climbs-higher",
       "summary": ""
-    },
-    {
-      "title": "Australian Fintech Eightcap Debuts CoinDesk20 CFD for Retail Traders",
-      "link": "https://www.coindesk.com/business/2025/06/30/australian-fintech-eightcap-debuts-coindesk20-cfd-for-retail-traders",
-      "summary": ""
-    },
-    {
-      "title": "Japan\u2019s Answer to Strategy: Metaplanet Initiated With Buy Rating at Benchmark",
-      "link": "https://www.coindesk.com/markets/2025/06/30/japans-answer-to-strategy-metaplanet-initiated-with-buy-at-benchmark",
-      "summary": ""
-    },
-    {
-      "title": "Michael Saylor's Strategy Added 4,980 Bitcoin Last Week, Bringing Stack to 597,325 Coins",
-      "link": "https://www.coindesk.com/markets/2025/06/30/michael-saylors-strategy-added-4980-bitcoin-last-week-bringing-stack-to-597325-coins",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Circuit unveils recovery system to solve crypto\u2019s \u2018permanent loss\u2019 conundrum",
+      "link": "https://cointelegraph.com/news/circuit-institutional-bitcoin-recovery-engine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MxMzktMGUxYS03NmVjLWFmODQtMThjZjA5ZDU3OGIy.jpg\" /></p><p>\u201cMost people aren\u2019t equipped for true self-custody,\u201d said Circuit\u2019s founder and CEO, Harry Donnelly.</p>"
+    },
+    {
+      "title": "Crypto&#039;s value lies in bridging the gap between tradition and disruption",
+      "link": "https://cointelegraph.com/news/crypto-s-value-lies-in-bridging-the-gap-between-tradition-and-disruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzExODktMzU4Ny03ZmVjLTk3MGItNjdjN2M1YmE5MTg4.jpg\" /></p><p>Crypto's true value isn't in dismantling traditional finance, but in bridging it with decentralized innovation. The crypto industry can create a more open, efficient and resilient financial system that enhances, not replaces, established institutions.</p>"
+    },
+    {
+      "title": "How ZachXBT traced a $31M Bitcoin donation to a flagged wallet",
+      "link": "https://cointelegraph.com/explained/how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNTJjYTc5Mzk3YmFkNzAzMWZlYTk0MzY5OTY1ZTJlZi5qcGc=.jpg\" /></p><p>From Silk Road to today, dormant wallets and mixing tools are no longer enough to hide illicit funds onchain, as ZachXBT\u2019s investigations continue to prove.</p>"
+    },
+    {
+      "title": "Ethereum risks 25% price drop as \u2018massive whale\u2019 moves $237M in ETH to exchanges",
+      "link": "https://cointelegraph.com/news/ethereum-risks-falling-25-massive-whale-moves-237m-eth-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwYzEtYzRmOC03Y2NlLWJmOWItYjIxZDVkOGZjZGVj.jpg\" /></p><p>Big Ethereum holders are shrinking their balances while mid-sized wallets grow, signaling possible whale selling and potential downward pressure on ETH price.</p>"
+    },
+    {
       "title": "BitMine raises $250M to launch Ethereum corporate treasury",
       "link": "https://cointelegraph.com/news/bitmine-receives-250m-investment-to-fund-its-ethereum-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA2MWEtNGM1Ny03MWFjLTgxMmUtNjJjMmZhZTkyZjI2.jpg\" /></p><p>BitMine Immersion Technologies raised $250 million through a private placement to establish an Ethereum treasury, signaling a shift away from its previous Bitcoin-centric approach.</p>"
-    },
-    {
-      "title": "Bitcoin hashrate down 15%, 26 firms add BTC to balance sheets: June in charts",
-      "link": "https://cointelegraph.com/news/bitcoin-hashrate-btc-balance-sheets-june-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwNjctMDA0OC03OWE3LTlkMTMtOWQwOGM3NGU0NDQw.jpg\" /></p><p>Bitcoin adoption grew considerably in June, with 26 firms adding it to their balance sheets; meanwhile, Bitcoin\u2019s hashrate fell 15%.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Tokenized stock trading live on Kraken, Bybit and Solana\u2019s DeFi ecosystem",
-      "link": "https://cointelegraph.com/news/tokenized-stock-trading-live-on-kraken-bybit-and-solana-s-defi-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNjYzYtNGY3Yi03YWM0LThlNWQtYmZiMmM0MjJjNWY5.jpg\" /></p><p>More than 60 tokenized stocks are now live on Kraken, Bybit and Solana DeFi via Backed Finance\u2019s xStocks.</p>"
-    },
-    {
-      "title": "Bitcoin\u2019s new all-time high now \u2018inevitable\u2019 as BTC price eyes liquidity at $109K",
-      "link": "https://cointelegraph.com/news/bitcoin-new-all-time-high-now-inevitable-btc-price-liquidity-109k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwYWItZWVmNy03NDhkLWFmY2YtZDExNjlmYTk0OGQ3.jpg\" /></p><p>Bitcoin's price hovered around $107,000, showing technical strength as BTC\u2019s chance of rising to new all-time highs appears to be increasing, new analysis suggested.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Strategy edges closer to 600K BTC as major players intensify Bitcoin buys",
+      "link": "https://cryptoslate.com/strategy-edges-closer-to-600k-btc-as-major-players-intensify-bitcoin-buys/",
+      "summary": "<p>Institutional Bitcoin accumulation shows no signs of slowing as Strategy and Metaplanet purchased close to 6,000 BTC last week, continuing their aggressive acquisition strategies. According to their separate announcements on June 30, the two companies acquired 5,985 BTC, investing approximately $640 million in the process. Strategy moves closer to 600K BTC Strategy, the largest corporate [&#8230;]</p> <p>"
+    },
     {
       "title": "Crypto investment inflows hit $16.9B in 11-week streak",
       "link": "https://cryptoslate.com/crypto-investment-inflows-hit-16-9b-in-11-week-streak/",
@@ -73,14 +78,19 @@
       "title": "BNB Chain\u2019s Maxwell upgrade drives record DEX trading volume",
       "link": "https://cryptoslate.com/bnb-chains-maxwell-upgrade-drives-record-dex-trading-volume/",
       "summary": "<p>BNB Chain has launched its much-anticipated Maxwell upgrade, a network improvement that aims to halve block times from 1.5 seconds to just 0.75 seconds. The upgrade, activated on June 30, is expected to significantly boost transaction speeds, enhance network responsiveness, and optimize communication between validators on the Binance Smart Chain (BSC). The Maxwell upgrade builds [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Saylor says BTC Treasury companies can grow as fast as they can issue credit and buy Bitcoin",
-      "link": "https://cryptoslate.com/saylor-says-btc-treasury-companies-can-grow-as-fast-as-they-can-issue-credit-and-buy-bitcoin/",
-      "summary": "<p>At the BTC Prague conference this week, Strategy (formerly MicroStrategy) co-founder Michael Saylor stated that Bitcoin treasury companies can grow as quickly as they can issue equity and credit to purchase Bitcoin. Delving into the business model of Bitcoin treasury companies like Strategy, Saylor explained how corporate investment in BTC can far outpace individual investments. [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "South Korea Pauses CBDCs, Stablecoins Heat Up: Here\u2019s Why Best Wallet Wins the New Crypto Framework",
+      "link": "https://www.newsbtc.com/news/south-korea-cbdc-delay-best-wallet-edge/",
+      "summary": "South Korea pressed pause on its central bank digital currency (CBDC) initiative, even as its new government pivoted toward promoting domestic stablecoins. Telling banks involved that introducing won-denominated stablecoins would be \u2018desirable,\u2019 South Korea&#8217;s central bank has slowed down on any progress towards a CBDC. In the meantime, Hong Kong is rolling out a regulatory framework for stablecoin issuance aimed at challenging U.S. dollar dominance and bolstering its own financial infrastructure. Both countries reinforce a common perception: crypto is here to stay, and you\u2019ll need a top-notch crypto wallet like Best Wallet app to keep on top of everything. South Korea: Cold Feet on CBDC, but Full Speed Ahead on Stablecoins In a surprise move, the Bank of Korea halted the second phase of its CBDC pilot, planned for later this year, for further review. The advanced pilot, involving peer-to-peer transfers and merchant payments, takes a back seat amid rising concern over cost, commercialization ambiguity, and regulatory readiness. This policy change is strongly influenced by President Lee Jae\u2011myung\u2019s administration, which won elections earlier in June based at least partly on crypto promises. The new administration also fostered a regulatory framework enabling firms with modest capital (\u20a9500 million ~ US$370K) to issue stablecoins under the Digital Asset Basic Act. At a time when over a third of South Korea\u2019s population \u2013 roughly 18M people \u2013 trade crypto, boosting stablecoins seems like a solid move. The decision to move away from a CBDC is a bit more surprising. Still, with so many investors trading crypto daily, there\u2019s a real desire to build and strengthen frameworks like the ones for stablecoins. Other countries are making similar moves, though perhaps for more political reasons. Hong Kong: Regulating Stablecoins to Reduce U.S. Dollar Dependence Hong Kong is set to enforce its Stablecoins Ordinance starting August 1, 2025. Passed on May 21, the law mandates HKMA licensing for any fiat-referenced stablecoin issuer targeting the city\u2019s residents. The rigorous licensing requirements cover reserve holdings, fund segregation, redemption rights, and anti-money-laundering protocols. Hong Kong Financial Secretary Paul Chan ties the initiative to China\u2019s broader de\u2011dollarization strategy, highlighting stablecoins as pivotal for trade and cross-border payments in local currencies. In his words: \u2018Fintech has great potential in the application of cross-border trade, and the goal is to solve the long-standing pain points of slow and high cost of cross-border payment, and better serve the real economy in the field of payment\u2026 stablecoins are a cost-effective alternative to the traditional financial system and have the potential to revolutionize payments and capital market activities, including cross-border payments. The stablecoin legislation will\u2026 encourage issuers to extend the application of stablecoins to different scenarios, and help solve the real pain points of enterprises in business and people&#8217;s lives.\u2019 Hong Kong anticipates local issuers and regulated institutions taking the lead, with limited retail uptake initially, but significant promise for cross-border institutional use. And as retail interest grows, more and more investors are going to need a crypto wallet \u2013 the best kind of crypto wallet. Best Wallet Token ($BEST) \u2013 Supercharge the Leading Web3 Wallet for the World Crypto Economy Best Wallet Token ($BEST) takes two key ingredients for crypto wallet utility and creates something even more powerful. The first element is a simple, powerful web3 wallet \u2013 Best Wallet app. With MPC and biometric security, the ability to set up multiple wallets, and a unique upcoming tokens hub to research and purchase hot crypto presales, Best Wallet app gives new and experienced crypto users everything they need to succeed in today\u2019s crypto economy. The $BEST token supercharges the entire ecosystem. Token holders gain: \u2705 Reduced transaction fees \u2705 Better staking returns \u2705 Exclusive project access \u2705 Governance rights The ongoing presale has raised $13.6M so far. $BEST tokens are on sale for $0.025255, but our price prediction shows they could reach $0.05106175 by the end of 2026, delivering 102% gains for presale participants. Learn how to buy Best Wallet Token to avoid missing out. Visit the Best Wallet token presale now. What These Moves Signal Both governments seek to balance private stablecoin innovation with preserving monetary policy control. South Korea\u2019s pivot reflects a pragmatic approach: redirecting momentum from costly and uncertain CBDC deployment toward a more agile, regulated stablecoin model. Hong Kong\u2019s strategy signifies a calculated expansion of its role in the global digital asset economy, linking stablecoin issuance to monetary liberalization and regional trade objectives, and supporting China\u2019s broader political goals. In each case, the success of stablecoin ambitions hinges on the dirty details of regulation, institutional participation, and financial market dynamics. And success means that everyone, not just major institutions, will want their own Web3 wallet. As always, do your own research \u2013 this isn\u2019t financial advice."
+    },
+    {
+      "title": "Solana Forms Bullish Flag On Daily Chart \u2014 Breakout Imminent?",
+      "link": "https://www.newsbtc.com/news/solana/solana-forms-bullish-flag-on-daily-chart-breakout-imminent/",
+      "summary": "Solana is displaying signs of strength as it trades with a key chart pattern, which indicates that the altcoin is preparing for a solid move. The price has been holding steady, forming lower highs and higher lows within a narrowing range. This pause in momentum could be setting the stage for another breakout. Key Resistance Levels In Focus As Breakout Approaches Solana has developed a bullish flag pattern on the daily chart, signaling a continuation of its uptrend. According to Dynamite Trader&#8217;s post on X, this pattern often precedes strong breakouts, suggesting that momentum could soon accelerate. Related Reading: Solana (SOL) Breakout Watch: Price Could Rally Hard Above $150 Level? Currently, SOL&#8217;s price is holding above the midline of the flag, indicating underlying strength. However, it&#8217;s also testing the daily 100 moving average (MA100), which is acting as a dynamic resistance. SOL&#8217;s reaction to this level will be crucial in determining whether the bullish flag leads to a decisive breakout or a deeper consolidation. Another analyst, Henry, highlighted that Solana is gearing up for a big move after completing a clean Cup and Handle breakout on the 4-hour chart, a bullish pattern that signals continuation. The breakout saw SOL flip the $149 resistance into support, a key technical shift. If this level holds, Henry sees a rally toward the $168 to $174 zone, which aligns with previous resistance levels and bullish extension targets. He adds a warning that volatility is increasing, and high-leverage positions are at risk on both sides. Solana is setting up a clean wedge on the weekly chart. Currently trading at $150, SOL has been consistently bouncing between support and resistance levels, which is known for building pressure before delivering sharp moves. Talking about this, Top G emphasizes that if this plays out as expected, the next leg up could be significant, and $300 isn&#8217;t just speculation; it&#8217;s a realistic target based on the structure and behavior. Holding Above The Breakout Zone Could Accelerate The Move Upward Solana has broken above the downtrend line on the 4-hour chart. This move could mark a pivotal shift in short-term momentum, with potential bullish continuation if current levels hold. Related Reading: Solana Price At \u2018A Very Delicate Level\u2019 \u2013 Analyst Says $148 Reclaim Is Key If SOL maintains its position above this trend line, crypto analyst Bens BTC noted that the price could climb toward the next resistance area at $165. The price action is forming a bullish structure, and momentum indicators may soon align with the breakout, further supporting the continuation of the upside. The asset had broken out with strong momentum and is now trading firmly within a long-term bullish channel, a structure that has supported uptrends. The price action looks clean, with higher highs and higher lows forming as SOL surges upward. Furthermore, analyst Persis10t revealed that momentum is picking up, and as long as the channel remains intact, the path forward could be explosive. If the structure holds and attracts volume, Persis10t projects a target of $700+ in the next run, pointing to the upper boundary of the bullish channel as a magnet for price. Featured image from iStock Images, chart from tradingview.com"
+    },
     {
       "title": "Analyst Reveals Rational Behind XRP Price Reaching $9.5 And $37.5",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-reaching-9-5-and-37-5/",
@@ -95,19 +105,14 @@
       "title": "Can Cardano Lead In Bitcoin DeFi? Founder Says It Needs A Central Voice First",
       "link": "https://www.newsbtc.com/altcoin/can-cardano-lead-in-bitcoin-defi-founder-says-it-needs-a-central-voice-first/",
       "summary": "Cardano is making moves to become a hub for Bitcoin DeFi. According to Cardano founder Charles Hoskinson, the network has rolled out a string of upgrades, yet it still needs a strong message to win over users and investors. He argues that without a clear voice steering the story, those technical gains risk getting lost in the noise. Related Reading: The $100K Mirage: Bitcoin\u2019s Rally Not Backed By On-Chain Strength Network Champions New Features Cardano\u2019s team has added Leios, a new smart contract framework, and Hydra, a layer\u20112 scaling solution that promises faster transactions. They\u2019ve also launched the Midnight Glacier Drop, which aims to boost data privacy for on\u2011chain applications. Based on reports, Minswap\u2014the largest decentralized exchange on Cardano\u2014is preparing to support Bitcoin, with plans to tap into a $2 trillion liquidity pool. At the same time, Lace Wallet is gaining traction among everyday users, and USDM, a stablecoin backed by dollar reserves, is picking up steam. We got Leios, Hydra, Midnight, and Bitcoin DeFi alongside governance, security and decentralization. Bitcoin DeFi is indeed the largest opportunity, but the single biggest issue is that we are missing a competent Foundation and executive authority to push these narratives into\u2026 https://t.co/t3j4ULTTe8 \u2014 Charles Hoskinson (@IOHK_Charles) June 29, 2025 Hoskinson Points To Executive Gap Despite those wins, Hoskinson says Cardano is missing a \u201ccompetent Foundation and executive authority\u201d to shape market views. He\u2019s taken to X to share his concerns, but some in the community have pushed back hard. A few podcasters and thought leaders have labeled Cardano a \u201cdying chain.\u201d Hoskinson admits that stepping into the narrative has drawn plenty of criticism\u2014yet he feels it\u2019s needed if Cardano is to claim its place in Bitcoin\u2011based finance. Input Output Global\u2019s Role Input Output Global (IOG), Hoskinson\u2019s company, will keep guiding Cardano as its core coordinator. He warns this work comes at a cost: \u201cIt\u2019s been brutal and expensive this year,\u201d he said, referring to waves of negative comments and legal threats. He adds that it\u2019s \u201cdehumanizing\u201d to be blamed for every hiccup on the network while not getting credit for the wins. Related Reading: Crypto Bombshell: Developer Claims XRP Could Hit $20,000 Rare Evo Conference In Focus Looking ahead, Hoskinson is counting on Rare Evo, a crypto conference, to reset the conversation. He believes the community will use that event to settle governance questions and update Cardano\u2019s constitution with delegated executive powers. There\u2019s even talk of a sovereign wealth fund to back Bitcoin DeFi on the chain. Built on top of Bitcoin, Bitcoin DeFi (BTCFi) is a network of decentralized financial applications. Last year, Hoskinson pushed a plan to convert $100 million worth of ADA into stablecoin liquidity. That idea sparked fierce debate. Now, he hopes Rare Evo will help turn bold ideas into solid support. Cardano\u2019s path forward may hinge on blending strong tech work with a clear, unified story. As Bitcoin DeFi edges closer, the project that can tell the best story might win the most attention\u2014and the most funds. Featured image from Unsplash, chart from TradingView"
-    },
-    {
-      "title": "Bitcoin Freezes Over $100,000 As OG Whales \u2018Dump On Wall Street\u2019: Expert",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-freezes-og-whales-dump-on-wall-street/",
-      "summary": "While Bitcoin continues to hover above the $100,000 threshold, the driving forces behind this historic consolidation phase appear to be more complex than the surface-level narratives of institutional \u201cFOMO\u201d and ETF euphoria. According to multiple leading analysts, a silent rotation is underway\u2014one that suggests long-term holders are offloading their positions while corporate treasuries and institutional buyers quietly absorb the flood. OG Bitcoin Whales Are &#8216;Dumping&#8217; On Wall Street Charles Edwards, founder of Capriole Investments, delivered a sobering breakdown via X on June 29, challenging the prevailing belief that Bitcoin\u2019s price stagnation amid surging demand is anomalous. \u201cPeople are wondering why BTC has been stuck at $100K so long, despite the institutional FOMO,\u201d he wrote. \u201cDespite what X news might suggest, it&#8217;s because Bitcoin OGs (long-term holders) have been dumping on Wall St since the ETF Launch in January 2024, unloading their positions.\u201d Edwards, known for blending on-chain metrics with macro frameworks, pointed to a visible dynamic shift that is now being captured in blockchain data. While older coins are being redistributed, a newer class of holders\u2014primarily treasury-oriented entities\u2014are stepping in aggressively. \u201cWe have clearly entered the heat of [the Treasury Company] trend today as many copy-cats have entered the market,\u201d he said, referencing his earlier prediction on Bits and Bips that corporate adoption would eventually eclipse ETF inflows in relevance. What makes this transition particularly remarkable is the data behind it. Edwards highlighted that 6-month-plus BTC holders\u2014commonly associated with more strategic, non-speculative accumulation\u2014have skyrocketed in the past two months. \u201cThe amount of BTC acquired in the last 2 months by this cohort has completely consumed all of the BTC unloaded by LTHs over the last 1.5 years,\u201d he said. \u201cIncredible.\u201d Related Reading: Bitcoin In Stalemate With Liquidation Traps On Both Sides Of The Market This cohort&#8217;s aggressive accumulation, he added, has historically preceded bullish squeezes. \u201cWhenever aggressive spikes in 6M+ holders occur, price usually squeezes following these periods. Short-term bullish,\u201d Edwards remarked. However, he tempered the optimism by cautioning that broader on-chain data still signals fragility. \u201cIf the 6M+ holders (Treasury Companies) can continue their relentless buying, that should be achievable,\u201d he noted, signaling that the flywheel has momentum, but is not yet immune to systemic pressure. Adding another layer to this developing narrative, Mauricio Di Bartolomeo, Co-founder and CSO at Ledn, offered an alternative theory. He suggested that what appears as two flows\u2014LTHs selling and Treasury entities buying\u2014might in fact be \u201cthe same trade.\u201d He wrote, \u201cLong term holders [are] selling spot to buy ETFs/BTC Treasury Cos. Even though that feels unnatural for us bitcoiners.\u201d Di Bartolomeo framed the shift as generational, pointing out that many early adopters may simply be more comfortable in traditional financial custody rather than self-sovereign wallets. Related Reading: Analyst Spots Bitcoin Time Bomb Hidden In Bullish Weekly Chart But Edwards pushed back on that explanation, arguing that if ETF migration was driving the reclassification of long-term holders, it would be evident across multiple aging cohorts. \u201cI don&#8217;t think so because we would have seen a similar uptrend over time in the 6M+ and 1Yr+ cohorts if that was the case,\u201d he replied. \u201cSome is definitely moving to equities, but it&#8217;s very typical of this stage of the Halving cycle to see LTH selling into profit.\u201d Why Bitcoin ETF Do Not Have A 1:1 Effect On Price The apparent dissonance between rising demand and stagnant price has also prompted commentary from on-chain analyst TXMC, who warned that most observers misunderstand what actually sets Bitcoin\u2019s price. \u201cBitcoin people grossly underestimate how little of the supply is actually setting the price every hour,\u201d he wrote. He described Bitcoin\u2019s fragmented market structure as a web of siloed exchanges, loosely synchronized through cross-exchange market-making. \u201cEach location has its own liquidity and depth which vary wildly. A large market order can have an outsized effect depending on which exchange it is placed at, and which time of day.\u201d TXMC argued that while ETFs and institutional desks are accumulating large quantities of Bitcoin, much of this activity is routed through OTC desks that bypass order books entirely. \u201cThese actions do not affect the price in the same way,\u201d he said. \u201cThe desks source their own liquidity, and only have to go into the books to fill the difference.\u201d This explanation may help reconcile why ETF inflows in the billions of dollars have failed to push BTC significantly higher. Edwards\u2019 thesis aligns with this too, insofar as the ETF boom may be fueling redistribution rather than outright net demand. TXMC added: \u201cStop underestimating how many big entities are out there looking for exit liquidity.\u201d Despite growing bullishness in cohort composition, the real test lies ahead. Whether corporate treasuries and ETF managers can absorb the remaining exit waves of Bitcoin\u2019s earliest holders remains to be seen. But if Edwards is right, the rotation may already be past its critical phase. \u201cThe flywheel still has a long way to go,\u201d Edwards concluded. And if history is any guide, these moments of consolidation amid redistribution tend to precede volatility\u2014not follow it. At press time, BTC traded at $108,044. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Analyst Says Buying This Meme Coin Is A 3X Leveraged Play If Solana ETFs Go Live",
-      "link": "https://www.newsbtc.com/news/solana/meme-coin-3x-solana-etfs/",
-      "summary": "As the crypto market looks toward a recovery and the likes of Solana make their way out of losses, a crypto trader has called out one meme coin that could be a great play as the SOL price recovers. The BONK meme coin, currently the largest meme coin in the Solana ecosystem and billed for triggering the revival of the blockchain, continues to receive a lot of support as a meme coin that could outperform as the market ushers in the next altcoin season. Solana\u2019s BONK Meme Coin Is The Play Crypto analyst and trader Unipcs became popular in crypto circles on the social media platform X (formerly Twitter) after turning $16,000 into more than $10 million with a long BONK trade. Despite making what many have referred to as a life-changing trade, the trader has refused to close this trade, with the expectation that the meme coin will continue to rise. Related Reading: TD Sequential Flashes Buy: Dogecoin Ready For Rebound To $0.21 In a recent post, Unipcs has once again reiterated his support for the BONK meme coin and why he believes it\u2019s a great play to be involved in."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Japan\u2019s Metaplanet Acquires 1,005 More Bitcoin, Total Holdings Reach 13,350 BTC",
+      "link": "https://bitcoinmagazine.com/news/japans-metaplanet-acquires-1005-more-bitcoin-total-holdings-reach-13350-btc",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/japan-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/japans-metaplanet-acquires-1005-more-bitcoin-total-holdings-reach-13350-btc\" rel=\"nofollow\"> </a></p> <p>The Japanese company continues accelerating its Bitcoin treasury strategy with a \u00a515.648 billion purchase.</p> <p>"
+    },
     {
       "title": "Kazakhstan Plans To Establish Bitcoin and Crypto Reserve",
       "link": "https://bitcoinmagazine.com/news/kazakhstan-plans-to-establish-bitcoin-and-crypto-reserve",
@@ -127,14 +132,24 @@
       "title": "Lnfi Network Integrates RGB Protocol to Enhance Lightning Network",
       "link": "https://bitcoinmagazine.com/news/lnfi-network-integrates-rgb-protocol-to-enhance-lightning-network",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_A_futuristic_digital_dashboard_glowing_wit_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/lnfi-network-integrates-rgb-protocol-to-enhance-lightning-network\" rel=\"nofollow\"> </a></p> <p>Lnfi Network adopts RGB for Bitcoin\u2019s Lightning, enabling secure asset trading. Nostr\u2019s encryption stops manipulation.</p> <p>"
-    },
-    {
-      "title": "If Institutions Are Buying Why Isn\u2019t The Bitcoin Price Going Up?",
-      "link": "https://bitcoinmagazine.com/markets/why-isnt-the-bitcoin-price-going-up",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/If-Institutions-Are-Buying-Why-Isnt-The-Bitcoin-Price-Going-Up.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/markets/why-isnt-the-bitcoin-price-going-up\" rel=\"nofollow\"> </a></p> <p>Bitcoin price not soaring despite institutional billions? Uncover why profit-taking and derivatives hold it back, with a breakout looming!</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Strategy Continues Bitcoin Shopping Spree With $532 Million BTC Buy",
+      "link": "https://decrypt.co/327796/strategy-bitcoin-shopping-spree-532-million-btc-buy",
+      "summary": "The software firm has added another 4,980 Bitcoin to its treasury, bringing its total holdings of the asset to nearly $64 billion at present."
+    },
+    {
+      "title": "Robinhood Launches Tokenized Stock and Perpetual Futures Trading in Europe",
+      "link": "https://decrypt.co/327523/robinhood-launches-tokenized-stock-perpetual-futures-trading-europe",
+      "summary": "The company unveiled several other features for crypto users in the U.S. and Europe."
+    },
+    {
+      "title": "Ten New Wallets Added to WalletConnect Certified Program",
+      "link": "https://decrypt.co/327785/ten-new-wallets-added-to-walletconnect-certified-program",
+      "summary": "WalletConnect Certified recognizes projects that offer a world-class user experience\u2014giving developers \"a clear framework for excellence.\""
+    },
     {
       "title": "Metaplanet Adds $104M in BTC, Testing Limits of Bitcoin Treasury Plan",
       "link": "https://decrypt.co/327759/metaplanet-adds-104m-in-btc-testing-limits-of-bitcoin-treasury-plan",
@@ -144,33 +159,18 @@
       "title": "Spanish Police Dismantle $540 Million 'Crypto Investment Fraud Ring'",
       "link": "https://decrypt.co/327751/spanish-police-dismantle-540-million-crypto-investment-fraud-ring",
       "summary": "Five were arrested in connection with the years-long investigation, which involved law enforcement from Spain, Estonia, France and the U.S."
-    },
-    {
-      "title": "Barclays Joins List of UK Banks Restricting Credit Card Crypto Buys",
-      "link": "https://decrypt.co/327743/barclays-joins-list-of-uk-banks-restricting-credit-card-crypto-buys",
-      "summary": "The bank\u2019s move comes after reports that the Financial Conduct Authority is seeking to ban crypto purchases using credit."
-    },
-    {
-      "title": "Netflix\u2019s \u2018Squid Game\u2019 Creator Compares Rich Villains to Elon Musk",
-      "link": "https://decrypt.co/327740/netflixs-squid-game-creator-compares-rich-villains-elon-musk",
-      "summary": "The creator says the show\u2019s billionaire villains now mirror figures like Elon Musk, as Season 3 sharpens its critique of visible oligarch power."
-    },
-    {
-      "title": "Hong Kong's Upcoming Stablecoin Rules to Shake Up US Dollar Dominance, Deter Bigger Players",
-      "link": "https://decrypt.co/327737/hong-kong-stablecoin-rules-us-dollar-dominance",
-      "summary": "The city has aligned its fintech push with China's de-dollarization efforts as new stablecoin laws take effect in August."
     }
   ],
   "CryptoBriefing": [
     {
+      "title": "SEC to rule on Grayscale\u2019s proposal to convert Bitcoin, Ether, XRP, and ADA large-cap fund into a spot ETF",
+      "link": "https://cryptobriefing.com/crypto-etf-approval-grayscale/",
+      "summary": "<p>Approval could set a precedent for broader crypto ETF adoption, potentially transforming investment landscapes and regulatory approaches.</p> <p>"
+    },
+    {
       "title": "Ripple-backed XRP Ledger launches EVM-compatible sidechain to unlock cross-chain DeFi",
       "link": "https://cryptobriefing.com/xrpl-evm-sidechain-cross-chain-defi/",
       "summary": "<p>The launch of the EVM-compatible sidechain on the XRP Ledger could significantly enhance cross-chain DeFi, fostering broader blockchain interoperability.</p> <p>"
-    },
-    {
-      "title": "Kraken debuts tokenized stock trading for Apple, Tesla, and other major US equities",
-      "link": "https://cryptobriefing.com/kraken-tokenized-stock-trading/",
-      "summary": "<p>Kraken's xStocks could revolutionize global equity access, challenging traditional markets and enhancing blockchain's role in finance.</p> <p>"
     },
     {
       "title": "Kazakhstan plans to establish national crypto reserve using seized and state-mined assets",
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Metaplanet just bought $108M in Bitcoin \u2014 Now it\u2019s bigger than Tesla, Coinbase!",
+      "link": "https://ambcrypto.com/metaplanet-just-bought-108m-in-bitcoin-now-its-bigger-than-tesla-and-coinbase/",
+      "summary": "<img alt=\"Metaplanet just bought $108M in Bitcoin \u2014 Now it\u2019s bigger than Tesla and Coinbase!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Metaplanet-FI-.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A 10% pump followed its latest BTC purchase."
+    },
+    {
       "title": "Bow Miner shocks the cryptocurrency world: 580 TH/s mining speed, 33 BTC mined in 24 hours!",
       "link": "https://ambcrypto.com/bow-miner-shocks-the-cryptocurrency-world-580-th-s-mining-speed-33-btc-mined-in-24-hours/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"430\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-30-192913.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"743\" /> On June 29, 2025, Bow Miner used a distributed mining machine with only 580 computing [&#8230;]"
@@ -208,11 +213,6 @@
       "title": "Is XRP gearing for a breakout? \u2013  These metrics say YES, only if\u2026",
       "link": "https://ambcrypto.com/is-xrp-gearing-for-a-breakout-these-metrics-say-yes-only-if/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Samyukhtha-4-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Mid-term conviction and rising coin age hint at a maturing investor base building toward resistance."
-    },
-    {
-      "title": "Ethereum beats Bitcoin in Q2, but is BTC still the safer long-term bet?",
-      "link": "https://ambcrypto.com/ethereum-beats-bitcoin-in-q2-but-is-btc-still-the-safer-long-term-bet/",
-      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-26.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum leads the quarter, but is Bitcoin quietly winning the cycle?"
     }
   ]
 }
