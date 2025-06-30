@@ -1,6 +1,6 @@
 ---
 title: "Arbitrum Revolution: Layer-2 Scaling, Governance & Orbit Sidechain Spotlight"
-date: 2025-06-29T00:00:00-05:00
+date: 2025-06-29T00:05:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "Comprehensive Arbitrum layer-2 Ethereum scaling analysis June 2025—covering ARB token governance updates, Nitro upgrade performance, Orbit sidechain launch news, TVL growth, and weekend trading strategies."
