@@ -1,6 +1,6 @@
 ---
 title: "What Is Cryptocurrency and How Does It Work? A Comprehensive Beginner’s Guide"
-date: 2025-06-30T10:00:00-05:00
+date: 2025-06-30T00:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "An in-depth beginner’s guide to cryptocurrency—explaining what cryptocurrency is, how blockchain works, methods to get started, top coins for beginners, and recommended resources with affiliate links for exchanges and wallets."
