@@ -270,7 +270,7 @@ Description: Homepage template with SEO enhancements
               <img src="/blog_banner.png" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
             </a>
           </div>
-          {{ $recent := first 1 $blogSection.Pages.ByDate.Reverse }}
+          {{ $recent := first 3 $blogSection.Pages.ByDate.Reverse }}
           {{ range $recent }}
           <article style="margin-bottom: 1.5rem;">
             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
