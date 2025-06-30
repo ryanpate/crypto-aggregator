@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "BitMine Immersion Stock Triples as it Raises $250M for Ether Treasury, Adds Thomas Lee to Board",
+      "link": "https://www.coindesk.com/markets/2025/06/30/bitmine-immersion-stock-triples-as-it-adds-thomas-lee-to-board-raises-250m-for-ether-treasury-strategy",
+      "summary": ""
+    },
+    {
+      "title": "CoinDesk 20 Performance Update: Filecoin (FIL) Gains 7.3% as Index Climbs Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/06/30/coindesk-20-performance-update-filecoin-fil-gains-7-3-as-index-climbs-higher",
+      "summary": ""
+    },
+    {
       "title": "Australian Fintech Eightcap Debuts CoinDesk20 CFD for Retail Traders",
       "link": "https://www.coindesk.com/business/2025/06/30/australian-fintech-eightcap-debuts-coindesk20-cfd-for-retail-traders",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Michael Saylor's Strategy Added 4,980 Bitcoin Last Week, Bringing Stack to 597,325 Coins",
       "link": "https://www.coindesk.com/markets/2025/06/30/michael-saylors-strategy-added-4980-bitcoin-last-week-bringing-stack-to-597325-coins",
       "summary": ""
-    },
-    {
-      "title": "Spanish Police Arrest 5 in Suspected $540M Crypto Fraud Operation",
-      "link": "https://www.coindesk.com/policy/2025/06/30/spanish-police-arrest-5-in-suspected-540m-crypto-fraud-operation",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin-Gold Price Ratio's 10% Surge Greenlights Bullish Flag Pattern: Technical Analysis",
-      "link": "https://www.coindesk.com/markets/2025/06/30/bitcoin-gold-price-ratio-s-10-surge-greenlights-bullish-flag-pattern-technical-analysis",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "BitMine raises $250M to launch Ethereum corporate treasury",
+      "link": "https://cointelegraph.com/news/bitmine-receives-250m-investment-to-fund-its-ethereum-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA2MWEtNGM1Ny03MWFjLTgxMmUtNjJjMmZhZTkyZjI2.jpg\" /></p><p>BitMine Immersion Technologies raised $250 million through a private placement to establish an Ethereum treasury, signaling a shift away from its previous Bitcoin-centric approach.</p>"
+    },
+    {
+      "title": "Bitcoin hashrate down 15%, 26 firms add BTC to balance sheets: June in charts",
+      "link": "https://cointelegraph.com/news/bitcoin-hashrate-btc-balance-sheets-june-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwNjctMDA0OC03OWE3LTlkMTMtOWQwOGM3NGU0NDQw.jpg\" /></p><p>Bitcoin adoption grew considerably in June, with 26 firms adding it to their balance sheets; meanwhile, Bitcoin\u2019s hashrate fell 15%.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Bitcoin\u2019s new all-time high now \u2018inevitable\u2019 as BTC price eyes liquidity at $109K",
       "link": "https://cointelegraph.com/news/bitcoin-new-all-time-high-now-inevitable-btc-price-liquidity-109k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwYWItZWVmNy03NDhkLWFmY2YtZDExNjlmYTk0OGQ3.jpg\" /></p><p>Bitcoin's price hovered around $107,000, showing technical strength as BTC\u2019s chance of rising to new all-time highs appears to be increasing, new analysis suggested.</p>"
-    },
-    {
-      "title": "Strategy buys $531M of Bitcoin as sentiment rebounds above $107K",
-      "link": "https://cointelegraph.com/news/strategy-buys-4980-bitcoin-sentiment-rebounds-107k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM3ZmItYmU1MC03Mjc1LTlkMjUtNWEzNzY3YjAyMmNj.jpg\" /></p><p>Michael Saylor\u2019s Strategy now holds 597,325 BTC, purchased for about $42.4 billion at an average price of $70,982 per coin.</p>"
-    },
-    {
-      "title": "Chainlink reveals compliance standard, targets $100T institutional crypto flows",
-      "link": "https://cointelegraph.com/news/chainlink-compliance-engine-100t-in-institutional-capital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwNjgtMmI0Yy03N2YzLWFkYjAtYzJlYjJmNzE3ZjM3.jpg\" /></p><p>The new compliance solution may cut billions in compliance costs for institutions looking to invest in the crypto economy.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bow Miner shocks the cryptocurrency world: 580 TH/s mining speed, 33 BTC mined in 24 hours!",
+      "link": "https://ambcrypto.com/bow-miner-shocks-the-cryptocurrency-world-580-th-s-mining-speed-33-btc-mined-in-24-hours/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"430\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-30-192913.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"743\" /> On June 29, 2025, Bow Miner used a distributed mining machine with only 580 computing [&#8230;]"
+    },
+    {
+      "title": "Can FARTCOIN do what Dogecoin\u2019s price never did?",
+      "link": "https://ambcrypto.com/can-fartcoin-do-what-dogecoins-price-never-did/",
+      "summary": "<img alt=\"Can FARTCOIN do what Dogecoin&#039;s price never did?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika1-1-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Is FARTCOIN quietly stepping into the role DOGE was supposed to play?"
+    },
+    {
       "title": "Bitcino Casino: The AI-powered crypto casino changing the game in web3 gambling",
       "link": "https://ambcrypto.com/bitcino-casino-the-ai-powered-crypto-casino-changing-the-game-in-web3-gambling/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"536\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-30-175218.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"897\" />In the world of crypto gambling, most online casinos follow the same formula. Bitcino is [&#8230;]"
@@ -203,16 +213,6 @@
       "title": "Ethereum beats Bitcoin in Q2, but is BTC still the safer long-term bet?",
       "link": "https://ambcrypto.com/ethereum-beats-bitcoin-in-q2-but-is-btc-still-the-safer-long-term-bet/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-26.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ethereum leads the quarter, but is Bitcoin quietly winning the cycle?"
-    },
-    {
-      "title": "Bitcoin: Despite $11B ETF inflows, BTC stalls below $110K \u2013 Reasons?",
-      "link": "https://ambcrypto.com/bitcoin-despite-11b-etf-inflows-btc-stalls-below-110k-reasons-are/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Bitcoin-1.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Here's expert views on what's keeping BTC from breaking above $111K."
-    },
-    {
-      "title": "ARB crypto defends $0.30, surges 21% \u2013 Will $0.40 be next?",
-      "link": "https://ambcrypto.com/arb-crypto-defends-0-30-surges-21-will-0-40-be-next/",
-      "summary": "<img alt=\"Arbitrum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-21.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can Arbitrum flip $0.4, or is this price uptick just a fluke"
     }
   ]
 }
