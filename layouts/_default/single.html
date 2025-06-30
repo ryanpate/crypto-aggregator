@@ -5,36 +5,16 @@
     <h1 class="title">{{ .Title }}</h1>
     <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
 
-    <!-- AdSense In-Article Ad -->
-    <div style="text-align:center; margin:2rem 0;">
-      <ins class="adsbygoogle"
-           style="display:block; max-width:728px; margin:0 auto;"
-           data-ad-client="ca-pub-5523870768931777"
-           data-ad-slot="5523870768931777"
-           data-ad-format="auto">
-      </ins>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-    </div>
+    <!-- In-Article Ad -->
+    {{ partial "adsense.html" . }}
 
     <!-- Post Content -->
     <div class="content is-size-7">
       {{ .Content }}
     </div>
 
-    <!-- (Optional) Footer Ad -->
-    <div style="text-align:center; margin:3rem 0;">
-      <ins class="adsbygoogle"
-           style="display:block"
-           data-ad-client="ca-pub-5523870768931777"
-           data-ad-slot="5523870768931777"
-           data-ad-format="auto">
-      </ins>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-    </div>
+    <!-- Footer Ad -->
+    {{ partial "adsense.html" . }}
 
   </div>
   
