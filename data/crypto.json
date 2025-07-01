@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Congress' Budget Bill Advances From Senate Without Crypto Tax Provision",
+      "link": "https://www.coindesk.com/policy/2025/07/01/congress-budget-bill-advances-from-senate-without-crypto-tax-provision",
+      "summary": ""
+    },
+    {
+      "title": "Is Crypto Ready for Q-Day?",
+      "link": "https://www.coindesk.com/opinion/2025/07/01/is-crypto-ready-for-q-day",
+      "summary": ""
+    },
+    {
       "title": "Litecoin Slides as ETF Optimism Battles Wider Market Slowdown",
       "link": "https://www.coindesk.com/markets/2025/07/01/litecoin-slides-as-etf-optimism-battles-wider-market-slowdown",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "NEAR Protocol Falls 2% as Support Level Faces Critical Test",
       "link": "https://www.coindesk.com/markets/2025/07/01/near-protocol-falls-2-as-support-level-faces-critical-test",
       "summary": ""
-    },
-    {
-      "title": "ATOM Plunges Below $4 as Selling Pressure Intensifies",
-      "link": "https://www.coindesk.com/markets/2025/07/01/atom-plunges-below-usd4-as-selling-pressure-intensifies",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Cash Surges 5%, Chalks Out Bullish Golden Cross Against BTC",
-      "link": "https://www.coindesk.com/markets/2025/07/01/bitcoin-cash-surges-5-chalks-out-bullish-golden-cross-against-btc",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Pi news update: Bulls aim to hold $0.47 support as bears reject breakout",
+      "link": "https://cointelegraph.com/news/pi-news-update-bulls-aim-to-hold-dollar0-47-support-as-bears-reject-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2N2ItOTdlNi03M2JkLWEzMzUtZGRiY2FhN2JkMDUw.jpg\" /></p><p>Pi price turned bearish after key updates failed to boost momentum. A rebound from $0.47 is possible, but $0.66 remains a strong resistance level to clear.</p>"
+    },
+    {
+      "title": "Crypto PAC-backed candidate wins Virginia primary for vacant House seat",
+      "link": "https://cointelegraph.com/news/crypto-backed-candidate-virginia-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MyOWItMzVjMy03YjZiLWIyZTYtODNhOGY0YjNhNzVi.jpg\" /></p><p>Protect Progress, an affiliate of the cryptocurrency-backed Fairshake PAC, spent more than $1 million on media buys to support Democratic candidate James Walkinshaw.</p>"
+    },
     {
       "title": "How to set up stop-loss and take-profit orders",
       "link": "https://cointelegraph.com/news/how-to-set-up-stop-loss-and-take-profit-orders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Crypto hacks are a wake-up call for DeFi",
       "link": "https://cointelegraph.com/news/crypto-hacks-are-a-wake-up-call-for-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1NzEtY2FhMC03MTk3LTg2OGEtMWQ1NzQzOWRjZDI3.jpg\" /></p><p>Crypto hacks underscore the urgent need for CEXs and DeFi to overhaul their security, collaborate on risk management and embrace self-regulation.</p>"
-    },
-    {
-      "title": "Moody\u2019s brings credit ratings onchain via Solana, explained",
-      "link": "https://cointelegraph.com/explained/moodys-brings-credit-ratings-onchain-via-solana-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xOWIyZmQyNDZmYjEzNjBhN2U1NjZhYzhhOGQ4OWNiMC5qcGc=.jpg\" /></p><p>Moody\u2019s and Alphaledger\u2019s pilot on Solana shows how traditional credit ratings can be embedded directly into tokenized bonds.</p>"
-    },
-    {
-      "title": "FATF\u2019s crypto checklist hints at the next regulatory crackdown",
-      "link": "https://cointelegraph.com/news/fatf-crypto-checklist-hints-next-regulatory-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmYxZTItZWI5MC03NjEwLWEwOWItMWU2Y2U4N2Y2MDcx.jpg\" /></p><p>The FATF is shaping global crypto rules from behind the scenes, with stablecoins and DeFi next in line for scrutiny.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Tuttle\u2019s new ETFs could offer 2x gains or losses on SOL, TRUMP, XRP, and more starting July 16",
+      "link": "https://cryptoslate.com/tuttles-new-etfs-could-offer-2x-gains-or-losses-on-sol-trump-xrp-and-more-starting-july-16/",
+      "summary": "<p>Tuttle Capital has filed an amendment to shift the effective date for a series of crypto and meme-related leveraged exchange-traded funds (ETFs) to July 16. This move, first reported by Bloomberg&#8217;s ETF analyst Eric Balchunas on July 1, could signal the imminent launch of 10 new leveraged funds. These ETFs are poised to offer double [&#8230;]</p> <p>"
+    },
     {
       "title": "Kraken Elected as Super Representative on the TRON Network",
       "link": "https://cryptoslate.com/kraken-elected-as-super-representative-on-the-tron-network/",
@@ -73,14 +78,14 @@
       "title": "South Korea halts CBDC plans, shifting focus to bank-led stablecoins",
       "link": "https://cryptoslate.com/south-korea-halts-cbdc-plans-shifting-focus-to-bank-led-stablecoins/",
       "summary": "<p>Local reports indicate that South Korea\u2019s central bank has suspended its central bank digital currency (CBDC) pilot program, pivoting the nation\u2019s focus toward a private, bank-led stablecoin initiative. The Bank of Korea (BOK) halted its &#8220;Project Han River,&#8221; following mounting pressure from commercial banking partners who cited prohibitive costs and the absence of a viable [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Connecticut closes door on Bitcoin, mandates strict disclosure for crypto firms",
-      "link": "https://cryptoslate.com/connecticut-bans-bitcoin-use-for-state-investment/",
-      "summary": "<p>Connecticut has taken a firm stance against government involvement in digital assets like Bitcoin. On June 30, Governor Ned Lamont signed a new bill into law that bans state agencies from investing in crypto, including Bitcoin. The legislation, known as House Bill 7082, also prevents state entities from accepting these assets as payment for any [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Indecision Masks A Bullish Setup \u2013 Here\u2019s Why BTC Holds The Key",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-indecision-close/",
+      "summary": "CRYPTOWZRD, in his latest update on X, highlighted Ethereum&#8216;s indecisive close, suggesting the market is still searching for clear direction. Despite the uncertainty, he remains optimistic, noting that both Bitcoin and BTC dominance are showing strength that could benefit ETH in the near term, with $2,800 marked as the next major resistance. Mixed Signals Across Ethereum Key Timeframes In"
+    },
     {
       "title": "Here\u2019s What Will Happen If The Bitcoin Price Can Manage A Clean Break Above $108,500",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-break-above-108500/",
@@ -100,11 +105,6 @@
       "title": "XRP Breaks Out Across The Board\u2014But One Thing\u2019s Missing",
       "link": "https://www.newsbtc.com/xrp-news/xrp-breaks-out-across-the-board-but-one-things-missing/",
       "summary": "XRP has slipped the leash that has restrained it since the mid-January peak at $3.40, with the latest weekly candle closing a fraction above the descending trend-line that has defined the upper boundary of its six month trendline. At press time the token is quoting $2.22 on major spot venues, having tagged an intraday high of $2.31 a few hours after the weekly open. XRP Flashes Triple Breakout The technical alignment behind today\u2019s move is unusually tight. The price itself has edged through trend-line resistance traced from the 16 January swing high, but the same behaviour is evident beneath the surface. On the momentum pane the weekly relative-strength index, muted since late March, has poked above its own falling resistance line at 54, ending a sequence of lower RSI highs that mirrored each failed rally in price. A similar story is unfolding on the WaveTrend Oscillator: the fast and slow signal lines have curled upward and printed a tentative positive cross just below the zero-line. Taken together, the trifecta\u2014price above pennant roof, RSI above trend-line, WTO signals turning\u2014constitutes what technicians refer to as confluence: three independent tools broadcasting the same directional bias on the same timeframe. The only missing ingredient is conviction in volume. Seasoned chart-watchers will want to see that metric expand in the coming sessions to validate the move. Related Reading: Analyst Reveals Rational Behind XRP Price Reaching $9.5 And $37.5 Independent analyst Maelius (@MaeliusCrypto), who posted the chart that first drew the community\u2019s attention, summed up the state of play in a single line: \u201cXRP teasing us with a breakout! Asking for volume to follow!\u201d The plea is well-placed. Trendline resolutions that lack a parallel surge in activity are prone to fail-back tests; a decisive influx of bids is required to flip the freshly conquered trend-line into reliable support. Support for the bullish case is also visible on slower-moving gauges. The 50-week exponential moving average now rises through $1.84, its steepest positive slope in more than two years, and the current candle sits comfortably above that long-term trend proxy. Related Reading: Wave 3 Ignites As XRP Breaks Structure\u2014Analyst Says \u2018Fireworks Ahead\u2019 Should the breakout hold and attract the liquidity Maelius is watching for, classical chart theory projects an initial objective near the midpoint of January\u2019s supply shelf around $3.00. A weekly close back beneath the trend-line, by contrast, would neutralise the pattern and expose the high-volume node at the demand zone near $2.0 and the $1.84 price tag if bears regain momentum. For now the market is balanced on the knife-edge between promise and proof. Price, RSI and WTO have all stepped over their respective fault lines; only the tape itself remains to confirm that traders are prepared to follow through. Whether this triple breakout marks the beginning of XRP\u2019s next leg higher\u2014or merely another feint within a larger consolidation\u2014will be determined in the sessions ahead. At press time, XRP traded at $2.21. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Shopping Spree: Strategy Continues Accumulation With $530M Purchase",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-shopping-spree-strategy-continues-accumulation-with-530m-purchase/",
-      "summary": "Strategy (previously MicroStrategy), the leading corporate holder of Bitcoin (BTC), is on the verge of reaching a significant milestone as it approaches the acquisition of 600,000 tokens. In its latest move, the company purchased 4,980 Bitcoin between June 23 and June 29 for an average price of $106,801 each, totaling approximately $531.9 million. This latest purchase has brought the company\u2019s total Bitcoin holdings to 597,325, acquired for around $42.4 billion. Strategy Shares Surge 4.7% Despite Bitcoin&#8217;s price remaining relatively stable at around $107,000 and $107,500 over the past 24 hours, Strategy&#8217;s shares, MSTR, increased by 4.7% to $402.07 on Monday, reflecting investor confidence in the company&#8217;s financial moves. The value of Strategy&#8217;s Bitcoin holdings now stands at roughly $64 billion. Related Reading: Wave 3 Ignites As XRP Breaks Structure\u2014Analyst Says \u2018Fireworks Ahead\u2019 Funding for these latest acquisitions came through the sale of stock under various at-the-market offerings. Benchmark analyst Mark Palmer noted that the company&#8217;s Bitcoin yield, which measures the change in the ratio of its Bitcoin holdings to total shares outstanding, was 19.7% between January 1 and June 29. Strategy&#8217;s Chairman, Michael Saylor, who is often regarded as one of Bitcoin&#8217;s most vocal advocates, hinted at the recent purchase in a social media post over the weekend. He stated, \u201cIn 21 years, you\u2019ll wish you\u2019d bought more,\u201d alongside a chart illustrating the performance of Strategy\u2019s Bitcoin portfolio since its initial investment in late 2020, which shows the aggressive purchases that have increased over the past year. Bitcoin Price Hovers Around $107,000 Interestingly, the company had made a smaller purchase of 245 Bitcoins between June 16 and June 22, considerably less than its usual massive acquisitions. For context, Strategy had previously acquired 10,100 Bitcoins in just six days during the period from June 9 to June 15. This shows that while the company often makes large purchases, it can also vary its acquisition strategy based on market conditions. Over the past month, the market\u2019s leading cryptocurrency has seen a notable volatility spike with prices failing to tackle its current record price of $111,800 reached during last month\u2019s rally. Related Reading: Solana Forms Bullish Flag On Daily Chart \u2014 Breakout Imminent? Since, Bitcoin has managed to endure subsequent price drops, with the most recent plunging BTC toward the $98,000 zone. However, the cryptocurrency has managed to record a 2.4% recovery on the weekly time frame, currently consolidating at $107,000. Originally founded as an enterprise software firm, Strategy has transformed into a leveraged play on Bitcoin, allowing investors to gain exposure to cryptocurrency without directly owning it. Since August 2020, the company has consistently increased its Bitcoin reserves by selling stock and debt. This has prompted criticism from analysts who believe this could be dangerous if the Bitcoin price drops below the firm\u2019s average buying price. Featured image from DALL-E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "'Reset Button for the Degen Soul': Ethereum Coin Flip Game Pairs Gambling With AI-Powered Vibes",
+      "link": "https://decrypt.co/327988/reset-button-degen-soul-ethereum-coin-flip-game-gambling-ai-vibes",
+      "summary": "Gambling on a coin flip isn\u2019t bad odds when you\u2019ve spent all day in the meme coin trenches\u2014plus Token Yugijo gives you an AI-powered pal."
+    },
+    {
+      "title": "Bitcoin Cash Has Reached a 7-Month High\u2014Analysts Explain the Rally",
+      "link": "https://decrypt.co/328032/bitcoin-cash-7-month-high",
+      "summary": "Bitcoin Cash hits 7-month high at $519, up 29% monthly on whale buying spree, but momentum may be cooling as big player activity drops 90%."
+    },
+    {
       "title": "Coinbase Sags After Dual Blow of Supreme Court Decision, Ark Share Sale",
       "link": "https://decrypt.co/327979/coinbase-sags-ark-invest-supreme-court",
       "summary": "Coinbase faces legal setback and $95M selloff but analysts see upside potential and are predicting $1.33 per share gain in Q2 earnings."
@@ -149,19 +159,14 @@
       "title": "Bitcoin Layer-2 Network Botanix Launches Mainnet, Touts Decentralization 'From the Start'",
       "link": "https://decrypt.co/327891/bitcoin-layer-2-network-botanix-mainnet-touts-decentralization",
       "summary": "Botanix, a Bitcoin layer-2 blockchain, launched its mainnet Tuesday as it attempts to bring more DeFi capabilities to the BTC network."
-    },
-    {
-      "title": "Feds Charge Man With $1.7M Scheme to Convert Fake Checks Into Bitcoin",
-      "link": "https://decrypt.co/327970/feds-charge-man-with-1-7m-scheme-to-convert-fake-checks-into-bitcoin",
-      "summary": "The alleged scheme involved laundering the proceeds of counterfeit checks and business email compromise scams into Bitcoin."
-    },
-    {
-      "title": "Bitget Wallet Launches Crypto-Linked Mastercard in Partnership with Immersve",
-      "link": "https://decrypt.co/327952/bitget-wallet-launches-crypto-linked-mastercard-in-partnership-with-immersve",
-      "summary": "The card will initially launch in the UK and the European Union, before rolling out later in Latin America, Australia and New Zealand."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "SEC approves Grayscale\u2019s proposal to convert BTC, ETH, XRP, ADA large-cap fund into a spot ETF",
+      "link": "https://cryptobriefing.com/crypto-spot-etf-sec-approval/",
+      "summary": "<p>The SEC's approval signals growing acceptance of crypto assets in traditional finance, potentially boosting market legitimacy and investor access.</p> <p>"
+    },
     {
       "title": "SEC considers allowing crypto ETFs to launch without 19b-4 filing",
       "link": "https://cryptobriefing.com/crypto-etf-approval-sec/",
@@ -181,14 +186,14 @@
       "title": "Connecticut governor signs law blocking state from establishing Bitcoin, crypto reserves",
       "link": "https://cryptobriefing.com/connecticut-bitcoin-purchase-ban/",
       "summary": "<p>Connecticut's crypto ban may limit innovation in digital finance, contrasting with states exploring crypto reserves, impacting future tech adoption.</p> <p>"
-    },
-    {
-      "title": "World.fun rolls out new launch model with debut of AI Shark Tank",
-      "link": "https://cryptobriefing.com/ai-shark-tank-world-launch/",
-      "summary": "<p>World.fun launches new platform for AI-powered simulations, kicking off with AI Shark Tank and a token model based on real user interaction.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Bitcoin loses 50% whale flow! 2 reasons why BTC can still survive",
+      "link": "https://ambcrypto.com/bitcoin-loses-50-whale-flow-2-reasons-why-btc-can-still-survive/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/5F743ECA-E3D3-4AB0-8718-A5F9BEB6E128.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin whales vanished fast, but are they gone for good?"
+    },
     {
       "title": "Ethereum Futures spike against Bitcoin: What the 98% volume ratio means",
       "link": "https://ambcrypto.com/ethereum-futures-spike-against-bitcoin-what-the-98-volume-ratio-means/",
@@ -208,11 +213,6 @@
       "title": "How OppiWallet\u2019s virtual and physical cards eliminate the crypto-to-fiat hassle",
       "link": "https://ambcrypto.com/how-oppiwallets-virtual-and-physical-cards-eliminate-the-crypto-to-fiat-hassle/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"521\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-144027.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"928\" />OppiWallet today highlighted how its dual virtual and physical cards eliminate the barriers between crypto [&#8230;]"
-    },
-    {
-      "title": "Can XRP make a Q3 comeback, rattle Ethereum\u2019s dominance? Mapping\u2026",
-      "link": "https://ambcrypto.com/can-xrp-make-a-q3-comeback-rattle-ethereums-dominance-mapping/",
-      "summary": "<img alt=\"Can XRP make a Q3 comeback, rattle Ethereum&#039;s dominance? Mapping...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple vs Ethereum: Funding rates rise, ratio rebounds at support."
     }
   ]
 }
