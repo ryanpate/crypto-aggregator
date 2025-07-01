@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin ETP With DeFi Yield Goes Live in Europe",
+      "link": "https://www.coindesk.com/markets/2025/07/01/bitcoin-etp-with-defi-yield-goes-live-in-europe",
+      "summary": ""
+    },
+    {
       "title": "Robinhood, Kraken-Backed Global Dollar (USDG) Comes to Europe",
       "link": "https://www.coindesk.com/business/2025/07/01/robinhood-kraken-backed-global-dollar-usdg-comes-to-europe",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Senator Seeks to Waive U.S. Taxes on Small-Scale Crypto Activity in Big Budget Bill",
       "link": "https://www.coindesk.com/policy/2025/06/30/senator-seeks-to-waive-us-taxes-on-small-scale-crypto-activity-in-big-budget-bill",
       "summary": ""
-    },
-    {
-      "title": "ETH Price Surges as $2.9B Inflows, EthCC, and Robinhood\u2019s L2 Fuel Bullish Sentiment",
-      "link": "https://www.coindesk.com/markets/2025/06/30/eth-price-surges-as-usd2-9b-inflows-ethcc-and-robinhood-s-l2-fuel-bullish-sentiment",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "DOJ charges 4 North Koreans in $1M crypto theft from blockchain startup",
+      "link": "https://cointelegraph.com/news/north-korean-it-workers-charged-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M0ZDItNGU4Mi03ZDllLTkwZmQtMjM5MmZkOGM0NmZi.jpg\" /></p><p>Four North Koreans posed as remote developers for US and Serbian blockchain firms, stealing almost $1 million in crypto to fund the regime\u2019s illicit programs.</p>"
+    },
+    {
+      "title": "Katana\u2019s mainnet debuts with $200M in active DeFi deposits",
+      "link": "https://cointelegraph.com/news/katana-defi-layer2-mainnet-launch-200m-productive-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwMjktMzRmYS03NmZiLWIzNTUtNDJiYzVjNDNiODNm.jpg\" /></p><p>Katana, a new DeFi-first layer-2 blockchain, launched with over $200 million in productive TVL, offering institutional-grade liquidity strategies and native asset support.</p>"
+    },
     {
       "title": "Trump\u2019s Big Beautiful Bill in overtime as senators jam crypto clauses",
       "link": "https://cointelegraph.com/news/trump-big-beautiful-bill-overtime-senators-cram-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Trump-linked American Bitcoin raises $220M for mining, treasury",
       "link": "https://cointelegraph.com/news/trump-linked-american-bitcoin-raises-220m-for-bitcoin-mining-ops-and-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2MzZDUtMjJmNi03YjI2LTljZmMtMDMwNWYxMjJjMjEw.jpg\" /></p><p>The raise includes a transaction of $10 million where the company accepted Bitcoin instead of cash.</p>"
-    },
-    {
-      "title": "Bitcoin sets record monthly close at $107K as analyst tips 9% rally",
-      "link": "https://cointelegraph.com/news/bitcoin-clocks-highest-monthly-close-of-all-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M0MmQtOWUwYy03NWRmLWI4YTEtZTYyMmYxZDEzYzZh.jpg\" /></p><p>Bitcoin closed June at a record monthly high of $107,100 despite forming a spinning top candlestick pattern that suggests market indecision.</p>"
-    },
-    {
-      "title": "Bitcoin \u2018vertical acceleration\u2019 off the table for now: Bitfinex",
-      "link": "https://cointelegraph.com/news/bitcoin-price-uptrend-lagging-onchain-metrics-traders-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY2ODgtYzEyNC03Mzc4LWJlMzUtNzllNmFhYTAwNDhm.jpg\" /></p><p>Bitfinex analysts say declining Bitcoin spot volume may indicate a \u201clocal top\u201d but all eyes will be on the performance of spot Bitcoin ETFs this week.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Solana Summer Loading? SOL Eyes $180 Following Staked ETF-Fueled Breakout",
+      "link": "https://www.newsbtc.com/news/solana-summer-loading-sol-eyes-180-following-staked-etf-fueled-breakout/",
+      "summary": "Solana (SOL) has retested a crucial resistance level after recovering the $150 level over the weekend. The surge, fueled by the upcoming launch of a SOL-based staked exchange-traded fund (ETF), has led some analysts to forecast a rally toward the next key target. Related Reading: Bitcoin Price At $145,000 In September? Bullish Dojis Suggest Upward Move Solana Staked ETFs Coming On Wednesday On Monday, Solana\u2019s price soared to a key resistance level following the introduction of \u201cthe first-ever Solana staked crypto ETF in the US.\u201d Rex Shares announced it will launch a Solana-based staked ETF this Wednesday, aiming to offer exposure to SOL and staking rewards. According to the X post, the REX-Osprey ETF will track SOL\u2019s performance while \u201cgenerating yield through on-chain staking,\u201d starting a \u201cnew era of yield-generating crypto exposure.\u201d As a result, Solana climbed to the $160 barrier, which led to nearly $9 million in short positions liquidated on Monday afternoon. Market Watcher Daan Crypto Trades considers Solana \u201cbounced nicely over the weekend\u201d but has yet to turn the Low Timeframe (LTF) trend around. He explained that reclaiming the $159-$167 area is necessary to aim for higher levels. Additionally, the Daily 200-day Moving Average (MA) and Exponential Moving Average (EMA) are currently located within this range. \u201cI would want to see price trade back above that to start targeting the $180-$200 region again,\u201d he detailed. Nonetheless, the trader questioned whether a Solana spot ETF-driven rally will fuel the cryptocurrency\u2019s run. Notably, multiple investment firms, including Grayscale, VanEck, 21Shares, and Bitwise, have filed with the Securities and Exchange Commission (SEC) to launch a spot SOL ETF in the US. According to recent reports, the investment products have a \u201chigh likelihood\u201d of being approved in the coming weeks, which has seemingly fueled investors\u2019 expectations of a bullish \u201cSolana Summer.\u201d \u201cThe big question is how much demand there will be,\u201d Daan asserted, noting that Ethereum (ETH) sport ETFs, approved in July 2024, had a disappointing launch and \u201conly started seeing decent inflows about a year later.\u201d SOL Ready For Another Breakout? Following the ETF-fueled breakout, analyst Hardy noted Solana\u2019s \u201cTextbook move, clean breakout, clean retest, and pump,\u201d which could trigger a run toward the $200 barrier. Notably, the cryptocurrency saw a remarkable performance over the weekend, reclaiming the $144-$148 crucial area and breaking past the $150 mark. Amid this performance, the analyst highlighted that Solana had broken out of its local downtrend line after reclaiming the $148 resistance and was retesting the breakout zone. He explained that there is \u201cJuicy liquidity sitting above, ready to be taken,\u201d adding that Solana needed to hold the $150 support to continue its bullish run toward the next target. Related Reading: Analyst Reveals Rational Behind XRP Price Reaching $9.5 And $37.5 Meanwhile, analyst Crypto Batman considers that Solana is \u201csetting up very nicely\u201d after the $160 retest. Per"
+    },
+    {
       "title": "Ethereum At Risk? If $2,200 Cracks, $1,160 May Be Coming",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-risk-2200-cracks-1160-may-be-coming/",
       "summary": "Ethereum currently has strong support at $2,200, but one analyst has pointed out that if the level fails, the next region to watch could be $1,160. On-Chain Data Shows Strong Ethereum Demand Zone Near $2,200 In a new post on X, analyst Ali Martinez has talked about where support lies for Ethereum based on on-chain data. In on-chain analysis, levels are considered as major support/resistance zones if they host the cost basis or acquisition level of a significant part of the ETH supply. The reason behind this lies in the fact that investors are more likely to show some kind of reaction when the retest of their break-even level takes place. This buying/selling is irrelevant to the wider market if only a few holders are having it tested at once, but the story can be different when the retest is of the cost basis of a large amount of them. Related Reading: Dogecoin Under Pressure: Only Top 10 Coin Where Loss-Taking Exceeds Profit Below is the chart shared by the analyst that shows how the different price levels around the current Ethereum spot price are currently looking in terms of the amount of supply that was purchased at them. In the graph, the size of the dot corresponds to the amount of Ethereum supply contained within the associated price range. It would appear that, out of the ranges listed, the $2,218 to $2,396 levels currently have the largest dot, meaning that they host the most supply. More specifically, this range has the cost basis of 6.28 million addresses, who purchased a total of 67.2 million ETH at its levels. Given this fact, it&#8217;s possible that should a retest of the range occur, investors could show a strong reaction. But what kind of reaction would it be, buying or selling? Well, these investors are in profit right now and usually, such holders are more likely to double down on the asset during declines to their acquisition mark, as they may believe the same price level would turn out to be profitable again in the future. As such, the $2,218 to $2,396 range could end up acting as a strong support level for Ethereum. In the scenario that ETH falls below the lower end of the range around $2,200, however, it may have to rely on support elsewhere. Related Reading: XRP Down 3% After SEC Settlement Stalls, But Social Media Turns Bullish From the chart, it&#8217;s apparent that all the ranges below are much smaller in terms of supply. The next major support zone lies all the way down at $1,160, where 35.9 million addresses acquired 21.58 million tokens. Naturally, Ethereum doesn&#8217;t have to slip right through to this zone if $2,200 is lost, but if the data is to go by, it does suggest that the coin could have a harder time regaining footing below it. ETH Price Ethereum is holding above the on-chain demand zone for now as its price is floating around $2,475. Featured image from Dall-E, Sentora.com, chart from TradingView.com"
@@ -100,11 +105,6 @@
       "title": "XRP Price Surges, Then Cools \u2014 Will Bulls Return for Round Two?",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-surges-then-cools-2-20/",
       "summary": "XRP price started a steady increase above the $2.220 zone. The price is now correcting gains and might find bids near the $2.20 zone. XRP price started a fresh increase above the $2.220 zone. The price is now trading above $2.180 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2.20 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could gain bullish momentum if it clears the $2.280 resistance zone. XRP Price Regains Traction XRP price formed a base above the $2.120 level and started a fresh increase, beating Bitcoin and Ethereum. The price was able to climb above the $2.180 and $2.20 resistance levels. The pair even surged above the $2.30 level. A high was formed at $2.327 and the price is now correcting gains. There was a move below the $2.280 level. It dipped below the 50% Fib retracement level of the upward move from the $2.165 swing low to the $2.327 high. The price is now trading above $2.180 and the 100-hourly Simple Moving Average. Besides, there is a key bullish trend line forming with support at $2.20 on the hourly chart of the XRP/USD pair. It is close to the 76.4% Fib retracement level of the upward move from the $2.165 swing low to the $2.327 high. On the upside, the price might face resistance near the $2.280 level. The first major resistance is near the $2.30 level. The next resistance is $2.320. A clear move above the $2.320 resistance might send the price toward the $2.350 resistance. Any more gains might send the price toward the $2.40 resistance or even $2.450 in the near term. The next major hurdle for the bulls might be $2.50. Fresh Decline? If XRP fails to clear the $2.280 resistance zone, it could start another decline. Initial support on the downside is near the $2.220 level. The next major support is near the $2.20 level. If there is a downside break and a close below the $2.20 level, the price might continue to decline toward the $2.150 support. The next major support sits near the $2.120 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.220 and $2.20. Major Resistance Levels \u2013 $2.280 and $2.320."
-    },
-    {
-      "title": "Big Money Buys Ethereum as Retail FOMOs Into Bitcoin, What Happens Next?",
-      "link": "https://www.newsbtc.com/bitcoin-news/big-money-buys-ethereum-as-retail-fomos-into-bitcoin-what-happens-next/",
-      "summary": "Bitcoin and Ethereum both posted modest gains in the past week, with BTC rising 6.2% and ETH up by 9.6%. However, momentum appears to have paused at the start of the new week. As of Monday, Bitcoin trades just above $107,000 after a slight 0.6% daily dip, while Ethereum has remained flat over the past 24 hours. Analysts have turned to blockchain data and macro signals for cues on where the market may head next. Related Reading: Bitcoin Freezes Over $100,000 As OG Whales \u2018Dump On Wall Street\u2019: Expert Bitcoin and Ethereum Onchain Trend Recent insights from CryptoQuant Quicktake platform contributor Amr Taha provide some context behind the price action. In a detailed post, Taha noted that Ethereum inflows to Binance have continued for five consecutive days, a trend that could suggest either rising sell pressure or repositioning by major players. At the same time, data from Bitcoin\u2019s short-term holder (STH) Net Position Realized Cap shows a notable reversal, increasing from negative $49 billion to over $5 billion. This pattern is typically associated with increased activity from retail investors, especially during periods of upward price movement. Taha noted: Historically, spikes in (STH) occur near potential market tops, as retail investors tend to FOMO into Bitcoin rallies. While this doesn&#8217;t necessarily signal a reversal, it has often preceded short-term corrections or periods of sideways consolidation. Bitcoin\u2019s steady climb in June, despite occasional pullbacks, appears to have encouraged smaller investors to re-enter the market. In the case of Ethereum, another CryptoQuant analyst, \u201ccrypto sunmoon,\u201d pointed to continued accumulation by long-term holders during last month\u2019s price consolidation. This suggests a different dynamic is at play on the Ethereum side, with more patient capital building positions amid ongoing price suppression. Long-term holder accumulation often indicates growing confidence in an asset\u2019s future, even if current market conditions appear lackluster. US Policy and Macro Risk Add Layers to Market Outlook Beyond market behavior, external factors may also shape crypto price action. Amr Taha highlighted recent political developments in the United States, particularly former President Donald Trump\u2019s announcement of a proposed Senate bill promising wide-reaching tax cuts. The bill, which excludes taxes on tips, overtime, and Social Security income, could lead to an increase in consumer liquidity. If passed, this could impact investor appetite across both traditional and digital markets by temporarily boosting household spending power. Related Reading: Bitcoin Bears Are Taking Fresh Market Positions, But Are They Safe? However, not everybody is convinced of the bill\u2019s long-term implications. Tesla CEO Elon Musk warned that the measure, if not accompanied by spending cuts, could expand the federal deficit and lead to economic instability over time. Large fiscal imbalances often have ripple effects on monetary policy, potentially affecting interest rates, inflation expectations, and risk sentiment, all of which can influence investor behavior in crypto markets. Taha concluded: Geopolitical disturbances can significantly impact investor sentiment. In response, investors might reconsider their positions in asset markets, possibly moving away from riskier assets and equities toward more stable options like bonds or safe-haven currencies. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -117,9 +117,29 @@
       "title": "How Institutional Flows and Market Cycles Are Shifting",
       "link": "https://bitcoinmagazine.com/markets/how-institutional-flows-and-market-cycles-are-shifting",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/How-Institutional-Flows-and-Market-Cycles-Are-Shifting.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/markets/how-institutional-flows-and-market-cycles-are-shifting\" rel=\"nofollow\"> </a></p> <p>Is bitcoin going higher or lower? Fundamentals are still strong, and post-halving trends show a predictable pattern.</p> <p>"
+    },
+    {
+      "title": "Are Bitcoin Treasury Companies Ponzi Schemes?",
+      "link": "https://bitcoinmagazine.com/takes/are-bitcoin-treasury-companies-ponzis",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Gemini_Generated_Image_xrkcodxrkcodxrkc-1.jpeg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/takes/are-bitcoin-treasury-companies-ponzis\" rel=\"nofollow\"> </a></p> <p>Financial machines of perpetual motion don\u2019t work but bitcoin treasury companies are certainly trying. Why would this fad be any different?</p> <p>"
+    },
+    {
+      "title": "Vanadi Coffee Shareholders Approve \u20ac1 Billion Bitcoin Treasury Strategy",
+      "link": "https://bitcoinmagazine.com/news/vanadi-coffee-shareholders-approve-e1-billion-bitcoin-treasury-strategy",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Vanadi-Coffee.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/vanadi-coffee-shareholders-approve-e1-billion-bitcoin-treasury-strategy\" rel=\"nofollow\"> </a></p> <p>Shareholders of Vanadi Coffee have approved a plan to invest up to \u20ac1 billion in Bitcoin as part of a new strategy to manage the company\u2019s finances. This move puts the small caf\u00e9 chain, which runs six locations in Alicante, on track to become the largest publicly listed Bitcoin-holding company in Spain.&#160; According to an [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Strategy Acquires $531.9 Million in Bitcoin, Now Holds 597,325 BTC",
+      "link": "https://bitcoinmagazine.com/news/strategy-acquires-531-9-million-in-bitcoin-now-holds-597325-btc",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Strategy-Acquires-531.9-Million-in-Bitcoin-Now-Holds-597325-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/strategy-acquires-531-9-million-in-bitcoin-now-holds-597325-btc\" rel=\"nofollow\"> </a></p> <p>Strategy, formerly Microstrategy, has announced the acquisition of an additional 4,980 Bitcoin for approximately $531.9 million, according to a new SEC Form 8-K filed on June 30, 2025. The average purchase price was $106,801 per Bitcoin, inclusive of fees and expenses. The purchase was funded by an equity raise from June 23\u201329, 2025, across its [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Ubisoft Adds AI Agents to \u2018Captain Laserhawk\u2019 Game That Vote and Govern",
+      "link": "https://decrypt.co/327905/ubisoft-adding-ai-agents-captain-laserhawk-game-vote-govern",
+      "summary": "Blockchain game Captain Laserhawk: The G.A.M.E. is integrating AI agents that can make governance decisions on behalf of players."
+    },
     {
       "title": "Hut 8 Raises $220 Million as Trump-Linked Crypto Projects Forge Deeper Ties With UAE",
       "link": "https://decrypt.co/327944/hut-8-220-million-trump-linked-crypto-projects",
@@ -139,11 +159,6 @@
       "title": "Mark Zuckerberg Unveils New Meta AI Lab After Poaching OpenAI Talent",
       "link": "https://decrypt.co/327894/after-poaching-openai-talent-mark-zuckerberg-unveils-new-meta-ai-lab",
       "summary": "Meta is throwing huge bucks to lure away top talent in the high-stakes AI race, prompting the company to give its employees the week off to cool down."
-    },
-    {
-      "title": "Solana Advisor Nikita Bier Joins Elon Musk's X, Reigniting Crypto Payments Speculation",
-      "link": "https://decrypt.co/327908/solana-advisor-nikita-bier-joins-elon-musk-x-crypto-payments",
-      "summary": "Bier\u2019s announcement is fueling speculation about X's future crypto payment plans, including long-rumored Dogecoin integration."
     }
   ],
   "CryptoBriefing": [
@@ -175,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin faces whale exodus at $108K \u2014 Where does this leave retail?",
+      "link": "https://ambcrypto.com/bitcoin-faces-whale-exodus-at-108k-where-does-this-leave-retail/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/F655EB17-9F06-4A28-9C9A-8850997CCD4B.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders are loading up shorts, whales are vanishing. Will BTC trigger another flush?"
+    },
+    {
       "title": "PENGU\u2019s 50% price rally \u2013 How whale buys, ETF updates are fueling recovery",
       "link": "https://ambcrypto.com/pengus-50-price-rally-how-whale-buys-etf-updates-are-fueling-recovery/",
       "summary": "<img alt=\"PENGU&#039;s 50% price rally - How whale buys, ETF updates are fueling recovery\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/PENGU-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PENGU traders can wait for a minor price dip before buying."
@@ -193,11 +213,6 @@
       "title": "Solana stalls, whale dumps 240K SOL \u2013 Time to worry about the price?",
       "link": "https://ambcrypto.com/solana-stalls-whale-dumps-240k-sol-time-to-worry-about-the-price/",
       "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-22-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana faces whale sell pressure, but retail accumulation and futures activity hint at bullish recovery."
-    },
-    {
-      "title": "Identifying Cardano\u2019s next short-term target as bulls seek reversal",
-      "link": "https://ambcrypto.com/identifying-cardanos-next-short-term-target-as-bulls-seek-reversal/",
-      "summary": "<img alt=\"Identifying Cardano&#039;s next short-term target as bulls seek reversal\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Cardano-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Weak bearish pressure over the past week could allow ADA to establish a bullish structure."
     }
   ]
 }
