@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "EU Central Bank Commits to Distributed Ledger Technology Settlement Work",
+      "link": "https://www.coindesk.com/policy/2025/07/01/eu-central-bank-commits-to-distributed-ledger-technology-settlement-work",
+      "summary": ""
+    },
+    {
       "title": "Why Is Ether Struggling Near $2,400 Even as More Firms Add ETH to Their Treasuries?",
       "link": "https://www.coindesk.com/markets/2025/07/01/why-is-ether-struggling-near-usd2-400-even-as-more-firms-add-eth-to-their-treasuries",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "SEC Approves Grayscale ETF That Includes BTC, ETH, SOL, XRP, ADA",
       "link": "https://www.coindesk.com/markets/2025/07/01/sec-approves-grayscale-etf-that-includes-btc-eth-sol-xrp-ada",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Pulls Back to $106K After Record Monthly Close",
-      "link": "https://www.coindesk.com/markets/2025/07/01/bitcoin-pulls-back-after-record-monthly-close",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "SOL ETF news gain evaporates, while chart warns of another 20% drop",
+      "link": "https://cointelegraph.com/news/sol-etf-news-gain-evaporates-while-chart-warns-of-another-20percent-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg\" /></p><p>SOL retraced its ETF rally, and with over 14% of supply concentrated at $144, holding this key support is critical to avoid a deeper correction.</p>"
+    },
+    {
+      "title": "SEC approves conversion of Grayscale&#039;s large-cap crypto fund into ETF",
+      "link": "https://cointelegraph.com/news/sec-conversion-grayscale-large-cap-crypto-fund-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3ODQtNmJmNC03MTc1LWEyZGUtMDQwMTZhYjdmNTkz.jpg\" /></p><p>Grayscale has slowly narrowed the arbitrage opportunities on its crypto trusts by converting them into exchange-traded funds.</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Bitcoin at risk of deeper drop as BTC slips below key support levels",
       "link": "https://cointelegraph.com/news/bitcoin-at-risk-of-deeper-drop-as-btc-slips-below-key-support-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMTgtMTFiYS03NTU4LTk1ZTctNmM4MmZmMWY2MWJh.jpg\" /></p><p>A revisit to the $100,000 level seems likely now that BTC price slipped below two key support levels.</p>"
-    },
-    {
-      "title": "Bitcoin analysts say market quickly absorbs selling, paving way for a bullish July",
-      "link": "https://cointelegraph.com/news/bitcoin-analysts-say-market-quickly-absorbs-selling-paving-way-for-a-bullish-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmNGEtZTEwNi03OGRkLTliZTQtZDdlMTFhYTkxMTc4.jpg\" /></p><p>Bitcoin selling intensified this week, but data shows an assortment of buyers absorbing the flow.</p>"
-    },
-    {
-      "title": "Connecticut governor approves law prohibiting crypto use in government",
-      "link": "https://cointelegraph.com/news/connecticut-governor-signs-bill-law-prohibiting-crypto-government?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2YmEtZDM1ZS03ODgyLTk0ZDgtODNiNGE4NTIwNjRh.jpg\" /></p><p>Many provisions of the legislation, which received overwhelming support in the state House and Senate, take effect on Oct. 1.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ethereum dev Zack Cole launches initiative to fund \u2018tokenless\u2019 projects, promote ETH burning mechanisms",
+      "link": "https://cryptoslate.com/ethereum-dev-zack-cole-launches-initiative-to-fund-tokenless-projects-promote-eth-burning-mechanisms/",
+      "summary": "<p>Ethereum developer Zak Cole is spearheading a new initiative called the Ethereum Community Foundation (ECF), which will primarily work to enhance the digital asset&#8217;s economic value. The initiative was announced during the Ethereum Community Conference in Cannes, France. Founded by Cole and a group of ecosystem supporters, the ECF has reportedly already raised &#8220;millions&#8221; and [&#8230;]</p> <p>"
+    },
     {
       "title": "Figma discloses $70M Bitcoin exposure via Bitwise ETF in IPO filing, plans another $30M buy",
       "link": "https://cryptoslate.com/figma-discloses-70m-bitcoin-exposure-via-bitwise-etf-in-ipo-filing-plans-another-30m-buy/",
@@ -73,14 +78,14 @@
       "title": "Corporate treasuries double ETF Bitcoin buys in H1, signaling aggressive boardroom adoption",
       "link": "https://cryptoslate.com/corporate-treasuries-double-etf-bitcoin-buys-in-h1-signaling-aggressive-boardroom-adoption/",
       "summary": "<p>Public companies bought 245,510 Bitcoin (BTC) in the first half of the year, more than 2x higher than the 118,424 BTC absorbed by exchange-traded funds (ETFs) during the same period. The year-to-date figure marks a 375% jump from the 51,653 BTC corporations acquired in the first half of 2024. ETFs, by contrast, purchased 56% less [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SEC reportedly considering standard to fast-track crypto ETFs",
-      "link": "https://cryptoslate.com/sec-reportedly-considering-standard-to-fast-track-crypto-etfs/",
-      "summary": "<p>The Securities and Exchange Commission (SEC) is working with US exchanges on a generic listing framework for token-based exchange-traded funds (ETFs) that could eliminate the need for issuers to file individual rule-change requests, Fox News&#8217; Eleanor Terret reported on July 1. According to the report, the initiative would enable an ETF sponsor to bypass the customary [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Michael Saylor Drops $500 Million On Bitcoin\u2014What\u2019s His Next Move?",
+      "link": "https://www.newsbtc.com/news/bitcoin/michael-saylor-drops-500-million-on-bitcoin-whats-his-next-move/",
+      "summary": "MicroStrategy has just added another 4,980 Bitcoin to its stash, spending about $531 million at an average of $106,801 per coin. That brings the company\u2019s total haul to 597,325 BTC. Related Reading: Crypto Bombshell: Developer Claims XRP Could Hit $20,000 At today\u2019s market price, those holdings are worth over $64 billion, compared with the roughly $42.4 billion MicroStrategy (now Strategy) has put in, fees included. According to the June 30 filing with the US Securities and Exchange Commission, Strategy &#8211; led by billionaire Michael Saylor &#8211; is sitting on nearly $21.6 billion in unrealized gains. Strategic Bitcoin Push Strategy bought its latest batch during the week ending June 29. The firm has already snapped up 88,062 BTC worth nearly $10 billion so far this year. Back in 2024, the company picked up 140,538 BTC at a cost of $13 billion. Company data shows a Bitcoin yield of almost 20% year\u2011to\u2011date, with 7.8% gained in the second quarter alone. That edges Strategy closer to its goal of a 25% yield by the end of 2025. Strategy has acquired 4,980 BTC for ~$531.9 million at ~$106,801 per bitcoin and has achieved BTC Yield of 19.7% YTD 2025. As of 6/29/2025, we hodl 597,325 $BTC acquired for ~$42.40 billion at ~$70,982 per bitcoin. $MSTR $STRK $STRF $STRD https://t.co/xvWnSkfukS \u2014 Michael Saylor (@saylor) June 30, 2025 Corporate Treasury Trend Strategy now controls almost 3% of all the Bitcoin ever mined out of the 21 million cap. That dominance has inspired 134 publicly traded firms to follow suit, adding Bitcoin to their corporate treasuries. Recent adopters include Twenty One, US President Donald Trump\u2019s media firm Trump Media, and GameStop. In Japan, Metaplanet added 1,005 BTC this week to bring its total to 13,350 BTC. Over in Europe, The Blockchain Group bought 60 BTC, lifting its holdings to 1,788 BTC valued at around \u20ac161.3 million. \ud83d\udfe0 The Blockchain Group has acquired 60 BTC for ~\u20ac5.5 million at ~\u20ac91,879 per bitcoin and has achieved BTC Yield of 1,270.7% YTD, 69.3% QTD. As of 6/30/2025, $ALTBG holds 1,788 $BTC for ~\u20ac161.3 million at ~\u20ac90,213 per bitcoin\u26a1\ufe0f@_ALTBG Europe&#8217;s First Bitcoin Treasury Company\u2026 https://t.co/BmcqZzvfoz \u2014 Alexandre Laizet \u26a1\ufe0f (@AlexandreLaizet) June 30, 2025 New Trading Products Arrive Cryptocurrency exchanges are racing to meet all this demand. On June 28, Gemini rolled out a tokenized version of Strategy stock for investors in the EU. That marks the exchange\u2019s first tokenized equity offering in that region. Shares of Strategy have climbed nearly 5% over the past month, trading around $391, according to Google Finance data. Related Reading: Insane Or Insightful? VC Firm Says XRP Could Reach Nearly $9,000 In Just 5 Years Price Resistance Looms Bitcoin itself has been holding near $108,000. It rose as much as 3% over the weekend to hit $108,798. Some traders, like MN Capital founder Michael van de Poppe, expect a brief pullback before BTC tries to breach $109,000. That level sits on the four-hour chart as a clear resistance point. Data from CoinGlass shows nearly $50 million in liquidity stacked at $109,500. If Bitcoin can clear the $110,000\u2013$112,300 zone, it could trigger a short squeeze that pushes prices into fresh record territory. Featured image from Unsplash, chart from TradingView"
+    },
     {
       "title": "XRP Roadmap To $8.5: Why The Next Impulse Could Start Soon",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-roadmap-to-8-5/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Price Risks Market Crash After Closing Below Final Weekly Resistance",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-risks-market-crash/",
       "summary": "Crypto analyst Rekt Capital has warned about a potential crash for the Bitcoin price, after the flagship crypto closed below a critical resistance level. The analyst also highlighted the level that BTC needs to reclaim to invalidate this bearish setup. Bitcoin Price Risks Crash With Weekly Close Below Resistance In an X post, Rekt Capital revealed that the Bitcoin price has closed below the final major weekly resistance at around $108,890. Based on this, he remarked that a possible early-stage Lower High resistance may be developing at around $107,720, with BTC at risk of crashing. The analyst added that Bitcoin will need to reclaim $108,890 as support on the daily to invalidate this Lower High. Related Reading: Pundit Warns Bitcoin Is Setting Up Liquidity Traps As It Campaigns For New ATHs In an earlier X post, Rekt Capital highlighted how significant it would have been if the Bitcoin price had closed above this final major weekly resistance. He noted that BTC had never performed such a weekly close. As such, if that had happened last week, he claimed it would not only be \u201chistoric\u201d but would enable BTC to enjoy a new uptrend into new all-time highs (ATHs). However, the Bitcoin price now appears to be on a downtrend, having failed to hold above the $107,720 level successfully. BTC had reached an intraday high of $107,970 but has since then been on a decline and is now at risk of losing the $106,800 macro level. Crypto analyst Kevin Capital has warned that BTC being below this level puts it in the danger zone. Meanwhile, based on historical bull market cycles, Rekt Capital has suggested that the Bitcoin price still has some more upside left. In an X post, he stated that history suggests that Bitcoin may end its bull market in two to three months. BTC Still Fuel In The Tank Despite the recent Bitcoin price drop, crypto analyst Titan of Crypto declared that the flagship crypto still has fuel in the tank. He claimed that the weekly market structure remains strong with a series of higher highs and higher lows. The analyst added that the Relative Strength Index (RSI) is pushing towards its trendline. Related Reading: Bitcoin Price At $110,000: Why BTC Must Break Out Of This Wedge His accompanying chart showed that the Bitcoin price could still rally to as high as $140,000 between September and November later this year based on these higher highs and lows. Crypto analyst Stockmoney Lizards also recently predicted that BTC could reach as high as $145,000 by September. He alluded to dojis that had formed for the flagship crypto in its current corrective channel and declared they were bullish for Bitcoin. At the time of writing, the Bitcoin price is trading at around $106,800, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Bitcoin Network Volume Echoes Mid-2021 \u2018Stable Equilibrium\u2019 \u2013 Is A Big Move Brewing?",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-network-volume-echoes-mid-2021-stable-equilibrium-is-a-big-move-brewing/",
-      "summary": "After rebounding from a local bottom of around $75,000 in April, Bitcoin (BTC) appears to be stuck in the $100,000 to $110,000 range, showing little indication of a clear directional trend. One key data point reflecting this indecision is Bitcoin\u2019s network volume. Bitcoin Network Volume Stuck In Balance Zone According to a recent CryptoQuant Quicktake post by contributor AxelAdlerJr, Bitcoin\u2019s network volume has stabilized in a state of &#8216;stable equilibrium,&#8217; reminiscent of the mid-2021 consolidation phase that preceded a major move. Related Reading: Bitcoin Binary CDD Hints At Healthy Consolidation, Not A Top For the uninitiated, Bitcoin network volume refers to the total value of BTC transferred across the blockchain over a specific period, typically used to gauge market activity and capital flow. Higher network volume suggests increased investor engagement and liquidity, while lower volume may indicate reduced interest or market stagnation. Notably, when BTC reached the upper end of its current range &#8211; around $110,000 &#8211; its average network volume surged to as high as $67 billion. Since then, the metric has slightly declined and now hovers around $58.7 billion. Since January 2024, Bitcoin\u2019s average network volume has ranged between $40 billion and $80 billion. According to the CryptoQuant analyst, this corridor has become a key indicator of network activity balance and broader market sentiment. Historically, when the Bitcoin average volume approached the upper-end of the range at $80 billion, it coincided with local price peaks of $70,000 and $100,000. On the contrary, moves toward the lower-end &#8211; around $40 billion &#8211; were associated with short-term pullbacks, though these dips were often quickly bought up by market participants. Currently, the $58.7 billion reading sits near the midpoint of this range, mirroring the consolidation phase observed in mid-2021. The analyst explained: As long as the indicator remains above the $40 billion level, we can speak of a stable fundamental market condition. Rising volumes above the $80 billion mark will confirm strengthening activity and fresh capital inflow. On the other hand, a sustained drop below $40 billion will indicate weakening network demand and may be a harbinger of a deeper correction. Is BTC Preparing For A Big Move? While Bitcoin network volume suggests the market is in a state of equilibrium, some on-chain metrics hint at a potential breakout building in the background &#8211; possibly paving the way for renewed bullish momentum. Related Reading: Bitcoin Poised For Rally As Geopolitical Tensions Ease And Inflation Expectations Fall For example, the BTC short-term holder floor has been rising steadily in recent months, currently hovering around $98,000. This provides a strong support base, potentially preventing a sharp downside correction. However, selling pressure from miners and long-term holders is also beginning to increase &#8211; casting some uncertainty over BTC\u2019s short-term price trajectory. At press time, BTC trades at $106,528, down 0.9% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant and TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Cloudflare Hits the Kill Switch on AI Crawlers\u2014And an Entire Industry Cheers",
+      "link": "https://decrypt.co/328057/cloudflare-hits-kill-switch-ai-crawlers-entire-industry-cheers",
+      "summary": "The world\u2019s largest internet security provider just defaulted to blocking AI crawlers\u2014and lets publishers set a price for scraping."
+    },
+    {
+      "title": "High on DOGE? Cannabis Company Makes Dogecoin Treasury Play",
+      "link": "https://decrypt.co/328071/high-doge-cannabis-company-dogecoin-treasury-play",
+      "summary": "Publicly traded cannabis company Dogecoin Cash Inc. is embracing the real DOGE after previously stockpiling a derivative meme coin."
+    },
+    {
       "title": "MARA Bitcoin Production Slides 25% as Mining Environment Toughens",
       "link": "https://decrypt.co/328076/mara-bitcoin-production-slides-25-as-mining-environment-toughens",
       "summary": "The Florida-based firm produced 237 fewer Bitcoin in June compared to the month prior, but said in its latest report that it would increase its network\u2019s power by 40%."
@@ -149,16 +159,6 @@
       "title": "Why Is Robinhood Building on Arbitrum Instead of Solana?",
       "link": "https://decrypt.co/328070/why-is-robinhood-building-on-arbitrum-instead-of-solana",
       "summary": "A Kraken spokesperson told that the company is working to bring xStocks to chains beyond Solana."
-    },
-    {
-      "title": "You Can Now Trade Stocks Like NVDA and MSTR on Solana: Here's How It Works",
-      "link": "https://decrypt.co/328052/you-can-trade-stocks-nvda-mstr-solana-how",
-      "summary": "Stocks like Nvidia, Tesla, and Strategy are now tokenized on Solana and trading via Kraken and other platforms. Here's what you need to know."
-    },
-    {
-      "title": "Hong Kong-Based Food Firm Secures $528 Million to Boost Bitcoin Treasury",
-      "link": "https://decrypt.co/328005/hong-kong-food-firm-528-million-boost-bitcoin-treasury",
-      "summary": "Publicly traded DDC Enterprise plans to buy 5,000 BTC over the next three years after raising fresh funding to fuel its Bitcoin strategy."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "45 mln MOVE pulled from Binance \u2013 Will bulls stay in control?",
+      "link": "https://ambcrypto.com/45-mln-move-pulled-from-binance-will-bulls-stay-in-control/",
+      "summary": "<img alt=\"45 mln MOVE pulled from Binance - Will bulls stay in control?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Buybacks by Movement Labs could be a hint of a potential trend to the upside."
+    },
+    {
       "title": "Is this the future of Wall Street? Robinhood brings U.S. stocks on-chain in Europe",
       "link": "https://ambcrypto.com/is-this-the-future-of-wall-street-robinhood-brings-u-s-stocks-on-chain-in-europe/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-8.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A 131% surge in HOOD stock followed the news, but adoption and regulation remain key."
@@ -208,11 +213,6 @@
       "title": "Bitcoin loses 50% whale flow! 2 reasons why BTC can still survive",
       "link": "https://ambcrypto.com/bitcoin-loses-50-whale-flow-2-reasons-why-btc-can-still-survive/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/5F743ECA-E3D3-4AB0-8718-A5F9BEB6E128.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin whales vanished fast, but are they gone for good?"
-    },
-    {
-      "title": "Ethereum Futures spike against Bitcoin: What the 98% volume ratio means",
-      "link": "https://ambcrypto.com/ethereum-futures-spike-against-bitcoin-what-the-98-volume-ratio-means/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can Ethereum truly challenge Bitcoin's dominance, or even lead a new \"altcoin season?\""
     }
   ]
 }
