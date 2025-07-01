@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Solana Drops Below $146 Despite Imminent Launch of First U.S.-Based SOL Staking ETF",
+      "link": "https://www.coindesk.com/markets/2025/07/01/solana-drops-below-usd146-despite-imminent-launch-of-first-u-s-based-sol-staking-etf",
+      "summary": ""
+    },
+    {
       "title": "Polkadot's DOT Slips 4% From Highs, Now Testing Support at $3.32 Level",
       "link": "https://www.coindesk.com/markets/2025/07/01/polkadots-dot-slips-4-from-highs-now-testing-support-at-332-level",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "GENIUS Act Lacks \u2018Necessary Guardrails\u2019 For Investor Protection, NYAG Letitia James Tells Congress",
       "link": "https://www.coindesk.com/policy/2025/07/01/genius-act-lacks-necessary-guardrails-for-investor-protection-nyag-letitia-james-tells-congress",
       "summary": ""
-    },
-    {
-      "title": "Congress' Budget Bill Advances From Senate Without Crypto Tax Provision",
-      "link": "https://www.coindesk.com/policy/2025/07/01/congress-budget-bill-advances-from-senate-without-crypto-tax-provision",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin at risk of deeper drop as BTC slips below key support levels",
+      "link": "https://cointelegraph.com/news/bitcoin-at-risk-of-deeper-drop-as-btc-slips-below-key-support-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMTgtMTFiYS03NTU4LTk1ZTctNmM4MmZmMWY2MWJh.jpg\" /></p><p>A revisit to the $100,000 level seems likely now that BTC price slipped below two key support levels.</p>"
+    },
     {
       "title": "Bitcoin analysts say market quickly absorbs selling, paving way for a bullish July",
       "link": "https://cointelegraph.com/news/bitcoin-analysts-say-market-quickly-absorbs-selling-paving-way-for-a-bullish-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "How to build a Solana DApp for iOS and Android in 15 minutes, no back end needed",
       "link": "https://cointelegraph.com/news/how-to-build-a-solana-dapp-for-ios-and-android?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M3MzMtYTQ1Zi03OGQxLWIxNzEtNGIzNjI4NDI5YzY5.jpg\" /></p><p>Developers can build cross-platform Solana mobile apps with wallet integration, token actions and NFTs in just 15 minutes.</p>"
-    },
-    {
-      "title": "XRP news update: Traders predict consolidation to $2.35 amid ETF speculation",
-      "link": "https://cointelegraph.com/news/xrp-news-update-traders-predict-consolidation-to-dollar2-35-amid-etf-speculation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2YWEtOGJlOC03MjEyLTliMWYtNGRiOTBmZjMyYTVk.jpg\" /></p><p>XRP trades in a tight range between $2 and $2.35, but the next price breakout could be driven by ETF speculators.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin dips to $105k on Q3 open despite record monthly close",
+      "link": "https://cryptoslate.com/bitcoin-dips-to-105k-on-q3-open-despite-record-monthly-close/",
+      "summary": "<p>The crypto market saw significant declines on July 1 despite Bitcoin&#8217;s record monthly close the day prior amid continued institutional and corporate accumulation. Bitcoin (BTC) managed to maintain its footing above the $105,000, but altcoins experienced drastic declines, with some posting double-digit percentage losses for the day. Bitcoin fell nearly 2% to a low of [&#8230;]</p> <p>"
+    },
     {
       "title": "Corporate treasuries double ETF Bitcoin buys in H1, signaling aggressive boardroom adoption",
       "link": "https://cryptoslate.com/corporate-treasuries-double-etf-bitcoin-buys-in-h1-signaling-aggressive-boardroom-adoption/",
@@ -73,14 +78,14 @@
       "title": "SEC approves Grayscale Index ETF conversion, clears Solana, XRP, Cardano for spot trading",
       "link": "https://cryptoslate.com/sec-approves-grayscale-index-etf-conversion-clears-solana-xrp-cardano-for-spot-trading/",
       "summary": "<p>The Securities and Exchange Commission (SEC) has approved the proposal to convert the Grayscale Digital Large Cap Fund into an exchange-traded fund (ETF), completing the conversion of the crypto index product into an ETF structure. According to a July 1 filing, the ETF will issue trust units that track a basket of the five largest [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin powerhouse Strategy nears S&P 500 inclusion as net income soars",
-      "link": "https://cryptoslate.com/bitcoin-powerhouse-strategy-nears-sp-500-inclusion-as-net-income-soars/",
-      "summary": "<p>Strategy (formerly MicroStrategy), the largest public holder of Bitcoin, is again making headlines\u2014this time for potentially qualifying for inclusion in the prestigious S&#38;P 500 index. On July 1, Jeff Walton, founder of MSTR True North, revealed that the company will likely report an $11 billion net income for the just-concluded second quarter of the year. [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Solana Hits New Milestone: Wallets Holding 0.1+ SOL Reach Record High",
+      "link": "https://www.newsbtc.com/news/solana/solana-hits-new-milestone-wallets-holding-0-1-sol-reach-record-high/",
+      "summary": "Solana has returned to the spotlight as speculation around a potential Solana ETF approval gains momentum. While still unconfirmed, growing signals from market insiders suggest that regulatory green lights may not be far off. If approved, a Solana ETF would mark a major milestone for the ecosystem, opening the door to traditional capital flows and broader institutional exposure, similar to what Bitcoin and Ethereum experienced following their own ETF breakthroughs. For long-term investors, this development could set the foundation for a new phase of sustainable growth. Related Reading: Strong Ethereum Accumulation Detected: LTH Buying Heavy During June Consolidation Supporting this bullish outlook is fresh data from Glassnode, which shows that the number of wallets holding over 0.1 SOL has reached a new all-time high. This milestone marks an increase in retail participation and growing confidence in Solana&#8217;s long-term potential. As the network continues to mature, the rise in small holders also signals expanding grassroots adoption\u2014an encouraging sign during a period of market uncertainty. While short-term price action may still be driven by broader macro trends, sentiment around Solana is clearly improving. If ETF approval becomes a reality, the combination of increased accessibility and rising on-chain adoption could significantly boost Solana\u2019s market position in the coming months. Solana Growing On-Chain Adoption Solana is currently trading below the $150 mark after experiencing a sharp retracement from its May high. The asset has lost more than 20% in value since peaking earlier this cycle, driven largely by broader market consolidation and declining risk appetite across altcoins. Despite the recent pullback, SOL continues to hold a strong support zone near the $135\u2013$140 range, which has proven resilient during previous sell-offs. Analysts remain cautiously optimistic, noting that a sustained push above key supply zones\u2014particularly the $155\u2013$165 range\u2014could reignite bullish momentum. However, the market remains in a phase of indecision. Price action across major assets, including Solana, reflects uncertainty as traders wait for a clear breakout or breakdown to confirm the next move. Without a strong catalyst, SOL may continue to consolidate alongside the broader altcoin market. Amid the sideways price action, one encouraging signal is the growing on-chain adoption. Top analyst Ali Martinez shared data from Glassnode showing that the number of wallets holding over 0.1 SOL has reached a new all-time high, now exceeding 11.44 million. This steady rise in non-zero wallets points to expanding retail participation and long-term holder confidence, even as short-term volatility persists. The divergence between price action and user adoption suggests that Solana\u2019s fundamental growth remains intact. If momentum returns and macro conditions improve, Solana may be well-positioned for a breakout, especially with ETF rumors fueling speculative interest. For now, the $150 level remains a psychological pivot as the market watches for signs of direction. Related Reading: Bitcoin Dominance Shows Bearish Divergence \u2013 Altseason Could Be Near SOL Price Action Details: Key Levels To Watch Solana (SOL) is currently trading at $149.30, just below the key resistance confluence of the 50-day, 100-day, and 200-day moving averages, all clustered between $150 and $151. This area has acted as a strong technical barrier, and SOL&#8217;s repeated failure to reclaim it reflects the market&#8217;s hesitancy amid broader uncertainty. After rallying to $159.99 earlier in the session, bears stepped in and pushed the price back down, closing the candle with a bearish wick, signaling ongoing selling pressure. The chart reveals a prolonged consolidation pattern that has developed since the mid-May rejection near $180. Despite several bounce attempts, SOL has not been able to regain bullish momentum. The volume profile also suggests fading interest during upswings, a common trait during accumulation or exhaustion phases. Notably, price remains above the March low, preserving a key higher low structure, which is crucial for the broader bullish outlook. Related Reading: Bitcoin Struggles Below ATH After Weeks Of Failed Attempts \u2013 $109K Level In Focus If SOL breaks above the $151\u2013$155 range with sustained volume, it could trigger a move toward $180. However, failure to clear this resistance might lead to another test of support around $135. Traders should watch for a decisive close above the moving average cluster to confirm trend continuation, especially with ETF speculation fueling long-term optimism. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Tron Shows Adoption Strength As Volume Still Led By Big Transfers \u2013 Details",
       "link": "https://www.newsbtc.com/news/tron-trx/tron-shows-adoption-strength-as-volume-still-led-by-big-transfers-details/",
@@ -100,11 +105,6 @@
       "title": "Ethereum Indecision Masks A Bullish Setup \u2013 Here\u2019s Why BTC Holds The Key",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-indecision-close/",
       "summary": "CRYPTOWZRD, in his latest update on X, highlighted Ethereum&#8216;s indecisive close, suggesting the market is still searching for clear direction. Despite the uncertainty, he remains optimistic, noting that both Bitcoin and BTC dominance are showing strength that could benefit ETH in the near term, with $2,800 marked as the next major resistance. Mixed Signals Across Ethereum Key Timeframes In"
-    },
-    {
-      "title": "Here\u2019s What Will Happen If The Bitcoin Price Can Manage A Clean Break Above $108,500",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-break-above-108500/",
-      "summary": "A crypto analyst has forecasted a powerful Wave 3 Bitcoin price rally that could take it toward new all-time highs between $160,000 and $200,000. Notably, this surge is expected to come with rising Bitcoin Dominance (BTC.D) and a delayed altcoin season, particularly if BTC can make a clean break above the $108,500 resistance level. Bitcoin Price Breakout To Spark Next Bull Run The Bitcoin price is currently hovering below a critical resistance level at $108,500, and according to a crypto analyst known as \u2018BigMike7335\u2019 on the X social media platform, a clean breakout and flip of this level into support could ignite an explosive Wave 3 bull run. Based on Elliott Wave Theory and Fibonacci Extension analysis, a successful move above this threshold could open the door to a bullish price surge with potential targets set in the $160,000 to $200,000 range. Related Reading: Bitcoin Flashes Double Top Above $106,000: FVG Says A Large Crash Is Coming The analyst\u2019s chart shows that Bitcoin has already completed its Wave 1 of a five-wave impulse move, followed by an ABC corrective Wave 2. The market is also currently consolidating, and Bitcoin\u2019s bullish momentum appears to be rebuilding. These positive developments are supported by a rising Stochastic Relative Strength Index (RSI) from the oversold region and a neutral-to-bullish RSI, both of which point toward upward price action. Notably, the 0.618 and 1.0 Fibonacci Extensions around $117,795 and $137,421, respectively, are highlighted as interim resistance zones where price momentum could temporarily slow before continuing upward. A clean breakout above $108,500 could also place Bitcoin above a heavy volume node visible in the volume profile within the chart, suggesting less overhead resistance and a stronger potential for a price rally. Furthermore, the analysis implies that during this powerful Wave 3 phase, Bitcoin Dominance will likely climb toward 70%. This increase in BTC.D would mean capital is concentrating in the leading cryptocurrency, which historically results in altcoins underperforming. As a result, the expected altcoin season for this cycle may be postponed, following the completion or cooling of Wave 3. Analyst Predicts $375,000 Bitcoin Bull Run Peak Crypto analyst TechDave has just sounded the alarm on what he calls the Bitcoin \u201claunch signal\u201d, a rare trigger that has only appeared four times in history and each time marked the start of major bull market rallies. This signal previously appeared in October 2012, July 2016, and July 2020\u2014all preceding major upward moves that ended in new cycle peaks. Related Reading: Fading Spot Volumes And Muted Futures Sentiment Threaten To Send Bitcoin Below $99,000 Again Currently, the same signal is emerging this July, aligning with the previous cycle structures and reinforcing the expectation of a breakout phase. Notably, the formation has led to exponential gains, with each bull market run typically peaking months later. Following this historical pattern, TechDave now predicts a fresh cycle top for Bitcoin at $375,000. Featured image from Getty Images, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Is this the future of Wall Street? Robinhood brings U.S. stocks on-chain in Europe",
+      "link": "https://ambcrypto.com/is-this-the-future-of-wall-street-robinhood-brings-u-s-stocks-on-chain-in-europe/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-8.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A 131% surge in HOOD stock followed the news, but adoption and regulation remain key."
+    },
+    {
       "title": "SYRUP pulls back to $0.5, but there\u2019s an opportunity ahead",
       "link": "https://ambcrypto.com/syrup-pulls-back-to-0-5-but-theres-an-opportunity-ahead/",
       "summary": "<img alt=\"SYRUP pulls back to $0.5, but there&#039;s an opportunity ahead\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/SYRUP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The daily price chart showed that SYRUP bulls remained dominant, and traders can look to buy."
@@ -208,11 +213,6 @@
       "title": "Ethereum Futures spike against Bitcoin: What the 98% volume ratio means",
       "link": "https://ambcrypto.com/ethereum-futures-spike-against-bitcoin-what-the-98-volume-ratio-means/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can Ethereum truly challenge Bitcoin's dominance, or even lead a new \"altcoin season?\""
-    },
-    {
-      "title": "SUI\u2019s $164 mln token unlock triggers sell-off fears: Price crash ahead?",
-      "link": "https://ambcrypto.com/suis-164-mln-token-unlock-triggers-sell-off-fears-price-crash-ahead/",
-      "summary": "<img alt=\"SUI&#039;s $164 mln token unlock triggers sell-off fears: Price crash ahead?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Chandan-2025-07-01T162701.025_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Sui Network set to unlock 58.35 million tokens, worth $164.44 million."
     }
   ]
 }
