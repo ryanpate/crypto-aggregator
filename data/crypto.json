@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Germany's Public Savings Bank Network Sparkassen to Offer Bitcoin Trading to Clients: Report",
+      "link": "https://www.coindesk.com/markets/2025/07/01/germany-s-public-savings-bank-network-sparkassen-to-offer-bitcoin-trading-to-clients-report",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin ETP With DeFi Yield Goes Live in Europe",
       "link": "https://www.coindesk.com/markets/2025/07/01/bitcoin-etp-with-defi-yield-goes-live-in-europe",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Asia Morning Briefing: Are Distributed Compute Tokens Undervalued Vs CoreWeave?",
       "link": "https://www.coindesk.com/markets/2025/06/30/asia-morning-briefing-are-distributed-compute-tokens-undervalued-vs-coreweave-crwv",
       "summary": ""
-    },
-    {
-      "title": "Senator Seeks to Waive U.S. Taxes on Small-Scale Crypto Activity in Big Budget Bill",
-      "link": "https://www.coindesk.com/policy/2025/06/30/senator-seeks-to-waive-us-taxes-on-small-scale-crypto-activity-in-big-budget-bill",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "FATF warning on stablecoin crimes is not anti-crypto, intel firms say",
+      "link": "https://cointelegraph.com/news/fatf-stablecoin-warning-not-anti-crypto-chainalysis-asset-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmYzEtN2UxNS03OGViLTg4ZTMtOTRkOTM5MmZiZjRh.jpg\" /></p><p>Applying advanced tools for tracking illicit stablecoin transactions is necessary, but not enough to mitigate risks behind their mass adoption.</p>"
+    },
+    {
+      "title": "Centrifuge brings S&amp;P 500 onchain in tokenized fund launch",
+      "link": "https://cointelegraph.com/news/centrifuge-sp500-onchain-tokenized-fund-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY5Y2QtZDAxYy03ZTJhLTk0NjEtZjIzNDI3ZTE5OGVk.jpg\" /></p><p>Centrifuge partners with S&amp;P Dow Jones Indices to launch the first tokenized S&amp;P 500 Index fund, enabling programmable onchain index-tracking products.</p>"
+    },
     {
       "title": "DOJ charges 4 North Koreans in $1M crypto theft from blockchain startup",
       "link": "https://cointelegraph.com/news/north-korean-it-workers-charged-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "Trump\u2019s Big Beautiful Bill in overtime as senators jam crypto clauses",
       "link": "https://cointelegraph.com/news/trump-big-beautiful-bill-overtime-senators-cram-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg0NDUtMGUxZC03YmRhLTgwODgtODRkZWYxNGM1YWYx.jpg\" /></p><p>US senators are in a marathon vote-a-rama over amendments to Donald Trump\u2019s massive tax and spending bill, with one lawmaker bidding to include tax cuts for crypto.</p>"
-    },
-    {
-      "title": "Major German bank to offer crypto trading by 2026 amid bank \u2018FOMO\u2019",
-      "link": "https://cointelegraph.com/news/german-banking-giant-to-adopt-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2MzZGUtYzRkMi03NWFkLTk5YzAtMDM1NmIzOGJlMWUy.jpg\" /></p><p>Sparkassen-Finanzgruppe execs once ruled out adopting crypto over concerns of volatility and risk, and the banking giant also blocked customer crypto transactions back in 2015.</p>"
-    },
-    {
-      "title": "Trump-linked American Bitcoin raises $220M for mining, treasury",
-      "link": "https://cointelegraph.com/news/trump-linked-american-bitcoin-raises-220m-for-bitcoin-mining-ops-and-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2MzZDUtMjJmNi03YjI2LTljZmMtMDMwNWYxMjJjMjEw.jpg\" /></p><p>The raise includes a transaction of $10 million where the company accepted Bitcoin instead of cash.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Trump Threatens to Turn DOGE Against Former Chief Elon Musk",
+      "link": "https://decrypt.co/327947/trump-threatens-doge-elon-musk",
+      "summary": "Trump has escalated his feud with Musk, suggesting DOGE scrutinize the billions in subsidies supporting the business magnate's companies."
+    },
+    {
       "title": "Ubisoft Adds AI Agents to \u2018Captain Laserhawk\u2019 Game That Vote and Govern",
       "link": "https://decrypt.co/327905/ubisoft-adding-ai-agents-captain-laserhawk-game-vote-govern",
       "summary": "Blockchain game Captain Laserhawk: The G.A.M.E. is integrating AI agents that can make governance decisions on behalf of players."
@@ -154,11 +159,6 @@
       "title": "Rex-Osprey Solana ETF to Debut 'First-Ever' US Crypto Fund With Staking",
       "link": "https://decrypt.co/327872/rex-osprey-solana-etf-debut-first-ever-us-crypto-fund-staking",
       "summary": "Rex Shares and Osprey Funds is set to launch the first U.S. ETF offering direct Solana exposure with staking rewards."
-    },
-    {
-      "title": "Mark Zuckerberg Unveils New Meta AI Lab After Poaching OpenAI Talent",
-      "link": "https://decrypt.co/327894/after-poaching-openai-talent-mark-zuckerberg-unveils-new-meta-ai-lab",
-      "summary": "Meta is throwing huge bucks to lure away top talent in the high-stakes AI race, prompting the company to give its employees the week off to cool down."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Optimism buyers, look out for the selling pressure because\u2026",
+      "link": "https://ambcrypto.com/optimism-why-whale-dominance-selling-pressure-may-have-a-role-to-play-soon/",
+      "summary": "<img alt=\"Optimism - Why whale dominance, selling pressure may have a role to play soon\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Optimism-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Supertrend indicator continued to flash a sell signal, showing traders must be wary of going long on OP."
+    },
+    {
+      "title": "Dogecoin bleeds 14% in June with $132 mln in unrealized losses \u2013 What now?",
+      "link": "https://ambcrypto.com/doge-bleeds-14-this-month-with-132-mln-in-unrealized-losses-what-now/",
+      "summary": "<img alt=\"DOGE bleeds 14% this month with $132 mln in unrealized losses - What now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/EBCBE478-4F96-47C7-8677-019E45CCF416.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DOGE short traders continue to hold their positions despite accumulating significant unrealized losses."
+    },
+    {
       "title": "Bitcoin faces whale exodus at $108K \u2014 Where does this leave retail?",
       "link": "https://ambcrypto.com/bitcoin-faces-whale-exodus-at-108k-where-does-this-leave-retail/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/F655EB17-9F06-4A28-9C9A-8850997CCD4B.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders are loading up shorts, whales are vanishing. Will BTC trigger another flush?"
@@ -203,16 +213,6 @@
       "title": "Can BSC\u2019s Maxwell upgrade challenge Ethereum\u2019s DeFi dominance?",
       "link": "https://ambcrypto.com/can-bscs-maxwell-upgrade-challenge-ethereums-defi-dominance/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Unpacking BSC\u2019s Maxwell vs. Ethereum\u2019s Glamsterdam."
-    },
-    {
-      "title": "TRON\u2019s KEY metric points to a possible TRX breakout \u2013 Assessing odds\u2026",
-      "link": "https://ambcrypto.com/trons-key-metric-points-to-a-possible-trx-breakout-assessing-odds/",
-      "summary": "<img alt=\"TRX\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Erastus-2025-06-30T160118.387-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />TRX trades within a tightening structure as large holders accumulate and retail waits on the sidelines."
-    },
-    {
-      "title": "Solana stalls, whale dumps 240K SOL \u2013 Time to worry about the price?",
-      "link": "https://ambcrypto.com/solana-stalls-whale-dumps-240k-sol-time-to-worry-about-the-price/",
-      "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-22-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Solana faces whale sell pressure, but retail accumulation and futures activity hint at bullish recovery."
     }
   ]
 }
