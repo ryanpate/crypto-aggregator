@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "ARK Invest Sold $95M of Coinbase Shares After COIN's Surge to Record Highs",
+      "link": "https://www.coindesk.com/markets/2025/07/01/ark-invest-sold-95m-of-coinbase-shares-after-coins-surge-to-record-highs",
+      "summary": ""
+    },
+    {
       "title": "Germany's Public Savings Bank Network Sparkassen to Offer Bitcoin Trading to Clients: Report",
       "link": "https://www.coindesk.com/markets/2025/07/01/germany-s-public-savings-bank-network-sparkassen-to-offer-bitcoin-trading-to-clients-report",
       "summary": ""
@@ -19,18 +24,18 @@
       "title": "XRP, TRX, DOGE Lead Majors With Positive Funding Rates as Bitcoin's Traditionally Weak Quarter Begins",
       "link": "https://www.coindesk.com/markets/2025/07/01/xrp-trx-doge-lead-majors-with-positive-funding-rates-as-bitcoin-s-traditionally-weak-quarter-begins",
       "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: Are Distributed Compute Tokens Undervalued Vs CoreWeave?",
-      "link": "https://www.coindesk.com/markets/2025/06/30/asia-morning-briefing-are-distributed-compute-tokens-undervalued-vs-coreweave-crwv",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Malaysian regulator proposes easing crypto asset listing process",
+      "link": "https://cointelegraph.com/news/malaysian-regulator-proposes-pre-approving-cryptocurrencies-for-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M0ZTAtNmEyZS03MDIzLWE0YzQtZDdkYjIxN2MzOTM3.jpg\" /></p><p>Malaysia\u2019s securities regulator is seeking public feedback on a proposal to allow certain cryptocurrencies to be listed on exchanges without prior approval.</p>"
+    },
+    {
       "title": "FATF warning on stablecoin crimes is not anti-crypto, intel firms say",
       "link": "https://cointelegraph.com/news/fatf-stablecoin-warning-not-anti-crypto-chainalysis-asset-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmYzEtN2UxNS03OGViLTg4ZTMtOTRkOTM5MmZiZjRh.jpg\" /></p><p>Applying advanced tools for tracking illicit stablecoin transactions is necessary, but not enough to mitigate risks behind their mass adoption.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmYzEtN2UxNS03OGViLTg4ZTMtOTRkOTM5MmZiZjRh.jpg\" /></p><p>Applying advanced tools for tracking illicit stablecoin transactions is necessary; still, it is not enough to mitigate the risks of mass adoption.</p>"
     },
     {
       "title": "Centrifuge brings S&amp;P 500 onchain in tokenized fund launch",
@@ -46,11 +51,6 @@
       "title": "Katana\u2019s mainnet debuts with $200M in active DeFi deposits",
       "link": "https://cointelegraph.com/news/katana-defi-layer2-mainnet-launch-200m-productive-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwMjktMzRmYS03NmZiLWIzNTUtNDJiYzVjNDNiODNm.jpg\" /></p><p>Katana, a new DeFi-first layer-2 blockchain, launched with over $200 million in productive TVL, offering institutional-grade liquidity strategies and native asset support.</p>"
-    },
-    {
-      "title": "Trump\u2019s Big Beautiful Bill in overtime as senators jam crypto clauses",
-      "link": "https://cointelegraph.com/news/trump-big-beautiful-bill-overtime-senators-cram-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg0NDUtMGUxZC03YmRhLTgwODgtODRkZWYxNGM1YWYx.jpg\" /></p><p>US senators are in a marathon vote-a-rama over amendments to Donald Trump\u2019s massive tax and spending bill, with one lawmaker bidding to include tax cuts for crypto.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Analyst Calls For Bitcoin Crash As Price Pulls Above $108,000 \u2014 Details",
+      "link": "https://www.newsbtc.com/news/bitcoin/analyst-call-bitcoin-crash/",
+      "summary": "The past weekend was favorable for Bitcoin as the price was able to rebound from last week\u2019s lows and go on to reclaim $108,000 ahead of the new week. This has boosted market sentiment once again, prompting investors to return to the table. However, as the price continues to sit in the green, one crypto analyst has sounded the alarm that the Bitcoin price may be headed for another crash toward the support area close to $100,000. Why A Bitcoin Price Crash Is Imminent In the TradingView analysis, the crypto analyst reveals the reason why the Bitcoin price could dump back downwards is because of mounting resistance. This is because, as the leading cryptocurrency moves toward new all-time highs, there is the possibility of a pushback before it is able to continue its rally. Related Reading: Bitcoin Consolidating Below $108,000 But Eyes $115,000 Target In this case, the crypto analyst does expect the Bitcoin price to keep rising. But they see a lot of resistance for the digital asset just above $109,000. More specifically, at $109,500, which is still a ways away from the $112,000 needed to create a new all-time high, the cryptocurrency is expected to meet new resistance and dump back downward. This stiff resistance opens up an opportunity for market shooters to enter into the trade. According to the chart, it is possible for the Bitcoin price to actually move toward the low $100,000s. Currently, there is major support at $102,500, and if the digital asset does lose its footing, this is likely where the bulls will stage their recovery once more. Sweeping For Liquidity At Lower Ranges Another crypto analyst, Riscora, has supported this move with their own analysis, also predicting that a pullback is possible from here. This still boils down to mounting resistance as the Bitcoin price moves toward the possibility of reaching a new all-time high, and budding liquidity rises at the lower levels. Related Reading: TD Sequential Flashes Buy: Dogecoin Ready For Rebound To $0.21 The analyst explains that as liquidity has now been taken in the higher levels, after Bitcoin hit $108,000, there is bound to be a correction. This time around, they expect the correction to be much deeper given the recent bullish impulse move. The target from her sis a move back into the $107,000 territory, before moving further downward to take on the $106,400 support. Despite the expectation of a price dip, the analyst warns that the Bitcoin price remains overall bullish from here. As the crypto market ushers in the month of July, which is usually bullish for Bitcoin, it is possible that the cryptocurrency does put in a new all-time high this month, seeing as there is less than a 5% move left to beat its current $111,900 peak. Featured image from Dall.E, chart from TradingView.com"
+    },
+    {
       "title": "Solana Summer Loading? SOL Eyes $180 Following Staked ETF-Fueled Breakout",
       "link": "https://www.newsbtc.com/news/solana-summer-loading-sol-eyes-180-following-staked-etf-fueled-breakout/",
       "summary": "Solana (SOL) has retested a crucial resistance level after recovering the $150 level over the weekend. The surge, fueled by the upcoming launch of a SOL-based staked exchange-traded fund (ETF), has led some analysts to forecast a rally toward the next key target. Related Reading: Bitcoin Price At $145,000 In September? Bullish Dojis Suggest Upward Move Solana Staked ETFs Coming On Wednesday On Monday, Solana\u2019s price soared to a key resistance level following the introduction of \u201cthe first-ever Solana staked crypto ETF in the US.\u201d Rex Shares announced it will launch a Solana-based staked ETF this Wednesday, aiming to offer exposure to SOL and staking rewards. According to the X post, the REX-Osprey ETF will track SOL\u2019s performance while \u201cgenerating yield through on-chain staking,\u201d starting a \u201cnew era of yield-generating crypto exposure.\u201d As a result, Solana climbed to the $160 barrier, which led to nearly $9 million in short positions liquidated on Monday afternoon. Market Watcher Daan Crypto Trades considers Solana \u201cbounced nicely over the weekend\u201d but has yet to turn the Low Timeframe (LTF) trend around. He explained that reclaiming the $159-$167 area is necessary to aim for higher levels. Additionally, the Daily 200-day Moving Average (MA) and Exponential Moving Average (EMA) are currently located within this range. \u201cI would want to see price trade back above that to start targeting the $180-$200 region again,\u201d he detailed. Nonetheless, the trader questioned whether a Solana spot ETF-driven rally will fuel the cryptocurrency\u2019s run. Notably, multiple investment firms, including Grayscale, VanEck, 21Shares, and Bitwise, have filed with the Securities and Exchange Commission (SEC) to launch a spot SOL ETF in the US. According to recent reports, the investment products have a \u201chigh likelihood\u201d of being approved in the coming weeks, which has seemingly fueled investors\u2019 expectations of a bullish \u201cSolana Summer.\u201d \u201cThe big question is how much demand there will be,\u201d Daan asserted, noting that Ethereum (ETH) sport ETFs, approved in July 2024, had a disappointing launch and \u201conly started seeing decent inflows about a year later.\u201d SOL Ready For Another Breakout? Following the ETF-fueled breakout, analyst Hardy noted Solana\u2019s \u201cTextbook move, clean breakout, clean retest, and pump,\u201d which could trigger a run toward the $200 barrier. Notably, the cryptocurrency saw a remarkable performance over the weekend, reclaiming the $144-$148 crucial area and breaking past the $150 mark. Amid this performance, the analyst highlighted that Solana had broken out of its local downtrend line after reclaiming the $148 resistance and was retesting the breakout zone. He explained that there is \u201cJuicy liquidity sitting above, ready to be taken,\u201d adding that Solana needed to hold the $150 support to continue its bullish run toward the next target. Related Reading: Analyst Reveals Rational Behind XRP Price Reaching $9.5 And $37.5 Meanwhile, analyst Crypto Batman considers that Solana is \u201csetting up very nicely\u201d after the $160 retest. Per"
@@ -100,11 +105,6 @@
       "title": "Bitcoin Market Enters Caution Zone Amid Rising Sell-Side Pressure, Analyst Says",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-market-enters-caution-zone-amid-rising-sell-side-pressure-analyst-says/",
       "summary": "Although Bitcoin (BTC) has recorded slight gains over the past month &#8211; up 3.6% in the last 30 days &#8211; the leading cryptocurrency is experiencing a lack of Apparent Demand, indicating broader market weakness that could lead to a price slump in the near term. Bitcoin Apparent Demand Enters Negative Territory According to a recent CryptoQuant Quicktake post by contributor Crazzyblockk, Bitcoin\u2019s new buyer demand is failing to absorb the combined supply pressure from freshly mined BTC and selling from long-term holders (LTHs). As a result, BTC\u2019s Apparent Demand has turned negative. The analyst noted that the imbalance between buyer demand and excessive supply has created a high-risk environment for a near-term price correction. Notably, the $100,000 level remains an important support for the flagship digital asset. Related Reading: Bitcoin Weak Hands Exit While Smart Money Loads Up \u2013 Is A Breakout Near? For the uninitiated, Bitcoin\u2019s Apparent Demand measures the balance between new buying interest and the supply of coins entering the market from miners and LTHs selling. When this metric turns negative, it means that the amount of BTC being sold exceeds new purchases, indicating potential market weakness and downward price pressure. BTC entering negative Apparent Demand territory can be considered a bearish development for two key reasons. First, it directly increases the \u201cfor sale\u201d BTC supply, exerting downward pressure on the cryptocurrency\u2019s price. Second, significant selling by LTHs &#8211; often considered seasoned and sophisticated investors &#8211; suggests that experienced players believe the crypto market has likely reached a local top and are exiting before a potential severe market downturn. The analyst added: Consequently, the market is in a vulnerable state. Any price rallies from here will likely struggle to overcome this wave of available supply, and market support may be weaker than anticipated. While not a guarantee, this on-chain signal strongly suggests a period of caution is warranted until demand shows clear signs of recovery. That said, recent on-chain analysis indicates a more optimistic outlook. According to fellow CryptoQuant analyst Avocado_onchain, the 30-day moving average (MA) of Bitcoin Binary Coin Days Destroyed (CDD) shows signs of healthy consolidation rather than a potential local top. Some Positive Signs For BTC While BTC\u2019s Apparent Demand might be drying up, easing global geopolitical tensions could catalyze a rally in risk-on assets, including cryptocurrencies. Further positive macroeconomic developments may also benefit BTC, potentially leading to a cycle top much higher than currently anticipated. Related Reading: Bitcoin May Surprise Bears: $100K\u2013$110K Range Shows Rising Short Interest Another indicator negating the possibility of a major price pullback is the steadily rising short-term holder (STH) floor price, which has surged to as high as $98,000 according to the latest on-chain data. At press time, BTC trades at $107,500, down 0.5% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant and TradingView.com"
-    },
-    {
-      "title": "XRP Price Surges, Then Cools \u2014 Will Bulls Return for Round Two?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-surges-then-cools-2-20/",
-      "summary": "XRP price started a steady increase above the $2.220 zone. The price is now correcting gains and might find bids near the $2.20 zone. XRP price started a fresh increase above the $2.220 zone. The price is now trading above $2.180 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2.20 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could gain bullish momentum if it clears the $2.280 resistance zone. XRP Price Regains Traction XRP price formed a base above the $2.120 level and started a fresh increase, beating Bitcoin and Ethereum. The price was able to climb above the $2.180 and $2.20 resistance levels. The pair even surged above the $2.30 level. A high was formed at $2.327 and the price is now correcting gains. There was a move below the $2.280 level. It dipped below the 50% Fib retracement level of the upward move from the $2.165 swing low to the $2.327 high. The price is now trading above $2.180 and the 100-hourly Simple Moving Average. Besides, there is a key bullish trend line forming with support at $2.20 on the hourly chart of the XRP/USD pair. It is close to the 76.4% Fib retracement level of the upward move from the $2.165 swing low to the $2.327 high. On the upside, the price might face resistance near the $2.280 level. The first major resistance is near the $2.30 level. The next resistance is $2.320. A clear move above the $2.320 resistance might send the price toward the $2.350 resistance. Any more gains might send the price toward the $2.40 resistance or even $2.450 in the near term. The next major hurdle for the bulls might be $2.50. Fresh Decline? If XRP fails to clear the $2.280 resistance zone, it could start another decline. Initial support on the downside is near the $2.220 level. The next major support is near the $2.20 level. If there is a downside break and a close below the $2.20 level, the price might continue to decline toward the $2.150 support. The next major support sits near the $2.120 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.220 and $2.20. Major Resistance Levels \u2013 $2.280 and $2.320."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Australia\u2019s Swyftx to Acquire Caleb &#038; Brown in Record $66M Plus ANZ Crypto Deal",
+      "link": "https://decrypt.co/327941/australias-swyftx-acquires-caleb-brown-record-anz-crypto-deal",
+      "summary": "Swyftx is acquiring Caleb &#038; Brown in the largest crypto M&#038;A deal in ANZ as it seeks a foothold in the U.S. to target high-net-worth clients."
+    },
+    {
       "title": "Trump Threatens to Turn DOGE Against Former Chief Elon Musk",
       "link": "https://decrypt.co/327947/trump-threatens-doge-elon-musk",
       "summary": "Trump has escalated his feud with Musk, suggesting DOGE scrutinize the billions in subsidies supporting the business magnate's companies."
@@ -154,11 +159,6 @@
       "title": "DOJ Charge Fake North Korean Devs 'Embedding' In Crypto Startups",
       "link": "https://decrypt.co/327942/doj-fake-north-korean-devs-embedding-crypto-startups",
       "summary": "Federal prosecutors claim DPRK agents infiltrated a blockchain startup under false identities, pushing code to drain funds."
-    },
-    {
-      "title": "Rex-Osprey Solana ETF to Debut 'First-Ever' US Crypto Fund With Staking",
-      "link": "https://decrypt.co/327872/rex-osprey-solana-etf-debut-first-ever-us-crypto-fund-staking",
-      "summary": "Rex Shares and Osprey Funds is set to launch the first U.S. ETF offering direct Solana exposure with staking rewards."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,21 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Gate surpasses 30 million global users, accelerating its rise as the next-generation crypto exchange",
+      "link": "https://ambcrypto.com/gate-surpasses-30-million-global-users-accelerating-its-rise-as-the-next-generation-crypto-exchange/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"515\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-142202.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"929\" />Gate, a globally leading cryptocurrency trading platform, has officially surpassed 30 million registered users, marking [&#8230;]"
+    },
+    {
+      "title": "Bitcoin easily absorbs LTH exits \u2013 Is MicroStrategy\u2019s 3% BTC share the reason?",
+      "link": "https://ambcrypto.com/bitcoin-easily-absorbs-lth-exits-is-microstrategys-3-btc-share-the-reason-why/",
+      "summary": "<img alt=\"Bitcoin easily absorbs LTH exits - Is MicroStrategy\u2019s 3% BTC share the reason why?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />LTH distribution, MSTR accumulation, and seasonal strength: All signs point to a breakout hidden in plain sight."
+    },
+    {
+      "title": "Cats Fishing: Status Network\u2019s first mobile fishing game turns lore and occult mysteries into playable myth",
+      "link": "https://ambcrypto.com/cats-fishing-status-networks-first-mobile-fishing-game-turns-lore-and-occult-mysteries-into-playable-myth/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1372\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/james-wheeler-HJhGcU_IbsQ-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Cats Fishing reimagines mobile gameplay as Status Network&#8217;s first open-world mobile fishing game, transforming a [&#8230;]"
+    },
+    {
       "title": "Optimism buyers, look out for the selling pressure because\u2026",
       "link": "https://ambcrypto.com/optimism-why-whale-dominance-selling-pressure-may-have-a-role-to-play-soon/",
       "summary": "<img alt=\"Optimism - Why whale dominance, selling pressure may have a role to play soon\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Optimism-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Supertrend indicator continued to flash a sell signal, showing traders must be wary of going long on OP."
@@ -198,21 +213,6 @@
       "title": "Dogecoin bleeds 14% in June with $132 mln in unrealized losses \u2013 What now?",
       "link": "https://ambcrypto.com/doge-bleeds-14-this-month-with-132-mln-in-unrealized-losses-what-now/",
       "summary": "<img alt=\"DOGE bleeds 14% this month with $132 mln in unrealized losses - What now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/EBCBE478-4F96-47C7-8677-019E45CCF416.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DOGE short traders continue to hold their positions despite accumulating significant unrealized losses."
-    },
-    {
-      "title": "Bitcoin faces whale exodus at $108K \u2014 Where does this leave retail?",
-      "link": "https://ambcrypto.com/bitcoin-faces-whale-exodus-at-108k-where-does-this-leave-retail/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/F655EB17-9F06-4A28-9C9A-8850997CCD4B.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders are loading up shorts, whales are vanishing. Will BTC trigger another flush?"
-    },
-    {
-      "title": "PENGU\u2019s 50% price rally \u2013 How whale buys, ETF updates are fueling recovery",
-      "link": "https://ambcrypto.com/pengus-50-price-rally-how-whale-buys-etf-updates-are-fueling-recovery/",
-      "summary": "<img alt=\"PENGU&#039;s 50% price rally - How whale buys, ETF updates are fueling recovery\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/PENGU-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PENGU traders can wait for a minor price dip before buying."
-    },
-    {
-      "title": "Can BSC\u2019s Maxwell upgrade challenge Ethereum\u2019s DeFi dominance?",
-      "link": "https://ambcrypto.com/can-bscs-maxwell-upgrade-challenge-ethereums-defi-dominance/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Ritika2-7.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Unpacking BSC\u2019s Maxwell vs. Ethereum\u2019s Glamsterdam."
     }
   ]
 }
