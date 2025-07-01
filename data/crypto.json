@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Crypto Daybook Americas: Bitcoin Posts Record Monthly Close, but Euro Steals the Show",
+      "link": "https://www.coindesk.com/daybook-us/2025/07/01/crypto-daybook-americas-bitcoin-posts-record-monthly-close-but-euro-steals-the-show",
+      "summary": ""
+    },
+    {
+      "title": "The Blockchain Group Raises $13M to Advance Bitcoin Treasury Vision",
+      "link": "https://www.coindesk.com/markets/2025/07/01/the-blockchain-group-raises-13m-to-advance-bitcoin-treasury-vision",
+      "summary": ""
+    },
+    {
+      "title": "BTC's 200-Week Average Rises to $50K to Suggest Long-Term Market Strength",
+      "link": "https://www.coindesk.com/markets/2025/07/01/btcs-200-week-average-rises-to-50k-to-suggest-long-term-market-strength",
+      "summary": ""
+    },
+    {
       "title": "American Bitcoin, Backed by Eric and Donald Trump Jr, Pulls In $220M to Accumulate BTC",
       "link": "https://www.coindesk.com/markets/2025/07/01/american-bitcoin-backed-by-eric-and-donald-trump-jr-pulls-in-220m-to-accumulate-btc",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "Bitcoin Miner IREN Hits 50 EH/s Midyear Hashrate Target, Eyes AI Expansion",
       "link": "https://www.coindesk.com/business/2025/07/01/bitcoin-miner-iren-hits-50-ehs-midyear-hashrate-target-eyes-ai-expansion",
       "summary": ""
-    },
-    {
-      "title": "Strategy's Perpetual Preferred Stocks May Be Front Running S&P 500 Inclusion",
-      "link": "https://www.coindesk.com/markets/2025/07/01/strategys-perpetual-preferred-stocks-may-be-front-running-sp-500-inclusion",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Profit Taking Accelerates as BTC Realized Gain Jumps to $2.4B",
-      "link": "https://www.coindesk.com/markets/2025/07/01/bitcoin-profit-taking-accelerates-as-btc-realized-gain-jumps-to-usd2-4b",
-      "summary": ""
-    },
-    {
-      "title": "ARK Invest Sold $95M of Coinbase Shares After COIN's Surge to Record Highs",
-      "link": "https://www.coindesk.com/markets/2025/07/01/ark-invest-sold-95m-of-coinbase-shares-after-coins-surge-to-record-highs",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Elon Musk\u2019s xAI raises $10B as Trump threatens to unleash DOGE on him",
+      "link": "https://cointelegraph.com/news/musk-xai-raises-10b-trump-feud-reignites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M1OTAtMzFlNS03MjYyLTg3YTgtNzI1YTIzNGE3MzZl.jpg\" /></p><p>Elon Musk\u2019s xAI secures $10 billion to expand its operations as his clash with US President Donald Trump over government spending heats up again.</p>"
+    },
     {
       "title": "Bitcoin targets $200K as profit metrics enter \u2018cautiously optimistic\u2019 zone",
       "link": "https://cointelegraph.com/news/bitcoin-targets-200k-btc-profit-metrics-cautiously-optimistic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Centrifuge brings S&amp;P 500 onchain in tokenized fund launch",
       "link": "https://cointelegraph.com/news/centrifuge-sp500-onchain-tokenized-fund-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY5Y2QtZDAxYy03ZTJhLTk0NjEtZjIzNDI3ZTE5OGVk.jpg\" /></p><p>Centrifuge partners with S&amp;P Dow Jones Indices to launch the first tokenized S&amp;P 500 Index fund, enabling programmable onchain index-tracking products.</p>"
-    },
-    {
-      "title": "DOJ charges 4 North Koreans in $1M crypto theft from blockchain startup",
-      "link": "https://cointelegraph.com/news/north-korean-it-workers-charged-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M0ZDItNGU4Mi03ZDllLTkwZmQtMjM5MmZkOGM0NmZi.jpg\" /></p><p>Four North Koreans posed as remote developers for US and Serbian blockchain firms, stealing almost $1 million in crypto to fund the regime\u2019s illicit programs.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Connecticut closes door on Bitcoin, mandates strict disclosure for crypto firms",
+      "link": "https://cryptoslate.com/connecticut-bans-bitcoin-use-for-state-investment/",
+      "summary": "<p>Connecticut has taken a firm stance against government involvement in digital assets like Bitcoin. On June 30, Governor Ned Lamont signed a new bill into law that bans state agencies from investing in crypto, including Bitcoin. The legislation, known as House Bill 7082, also prevents state entities from accepting these assets as payment for any [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin ETFs add $2.9B in last week of June ending month strong",
       "link": "https://cryptoslate.com/insights/bitcoin-etfs-add-2-9b-in-last-week-of-june-ending-month-strong/",
@@ -73,11 +78,6 @@
       "title": "DEXs capture almost 30% of CEX spot activity in June, setting new record",
       "link": "https://cryptoslate.com/dexs-capture-almost-30-of-cex-spot-activity-in-june-setting-new-record/",
       "summary": "<p>Decentralized exchanges (DEX) processed roughly $385 billion of spot trades in June, equal to almost 30% of the turnover recorded by centralized venues, according to DefiLlama and The Block data. The 30-day DEX figure represents a 12% decline from May, but centralized exchange (CEX) spot volume contracted nearly 30% in the same period. Notably, this [&#8230;]</p> <p>"
-    },
-    {
-      "title": "German banking giant Sparkassen to offer crypto trading to 50 million customers by 2026",
-      "link": "https://cryptoslate.com/german-banking-giant-sparkassen-to-offer-crypto-trading-to-50-million-customers-by-2026/",
-      "summary": "<p>Germany\u2019s largest banking group, Sparkassen-Finanzgruppe, is preparing to offer crypto trading services to its retail clients by summer 2026, Bloomberg News reported on June 30. The move represents a significant policy shift for Sparkassen, which had previously avoided crypto offerings due to concerns about volatility and risk. According to the report, the bank\u2019s board of [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Germany\u2019s largest bank Deutsche Bank plans to roll out crypto custody services next year",
+      "link": "https://cryptobriefing.com/deutsche-bank-crypto-custody-service/",
+      "summary": "<p>Deutsche Bank's crypto custody service could accelerate institutional adoption of digital assets, enhancing trust and regulatory compliance.</p> <p>"
+    },
+    {
       "title": "Circle applies for national trust bank license to expand USDC reserve custody",
       "link": "https://cryptobriefing.com/circle-trust-bank-license-tokenized/",
       "summary": "<p>Circle seeks a trust bank license to directly manage USDC reserves and offer custody for tokenized stocks and bonds onchain.</p> <p>"
@@ -181,14 +186,19 @@
       "title": "Backed rolls out tokenized Apple, Microsoft, and Amazon stocks on Bybit and Kraken",
       "link": "https://cryptobriefing.com/kraken-tokenized-stock-trading/",
       "summary": "<p>Kraken's xStocks could revolutionize global equity access, challenging traditional markets and enhancing blockchain's role in finance.</p> <p>"
-    },
-    {
-      "title": "Kazakhstan plans to establish national crypto reserve using seized and state-mined assets",
-      "link": "https://cryptobriefing.com/kazakhstan-crypto-asset-reserve/",
-      "summary": "<p>Kazakhstan's crypto reserve initiative could enhance financial innovation and regulatory frameworks, potentially influencing global crypto policies.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "How OppiWallet\u2019s virtual and physical cards eliminate the crypto-to-fiat hassle",
+      "link": "https://ambcrypto.com/how-oppiwallets-virtual-and-physical-cards-eliminate-the-crypto-to-fiat-hassle/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"521\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-144027.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"928\" />OppiWallet today highlighted how its dual virtual and physical cards eliminate the barriers between crypto [&#8230;]"
+    },
+    {
+      "title": "Can XRP make a Q3 comeback, rattle Ethereum\u2019s dominance? Mapping\u2026",
+      "link": "https://ambcrypto.com/can-xrp-make-a-q3-comeback-rattle-ethereums-dominance-mapping/",
+      "summary": "<img alt=\"Can XRP make a Q3 comeback, rattle Ethereum&#039;s dominance? Mapping...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple vs Ethereum: Funding rates rise, ratio rebounds at support."
+    },
     {
       "title": "Gate surpasses 30 million global users, accelerating its rise as the next-generation crypto exchange",
       "link": "https://ambcrypto.com/gate-surpasses-30-million-global-users-accelerating-its-rise-as-the-next-generation-crypto-exchange/",
@@ -203,16 +213,6 @@
       "title": "Cats Fishing: Status Network\u2019s first mobile fishing game turns lore and occult mysteries into playable myth",
       "link": "https://ambcrypto.com/cats-fishing-status-networks-first-mobile-fishing-game-turns-lore-and-occult-mysteries-into-playable-myth/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1372\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/james-wheeler-HJhGcU_IbsQ-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Cats Fishing reimagines mobile gameplay as Status Network&#8217;s first open-world mobile fishing game, transforming a [&#8230;]"
-    },
-    {
-      "title": "Optimism buyers, look out for the selling pressure because\u2026",
-      "link": "https://ambcrypto.com/optimism-why-whale-dominance-selling-pressure-may-have-a-role-to-play-soon/",
-      "summary": "<img alt=\"Optimism - Why whale dominance, selling pressure may have a role to play soon\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/Optimism-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Supertrend indicator continued to flash a sell signal, showing traders must be wary of going long on OP."
-    },
-    {
-      "title": "Dogecoin bleeds 14% in June with $132 mln in unrealized losses \u2013 What now?",
-      "link": "https://ambcrypto.com/doge-bleeds-14-this-month-with-132-mln-in-unrealized-losses-what-now/",
-      "summary": "<img alt=\"DOGE bleeds 14% this month with $132 mln in unrealized losses - What now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/06/EBCBE478-4F96-47C7-8677-019E45CCF416.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DOGE short traders continue to hold their positions despite accumulating significant unrealized losses."
     }
   ]
 }
