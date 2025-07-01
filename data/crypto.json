@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Why Is Ether Struggling Near $2,400 Even as More Firms Add ETH to Their Treasuries?",
+      "link": "https://www.coindesk.com/markets/2025/07/01/why-is-ether-struggling-near-usd2-400-even-as-more-firms-add-eth-to-their-treasuries",
+      "summary": ""
+    },
+    {
       "title": "Solana Drops Below $146 Despite Imminent Launch of First U.S.-Based SOL Staking ETF",
       "link": "https://www.coindesk.com/markets/2025/07/01/solana-drops-below-usd146-despite-imminent-launch-of-first-u-s-based-sol-staking-etf",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Bitcoin Pulls Back to $106K After Record Monthly Close",
       "link": "https://www.coindesk.com/markets/2025/07/01/bitcoin-pulls-back-after-record-monthly-close",
       "summary": ""
-    },
-    {
-      "title": "GENIUS Act Lacks \u2018Necessary Guardrails\u2019 For Investor Protection, NYAG Letitia James Tells Congress",
-      "link": "https://www.coindesk.com/policy/2025/07/01/genius-act-lacks-necessary-guardrails-for-investor-protection-nyag-letitia-james-tells-congress",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "US regulator considers simplified path to market for crypto ETFs",
+      "link": "https://cointelegraph.com/news/us-considers-simplified-path-to-market-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3ODQtNmJmNC03MTc1LWEyZGUtMDQwMTZhYjdmNTkz.jpg\" /></p><p>The United States Securities and Exchange Commission is reportedly considering simplifying the listing process for certain crypto ETFs.</p>"
+    },
     {
       "title": "Bitcoin at risk of deeper drop as BTC slips below key support levels",
       "link": "https://cointelegraph.com/news/bitcoin-at-risk-of-deeper-drop-as-btc-slips-below-key-support-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,19 @@
       "title": "Connecticut governor approves law prohibiting crypto use in government",
       "link": "https://cointelegraph.com/news/connecticut-governor-signs-bill-law-prohibiting-crypto-government?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2YmEtZDM1ZS03ODgyLTk0ZDgtODNiNGE4NTIwNjRh.jpg\" /></p><p>Many provisions of the legislation, which received overwhelming support in the state House and Senate, take effect on Oct. 1.</p>"
-    },
-    {
-      "title": "Swissquote ordered to curb impersonation, fraud attempts",
-      "link": "https://cointelegraph.com/news/swissquote-ordered-curb-impersonation-fraud-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2YjktZWE2NC03MTE2LWE3ZTgtZWRmNWIwNDlmODJh.jpg\" /></p><p>The company offers crypto trading on the platforms that it manages, including the mixed-asset trading platforms Swissquote and Yuh.</p>"
-    },
-    {
-      "title": "How to build a Solana DApp for iOS and Android in 15 minutes, no back end needed",
-      "link": "https://cointelegraph.com/news/how-to-build-a-solana-dapp-for-ios-and-android?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M3MzMtYTQ1Zi03OGQxLWIxNzEtNGIzNjI4NDI5YzY5.jpg\" /></p><p>Developers can build cross-platform Solana mobile apps with wallet integration, token actions and NFTs in just 15 minutes.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Figma discloses $70M Bitcoin exposure via Bitwise ETF in IPO filing, plans another $30M buy",
+      "link": "https://cryptoslate.com/figma-discloses-70m-bitcoin-exposure-via-bitwise-etf-in-ipo-filing-plans-another-30m-buy/",
+      "summary": "<p>Figma\u2019s initial public offering (IPO) prospectus reveals that the design software company holds approximately $69.5 million of the Bitwise Bitcoin ETF (BITB). According to a July 1 filing, a table lists the ETF under level-1 marketable securities at $69.533 million. The document also stated that the board authorized a $55 million purchase on March 3, [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Bitcoin holders exhibit \u2018diamond hands\u2019 as unrealized profits swell past $1 trillion",
+      "link": "https://cryptoslate.com/bitcoin-holders-exhibit-diamond-hands-as-unrealized-profits-swell-past-1-trillion/",
+      "summary": "<p>Bitcoin (BTC) investors have kept their coins off exchanges in recent weeks, even as market-wide profitability climbed to levels that typically trigger distribution, according to a July 1 report from Glassnode. Bitcoin fell from $106,000 to $99,000 during last week\u2019s Israel-Iran flare-up, but buyers defended the short-term holder cost basis at $98,300 and pushed the [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin dips to $105k on Q3 open despite record monthly close",
       "link": "https://cryptoslate.com/bitcoin-dips-to-105k-on-q3-open-despite-record-monthly-close/",
@@ -68,19 +78,14 @@
       "title": "SEC reportedly considering standard to fast-track crypto ETFs",
       "link": "https://cryptoslate.com/sec-reportedly-considering-standard-to-fast-track-crypto-etfs/",
       "summary": "<p>The Securities and Exchange Commission (SEC) is working with US exchanges on a generic listing framework for token-based exchange-traded funds (ETFs) that could eliminate the need for issuers to file individual rule-change requests, Fox News&#8217; Eleanor Terret reported on July 1. According to the report, the initiative would enable an ETF sponsor to bypass the customary [&#8230;]</p> <p>"
-    },
-    {
-      "title": "UniCredit to offer Bitcoin exposure to professional clients via BlackRock IBIT-linked certificate",
-      "link": "https://cryptoslate.com/unicredit-to-offer-bitcoin-exposure-to-professional-clients-via-blackrock-ibit-linked-certificate/",
-      "summary": "<p>European banking behemoth UniCredit is entering the crypto arena with a structured product tied to BlackRock\u2019s spot Bitcoin exchange-traded fund (ETF), Bloomberg News reported on July 1, citing an internal memo. Under the plan, UniCredit will offer professional clients a five-year, U.S. dollar-denominated investment certificate linked to BlackRock\u2019s iShares Bitcoin Trust (IBIT). The product will [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SEC approves Grayscale Index ETF conversion, clears Solana, XRP, Cardano for spot trading",
-      "link": "https://cryptoslate.com/sec-approves-grayscale-index-etf-conversion-clears-solana-xrp-cardano-for-spot-trading/",
-      "summary": "<p>The Securities and Exchange Commission (SEC) has approved the proposal to convert the Grayscale Digital Large Cap Fund into an exchange-traded fund (ETF), completing the conversion of the crypto index product into an ETF structure. According to a July 1 filing, the ETF will issue trust units that track a basket of the five largest [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "XRP Roadmap To $8.5: Why The Next Impulse Could Start Soon",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-roadmap-to-8-5/",
+      "summary": "XRP is starting to draw attention again as signs of a potential breakout begin to take shape. With market sentiment gradually shifting and XRP holding key support levels, analysts suggest that the stage may be set for the next impulse wave. If momentum continues to build and critical resistances are cleared, XRP could be on the verge of an explosive price rally to $8.5. Elliott Wave Points To Major XRP Price Breakout Paul Webborn, a crypto analyst on X (formerly Twitter), has released a new XRP forecast update, reinforcing his bullish stance on the third-largest cryptocurrency. In his analysis, the market expert reveals that XRP may be entering a powerful impulse phase, with projected targets potentially reaching or even surpassing $8 in the current cycle. Related Reading: Analyst Says XRP Is Moving According To Plan, Here\u2019s Why $1.90 Is Important Webborn\u2019s analysis applies Elliott Wave Theory to track XRP\u2019s price movements from its June 2022 low, identifying that point as the start of a new bullish cycle. The chart provides a visual roadmap of XRP\u2019s next moves based on the impulse wave structure. The cryptocurrency is expected to experience a short-term rise to initial targets below $8, followed by a brief pullback before a final rally that could push XRP to new all-time highs. Notably, the chart shows that primary Waves A and B have already played out, and XRP is now progressing through Wave C, which is unfolding in five intermediate waves. Intermediate waves 1 through 4 appear complete, with Wave 5 still forming. Webborn notes that this final fifth wave is expected to break down into five smaller minor waves. Minor wave 3 is projected to push XRP toward the $5 and $6 range, while the full extension of Wave C could carry it to between $8 and $10. The analyst has set an invalidation level at $1.90, meaning any move below that would break the current bullish structure and possibly lead to further downward pressure on the XRP price. Webborn predicts that if the $1.90 level is broken, XRP could potentially experience a crash toward new lows around $0.287, marking more than an 87% decline from its present market price. However, the chart suggests that this low has already been reached, further reinforcing the bullish narrative that the altcoin may be on the verge of a major upward breakout. While Webborn has provided no specific timeline for his optimistic forecast, the analyst believes that the coming few months could be explosive as the market enters the next phase of the impulse. Update On Price Action Lately, the XRP price has maintained strong support above $2, showing strength despite an extended consolidation period. CoinMarketCap data shows that the cryptocurrency is currently trading at $2.22, reflecting a modest 1.35% rise over the past day. Related Reading: Analyst Puts XRP Cycle High At $20-$30, Here\u2019s Why Although XRP is still priced significantly below its all-time high, data from CoinCodex shows that market sentiment remains highly bullish. The cryptocurrency\u2019s Fear and Greed Index also currently sits at 64, firmly in the \u2018Greed\u2019 zone. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "Solana Hits New Milestone: Wallets Holding 0.1+ SOL Reach Record High",
       "link": "https://www.newsbtc.com/news/solana/solana-hits-new-milestone-wallets-holding-0-1-sol-reach-record-high/",
@@ -100,14 +105,19 @@
       "title": "Bitcoin Network Volume Echoes Mid-2021 \u2018Stable Equilibrium\u2019 \u2013 Is A Big Move Brewing?",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-network-volume-echoes-mid-2021-stable-equilibrium-is-a-big-move-brewing/",
       "summary": "After rebounding from a local bottom of around $75,000 in April, Bitcoin (BTC) appears to be stuck in the $100,000 to $110,000 range, showing little indication of a clear directional trend. One key data point reflecting this indecision is Bitcoin\u2019s network volume. Bitcoin Network Volume Stuck In Balance Zone According to a recent CryptoQuant Quicktake post by contributor AxelAdlerJr, Bitcoin\u2019s network volume has stabilized in a state of &#8216;stable equilibrium,&#8217; reminiscent of the mid-2021 consolidation phase that preceded a major move. Related Reading: Bitcoin Binary CDD Hints At Healthy Consolidation, Not A Top For the uninitiated, Bitcoin network volume refers to the total value of BTC transferred across the blockchain over a specific period, typically used to gauge market activity and capital flow. Higher network volume suggests increased investor engagement and liquidity, while lower volume may indicate reduced interest or market stagnation. Notably, when BTC reached the upper end of its current range &#8211; around $110,000 &#8211; its average network volume surged to as high as $67 billion. Since then, the metric has slightly declined and now hovers around $58.7 billion. Since January 2024, Bitcoin\u2019s average network volume has ranged between $40 billion and $80 billion. According to the CryptoQuant analyst, this corridor has become a key indicator of network activity balance and broader market sentiment. Historically, when the Bitcoin average volume approached the upper-end of the range at $80 billion, it coincided with local price peaks of $70,000 and $100,000. On the contrary, moves toward the lower-end &#8211; around $40 billion &#8211; were associated with short-term pullbacks, though these dips were often quickly bought up by market participants. Currently, the $58.7 billion reading sits near the midpoint of this range, mirroring the consolidation phase observed in mid-2021. The analyst explained: As long as the indicator remains above the $40 billion level, we can speak of a stable fundamental market condition. Rising volumes above the $80 billion mark will confirm strengthening activity and fresh capital inflow. On the other hand, a sustained drop below $40 billion will indicate weakening network demand and may be a harbinger of a deeper correction. Is BTC Preparing For A Big Move? While Bitcoin network volume suggests the market is in a state of equilibrium, some on-chain metrics hint at a potential breakout building in the background &#8211; possibly paving the way for renewed bullish momentum. Related Reading: Bitcoin Poised For Rally As Geopolitical Tensions Ease And Inflation Expectations Fall For example, the BTC short-term holder floor has been rising steadily in recent months, currently hovering around $98,000. This provides a strong support base, potentially preventing a sharp downside correction. However, selling pressure from miners and long-term holders is also beginning to increase &#8211; casting some uncertainty over BTC\u2019s short-term price trajectory. At press time, BTC trades at $106,528, down 0.9% in the past 24 hours. Featured image from Unsplash, charts from CryptoQuant and TradingView.com"
-    },
-    {
-      "title": "Ethereum Indecision Masks A Bullish Setup \u2013 Here\u2019s Why BTC Holds The Key",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-indecision-close/",
-      "summary": "CRYPTOWZRD, in his latest update on X, highlighted Ethereum&#8216;s indecisive close, suggesting the market is still searching for clear direction. Despite the uncertainty, he remains optimistic, noting that both Bitcoin and BTC dominance are showing strength that could benefit ETH in the near term, with $2,800 marked as the next major resistance. Mixed Signals Across Ethereum Key Timeframes In"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Wallet of Satoshi Partners With Spark To Offer Self-Custodial Bitcoin Lightning Experience",
+      "link": "https://bitcoinmagazine.com/news/wallet-of-satoshi-partners-with-spark-to-offer-self-custodial-bitcoin-lightning-experience",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Wallet-of-Satoshi-Partners-With-Spark-To-Offer-Self-Custodial-Bitcoin-Lightning-Experience.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/wallet-of-satoshi-partners-with-spark-to-offer-self-custodial-bitcoin-lightning-experience\" rel=\"nofollow\"> </a></p> <p>Wallet of Satoshi will be in a beta version, bringing self-custody lightning wallets to Spark platform.</p> <p>"
+    },
+    {
+      "title": "Figma Reveals $70M Bitcoin ETF Holdings, Plans to Buy $30M More",
+      "link": "https://bitcoinmagazine.com/news/figma-reveals-70m-bitcoin-etf-holdings-plans-to-buy-30m-more",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Figma-Reveals-70M-Bitcoin-ETF-Holdings-Plans-to-Buy-30M-More.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/figma-reveals-70m-bitcoin-etf-holdings-plans-to-buy-30m-more\" rel=\"nofollow\"> </a></p> <p>The design software company invested $55M in a Bitwise Bitcoin ETF and got board approval to convert $30M USDC into Bitcoin.</p> <p>"
+    },
     {
       "title": "DDC Enterprise Finalizes $528 Million Financing to Accelerate Bitcoin Treasury Strategy",
       "link": "https://bitcoinmagazine.com/news/ddc-enterprise-finalizes-528-million-financing-to-accelerate-bitcoin-treasury-strategy",
@@ -122,19 +132,24 @@
       "title": "The One Big Beautiful Act Passes in the U.S. Senate \u2014 Without Bitcoin Tax Amendment",
       "link": "https://bitcoinmagazine.com/news/the-one-big-beautiful-act-passes-in-the-u-s-senate-without-bitcoin-tax-amendment",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/One-Big-Beautiful-Act-Bitcoin-Magazine.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-one-big-beautiful-act-passes-in-the-u-s-senate-without-bitcoin-tax-amendment\" rel=\"nofollow\"> </a></p> <p>Despite a push from Senator Cynthia Lummis (R-WY), an amendment regarding de minimus capital gains exemption on crypto spending was not included in the version of the One Big Beautiful Act that passed in the Senate.</p> <p>"
-    },
-    {
-      "title": "Public Companies Are Buying More Bitcoin Than ETFs for Third Quarter in a Row",
-      "link": "https://bitcoinmagazine.com/news/public-companies-are-buying-more-bitcoin-than-etfs-for-third-quarter-in-a-row",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Public-companies-are-buying-more-Bitcoin-than-ETFs-for-the-third-quarter-in-a-row-driven-by-favorable-regulations-and-a-desire-to-grow-investor-value.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/public-companies-are-buying-more-bitcoin-than-etfs-for-third-quarter-in-a-row\" rel=\"nofollow\"> </a></p> <p>Corporate treasuries have surpassed exchange-traded funds (ETFs) in Bitcoin accumulation for the third consecutive quarter, according to new data from Bitcoin Treasuries. Public companies acquired approximately 131,000 BTC in Q2 2025\u2014an 18% increase from the previous quarter\u2014compared to an 8% uptick, or 111,000 BTC, among ETFs.&#160; \u201cThe institutional buyer who is getting exposure to Bitcoin [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Italian Bank UniCredit SpA Announces Investment On BlackRock\u2019s Bitcoin ETF IBIT",
-      "link": "https://bitcoinmagazine.com/news/italian-bank-unicredit-spa-announces-investment-on-blackrocks-bitcoin-etf-ibit",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Italian-Bank-UniCredit-SpA-Announces-Investment-On-BlackRocks-Bitcoin-ETF-IBIT.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/italian-bank-unicredit-spa-announces-investment-on-blackrocks-bitcoin-etf-ibit\" rel=\"nofollow\"> </a></p> <p>The bank offers professional clients a five-year structured product with protection against losses and exposure to Bitcoin ETF performance.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "MARA Bitcoin Production Slides 25% as Mining Environment Toughens",
+      "link": "https://decrypt.co/328076/mara-bitcoin-production-slides-25-as-mining-environment-toughens",
+      "summary": "The Florida-based firm produced 237 fewer Bitcoin in June compared to the month prior, but said in its latest report that it would increase its network\u2019s power by 40%."
+    },
+    {
+      "title": "Fed Chair Powell Says Trump Policies to Blame for Lack of Rate Cuts",
+      "link": "https://decrypt.co/328069/fed-chair-powell-says-trump-policies-blame-lack-rate-cuts",
+      "summary": "Powell said Tuesday that if not for President Trump's aggressive tariff policies, the Fed would have likely already cut interest rates in 2025."
+    },
+    {
+      "title": "Why Is Robinhood Building on Arbitrum Instead of Solana?",
+      "link": "https://decrypt.co/328070/why-is-robinhood-building-on-arbitrum-instead-of-solana",
+      "summary": "A Kraken spokesperson told that the company is working to bring xStocks to chains beyond Solana."
+    },
     {
       "title": "You Can Now Trade Stocks Like NVDA and MSTR on Solana: Here's How It Works",
       "link": "https://decrypt.co/328052/you-can-trade-stocks-nvda-mstr-solana-how",
@@ -144,21 +159,6 @@
       "title": "Hong Kong-Based Food Firm Secures $528 Million to Boost Bitcoin Treasury",
       "link": "https://decrypt.co/328005/hong-kong-food-firm-528-million-boost-bitcoin-treasury",
       "summary": "Publicly traded DDC Enterprise plans to buy 5,000 BTC over the next three years after raising fresh funding to fuel its Bitcoin strategy."
-    },
-    {
-      "title": "Grayscale ETF Holding XRP, Solana and Cardano Receives SEC Green Light",
-      "link": "https://decrypt.co/328048/grayscale-etf-holding-xrp-solana-cardano-sec-green-light",
-      "summary": "The regulator approved Grayscale's bid to convert a fund primarily focused on Bitcoin, but also holding other major cryptocurrencies, into an exchange-traded fund."
-    },
-    {
-      "title": "Moon or Doom: Will Bitcoin See Fireworks on July 4?",
-      "link": "https://decrypt.co/328015/bitcoin-price-prediction-108k-myriad-july-4",
-      "summary": "Will Bitcoin close the week above $108,000? The odds on the Myriad prediction market have swung dramatically."
-    },
-    {
-      "title": "Trump\u2019s \u2018Big Beautiful Bill\u2019 Passes Senate\u2014Without Bitcoin Tax Exemptions",
-      "link": "https://decrypt.co/328037/trumps-big-beautiful-bill-passes-senate-without-bitcoin-tax-exemptions",
-      "summary": "Crypto industry leaders had raced to include provisions in the bill that would have offered crypto miners and retail users key tax benefits\u2014but the clock ran out."
     }
   ],
   "CryptoBriefing": [
