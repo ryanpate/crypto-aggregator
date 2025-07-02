@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Ripple Expands Stablecoin Infrastructure Partnership as it Seeks Bank License",
+      "link": "https://www.coindesk.com/business/2025/07/02/ripple-expands-stablecoin-infrastructure-partnership-as-it-seeks-bank-license",
+      "summary": ""
+    },
+    {
+      "title": "The Protocol: Ethereum\u2019s Vitalik Buterin Says the Ecosystem Is At Risk If Decentralization Is Just a Catchphrase",
+      "link": "https://www.coindesk.com/tech/2025/07/02/the-protocol-ethereum-s-vitalik-buterin-says-the-ecosystem-is-at-risk-if-decentralization-is-just-a-catchphrase",
+      "summary": ""
+    },
+    {
       "title": "BlackRock\u2019s Bitcoin ETF Generating More Revenue Than its Flagship S&P 500 Fund",
       "link": "https://www.coindesk.com/markets/2025/07/02/blackrock-s-bitcoin-etf-now-generates-more-revenue-than-its-flagship-s-and-p-500-fund",
       "summary": ""
@@ -14,19 +24,14 @@
       "title": "Polkadot's DOT Rises 6% as Bullish Momentum Breaks Key Resistance",
       "link": "https://www.coindesk.com/markets/2025/07/02/polkadots-dot-rises-6-as-bullish-momentum-breaks-key-resistance",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Futures Open Interest Surges Nearly 10% as BTC Eyes $110K",
-      "link": "https://www.coindesk.com/markets/2025/07/02/bitcoin-futures-open-interest-surges-nearly-10-as-btc-eyes-usd110k",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Rebounds Toward $110K, Presaging What Could Be a Volatile July",
-      "link": "https://www.coindesk.com/markets/2025/07/02/bitcoin-rebounds-toward-110k-presaging-what-could-be-a-volatile-july",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "SOL news update: REX Shares Solana ETF boosts price, but for how long?",
+      "link": "https://cointelegraph.com/news/sol-news-update-rex-shares-solana-etf-boosts-price-but-for-how-long?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwZWYtYTE1Yy03MzA5LWJkZDYtOWRlZWEwOWIwYTVk.jpg\" /></p><p>SOL rallied after the launch of the REX Shares Solana ETF, but bulls need to hold the price above $160.</p>"
+    },
     {
       "title": "Bitcoin\u2019s STH cost basis suggests $117K is the next stop for BTC price",
       "link": "https://cointelegraph.com/news/bitcoin-s-sth-cost-basis-suggests-btc-price-next-stop-could-be-117k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -45,15 +50,15 @@
     {
       "title": "Peter Thiel backs crypto-friendly Silicon Valley Bank rival \u2014 Report",
       "link": "https://cointelegraph.com/news/peter-thiel-erebor-silicon-valley-bank-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiZDYtNmIwMi03NTI4LTgzNDgtZjEwMTliY2I0MWUx.jpg\" /></p><p>Before its collapse, Silicon Valley Bank had deep ties to crypto companies and venture capital funds investing in the industry.</p>"
-    },
-    {
-      "title": "ETH news update: Ether rangebreak possible due to spot ETF inflows",
-      "link": "https://cointelegraph.com/news/eth-news-update-ether-rangebreak-possible-due-to-spot-etf-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I0MjItMGNjMS03NjBmLTg2MDktYmIxODVhYTcwNzk4.jpg\" /></p><p>ETH price has been stuck in a range despite months of steady spot Ether ETF inflows, but this situation could change quickly.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NjNjgtNTk0OC03MmVkLTg3MzItNTUyMjI3MTFhMjY5.jpg\" /></p><p>Before its collapse, Silicon Valley Bank had deep ties to crypto companies and venture capital funds investing in the industry.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ripple seeks a national bank charter approval to place RLUSD under state and federal oversight",
+      "link": "https://cryptoslate.com/ripple-seeks-a-national-bank-charter-approval-to-place-rlusd-under-state-and-federal-oversight/",
+      "summary": "<p>Ripple applied for a national bank charter with the Office of the Comptroller of the Currency (OCC) on July 2, CEO Brad Garlinghouse wrote in a post on X. The filing would place Ripple USD (RLUSD) under federal supervision while maintaining its existing oversight by the New York Department of Financial Services, creating a \u201cnew [&#8230;]</p> <p>"
+    },
     {
       "title": "Ethereum ETFs forecast to attract $10 billion by late 2025, says Bitwise CIO",
       "link": "https://cryptoslate.com/ethereum-etfs-forecast-to-attract-10-billion-by-late-2025-says-bitwise-cio/",
@@ -73,14 +78,14 @@
       "title": "Ripple claims no formal ties with Linqto amid share price manipulation scrutiny from SEC and DOJ",
       "link": "https://cryptoslate.com/ripple-claims-no-formal-ties-with-linqto-amid-share-price-manipulation-scrutiny-from-sec-and-doj/",
       "summary": "<p>Ripple CEO Brad Garlinghouse has addressed growing concerns from investors caught in the regulatory storm surrounding Linqto. Linqto is a private investment platform that sells access to the crypto payment firm&#8217;s equity through secondary markets. In a July 2 post on X, Garlinghouse clarified that Ripple has never had a formal relationship with Linqto and [&#8230;]</p> <p>"
-    },
-    {
-      "title": "SharpLink earns $540K in rewards after staking entire Ethereum portfolio of nearly 200k ETH",
-      "link": "https://cryptoslate.com/sharplink-earns-540k-in-rewards-after-staking-entire-ethereum-portfolio-of-nearly-200k-eth/",
-      "summary": "<p>SharpLink, Ethereum&#8217;s largest publicly traded holder, has expanded its ETH position, according to a July 1 statement. Between June 23 and June 27, the company acquired an additional 9,468 ETH for approximately $22.8 million, bringing its total Ethereum holdings to 198,167 ETH, valued at $485 million. According to DropsTab data, the firm&#8217;s unrealized loss is [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "AI Founder Puts XRP Price As High As $20-$30",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-as-high-as-20-30/",
+      "summary": "An AI startup founder and vocal XRP supporter on the social media platform X has offered his long-awaited price prediction for the cryptocurrency. XRP&#8217;s price action in recent days has been highlighted by a quick surge to $2.30 on June 30, in what looks like the bulls trying to close the month of June above $2.20. That momentum, however, was short-lived, as the cryptocurrency has slipped back below this level in the most recent two days. Although momentum has not yet returned in full, bullish predictions are still active, and this latest prediction adds another confident voice to the growing chorus of those expecting a significant breakout. XRP Price As High As $20 To $30 Taking to the social media platform, Vincent Van Code, an AI startup founder, offered his personal price outlook for XRP. He explained that while he rarely comments on specific targets, he believes the asset has the potential to reach between $30 and $50. Related Reading: Analyst Reveals Rational Behind XRP Price Reaching $9.5 And $37.5 However, it is important to note that this reasoning is not rooted in technical analysis, but rather in belief and long-term conviction based on XRP&#8217;s current price trajectory. Furthermore, he noted that his investment in XRP is shaped by this personal view of a $20 to $30 price target and admitted he cannot predict the timing of such a rally. The details of how the journey plays out to this price target are far less important than the eventual outcome. It is clear that the ultra-bullish price prediction is not intended to persuade or convince others. However, it shows the confidence some traders have in XRP&#8217;s future price. It also resonates with many predictions from other crypto participants regarding XRP, both in terms of technical and fundamental analysis. Familiar Price Predictions Within The Altcoin&#8217;s Circle This prediction aligns with a broader sense of optimism often found among XRP supporters. Although some critics continue to argue that price targets of $30 or more are unrealistic, especially due to its huge circulating supply, many in the XRP community continue to see such price targets as attainable. Related Reading: Deaton Says Ripple IPO Could Trigger $100B Valuation, How High Will The XRP Price Be? The beliefs of extravagant XRP price targets are often based on its fundamentals, mostly on expectations of widespread adoption in cross-border payments and institutional adoption of the cryptocurrency. In fact, one analyst pointed to this as the reason why the XRP price will surge above $1,000, stabilize at this level, and eventually become very expensive. Technical analysis from crypto analyst JackTheRippler pointed to an incoming price target above $30 for XRP. In a similar vein, a recent technical analysis by popular crypto analyst EGRAG CRYPTO shows that the altcoin is on track to climb above $9.5 and reach as high as $37.5. XRP rallied to as high as $2.30 on June 30, and then reversed to an intraday low of $2.15 in the past 24 hours. At the time of writing, XRP is trading at $2.19. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "Bitcoin Finds Support Above 50-Day SMA, But Next Direction Remains Uncertain",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-next-direction-uncertain/",
@@ -100,14 +105,14 @@
       "title": "Dogecoin Under $0.20 \u2018Is Free,\u2019 Says Analyst\u2014Predicts 2,000% Upside",
       "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-under-0-20-is-free-predicts-2000-upside/",
       "summary": "Dogecoin is revisiting a technical juncture it has not seen since the months preceding its 2020\u201321 parabolic rally, according to a comparative chart published by the pseudonymous analyst Kaleo to his 705,000 followers on X. In the annotated TradingView graphic, weekly candles for DOGE-USD trace two multi-year falling wedge structures\u2014one stretching from the January 2018 high to early 2021, and an almost mirror-image pattern extending from the May 2021 peak until today. History Repeating For Dogecoin? The first wedge resolved in late 2020 with a decisive breakout above a descending trend-line that had capped every rally for more than thirty-six months. Kaleo marks that moment with a yellow label reading \u201cWe are here\u201d at roughly $0.003, immediately before the price detonated to the cycle top near $0.75 in May 2021. Related Reading: Dogecoin Under Pressure: Only Top 10 Coin Where Loss-Taking Exceeds Profit The current structure shows the same downward-sloping resistance\u2014now anchored by successive lower highs from $0.16 in late 2022 to $0.11 in late 2023\u2014finally giving way. Since the, DOGE has recorded higher highs in April at $0.22 and in December 2024 at $0.48. Friday\u2019s close printed at $0.1604, still below the psychological $0.20 threshold but fractionally above the dotted secondary resistance that has defined the wedge\u2019s upper boundary since mid-2022. Kaleo\u2019s overlay projects the 2020 breakout trajectory forward in time, mapping a near-vertical thrust from the present $0.16 area to roughly $0.55, a brief consolidation, and a continuation leg that tops close to $3.50. While this upper target hasn\u2019t ever been printed in DOGE\u2019s history, the analyst\u2019s replica path underscores how little overhead structure exists once price escapes the wedge. Related Reading: Dogecoin Flashes Rare Buy Signal\u2014But One Move Could Ruin It A key role in the chart are playing the two vertical dashed lines labeled \u201cBTC Halving\u201d: 12 May 2020 and 21 April 2024. In Kaleo\u2019s read, Dogecoin\u2019s macro reversals are synchronized with Bitcoin\u2019s quadrennial supply shock, implying that the breakout could be a post-halving echo of the 2020 move. Price construction within the wedge also mirrors the earlier cycle: successive lower highs and higher lows compress volatility until an impulsive weekly bar pierces resistance. The horizontal line intersecting the new breakout\u2014will be the first major test of post-wedge momentum. Below, the lower dashed boundary intersects in the region between $0.10 and $0.09; a weekly close beneath that floor would invalidate the fractal. Kaleo distills the setup into a single line: \u201cDogecoin under 20 cents is free.\u201d On the chart\u2019s scale, the red quote-box at $0.1604 sits a hair\u2019s breadth under the $0.20 psychological band, reinforcing the idea that the risk-to-reward profile remains asymmetric so long as price stays below that number. Whether history rhymes as precisely as the analyst\u2019s fractal suggests will hinge on broader market liquidity and Bitcoin\u2019s dominance, but from a purely structural perspective the meme-coin has already checked the same boxes it did four years ago. And the US Federal Reserve money printer hasn\u2019t even started roaring again. At press time, DOGE traded at $0.161. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Public Firms Snag 131,000 BTC, Surpassing ETFs In Bitcoin Purchases",
-      "link": "https://www.newsbtc.com/bitcoin-news/public-firms-snag-131000-btc-surpassing-etfs-in-bitcoin-purchases/",
-      "summary": "According to CNBC, corporate treasuries around the globe have surpassed exchange-traded funds (ETFs) in Bitcoin (BTC) acquisitions for three consecutive quarters. This indicates a growing interest among public companies to adopt strategies similar to those pioneered by Strategy, especially in a more favorable regulatory environment under President Donald Trump\u2019s administration. Bitcoin Holdings Surge Data from Bitcoin Treasuries shows that public companies acquired approximately 131,000 Bitcoin in the second quarter of the year, marking an 18% increase in their BTC holdings. In contrast, exchange-traded funds managed to secure about 111,000 Bitcoin, representing an 8% growth during the same period. Related Reading: Ethereum Indecision Masks A Bullish Setup \u2013 Here\u2019s Why BTC Holds The Key Nick Marie, head of research at Ecoinometrics, emphasized that the motivations behind these purchases differ significantly. While institutional buyers utilizing ETFs seek exposure to BTC for a variety of reasons, Marie asserted that public companies are primarily focused on accumulating Bitcoin to enhance shareholder value. The market dynamics have also shown that public company BTC holdings increased by 4% in April, a month marked by significant volatility following President Trump\u2019s announcement of initial tariffs. During the same time frame, ETF holdings rose by only 2%. Marie noted that public companies are less concerned with Bitcoin&#8217;s current market price, prioritizing the growth of their Bitcoin reserves to appear more attractive to potential investors. ETFs Still Dominate In This Key Metric Despite the increasing activity from public companies, Bitcoin ETFs remain the largest holders of the cryptocurrency, collectively holding over 1.4 million BTC, or about 6.8% of the total capped supply of 21 million coins. Public companies, on the other hand, hold around 855,000 Bitcoin, approximately 4% of the total supply. The recent surge in corporate BTC accumulation is also a reflection of significant regulatory changes favoring the crypto industry. The last time ETFs outperformed public companies in Bitcoin purchases was during the third quarter of 2024, prior to Trump&#8217;s re-election. Several notable companies have entered the Bitcoin market recently. GameStop began acquiring Bitcoin after its board approved it as a treasury reserve asset earlier this year. Similarly, health-care firm KindlyMD merged with Nakamoto, a Bitcoin investment company, while investor Anthony Pompliano&#8217;s ProCap launched its own BTC purchasing initiative and plans to go public via a special purpose acquisition company (SPAC). Direct Exposure May Ease Strategy, formerly MicroStrategy, continues to lead the charge in the Bitcoin treasury space with approximately 597,000 Bitcoin in its possession. Following closely is Bitcoin miner Mara Holdings, which holds nearly 50,000 coins. Ben Werkman, chief investment officer at Swan BTC, remarked on the challenges smaller firms face in trying to match Strategy&#8217;s scale. He predicted that institutional capital will continue to gravitate toward Strategy due to its deep liquidity and established presence. Related Reading: BitMine Stock Soars 700% After $250 Million Raise For Ethereum Treasury Looking ahead, Marie suggested that the number of companies adhering to a BTC treasury strategy may dwindle over the next decade as the market matures. He noted that as more firms enter the space, the individual impact of each company will likely diminish. Additionally, as Bitcoin becomes more normalized, investor constraints regarding direct exposure may fade. Featured image from DALL-E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin Mining Has Huge Role In Energy Production Expansion",
+      "link": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-has-huge-role-in-energy-production-expansion",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Power-Grid-and-Mining.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-has-huge-role-in-energy-production-expansion\" rel=\"nofollow\"> </a></p> <p>The most beneficial aspect of bitcoin mining is the most important for electric utilities, and the most overlooked.</p> <p>"
+    },
     {
       "title": "BlackRock\u2019s Bitcoin ETF Drives More Revenue Than Its S&P 500 Fund",
       "link": "https://bitcoinmagazine.com/news/blackrocks-bitcoin-etf-drives-more-revenue-than-its-sp-500-fund",
@@ -127,14 +132,19 @@
       "title": "Thesis* Acquires Lolli to Expand Bitcoin Rewards Ecosystem",
       "link": "https://bitcoinmagazine.com/news/thesis-acquires-lolli-to-expand-bitcoin-rewards-ecosystem",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_beautiful_woman_wearing_a_long_white_dress_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/thesis-acquires-lolli-to-expand-bitcoin-rewards-ecosystem\" rel=\"nofollow\"> </a></p> <p>Bitcoin rewards platform joins forces with venture studio to enhance user experience and streamline payouts.</p> <p>"
-    },
-    {
-      "title": "Wallet of Satoshi Partners With Spark To Offer Self-Custodial Bitcoin Lightning Experience",
-      "link": "https://bitcoinmagazine.com/news/wallet-of-satoshi-partners-with-spark-to-offer-self-custodial-bitcoin-lightning-experience",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Wallet-of-Satoshi-Partners-With-Spark-To-Offer-Self-Custodial-Bitcoin-Lightning-Experience.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/wallet-of-satoshi-partners-with-spark-to-offer-self-custodial-bitcoin-lightning-experience\" rel=\"nofollow\"> </a></p> <p>Wallet of Satoshi will be in a beta version, bringing self-custody lightning wallets to Spark platform.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Crypto Billionaire Bit Off Attacker\u2019s Finger in Attempted Kidnapping: Report",
+      "link": "https://decrypt.co/328268/crypto-billionaire-bit-off-attackers-finger-attempted-kidnapping",
+      "summary": "Billionaire investor and entrepreneur Tim Heath shared his experience amid a growing trend of \u201cwrench attacks\u201d against crypto holders."
+    },
+    {
+      "title": "Bitcoin and Ethereum Bounce, But This Meme Coin Is Stealing the Show: Analysis",
+      "link": "https://decrypt.co/328232/bitcoin-ethereum-price-bounce-meme-coin-analysis",
+      "summary": "Bitcoin and Ethereum prices are showing signs of life, but for traders with high-risk appetites, an underdog meme coin is flashing bullish signs."
+    },
     {
       "title": "Researchers Use AI to Reconstruct 3,000-Year-Old Babylonian Hymn",
       "link": "https://decrypt.co/328223/researchers-ai-reconstruct-3000-year-old-babylonian-hymn",
@@ -149,16 +159,6 @@
       "title": "Bitcoin Headed for 'Best Ever' Second Half of the Year: Standard Chartered",
       "link": "https://decrypt.co/328160/bitcoin-best-second-half-year-standard-chartered",
       "summary": "Bitcoin could hit new highs in the second half of this year, as institutional treasury buying breaks historical post-halving patterns."
-    },
-    {
-      "title": "Judge Says $4 Billion Celsius Lawsuit Against Tether Can Proceed",
-      "link": "https://decrypt.co/328199/judge-4-billion-celsius-lawsuit-tether-proceed",
-      "summary": "Bankrupt Celsius wins right to pursue $4B lawsuit against Tether over alleged improper liquidation of 39,500 Bitcoin held as loan collateral."
-    },
-    {
-      "title": "UK Pension Firm Sees Growing Interest in Bitcoin Exposure",
-      "link": "https://decrypt.co/328193/uk-pension-firm-sees-growing-interest-in-bitcoin-exposure",
-      "summary": "Cartwright Pension Trusts helped a pioneering pension scheme to secure returns of about 60% from its BTC allocation in under a year."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "TRX revenue hits 4-year low as $185 mln exits TRON \u2013 Is a deeper dump underway?",
+      "link": "https://ambcrypto.com/trx-revenue-hits-4-year-low-as-185-mln-exits-tron-is-a-deeper-dump-underway/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/E7F125EF-7852-4D41-90FD-1BD50C6DB090.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />TRON activity remains sluggish and could negatively impact the token's price."
+    },
+    {
       "title": "MicroStrategy-led public firms outpace ETFs in BTC buys: What it means for Bitcoin",
       "link": "https://ambcrypto.com/microstrategy-led-public-firms-outpace-etfs-in-btc-buys-what-it-means-for-bitcoin/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/BitcoinFIIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BTC price momentum has weakened into Q3 despite massive demand from public companies in H1."
@@ -208,11 +213,6 @@
       "title": "Trump\u2019s new tariff threats rattle markets \u2013 Assessing the impact on Bitcoin",
       "link": "https://ambcrypto.com/trumps-new-tariff-threats-rattle-markets-assessing-the-impact-on-bitcoin/",
       "summary": "<img alt=\"Trump\u2019s new tariff threats rattle markets - Assessing the impact on Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"572\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Trump-refuses-tariff-pause.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1017\" />S&#038;P dipped by 14 points and the crypto market crashed, with XRP, ETH, and DOGE leading losses."
-    },
-    {
-      "title": "Ripple\u2019s 900 mln XRP shuffle sparks chatter \u2013 Is a liquidation event looming?",
-      "link": "https://ambcrypto.com/ripples-900-mln-xrp-shuffle-sparks-chatter-is-a-liquidation-event-looming/",
-      "summary": "<img alt=\"Ripple\u2019s 900 mln XRP shuffle sparks chatter - Is a liquidation event looming?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-02T131959.389-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple\u2019s large token movements haven\u2019t revived usage, as both traders and users remain cautious."
     }
   ]
 }
