@@ -1,59 +1,64 @@
 {
   "CoinDesk": [
     {
-      "title": "Deutsche Bank Plans to Introduce Crypto Custody With Bitpanda Next Year: Bloomberg",
-      "link": "https://www.coindesk.com/business/2025/07/02/deutsche-bank-plans-to-introduce-crypto-custody-with-bitpanda-next-year-bloomberg",
+      "title": "Genius Group Adds 20 Bitcoin, Targets 1K BTC Within Six Months",
+      "link": "https://www.coindesk.com/markets/2025/07/02/genius-group-adds-20-bitcoin-targets-1k-btc-within-six-months",
       "summary": ""
     },
     {
-      "title": "Bitcoin Bulls Should Be Wary as Dollar Index Chart Flashes 'Death Cross': Technical Analysis",
-      "link": "https://www.coindesk.com/markets/2025/07/02/bitcoin-bulls-should-be-wary-as-dollar-index-chart-flashes-death-cross-technical-analysis",
+      "title": "CoinDesk 20 Performance Update: NEAR Protocol Rises 3.8% as Index Trades Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/07/02/coindesk-20-performance-update-near-protocol-rises-3-8-as-index-trades-higher",
       "summary": ""
     },
     {
-      "title": "Crypto Daybook Americas: Bitcoin Rallies Into July as Options, Futures Signal Indifference",
-      "link": "https://www.coindesk.com/daybook-us/2025/07/02/crypto-daybook-americas-bitcoin-rallies-into-july-as-options-futures-signal-indifference",
+      "title": "Bitcoin DeFi Project BOB Launches BitVM Bridge Testnet",
+      "link": "https://www.coindesk.com/tech/2025/07/02/bitcoin-defi-project-bob-launches-bitvm-bridge-testnet",
       "summary": ""
     },
     {
-      "title": "Bitcoin Trades Within Descending Channel as CME Gap Gets Filled",
-      "link": "https://www.coindesk.com/markets/2025/07/02/bitcoin-trades-within-descending-channel-as-cme-gap-gets-filled",
+      "title": "Italian Banking Group Banca Sella Pilots Stablecoin Custody With Fireblocks: Bloomberg",
+      "link": "https://www.coindesk.com/business/2025/07/02/italian-banking-group-banca-sella-pilots-stablecoin-custody-with-fireblocks-bloomberg",
       "summary": ""
     },
     {
-      "title": "Instant Payments Fintech Ivy Adds Circle\u2019s USDC, EURC Stablecoins",
-      "link": "https://www.coindesk.com/business/2025/07/02/instant-payments-fintech-ivy-adds-circle-s-usdc-eurc-stablecoins",
+      "title": "Coinbase Acquires Token Management Platform LiquiFi for Undisclosed Amount",
+      "link": "https://www.coindesk.com/business/2025/07/02/coinbase-acquires-token-management-platform-liquifi-for-undisclosed-amount",
       "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "KBC Bank to offer Bitcoin, Ether to retail customers: Report",
+      "link": "https://cointelegraph.com/news/kbc-bank-bitcoin-ether-investment-belgium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiNDctNmY1Zi03NDlhLWIyNjItZWQ3OTU4YWM0OWI1.jpg\" /></p><p>Belgium\u2019s KBC Bank reportedly plans to let retail customers invest in Bitcoin and Ether via its Bolero platform, pending regulatory approval later this year.</p>"
+    },
+    {
+      "title": "PancakeSwap doubles quarterly volume to $530B as upgrades boost growth",
+      "link": "https://cointelegraph.com/news/pancakeswap-hits-record-325b-in-june-volume-doubling-q2-trading-year-over-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkwOWYtMzA5OS03YjM3LWE3ZWItZTdlZTJlMzk5NzFh.jpg\" /></p><p>PancakeSwap posted $325 billion in June trading volume, its highest ever, as crosschain swaps and Solana expansion fueled growth and dominance on BNB Chain.</p>"
+    },
+    {
+      "title": "Euro stablecoin by DWS and Deutsche Bank gets regulatory approval",
+      "link": "https://cointelegraph.com/news/euro-stablecoin-by-dws-and-deutsche-bank-gets-regulatory-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzM0MTUtYTFiZi03ZTM1LTg2NDUtNGY5MGZlMDFjYTM3.jpg\" /></p><p>AllUnity, a stablecoin joint venture by Deutsche Bank and DWS, has received a BaFin license in Germany to issue a MiCA-compliant euro stablecoin, EURAU.</p>"
+    },
+    {
       "title": "Binance Pay brings crypto payments to 80+ French Riviera merchants",
       "link": "https://cointelegraph.com/news/binance-pay-lyzi-crypto-payments-french-riviera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiMWYtYzQ0Yi03ZmUwLThlNWEtOGVlYTVkY2U0NDRl.jpg\" /></p><p>Binance Pay and Lyzi team up to bring crypto payments to over 80 businesses across the French Riviera, spanning Cannes, Nice, Antibes and Monaco.</p>"
-    },
-    {
-      "title": "Coinbase acquires token management platform Liquifi",
-      "link": "https://cointelegraph.com/news/coinbase-acquires-token-management-platform-liquifi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2MTYtNTdjYi03MjMyLWFkNTEtZGQ2MWQ1NWNmYzcy.jpg\" /></p><p>Coinbase\u2019s acquisition of Liquifi aims to address the complexity of token launches by onchain builders by making them faster and easier.</p>"
-    },
-    {
-      "title": "Bitcoin traders adopt \u2018defensive stance\u2019 as 15-day ETF inflow streak ends",
-      "link": "https://cointelegraph.com/news/bitcoin-traders-adopt-defensive-stance-15-day-etf-inflow-streak-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhZjEtYThiNy03YThkLWFjNzUtZTNlNmQ2ZWJhMjA5.jpg\" /></p><p>Multiple onchain Bitcoin metrics suggest that traders are holding back from making any risk moves.</p>"
-    },
-    {
-      "title": "ECB to pilot blockchain-based euro settlement system by 2026",
-      "link": "https://cointelegraph.com/news/ecb-launches-two-track-dlt-settlement-plan-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NTMtOTQ1MC03OTRjLWFkNzktYWUyY2Y5N2NjZWM2.jpg\" /></p><p>The European Central Bank will launch a blockchain settlement pilot by late 2026 under its new Pontes initiative, aiming to connect DLT platforms with the eurozone\u2019s core payment systems.</p>"
-    },
-    {
-      "title": "Bybit, OKX expand crypto services in Europe under MiCA",
-      "link": "https://cointelegraph.com/news/bybit-okx-launch-mica-compliant-crypto-platforms-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMTYtZThlMC03ZTliLWE4ZjgtNzI3MGFhYzIyYjM4.jpg\" /></p><p>Bybit and OKX have both launched MiCA-compliant crypto exchanges in the EU, marking a significant push into Europe\u2019s newly unified regulatory landscape.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "SharpLink earns $540K in rewards after staking entire Ethereum portfolio of nearly 200k ETH",
+      "link": "https://cryptoslate.com/sharplink-earns-540k-in-rewards-after-staking-entire-ethereum-portfolio-of-nearly-200k-eth/",
+      "summary": "<p>SharpLink, Ethereum&#8217;s largest publicly traded holder, has expanded its ETH position, according to a July 1 statement. Between June 23 and June 27, the company acquired an additional 9,468 ETH for approximately $22.8 million, bringing its total Ethereum holdings to 198,167 ETH, valued at $485 million. According to DropsTab data, the firm&#8217;s unrealized loss is [&#8230;]</p> <p>"
+    },
     {
       "title": "Trump family\u2019s American Bitcoin mining company readies to go public with updated SEC S-4 filing",
       "link": "https://cryptoslate.com/trump-familys-american-bitcoin-mining-company-readies-to-go-public-with-updated-sec-s-4-filing/",
@@ -73,11 +78,6 @@
       "title": "Bitcoin realized market cap stacking shows silent strength beneath price action",
       "link": "https://cryptoslate.com/bitcoin-realized-market-cap-stacking-shows-silent-strength-beneath-price-action/",
       "summary": "<p>Bitcoin&#8217;s market cap reached a new all-time high in late May, touching $2.22 trillion before retreating to $2.13 trillion at the end of June. But while the headline price wavered, a closer look at Bitcoin&#8217;s full valuation stack reveals a much deeper and more resilient layer of capital inflows. Realized, delta, and thermo cap expanded [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Arizona governor vetoes bill for state-run digital assets reserve for third time",
-      "link": "https://cryptoslate.com/arizona-governor-vetoes-bill-for-state-run-digital-assets-reserve-for-third-time/",
-      "summary": "<p>Arizona Governor Katie Hobbs has vetoed a proposed law establishing a state-run Bitcoin and digital assets reserve fund. On July 1, Governor Hobbs informed House Speaker Steve Montenegro in a letter that she opposed House Bill 2324, which sought to establish a &#8220;Digital Assets Reserve Fund&#8221; funded by criminal asset forfeiture. In her veto letter, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Coinbase Acquires Token Management Platform LiquiFi as Exchange Aims to Expand Its Services",
+      "link": "https://decrypt.co/328192/coinbase-acquires-token-management-platform-liquifi-as-exchange-aims-to-expand-its-services",
+      "summary": "The acquisition, the fifth this year for the exchange, will help early-stage projects, Coinbase said in a blog post."
+    },
+    {
+      "title": "Wimbledon Stars Lead 'Flappy Racquet' Telegram Game Ahead of SCOR Token Launch",
+      "link": "https://decrypt.co/328180/wimbledon-stars-join-flappy-racquet-telegram-tennis-game",
+      "summary": "Flappy Racquet puts a tennis twist on Flappy Bird, implementing Wimbledon stars as playable NFT characters ahead of the SCOR airdrop."
+    },
+    {
       "title": "Bitcoin ETFs Shed $342 Million As 15-Day Streak Ends",
       "link": "https://decrypt.co/328161/bitcoin-etfs-shed-342-million-as-15-day-streak-ends",
       "summary": "With the Fed signaling it will maintain its restrictive monetary policy stance, investors are rethinking their exposure to Bitcoin ETFs."
@@ -149,16 +159,6 @@
       "title": "Why On-Chain Metrics Miss the Full Picture of Institutional Bitcoin Buying",
       "link": "https://decrypt.co/328136/chain-metrics-miss-full-picture-institutional-bitcoin-buying",
       "summary": "Bitcoin hit a record monthly close in June, but experts say on-chain data is missing the scale of institutional demand via ETFs and OTC desks."
-    },
-    {
-      "title": "Arizona Governor Yet Again Rejects Bitcoin Reserve Using Seized Crypto",
-      "link": "https://decrypt.co/328133/arizona-governor-rejects-bitcoin-reserve-seized-crypto-again",
-      "summary": "Mounting crypto-related vetoes point to the state's cautious approach, but a future governor could hold an opposing view, was told."
-    },
-    {
-      "title": "Figma Eyes Further Bitcoin Exposure in Run-Up to Hopeful NYSE Debut",
-      "link": "https://decrypt.co/328130/figma-bitcoin-exposure-nyse-debut",
-      "summary": "Figma\u2019s $69.5 million Bitcoin ETF holding now accounts for 4.5% of its cash and securities portfolio, the company revealed Tuesday."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Trump\u2019s new tariff threats rattle markets \u2013 Assessing the impact on Bitcoin",
+      "link": "https://ambcrypto.com/trumps-new-tariff-threats-rattle-markets-assessing-the-impact-on-bitcoin/",
+      "summary": "<img alt=\"Trump\u2019s new tariff threats rattle markets - Assessing the impact on Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"572\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Trump-refuses-tariff-pause.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1017\" />S&#038;P dipped by 14 points and the crypto market crashed, with XRP, ETH, and DOGE leading losses."
+    },
+    {
       "title": "Ripple\u2019s 900 mln XRP shuffle sparks chatter \u2013 Is a liquidation event looming?",
       "link": "https://ambcrypto.com/ripples-900-mln-xrp-shuffle-sparks-chatter-is-a-liquidation-event-looming/",
       "summary": "<img alt=\"Ripple\u2019s 900 mln XRP shuffle sparks chatter - Is a liquidation event looming?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-02T131959.389-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Ripple\u2019s large token movements haven\u2019t revived usage, as both traders and users remain cautious."
@@ -208,11 +213,6 @@
       "title": "FARTCOIN loses $8.4 mln to whale exits \u2013 Can buyers hold on to the $1 support?",
       "link": "https://ambcrypto.com/fartcoin-loses-8-4-mln-to-whale-exits-can-buyers-hold-on-to-the-1-support/",
       "summary": "<img alt=\"FARTCOIN loses $8.4 mln to whale exits - Can buyers hold on to the $1 support?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Gladys-23.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With whales gone and retail spooked, who\u2019s still left to buy the dip?"
-    },
-    {
-      "title": "Bitcoin\u2019s historic July strength meets its biggest test in 3 years",
-      "link": "https://ambcrypto.com/bitcoins-historic-july-strength-meets-its-biggest-test-in-3-years/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s July hike: One last push or the start of descent?"
     }
   ]
 }
