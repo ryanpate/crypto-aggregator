@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "OpenAI Warns That Tokenized Equity Sale on Robinhood Is Unauthorized",
+      "link": "https://www.coindesk.com/markets/2025/07/02/openai-warns-that-tokenized-equity-sale-on-robinhood-is-unauthorized",
+      "summary": ""
+    },
+    {
       "title": "NY Bankruptcy Judge Gives Celsius the Green Light to Pursue $4.3B Lawsuit Against Tether",
       "link": "https://www.coindesk.com/policy/2025/07/02/ny-bankruptcy-judge-gives-celsius-the-green-light-to-pursue-usd4-3b-lawsuit-against-tether",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "BONK Surges 10% as Tuttle Capital Sets July 16 as Earliest Launch Date for Its 2X Leveraged ETF",
       "link": "https://www.coindesk.com/markets/2025/07/02/bonk-surges-10-as-tuttle-capital-sets-july-16-as-earliest-launch-date-for-its-2x-leveraged-etf",
       "summary": ""
-    },
-    {
-      "title": "JPMorgan\u2019s Blockchain Arm Kinexys Tests Tokenized Carbon Credits With S&P Global",
-      "link": "https://www.coindesk.com/business/2025/07/02/jpmorgans-blockchain-arm-kinexys-tests-tokenized-carbon-credits-with-sp-global",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "OpenAI says Robinhood tokens are not equity in the company",
+      "link": "https://cointelegraph.com/news/openai-clarifies-robinhood-tokens-not-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NkMWEtODgyYy03MmMyLTg3YzYtYzBiN2Y0MWI2NTE5.jpg\" /></p><p>The platform's OpenAI private equity tokens were disavowed by the company and co-founder, Elon Musk, who called them \"fake.\"</p>"
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,19 @@
       "title": "LTC under $90: Buying opportunity or warning sign?",
       "link": "https://cointelegraph.com/news/litecoin-under-90-buying-opportunity-or-warning-sign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiNjgtMWM0MC03MTMyLWI0MzctZjhmMDMzNTMzMmQx.jpg\" /></p><p>LTC price fell under $90, but multiple factors suggest Q4 2025 could be an exciting time for the altcoin.</p>"
-    },
-    {
-      "title": "SEC ends \u2018regulation through enforcement,\u2019 calls tokenization &#039;innovation&#039;",
-      "link": "https://cointelegraph.com/news/sec-chair-paul-atkins-tokenization-crypto-regulation-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg\" /></p><p>In a media interview, Chair Paul Atkins pledged to empower businesses to innovate through tokenization.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "End of the quarter wipes out billions from Bitcoin open interest",
+      "link": "https://cryptoslate.com/end-of-the-quarter-wipes-out-billions-from-bitcoin-open-interest/",
+      "summary": "<p>Bitcoin&#8217;s derivatives market saw a quiet but meaningful repositioning in July, marked by two liquidation-driven drawdowns in futures and a record expiry event that wiped out over $15 billion in options open interest. These changes took place alongside relatively muted price action, as Bitcoin hovered between $101,000 and $110,000 throughout June before stabilizing near $107,000 [&#8230;]</p> <p>"
+    },
+    {
+      "title": "DeFi Development Corp. to raise $100M for Solana treasury acquisitions ahead of ETF launches",
+      "link": "https://cryptoslate.com/defi-development-corp-to-raise-100m-for-solana-treasury-acquisitions-ahead-of-etf-launches/",
+      "summary": "<p>DeFi Development Corp has unveiled plans to raise $100 million through a private offering of convertible senior notes to strengthen its Solana-focused treasury strategy as anticipation for potential U.S. approval of Solana exchange-traded funds (ETFs) ramps up. DeFi Development Corp. said proceeds will be used partly to repurchase its own shares through a prepaid forward [&#8230;]</p> <p>"
+    },
     {
       "title": "OpenAI disavows Robinhood\u2019s \u2018OpenAI tokens,\u2019 says demo stock was not approved and has no equity backing",
       "link": "https://cryptoslate.com/openai-disavows-robinhoods-openai-tokens-says-demo-stock-was-not-approved-and-has-no-equity-backing/",
@@ -68,16 +78,6 @@
       "title": "StanChart predicts Bitcoin\u2019s new cycle may defy past patterns with ETF and policy tailwinds",
       "link": "https://cryptoslate.com/stanchart-predicts-bitcoins-new-cycle-may-defy-past-patterns-with-etf-and-policy-tailwinds/",
       "summary": "<p>Bitcoin (BTC) could see its strongest half-year performance ever in late 2025, driven by record ETF inflows, policy risks to the Federal Reserve, and broadening sovereign adoption, according to Geoffrey Kendrick, head of digital assets research at Standard Chartered. In a July 2 research note, Kendrick forecasted that ETF inflows and corporate treasury purchases will [&#8230;]</p> <p>"
-    },
-    {
-      "title": "CleanSpark\u2019s Tennessee expansion boosts stock 11% amid local unrest",
-      "link": "https://cryptoslate.com/cleansparks-tennessee-expansion-boosts-stock-11-amid-local-unrest/",
-      "summary": "<p>Bitcoin miner CleanSpark has reportedly received approval to build a new mining facility in Mountain City, Tennessee, local media outlet WCYB reported on July 2. According to the report, the Mountain City Board of Mayor and Aldermen approved the mine&#8217;s development after a 3-1 vote to rezone the targeted 50-acre site. The land will shift [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Canadian fintech Mogo\u2019s $50M Bitcoin reserve plan ignites 140% share surge at market opening",
-      "link": "https://cryptoslate.com/canadian-fintech-mogos-50m-bitcoin-reserve-plan-ignites-140-share-surge-at-market-opening/",
-      "summary": "<p>Canadian fintech Mogo announced on July 2 that its board had cleared up to $50 million for staged Bitcoin purchases as a long-term treasury reserve, prompting its shares to jump 140% at market opening on the Toronto Stock Exchange. MOGO closed July 1 priced at 1.74 Canadian dollars, worth roughly $1.28. It opened on July [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
