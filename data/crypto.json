@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Trades Within Descending Channel as CME Gap Gets Filled",
+      "link": "https://www.coindesk.com/markets/2025/07/02/bitcoin-trades-within-descending-channel-as-cme-gap-gets-filled",
+      "summary": ""
+    },
+    {
+      "title": "Instant Payments Fintech Ivy Adds Circle\u2019s USDC, EURC Stablecoins",
+      "link": "https://www.coindesk.com/business/2025/07/02/instant-payments-fintech-ivy-adds-circle-s-usdc-eurc-stablecoins",
+      "summary": ""
+    },
+    {
       "title": "U.S. M2 Money Supply Hits Record High of Nearly $22T",
       "link": "https://www.coindesk.com/markets/2025/07/02/u-s-m2-money-supply-hits-record-high-of-nearly-usd22t",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Public Companies Buy More Bitcoin Than ETFs for Third Consecutive Quarter",
       "link": "https://www.coindesk.com/markets/2025/07/02/public-companies-buy-more-bitcoin-than-etfs-for-third-consecutive-quarter",
       "summary": ""
-    },
-    {
-      "title": "Deutsche Bank\u2019s DWS, Galaxy, Flow Traders Venture to Introduce German-Regulated Stablecoin",
-      "link": "https://www.coindesk.com/business/2025/07/02/deutsche-bank-s-dws-galaxy-flow-traders-venture-introduces-german-regulated-stablecoin",
-      "summary": ""
-    },
-    {
-      "title": "Dogecoin Rebounds After Forming 'Double Bottom'",
-      "link": "https://www.coindesk.com/markets/2025/07/02/dogecoin-rebounds-after-forming-double-bottom",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "ECB to pilot blockchain-based euro settlement system by 2026",
+      "link": "https://cointelegraph.com/news/ecb-launches-two-track-dlt-settlement-plan-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NTMtOTQ1MC03OTRjLWFkNzktYWUyY2Y5N2NjZWM2.jpg\" /></p><p>The European Central Bank will launch a blockchain settlement pilot by late 2026 under its new \u201cPontes\u201d initiative, aiming to connect DLT platforms with the eurozone\u2019s core payment systems.</p>"
+    },
+    {
+      "title": "Bybit, OKX expand crypto services in Europe under MiCA",
+      "link": "https://cointelegraph.com/news/bybit-okx-launch-mica-compliant-crypto-platforms-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMTYtZThlMC03ZTliLWE4ZjgtNzI3MGFhYzIyYjM4.jpg\" /></p><p>Bybit and OKX have both launched MiCA-compliant crypto exchanges in the EU, marking a significant push into Europe\u2019s newly unified regulatory landscape.</p>"
+    },
     {
       "title": "Standard Chartered expects Bitcoin to hit new highs of $135K in Q3",
       "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-price-135000-q3-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Judge lets Celsius $4B Bitcoin lawsuit against Tether move forward",
       "link": "https://cointelegraph.com/news/celsius-tether-lawsuit-4b-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWRiZDktNzcwZC03MWU1LTgzNGYtMTI4MTJmMjA2NjU0.jpg\" /></p><p>A US judge has allowed Celsius\u2019s lawsuit over Tether\u2019s $4 billion Bitcoin liquidation to move forward, rejecting key parts of Tether\u2019s dismissal bid.</p>"
-    },
-    {
-      "title": "Binance CEO on how Bhutan\u2019s happiness philosophy aligns with crypto",
-      "link": "https://cointelegraph.com/news/bhutan-binance-ceo-crypto-happiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M5YzctNWMxMy03ZmNhLTgwMTUtYmUxMWUzMDA5ODcz.jpg\" /></p><p>Binance CEO Richard Teng said crypto aligns with Bhutan\u2019s happiness-first policy, highlighting financial freedom and innovation during a visit to the Himalayan kingdom.</p>"
-    },
-    {
-      "title": "Design app Figma discloses $70M Bitcoin ETF holdings in IPO filing",
-      "link": "https://cointelegraph.com/news/design-firm-figma-discloses-70m-bitcoin-etf-holdings-in-ipo-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M5MGItOTFjMC03ZTZlLTg4NzctMTllMTIwYmExNmE2.jpg\" /></p><p>Figma has filed to go public in the US, disclosing it holds $69.5 million worth of Bitcoin ETFs and has $30 million in USDC ready to purchase Bitcoin.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "XRP Ledger payment use surges 430% in 2 years, gains ground in DeFi and tokenization",
+      "link": "https://cryptoslate.com/xrp-ledger-payment-usage-surges-430-in-2-years-gains-ground-in-defi-and-tokenization/",
+      "summary": "<p>The XRP Ledger (XRPL) is entering a new growth phase, combining its legacy as a fast and efficient payment network with growing traction in decentralized finance and tokenization. According to data from Dune Analytics, weekly payment transactions have grown by more than 430% in under two years to over 8 million this year. These payments [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin realized market cap stacking shows silent strength beneath price action",
       "link": "https://cryptoslate.com/bitcoin-realized-market-cap-stacking-shows-silent-strength-beneath-price-action/",
@@ -73,14 +78,14 @@
       "title": "Ethereum dev Zack Cole launches initiative to fund \u2018tokenless\u2019 projects, promote ETH burning mechanisms",
       "link": "https://cryptoslate.com/ethereum-dev-zack-cole-launches-initiative-to-fund-tokenless-projects-promote-eth-burning-mechanisms/",
       "summary": "<p>Ethereum developer Zak Cole is spearheading a new initiative called the Ethereum Community Foundation (ECF), which will primarily work to enhance the digital asset&#8217;s economic value. The initiative was announced during the Ethereum Community Conference in Cannes, France. Founded by Cole and a group of ecosystem supporters, the ECF has reportedly already raised &#8220;millions&#8221; and [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Figma discloses $70M Bitcoin exposure via Bitwise ETF in IPO filing, plans another $30M buy",
-      "link": "https://cryptoslate.com/figma-discloses-70m-bitcoin-exposure-via-bitwise-etf-in-ipo-filing-plans-another-30m-buy/",
-      "summary": "<p>Figma\u2019s initial public offering (IPO) prospectus reveals that the design software company holds approximately $69.5 million of the Bitwise Bitcoin ETF (BITB). According to a July 1 filing, a table lists the ETF under level-1 marketable securities at $69.533 million. The document also stated that the board authorized a $55 million purchase on March 3, [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Seasonality: Why Summer 2025 Will Catch Everyone Off Guard",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-seasonality-summer-2025/",
+      "summary": "A growing number of Bitcoin and crypto market participants have fallen victim to a dangerous assumption: that summer in the crypto markets is synonymous with stagnation. However, crypto analyst Cristian Chifoi warns that this summer may follow a drastically different script. In a video analysis released on July 1, Chifoi lays out a compelling case that 2025 fits a historical pattern that has previously delivered some of Bitcoin\u2019s strongest summer performances. Summer 2025 Could Flip Bitcoin\u2019s Script Chifoi\u2019s thesis is based on a concept he has long explored: Bitcoin seasonality\u2014a recurring, cyclical behavior in Bitcoin\u2019s price action across the calendar year, especially in relation to the four-year halving cycles. According to Chifoi, there is an identifiable seasonal window from mid-January to mid-March where Bitcoin historically shows explosive movement in one direction, only to reverse course in the subsequent months. Related Reading: Bitwise Just Sounded The Alarm\u2014Bitcoin Could Explode Soon This pattern has held across multiple years and cycles. In 2021, for example, Bitcoin rallied from $28,000 to $60,000 between January and March before collapsing back to $28,000 by summer. The opposite occurred in 2023, when Bitcoin dumped in Q1 and reversed upwards during summer. \u201cFrom January 22nd to March 11th [2024], we had a 2x on Bitcoin,\u201d Chifoi noted. \u201cAnd if the price moves in one direction in this window, it tends to do the exact opposite after that. That\u2019s the seasonality reversal.\u201d Chifoi highlighted this tendency across previous cycles as well, identifying the same trend flip in 2022, 2023, and most notably in 2021. Critically, Chifoi warns that while most traders are anchored to the recent past\u2014recalling three consecutive \u201cboring\u201d summers\u2014this year is historically aligned with a different kind of setup. \u201cNobody is prepared for this summer,\u201d he said. \u201cBecause people only look at the past three years. But those were not the years to look at.\u201d Instead, Chifoi compares 2025 to three historical analogues: 2013, 2017, and 2021\u2014all years that followed a halving and saw significant summer rallies. In each of those years, after early-year volatility or corrections, Bitcoin posted dramatic gains from mid-July into early September. In 2017, Bitcoin rallied 160% in that timeframe. In 2021, the move was 77%. \u201cThe common factor in those years? They were one year after a halving, with a post-March reversal in trend,\u201d Chifoi explained. \u201cNow we are in the same window again. And people are not looking at it.\u201d First Crash, Then Surge? The analyst also emphasized that current price action fits his broader fractal thesis. After Bitcoin\u2019s local top at $109K earlier this year and the rejection that followed, the market appears to be chopping sideways\u2014something he predicted back in late 2024. He expects this phase to continue into July 20, potentially ending with a sudden flush to the downside. But this, he argues, would be the setup for the next leg higher. \u201cDon\u2019t be surprised if the drop comes with a lot of bad news,\u201d he said. \u201cEvery time there\u2019s a dump before a rally, the media has a narrative ready. That doesn\u2019t mean it\u2019s real. It just means the market is doing what it always does\u2014shake out the majority.\u201d Related Reading: Analyst Calls For Bitcoin Crash As Price Pulls Above $108,000 \u2014 Details Chifoi also addressed broader market confluences, notably pointing out similar behavior in the S&#38;P 500, where a corrective move in early July appears to align with his crypto timing model. He expects a pullback in both markets to precede the next upward thrust, targeting a Fibonacci resistance zone that historically acts as a pause point during price discovery. Despite his bullishness, Chifoi made it clear he\u2019s not buying Bitcoin right now. \u201cI already bought below $20K,\u201d he said. \u201cAt this point, I\u2019m watching altcoin charts, looking for pullbacks to accumulate.\u201d He expressed frustration at the prevailing narratives circulating among large X accounts, particularly those pushing for rotating altcoins into Bitcoin under the assumption that dominance will rise indefinitely. \u201cThis is very stupid,\u201d he said bluntly. \u201cThe market is behaving exactly as it should\u2014for the fewest number of people to make money.\u201d In closing, Chifoi cautioned that those who insist on saying this time is different will likely find themselves on the wrong side of the trade. \u201cOnly if this time is different will this not play out. But if you base your strategy on those words, I can guarantee you 99% of the time, you won\u2019t make money.\u201d As the July 20 pivot approaches, Chifoi\u2019s analysis suggests that Bitcoin\u2019s next move may catch a complacent market off guard. Whether or not history rhymes once more, the veteran analyst has made his stance clear: this is not a summer to sleep through. At press time, BTC traded at $106,880. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Crypto Startups Raise $1.15B Last Month: Will Crypto ICOs like $BTCBULL Take Off Next?",
       "link": "https://www.newsbtc.com/news/crypto-startups-raise-1-15b-last-month-will-crypto-icos-like-btcbull-take-off-next/",
@@ -100,11 +105,6 @@
       "title": "Solana (SOL) at Crossroads \u2014 Bounce Likely If $142 Remains Intact",
       "link": "https://www.newsbtc.com/analysis/solana-sol-at-crossroads-142/",
       "summary": "Solana started a fresh decline and retested the $145 support zone. SOL price is now recovering and might aim for a fresh increase above the $150 zone. SOL price started a fresh decline after it failed to clear $160 against the US Dollar. The price is now trading below $150 and the 100-hourly simple moving average. There was a break above a key bearish trend line with resistance at $147 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $152 resistance zone. Solana Price Trims Gains Solana price struggled to continue higher above $160 and started a fresh decline, like Bitcoin and Ethereum. SOL declined below the $155 and $152 support levels. It even dipped below $150 and tested the $145 zone. A low was formed at $144 and the price is now correcting some losses. There was a move above the 23.6% Fib retracement level of the downward move from the $160 swing high to the $144 low. Besides, there was a break above a key bearish trend line with resistance at $147 on the hourly chart of the SOL/USD pair. Solana is now trading below $150 and the 100-hourly simple moving average. On the upside, the price is facing resistance near the $150 level. The next major resistance is near the $152 level. It is close to the 50% Fib retracement level of the downward move from the $160 swing high to the $144 low. The main resistance could be $155. A successful close above the $155 resistance zone could set the pace for another steady increase. The next key resistance is $160. Any more gains might send the price toward the $165 level. Another Decline in SOL? If SOL fails to rise above the $150 resistance, it could start another decline. Initial support on the downside is near the $145 zone. The first major support is near the $142 level. A break below the $142 level might send the price toward the $136 zone. If there is a close below the $136 support, the price could decline toward the $125 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is losing pace in the bearish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is above the 50 level. Major Support Levels \u2013 $145 and $142. Major Resistance Levels \u2013 $152 and $155."
-    },
-    {
-      "title": "Bitcoin Holds Key Level Amid $108,000 Rejection, But Analysts Suggest Caution This Quarter",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-holds-key-level-amid-108000-rejection-but-analysts-suggest-caution-this-quarter/",
-      "summary": "Bitcoin (BTC) attempted to reclaim the $108,000 resistance level again but faced rejection as the third quarter (Q3) started, leading some market watchers to suggest caution for the upcoming months. Related Reading: Solana Summer Loading? SOL Eyes $180 Following Staked ETF-Fueled Breakout Bitcoin Holds Crucial Range Bitcoin&#8217;s price ended the second quarter with a retest of the $108,000 barrier before being rejected and closing Q2 and June around the $107,140 area, its highest monthly close in history. Despite the positive performance, the flagship crypto started July with a pullback toward the $105,000, hitting a one-week low of $105,623. Analyst Rekt Capital affirmed that this suggested BTC\u2019s post-breakout retest is in progress, which would strengthen the cryptocurrency\u2019s case for another leg up. The analyst previously explained that Bitcoin needed a weekly close above the $104,400 support after losing it, as reclaiming this area would solidify its price recovery and position the cryptocurrency for a retest and confirmation of this level. Additionally, it would continue building its base around this area to transition into BTC\u2019s second Discovery Uptrend. According to the Tuesday analysis, the new weekly close suggests Bitcoin is positioned for another post-breakout retest. The analyst also noted that, in the past 40 days, BTC broke out of two 2-week downtrends but was rejected from the crucial 6-week downtrend, around the $108,000 mark, during the same timeframe. Sjuul from AltCryptoGems noted the rejection from this level, affirming that \u201cit is mandatory for bulls to step in quickly and not allow the price to have too big of a dip.\u201d The flagship crypto needs a \u201cstrong bounce from the most important support and resistance level, just at $106-104K,\u201d which it has momentarily held. To the analyst, failing to hold this area would open the door for a bigger pullback, risking a drop to the Macro support between $101,000 and $102,000. He highlighted a big gap between the current support area and the Macro support, which formed on the recent price recovery. BTC Risks Massive Drop In Q3 Sjuul pointed out that below the $101,000 support, \u201cthere is not much to defend the price from falling much lower,\u201d adding that the \u201chistorical quarterly return of BTC for Q3 has not been great, so this adds some extra caution to the picture we have taken from the chart.\u201d Similarly, Daan Crypto Trades asserted that historical data shows that Q3 is generally the slowest period for Bitcoin and Ethereum (ETH) due to the decreasing activity, volume, and liquidity during the summer months. He added that, as a new quarter and month begin, BTC will likely see a \u201cchoppy start,\u201d but Bitcoin is still consolidating within its current range and descending channel, suggesting that investors should give it time to \u201cplay out and watch for confirmations\u201d of the direction it will take for the rest of the month. Related Reading: BitMine Stock Soars 700% After $250 Million Raise For Ethereum Treasury Nonetheless, analyst Ali Martinez gave a warning signal, as an indicator that had predicted \u201cevery major Bitcoin crash\u201d has just appeared. Per Martinez, the Tom Demark Sequential indicator, a rare warning that has historically preceded violent pullbacks, flashed a sell signal in the quarterly timeframe. Notably, the same signal appeared in 2015 and 2018, with BTC retracing over 75% and 85% after the indicator flashed. If it follows its historical performance, the analyst forecasted that BTC could drop to the $40,000 mark this quarter. As of this writing, Bitcoin is trading at $105,901, a 1.16% decline in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin ETFs Shed $342 Million As 15-Day Streak Ends",
+      "link": "https://decrypt.co/328161/bitcoin-etfs-shed-342-million-as-15-day-streak-ends",
+      "summary": "With the Fed signaling it will maintain its restrictive monetary policy stance, investors are rethinking their exposure to Bitcoin ETFs."
+    },
+    {
       "title": "OFAC Sanctions Russian Hosting Provider for Enabling Crypto Theft",
       "link": "https://decrypt.co/328139/ofac-sanctions-russian-hosting-provider-crypto-theft",
       "summary": "The U.S. Treasury has targeted a Russian firm linked to ransomware, infostealers, and darknet drug markets involving crypto."
@@ -154,11 +159,6 @@
       "title": "Figma Eyes Further Bitcoin Exposure in Run-Up to Hopeful NYSE Debut",
       "link": "https://decrypt.co/328130/figma-bitcoin-exposure-nyse-debut",
       "summary": "Figma\u2019s $69.5 million Bitcoin ETF holding now accounts for 4.5% of its cash and securities portfolio, the company revealed Tuesday."
-    },
-    {
-      "title": "Paging Dr. Algorithm: Microsoft\u2019s AI Diagnoses Like House, Bills Like Costco",
-      "link": "https://decrypt.co/328095/microsofts-ai-diagnoses-like-house-bills-like-costco",
-      "summary": "In head-to-head tests, Microsoft\u2019s virtual medical council diagnosed correctly four times more often than human doctors, and at a lower cost."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "FARTCOIN loses $8.4 mln to whale exits \u2013 Can buyers hold on to the $1 support?",
+      "link": "https://ambcrypto.com/fartcoin-loses-8-4-mln-to-whale-exits-can-buyers-hold-on-to-the-1-support/",
+      "summary": "<img alt=\"FARTCOIN loses $8.4 mln to whale exits - Can buyers hold on to the $1 support?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Gladys-23.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With whales gone and retail spooked, who\u2019s still left to buy the dip?"
+    },
+    {
       "title": "Bitcoin\u2019s historic July strength meets its biggest test in 3 years",
       "link": "https://ambcrypto.com/bitcoins-historic-july-strength-meets-its-biggest-test-in-3-years/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s July hike: One last push or the start of descent?"
@@ -208,11 +213,6 @@
       "title": "Michael Saylor\u2019s Strategy adds $531 mln BTC \u2013 Why Bitcoin barely moved",
       "link": "https://ambcrypto.com/michael-saylors-strategy-adds-531-mln-btc-why-bitcoin-barely-moved/",
       "summary": "<img alt=\"Michael Saylor&#039;s Strategy adds $531 mln BTC - Why Bitcoin barely moved\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/MichaelSaylor.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1267\" />Is Bitcoin losing its sensitivity to big buys like Strategy?"
-    },
-    {
-      "title": "Ethereum Community Foundation raises millions, aims for $10K ETH: \u2018You deserve better!\u2019",
-      "link": "https://ambcrypto.com/ethereum-community-foundation-raises-millions-aims-for-10k-eth-you-deserve-better/",
-      "summary": "<img alt=\"Ethereum Community Foundation raises millions, aims for $10K ETH: &#039;You deserve better!&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ethereum-Community-Foundation.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Price appreciation of ETH is the key mandate for the Ethereum Community Foundation, declared Zak Cole."
     }
   ]
 }
