@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin CME Futures Premium Slides, Suggests Waning Institutional Appetite",
+      "link": "https://www.coindesk.com/markets/2025/07/02/bitcoin-cme-futures-premium-slides-to-suggest-waning-institutional-appetite",
+      "summary": ""
+    },
+    {
       "title": "DOJ\u2019s $225M Seizure Puts Human Cost of Crypto Scams in Focus, Former Acting U.S. Attorney Says",
       "link": "https://www.coindesk.com/policy/2025/07/02/dojs-225m-seizure-puts-human-cost-of-crypto-scams-in-focus-former-acting-us-attorney-says",
       "summary": ""
@@ -19,21 +24,21 @@
       "title": "Why Is Ether Struggling Near $2,400 Even as More Firms Add ETH to Their Treasuries?",
       "link": "https://www.coindesk.com/markets/2025/07/01/why-is-ether-struggling-near-usd2-400-even-as-more-firms-add-eth-to-their-treasuries",
       "summary": ""
-    },
-    {
-      "title": "Solana Drops Below $146 Despite Imminent Launch of First U.S.-Based SOL Staking ETF",
-      "link": "https://www.coindesk.com/markets/2025/07/01/solana-drops-below-usd146-despite-imminent-launch-of-first-u-s-based-sol-staking-etf",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Design app Figma discloses $70M Bitcoin ETF holdings in IPO filing",
+      "link": "https://cointelegraph.com/news/design-firm-figma-discloses-70m-bitcoin-etf-holdings-in-ipo-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M5MGItOTFjMC03ZTZlLTg4NzctMTllMTIwYmExNmE2.jpg\" /></p><p>Figma has filed to go public in the US, disclosing it holds $69.5 million worth of Bitcoin ETFs and has $30 million in USDC ready to purchase Bitcoin.</p>"
+    },
     {
       "title": "5 \u2018insidious\u2019 crypto scams to watch out for this year",
       "link": "https://cointelegraph.com/news/slowmist-uncovers-5-emerging-crypto-scams-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmMyNjEtYzdlOS03OWE5LTk1MWQtOTdmNmM1MDVjY2Fh.jpg\" /></p><p>Crypto hacking techniques haven\u2019t advanced much, but they\u2019ve become far more cunning, warns SlowMist\u2019s head of operations.</p>"
     },
     {
-      "title": "Bitcoin\u2019s &#039;super-majority&#039; holds $1.2T in unrealized profits: Glassnode",
+      "title": "Bitcoin\u2019s \u2018super-majority\u2019 holds $1.2T in unrealized profits: Glassnode",
       "link": "https://cointelegraph.com/news/bitcoin-super-majority-unrealized-profits-glassnode-data-price-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVmNDMtZGMwYi03NmQ5LWE0OWEtN2EzMTNiZjJlYTE2.jpg\" /></p><p>Glassnode said Bitcoin\u2019s current price \u201cis not compelling enough for investors to continue selling\u201d as unrealized profits hit $1.2 trillion.</p>"
     },
@@ -46,11 +51,6 @@
       "title": "Arizona governor vetoes bill to stockpile seized crypto",
       "link": "https://cointelegraph.com/news/arizona-governor-vetoes-seized-crypto-stockpile-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M5NzktNjZjMC03YjFlLTljODktMjIxZjY5ZDU4ZjFj.jpg\" /></p><p>Arizona Governor Katie Hobbs has vetoed a measure that would have created a fund from seized crypto, with proceeds split between law enforcement and the state.</p>"
-    },
-    {
-      "title": "Crypto sentiment holds steady as Bitcoin drops to $105K",
-      "link": "https://cointelegraph.com/news/crypto-sentiment-greed-bitcoin-price-decline-q3-weaker-period?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M5MTUtODllMi03NmJhLWI5NjQtMWM2ZDEzM2ZlMmI3.jpg\" /></p><p>Despite Bitcoin\u2019s recent price wobble and the start of the third quarter \u2014 historically its weakest \u2014 crypto market sentiment remains strong.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Solana (SOL) at Crossroads \u2014 Bounce Likely If $142 Remains Intact",
+      "link": "https://www.newsbtc.com/analysis/solana-sol-at-crossroads-142/",
+      "summary": "Solana started a fresh decline and retested the $145 support zone. SOL price is now recovering and might aim for a fresh increase above the $150 zone. SOL price started a fresh decline after it failed to clear $160 against the US Dollar. The price is now trading below $150 and the 100-hourly simple moving average. There was a break above a key bearish trend line with resistance at $147 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $152 resistance zone. Solana Price Trims Gains Solana price struggled to continue higher above $160 and started a fresh decline, like Bitcoin and Ethereum. SOL declined below the $155 and $152 support levels. It even dipped below $150 and tested the $145 zone. A low was formed at $144 and the price is now correcting some losses. There was a move above the 23.6% Fib retracement level of the downward move from the $160 swing high to the $144 low. Besides, there was a break above a key bearish trend line with resistance at $147 on the hourly chart of the SOL/USD pair. Solana is now trading below $150 and the 100-hourly simple moving average. On the upside, the price is facing resistance near the $150 level. The next major resistance is near the $152 level. It is close to the 50% Fib retracement level of the downward move from the $160 swing high to the $144 low. The main resistance could be $155. A successful close above the $155 resistance zone could set the pace for another steady increase. The next key resistance is $160. Any more gains might send the price toward the $165 level. Another Decline in SOL? If SOL fails to rise above the $150 resistance, it could start another decline. Initial support on the downside is near the $145 zone. The first major support is near the $142 level. A break below the $142 level might send the price toward the $136 zone. If there is a close below the $136 support, the price could decline toward the $125 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is losing pace in the bearish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is above the 50 level. Major Support Levels \u2013 $145 and $142. Major Resistance Levels \u2013 $152 and $155."
+    },
+    {
       "title": "Bitcoin Holds Key Level Amid $108,000 Rejection, But Analysts Suggest Caution This Quarter",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-holds-key-level-amid-108000-rejection-but-analysts-suggest-caution-this-quarter/",
       "summary": "Bitcoin (BTC) attempted to reclaim the $108,000 resistance level again but faced rejection as the third quarter (Q3) started, leading some market watchers to suggest caution for the upcoming months. Related Reading: Solana Summer Loading? SOL Eyes $180 Following Staked ETF-Fueled Breakout Bitcoin Holds Crucial Range Bitcoin&#8217;s price ended the second quarter with a retest of the $108,000 barrier before being rejected and closing Q2 and June around the $107,140 area, its highest monthly close in history. Despite the positive performance, the flagship crypto started July with a pullback toward the $105,000, hitting a one-week low of $105,623. Analyst Rekt Capital affirmed that this suggested BTC\u2019s post-breakout retest is in progress, which would strengthen the cryptocurrency\u2019s case for another leg up. The analyst previously explained that Bitcoin needed a weekly close above the $104,400 support after losing it, as reclaiming this area would solidify its price recovery and position the cryptocurrency for a retest and confirmation of this level. Additionally, it would continue building its base around this area to transition into BTC\u2019s second Discovery Uptrend. According to the Tuesday analysis, the new weekly close suggests Bitcoin is positioned for another post-breakout retest. The analyst also noted that, in the past 40 days, BTC broke out of two 2-week downtrends but was rejected from the crucial 6-week downtrend, around the $108,000 mark, during the same timeframe. Sjuul from AltCryptoGems noted the rejection from this level, affirming that \u201cit is mandatory for bulls to step in quickly and not allow the price to have too big of a dip.\u201d The flagship crypto needs a \u201cstrong bounce from the most important support and resistance level, just at $106-104K,\u201d which it has momentarily held. To the analyst, failing to hold this area would open the door for a bigger pullback, risking a drop to the Macro support between $101,000 and $102,000. He highlighted a big gap between the current support area and the Macro support, which formed on the recent price recovery. BTC Risks Massive Drop In Q3 Sjuul pointed out that below the $101,000 support, \u201cthere is not much to defend the price from falling much lower,\u201d adding that the \u201chistorical quarterly return of BTC for Q3 has not been great, so this adds some extra caution to the picture we have taken from the chart.\u201d Similarly, Daan Crypto Trades asserted that historical data shows that Q3 is generally the slowest period for Bitcoin and Ethereum (ETH) due to the decreasing activity, volume, and liquidity during the summer months. He added that, as a new quarter and month begin, BTC will likely see a \u201cchoppy start,\u201d but Bitcoin is still consolidating within its current range and descending channel, suggesting that investors should give it time to \u201cplay out and watch for confirmations\u201d of the direction it will take for the rest of the month. Related Reading: BitMine Stock Soars 700% After $250 Million Raise For Ethereum Treasury Nonetheless, analyst Ali Martinez gave a warning signal, as an indicator that had predicted \u201cevery major Bitcoin crash\u201d has just appeared. Per Martinez, the Tom Demark Sequential indicator, a rare warning that has historically preceded violent pullbacks, flashed a sell signal in the quarterly timeframe. Notably, the same signal appeared in 2015 and 2018, with BTC retracing over 75% and 85% after the indicator flashed. If it follows its historical performance, the analyst forecasted that BTC could drop to the $40,000 mark this quarter. As of this writing, Bitcoin is trading at $105,901, a 1.16% decline in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
@@ -100,11 +105,6 @@
       "title": "Ethereum Price Drops After Bullish Attempt \u2014 Support Area Under Pressure",
       "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-drops-2350/",
       "summary": "Ethereum price started a fresh decline from the $2,520 zone. ETH is now back below $2,450 and struggling to stay above the $2,350 support. Ethereum started a fresh decline from the $2,520 level. The price is trading below $2,450 and the 100-hourly Simple Moving Average. There was a break below a key bullish trend line with support at $2,450 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains stable above the $2,350 zone in the near term. Ethereum Price Trims Gains Ethereum price started a fresh decline from the $2,520 resistance, like Bitcoin. ETH price declined below the $2,500 and $2,450 levels to enter a short-term bearish zone. Besides, there was a break below a key bullish trend line with support at $2,450 on the hourly chart of ETH/USD. The pair even spiked below the $2,400 level. A low was formed at $2,373 and the price is now attempting to recover some losses. It climbed above the 23.6% Fib retracement level of the downward move from the $2,523 swing high to the $2,373 low. Ethereum price is now trading below $2,450 and the 100-hourly Simple Moving Average. On the upside, the price could face resistance near the $2,420 level. The next key resistance is near the $2,450 level. It is close to the 50% Fib retracement level of the downward move from the $2,523 swing high to the $2,373 low. The first major resistance is near the $2,465 level. A clear move above the $2,465 resistance might send the price toward the $2,520 resistance. An upside break above the $2,520 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,550 resistance zone or even $2,650 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,450 resistance, it could start a fresh decline. Initial support on the downside is near the $2,375 level. The first major support sits near the $2,350 zone. A clear move below the $2,350 support might push the price toward the $2,280 support. Any more losses might send the price toward the $2,220 support level in the near term. The next key support sits at $2,150. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is losing momentum in the bearish zone. Hourly RSI &#8211; The RSI for ETH/USD is now below the 50 zone. Major Support Level \u2013 $2,350 Major Resistance Level \u2013 $2,450"
-    },
-    {
-      "title": "Ethereum In Demand: ETF Inflow Streak Extends To 7 Weeks",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-demand-etf-inflow-streak-7-weeks/",
-      "summary": "Institutional demand for Ethereum appears strong as spot exchange-traded funds (ETFs) have recorded seventh-straight week of inflows. US Ethereum Spot ETFs Have Recently Seen Continuous Inflows In a new post on X, the analytics firm Glassnode has shared an update on how the netflow related to the US Ethereum spot ETFs is looking. Spot ETFs are investment vehicles that allow investors to gain exposure to a given cryptocurrency without having to directly own tokens of it. Related Reading: Ethereum At Risk? If $2,200 Cracks, $1,160 May Be Coming These ETFs trade on traditional platforms, so traders taking this route don&#8217;t have to bother with digital asset exchanges and wallets. For investors only familiar with the traditional mode, this fact can make the ETFs the preferrable mode of investment. The US Securities and Exchange Commission (SEC) approved spot ETFs for Ethereum in mid 2024, half a year after Bitcoin&#8217;s approval went through near the start of the year. Below is the chart shared by Glassnode that shows how the aggregate netflow has been like for the US ETH spot ETFs during the past few months. As is visible in the graph, the Ethereum spot ETFs saw outflows earlier in the year, but the trend has been different since the final third of April. Save for a week in May, a net amount of capital has been pouring into these investment vehicles. &#8220;As ETH rebounded from $2.2K to $2.5K, institutional appetite followed,&#8221; notes Glassnode. &#8220;Spot ETH ETFs recorded 106K ETH in net inflows last week &#8211; marking the 7th consecutive week of positive flows.&#8221; Ethereum isn&#8217;t the only cryptocurrency that has recently been enjoying ETF inflows. As the analytics firm has pointed out in another X post, the number one digital asset, Bitcoin, is also seeing demand pick up. As displayed in the above chart, Bitcoin has also been seeing a green netflow for the US spot ETFs, but due to a week of outflows in early June, the streak only stands at three weeks for the asset. During the latest week, around 15,000 BTC flowed into the ETFs. In USD terms, that&#8217;s equivalent to $1.6 billion. For comparison, inflows amounted to $258.6 million for Ethereum. Clearly, while both have seen demand, there is a clear difference of scale involved between the two. Related Reading: Dogecoin Under Pressure: Only Top 10 Coin Where Loss-Taking Exceeds Profit From the graph, it&#8217;s apparent that the US Bitcoin spot ETFs saw an acceleration of demand over the course of June. It only remains to be seen, though, whether the trend would keep up in this month of July. ETH Price Ethereum crossed the $2,500 level earlier, but it seems the coin has since faced a pullback as its price is back at $2,400. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "OFAC Sanctions Russian Hosting Provider for Enabling Crypto Theft",
+      "link": "https://decrypt.co/328139/ofac-sanctions-russian-hosting-provider-crypto-theft",
+      "summary": "The U.S. Treasury has targeted a Russian firm linked to ransomware, infostealers, and darknet drug markets involving crypto."
+    },
+    {
+      "title": "Why On-Chain Metrics Miss the Full Picture of Institutional Bitcoin Buying",
+      "link": "https://decrypt.co/328136/chain-metrics-miss-full-picture-institutional-bitcoin-buying",
+      "summary": "Bitcoin hit a record monthly close in June, but experts say on-chain data is missing the scale of institutional demand via ETFs and OTC desks."
+    },
+    {
       "title": "Arizona Governor Yet Again Rejects Bitcoin Reserve Using Seized Crypto",
       "link": "https://decrypt.co/328133/arizona-governor-rejects-bitcoin-reserve-seized-crypto-again",
       "summary": "Mounting crypto-related vetoes point to the state's cautious approach, but a future governor could hold an opposing view, was told."
@@ -149,16 +159,6 @@
       "title": "Paging Dr. Algorithm: Microsoft\u2019s AI Diagnoses Like House, Bills Like Costco",
       "link": "https://decrypt.co/328095/microsofts-ai-diagnoses-like-house-bills-like-costco",
       "summary": "In head-to-head tests, Microsoft\u2019s virtual medical council diagnosed correctly four times more often than human doctors, and at a lower cost."
-    },
-    {
-      "title": "Hotels Are Staffing Robots\u2014and Guests Are Freaking Out",
-      "link": "https://decrypt.co/328073/hotels-staffing-robots-guests-freaking-out",
-      "summary": "Hotels are turning to humanoid robots, with guests either loving or hating the creepy, human-like experience."
-    },
-    {
-      "title": "Cloudflare Hits the Kill Switch on AI Crawlers\u2014And an Entire Industry Cheers",
-      "link": "https://decrypt.co/328057/cloudflare-hits-kill-switch-ai-crawlers-entire-industry-cheers",
-      "summary": "The world\u2019s largest internet security provider just defaulted to blocking AI crawlers\u2014and lets publishers set a price for scraping."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Michael Saylor\u2019s Strategy adds $531 mln BTC \u2013 Why Bitcoin barely moved",
+      "link": "https://ambcrypto.com/michael-saylors-strategy-adds-531-mln-btc-why-bitcoin-barely-moved/",
+      "summary": "<img alt=\"Michael Saylor&#039;s Strategy adds $531 mln BTC - Why Bitcoin barely moved\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/MichaelSaylor.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1267\" />Is Bitcoin losing its sensitivity to big buys like Strategy?"
+    },
+    {
+      "title": "Ethereum Community Foundation raises millions, aims for $10K ETH: \u2018You deserve better!\u2019",
+      "link": "https://ambcrypto.com/ethereum-community-foundation-raises-millions-aims-for-10k-eth-you-deserve-better/",
+      "summary": "<img alt=\"Ethereum Community Foundation raises millions, aims for $10K ETH: &#039;You deserve better!&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ethereum-Community-Foundation.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Price appreciation of ETH is the key mandate for the Ethereum Community Foundation, declared Zak Cole."
+    },
+    {
       "title": "Solana wallet activity hits ATH: Can growing demand help SOL reach $184?",
       "link": "https://ambcrypto.com/solana-wallet-activity-hits-ath-can-growing-demand-help-sol-reach-184/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/B4584F92-B118-415B-AFE7-F48288F8C4B6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Are top traders seeing something retail hasn\u2019t yet?"
@@ -203,16 +213,6 @@
       "title": "Tough times for Celestia! Will bears drive TIA to $1?",
       "link": "https://ambcrypto.com/tough-times-for-celestia-will-bears-drive-tia-to-1/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Celestia-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The psychological round number support at $1 beckoned prices lower as the bearish trend continued."
-    },
-    {
-      "title": "Cynthia Lummis\u2019 crypto tax: Will Bitcoin miners see much-needed relief?",
-      "link": "https://ambcrypto.com/cynthia-lummis-crypto-tax-will-bitcoin-miners-see-much-needed-relief/",
-      "summary": "<img alt=\"Cynthia Lummis&#039; crypto tax: Will Bitcoin miners see much-needed relief?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Cynthia-Lummis-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Senator Lummis wants crypto taxed only on sale."
-    },
-    {
-      "title": "45 mln MOVE pulled from Binance \u2013 Will bulls stay in control?",
-      "link": "https://ambcrypto.com/45-mln-move-pulled-from-binance-will-bulls-stay-in-control/",
-      "summary": "<img alt=\"45 mln MOVE pulled from Binance - Will bulls stay in control?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Buybacks by Movement Labs could be a hint of a potential trend to the upside."
     }
   ]
 }
