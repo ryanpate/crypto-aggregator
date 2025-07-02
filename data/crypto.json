@@ -1,7 +1,22 @@
 {
   "CoinDesk": [
     {
-      "title": "Ripple Expands Stablecoin Infrastructure Partnership as it Seeks Bank License",
+      "title": "SEC Halts Grayscale Large Cap Fund Approval for 'Review'",
+      "link": "https://www.coindesk.com/policy/2025/07/02/sec-halts-grayscale-large-cap-fund-approval-for-review",
+      "summary": ""
+    },
+    {
+      "title": "BONK Surges 10% as Tuttle Capital Sets July 16 as Earliest Launch Date for Its 2X Leveraged ETF",
+      "link": "https://www.coindesk.com/markets/2025/07/02/bonk-surges-10-as-tuttle-capital-sets-july-16-as-earliest-launch-date-for-its-2x-leveraged-etf",
+      "summary": ""
+    },
+    {
+      "title": "JPMorgan\u2019s Blockchain Arm Kinexys Tests Tokenized Carbon Credits With S&P Global",
+      "link": "https://www.coindesk.com/business/2025/07/02/jpmorgans-blockchain-arm-kinexys-tests-tokenized-carbon-credits-with-sp-global",
+      "summary": ""
+    },
+    {
+      "title": "Ripple Expands Stablecoin Infrastructure Partnership as It Seeks Bank License",
       "link": "https://www.coindesk.com/business/2025/07/02/ripple-expands-stablecoin-infrastructure-partnership-as-it-seeks-bank-license",
       "summary": ""
     },
@@ -9,24 +24,24 @@
       "title": "The Protocol: Ethereum\u2019s Vitalik Buterin Says the Ecosystem Is At Risk If Decentralization Is Just a Catchphrase",
       "link": "https://www.coindesk.com/tech/2025/07/02/the-protocol-ethereum-s-vitalik-buterin-says-the-ecosystem-is-at-risk-if-decentralization-is-just-a-catchphrase",
       "summary": ""
-    },
-    {
-      "title": "BlackRock\u2019s Bitcoin ETF Generating More Revenue Than its Flagship S&P 500 Fund",
-      "link": "https://www.coindesk.com/markets/2025/07/02/blackrock-s-bitcoin-etf-now-generates-more-revenue-than-its-flagship-s-and-p-500-fund",
-      "summary": ""
-    },
-    {
-      "title": "Ripple Applies for Federal Bank Trust Charter, XRP Jumps 3%",
-      "link": "https://www.coindesk.com/policy/2025/07/02/ripple-applies-for-federal-bank-trust-charter-xrp-jumps-3",
-      "summary": ""
-    },
-    {
-      "title": "Polkadot's DOT Rises 6% as Bullish Momentum Breaks Key Resistance",
-      "link": "https://www.coindesk.com/markets/2025/07/02/polkadots-dot-rises-6-as-bullish-momentum-breaks-key-resistance",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "BNB news update: Bulls target $719 after successful Maxwell upgrade",
+      "link": "https://cointelegraph.com/news/bnb-news-update-bulls-target-dollar719-after-successful-maxwell-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiZGUtZjI3YS03ZmJhLWEzMjctZDk1NjFiYTBjOWVm.jpg\" /></p><p>BNB Smart Chain\u2019s Maxwell upgrade has ignited the bulls, opening the door for a rally toward new year-to-date highs.</p>"
+    },
+    {
+      "title": "Cake Wallet onboards dEURO decentralized stablecoin, offers 10% yield on collateral",
+      "link": "https://cointelegraph.com/news/decentralized-euro-stablecoin-deuro-launches-cake-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiZmUtOWM5My03MGU0LWFhYzMtMTM4YWE4YjljODIy.jpg\" /></p><p>The dEURO is overcollateralized by other digital assets such as Bitcoin, Ether and Monero.</p>"
+    },
+    {
+      "title": "Will Bitcoin benefit from \u2018Big Beautiful Bill\u2019 passage and US debt ceiling increase?",
+      "link": "https://cointelegraph.com/news/will-bitcoin-benefit-from-big-beautiful-bill-passage-and-us-debt-ceiling-increase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRlYzEtOWNkOC03OGFmLTgwNTQtMThkMmIwOTc3YTdl.jpg\" /></p><p>Traders say Bitcoin will benefit from the proposed $5 trillion increase to the US debt ceiling, but data could suggest otherwise.</p>"
+    },
     {
       "title": "SOL news update: REX Shares Solana ETF boosts price, but for how long?",
       "link": "https://cointelegraph.com/news/sol-news-update-rex-shares-solana-etf-boosts-price-but-for-how-long?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "Bitcoin\u2019s STH cost basis suggests $117K is the next stop for BTC price",
       "link": "https://cointelegraph.com/news/bitcoin-s-sth-cost-basis-suggests-btc-price-next-stop-could-be-117k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiZmYtZTg5Zi03NTVkLTkxNmMtMjYzZWJiOWIyYmIy.jpg\" /></p><p>Bitcoin\u2019s onchain and technical data suggest that the upside is not over for BTC price.</p>"
-    },
-    {
-      "title": "Trump\u2019s crypto ventures have added $620M to his net worth \u2014 Report",
-      "link": "https://cointelegraph.com/news/donald-trump-crypto-ventures-net-worth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiYjUtNzY3Yi03Mzg3LTlmZTItZDM1MGQyNGE1OGE2.jpg\" /></p><p>With the US president\u2019s ties to his family-backed business, World Liberty Financial, and a memecoin launch, Donald Trump has seen his personal wealth increase by millions in 2025.</p>"
-    },
-    {
-      "title": "Bitcoin price target \u2018sits around $170K\u2019 as global M2 supply reaches record high",
-      "link": "https://cointelegraph.com/news/bitcoin-target-sits-around-170k-as-global-m2-supply-reaches-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NiZWQtNGM3Mi03MjZmLWFkNWEtNzVlNDc4YjZjYTZl.jpg\" /></p><p>Bitcoin's bullish outlook strengthens as the US dollar drops 10.8% in its worst H1 performance since 1973.</p>"
-    },
-    {
-      "title": "Peter Thiel backs crypto-friendly Silicon Valley Bank rival \u2014 Report",
-      "link": "https://cointelegraph.com/news/peter-thiel-erebor-silicon-valley-bank-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NjNjgtNTk0OC03MmVkLTg3MzItNTUyMjI3MTFhMjY5.jpg\" /></p><p>Before its collapse, Silicon Valley Bank had deep ties to crypto companies and venture capital funds investing in the industry.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "CleanSpark\u2019s Tennessee expansion boosts stock 11% amid local unrest",
+      "link": "https://cryptoslate.com/cleansparks-tennessee-expansion-boosts-stock-11-amid-local-unrest/",
+      "summary": "<p>Bitcoin miner CleanSpark has reportedly received approval to build a new mining facility in Mountain City, Tennessee, local media outlet WCYB reported on July 2. According to the report, the Mountain City Board of Mayor and Aldermen approved the mine&#8217;s development after a 3-1 vote to rezone the targeted 50-acre site. The land will shift [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Canadian fintech Mogo\u2019s $50M Bitcoin reserve plan ignites 140% share surge at market opening",
+      "link": "https://cryptoslate.com/canadian-fintech-mogos-50m-bitcoin-reserve-plan-ignites-140-share-surge-at-market-opening/",
+      "summary": "<p>Canadian fintech Mogo announced on July 2 that its board had cleared up to $50 million for staged Bitcoin purchases as a long-term treasury reserve, prompting its shares to jump 140% at market opening on the Toronto Stock Exchange. MOGO closed July 1 priced at 1.74 Canadian dollars, worth roughly $1.28. It opened on July [&#8230;]</p> <p>"
+    },
     {
       "title": "Ripple seeks a national bank charter approval to place RLUSD under state and federal oversight",
       "link": "https://cryptoslate.com/ripple-seeks-a-national-bank-charter-approval-to-place-rlusd-under-state-and-federal-oversight/",
@@ -68,16 +78,6 @@
       "title": "North Korean IT workers earned $17M this year with some funds coming from Circle accounts",
       "link": "https://cryptoslate.com/north-korean-it-workers-earned-17m-this-year-with-some-funds-coming-from-circle-accounts/",
       "summary": "<p>An on-chain investigation has revealed that North Korea IT workers posing as foreign developers have earned nearly $17 million from crypto startups and blockchain companies this year. The findings, revealed by prominent blockchain investigator ZachXBT, show that these individuals have successfully integrated into dozens of crypto projects by concealing their identities and locations. According to [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Weakening dollar and M2 influx set stage for possible Bitcoin surge in H2",
-      "link": "https://cryptoslate.com/insights/weakening-dollar-and-m2-influx-set-stage-for-possible-bitcoin-surge-in-h2/",
-      "summary": "<p>The United States has reached a new milestone in money circulation, with the M2 money supply climbing to an all-time high. M2, a key measure that includes cash, checking accounts, savings, and money market deposits, hit $21.94 trillion by the end of May. Year over year, M2 has grown by 4.5%. According to analysts from [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ripple claims no formal ties with Linqto amid share price manipulation scrutiny from SEC and DOJ",
-      "link": "https://cryptoslate.com/ripple-claims-no-formal-ties-with-linqto-amid-share-price-manipulation-scrutiny-from-sec-and-doj/",
-      "summary": "<p>Ripple CEO Brad Garlinghouse has addressed growing concerns from investors caught in the regulatory storm surrounding Linqto. Linqto is a private investment platform that sells access to the crypto payment firm&#8217;s equity through secondary markets. In a July 2 post on X, Garlinghouse clarified that Ripple has never had a formal relationship with Linqto and [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "H100 Group Increases Bitcoin Holdings With New Bitcoin Purchase",
+      "link": "https://bitcoinmagazine.com/news/h100-group-increases-bitcoin-holdings-with-new-bitcoin-purchase",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/H100-Group-Increases-Bitcoin-Holdings-With-New-Bitcoin-Purchase.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/h100-group-increases-bitcoin-holdings-with-new-bitcoin-purchase\" rel=\"nofollow\"> </a></p> <p>Swedish firm purchases 47.33 BTC, bringing total holdings to 247.54 BTC.</p> <p>"
+    },
+    {
       "title": "Bitcoin Mining Has Huge Role In Energy Production Expansion",
       "link": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-has-huge-role-in-energy-production-expansion",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Power-Grid-and-Mining.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-has-huge-role-in-energy-production-expansion\" rel=\"nofollow\"> </a></p> <p>The most beneficial aspect of bitcoin mining is the most important for electric utilities, and the most overlooked.</p> <p>"
@@ -127,14 +132,14 @@
       "title": "Tech Billionaires Launch Erebor Bank to Serve Bitcoin and Crypto Startups",
       "link": "https://bitcoinmagazine.com/news/tech-billionaires-launch-erebor-bank-to-serve-bitcoin-and-crypto-startups",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Tech-Billionaires-Launch-Erebor-Bank-to-Serve-Bitcoin-and-Crypto-Startups.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/tech-billionaires-launch-erebor-bank-to-serve-bitcoin-and-crypto-startups\" rel=\"nofollow\"> </a></p> <p>Backed by Palmer Luckey, Joe Lonsdale, and Peter Thiel, Erebor aims to become the U.S. bank for digital currencies, AI, defence and manufacturing.</p> <p>"
-    },
-    {
-      "title": "Thesis* Acquires Lolli to Expand Bitcoin Rewards Ecosystem",
-      "link": "https://bitcoinmagazine.com/news/thesis-acquires-lolli-to-expand-bitcoin-rewards-ecosystem",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Leonardo_Phoenix_10_beautiful_woman_wearing_a_long_white_dress_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/thesis-acquires-lolli-to-expand-bitcoin-rewards-ecosystem\" rel=\"nofollow\"> </a></p> <p>Bitcoin rewards platform joins forces with venture studio to enhance user experience and streamline payouts.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Solana Treasury Firm DeFi Development Corp. Boosts Convertible Notes Offering to $112 Million",
+      "link": "https://decrypt.co/328281/solana-treasury-firm-defi-dev-boosts-convertible-notes-offering",
+      "summary": "Shares of DeFi Development Corp. (DFDV) finished the day down by 3% following its upsized convertible notes offering to buy more Solana."
+    },
     {
       "title": "Crypto Billionaire Bit Off Attacker\u2019s Finger in Attempted Kidnapping: Report",
       "link": "https://decrypt.co/328268/crypto-billionaire-bit-off-attackers-finger-attempted-kidnapping",
@@ -154,14 +159,14 @@
       "title": "Ripple Follows Circle in Bid for US Banking License",
       "link": "https://decrypt.co/328217/ripple-follows-circle-bid-us-banking-license",
       "summary": "Crypto payments firm Ripple said Wednesday that it has applied for a national bank charter from the OCC, just days after Circle did the same."
-    },
-    {
-      "title": "Bitcoin Headed for 'Best Ever' Second Half of the Year: Standard Chartered",
-      "link": "https://decrypt.co/328160/bitcoin-best-second-half-year-standard-chartered",
-      "summary": "Bitcoin could hit new highs in the second half of this year, as institutional treasury buying breaks historical post-halving patterns."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "SEC delays Grayscale\u2019s large-cap crypto ETF launch despite approval order",
+      "link": "https://cryptobriefing.com/grayscale-crypto-etf-sec-approval/",
+      "summary": "<p>The SEC's delay highlights regulatory caution, potentially impacting the timeline for broader crypto ETF adoption and market integration.</p> <p>"
+    },
     {
       "title": "Ripple applies for US banking license, eyes mainstream finance",
       "link": "https://cryptobriefing.com/crypto-banking-license-ripple/",
@@ -181,14 +186,14 @@
       "title": "JPMorgan unit developing blockchain-based platform to tokenize carbon credits",
       "link": "https://cryptobriefing.com/tokenized-carbon-credits-jpmorgan-platform/",
       "summary": "<p>Tokenizing carbon credits via blockchain could enhance market transparency and liquidity, addressing inefficiencies and boosting global trust.</p> <p>"
-    },
-    {
-      "title": "Arizona governor rejects Bitcoin reserve bill HB 2324, says it hurts asset forfeiture cooperation",
-      "link": "https://cryptobriefing.com/arizona-bitcoin-reserve-bill-veto/",
-      "summary": "<p>The veto highlights ongoing tensions between state innovation in digital finance and traditional law enforcement funding priorities.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Arizona Governor blocks bill to create crypto reserve fund from seized assets \u2013 Here\u2019s why",
+      "link": "https://ambcrypto.com/arizona-governor-blocks-bill-to-create-crypto-reserve-fund-from-seized-assets-heres-why/",
+      "summary": "<img alt=\"Arizona Governor blocks bill to create crypto reserve fund from seized assets - Here\u2019s why\" class=\"attachment-full size-full wp-post-image\" height=\"648\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Arizona-govt.-vetoed-HB-2324.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1152\" />Other U.S. states like Texas and New Hampshire have taken more assertive steps with Bitcoin reserves."
+    },
     {
       "title": "TRX revenue hits 4-year low as $185 mln exits TRON \u2013 Is a deeper dump underway?",
       "link": "https://ambcrypto.com/trx-revenue-hits-4-year-low-as-185-mln-exits-tron-is-a-deeper-dump-underway/",
@@ -208,11 +213,6 @@
       "title": "Arbitrum jumps 5% on Robinhood news \u2013 But THIS can ruin ARB\u2019s breakout",
       "link": "https://ambcrypto.com/arbitrum-jumps-5-on-robinhood-news-but-what-can-ruin-arbs-breakout/",
       "summary": "<img alt=\"Arbitrum jumps 5% on Robinhood news - But what can ruin ARB&#039;s breakout\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Chandan-2025-07-02T143856.606_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Robinhood\u2019s ARB adoption, $2.2M outflows, and a chart breakout\u2014will ARB hit $0.50 next?"
-    },
-    {
-      "title": "Trump\u2019s new tariff threats rattle markets \u2013 Assessing the impact on Bitcoin",
-      "link": "https://ambcrypto.com/trumps-new-tariff-threats-rattle-markets-assessing-the-impact-on-bitcoin/",
-      "summary": "<img alt=\"Trump\u2019s new tariff threats rattle markets - Assessing the impact on Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"572\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Trump-refuses-tariff-pause.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1017\" />S&#038;P dipped by 14 points and the crypto market crashed, with XRP, ETH, and DOGE leading losses."
     }
   ]
 }
