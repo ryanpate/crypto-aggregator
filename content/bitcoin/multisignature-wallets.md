@@ -39,4 +39,4 @@ Multisig requires **multiple approvals** before funds move—ideal for teams or 
 
 ---
 
-> _Proceed: [Seed Phrase & Key Management](seed-phrase-key-management.md)_
+> _Proceed: [Seed Phrase & Key Management](./seed-phrase-key-management.md)_
