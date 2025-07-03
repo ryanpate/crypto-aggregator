@@ -19,7 +19,7 @@
       ]
     }{{ if .IsPage }},
     {
-      "@type": "{{ if eq .Section \"blog\" }}BlogPosting{{ else }}Article{{ end }}",
+      "@type": "{{ if eq .Section "blog" }}BlogPosting{{ else }}Article{{ end }}",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "{{ .Permalink }}"
