@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "JPMorgan Sees Stablecoin Market Hitting $500B by 2028, Far Below Bullish Forecasts",
+      "link": "https://www.coindesk.com/markets/2025/07/03/jpmorgan-sees-stablecoin-market-hitting-500b-by-2028-far-below-bullish-forecasts",
+      "summary": ""
+    },
+    {
       "title": "Crypto Daybook Americas: Bitcoin Tops $110K as Jobs Report Looms",
       "link": "https://www.coindesk.com/daybook-us/2025/07/03/crypto-daybook-americas-bitcoin-tops-110k-as-jobs-report-looms",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "XRP $3 Bets Dominate Trading Volumes as XRP/BTC's 'Wedge' Suggests Further Rally",
       "link": "https://www.coindesk.com/markets/2025/07/03/xrp-usd3-bets-dominate-trading-volumes-as-xrp-btc-s-wedge-suggests-further-rally",
       "summary": ""
-    },
-    {
-      "title": "Swiss Bank AMINA Introduces Custody, Trading With Ripple\u2019s RLUSD Stablecoin",
-      "link": "https://www.coindesk.com/business/2025/07/03/swiss-bank-amina-introduces-custody-trading-with-ripples-rlusd-stablecoin",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Why can&#039;t Bitcoin price break $112K all-time highs? BTC analysts explain",
+      "link": "https://cointelegraph.com/news/why-cant-bitcoin-price-break-112k-all-time-highs-btc-analysts-explain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjgwYTUtYjY1Mi03YTYwLWIxYzItNGE5Y2MwMzJjNzZh.jpg\" /></p><p>The absence of new buyers and FOMO-driven greed are key factors that could keep Bitcoin price pinned below $112,000 for longer that many think.</p>"
+    },
+    {
+      "title": "John Smedley\u2019s studio raises $30.5M for new shooter built on Etherlink",
+      "link": "https://cointelegraph.com/news/john-smedley-dps-30-5-million-reaper-actual-etherlink-tezos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg5ODYtZDVhNi03MGIyLTljMjktMzNkYzVkYzc1ZWRh.jpg\" /></p><p>Gaming industry veteran John Smedley is making his first foray into Web3 gaming with a new AAA shooter featuring Tezos layer-2 blockchain Etherlink.</p>"
+    },
     {
       "title": "ChatGPT vs X: Which is better at first spotting the next big crypto narrative?",
       "link": "https://cointelegraph.com/news/chatgpt-vs-x-which-is-better-at-first-spotting-the-next-big-crypto-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Crypto theft campaign hits Firefox users with wallet clones",
       "link": "https://cointelegraph.com/news/over-40-crypto-stealing-firefox-extensions-discovered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NmOTAtZGQ2MS03ZTcyLTg4ODUtODkyYTVkMTM0MTYy.jpg\" /></p><p>Over 40 fake Firefox extensions impersonating popular crypto wallets have been used in an ongoing campaign to steal users\u2019 wallet credentials.</p>"
-    },
-    {
-      "title": "JD.com, Ant Group push yuan stablecoins to challenge US dollar dominance",
-      "link": "https://cointelegraph.com/news/jd-com-ant-yuan-stablecoins-challenge-dollar-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NmYjMtZDhlZi03ODM0LTlkMDgtZTdkYTg2MTlkNjVj.jpg\" /></p><p>JD.com and Ant Group are reportedly lobbying Chinese regulators to launch yuan-based stablecoins to boost the currency\u2019s global role and counter US dollar-pegged tokens.</p>"
-    },
-    {
-      "title": "Tether USDT challenges Circle\u2019s lead on BitPay payments in 2025",
-      "link": "https://cointelegraph.com/news/circle-usdc-loses-steam-against-tether-usdt-bitpay-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThlOWEtMzI1OC03ZTRmLWJlZjktNmYzZGEwMzM4OGIx.jpg\" /></p><p>USDC transactions on BitPay accounted for almost double that of USDT in 2024, but the trend has shifted in favor of Tether this year.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ethereum\u2019s ambitious journey to $10,000 begins with new community foundation launch",
+      "link": "https://cryptoslate.com/ethereums-ambitious-journey-to-10000-begins-with-new-foundation-launch/",
+      "summary": "<p>Zak Cole, a leading Ethereum core developer, has launched a new initiative to drive the Ethereum network&#8217;s expansion and boost its market value. In a speech at the Ethereum Community Conference on July 2, Cole introduced the Ethereum Community Foundation (ECF), an independent entity dedicated to supporting Ethereum as an asset and pushing its price [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin\u2019s climb past $110k to within 2% of ATH tightens spread between USD and USDT pairs",
       "link": "https://cryptoslate.com/insights/bitcoins-climb-past-110k-to-within-2-of-ath-tightens-spread-between-usd-and-usdt-pairs/",
@@ -73,14 +78,14 @@
       "title": "Solana dominates real value rankings, DEX volume during H1",
       "link": "https://cryptoslate.com/solana-dominates-real-value-rankings-dex-volume-during-h1/",
       "summary": "<p>Solana dominated major cryptocurrencies in real economic value (REV) and DEX volumes during the first half of 2025, according to Helius&#8217; &#8220;Solana Ecosystem Report H1 2025.&#8221; The report highlighted that Solana has led all blockchains in REV since October 2024 and reached $551 million in January 2025. REV is a metric that measures the monetary [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Crypto VC funding drops 22% in Q2 despite strong June finish",
-      "link": "https://cryptoslate.com/crypto-vc-funding-drops-22-in-q2-despite-strong-june-finish/",
-      "summary": "<p>Venture capital funding directed towards crypto startups totaled $4.5 billion during the second quarter, down 22% versus the previous three months. According to DefiLlama data, the breakdown of the second quarter shows monthly flows of roughly $1.29 billion in April, $624 million in May, and $2.5 billion in June. June&#8217;s figure is over 4x larger [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Buy Bitcoin Before Jackson Hole\u2014Or Regret It Forever, Says Arthur Hayes",
+      "link": "https://www.newsbtc.com/bitcoin-news/buy-bitcoin-before-jackson-hole-arthur-hayes/",
+      "summary": "Arthur Hayes has published a new essay, \u201cQuid Pro Stablecoin,\u201d arguing that the United States\u2019 sudden political enthusiasm for bank-issued stablecoins is less about \u201cfinancial freedom\u201d and more about arming the Treasury with a multi-trillion-dollar \u201cliquidity bazooka.\u201d The former BitMEX chief\u2014writing in his personal newsletter\u2014contends that investors who postpone buying Bitcoin until the Federal Reserve resumes quantitative easing will serve as \u201cexit liquidity\u201d for those who bought earlier. How The Money Printer Is Already Warming Up At the core of Hayes\u2019 thesis is the claim that eight \u201ctoo-big-to-fail\u201d banks hold roughly $6.8 trillion in demand and time deposits that can be transformed into on-chain dollars. Once customers migrate from legacy accounts to bank stablecoins\u2014he cites JPMorgan\u2019s forthcoming \u201cJPMD\u201d token as the template\u2014those deposits become collateral that can be recycled into Treasury bills. \u201cAdoption of stablecoins by TBTF banks creates up to $6.8 trillion of T-bill buying power,\u201d he writes, adding that the product simultaneously slashes compliance overhead because \u201can AI agent trained on the corpus of relevant compliance regulations can perfectly ensure that certain transactions are never approved.\u201d Related Reading: Bitcoin Seasonality: Why Summer 2025 Will Catch Everyone Off Guard Hayes layers a second mechanism on top of the stablecoin flow. If Congress strips the Federal Reserve of its ability to pay interest on reserve balances\u2014a proposal floated by Senator Ted Cruz\u2014banks would have to replace that lost income by buying short-dated Treasuries. He estimates the policy could \u201cliberate another $3.3 trillion of inert reserves,\u201d bringing the prospective fire-power for government debt purchases to $10.1 trillion. \u201cThis $10.1 trillion liquidity injection will act upon risky assets in the same way Bad Gurl Yellen\u2019s $2.5 trillion injection did\u2026 PUMP UP THE JAM!\u201d Hayes asserts. The essay frames the bipartisan GENIUS Act as the legislative linchpin. By barring non-banks from issuing interest-bearing stablecoins, Washington \u201chands the stablecoin market to banks,\u201d ensuring that fintech issuers such as Circle cannot compete at scale and that deposit flight is funneled into the institutions most likely to bankroll the Treasury. Hayes calculates that the cost savings and enhanced net-interest margins could increase the combined market capitalisation of the big banks by more than 180 percent, a trade he describes as \u201cnon-consensus\u201d but executable \u201cin SIZE.\u201d Buy Bitcoin Before The Fed Blinks Despite his long-term enthusiasm, Hayes cautions that a temporary liquidity drain looms once Congress passes what he labels Trump\u2019s \u201cBig Beautiful Bill.\u201d Refilling the Treasury General Account to its $850 billion target could contract dollar liquidity by nearly half a trillion dollars, an impulse he believes may knock Bitcoin back toward the mid-$90,000s and keep prices range-bound until the Federal Reserve\u2019s annual Jackson Hole conference in late August. Related Reading: Public Firms Snag 131,000 BTC, Surpassing ETFs In Bitcoin Purchases \u201cI believe that between now and the August Jackson Hole Fed speech to be given by beta cuck towel bitch boy Jerome Powell, the market will trade sideways to slightly lower. If the TGA refill proves to be dollar liquidity negative, then the downside is $90,000 to $95,000. If the refill proves to be a nothingburger, Bitcoin will chop in the $100,000s without a decisive break above the $112,000 all-time-high,\u201d Hayes writes. The punchline, however, is resolutely bullish. Hayes ridicules advisers steering clients into bonds on the premise that yields will fall: \u201cIf you\u2019re still waiting for Powell to whisper \u2018QE infinity\u2019 in your ear before you go risk-on, congrats \u2014 you\u2019re the exit liquidity. Instead go long Bitcoin. Go long JPMorgan. Forget about Circle.\u201d In his view, the political machinery that props up US deficits has already selected bank stablecoins as the next round of stealth quantitative easing, and Bitcoin\u2014alongside JPMorgan stock\u2014is positioned to absorb the spill-over. Hayes signs off with a stark imperative: \u201cDon\u2019t sit on the sidelines waiting for Powell to bless the bull market.\u201d The liquidity horse, he argues, has already bolted; investors who hesitate to buy Bitcoin risk being trampled beneath it. \u201cYou will miss out on Bitcoin pumping 10x to $1 million,\u201d he concludes. At press time, Bitcoin traded at $109,449. Featured image from YouTube, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin Moves Up, Dogecoin Surges Above Key $0.17 Mark; Token6900 Set to Explode",
       "link": "https://www.newsbtc.com/news/dogecoin-surges-above-key-0-17-mark-token6900-set-to-explode/",
@@ -100,11 +105,6 @@
       "title": "Ethereum Eyes Key Resistance As Price Reclaims $2,550 \u2013  Here Are The Levels To Watch",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-eyes-key-resistance-as-price-reclaims-2550-here-are-the-levels-to-watch/",
       "summary": "Ethereum (ETH) has surged 7.5% in the daily timeframe to break above a key resistance level for the first time in weeks. Following its breakout, some analysts forecasted that a retest of the range highs could be around the corner. Related Reading: Bitcoin Holds Key Level Amid $108,000 Rejection, But Analysts Suggest Caution This Quarter Ethereum Reclaims Crucial Area On Wednesday, Ethereum jumped over 7% from its local low to the $2,550 mark, setting the stage to reclaim another crucial resistance. The King of Altcoins climbed from the $2,380 support to the $2,585 area, hitting a two-week high. The cryptocurrency has been trading between the $2,400-$2,800 price range since the early May breakout, but briefly lost this area after failing to hold the $2,550 support two weeks ago. After recovering its local range, ETH struggled to break past the $2,500 barrier, trading between the range low and this resistance for a week. Nonetheless, today\u2019s market recovery, which also saw Bitcoin jump to the $109,600 mark, has sparked bullish sentiment among investors. Amid today\u2019s performance, Daan Crypto Trades called ETH\u2019s price action a \u201cnice move out of the local range.\u201d However, he suggested that bulls must hold the $2,520 area to confirm it isn\u2019t another deviation or liquidity grab in a \u201cbigger chop.\u201d To the trader, failing to hold this area would send the cryptocurrency to the range lows again. As a result, the major levels to watch remain the $2,310 support and $2,735 resistance. Market watcher Merlijn The Trader noted that Ethereum has \u201crespected support every single time,\u201d forming \u201cone of the cleanest breakouts we\u2019ve ever seen.\u201d He highlighted a three-month ascending triangle in ETH\u2019s chart, pointing out that the King of Altcoins bounced from the rising support line during the recent price deviation and now targets the next key resistance around the $2,700 mark. Ethereum is charging up. Higher lows, strong base, bullish MACD crossover. A clean break of $2,700\u2026 and ETH will fly. $3,000 is just the beginning. The real move comes after that. ETH To Repeat ATH Set Up? Merlijn also affirmed that ETH\u2019s two-year setup is repeating, which could signal that a massive breakout is coming. According to the chart, the Ethereum price has moved in stages that last about two years since 2018. During the first stage, the cryptocurrency\u2019s price forms a base, which later leads to the second stage, where the price rejects and retests the base lows. Lastly, Ethereum experiences the liftoff phase, where the price breaks out to new highs. The last liftoff phase, between 2020 and 2022, saw ETH surge from the $100 mark to its $4,878 all-time high (ATH). To the trader, \u201cThis time we start from $1,500. Not a dip. A launchpad.\u201d Similarly, analyst Kaleo pointed out the structural resemblance between ETH\u2019s performance this cycle and last cycle. He noted that, while BTC hit a new ATH in December 2020, Ethereum was 60% down from its previous cycle highs, leading many investors to suggest it was \u201cdead.\u201d Related Reading: Solana Summer Loading? SOL Eyes $180 Following Staked ETF-Fueled Breakout Nonetheless, ETH climbed over 800% from there, outperforming Bitcoin\u2019s 250% increase in the following months. This time, the cryptocurrency has also seen up to a 68% retrace from its previous ATH, while BTC soared to new highs. If history repeats, \u201cThe bottom for ETH is in. Up only from here,\u201d the analyst concluded. As of this writing, Ethereum is trading at $2,568, a 6.1% increase in the weekly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
-    },
-    {
-      "title": "Bitcoin Short-Term Upper Bound Is $117,000, Glassnode Says",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-short-term-upper-117000-glassnode/",
-      "summary": "The on-chain analytics firm Glassnode has revealed Bitcoin has recently been trading within a short-term band that has its upper level currently located at $117,000. Bitcoin Is Trading Between These Two Short-Term Holder Price Bands In a new post on X, Glassnode has discussed about the short-term price band that Bitcoin has been trading inside lately. The band in question is based on two levels relevant to the short-term holders (STHs), investors who purchased their coins within the past 155 days. Related Reading: This Altcoin Looks Like PEPE Before It Exploded, Analyst Says The indicator related to the STHs that&#8217;s of interest here is the Realized Price, which keeps track of the average cost basis or acquisition level of the BTC addresses belonging to the group. When the value of this metric is greater than the asset&#8217;s spot price, it means the STHs as a whole can be considered to be in a state of net unrealized profit. On the other hand, it being under the coin&#8217;s value suggests the dominance of loss among this cohort. Now, here is the chart shared by Glassnode, which shows the trend in the STH Realized Price and a few lines corresponding to different standard deviations (SDs) from it: As displayed in the above graph, the Bitcoin price has interestingly traded in a range defined by two of these lines over the last six months. The lower bound of the range has been the -1 SD and the upper one the +1 SD. The STHs are made up of the new entrants into the sector and fickle-minded traders, so the group tends to easily react to happenings in the market. As such, the cryptocurrency&#8217;s price can have some interactions with the STH Realized Price, due to the cohort&#8217;s panic buying/selling. From the chart, it&#8217;s apparent that the same has been true in this period of consolidation as well. While the indicator has certainly not acted as an absolute support or resistance, the asset has still seen such effects around it in the short term. Related Reading: Ethereum In Demand: ETF Inflow Streak Extends To 7 Weeks Currently, Bitcoin is trading above the metric after finding a rebound at it last month. The level ahead of the asset now is the +1 SD. In this period of sideways movement, it has so far only been able to test this line once. &#8220;This level can be seen as the upper band of the short-term price action,&#8221; notes the analytics firm. The +1 SD is located at around $117,000 right now. It only remains to be seen whether Bitcoin will test this level in the near future or not. BTC Price Bitcoin has enjoyed a surge of more than 3% over the past day that has taken its price to $109,500. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Moo Deng Surges As Viral Pygmy Hippo\u2019s Birthday Plans Revealed by Zoo",
+      "link": "https://decrypt.co/328430/moo-deng-surges-as-viral-pygmy-hippos-birthday-plans-revealed-by-zoo",
+      "summary": "Viral pygmy hippo Moo Deng will turn one next week\u2014and crypto degens are pumping her unofficial Solana meme coin."
+    },
+    {
+      "title": "EverQuest, Planetside Co-Creator Reveals Open-World Shooter Game 'Reaper Actual'",
+      "link": "https://decrypt.co/328338/everquest-planetside-co-creator-reveals-shooter-game-reaper-actual",
+      "summary": "John Smedley believes his new studio\u2019s ambitious shooter Reaper Actual will sell gamers on blockchain, because it is \u201cWeb3 done right.\u201d"
+    },
+    {
       "title": "India\u2019s \u2018Most Prolific Darknet Drug Syndicate\u2019 Used Monero to Evade Cops",
       "link": "https://decrypt.co/328432/indias-most-prolific-darknet-drug-syndicate-used-monero-to-evade-cops",
       "summary": "A 35-year-old Kerala native allegedly shipped drugs nationwide while laundering proceeds through privacy crypto Monero, officials say."
@@ -149,16 +159,6 @@
       "title": "IMF Rejects Pakistan\u2019s Bid to Subsidise Power for Crypto Mining",
       "link": "https://decrypt.co/328408/imf-rejects-pakistans-bid-to-subsidise-power-for-crypto-mining",
       "summary": "The IMF hasn\u2019t agreed to crypto power subsidies yet, but Pakistan is working with the World Bank and others to refine the plan."
-    },
-    {
-      "title": "Why Real Creativity Still Needs Chaos and a Human Touch in the AI Age",
-      "link": "https://decrypt.co/328369/creativity-chaos-human-touch-ai-age",
-      "summary": "French philosopher Gilles Deleuze once argued art emerges from chaos. Now, his critique is finding new relevance in an AI-generated world."
-    },
-    {
-      "title": "Scammer Posed as Trump-Vance Official to Steal $250K in Crypto, DOJ Says",
-      "link": "https://decrypt.co/328366/scammer-trump-vance-official-steal-crypto-doj",
-      "summary": "The FBI has traced some of the stolen crypto through blockchain analytics and recovered over $40,000 with help from Tether."
     }
   ],
   "CryptoBriefing": [
