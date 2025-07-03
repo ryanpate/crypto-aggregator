@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "PEPE Climbs 10% as Golden Cross Signals Possible Further Gains in Hot Memecoin Market",
+      "link": "https://www.coindesk.com/markets/2025/07/03/pepe-climbs-10-as-golden-cross-signals-possible-further-gains-in-hot-memecoin-market",
+      "summary": ""
+    },
+    {
+      "title": "Filecoin Gains as Much as 9% Amid Wider Crypto Market Rally",
+      "link": "https://www.coindesk.com/markets/2025/07/03/filecoin-gains-as-much-as-9-amid-wider-crypto-market-rally",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Exchange Coinone Wins South Korean Court Battle Over Doubled Bitcoin Withdrawals",
+      "link": "https://www.coindesk.com/policy/2025/07/03/crypto-exchange-coinone-wins-south-korean-court-battle-over-doubled-bitcoin-withdrawals",
+      "summary": ""
+    },
+    {
       "title": "Abu Dhabi Ventures Into Bond Tokenization with HSBC and FAB as RWA Momentum Accelerates",
       "link": "https://www.coindesk.com/business/2025/07/03/abu-dhabi-ventures-into-bond-tokenization-with-hsbc-and-fab-as-rwa-momentum-accelerates",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Why Doesn't the U.S. Have a Bitcoin Reserve, Yet?",
       "link": "https://www.coindesk.com/news-analysis/2025/07/02/why-doesn-t-the-u-s-have-a-bitcoin-reserve-yet",
       "summary": ""
-    },
-    {
-      "title": "U.S. June Jobs Data Blows Through Forecasts, With 147K Added, Unemployment Rate Falling to 4.1%",
-      "link": "https://www.coindesk.com/markets/2025/07/03/us-added-147k-jobs-in-june-topping-110k-forecast-unemployment-rate-unexpectedly-falls-to-41",
-      "summary": ""
-    },
-    {
-      "title": "Shiba Inu Chalks Out Bullish Inverse H&S as BONK Cheers ETF Speculation, 1M Holder Milestone",
-      "link": "https://www.coindesk.com/markets/2025/07/03/shiba-inu-chalks-out-inverse-h-and-s-as-bonk-cheers-etf-speculation-1m-holder-milestone",
-      "summary": ""
-    },
-    {
-      "title": "JPMorgan Sees Stablecoin Market Hitting $500B by 2028, Far Below Bullish Forecasts",
-      "link": "https://www.coindesk.com/markets/2025/07/03/jpmorgan-sees-stablecoin-market-hitting-500b-by-2028-far-below-bullish-forecasts",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "XRP futures OI jumps 30% as price chart \u2018pennant\u2019 targets $3.20",
+      "link": "https://cointelegraph.com/news/xrp-futures-bets-jump-30-price-chart-pennant-targets-3-20?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QwYjgtZGZmOS03YzQyLWExYjgtNzRhYzc0MjVhYjY5.jpg\" /></p><p>XRP\u2019s price breaks out of a \u201cpennant\u201d with a profit target of around $3.20 amid increasing futures open interest.</p>"
+    },
+    {
+      "title": "Fix AI\u2019s data theft problem with onchain attribution",
+      "link": "https://cointelegraph.com/news/ai-data-theft-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhjNzEtNDEwZS03MzIxLWI0N2ItZmYxZWViZjg3ODQ1.jpg\" /></p><p>AI models generate immense value from user data. It\u2019s time to demand onchain attribution and pay the people whose data makes AI possible with Payable AI, to ensure fair recognition and payment for everyone.</p>"
+    },
+    {
+      "title": "Quantum computers could bring lost Bitcoin back to life: Here\u2019s how",
+      "link": "https://cointelegraph.com/explained/quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MjUyZjJjOWU5OWJhMjIzMmFmMTlmODI5M2E4ZTAzMi5qcGc=.jpg\" /></p><p>Quantum computing could enable the reverse engineering of private keys from publicly exposed ones, putting the security of Bitcoin holders at risk.</p>"
+    },
     {
       "title": "JD.com, Ant Group push yuan stablecoins to challenge US dollar dominance",
       "link": "https://cointelegraph.com/news/jd-com-ant-yuan-stablecoins-challenge-dollar-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "Bitcoin dices with $110K as US jobs beat takes Fed rate cut &#039;off table&#039;",
       "link": "https://cointelegraph.com/news/bitcoin-dices-110k-us-jobs-beat-july-rate-cut-off-table?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QwODAtMmE2Mi03YzQ1LWIyNjItNWU1MGI2MWQ5YzMw.jpg\" /></p><p>Bitcoin reverses its push beyond $110,000 as markets discount the odds of the Federal Reserve lowering interest rates before September.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Pakistan Bitcoin mining plan in limbo as IMF rejects power subsidies: Report",
-      "link": "https://cointelegraph.com/news/pakistan-imf-rejects-crypto-power-subsidy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QwNWUtODc3OS03MzIxLTgyNTUtMjQ2OTA4MjYyZTc3.jpg\" /></p><p>The IMF has reportedly blocked Pakistan\u2019s plan to use cheap electricity for crypto mining, warning it could destabilize the energy market.</p>"
-    },
-    {
-      "title": "MiCA enforcement still fragmented across EU, says Bitpanda exec",
-      "link": "https://cointelegraph.com/news/bitpanda-mica-licensing-eu-regulatory-imbalance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE2YWEtNjlkZS03ZjMxLTk2NTktODUyNTEyYmEwYjli.jpg\" /></p><p>Bitpanda\u2019s public affairs lead, Benedikt Faupel, told that while MiCA brings long-awaited regulatory clarity, harmonization is still lacking.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Pakistan\u2019s energy optimization via Bitcoin mining gets 3 months trial after IMF\u2019s partial rejection",
+      "link": "https://cryptoslate.com/pakistans-energy-optimization-through-bitcoin-mining-gets-3-months-trial-after-imfs-partial-rejection/",
+      "summary": "<p>The International Monetary Fund has declined to fully endorse Pakistan&#8217;s proposal for a subsidized electricity tariff aimed at powering Bitcoin mining operations, local media outlet Profit reported on July 3. According to the report, Fakhray Alam Irfan, the Chairman of Pakistan&#8217;s Senate Standing Committee on Power, revealed that the IMF approved only a three-month relief [&#8230;]</p> <p>"
+    },
     {
       "title": "Arthur Hayes says US banks may unlock $6.8 trillion T-bill buying power through stablecoins",
       "link": "https://cryptoslate.com/arthur-hayes-says-us-banks-may-unlock-6-8t-in-t-bill-buying-power-through-stablecoin-issuance/",
@@ -73,11 +78,6 @@
       "title": "Ripple\u2019s new Swiss banking deal unlocks a European corridor in stablecoin wars",
       "link": "https://cryptoslate.com/ripples-swiss-banking-deal-unlocks-a-european-corridor-in-stablecoin-wars/",
       "summary": "<p>Swiss-based AMINA Bank will provide custody and trading for Ripple&#8217;s RLUSD stablecoin. The move offers the relatively new dollar-pegged asset with a European base inside a FINMA-licensed institution, a development that integrates the stablecoin directly into a regulated banking environment for institutional and private clients. The integration marks one of the first adoptions for RLUSD [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Solana\u2019s first staking ETF outpaces XRP and ETH futures in opening day performance",
-      "link": "https://cryptoslate.com/solanas-first-staking-etf-outpaces-xrp-and-eth-futures-in-opening-day-performance/",
-      "summary": "<p>Solana&#8217;s institutional appeal has surged, with data showing significant growth in both its staking Exchange-Traded Fund (ETF) and Solana CME futures markets. The impressive performance translated into a 5% rise in SOL&#8217;s value in the last 24 hours to $155 as of press time, according to &#8217;s data. The REX-Osprey Solana Staking ETF, known as [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "The Scroll: A Brief History of Wallet Clustering",
+      "link": "https://bitcoinmagazine.com/technical/the-scroll-a-brief-history-of-wallet-clustering",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Spiral.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/the-scroll-a-brief-history-of-wallet-clustering\" rel=\"nofollow\"> </a></p> <p>Clustering is the process of using heuristic to link together individual UTXOs that are controlled by a single wallet. It is a foundation of chain analysis. </p> <p>"
+    },
+    {
       "title": "The Nakamoto Strategy: Seeding Bitcoin Treasury Companies in Every Capital Market",
       "link": "https://bitcoinmagazine.com/news/nakamoto-seeding-bitcoin-treasury-companies",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Nakamoto-Strategy-Seeding-Bitcoin-Treasury-Companies.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/nakamoto-seeding-bitcoin-treasury-companies\" rel=\"nofollow\"> </a></p> <p>Nakamoto seeks to build the first global network of Bitcoin treasury companies\u2014giving capital markets compliant exposure to Bitcoin at scale.</p> <p>"
@@ -127,14 +132,14 @@
       "title": "BlackRock\u2019s Bitcoin ETF Drives More Revenue Than Its S&P 500 Fund",
       "link": "https://bitcoinmagazine.com/news/blackrocks-bitcoin-etf-drives-more-revenue-than-its-sp-500-fund",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/BlackRocks-Bitcoin-ETF-Drives-More-Revenue-Than-Its-SP-500-Fund-1.png\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/blackrocks-bitcoin-etf-drives-more-revenue-than-its-sp-500-fund\" rel=\"nofollow\">BlackRock\u2019s Bitcoin ETF Drives More Revenue Than Its S&amp;P 500 Fund</a></p> <p>The 18 month old iShares Bitcoin Trust (IBIT) has surpassed BlackRock\u2019s S&#038;P 500 ETF in annual fee revenue.</p> <p>"
-    },
-    {
-      "title": "Investment Holding Company Belgravia Hartford Capital Completes Fourth Bitcoin Acquisition",
-      "link": "https://bitcoinmagazine.com/news/investment-holding-company-belgravia-hartford-capital-completes-fourth-bitcoin-acquisition",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Investment-Holding-Company-Belgravia-Hartford-Capital-Makes-First-Bitcoin-Purchase-as-Part-of-Treasury-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/investment-holding-company-belgravia-hartford-capital-completes-fourth-bitcoin-acquisition\" rel=\"nofollow\"> </a></p> <p>Company now holds 15.75 BTC worth $1.66 million, funded through a $5 million facility from Round13 Digital Asset Fund to support its long term Bitcoin treasury strategy.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Bitcoin Seesaws as Hot Jobs Report Extinguishes Rate Cut Hopes",
+      "link": "https://decrypt.co/328482/bitcoin-seesaws-hot-jobs-report-extinguishes-rate-cut-hopes",
+      "summary": "The price of Bitcoin wavered after a hotter-than-expected jobs report pointed to a resilient U.S. labor market, squashing rate cut hopes."
+    },
     {
       "title": "Bitcoin Consortium Targets Thai Public Firm in Treasury Strategy Push",
       "link": "https://decrypt.co/328453/bitcoin-consortium-targets-thai-public-firm-in-treasury-strategy-push",
@@ -154,14 +159,14 @@
       "title": "EverQuest, Planetside Co-Creator Reveals Open-World Shooter Game 'Reaper Actual'",
       "link": "https://decrypt.co/328338/everquest-planetside-co-creator-reveals-shooter-game-reaper-actual",
       "summary": "John Smedley believes his new studio\u2019s ambitious shooter Reaper Actual will sell gamers on blockchain, because it is \u201cWeb3 done right.\u201d"
-    },
-    {
-      "title": "India\u2019s \u2018Most Prolific Darknet Drug Syndicate\u2019 Used Monero to Evade Cops",
-      "link": "https://decrypt.co/328432/indias-most-prolific-darknet-drug-syndicate-used-monero-to-evade-cops",
-      "summary": "A 35-year-old Kerala native allegedly shipped drugs nationwide while laundering proceeds through privacy crypto Monero, officials say."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "IMF denies Pakistan\u2019s proposal to offer cheap power to Bitcoin, crypto miners",
+      "link": "https://cryptobriefing.com/crypto-mining-electricity-pakistan-imf/",
+      "summary": "<p>The IMF's rejection highlights challenges in balancing economic growth with sustainable energy policies in developing nations.</p> <p>"
+    },
     {
       "title": "Bitcoin could retest $90K as Trump\u2019s Big Beautiful Bill sets stage for liquidity crunch: Arthur Hayes",
       "link": "https://cryptobriefing.com/bitcoin-liquidity-risk-tga-refill/",
@@ -181,14 +186,14 @@
       "title": "SEC halts Grayscale\u2019s bid to covert BTC, ETH, XRP, SOL large-cap fund into a spot ETF despite approval order",
       "link": "https://cryptobriefing.com/grayscale-crypto-etf-sec-approval/",
       "summary": "<p>The SEC's delay highlights regulatory caution, potentially impacting the timeline for broader crypto ETF adoption and market integration.</p> <p>"
-    },
-    {
-      "title": "Ripple applies for US banking license, eyes mainstream finance",
-      "link": "https://cryptobriefing.com/crypto-banking-license-ripple/",
-      "summary": "<p>Ripple's banking license bid signals a potential shift towards deeper integration of crypto into mainstream finance amid evolving regulations.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Why is crypto up today? ETF inflows, speculative interest push the market",
+      "link": "https://ambcrypto.com/why-is-crypto-up-today-etf-inflows-speculative-interest-push-the-market/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/WhyiscryptouptodayFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Analysts remained divided on BTC short term trajectory despite recent breakout."
+    },
     {
       "title": "KTA\u2019s 15% bounce: Are Keeta whales quietly leading a reversal?",
       "link": "https://ambcrypto.com/ktas-15-bounce-are-keeta-whales-quietly-leading-a-reversal/",
@@ -208,11 +213,6 @@
       "title": "Ethereum ETFs could attract $10B in H2 2025 \u2013 Bitwise CIO",
       "link": "https://ambcrypto.com/ethereum-etfs-will-attract-10b-in-h2-2025-bitwise-cio/",
       "summary": "<img alt=\"Ethereum ETF\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/EthereumETF.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The market doubts whether ETH could surge to a new ATH despite bullish outlook."
-    },
-    {
-      "title": "Strategy\u2019s MSTR beats S&P 500 with 40% gain in Q2 \u2013 Details",
-      "link": "https://ambcrypto.com/strategys-mstr-beats-sp-500-with-40-gain-in-q2-details/",
-      "summary": "<img alt=\"MSTR stock surges\" class=\"attachment-full size-full wp-post-image\" height=\"615\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/MSTR-stock-surges.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1094\" />How did Strategy\u2019s stock eclipse S&#38;P giants without growing its core business?"
     }
   ]
 }
