@@ -35,4 +35,4 @@ High-value or corporate holdings often require professional custody.
 
 ---
 
-> _Then: [Preventing Common Attacks](preventing-common-attacks.md)_
+> _Then: [Preventing Common Attacks](../preventing-common-attacks/)_

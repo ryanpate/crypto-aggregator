@@ -52,4 +52,4 @@ Choosing the right wallet is Step 1 in safeguarding your Bitcoin. We divide wall
 
 ---
 
-> _Next up: [Hardware Wallets & Cold Storage](hardware-wallets-cold-storage.md)_
+> _Next up: [Hardware Wallets & Cold Storage](../hardware-wallets-cold-storage/)_

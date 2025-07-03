@@ -55,4 +55,4 @@ Hot wallets live on your connected devices. Use them for small, everyday Bitcoin
 
 ---
 
-> _Next: [Multisignature Wallets](multisignature-wallets.md)_
+> _Next: [Multisignature Wallets](../multisignature-wallets/)_

@@ -29,4 +29,4 @@ Awareness is your first line of defense.
 
 ---
 
-> _Finally: [Best Practices & Maintenance](best-practices-maintenance.md)_
+> _Finally: [Best Practices & Maintenance](../best-practices-maintenance/)_

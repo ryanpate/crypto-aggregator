@@ -45,4 +45,4 @@ Cold storage is the gold standard for long-term Bitcoin security.
 
 ---
 
-> _Continue to: [Software Wallets & Hot Storage](software-wallets-hot-storage.md)_
+> _Continue to: [Software Wallets & Hot Storage](../software-wallets-hot-storage/)_

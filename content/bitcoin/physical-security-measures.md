@@ -32,4 +32,4 @@ Even perfectly managed keys are worthless if they’re stolen or destroyed.
 
 ---
 
-> _Next: [Advanced Custody Solutions](advanced-custody-solutions.md)_
+> _Next: [Advanced Custody Solutions](../advanced-custody-solutions/)_
