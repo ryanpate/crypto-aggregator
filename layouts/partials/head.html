@@ -3,6 +3,7 @@
   <link rel="icon" type="image/png" href="/favicon.ico">
   <link rel="shortcut icon" type="image/png" href="/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="{{ if .Params.noindex }}noindex, nofollow{{ else }}index, follow{{ end }}" />
   <link rel="preload" as="image" href="/banner.png" />
   <!-- AdSense loader -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777" crossorigin="anonymous"></script>
@@ -16,11 +17,8 @@
     {{ $canon = .Data.Term.PagePermalink }}
   {{ end }}
   <link rel="canonical" href="{{ $canon }}" />
-  {{/* Meta description block */}}
-  {{ block "description" . }}
-    <meta name="description"
-          content="BlockWireNews delivers up-to-the-minute cryptocurrency news and comprehensive market analysis: deep dives into Bitcoin price trends, Ethereum DeFi and staking updates, XRP ETF developments, altcoin forecasts, NFT launch insights, regulatory and macroeconomic impacts, and expert trading strategies to power informed decisions." />
-  {{ end }}
+  <!-- Meta description -->
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}BlockWireNews delivers up-to-the-minute cryptocurrency news and comprehensive market analysis: deep dives into Bitcoin price trends, Ethereum DeFi and staking updates, XRP ETF developments, altcoin forecasts, NFT launch insights, regulatory and macroeconomic impacts, and expert trading strategies to power informed decisions.{{ end }}" />
   {{/* Meta keywords block */}}
   {{ block "keywords" . }}
     <meta name="keywords"
