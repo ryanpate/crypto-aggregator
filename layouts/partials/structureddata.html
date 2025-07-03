@@ -1,96 +1,50 @@
-{{- /* BreadcrumbList structured data */ -}}
-{{- if or .IsHome (eq .Section "blog") .IsPage -}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "{{ .Site.BaseURL }}"
-    }{{ if or (eq .Section "blog") .IsPage }}, {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "{{ .Site.BaseURL }}blog/"
-    }{{ end }}{{ if .IsPage }}, {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "{{ .Title }}",
-      "item": "{{ .Permalink }}"
-    }{{ end }}
-  ]
-}
-</script>
-{{- end -}}
-{{- /* JSON-LD for homepage as an ItemList */ -}}
-{{- if .IsHome }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "itemListElement": [
-    {{- $idx := 1 -}}
-    {{- range $source, $articles := site.Data.crypto }}
-      {{- range $articles }}
+      "@type": "BreadcrumbList",
+      "itemListElement": [
         {
           "@type": "ListItem",
-          "position": {{ $idx }},
-          "url": "{{ .link }}"
-        }{{ if not (eq $idx (add (len (slice) 1))) }},{{ end }}
-        {{- $idx = add $idx 1 -}}
-      {{- end }}
-    {{- end }}
+          "position": 1,
+          "name": "Home",
+          "item": "{{ .Site.BaseURL }}"
+        }{{ if or .IsSection .IsPage }}, {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ if .IsPage }}{{ .Title }}{{ else if .IsSection }}{{ .Section | humanize }}{{ end }}",
+          "item": "{{ .Permalink }}"
+        }{{ end }}
+      ]
+    }{{ if .IsPage }},
+    {
+      "@type": "{{ if eq .Section \"blog\" }}BlogPosting{{ else }}Article{{ end }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "headline": "{{ .Title }}",
+      "image": [
+        "{{ with .Params.image }}{{ . }}{{ else }}{{ .Site.BaseURL }}default-og-image.jpg{{ end }}"
+      ],
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ with .Params.author }}{{ . }}{{ else }}BlockWireNews Team{{ end }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BlockWireNews",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}logo.png"
+        }
+      },
+      "description": "{{ with .Params.description }}{{ . }}{{ else }}Your source for crypto guides & headlines.{{ end }}"
+    }
+    {{ end }}
   ]
 }
 </script>
-
-{{- /* JSON-LD for individual blog posts */ -}}
-{{- else if .IsSection "blog" }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Blog",
-  "name": "{{ .Site.Title }} Blog",
-  "url": "{{ .Permalink }}",
-  "description": "{{ .Params.description }}",
-  "blogPost": [
-    {{- range first 10 .Pages.ByDate.Reverse }}
-      {
-        "@type": "BlogPosting",
-        "headline": "{{ .Title }}",
-        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-        "author": { "@type": "Person", "name": "{{ .Params.author }}" },
-        "publisher": {
-          "@type": "Organization",
-          "name": "BlockWireNews",
-          "logo": { "@type": "ImageObject", "url": "{{ .Site.BaseURL }}logo.png" }
-        },
-        "description": "{{ .Summary | plainify }}"
-      }{{ if not (eq .Permalink (index (first 10 .Pages.ByDate.Reverse) 9).Permalink) }},{{ end }}
-    {{- end }}
-  ]
-}
-</script>
-
-{{- /* JSON-LD for individual article pages, if any */ -}}
-{{- else if .IsPage }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "{{ .Title }}",
-  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-  "author":   { "@type":"Person", "name":"{{ .Params.author }}" },
-  "publisher": {
-    "@type":"Organization","name":"BlockWireNews",
-    "logo": { "@type":"ImageObject", "url":"{{ .Site.BaseURL }}logo.png" }
-  },
-  "description":"{{ .Summary | plainify }}",
-  "mainEntityOfPage": { "@type":"WebPage", "id":"{{ .Permalink }}" }
-}
-</script>
-{{- end }}
