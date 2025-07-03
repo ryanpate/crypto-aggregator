@@ -1,6 +1,6 @@
 ---
 title: "Crypto Trading Strategies for Beginners: My Wins, Wipes & Wise Moves"
-date: 2025-07-24T09:00:00-05:00
+date: 2025-07-03T00:00:00-05:00
 draft: false
 author: "Ryan Pate"
 description: "A candid beginner’s guide to crypto trading strategies—covering dollar-cost averaging, swing trading, day trading, risk management, my personal successes and wipeouts, and tools to get you started safely."
