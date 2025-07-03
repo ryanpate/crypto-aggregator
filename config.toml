@@ -2,7 +2,8 @@ baseURL = 'https://www.blockwirenews.com'
 languageCode = 'en-us'
 title = 'BlockWireNews - Aggregated CryptoCurrency News'
 theme = 'ananke'
-enableRobotsTXT = true
+trailingSlash = "always"
+canonifyURLs = true
 
 [menu]
 

@@ -10,7 +10,12 @@
   {{ block "title" . }}
     <title>{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}</title>
   {{ end }}
-  <link rel="canonical" href="{{ .Permalink }}" />
+  {{/* Canonical URL: for paginated taxonomy pages point back to page 1 */}}
+  {{ $canon := .Permalink }}
+  {{ if and (eq .Kind "taxonomy") (gt .Paginator.PageNumber 1) }}
+    {{ $canon = .Data.Term.PagePermalink }}
+  {{ end }}
+  <link rel="canonical" href="{{ $canon }}" />
   {{/* Meta description block */}}
   {{ block "description" . }}
     <meta name="description"
