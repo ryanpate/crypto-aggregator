@@ -38,4 +38,4 @@ Your seed phrase is the **master key** to all your funds. Protect it accordingly
 
 ---
 
-> _Up next: [Physical Security Measures](physical-security-measures/)_
+> _Up next: [Physical Security Measures](../physical-security-measures/)_
