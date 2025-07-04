@@ -23,14 +23,14 @@ Description: Homepage template with SEO enhancements
       <meta property="og:description"
         content="BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares opinions from a blogger. Stay informed!" />
       <meta property="og:url" content="{{ .Site.BaseURL }}" />
-      <meta property="og:image" content="{{ .Site.BaseURL }}banner.png" />
+      <meta property="og:image" content="{{ .Site.BaseURL }}banner.webp" />
 
       <!-- Twitter Card -->
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="BlockWireNews | Cryptocurrency News & Updates" />
       <meta name="twitter:description"
         content="BlockWireNews aggregates top cryptocurrency news, provides weekly updates, and shares opinions from a blogger. Stay informed!" />
-      <meta name="twitter:image" content="{{ .Site.BaseURL }}banner.png" />
+      <meta name="twitter:image" content="{{ .Site.BaseURL }}banner.webp" />
 
       <!-- Google AdSense -->
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777" crossorigin="anonymous"></script>
@@ -44,7 +44,7 @@ Description: Homepage template with SEO enhancements
     "url": "{{ .Site.BaseURL }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}banner.png"
+      "url": "{{ .Site.BaseURL }}banner.webp"
     },
     "sameAs": [
       "{{ .Site.Params.twitter }}",
@@ -267,7 +267,7 @@ Description: Homepage template with SEO enhancements
         <section class="section blog-section">
           <div class="blog-banner" style="text-align:left;">
             <a href="/blog/">
-              <img src="/blog_banner.png" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
+              <img src="/blog_banner.webp" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
             </a>
           </div>
           {{ $recent := first 3 $blogSection.Pages.ByDate.Reverse }}
@@ -284,7 +284,7 @@ Description: Homepage template with SEO enhancements
         <!-- News Section Banner -->
         <section class="section news-section">
           <div class="news-banner" style="text-align:left; margin-top: 1rem;">
-            <img src="/news_banner.png" alt="News" style="height:80px; width:auto; object-fit:cover;" />
+            <img src="/news_banner.webp" alt="News" style="height:80px; width:auto; object-fit:cover;" />
           </div>
         </section>
 

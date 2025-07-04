@@ -4,7 +4,7 @@
   <link rel="shortcut icon" type="image/png" href="/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="robots" content="{{ if .Params.noindex }}noindex, nofollow{{ else }}index, follow{{ end }}" />
-  <link rel="preload" as="image" href="/banner.png" />
+  <link rel="preload" as="image" href="/banner.webp" />
   <!-- AdSense loader -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777" crossorigin="anonymous"></script>
 {{/* Page title block */}}
@@ -32,12 +32,12 @@
   <meta property="og:title" content="{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}" />
   <meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.png{{ end }}" />
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.webp{{ end }}" />
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | BlockWireNews{{ else }}BlockWireNews – Aggregated Cryptocurrency News{{ end }}" />
   <meta name="twitter:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}Your daily roundup of the latest Bitcoin, Ethereum, and crypto headlines.{{ end }}" />
-  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.png{{ end }}" />
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}/banner.webp{{ end }}" />
   <meta name="twitter:site" content="@BlockWireNews" />
   <meta name="twitter:creator" content="{{ with .Params.author }}@{{ .Params.author }}{{ else }}@BlockWireNews{{ end }}" />
   <meta name="google-adsense-account" content="ca-pub-5523870768931777">
