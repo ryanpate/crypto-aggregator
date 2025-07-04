@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "ATOM Tumbles 4% as Sellers Target Critical $4 Support Level",
+      "link": "https://www.coindesk.com/markets/2025/07/04/atom-tumbles-4-as-sellers-target-critical-usd4-support-level",
+      "summary": ""
+    },
+    {
       "title": "Ondo Finance to Buy SEC-Regulated Broker Oasis Pro for U.S. Tokenized Stock Push",
       "link": "https://www.coindesk.com/business/2025/07/04/ondo-finance-to-buy-sec-regulated-broker-oasis-pro-for-us-tokenized-stock-push",
       "summary": ""
@@ -19,41 +24,41 @@
       "title": "Bitcoin Long-Term Holders Signal Patience in Market",
       "link": "https://www.coindesk.com/markets/2025/07/04/bitcoin-long-term-holders-signal-patience-in-market",
       "summary": ""
-    },
-    {
-      "title": "PEPE Slips 6% as Whales Load Up, Technicals Hint at Possible Bounce Amid Market Jitters",
-      "link": "https://www.coindesk.com/markets/2025/07/04/pepe-slips-6-as-whales-load-up-technicals-hint-at-possible-bounce-amid-market-jitters",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin loses $108K as 14-year-old BTC sparks Satoshi rumors",
+      "link": "https://cointelegraph.com/news/bitcoin-loses-108k-14-year-old-btc-sparks-satoshi-rumors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkxNTQtZjc5My03NDA2LWJiNGQtZDk1M2FkZGVhMGU3.jpg\" /></p><p>Bitcoin is the subject of rumors as wallets holding 80,000 BTC suddenly reactivate after a 14-year hiatus.</p>"
+    },
+    {
+      "title": "Unified liquidity enables the first permissionless long-tail leverage market",
+      "link": "https://cointelegraph.com/news/unified-liquidity-enables-the-first-permissionless-long-tail-leverage-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ1YzktNDYxYS03YjkzLTkzMjAtZWQxNzA0MTAwYzg3.jpg\" /></p><p>Unified liquidity breaks DeFi\u2019s oracle dependency, enabling truly permissionless leverage and shorting for long-tail tokens, and ushering in a scalable, composable and censorship-resistant financial market.</p>"
+    },
+    {
+      "title": "How a $123M crypto scam in Australia laundered millions through a \u2018legit\u2019 business",
+      "link": "https://cointelegraph.com/explained/how-a-123m-crypto-scam-in-australia-laundered-millions-through-a-legit-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNDFjNTEzMzJlNWU3YzRkZjhhZmViNTRjMzFjMWFiYi5qcGc=.jpg\" /></p><p>Australian authorities busted a $123-million crypto fraud. The scheme used seemingly legit businesses for crypto money laundering.</p>"
+    },
+    {
+      "title": "FTX estate asks court to freeze payouts in \u2018restricted\u2019 countries",
+      "link": "https://cointelegraph.com/news/ftx-estate-judge-freeze-payout-countries-crypto-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmMDctZDVhZi03ZjRlLTkzZjEtZThmZjYxN2M2NTA0.jpg\" /></p><p>FTX\u2019s bankruptcy estate is uncertain whether it is legally entitled to distribute payouts to creditors in countries such as China amid local crypto restrictions.</p>"
+    },
+    {
       "title": "Binance taps ex-Gemini exec Gillian Lynch to reboot Europe push",
       "link": "https://cointelegraph.com/news/binance-taps-ex-gemini-exec-to-reboot-europe-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1MDctNGY5Mi03MDNjLWI4M2EtMGMyODU2NmE1M2Iw.jpg\" /></p><p>Binance names Gillian Lynch as head of Europe and UK to lead its MiCA compliance and expansion across regulated crypto markets.</p>"
-    },
-    {
-      "title": "Solana bot scam on GitHub steals crypto from users",
-      "link": "https://cointelegraph.com/news/solana-trading-bot-github-malware-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q1NzEtY2RhYi03OTNhLWJkZDEtMDQ4NTVjYjkzYmZj.jpg\" /></p><p>A fake GitHub repository posing as a Solana trading bot was used to distribute obscured malware that stole crypto wallet credentials, according to cybersecurity firm SlowMist.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Who\u2019s winning the West\u2019s crypto regulation race?",
-      "link": "https://cointelegraph.com/news/who-s-winning-the-west-s-crypto-regulation-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q1NjMtYWI2ZS03ZGY1LWI4N2YtODRkYWU1OTVlNzM3.jpg\" /></p><p>In the latest episode of Byte-Sized Insight we explore the evolving crypto regulatory strategies of the US, EU and UK with insights from Gemini\u2019s head of Europe.</p>"
-    },
-    {
-      "title": "Bitcoin to benefit from Trump\u2019s \u2018Big Beautiful Bill,\u2019 analysts predict",
-      "link": "https://cointelegraph.com/news/bitcoin-benefit-trump-big-beautiful-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzODEtMDcxNS03YWY4LWI4OWYtYWNhYmVhYjU3NTVi.jpg\" /></p><p>Congress passed the Big Beautiful Bill, Trump\u2019s budget proposal, which could benefit Bitcoin, analysts say.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "CZ to merge \u2018Wall Street and blockchain\u2019 alongside Goldman, DTCC, Citadel",
+      "link": "https://cryptoslate.com/cz-to-merge-wall-street-and-blockchain-through-canton-network-alongside-goldman-dtcc-citadel/",
+      "summary": "<p>Former Binance CEO Changpeng (CZ) Zhao&#8217;s YZi Labs has invested in Digital Asset, the institutional blockchain platform Canton Network developer. YZi Labs joins a $135 million Series E round that was first announced on June 24 and includes participation from finance incumbents like Goldman Sachs, Citadel Securities, DRW, and the Depository Trust &#38; Clearing Corporation [&#8230;]</p> <p>"
+    },
     {
       "title": "Why a handful of altcoins are surging over 30% as Bitcoin trends sideways",
       "link": "https://cryptoslate.com/why-a-handful-of-altcoins-are-surging-over-30-as-bitcoin-trends-sideways/",
@@ -73,14 +78,19 @@
       "title": "Polymarket bettors forecast 75% chance Bitcoin reaches $120k in 2025 as prediction volume jumps 30%",
       "link": "https://cryptoslate.com/polymarket-bettors-forecast-75-chance-bitcoin-reaches-120k-in-2025-as-prediction-volume-jumps-30/",
       "summary": "<p>Prediction market data shows traders are wagering millions on the price of Bitcoin reaching levels above $120,000 in 2025. On the decentralized platform Polymarket, a market asking what price Bitcoin will hit in 2025, has attracted over $15.5 million in volume. Traders assign a 75% probability that the asset will exceed $120,000 by the end [&#8230;]</p> <p>"
-    },
-    {
-      "title": "MARA\u2019s $5.4B Bitcoin treasury grows to 50k BTC as miners adopt a HODL strategy",
-      "link": "https://cryptoslate.com/maras-5-4b-bitcoin-treasury-grows-to-50k-btc-as-miners-adopt-a-hodl-strategy/",
-      "summary": "<p>MARA (formerly Marathon Digital) reports its Bitcoin holdings have increased to 49,940 BTC, bringing the digital asset miner to the edge of a major corporate milestone and reinforcing a broader market trend of miners retaining their produced assets. MARA&#8217;s holdings position it as the second-largest public corporate holder of Bitcoin, with a treasury valued at [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Chainlink Consolidates Above Key Support \u2013 Bulls Eye $20 Range",
+      "link": "https://www.newsbtc.com/chainlink-news/chainlink-consolidates-above-key-support-bulls-eye-20-range/",
+      "summary": "Chainlink (LINK) has been locked in a consolidation phase since early March, following a prolonged period of bearish price action that began to lose momentum. Since then, the token has ranged sideways with notable volatility, reflecting broader uncertainty across the altcoin market. However, as Bitcoin pushes toward its all-time high and market sentiment turns increasingly bullish, analysts believe a decisive move from LINK may be imminent. Related Reading: Litecoin Surges Past Descending Resistance \u2013 Bulls Target $97.10 Level Top analyst Ali Martinez shared insights pointing to a key support level that could determine Chainlink\u2019s short-term trajectory. According to Martinez, LINK holding above the $12 mark is crucial and could serve as the launchpad for a breakout toward the $18\u2013$20 range. This level has acted as a major pivot in the past, and reclaiming it with strength would likely attract fresh buying pressure. With Bitcoin dominance remaining high and capital rotating selectively into altcoins, Chainlink\u2019s upcoming moves could signal a higher altcoin market direction. Investors and traders are closely watching this consolidation, waiting for a breakout that could kickstart the next leg higher for LINK and potentially confirm the beginning of a stronger altcoin cycle. The coming days could be critical in determining whether Chainlink is ready to rejoin the uptrend. Chainlink Builds Momentum Chainlink has seen a strong resurgence over the past two weeks, gaining more than 22% in value since June 22. After months of consolidation and sideways action, the recent price movement suggests that bullish momentum is returning to the altcoin. The broader market environment is improving, with Bitcoin nearing its all-time high and risk appetite gradually increasing across crypto assets. For Chainlink, this has translated into renewed optimism and a growing expectation of a breakout. Fundamentally, Chainlink remains one of the most important infrastructure projects in the crypto space. Its partnerships with high-profile projects such as Ripple and Ondo Finance highlight its crucial role in powering real-world asset tokenization and secure on-chain data feeds. These integrations support long-term utility and demand, reinforcing investor confidence in the project\u2019s future. Ali Martinez emphasized that holding above the $12 level is key for Chainlink. According to his analysis, sustained price action above this zone could pave the way for a breakout toward the $18\u2013$20 range. Historically, LINK has shown strong impulsive moves after breaking major consolidation zones, and the current structure appears similar. Related Reading: Ethereum Looks Strong Despite Volatility \u2013 $10,000 Price Target Gains Momentum LINK Consolidates Below Resistance Chainlink is currently trading at $13.32 after facing a minor rejection from the $14 zone. The chart shows that LINK remains in a consolidation range that began in early March, with price action confined between the $12.20 and $14.50 levels. The token has made multiple attempts to reclaim the 50-day and 100-day moving averages, both of which now sit just above the current price action. These moving averages, along with horizontal resistance around $14, are acting as a strong ceiling for now. Despite the recent pullback, LINK remains structurally bullish on the mid-term as it prints higher lows since the June bottom near $11. Analysts remain optimistic that a decisive close above $14\u2013$14.50 would invalidate this range and pave the way for a push toward the $16\u2013$18 zone. Related Reading: Tron DeFi Activity Expands: SunSwap Hits $3B+ Monthly Swaps In 2025 The 200-day moving average near $16.77 remains a key target in the event of a breakout. However, failure to reclaim $14 could lead to another test of support around $12. Overall, the setup remains constructive but will require renewed bullish momentum\u2014possibly led by Bitcoin strength or positive ecosystem news\u2014for a breakout confirmation. Until then, LINK continues to oscillate in a tight range, with bulls watching closely. Featured image from Dall-E, chart from TradingView"
+    },
+    {
+      "title": "Snaky Way ($AKE) Explodes Into Presale with AI Buybacks, Influencer Partnerships & Blockchain Games",
+      "link": "https://www.newsbtc.com/news/snaky-way-explodes-into-presale/",
+      "summary": "The cryptocurrency landscape is always evolving, with new projects popping up to capture the attention of investors, whether they are utility or meme-based. Among the latest entrants, Snaky Way ($AKE) is quickly making headlines with its explosive presale, standing out as not just another meme coin. The token backs a meticulously designed ecosystem aiming to bridge the gap between Web2 and Web3. To do this, the project employs an innovative approach, combining AI, engaging blockchain gaming, and strategic partnerships with mainstream influencers. Today, the ICO has soared past the $160K fundraising mark. A New Approach to Web3 Adoption While many new meme coins primarily target the existing crypto audience, $AKE is targeting newcomers. It has a mission: to onboard mainstream users into the world of Web3. The project is doing its best to ensure its token is accessible, and uses familiar engagement models to promote a sense of comfort. At its heart is a charming green snake mascot that fronts the project, combining entertainment with practical utility. Snaky Way dismantles the traditional barriers to crypto adoption \u2013 complex interfaces, gatekeeping communities, and technical jargon. Instead of focusing on existing crypto circles for outreach, the team aims to collaborate with popular, mainstream influencers across social media platforms like Instagram, TikTok, and YouTube. The strategic partnerships are designed to bring new audiences to crypto through intuitive gaming experiences and tournaments. Furthermore, its multi-chain infrastructure, being across all Ethereum Virtual Machine (EVM) networks, and with plans to integrate with Solana, significantly lowers the technical hurdles sometimes faced by newcomers. The token will be compatible with a broad range of beginner-friendly crypto wallets, allowing anyone to interface with simplicity while learning about blockchain technology. Unpacking the Technological Edge Snaky Way ($AKE) uses an AI-Powered Market Maker System. This system will use AI algorithms to execute strategic buybacks, actively working to maintain the token\u2019s price stability even during market volatility. By analyzing real-time trading patterns, volume data, and sentiment indicators, the AI picks the best time to buy, preventing sudden price crashes and supporting gradual value appreciation over time, thus providing a layer of confidence for investors. Beyond its AI, Snaky Way is growing a vibrant gaming platform complete with a tournament structure. Let&#8217;s face it, we all love good competition. The project developers are working on a dedicated game featuring the project\u2019s snake mascot; it will be incorporating Play-to-Earn (P2E) mechanics that reward players with $AKE tokens. The regular tournament will offer substantial prizes and feature appearances from celebrities and crypto personalities. Top players will also see their names showcased on a leaderboard. The higher you score, the better the reward. Aiming for viral content opportunities, Snaky Way wants to foster genuine community engagement via competition and expand its reach beyond the normal crypto circles. How to Join the Trending Presale The Snaky Way ($AKE) presale is well underway, having already secured over $160K from early investors. Note the presale is set up over a tiered pricing system, meaning the earlier you get in, the more you potentially see in return over time. Right now, you can buy $AKE for $0.0000932 and stake your tokens for an APR of 15,840%. The early-stage pricing presents an attractive opportunity for initial investors, offering potential substantial returns before the token gets listed on CEXs and DEXs. As a presale member, you also get immediate access to the high-yield staking platform, allowing you to accumulate rewards before the official launch. This staking amplifies the potential return over time and adds value beyond what you\u2019ve already bought during the presale. To join in, you can connect any Ethereum-compatible wallet, like Best Wallet, to the presale widget. You can then pay using either $ETH, $USDT, or fiat, and secure your tokens in just a couple of minutes. You\u2019ll get to claim your crypto once the presale ends. Remember, this is not financial advice, and you should always do your own research before making any investments."
+    },
     {
       "title": "Solana Whale Moves $152 Million In One Splash\u2014What\u2019s Going On?",
       "link": "https://www.newsbtc.com/news/solana-whale-moves-152-million-in-one-splash-whats-going-on/",
@@ -95,16 +105,6 @@
       "title": "Altcoin Season Not Remotely Close, Bitcoin Dominance Still Too High: Market Expert Says",
       "link": "https://www.newsbtc.com/altcoin/altcoin-season-bitcoin-dominance-2/",
       "summary": "The wait for altcoin season continues as the crypto market is still showing signs of bearish movement. Expectations are high that the altcoin market will begin to rally soon, but not everyone is optimistic that the altcoin season is coming. One of those is market analyst and expert Stockmoney Lizards, who has said that it is not happening soon. Altcoin Season Is Not Happening Soon In an X (formerly Twitter) post, Stockmoney Lizards informed their over 160,000 followers that the altcoin season could not be happening anytime soon. The analyst said that it is \u201cnot even remotely close\u201d, pointing to the rising Bitcoin dominance as the reason why the altcoin season is still far off. Related Reading: Analyst Says Cycle Is Not Finished Amid 2 Years Of Bitcoin Sideways Movement Analyzing the chart, the market expert explains that despite the Bitcoin dominance having fallen by around 2%, it still doesn\u2019t mean much. This is because the dominance is still very strong and continues to trade inside the channel. This channel also charts a possible increase in the Bitcoin dominance from here, which would be detrimental for altcoins. So far, the Bitcoin dominance has also managed to hold above 65%. While this is not the highest it has ever been, it is still incredibly high, with previous altcoin seasons not happening until the dominance had fallen toward 40%. The analyst doesn\u2019t entirely rule out the possibility of an altcoin season, saying it will still come. However, for now, Bitcoin continues to dominate, as he explains that \u201cBTC is the measure of all things.\u201d Altcoin Dominance Reaches 2021 Levels As the Bitcoin dominance has risen and the altcoin dominance has fallen, they have gone toward levels not seen in years. For example, the last time the Bitcoin dominance was above 65% was back in 2021 before it crashed to usher in the altcoin season, according to data from CoinMarketCap. Related Reading: AI Founder Puts XRP Price As High As $20-$30 Even worse is the Ethereum dominance, which has dropped to 5-year lows. Sitting at only 8%, it is now at levels recorded back in 2020 before the market rebounded from the COVID-19 crash. This has greatly diminished Ethereum\u2019s ability to pull the altcoin market up with it. In the same vein, the altcoin dominance, excluding Ethereum, has now dropped to 26%. The last time that the OTHERS dominance was this low was in 2021. However, this was right around when the altcoin season was starting, suggesting that the current market could be at the cusp of another altcoin run. Nevertheless, for there to be any sustainable altcoin season, the Bitcoin dominance must first crash. Going by what happened back in 2017 and 2021, at least a 40% crash in the Bitcoin dominance is required to usher in the altcoin season. Featured image from Getty Images, chart from TradingView.com"
-    },
-    {
-      "title": "SUI Prepares For Bullish Flag Breakout Amid $3 Reclaim \u2013 Analyst Doubles The Target",
-      "link": "https://www.newsbtc.com/news/sui-prepares-for-bullish-flag-breakout-amid-3-reclaim-analyst-doubles-the-target/",
-      "summary": "After recovering from the recent pullbacks, SUI is attempting to reclaim a crucial resistance, which could trigger a breakout from its bullish formation. Some analysts believe that the cryptocurrency\u2019s imminent rally could target significantly higher levels. Related Reading: Ethereum Eyes Key Resistance As Price Reclaims $2,550 \u2013 Here Are The Levels To Watch SUI Eyes Key Area Reclaim On Thursday, SUI has surged more than 10% from its $2.70 support toward the crucial $3.00 barrier. The cryptocurrency has been attempting to reclaim this area throughout Thursday, hovering between the $2.95 and $3.08 levels. Notably, the altcoin ended its multi-month downtrend after breaking above its descending resistance at the end of March, fueling its rally toward the $4.29 high in May. Since the Q2 breakout, SUI has been trading within the $2.33-$4.10 range. Nonetheless, the June pullbacks, driven by the global geopolitical tensions, sent the token below the $3.00 mid-range support to its local low of $2.22 nearly two weeks ago, before reclaiming the $2.80-$2.90 area. Amid the start-of-month retracement, the altcoin briefly lost its local range, but the Wednesday pump reignited bullish sentiment and potentially set the stage for a rally continuation. Analyst Alex Clay noted that SUI is currently testing the confluence of the 50-day, 100-day, and 200-day Exponential Moving Averages (EMAs) resistances alongside its bullish flag resistance. According to the chart, the cryptocurrency has been trading within a bullish flag formation since May, and lost the technical indicators throughout the June pullbacks. Now, the indicators and the patterns\u2019 upper boundary sit as resistance around the $3.00-$3.10 area. If the altcoin reclaims these key levels, the analyst considers that a rally to the $5.00 resistance would be \u201can easy trade.\u201d Is A Breakout To $10 Nearby? Analyst Marcus pointed out that SUI \u201cjust snapped back from the 0.786 Fib zone sharp, clean and confident.\u201d He added that the cryptocurrency\u2019s structure held despite the correction, which confirmed a \u201chealthy pullback, not a breakdown.\u201d To the analyst, the current bounce could be the higher low that sets the stage for SUI\u2019s next major move, as \u201call signs point to a setup that\u2019s not done yet.\u201d Meanwhile, market Watcher Crypto Yhodda affirmed that SUI is \u201cin a big accumulation right now,\u201d pointing to an eight-month triangle formation. According to the analyst, a breakout from this pattern \u201ccan help it reach the dream target of $10.\u201d Similarly, Kaleo highlighted SUI\u2019s bounce on its trading pairs against Bitcoin (BTC) and USD. He explained that there are many similarities between the base the altcoin is currently building and the base from the April lows that propelled the token to its local high. The cryptocurrency bounced off the High timeframe (HTF) ascending support line on both occasions, suggesting a massive rally could be ahead. To the analyst, the $10 target is \u201ca magnet.\u201d Related Reading: Bitcoin Holds Key Level Amid $108,000 Rejection, But Analysts Suggest Caution This Quarter Crypto Batman also highlighted this ascending support, noting that the recent pullback marks the third time the cryptocurrency has bounced from it since August. Following the previous two retests, the token rallied for weeks toward higher levels, signaling that a breakout could be nearby. Additionally, he considers that SUI displays a \u201csolid-looking setup,\u201d as it is trading above the key $2.30-$2.40 area that has served as resistance and support on the weekly chart. As of this writing, SUI trades at $3.09, a 15% increase in the weekly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com"
-    },
-    {
-      "title": "Analyst Sees a Bitcoin Market Shift \u2014 Here\u2019s What\u2019s Happening",
-      "link": "https://www.newsbtc.com/bitcoin-news/analyst-sees-a-bitcoin-market-shift-heres-whats-happening/",
-      "summary": "The Bitcoin market now appears to be seeing a notable surge in its momentum, with the asset finally breaching the $110,000 mark to inch really close to its all-time high. The asset has so far registered a 24-hour high of $110,117, less than 3% increase away from its all-time high of $111,814 registered in May. At the time of writing, BTC trades back at $109,000 levels, marking a 1.3% increase in the past day. While the price action alone has fueled speculation of an imminent breakout, several analysts suggest that deeper structural shifts within the market are at play. On-chain data particularly reveals changes in whale activity, exchange flows, and stablecoin dynamics that could offer clues about the market\u2019s next move. Related Reading: Bitwise Just Sounded The Alarm\u2014Bitcoin Could Explode Soon Signs of Reduced Bitcoin Selling Pressure and Upward Bias CryptoQuant analyst Crypto Dan shared a detailed view of the current state of Bitcoin\u2019s price structure, emphasizing a broader directional change in the market that began in April. According to the analyst, Bitcoin\u2019s recent price resilience can be attributed to a noticeable decline in selling pressure from US-based institutional investors and whales. These large players, who were previously offloading significant holdings, have shifted into accumulation mode in recent months. Dan explained that Bitcoin appears to be in a transitional phase. He observed a gradual fade in sell-side activity from major US wallets since April, and that drop has been met with stable buying pressure. This suggests that institutions are no longer offloading positions but are maintaining or adding to their holdings. Dan added that the current consolidation, marked by Bitcoin&#8217;s price hovering above the $100,000 range, is allowing short-term overheated indicators to cool down. Dan noted: While the possibility of a correction remains, the broader market direction continues to be upward, so I will maintain my perspective and look forward to the second half of 2025. Overall, this could mean that the ongoing price action in the market may be the calm before a longer-term move upward, assuming macro conditions remain supportive. Exchange Outflows and Liquidity Trends Paint a Risk-On Picture Adding further context, another CryptoQuant contributor, Novaque Research, pointed to recent shifts in on-chain flows and broader liquidity conditions. According to their data, exchange outflows have picked up notably since late June, with some days seeing over 10,000 BTC withdrawn. Such behavior typically signals long-term investor confidence and a reduced likelihood of near-term sell pressure. Additionally, the report noted that miners have remained largely inactive in terms of selling despite BTC trading above $100,000. Related Reading: Whales Are Quietly Repositioning, Here\u2019s What Bitcoin\u2019s $107K Price Isn\u2019t Telling You This suggests confidence in price sustainability and possible anticipation of more favorable financial conditions. Meanwhile, stablecoin activity has also shown key changes. Both USDC and USDT supply ratios on exchanges have been trending downward since mid-June, indicating capital is sitting idle rather than flowing into spot markets. Novaque noted that investors may be on the sidelines waiting for confirmation, but the structural behavior is leaning toward accumulation. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "You Can Buy a Martian Meteorite With Bitcoin\u2014If You Have Upwards of $4 Million",
+      "link": "https://decrypt.co/328545/you-can-buy-martian-meteorite-bitcoin-4-million",
+      "summary": "Sotheby\u2019s will auction massive Martian meteorite NWA 16788, and is accepting Bitcoin, Ethereum, and USDC bids for a piece of the red planet."
+    },
+    {
       "title": "Esports Giant Ninjas in Pyjamas Buys Bitcoin Miners, Expects Monthly Production of $6.5M in BTC",
       "link": "https://decrypt.co/328603/esports-giant-ninjas-in-pyjamas-buys-bitcoin-miners-expects-monthly-production-of-6-5m-in-btc",
       "summary": "NIP Group, the parent company of esports organization Ninjas in Pyjamas, is hoping to mine 60 BTC a month, worth approximately $6.5 million."
@@ -154,14 +159,14 @@
       "title": "Altcoins XRP, SOL, DOGE Slump as Trump Reignites Trade Tensions, Passes \u2018Big, Beautiful Bill\u2019",
       "link": "https://decrypt.co/328596/altcoins-xrp-sol-doge-slump-as-trump-reignites-trade-tensions-passes-big-beautiful-bill",
       "summary": "Altcoins are down after U.S. President Donald Trump announced plans to send letters to trading partners setting out tariff rates."
-    },
-    {
-      "title": "Bitcoin ETF Inflows Surge Past $600 Million for First Time Since May",
-      "link": "https://decrypt.co/328589/bitcoin-etf-inflows-surge-past-600-million-for-first-time-since-may",
-      "summary": "BlackRock\u2019s IBIT and Fidelity\u2019s FBTC led Thursday\u2019s inflows as investors repositioned around Trump\u2019s tax bill and shifting market conditions."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Dormant Bitcoin whale activates after 14 years and moves 60,000 BTC",
+      "link": "https://cryptobriefing.com/ancient-bitcoin-whale-movement/",
+      "summary": "<p>The reactivation of dormant Bitcoin could signal market volatility or strategic repositioning, impacting investor sentiment and market dynamics.</p> <p>"
+    },
     {
       "title": "Russia\u2019s military-industrial powerhouse Rostec to launch ruble-backed token on Tron",
       "link": "https://cryptobriefing.com/ruble-backed-token-rostec-tron/",
@@ -181,14 +186,14 @@
       "title": "Trump\u2019s \u2018Big Beautiful Bill\u2019 clears Congress after narrow House vote, what could this mean for Bitcoin?",
       "link": "https://cryptobriefing.com/trump-tax-bill-congress-vote/",
       "summary": "<p>The bill's passage may lead to a liquidity squeeze, impacting Bitcoin's price volatility and potentially increasing national debt concerns.</p> <p>"
-    },
-    {
-      "title": "Senator Lummis proposes to exempt small crypto transactions from taxes, ending double taxation for miners and stakers",
-      "link": "https://cryptobriefing.com/crypto-tax-reform-innovation-users/",
-      "summary": "<p>The proposed tax reform could boost crypto adoption, enhance U.S. competitiveness in digital finance, and simplify tax compliance for users.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Congress sets mid-July as \u2018crypto week\u2019 for passage of GENIUS, CLARITY Acts",
+      "link": "https://ambcrypto.com/congress-sets-mid-july-as-crypto-week-for-passage-of-the-genius-clarity-acts/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/cryptobills.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Crypto czar Sacks believes the GENIUS Act will pass without amendments at the House."
+    },
     {
       "title": "Chainlink \u2013 Whales are buying, but will the price react?",
       "link": "https://ambcrypto.com/chainlink-whales-are-buying-but-will-the-price-react/",
@@ -208,11 +213,6 @@
       "title": "Bitcoin \u2013 THIS could be the breakout setup that changes everything!",
       "link": "https://ambcrypto.com/bitcoin-this-could-be-the-breakout-setup-that-changes-everything/",
       "summary": "<img alt=\"bitcoin binance\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders pile in ahead of strong jobs data; but can risk appetite survive macro reality?"
-    },
-    {
-      "title": "What is Shibacoin (SHIC)? How to Mine Shibacoin (SHIC)",
-      "link": "https://ambcrypto.com/what-is-shibacoin-shic-how-to-mine-shibacoin-shic/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"540\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/photo_2025-07-04-15.13.57-1.jpeg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1080\" />Dogecoin and Shiba Inu are two popular meme coins often compared by users. However, their [&#8230;]"
     }
   ]
 }
