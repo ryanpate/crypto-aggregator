@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Bank of Canada Identifies Technical Path for Retail CBDC in New Research Paper",
+      "link": "https://www.coindesk.com/business/2025/07/04/bank-of-canada-identifies-technical-path-for-retail-cbdc-in-new-research-paper",
+      "summary": ""
+    },
+    {
+      "title": "BONK Eyes Breakout as ETF Buzz and Burn Trigger Spark Fresh Rally",
+      "link": "https://www.coindesk.com/markets/2025/07/04/bonk-eyes-breakout-as-etf-buzz-and-burn-trigger-spark-fresh-rally",
+      "summary": ""
+    },
+    {
+      "title": "Hackers Behind $140M Brazil Banking Heist Turn to Crypto to Launder Their Loot",
+      "link": "https://www.coindesk.com/business/2025/07/04/hackers-behind-usd140m-brazil-banking-heist-turn-to-crypto-to-launder-their-loot",
+      "summary": ""
+    },
+    {
       "title": "ATOM Tumbles 4% as Sellers Target Critical $4 Support Level",
       "link": "https://www.coindesk.com/markets/2025/07/04/atom-tumbles-4-as-sellers-target-critical-usd4-support-level",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Ondo Finance to Buy SEC-Regulated Broker Oasis Pro for U.S. Tokenized Stock Push",
       "link": "https://www.coindesk.com/business/2025/07/04/ondo-finance-to-buy-sec-regulated-broker-oasis-pro-for-us-tokenized-stock-push",
       "summary": ""
-    },
-    {
-      "title": "Russian State Giant Rostec Plans Ruble-Pegged Stablecoin, Payment Platform on Tron: TASS",
-      "link": "https://www.coindesk.com/business/2025/07/04/russian-state-giant-rostec-plans-ruble-pegged-stablecoin-payment-platform-on-tron-tass",
-      "summary": ""
-    },
-    {
-      "title": "Coinbase's Base Sees Over $4B in Outflows Through Cross-Chain Bridges; Ethereum Nets Inflows of $8.5B",
-      "link": "https://www.coindesk.com/markets/2025/07/04/coinbase-s-base-sees-over-usd4b-in-capital-outflows-ethereum-registers-inflows-of-usd8-5b",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Long-Term Holders Signal Patience in Market",
-      "link": "https://www.coindesk.com/markets/2025/07/04/bitcoin-long-term-holders-signal-patience-in-market",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "DOGE double-bottom pattern hints at price rebound to $0.25",
+      "link": "https://cointelegraph.com/news/doge-double-bottom-pattern-hints-at-price-rebound-to-dollar0-25?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q1MDktNDgyZS03ODI4LTliYTItNzUzZmJiMjJkMjdi.jpg\" /></p><p>A bullish pattern on the DOGE chart points to a potential price recovery to $0.25.</p>"
+    },
+    {
+      "title": "Ondo Finance acquires SEC-registered broker-dealer, eyes tokenized securities",
+      "link": "https://cointelegraph.com/news/ondo-finance-acquires-oasis-pro-tokenized-securities-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q2MWMtZDQ3YS03NjE1LWIxNzEtZmI3ZDJiYmU0YzMy.jpg\" /></p><p>Ondo has acquired Oasis Pro, a FINRA member and SEC-registered broker-dealer.</p>"
+    },
+    {
+      "title": "Can ChatGPT predict Bitcoin\u2019s next move?",
+      "link": "https://cointelegraph.com/explained/can-chatgpt-predict-bitcoins-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYzUyODRmZjZlMTYxZDI0NGJkNmVmODY2M2Y5OTMwYi5qcGc=.jpg\" /></p><p>While it\u2019s not built for real-time calls, ChatGPT can still support smarter Bitcoin trading decisions when paired with the right data and well-crafted prompts.</p>"
+    },
     {
       "title": "Bitcoin loses $108K as 14-year-old BTC sparks Satoshi rumors",
       "link": "https://cointelegraph.com/news/bitcoin-loses-108k-14-year-old-btc-sparks-satoshi-rumors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Unified liquidity enables the first permissionless long-tail leverage market",
       "link": "https://cointelegraph.com/news/unified-liquidity-enables-the-first-permissionless-long-tail-leverage-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ1YzktNDYxYS03YjkzLTkzMjAtZWQxNzA0MTAwYzg3.jpg\" /></p><p>Unified liquidity breaks DeFi\u2019s oracle dependency, enabling truly permissionless leverage and shorting for long-tail tokens, and ushering in a scalable, composable and censorship-resistant financial market.</p>"
-    },
-    {
-      "title": "How a $123M crypto scam in Australia laundered millions through a \u2018legit\u2019 business",
-      "link": "https://cointelegraph.com/explained/how-a-123m-crypto-scam-in-australia-laundered-millions-through-a-legit-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNDFjNTEzMzJlNWU3YzRkZjhhZmViNTRjMzFjMWFiYi5qcGc=.jpg\" /></p><p>Australian authorities busted a $123-million crypto fraud. The scheme used seemingly legit businesses for crypto money laundering.</p>"
-    },
-    {
-      "title": "FTX estate asks court to freeze payouts in \u2018restricted\u2019 countries",
-      "link": "https://cointelegraph.com/news/ftx-estate-judge-freeze-payout-countries-crypto-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmMDctZDVhZi03ZjRlLTkzZjEtZThmZjYxN2M2NTA0.jpg\" /></p><p>FTX\u2019s bankruptcy estate is uncertain whether it is legally entitled to distribute payouts to creditors in countries such as China amid local crypto restrictions.</p>"
-    },
-    {
-      "title": "Binance taps ex-Gemini exec Gillian Lynch to reboot Europe push",
-      "link": "https://cointelegraph.com/news/binance-taps-ex-gemini-exec-to-reboot-europe-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1MDctNGY5Mi03MDNjLWI4M2EtMGMyODU2NmE1M2Iw.jpg\" /></p><p>Binance names Gillian Lynch as head of Europe and UK to lead its MiCA compliance and expansion across regulated crypto markets.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Bitcoin Breakout Is A Trap\u2014Analyst Predicts Pain Before $160,000 Surge",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-breakout-trap-pain-before-160000/",
+      "summary": "Bitcoin may be breaking out\u2014but don\u2019t celebrate yet. Crypto analyst Cristian Chifoi warns that the current move is a deceptive setup likely to trap bullish traders before Bitcoin eventually surges toward $160,000. In his latest YouTube video titled \u201cBitcoin is breaking out! But why is it bad?\u201d, Chifoi dismantles the optimism surrounding Bitcoin\u2019s recent price action, arguing that this rally is not the start of a true bull run, but a temporary fakeout designed to mislead. Don\u2019t Trust The Bitcoin Pump \u201cFrom a technical standpoint, this could mean a real breakout, retest, and then continuation,\u201d Chifoi admits. \u201cBut in my opinion, this is a false breakout which can get to a new shallow all-time high, maybe $113,000, maybe $120,000 until something like July 10 to 12\u2014then we come back in this channel before July 20.\u201d His thesis hinges on Bitcoin seasonality, a pattern he has explored in earlier videos, which suggests the real macro pivot will only arrive later in the month. \u201cI&#8217;m more bullish from July 20 into the start of September,\u201d he says. Related Reading: Bitcoin Latest Rally Backed By Stronger Purchasing Power: Report Chifoi argues that retail traders are likely to pile in during the breakout retest phase, only to be shaken out as market makers use the liquidity to reverse the trend. \u201cThe majority of retail traders would go long here on a retest. The market makers will get their money,\u201d he warns, predicting a trap that could drag Bitcoin down to levels near $97,000 before the real uptrend resumes. His analysis extends beyond simple technicals. Chifoi points to macroeconomic sentiment and Fed policy as crucial context, particularly emphasizing that rate cuts would actually be a bearish signal\u2014not bullish as commonly believed. \u201cRate cuts this year would not be bullish at all,\u201d he insists. \u201cIt\u2019s not Powell who decides, it\u2019s the bond market who decides when the rate cuts should come\u2026 and when that is happening, it\u2019s because they need to panic cut.\u201d Chifoi stresses that the best-case scenario for bulls is actually no rate cuts, at least for now. \u201cJust keep the rates at 4.5% maybe until year end. If this happens, I\u2019m 100% sure that the market will go higher and higher before this starts to happen.\u201d Related Reading: Buy Bitcoin Before Jackson Hole\u2014Or Regret It Forever, Says Arthur Hayes Beyond Bitcoin, Chifoi forecasts a synchronized move across the broader crypto market once the July 20 pivot takes place. He highlights Ethereum, XRP, DeFi tokens like CRV, and ISO-compliant coins such as IOTA, ADA, and Quant as potential beneficiaries. \u201cBitcoin would drag all the crypto space with it,\u201d he says, adding that older players like Filecoin and Polkadot could also catch a bid. Mid-Term Price Target Looking further ahead, Chifoi describes the coming period as a \u201cstablecoin super cycle,\u201d with DeFi projects and yield-generating protocols positioned to gain the most from Wall Street\u2019s hunger for yield. \u201cIn crypto, only DeFi projects get you yields,\u201d he explains. \u201cWall Street is boiling up for yields.\u201d He also reaffirms his macro thesis that the current financial system is on track to be replaced, likening the transition to the 1930s move from gold to fiat. \u201cAfter 100 years of this exact system, this should be replaced by another system with liquidity in it,\u201d he says, envisioning a cryptographic banking future. Despite the short-term turbulence he expects, Chifoi remains long-term bullish. His price target of $160,000 for Bitcoin by early September reflects a belief in accelerated expansion\u2014fueled by seasonality, delayed policy pivots, and broader adoption. In closing, Chifoi reminds his audience to zoom out and trust the high time frame signals. Referencing Bollinger Bands on the two-month chart, he notes the beginning of another expansion phase similar to late 2020. \u201cAfter that, the bear market begins,\u201d he cautions. But until then, the ride could be fast\u2014and extremely volatile. \u201cThe next time we cut [rates], it is a big deal and something is wrong,\u201d he concludes. \u201cFor now, we just want the cuts going higher for longer.\u201d At press time, BTC traded at $108,848. Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
       "title": "Chainlink Consolidates Above Key Support \u2013 Bulls Eye $20 Range",
       "link": "https://www.newsbtc.com/chainlink-news/chainlink-consolidates-above-key-support-bulls-eye-20-range/",
       "summary": "Chainlink (LINK) has been locked in a consolidation phase since early March, following a prolonged period of bearish price action that began to lose momentum. Since then, the token has ranged sideways with notable volatility, reflecting broader uncertainty across the altcoin market. However, as Bitcoin pushes toward its all-time high and market sentiment turns increasingly bullish, analysts believe a decisive move from LINK may be imminent. Related Reading: Litecoin Surges Past Descending Resistance \u2013 Bulls Target $97.10 Level Top analyst Ali Martinez shared insights pointing to a key support level that could determine Chainlink\u2019s short-term trajectory. According to Martinez, LINK holding above the $12 mark is crucial and could serve as the launchpad for a breakout toward the $18\u2013$20 range. This level has acted as a major pivot in the past, and reclaiming it with strength would likely attract fresh buying pressure. With Bitcoin dominance remaining high and capital rotating selectively into altcoins, Chainlink\u2019s upcoming moves could signal a higher altcoin market direction. Investors and traders are closely watching this consolidation, waiting for a breakout that could kickstart the next leg higher for LINK and potentially confirm the beginning of a stronger altcoin cycle. The coming days could be critical in determining whether Chainlink is ready to rejoin the uptrend. Chainlink Builds Momentum Chainlink has seen a strong resurgence over the past two weeks, gaining more than 22% in value since June 22. After months of consolidation and sideways action, the recent price movement suggests that bullish momentum is returning to the altcoin. The broader market environment is improving, with Bitcoin nearing its all-time high and risk appetite gradually increasing across crypto assets. For Chainlink, this has translated into renewed optimism and a growing expectation of a breakout. Fundamentally, Chainlink remains one of the most important infrastructure projects in the crypto space. Its partnerships with high-profile projects such as Ripple and Ondo Finance highlight its crucial role in powering real-world asset tokenization and secure on-chain data feeds. These integrations support long-term utility and demand, reinforcing investor confidence in the project\u2019s future. Ali Martinez emphasized that holding above the $12 level is key for Chainlink. According to his analysis, sustained price action above this zone could pave the way for a breakout toward the $18\u2013$20 range. Historically, LINK has shown strong impulsive moves after breaking major consolidation zones, and the current structure appears similar. Related Reading: Ethereum Looks Strong Despite Volatility \u2013 $10,000 Price Target Gains Momentum LINK Consolidates Below Resistance Chainlink is currently trading at $13.32 after facing a minor rejection from the $14 zone. The chart shows that LINK remains in a consolidation range that began in early March, with price action confined between the $12.20 and $14.50 levels. The token has made multiple attempts to reclaim the 50-day and 100-day moving averages, both of which now sit just above the current price action. These moving averages, along with horizontal resistance around $14, are acting as a strong ceiling for now. Despite the recent pullback, LINK remains structurally bullish on the mid-term as it prints higher lows since the June bottom near $11. Analysts remain optimistic that a decisive close above $14\u2013$14.50 would invalidate this range and pave the way for a push toward the $16\u2013$18 zone. Related Reading: Tron DeFi Activity Expands: SunSwap Hits $3B+ Monthly Swaps In 2025 The 200-day moving average near $16.77 remains a key target in the event of a breakout. However, failure to reclaim $14 could lead to another test of support around $12. Overall, the setup remains constructive but will require renewed bullish momentum\u2014possibly led by Bitcoin strength or positive ecosystem news\u2014for a breakout confirmation. Until then, LINK continues to oscillate in a tight range, with bulls watching closely. Featured image from Dall-E, chart from TradingView"
@@ -100,11 +105,6 @@
       "title": "The $1 Dogecoin Dream Is Alive: Chartist Lays Out Parabolic Scenario",
       "link": "https://www.newsbtc.com/news/dogecoin/1-dogecoin-dream-chartist-parabolic-scenario/",
       "summary": "The improbable $1 price target for Dogecoin has returned to the spotlight after independent crypto analyst Cantonese Cat (@cantonmeow) shared a bold new Ichimoku-based projection on July 3. In a chart posted to X, the analyst outlined a parabolic price trajectory for DOGE using 2-week candles, suggesting that the memecoin could begin an explosive ascent in late 2025, eventually reaching the symbolic one-dollar mark. The $1 Dogecoin Dream The projection rests on DOGE\u2019s ability to maintain current bullish structure above the Ichimoku cloud, with a brief retest later this year during liftoff. \u201cDOGE 2-week candles, Ichimoku cloud shown. Why am I buying doge? Because I\u2019m delusional and this is what I\u2019m thinking,\u201d the trader wrote, pairing tongue-in-cheek self-awareness with conviction in a longer-term breakout scenario. At the time of the chart\u2019s publication, Dogecoin was trading at $0.172, up nearly 14% on the fortnight. The price action shows a clean bounce off the top of the green Ichimoku cloud, suggesting that DOGE is holding bullish structure on a high timeframe, a key technical criterion in Ichimoku trend-following theory. Related Reading: Dogecoin\u2019s Quiet Setup Could Detonate Shorty, Says Analyst\u2014Here\u2019s The Target The Ichimoku Cloud (Kumo) on the 2-week timeframe, calculated with the traditional 9/26/52/26 settings, shows the Leading Span A (Senkou A) currently above Leading Span B (Senkou B), forming a green cloud\u2014indicative of a bullish trend outlook. DOGE\u2019s price is above the cloud, which acts as dynamic support. This is critical: Ichimoku practitioners consider price above the cloud to be in a bullish regime, especially on higher timeframes. The analyst\u2019s hand-drawn black curve on the chart begins near $0.17 and initially curves downward, touching the upper boundary of the Kumo in the near future, likely near the $0.15\u20130.16 zone. This suggests an expected retest of the cloud support, a common setup in trend continuation trades. Rather than projecting a breakdown, the curve depicts this contact as a springboard for a rapid vertical rally. Related Reading: Dogecoin Under $0.20 \u2018Is Free,\u2019 Says Analyst\u2014Predicts 2,000% Upside Once the price completes its cloud retest, the trajectory steepens dramatically, punching through overhead resistance near $0.29\u2014the approximate flat Kijun-sen level\u2014then continuing past prior 2024 highs. The final stretch of the curve accelerates toward the $1 level sometime in 2026, consistent with the behavior seen in prior memecoin mania phases. Interestingly, Cantonese Cat\u2019s conviction comes despite several bearish near-term signals. Just two days prior to publishing the chart, the analyst wrote: \u201cDOGE closed the month below the 20-month SMA, with a bearish engulfing candle! I would care if the volume wasn\u2019t so pathetic\u2026\u201d That statement acknowledged structural weakness but dismissed it on the basis of low participation, hinting that sellers lacked conviction. The same day, the trader disclosed renewed entries into DOGE and Avalanche, stating, \u201cI don\u2019t know if I\u2019m doing it right, but I bought AVAX and DOGE again this morning.\u201d Broader Context DOGE\u2019s memetic status makes it particularly susceptible to sentiment shifts, and it remains uncorrelated to fundamentals in the traditional sense. Still, in the 2021 and 2024 bull markets, DOGE served as a proxy for retail risk appetite, often outperforming once attention rotated from majors like Bitcoin and Ethereum. The green cloud forecast and the rising trajectory into 2026 may reflect not just technical setups, but a broader cyclical expectation: that another wave of liquidity, speculative mania, or cultural relevance could return DOGE to the spotlight. For now, however, the price must hold the cloud before the market can validate this roadmap. At press time, DOGE traded at $0.1678. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Altcoin Season Not Remotely Close, Bitcoin Dominance Still Too High: Market Expert Says",
-      "link": "https://www.newsbtc.com/altcoin/altcoin-season-bitcoin-dominance-2/",
-      "summary": "The wait for altcoin season continues as the crypto market is still showing signs of bearish movement. Expectations are high that the altcoin market will begin to rally soon, but not everyone is optimistic that the altcoin season is coming. One of those is market analyst and expert Stockmoney Lizards, who has said that it is not happening soon. Altcoin Season Is Not Happening Soon In an X (formerly Twitter) post, Stockmoney Lizards informed their over 160,000 followers that the altcoin season could not be happening anytime soon. The analyst said that it is \u201cnot even remotely close\u201d, pointing to the rising Bitcoin dominance as the reason why the altcoin season is still far off. Related Reading: Analyst Says Cycle Is Not Finished Amid 2 Years Of Bitcoin Sideways Movement Analyzing the chart, the market expert explains that despite the Bitcoin dominance having fallen by around 2%, it still doesn\u2019t mean much. This is because the dominance is still very strong and continues to trade inside the channel. This channel also charts a possible increase in the Bitcoin dominance from here, which would be detrimental for altcoins. So far, the Bitcoin dominance has also managed to hold above 65%. While this is not the highest it has ever been, it is still incredibly high, with previous altcoin seasons not happening until the dominance had fallen toward 40%. The analyst doesn\u2019t entirely rule out the possibility of an altcoin season, saying it will still come. However, for now, Bitcoin continues to dominate, as he explains that \u201cBTC is the measure of all things.\u201d Altcoin Dominance Reaches 2021 Levels As the Bitcoin dominance has risen and the altcoin dominance has fallen, they have gone toward levels not seen in years. For example, the last time the Bitcoin dominance was above 65% was back in 2021 before it crashed to usher in the altcoin season, according to data from CoinMarketCap. Related Reading: AI Founder Puts XRP Price As High As $20-$30 Even worse is the Ethereum dominance, which has dropped to 5-year lows. Sitting at only 8%, it is now at levels recorded back in 2020 before the market rebounded from the COVID-19 crash. This has greatly diminished Ethereum\u2019s ability to pull the altcoin market up with it. In the same vein, the altcoin dominance, excluding Ethereum, has now dropped to 26%. The last time that the OTHERS dominance was this low was in 2021. However, this was right around when the altcoin season was starting, suggesting that the current market could be at the cusp of another altcoin run. Nevertheless, for there to be any sustainable altcoin season, the Bitcoin dominance must first crash. Going by what happened back in 2017 and 2021, at least a 40% crash in the Bitcoin dominance is required to usher in the altcoin season. Featured image from Getty Images, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History",
+      "link": "https://decrypt.co/328678/mysterious-bitcoin-whale-8-billion-largest-daily-move-btc-history",
+      "summary": "The sudden movements of the crypto fortune left analysts befuddled."
+    },
+    {
+      "title": "Cheaper NFTs Mean Sales Are Surging, But Trading Volume is Plummeting: DappRadar",
+      "link": "https://decrypt.co/328668/cheaper-nfts-mean-sales-are-surging-but-trading-volume-is-plummeting-dappradar",
+      "summary": "A huge jump in NFT transactions may be linked to OpenSea's upcoming airdrop of the $SEA token, a new DappRadar report suggests."
+    },
+    {
       "title": "You Can Buy a Martian Meteorite With Bitcoin\u2014If You Have Upwards of $4 Million",
       "link": "https://decrypt.co/328545/you-can-buy-martian-meteorite-bitcoin-4-million",
       "summary": "Sotheby\u2019s will auction massive Martian meteorite NWA 16788, and is accepting Bitcoin, Ethereum, and USDC bids for a piece of the red planet."
@@ -149,16 +159,6 @@
       "title": "Crypto Draining Fake Wallet Extensions Flood Firefox Store",
       "link": "https://decrypt.co/328595/crypto-draining-fake-wallet-extensions-flood-firefox-store",
       "summary": "The \u201cFoxyWallet\u201d malware campaign saw more than 40 malicious extensions impersonating legitimate crypto wallets on the Firefox Add-ons store."
-    },
-    {
-      "title": "Oregon AG Seeks to Block Coinbase Bid to Move Securities Case to Federal Court",
-      "link": "https://decrypt.co/328607/oregon-ag-seeks-to-block-coinbase-bid-to-move-securities-case-to-federal-court",
-      "summary": "Coinbase called Oregon\u2019s lawsuit a \u201cregulatory land grab,\u201d but the state says it\u2019s a \u201cquintessential state law action.\u201d"
-    },
-    {
-      "title": "Altcoins XRP, SOL, DOGE Slump as Trump Reignites Trade Tensions, Passes \u2018Big, Beautiful Bill\u2019",
-      "link": "https://decrypt.co/328596/altcoins-xrp-sol-doge-slump-as-trump-reignites-trade-tensions-passes-big-beautiful-bill",
-      "summary": "Altcoins are down after U.S. President Donald Trump announced plans to send letters to trading partners setting out tariff rates."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum: After $230M in withdrawals, key metrics say ETH prices could\u2026",
+      "link": "https://ambcrypto.com/ethereum-after-230m-in-withdrawals-these-metrics-say-eth-prices-could/",
+      "summary": "<img alt=\"ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-04T104931.623-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Institutional demand grows while ETH faces resistance at $2,642 amid declining derivatives activity."
+    },
+    {
       "title": "Congress sets mid-July as \u2018crypto week\u2019 for passage of GENIUS, CLARITY Acts",
       "link": "https://ambcrypto.com/congress-sets-mid-july-as-crypto-week-for-passage-of-the-genius-clarity-acts/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/cryptobills.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Crypto czar Sacks believes the GENIUS Act will pass without amendments at the House."
@@ -208,11 +213,6 @@
       "title": "Cardano whales are back! \u2013 Assessing how ADA can reach $0.91 next",
       "link": "https://ambcrypto.com/cardano-whales-are-back-assessing-how-ada-can-reach-0-91-next/",
       "summary": "<img alt=\"ADA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-04T112035.682-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />ADA\u2019s rally faces resistance as valuation concerns emerge despite strong buyer activity."
-    },
-    {
-      "title": "Bitcoin \u2013 THIS could be the breakout setup that changes everything!",
-      "link": "https://ambcrypto.com/bitcoin-this-could-be-the-breakout-setup-that-changes-everything/",
-      "summary": "<img alt=\"bitcoin binance\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders pile in ahead of strong jobs data; but can risk appetite survive macro reality?"
     }
   ]
 }
