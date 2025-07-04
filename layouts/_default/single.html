@@ -5,6 +5,22 @@
     <h1 class="title">{{ .Title }}</h1>
     <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
 
+    {{ with .Params.featuredImage }}
+      {{ $orig   := .Page.Resources.GetMatch . }}
+      {{ $small  := $orig.Resize "600x q75" }}
+      {{ $medium := $orig.Resize "1000x q75" }}
+      {{ $large  := $orig.Resize "1600x q75" }}
+      <picture>
+        <source srcset="{{ $small.RelPermalink }}" media="(max-width:600px)">
+        <source srcset="{{ $medium.RelPermalink }}" media="(max-width:1200px)">
+        <img
+          src="{{ $large.RelPermalink }}"
+          srcset="{{ printf "%s 600w, %s 1000w, %s 1600w" $small.RelPermalink $medium.RelPermalink $large.RelPermalink }}"
+          sizes="(max-width:600px) 100vw, 1000px"
+          loading="lazy"
+          alt="{{ $.Title }}">
+      </picture>
+    {{ end }}
     <!-- Post Content -->
     <div class="content is-size-7">
       {{ .Content }}

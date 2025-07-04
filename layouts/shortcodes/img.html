@@ -1,0 +1,29 @@
+{{/* 
+  Usage: 
+    {{< img src="hero.jpg" alt="A Bitcoin chart" >}}
+*/}}
+
+{{ $src   := .Get "src" }}
+{{ $alt   := .Get "alt" | default "" }}
+{{ $orig  := .Page.Resources.GetMatch $src }}
+{{ if not $orig }}
+  {{ errorf "Image %q not found in Page Resources" $src }}
+{{ end }}
+
+{{/* generate three sizes */}}
+{{ $small  := $orig.Resize "600x q75" }}
+{{ $medium := $orig.Resize "1000x q75" }}
+{{ $large  := $orig.Resize "1600x q75" }}
+
+<picture>
+  <source srcset="{{ $small.RelPermalink }}"  media="(max-width: 600px)">
+  <source srcset="{{ $medium.RelPermalink }}" media="(max-width:1200px)">
+  <img
+    src="{{ $large.RelPermalink }}"
+    srcset="{{ printf "%s 600w, %s 1000w, %s 1600w" $small.RelPermalink $medium.RelPermalink $large.RelPermalink }}"
+    sizes="(max-width:600px) 100vw, (max-width:1200px) 50vw, 800px"
+    width="{{ $large.Width }}"
+    height="{{ $large.Height }}"
+    loading="lazy"
+    alt="{{ $alt }}">
+</picture>
