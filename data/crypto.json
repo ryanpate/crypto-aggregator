@@ -1,36 +1,41 @@
 {
   "CoinDesk": [
     {
+      "title": "Nano Labs Buys $50M in BNB in $1B Plan to Hold Up to 10% of Supply",
+      "link": "https://www.coindesk.com/markets/2025/07/04/nano-labs-buys-50m-in-bnb-in-1b-plan-to-hold-up-to-10-of-supply",
+      "summary": ""
+    },
+    {
+      "title": "JD.com, Ant Group Push for Yuan-Based Stablecoins to Counter Dollar Rule: Reuters",
+      "link": "https://www.coindesk.com/policy/2025/07/04/jdcom-ant-group-push-for-yuan-based-stablecoins-to-counter-dollar-rule-reuters",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin on the Brink of All-Time High as Macro Tailwinds Gather Strength",
+      "link": "https://www.coindesk.com/markets/2025/07/04/bitcoin-on-the-brink-of-all-time-high-as-macro-tailwinds-gather-strength",
+      "summary": ""
+    },
+    {
+      "title": "Solana and Fireblocks Selected by Japan\u2019s Minna Bank for Stablecoin Use Case Study",
+      "link": "https://www.coindesk.com/markets/2025/07/04/solana-and-fireblocks-selected-by-japan-s-minna-bank-for-stablecoin-use-case-study",
+      "summary": ""
+    },
+    {
       "title": "Russian Malware Campaign Adds Downward Pressure to Internet Computer's ICP Token",
       "link": "https://www.coindesk.com/markets/2025/07/04/russian-malware-campaign-adds-downward-pressure-to-internet-computer-icp",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Whales Wake Up From 14-Year Slumber to Move Over $2B of BTC",
-      "link": "https://www.coindesk.com/markets/2025/07/04/bitcoin-whales-wake-up-from-14-year-slumber-to-move-over-usd2b-of-btc",
-      "summary": ""
-    },
-    {
-      "title": "Crypto ETF BLOX, Which Offers Digital Asset Exposure and Options Income, Gains Steam",
-      "link": "https://www.coindesk.com/markets/2025/07/04/crypto-etf-blox-which-offers-digital-asset-exposure-and-options-income-gains-steam",
-      "summary": ""
-    },
-    {
-      "title": "Amber International Raises $25.5M to Expand $100M Crypto Reserve Strategy",
-      "link": "https://www.coindesk.com/business/2025/07/03/amber-international-raises-255m-to-expand-100m-crypto-reserve-strategy",
-      "summary": ""
-    },
-    {
-      "title": "Ondo, Pantera Capital to Invest $250M in Real-World Asset Projects",
-      "link": "https://www.coindesk.com/business/2025/07/03/ondo-pantera-capital-to-invest-250m-in-real-world-asset-projects",
       "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Bitcoin price can hit $150K in weeks thanks to Trump&#039;s &#039;Big Beautiful Bill&#039;",
+      "title": "Phoenix FIRE investors allege exit scam; owner moves to dismiss case",
+      "link": "https://cointelegraph.com/news/fire-investors-allege-fund-grab-ceo-moves-to-dismiss-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzEyMmUtYmM4My03NzgwLTg1OTAtYjY0OTgyMDFjODFi.jpg\" /></p><p>Daniel Ianello has asked a Tennessee court to dismiss a lawsuit accusing him of orchestrating an exit scam after taking over a crypto project.</p>"
+    },
+    {
+      "title": "Bitcoin price can hit $150K in weeks thanks to Trump\u2019s \u2018Big Beautiful Bill\u2019",
       "link": "https://cointelegraph.com/news/bitcoin-price-can-hit-150k-trump-big-beautiful-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q0ZDYtOWNiYi03NGU4LWFmODEtNTMyMWRjZDg4MTNi.jpg\" /></p><p>Bitcoin has historically made double-digit gains in weeks after major US debt-boosting bills are signed \u2014 will history repeat in 2025?</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q0ZDYtOWNiYi03NGU4LWFmODEtNTMyMWRjZDg4MTNi.jpg\" /></p><p>Bitcoin has historically posted double-digit gains in the weeks following the passage of major US debt-expanding bills. Will 2025 follow the same pattern?</p>"
     },
     {
       "title": "Belgian court sentences three in kidnapping of crypto investor\u2019s wife",
@@ -46,14 +51,14 @@
       "title": "$20M crypto scam victim who sued Citibank says 2 more banks liable",
       "link": "https://cointelegraph.com/news/crypto-scam-victim-claims-2-more-banks-liable-20m-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmMyNjEtYzdlOS03OWE5LTk1MWQtOTdmNmM1MDVjY2Fh.jpg\" /></p><p>The victim of a $20 million crypto scam who sued Citibank last week for allegedly ignoring \u201cred flags\u201d has filed a similar complaint against two more banks.</p>"
-    },
-    {
-      "title": "Solana treasury firm extends stock rally after buying $2.7M of SOL",
-      "link": "https://cointelegraph.com/news/solana-treasury-firm-extends-rally-after-buying-sol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjU5ZmQtYjY4MC03Y2E3LWExZDAtZDFmMTg5MzZhZDNj.jpg\" /></p><p>The company\u2019s Solana stack is now worth almost $98 million. The firm\u2019s stock price is up 2,733% year-to-date.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Polymarket bettors forecast 75% chance Bitcoin reaches $120k in 2025 as prediction volume jumps 30%",
+      "link": "https://cryptoslate.com/polymarket-bettors-forecast-75-chance-bitcoin-reaches-120k-in-2025-as-prediction-volume-jumps-30/",
+      "summary": "<p>Prediction market data shows traders are wagering millions on the price of Bitcoin reaching levels above $120,000 in 2025. On the decentralized platform Polymarket, a market asking what price Bitcoin will hit in 2025, has attracted over $15.5 million in volume. Traders assign a 75% probability that the asset will exceed $120,000 by the end [&#8230;]</p> <p>"
+    },
     {
       "title": "MARA\u2019s $5.4B Bitcoin treasury grows to 50k BTC as miners adopt a HODL strategy",
       "link": "https://cryptoslate.com/maras-5-4b-bitcoin-treasury-grows-to-50k-btc-as-miners-adopt-a-hodl-strategy/",
@@ -73,14 +78,14 @@
       "title": "TRON DAO Joins EthCC as WAGMI Sponsor, Co-Hosts Events with MetaMask and Arkham",
       "link": "https://cryptoslate.com/tron-dao-joins-ethcc-as-wagmi-sponsor-co-hosts-events-with-metamask-and-arkham/",
       "summary": "<p>Geneva, Switzerland, July 3 2025 \u2014 TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet via blockchain technology and decentralized applications (dApps), proudly participated as a WAGMI Sponsor at the Ethereum Community Conference (EthCC), held from June 30 to July 3 in Cannes, France. As Europe\u2019s largest annual Ethereum-focused event, EthCC [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Pantera, Ondo launch $250M fund to drive RWA tokenization",
-      "link": "https://cryptoslate.com/pantera-ondo-launch-250m-fund-to-drive-rwa-tokenization/",
-      "summary": "<p>Ondo Finance and Pantera Capital have launched a $250 million fund to accelerate investments in tokenized real-world assets (RWAs), Axios reported on July 3. According to the report, the fund, named Ondo Catalyst, will invest in equity stakes and tokens of projects developing tokenized versions of traditional financial assets. Ian De Bode, chief strategy officer [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Altcoin Season Not Remotely Close, Bitcoin Dominance Still Too High: Market Expert Says",
+      "link": "https://www.newsbtc.com/altcoin/altcoin-season-bitcoin-dominance-2/",
+      "summary": "The wait for altcoin season continues as the crypto market is still showing signs of bearish movement. Expectations are high that the altcoin market will begin to rally soon, but not everyone is optimistic that the altcoin season is coming. One of those is market analyst and expert Stockmoney Lizards, who has said that it is not happening soon. Altcoin Season Is Not Happening Soon In an X (formerly Twitter) post, Stockmoney Lizards informed their over 160,000 followers that the altcoin season could not be happening anytime soon. The analyst said that it is \u201cnot even remotely close\u201d, pointing to the rising Bitcoin dominance as the reason why the altcoin season is still far off. Related Reading: Analyst Says Cycle Is Not Finished Amid 2 Years Of Bitcoin Sideways Movement Analyzing the chart, the market expert explains that despite the Bitcoin dominance having fallen by around 2%, it still doesn\u2019t mean much. This is because the dominance is still very strong and continues to trade inside the channel. This channel also charts a possible increase in the Bitcoin dominance from here, which would be detrimental for altcoins. So far, the Bitcoin dominance has also managed to hold above 65%. While this is not the highest it has ever been, it is still incredibly high, with previous altcoin seasons not happening until the dominance had fallen toward 40%. The analyst doesn\u2019t entirely rule out the possibility of an altcoin season, saying it will still come. However, for now, Bitcoin continues to dominate, as he explains that \u201cBTC is the measure of all things.\u201d Altcoin Dominance Reaches 2021 Levels As the Bitcoin dominance has risen and the altcoin dominance has fallen, they have gone toward levels not seen in years. For example, the last time the Bitcoin dominance was above 65% was back in 2021 before it crashed to usher in the altcoin season, according to data from CoinMarketCap. Related Reading: AI Founder Puts XRP Price As High As $20-$30 Even worse is the Ethereum dominance, which has dropped to 5-year lows. Sitting at only 8%, it is now at levels recorded back in 2020 before the market rebounded from the COVID-19 crash. This has greatly diminished Ethereum\u2019s ability to pull the altcoin market up with it. In the same vein, the altcoin dominance, excluding Ethereum, has now dropped to 26%. The last time that the OTHERS dominance was this low was in 2021. However, this was right around when the altcoin season was starting, suggesting that the current market could be at the cusp of another altcoin run. Nevertheless, for there to be any sustainable altcoin season, the Bitcoin dominance must first crash. Going by what happened back in 2017 and 2021, at least a 40% crash in the Bitcoin dominance is required to usher in the altcoin season. Featured image from Getty Images, chart from TradingView.com"
+    },
     {
       "title": "SUI Prepares For Bullish Flag Breakout Amid $3 Reclaim \u2013 Analyst Doubles The Target",
       "link": "https://www.newsbtc.com/news/sui-prepares-for-bullish-flag-breakout-amid-3-reclaim-analyst-doubles-the-target/",
@@ -100,11 +105,6 @@
       "title": "Bitcoin Brushes $110K as Whales Pull Funds from Binance, What Are They Planning?",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-brushes-110k-as-whales-pull-funds-from-binance-what-are-they-planning/",
       "summary": "Bitcoin\u2019s upward momentum has returned, with the asset briefly crossing the $110,000 threshold before pulling back slightly. After hitting a 24-hour high of $110,117, Bitcoin now trades at $109,386, reflecting a 1.8% increase in the past day. This recent push places the asset about $2,000 surge away from its all-time high of $111,814, recorded in May 2025, prompting renewed attention from traders and analysts. While price movements often attract headlines, on-chain data has started signaling deeper market activity. Related Reading: Bitcoin Realized Dominance Signals Weak Hands Capitulating, Strong Hands Rising Binance Sees 3,400 Bitcoin in Outflows as Spot Volume Surges According to CryptoQuant analyst Amr Taha, a substantial volume of BTC has recently been moved off Binance, one of the world\u2019s largest crypto exchanges. The shift aligns with anticipation around a series of US macroeconomic indicators, which historically tend to influence risk-on assets like Bitcoin. Taha highlighted that Binance recorded a net outflow of over 3,400 BTC in a single day. This occurred shortly after Bitcoin\u2019s price breached the $109,000 mark. Large-scale withdrawals from exchanges such as Binance are often interpreted as a sign that holders may be preparing to hold their assets longer-term, or shielding their positions from potential short-term volatility. Simultaneously, Binance\u2019s share of the global Bitcoin spot volume surged significantly, from 41% to 56% in just one session. Taha noted that this spike indicates increased reliance on Binance\u2019s liquidity by traders seeking exposure to Bitcoin ahead of anticipated market-moving economic data. The outflow trend, paired with rising spot volume, suggests that traders are actively responding to broader market signals, especially from traditional finance. US Jobs Report Drives Market Positioning The current surge in Bitcoin activity coincides with heightened market focus on US labor market data, including the Non-Farm Employment Change, Unemployment Rate, and Average Hourly Earnings figures. These indicators are closely watched by investors as they influence inflation expectations and the Federal Reserve\u2019s approach to interest rate adjustments. Shifts in rate expectations often have direct consequences for risk assets like Bitcoin, as changes in the cost of capital affect liquidity and investor appetite. Related Reading: Bitcoin Seasonality: Why Summer 2025 Will Catch Everyone Off Guard Taha suggests that the recent Binance outflows may reflect investor positioning ahead of potential macro-driven market volatility. \u201cBitcoin outflows from Binance alongside the sharp rise in spot trading activity\u2026 appear to show that investors are positioning for potential upside volatility,\u201d he wrote. A favorable labor report could amplify bullish sentiment across both equity and crypto markets if it strengthens expectations of a rate cut or an extended pause in rate hikes. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "Solana (SOL) Cools After Recovery \u2014 Resistance Proving Difficult to Crack",
-      "link": "https://www.newsbtc.com/analysis/solana-sol-cools-155/",
-      "summary": "Solana started a recovery wave above the $150 zone. SOL price is now correcting gains and might struggle to rise above the $155 resistance. SOL price started a fresh decline after it failed to clear $155 against the US Dollar. The price is now trading near $152 and the 100-hourly simple moving average. There is a key bullish trend line forming with support at $151 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $156 resistance zone. Solana Price Trims Gains Solana price started a decent increase after it cleared the $150 resistance, like Bitcoin and Ethereum. SOL climbed above the $152 level to enter a short-term positive zone. There was a move above the 50% Fib retracement level of the downward move from the $160 swing high to the $144 low. However, the bears were active near the $156 resistance. They protected a move above the 76.4% Fib retracement level of the downward move from the $160 swing high to the $144 low. The price is now moving lower and trading below the $154 level. Solana is now trading near $152 and the 100-hourly simple moving average. There is also a key bullish trend line forming with support at $151 on the hourly chart of the SOL/USD pair. On the upside, the price is facing resistance near the $155 level. The next major resistance is near the $156 level. The main resistance could be $160. A successful close above the $160 resistance zone could set the pace for another steady increase. The next key resistance is $162. Any more gains might send the price toward the $165 level. Another Decline in SOL? If SOL fails to rise above the $155 resistance, it could start another decline. Initial support on the downside is near the $150 zone. The first major support is near the $146 level. A break below the $146 level might send the price toward the $142 zone. If there is a close below the $142 support, the price could decline toward the $136 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is losing pace in the bullish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is below the 50 level. Major Support Levels \u2013 $150 and $146. Major Resistance Levels \u2013 $155 and $160."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin \u2013 THIS could be the breakout setup that changes everything!",
+      "link": "https://ambcrypto.com/bitcoin-this-could-be-the-breakout-setup-that-changes-everything/",
+      "summary": "<img alt=\"bitcoin binance\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders pile in ahead of strong jobs data; but can risk appetite survive macro reality?"
+    },
+    {
+      "title": "What is Shibacoin (SHIC)? How to Mine Shibacoin (SHIC)",
+      "link": "https://ambcrypto.com/what-is-shibacoin-shic-how-to-mine-shibacoin-shic/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"540\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/photo_2025-07-04-15.13.57-1.jpeg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1080\" />Dogecoin and Shiba Inu are two popular meme coins often compared by users. However, their [&#8230;]"
+    },
+    {
       "title": "Why Solana and Ethereum are set to rally soon \u2013 Crypto VC weighs in",
       "link": "https://ambcrypto.com/why-solana-and-ethereum-are-set-to-rally-soon-crypto-vc-weighs-in/",
       "summary": "<img alt=\"SOL ETH\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/SOLETHFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Wall Street could FOMO on SOL and ETH as stablecoin and tokenized stocks momentum grows."
@@ -203,16 +213,6 @@
       "title": "PEPE tests key support, whales scoop $3M \u2013 Is a 12% rally next?",
       "link": "https://ambcrypto.com/pepe-tests-key-support-whales-scoop-3m-is-a-12-rally-next/",
       "summary": "<img alt=\"PEPE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/AF47A37D-62E6-4505-95BD-593CE6033532.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />PEPE's recent upward movement is supported by several bullish factors."
-    },
-    {
-      "title": "Ripple applies for U.S. bank license \u2013 Next big step in crypto\u2019s Wall Street takeover?",
-      "link": "https://ambcrypto.com/ripple-applies-for-u-s-bank-license-next-big-step-in-cryptos-wall-street-takeover/",
-      "summary": "<img alt=\"Ripple applies for U.S. bank license - Next big step in crypto\u2019s Wall Street takeover?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/RippleXRPbankFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Arthur Hayes believe that crypto firms can't compete with traditional banks."
-    },
-    {
-      "title": "Wormhole crypto\u2019s latest price rejection \u2013 Result of a short squeeze or an organic rally?",
-      "link": "https://ambcrypto.com/wormhole-cryptos-latest-price-rejection-result-of-a-short-squeeze-or-an-organic-rally/",
-      "summary": "<img alt=\"Wormhole crypto&#039;s latest price rejection - Result of a short squeeze or an organic rally?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Wormhole-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The Ripple partnership announcement boosted demand for W, but would this be sustainable?"
     }
   ]
 }
