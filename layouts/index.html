@@ -267,7 +267,7 @@ Description: Homepage template with SEO enhancements
         <section class="section blog-section">
           <div class="blog-banner" style="text-align:left;">
             <a href="/blog/">
-              <img src="/blog_banner.webp" alt="Blog" style="height:80px; width:auto; object-fit:cover;" />
+              <img src="/blog_banner.webp" alt="Blog" loading="lazy" style="height:80px; width:auto; object-fit:cover;" />
             </a>
           </div>
           {{ $recent := first 3 $blogSection.Pages.ByDate.Reverse }}
@@ -284,7 +284,7 @@ Description: Homepage template with SEO enhancements
         <!-- News Section Banner -->
         <section class="section news-section">
           <div class="news-banner" style="text-align:left; margin-top: 1rem;">
-            <img src="/news_banner.webp" alt="News" style="height:80px; width:auto; object-fit:cover;" />
+            <img src="/news_banner.webp" alt="News" loading="lazy" style="height:80px; width:auto; object-fit:cover;" />
           </div>
         </section>
 
@@ -309,7 +309,7 @@ Description: Homepage template with SEO enhancements
             {{ if .summary }}
               {{ $src := replaceRE `(?s).*<img[^>]*src="([^"]+)".*` `$1` .summary }}
               {{ if ne $src .summary }}
-                <img src="{{ $src }}" alt="thumbnail" class="article-thumb" />
+                <img src="{{ $src }}" alt="thumbnail" loading="lazy" class="article-thumb" />
               {{ end }}
             {{ end }}
             <h2 class="subtitle">
