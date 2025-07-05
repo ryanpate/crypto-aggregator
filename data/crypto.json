@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "$8B BTC Movements May Have Been Preceded by Covert Bitcoin Cash Test",
+      "link": "https://www.coindesk.com/markets/2025/07/05/8b-btc-movements-may-have-been-preceded-by-covert-bitcoin-cash-test",
+      "summary": ""
+    },
+    {
       "title": "Dogecoin Holds 16 Cent Support as Bulls Defend Multi-Week Floor",
       "link": "https://www.coindesk.com/markets/2025/07/05/dogecoin-holds-16-cent-support-as-bulls-defend-multi-week-floor",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "NEAR Protocol Plunges 5% as Resistance Holds, Bitwise ETP Launches",
       "link": "https://www.coindesk.com/markets/2025/07/04/near-protocol-plunges-5-as-resistance-holds-bitwise-etp-launches",
       "summary": ""
-    },
-    {
-      "title": "Bank of Canada Identifies Technical Path for Retail CBDC in New Research Paper",
-      "link": "https://www.coindesk.com/business/2025/07/04/bank-of-canada-identifies-technical-path-for-retail-cbdc-in-new-research-paper",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin miners gambled on AI last year, and it paid off",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-gamble-ai-paid-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2Y1ZWYtNGEyMy03MmNmLTllNGMtOTQwYTkzZDI4OTkx.jpg\" /></p><p>When mining got tough, these firms chased AI dreams. Here\u2019s how it panned out.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
     {
       "title": "DeFi, TradFi convergence could arrive sooner than expected: JPMorgan",
       "link": "https://cointelegraph.com/news/jpmorgan-defi-tradfi-convergence-closer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Robinhood\u2019s 24/7 tokenization push threatens NYSE revenues: Galaxy Digital",
       "link": "https://cointelegraph.com/news/robinhood-tokenization-nyse-liquidity-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1ZDMtZmFkNi03OGNhLTg5ODQtYmQ1NTc4ZjU4YzMw.jpg\" /></p><p>Galaxy Digital warns Robinhood\u2019s plan to tokenize stocks on its new chain could divert liquidity from NYSE and other major exchanges.</p>"
-    },
-    {
-      "title": "OKX CEO apologizes after \u2018false positives\u2019 lock users out of accounts",
-      "link": "https://cointelegraph.com/news/okx-ceo-star-xu-apology-false-positives-user-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE3NzAtODQ4Zi03YmI3LWIwMzMtMjkzODY3YzExMTg4.jpg\" /></p><p>The CEO of OKX says that \"false positives\" are among the biggest challenges the crypto exchange faces in ensuring global compliance.</p>"
-    },
-    {
-      "title": "\u2018Small possibility\u2019 $8.6B Bitcoin transfer was a hack: Coinbase exec",
-      "link": "https://cointelegraph.com/news/bitcoin-whale-transfer-hack-possibility-coinbase-exec-speculates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q4OGQtNjYxMC03YTNjLThlNzYtMDM5YWI3ZjA2NWIx.jpg\" /></p><p>The Coinbase executive says he is \u201cspeculating on straws,\u201d but if it is true, it would be \u201cby far the largest heist in human history.\u201d</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "U.S. House of Representatives declares July 14th \u201cCrypto Week\u201d",
+      "link": "https://cryptoslate.com/u-s-house-of-representatives-declares-july-14th-crypto-week/",
+      "summary": "<p>The U.S. House of Representatives has designated the week starting July 14 as \u201cCrypto Week,\u201d as lawmakers consider three landmark bills: the CLARITY Act, the Anti-CBDC Surveillance State Act, and the Senate\u2019s GENIUS Act, in a comprehensive push to establish the United States as a global leader in digital assets. Prominent crypto trader and influencer [&#8230;]</p> <p>"
+    },
     {
       "title": "Ethereum\u2019s growing pains and the crypto landscape",
       "link": "https://cryptoslate.com/ethereums-growing-pains-and-the-crypto-landscape/",
@@ -73,14 +78,14 @@
       "title": "Investor poll shows 73% approval for Trump\u2019s crypto policy, bullish views on prices increase",
       "link": "https://cryptoslate.com/investor-poll-shows-73-approval-for-trumps-crypto-policy-bullish-views-on-prices-increase/",
       "summary": "<p>Over 70% of US crypto investors approve of President Donald Trump&#8217;s administration&#8217;s approach to crypto policy, according to a recent survey conducted by research firm HarrisX. HarrisX polled 1,096 adults online from June 18 to June 19, including 230 self-identified crypto investors. Among that cohort, 81% said they follow the administration&#8217;s crypto actions, 73% approved of the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Russian defense conglomerate Rostec to launch ruble-pegged stablecoin on TRON",
-      "link": "https://cryptoslate.com/russian-defense-conglomerate-rostec-to-launch-ruble-pegged-stablecoin-on-tron/",
-      "summary": "<p>Rostec, the Russian defense and technology conglomerate, announced on July 3 that it will introduce a ruble-pegged stablecoin and a linked payment network this year, utilizing Tron infrastructure. According to the Russian news agency TASS, Rostec named the token RUBx and set a one-to-one exchange rate with the ruble. Deputy General Director Alexander Nazarov stated that the corporation [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Price Stuck At $2,500: Analyst Says Don\u2019t Trade Until This Happens",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-price-stuck-at-2500/",
+      "summary": "The Ethereum price is currently locked in a narrow trading range of around $2,500, with momentum stalling despite the market&#8217;s bullish expectations. In light of this, a leading crypto analyst warns that current price action lacks the strength needed for a powerful upward move, urging traders to remain cautious. The analyst notes that without a clear breakout signal, entering the market now could expose investors to potential downside risks. $2,800 Breakout Key For Ethereum Price Bull Rally A new analysis released on the X social media platform by market expert Daan Crypto Trades reveals that the Ethereum price has continued to trade within a well-defined price channel, currently holding above the $2,500 level at $2,527. The analyst emphasized that $2,800 remains the key breakout point that could trigger an Ethereum bull rally. Related Reading: Crypto Analyst Predicts $10,000 ATH For Ethereum This Cycle, Here\u2019s Why The market expert shared a chart highlighting that ETH remains confined between a \u201crange low\u201d of $2,313 and a high of $2,736, with multiple failed attempts to break out of this tight structure. The chart also shows that the mid-range level of around $2,519 has become a critical point of control. Despite a brief rally that pushed the Ethereum price above $2,570 earlier this week, the cryptocurrency was still unable to sustain the upward move, slipping back below the $2,519 level before recovering to its current price of around $2,527. Daan Crypto Trades explains that the reason for Ethereum\u2019s sluggish performance is its continued struggle to establish a solid footing in the $2,500 price region. Given the clear price imbalance in this zone, the analyst advises traders to exercise caution before entering the market. Within this range, traders may encounter increased price volatility and potential fakeouts, both above and below the key support and resistance levels. Given the unstable market environment, Daan Crypto Trades suggests that until Ethereum breaks and holds above the $2,800 mark, traders are likely to face more sideways action and unpredictable price swings. A clean breakout above $2,800 could be the key to the start of a bullish trend, improving conditions for ETH and pushing it out of its present downtrend. ETH Four-Year Consolidation Sees An End Market expert Mister Crypto has also shared insights on the current Ethereum price action. The analyst declared in a recent X post that ETH is on the verge of exiting a prolonged multi-year consolidation phase. His chart, which visualizes the cryptocurrency\u2019s historical price movements, marks two key periods\u2014a powerful 48x rally from 2018 through 2021, followed by a four-year horizontal consolidation range that spans from the 2021 top to the present day. Related Reading: The Ethereum Waiting Game: Breakout To $2,800 Or Crash To $2,000? The analysis suggests that this extended period of range-bound movement could be a prelude to a potentially explosive bull trend, similar to the breakout seen in the past. In line with this, Mister Crypto marks a large open-ended \u201c??X\u201d label on his chart, suggesting the next breakout phase is imminent\u2014though the precise magnitude is left speculative. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "Bitcoin Investor Sentiment Back To \u2018Very Bullish\u2019 \u2014 What This Means",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-investor-sentiment-back-to-bullish/",
@@ -100,11 +105,6 @@
       "title": "Solana Tests Rising Channel Support \u2013 Breakdown Could Send Price To $128.50 Level",
       "link": "https://www.newsbtc.com/news/solana/solana-tests-rising-channel-support-breakdown-could-send-price-to-128-50-level/",
       "summary": "Solana is facing a critical test this week, consolidating in a tight range between $145 and $160 since Monday. The price action reflects strong buying interest but also hesitation as bulls struggle to reclaim higher levels. Despite holding above key support, Solana must break decisively above resistance to confirm a bullish breakout and continue its upward trend. Related Reading: Ethereum Forms Rising Wedge Pattern \u2013 $2,200 Support Back In Focus? Market momentum has favored bulls in recent weeks, but Solana\u2019s inability to breach the $160 zone raises questions about the strength of this trend. Top analyst Carl Runefelt shared insights highlighting that Solana is currently ranging within a rising channel pattern\u2014a structure that, while seemingly bullish, can often precede a breakdown to lower demand zones if support fails. This makes the coming days especially important for SOL\u2019s trajectory. As macro conditions improve and Bitcoin flirts with new all-time highs, Solana is expected to respond in kind. However, technical signals suggest caution. A break below the rising channel could target the $128.50 support area, while a successful breakout above $160 could open the door to retesting local highs. Traders and investors alike are closely watching Solana\u2019s next move in this high-stakes consolidation phase. Solana Holds Key Support Amid Rising Channel Formation Solana is currently trading below the $150 level, reflecting a notable 20% decline from its local high set in May. Despite this setback, the asset continues to hold a strong support base, signaling that bullish sentiment has not entirely faded. The broader market remains in a consolidation phase, with Solana showing signs of indecision as it moves sideways within a tightening price range. Analysts remain cautiously optimistic, pointing out that a breakout above the key $150\u2013$160 supply zone could spark renewed upside momentum. However, the current price structure suggests that Solana may not be ready yet to retest previous highs. According to Carl Runefelt, Solana is ranging within a rising channel\u2014a pattern that can lead to sharp movements if broken. While rising channels can sustain bullish continuation, a breakdown below the lower trendline often results in accelerated downside moves. Runefelt warns that if Solana breaks below the channel, the next key support area lies around $128.50. This level has historically acted as a strong demand zone and could serve as the next target in the event of a bearish move. In the meantime, Solana\u2019s consolidation reflects broader market uncertainty, with traders waiting for a decisive breakout or breakdown to guide positioning. A successful reclaim of the $150 level would improve sentiment significantly and could set the stage for a push toward the $170\u2013$180 range. On the other hand, failure to hold above current levels may shift the narrative toward further downside risk. Related Reading: Chainlink Consolidates Above Key Support \u2013 Bulls Eye $20 Range SOL Holds Range Amid Resistance Solana (SOL) is currently trading at $147.62, moving sideways within a tightening range and forming a potential rising channel pattern. The daily chart reveals that SOL has been unable to break decisively above the $155\u2013$160 resistance zone, while strong support remains near the $140 level. Price action shows repeated rejections near the 100-day moving average (blue line), which now acts as dynamic resistance around $155.60. The 200-day moving average (red) sits further above $165.54, marking a long-term resistance area. Volume remains relatively low compared to early June spikes, suggesting market participants are waiting for a clear breakout direction. A push above $160 would likely trigger bullish momentum, potentially opening the door toward the $170 level. However, the rising channel identified by analysts suggests a possible downside risk if the lower trendline fails. Related Reading: Litecoin Surges Past Descending Resistance \u2013 Bulls Target $97.10 Level If Solana breaks below the $145 support and falls out of the channel, the next target would be the $128.50 area, which previously acted as a demand zone in mid-May. Until then, bulls must defend current levels and aim to reclaim the 100-day SMA to maintain the broader recovery structure. The coming sessions may offer clarity as consolidation nears its resolution. Featured image from Dall-E, chart from TradingView"
-    },
-    {
-      "title": "Ethereum Wave Count Predicts Price Crash To $1,800 \u2014 But $6,000 Is Still In Play",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-wave-count-1800/",
-      "summary": "Ethereum is still struggling below $3,000 despite the Bitcoin price sitting close to all-time highs. At the current levels, Ethereum continues to look incredibly bearish, with sell-offs dominating the market at this level. While piling shorts are pointing to a possible relief rally, there is also the possibility that the price will crash back down from here. Crypto analyst Weslad maps out the ETH price trajectory using the ABCDE wave structure, showing a possible crash below $2,000. The Bullish Ethereum Scenario Weslad points to the 2021 Ethereum peak when the price reached $4,851 as the point when a large-scale symmetrical pennant had formed for the digital asset. Interestingly, this has continued for multiple years already, and continues to play out even in 2025, four years later. So far, the analyst believes that the altcoin has been in a long-term accumulation phase in a defined corrective range. Related Reading: Altcoin Season Not Remotely Close, Bitcoin Dominance Still Too High: Market Expert Says Another important development is the formation of an ABCDE wave pattern. This pattern often predicts peaks and troughs, and depending on where the asset is in the pattern, it could point to a recovery or a crash. Presently, the crypto analyst puts the Ethereum price as being somewhere in a D wave, which is still bullish for the price. \u201cCurrently, price action is developing near point D, approaching the upper boundary of the pennant, a crucial area that could define the next directional move,\u201d the analyst said. If this D wave plays out as expected, then the Ethereum price is expected to actually surge from here. The top of this pattern would put it above $3,500 before the move is completed. On the upper end of this is the formation of an Inverse Head and Shoulders Pattern. This pattern has seen the $2,855 acting as key resistance, beating the Ethereum price down multiple times this year. However, if a sustained break is achieved above this level, in conjunction with a breakout from Wave D, then it is possible that the price does rally to new all-time highs above $6,000. The Bearish Scenario While the formation of the ABCDE wave count points to some bullishness for the Ethereum price, there is still the possibility that the price could go in the opposite direction. For example, after the D wave is completed, comes the next wave in the sequence, which is the E wave, and this is a bearish wave. Related Reading: Altcoin Season Not Remotely Close, Bitcoin Dominance Still Too High: Market Expert Says As the crypto analyst explains, a temporary rejection at the neckline or pennant resistance would trigger an E wave retracement. In this case, the Ethereum price could see an over 30% crash, putting it back toward the $1,400-$1,800 level, where there is the most support. \u201cRecent price behavior shows compressed volatility and increased buying interest on dips, reinforcing the possibility of an imminent directional breakout,\u201d Weslad warned. \u201cA decisive move outside this macro structure may mark the beginning of a new phase of long-term price expansion.\u201d Featured image from Dall.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Gold Explorer Joins Bitcoin Treasury Bandwagon",
+      "link": "https://decrypt.co/328707/gold-explorer-joins-bitcoin-treasury-bandwagon",
+      "summary": "The early-stage gold explorer\u2019s Bitcoin reserve strategy has become a familiar playbook among financially pressured firms."
+    },
+    {
       "title": "Bitcoin Dives on OG Whale FUD, But Charts Remain Bullish: Analysis",
       "link": "https://decrypt.co/328731/bitcoin-price-dives-og-whale-fud-charts-bullish-analysis",
       "summary": "A dormant Bitcoin whale woke up and chose violence\u2014by spooking skittish BTC traders with an $8 billion move. The charts though? They tell a different story."
@@ -154,11 +159,6 @@
       "title": "How a Hacker Spent Only $2.7K to Steal $140 Million From Brazilian Banks",
       "link": "https://decrypt.co/328700/hacker-spent-2k-steal-140-million-brazil-central-bank",
       "summary": "The hackers laundered roughly $40 million worth of the stolen funds using Bitcoin, Ethereum, and Tether, according to a blockchain investigator."
-    },
-    {
-      "title": "Sweden Orders Police to Increase Seizures of Criminal Crypto Profits",
-      "link": "https://decrypt.co/328687/sweden-orders-police-to-increase-seizures-of-criminal-crypto-profits",
-      "summary": "Sweden's Minister of Justice has called on the authorities to make greater use of forfeiture legislation to seize cryptocurrency."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin leverage hits yearly high, yet THESE risks could derail BTC\u2019s rally",
+      "link": "https://ambcrypto.com/bitcoin-leverage-hits-yearly-high-yet-these-risks-could-derail-btcs-rally/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Bitcoin-greed.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />In the near term, these macro headwinds could cap BTC upside."
+    },
+    {
       "title": "Algorand\u2019s adoption surges 62% \u2013 Is a $0.19 breakout possible?",
       "link": "https://ambcrypto.com/algorands-adoption-surges-62-is-a-0-19-breakout-possible/",
       "summary": "<img alt=\"Algorand&#039;s adoption surges 62% \u2014 Can ALGO&#039;s price finally break out or fall to...\" class=\"attachment-full size-full wp-post-image\" height=\"756\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-3.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1344\" />Is ALGO\u2019s ecosystem growth strong enough to break the descending triangle?"
@@ -208,11 +213,6 @@
       "title": "Ethereum transactions near 2021 highs \u2013 Will ETH prices follow?",
       "link": "https://ambcrypto.com/ethereum-transactions-near-2021-highs-will-eth-prices-follow/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ethereum-ETH-.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />ETH speculative traders increased their long bets by 12% in early July."
-    },
-    {
-      "title": "Tether\u2019s last stand? GENIUS Act leaves USDT with 3 doors AND a ticking clock",
-      "link": "https://ambcrypto.com/tethers-last-stand-genius-act-leaves-usdt-with-3-doors-and-a-ticking-clock/",
-      "summary": "<img alt=\"TETHER\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-4.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The GENIUS Act may have finally cornered crypto\u2019s biggest stablecoin. Will it bend or break?"
     }
   ]
 }
