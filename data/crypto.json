@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Dogecoin Holds 16 Cent Support as Bulls Defend Multi-Week Floor",
+      "link": "https://www.coindesk.com/markets/2025/07/05/dogecoin-holds-16-cent-support-as-bulls-defend-multi-week-floor",
+      "summary": ""
+    },
+    {
+      "title": "XRP Traders Eye $10 as Ripple\u2019s U.S. Banking Bid Builds Market Optimism",
+      "link": "https://www.coindesk.com/markets/2025/07/05/xrp-traders-eye-10-as-ripples-us-banking-bid-builds-market-optimism",
+      "summary": ""
+    },
+    {
+      "title": "Eight Bitcoin Wallets Move 80,000 BTC in Largest Ever \u2018Satoshi Era\u2019 Transfers",
+      "link": "https://www.coindesk.com/markets/2025/07/05/eight-bitcoin-wallets-move-80000-btc-in-largest-ever-satoshi-era-transfers",
+      "summary": ""
+    },
+    {
       "title": "NEAR Protocol Plunges 5% as Resistance Holds, Bitwise ETP Launches",
       "link": "https://www.coindesk.com/markets/2025/07/04/near-protocol-plunges-5-as-resistance-holds-bitwise-etp-launches",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "Bank of Canada Identifies Technical Path for Retail CBDC in New Research Paper",
       "link": "https://www.coindesk.com/business/2025/07/04/bank-of-canada-identifies-technical-path-for-retail-cbdc-in-new-research-paper",
       "summary": ""
-    },
-    {
-      "title": "BONK Eyes Breakout as ETF Buzz and Burn Trigger Spark Fresh Rally",
-      "link": "https://www.coindesk.com/markets/2025/07/04/bonk-eyes-breakout-as-etf-buzz-and-burn-trigger-spark-fresh-rally",
-      "summary": ""
-    },
-    {
-      "title": "Hackers Behind $140M Brazil Banking Heist Turn to Crypto to Launder Their Loot",
-      "link": "https://www.coindesk.com/business/2025/07/04/hackers-behind-usd140m-brazil-banking-heist-turn-to-crypto-to-launder-their-loot",
-      "summary": ""
-    },
-    {
-      "title": "ATOM Tumbles 4% as Sellers Target Critical $4 Support Level",
-      "link": "https://www.coindesk.com/markets/2025/07/04/atom-tumbles-4-as-sellers-target-critical-usd4-support-level",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "\u2018Small possibility\u2019 $8.6B Bitcoin transfer was a hack: Coinbase exec",
+      "link": "https://cointelegraph.com/news/bitcoin-whale-transfer-hack-possibility-coinbase-exec-speculates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q4OGQtNjYxMC03YTNjLThlNzYtMDM5YWI3ZjA2NWIx.jpg\" /></p><p>The Coinbase executive says he is \u201cspeculating on straws,\u201d but if it is true, it would be \u201cby far the largest heist in human history.\u201d</p>"
+    },
     {
       "title": "Bitcoin treasury playbook faces \u2018far shorter lifespan\u2019 \u2014 Analyst",
       "link": "https://cointelegraph.com/news/bitcoin-treasury-strategy-plan-limited-lifespan-forecast-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "Sweden\u2019s justice minister says to \u2018turn up the pressure\u2019 on crypto seizures",
       "link": "https://cointelegraph.com/news/sweden-pressure-crypto-confiscated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ5NTAtMDhjMC03YzdkLTlhOGYtNTFkNTE4ZmY3ODAx.jpg\" /></p><p>Gunnar Str\u00f6mmer reportedly said that Swedish authorities had confiscated more than $8.3 million worth of criminal profits since a law related to seizures was passed in 2024.</p>"
-    },
-    {
-      "title": "Crypto Biz: Peter Thiel eyes the SVB throne",
-      "link": "https://cointelegraph.com/news/peter-thiel-erebor-bank-svb-collapse-crypto-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q2MjAtYmEyOC03YjViLTg3MTktMWRhZmFlOGJjNzg3.jpg\" /></p><p>Peter Thiel and other billionaires are planning Erebor, a new bank to fill the void left by Silicon Valley Bank\u2019s collapse \u2014 with crypto firms and startups in focus.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin vs. $3T U.S. debt \u2013 Is now the time to buy BTC?",
+      "link": "https://ambcrypto.com/bitcoin-vs-3t-u-s-debt-is-now-the-time-to-buy-btc/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Bitcoin-FFFFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />U.S. debt concerns spark bullish Bitcoin sentiment, as experts warn of dollar devaluation and urge crypto as a hedge."
+    },
+    {
       "title": "Decoding XRP resistance levels \u2013 Can the $2.3 hurdle be cleared?",
       "link": "https://ambcrypto.com/decoding-xrp-resistance-levels-can-the-2-3-hurdle-be-cleared/",
       "summary": "<img alt=\"XRP resistance levels will be challenged soon as bullishness begins to take hold\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/XRP-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Analysis showed that XRP swing traders can look to go long once the mid-range resistance was retested as support."
@@ -208,11 +213,6 @@
       "title": "Shiba Inu price prediction \u2013 Why SHIB\u2019s recovery hinges on $0.0000136",
       "link": "https://ambcrypto.com/shiba-inu-price-prediction-why-shibs-recovery-hinges-on-this-level/",
       "summary": "<img alt=\"Shiba Inu price prediction- Situation still bleak for popular meme coin, buyers beware\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Shiba-Inu-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite an attempted breakout, SHIB failed and remains near the $0.0000111 range low. What next for the memecoin?"
-    },
-    {
-      "title": "Fidelity snaps up 1% of all Bitcoin as institutional buying surges",
-      "link": "https://ambcrypto.com/fidelity-snaps-up-1-of-all-bitcoin-as-institutional-buying-surges/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/BitcoinFidelityBTCETF.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Fidelity outpaces BlackRock in ETF inflows, but broader BTC demand slump limits upside momentum."
     }
   ]
 }
