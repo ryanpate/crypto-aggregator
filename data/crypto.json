@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Chart of the Week: Wall Street Has Claimed Bitcoin\u2014Now What?",
+      "link": "https://www.coindesk.com/markets/2025/07/06/chart-of-the-week-wall-street-has-claimed-bitcoin-now-what",
+      "summary": ""
+    },
+    {
       "title": "Ethereum Touted as \u2018Foundational Layer for Global Finance\u2019 by Firm With $500M ETH Bet",
       "link": "https://www.coindesk.com/markets/2025/07/05/ethereum-touted-as-foundational-layer-for-global-finance-by-firm-with-usd500m-eth-bet",
       "summary": ""
@@ -19,14 +24,24 @@
       "title": "U.S. Exceptionalism Is Alive and Well as Nasdaq Outperforms Global Peers: Macro Markets",
       "link": "https://www.coindesk.com/markets/2025/07/05/the-u-s-exceptionalism-is-alive-and-well-as-nasdaq-outperforms-global-peers-macro-markets",
       "summary": ""
-    },
-    {
-      "title": "Drake Compares Fake Friends to Bitcoin's Volatility: \u2018Down This Week, Up Next\u2019",
-      "link": "https://www.coindesk.com/web3/2025/07/05/drake-compares-fake-friends-to-bitcoins-volatility-down-this-week-up-next",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin &#039;cup and handle&#039; breakout gives $230K target as SOL eyes 2800% gain",
+      "link": "https://cointelegraph.com/news/bitcoin-cup-and-handle-breakout-230k-target-sol-2800-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmYmEtOTkwOS03MWYxLWJkNDYtYzdkMGY3N2IzMWZi.jpg\" /></p><p>Bitcoin and Solana are in for astronomical upside if they both complete a cup and handle breakout pattern, monthly chart analysis concludes.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "Vitalik proposes gas cap to enhance Ethereum security, stability",
+      "link": "https://cointelegraph.com/news/vitalik-ethereum-gas-cap-eip-7983?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdhNjItMWY1Ny03YmZhLWJmZjYtNWZmMjA2YzIxZWYz.jpg\" /></p><p>Vitalik Buterin proposes EIP-7983 to cap transaction gas at 16.77 million, aiming to boost Ethereum security, stability, and zkVM compatibility.</p>"
+    },
     {
       "title": "TON offers 10-year UAE golden visa for $100K in staked Toncoin",
       "link": "https://cointelegraph.com/news/toncoin-uae-golden-visa-staking-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Secret Service seizes $400M in crypto, cold wallet among world\u2019s largest",
       "link": "https://cointelegraph.com/news/secret-service-seizes-400m-crypto-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RlODQtNmJmMi03MzQzLTllZGMtZWE0YTczYzM5MDVm.jpg\" /></p><p>Secret Service quietly amasses one of the world\u2019s largest crypto cold wallets with $400 million seized, exposing scams through blockchain sleuthing and VPN missteps.</p>"
-    },
-    {
-      "title": "$8.6B Bitcoin whale transfer shows no signs of sell-off: Arkham",
-      "link": "https://cointelegraph.com/news/bitcoin-whale-transfer-not-sell-off-says-arkham-blockchain-intelligence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RkZjgtNTQ3Yi03Y2Q0LThkNDUtMjQzZTZjMjIxNjM5.jpg\" /></p><p>Arkham says the massive Bitcoin whale transfer might be due to a wallet upgrade, but others in the industry have their own theories.</p>"
-    },
-    {
-      "title": "Taxing Bitcoin \u2018doesn\u2019t make a ton of sense\u2019 \u2014 Fund manager",
-      "link": "https://cointelegraph.com/news/bill-miller-bitcoin-tax-speculation-natalie-brunell-coin-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RkMDMtNjgwNC03NDY4LWFiNjMtMDcwNmFmZTMxMjk4.jpg\" /></p><p>Fund manager Bill Miller IV says the government shouldn\u2019t be able to tax Bitcoin because it requires no work on their end.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,16 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Hyperliquid\u2019s price struggles as whale offloads 215K HYPE: Is a drop coming?",
+      "link": "https://ambcrypto.com/hyperliquids-price-struggles-as-whale-offloads-215k-hype-is-a-drop-coming/",
+      "summary": "<img alt=\"Hyperliquid&#039;s price struggles as whale offloads 215K HYPE: Is a drop coming?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Gladys-30.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />How low does HYPE need to fall before bargain hunters step in again?"
+    },
+    {
+      "title": "Toncoin explodes 12% in 2 hours on the back of UAE\u2019s Golden Visa rules",
+      "link": "https://ambcrypto.com/toncoin-explodes-12-in-2-hours-on-the-back-of-uaes-golden-visa-rules/",
+      "summary": "<img alt=\"Toncoin explodes 12% in 2 hours on the back of UAE&#039;s Golden Visa rules\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Toncoin-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Repeated retests of the $2.7 support over the past month failed to drive prices lower, showing bullish resilience."
+    },
+    {
       "title": "Inside Ethereum\u2019s hidden liquidity imbalance that can break its economic model",
       "link": "https://ambcrypto.com/inside-ethereums-hidden-liquidity-imbalance-that-can-break-its-economic-model/",
       "summary": "<img alt=\"Inside Ethereum&#039;s hidden liquidity imbalance that can break its economic model\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-1-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />When stablecoins call the shots, Ethereum\u2019s decentralization becomes structurally compromised."
@@ -203,16 +213,6 @@
       "title": "Binance stacks Ethereum at yearly high, U.S. funds buy more: So why isn\u2019t ETH moving?",
       "link": "https://ambcrypto.com/binance-stacks-ethereum-at-yearly-high-u-s-funds-buy-more-so-why-isnt-eth-moving/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-8-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Binance is swimming in ETH, U.S. investors are buying big, and prices are barely budging - something\u2019s got to give."
-    },
-    {
-      "title": "ai16z sees a 13.15% price drop after short, swift rally \u2013 What happens next?",
-      "link": "https://ambcrypto.com/ai16z-sees-a-13-15-price-drop-after-short-swift-rally-what-happens-next/",
-      "summary": "<img alt=\"ai16z sees a 13.15% price drop after short, swift rally - What happens next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/ai16z-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />ai16z saw a bearish divergence between the MFI and the price, followed by a wicked rejection at the range highs."
-    },
-    {
-      "title": "Exploring BONK\u2019s mixed signals: Should you go long, short, or stay sidelined?",
-      "link": "https://ambcrypto.com/exploring-bonks-mixed-signals-should-you-go-long-short-or-stay-sidelined/",
-      "summary": "<img alt=\"Exploring BONK&#039;s mixed signals: Should you go long, short, or stay sidelined?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Bonk-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Due to the increased demand during the rally, a move past the June high could occur in the coming days."
     }
   ]
 }
