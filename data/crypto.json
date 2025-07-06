@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Update: UAE Denies TON golden visa claim",
+      "link": "https://cointelegraph.com/news/toncoin-uae-golden-visa-staking-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmNTMtMTU1My03MTk5LWE1NWEtNjcwNGYwZDQ5OTcw.jpg\" /></p><p>After TON claimed a staking program would offer golden visas for holders to enter the United Arab Emirates, the country's news agency shot down the idea of a partnership.</p>"
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
@@ -46,11 +51,6 @@
       "title": "Crypto adoption will be driven by high-growth markets, with or without the US",
       "link": "https://cointelegraph.com/news/crypto-high-growth-markets-with-or-without-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhjOTgtYjdlYi03MDhhLThmYjQtYWE5Y2MyZDI4NzU0.jpg\" /></p><p>Crypto adoption is rapidly growing in high-growth markets, where the technology is solving real-world problems, like remittances, financial inclusion and supply chain inefficiencies.</p>"
-    },
-    {
-      "title": "Bitcoin &#039;cup and handle&#039; breakout gives $230K target as SOL eyes 2800% gain",
-      "link": "https://cointelegraph.com/news/bitcoin-cup-and-handle-breakout-230k-target-sol-2800-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmYmEtOTkwOS03MWYxLWJkNDYtYzdkMGY3N2IzMWZi.jpg\" /></p><p>Bitcoin and Solana are in for astronomical upside if they both complete a cup and handle breakout pattern, monthly chart analysis concludes.</p>"
     }
   ],
   "CryptoSlate": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "UAE authorities deny granting golden visas for crypto investors amid TON buzz",
+      "link": "https://cryptobriefing.com/uae-golden-visa-crypto-denial/",
+      "summary": "<p>The denial highlights the need for clear regulatory frameworks in crypto investments, impacting investor trust and market stability.</p> <p>"
+    },
+    {
       "title": "TON introduces UAE Golden Visa program through crypto staking, Toncoin soars 13%",
       "link": "https://cryptobriefing.com/ton-golden-visa-uae-crypto/",
       "summary": "<p>TON's crypto-based UAE Golden Visa program could revolutionize residency pathways, enhancing digital asset utility and global mobility options.</p> <p>"
@@ -181,11 +186,6 @@
       "title": "Russia\u2019s military-industrial powerhouse Rostec to launch ruble-backed token on Tron",
       "link": "https://cryptobriefing.com/ruble-backed-token-rostec-tron/",
       "summary": "<p>Rostec's ruble-backed token on Tron could enhance Russia's digital finance landscape, fostering innovation and integration with global systems.</p> <p>"
-    },
-    {
-      "title": "cheqd and ASI Alliance team up to address AI identity crisis with verifiable credentials",
-      "link": "https://cryptobriefing.com/cryptographic-verification-ai-impersonation/",
-      "summary": "<p>The collaboration could significantly enhance trust and security in AI systems, mitigating risks of fraud and manipulation in a rapidly growing market.</p> <p>"
     }
   ],
   "AMBcrypto": [
