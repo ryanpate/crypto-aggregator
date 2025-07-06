@@ -28,6 +28,11 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Taxing Bitcoin \u2018doesn\u2019t make a ton of sense\u2019 \u2014 Fund manager",
+      "link": "https://cointelegraph.com/news/bill-miller-bitcoin-tax-speculation-natalie-brunell-coin-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RkMDMtNjgwNC03NDY4LWFiNjMtMDcwNmFmZTMxMjk4.jpg\" /></p><p>Fund manager Bill Miller IV says the government shouldn\u2019t be able to tax Bitcoin because it requires no work on their end.</p>"
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
@@ -46,11 +51,6 @@
       "title": "Tokenized equity still in regulatory grey zone \u2014 Attorneys",
       "link": "https://cointelegraph.com/news/investor-beware-tokenized-equity-regulatory-grey-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QyMDItMmFiOC03ZGNhLTkwNGMtYzE1ZDk2OTRjMmZj.jpg\" /></p><p>The nascent real-world tokenized assets track prices but do not provide investors the same legal rights as holding the underlying instruments.</p>"
-    },
-    {
-      "title": "Crypto\u2019s path to legitimacy runs through the CARF regulation",
-      "link": "https://cointelegraph.com/news/crypto-legitimacy-carf-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhjOGUtOTgyMi03NGVjLWE2N2QtZjNiZjdiMTQ4YjM1.jpg\" /></p><p>The CARF regulation, which brings crypto under global tax reporting standards akin to traditional finance, marks a crucial turning point.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "AAVE gains capital share in DeFi, yet its prices stall \u2013 What\u2019s missing?",
+      "link": "https://ambcrypto.com/aave-gains-capital-share-in-defi-yet-its-prices-stall-whats-missing/",
+      "summary": "<img alt=\"AAVE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Why is AAVE price stalling despite the protocol holding 5% of the stablecoin supply?"
+    },
+    {
       "title": "Bitcoin bulls in control? \u2013 Not if THESE signals are right",
       "link": "https://ambcrypto.com/bitcoin-bulls-in-control-not-if-these-signals-are-right/",
       "summary": "<img alt=\"Bitcoin [BTC]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-05T124520.264-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s bullish setup holds for now, but weak network activity could challenge the trend."
@@ -208,11 +213,6 @@
       "title": "Bitcoin: Examining if BTC will struggle to stay above $100K",
       "link": "https://ambcrypto.com/bitcoin-examining-why-btc-could-struggle-to-stay-over-100k/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-05T100543.168-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin remains above $100K, but slumping exchange activity and weak fundamentals pose growing downside risk."
-    },
-    {
-      "title": "All about Arbitrum\u2019s 22K ETH stack and its impact on L2 ecosystem",
-      "link": "https://ambcrypto.com/all-about-arbitrums-22k-eth-stack-and-its-impact-on-l2-ecosystem/",
-      "summary": "<img alt=\"Arbitrum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/ArbitrumEthereum.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />ARB has erased early 18% gain and retreated to a crucial $0.3 support."
     }
   ]
 }
