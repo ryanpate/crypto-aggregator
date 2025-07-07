@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Vitalik Buterin's New Proposal Seeks 16.7M Gas Cap on Ethereum to Rein In Transaction Bloat",
+      "link": "https://www.coindesk.com/tech/2025/07/07/vitalik-buterins-new-proposal-seeks-167m-gas-cap-on-ethereum-to-rein-in-transaction-bloat",
+      "summary": ""
+    },
+    {
       "title": "Crypto Exchange Mercado Bitcoin to Tokenize $200M in Real-World Assets on XRP Ledger",
       "link": "https://www.coindesk.com/business/2025/07/07/crypto-exchange-mercado-bitcoin-to-tokenize-usd200m-in-real-world-assets-on-xrp-ledger",
       "summary": ""
@@ -19,41 +24,41 @@
       "title": "U.S. Secret Service Quietly Becomes a Leading Crypto Cop as Digital Fraud Soars: Bloomberg",
       "link": "https://www.coindesk.com/policy/2025/07/07/us-secret-service-quietly-becomes-a-leading-crypto-cop-as-digital-fraud-soars-bloomberg",
       "summary": ""
-    },
-    {
-      "title": "The Blockchain Group Bolsters Bitcoin Reserves With $12.5M BTC Acquisition",
-      "link": "https://www.coindesk.com/markets/2025/07/07/the-blockchain-group-bolsters-bitcoin-reserves-with-125m-btc-acquisition",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "How Bhutan plans to boost its local economy with crypto tourism",
+      "link": "https://cointelegraph.com/news/bhutan-crypto-tourism-binance-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmE5YWItZGE4Mi03OTM3LWEzOTYtYmNmYzlhMWUyMDVm.jpg\" /></p><p>Damcho Rinzin, the director of Bhutan\u2019s Department of Tourism, said the sector has struggled because of its payment infrastructure.</p>"
+    },
+    {
+      "title": "Metaplanet adds 2,204 Bitcoin for $237M, now holds 15,555 BTC",
+      "link": "https://cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg\" /></p><p>Japan\u2019s Metaplanet has become the world\u2019s fifth-largest corporate Bitcoin holder after acquiring 2,204 BTC.</p>"
+    },
+    {
+      "title": "Bitcoin Bollinger Bands reach critical point ahead of &#039;upside breakout&#039;",
+      "link": "https://cointelegraph.com/news/bitcoin-bollinger-bands-reach-critical-point-upside-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI0ZjktM2U5Mi03NmE2LWFiODEtMmQ2M2Y3ZjE1MzA0.jpg\" /></p><p>A widely used Bitcoin technical analysis indicator suggests that BTC is on the verge of a \u201cbig move\u201d toward new all-time highs.</p>"
+    },
     {
       "title": "Crypto funds post $1B inflows with net assets breaking new highs",
       "link": "https://cointelegraph.com/news/crypto-funds-post-m-inflows-amid-greed-sentiment-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEyYmMtZWE5Yi03MmZjLWExZTQtNTNiN2EwNTZmZDc5.jpg\" /></p><p>Bitcoin ETPs saw $790 million of inflows last week, a slowdown from the previous three-week average of $1.5 billion, with dynamics shifting in favor of Ether, according to CoinShares.</p>"
     },
     {
-      "title": "&#039;False move&#039; to $105K? 5 things to know in Bitcoin this week",
+      "title": "\u2018False move\u2019 to $105K? 5 things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/news/false-move-to-105k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U0MTUtODVhMC03YWQwLTg2MzYtYjJmMjk2NGRjNmVm.jpg\" /></p><p>Bitcoin sets another record high weekly close as traders determine where the BTC price tops and bottoms will be.</p>"
-    },
-    {
-      "title": "Elon Musk confirms new \u2018America Party\u2019 will embrace Bitcoin",
-      "link": "https://cointelegraph.com/news/elon-musk-confirms-new-america-party-will-embrace-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UyYzUtMjJlMS03MTU5LWEyYmYtNGRhNjk4MTgxZjhl.jpg\" /></p><p>Elon Musk announced the formation of a new political party on Sunday, telling one of his followers on X that it will embrace Bitcoin as \u201cfiat is hopeless.\u201d</p>"
-    },
-    {
-      "title": "UK sentences 2 men to prison over $2M cold-calling crypto scam",
-      "link": "https://cointelegraph.com/news/uk-sentences-2-men-prison-over-2m-cold-calling-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWEwZTgtZDlhMS03YTJkLWE3YTYtMjJkOWFkNjFjZGEw.jpg\" /></p><p>Two men who admitted to running a crypto scheme that defrauded 65 investors have both been sentenced to over five years in prison.</p>"
-    },
-    {
-      "title": "Russia targets crypto mining energy thieves, tax dodgers",
-      "link": "https://cointelegraph.com/news/national-registry-crypto-mining-rigs-launched-in-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UyYzUtZTY0Yy03MWYyLTljYzUtZmM3ZmQ5NGRkNGY4.jpg\" /></p><p>Deputy Energy Minister Petr Konyushenko said the register is a step toward \u201clegalizing the industry and reducing illegal consumption\u201d of energy.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Jack Dorsey launches Bitchat, a Bluetooth-based messaging platform",
+      "link": "https://cryptoslate.com/jack-dorsey-launches-bitchat-a-bluetooth-based-messaging-platform/",
+      "summary": "<p>Twitter founder Jack Dorsey has published the white paper for Bitchat, a decentralized messaging platform operating entirely over Bluetooth. The app is designed to work without internet access, relying instead on Bluetooth Low Energy (BLE) mesh networks for peer-to-peer communication. What is Bitchat? Bitchat is a privacy-first chat platform built on a store-and-forward architecture using BLE. [&#8230;]</p> <p>"
+    },
     {
       "title": "Elon Musk\u2019s America Party embraces Bitcoin",
       "link": "https://cryptoslate.com/elon-musks-america-party-embraces-bitcoin/",
@@ -73,14 +78,14 @@
       "title": "Bitcoin\u2019s silent opponent: why industry veteran Jameson Lopp sees apathy as the greatest threat",
       "link": "https://cryptoslate.com/bitcoins-silent-opponent-why-industry-veteran-jameson-lopp-sees-apathy-as-the-greatest-threat/",
       "summary": "<p>Welcome to Slate Sundays, \u2019s new weekly feature showcasing in-depth interviews, expert analysis, and thought-provoking op-eds that go beyond the headlines to explore the ideas and voices shaping the future of crypto. It\u2019s not often that you meet someone with as much integrity as Jameson Lopp. Being in his presence for any length of time, whether [&#8230;]</p> <p>"
-    },
-    {
-      "title": "TON offers UAE golden visa for stakers, making residency by crypto a reality",
-      "link": "https://cryptoslate.com/ton-offers-uae-golden-visa-for-stakers-making-residency-by-crypto-a-reality/",
-      "summary": "<p>Telegram\u2019s Open Network (TON) today announced an interesting initiative: a 10-year UAE Golden Visa to investors who stake $100,000 worth of Toncoin (TON) for three years. The program dramatically lowers the entry threshold for residency in the United Arab Emirates and is the first of its kind within the crypto space. How the TON golden [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Risks Downside If Resistance Holds: $2,700 Level Is Critical",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-risks-downside-if-resistance-holds-2700-level-is-critical/",
+      "summary": "Ethereum is trading above the $2,500 level, showing notable strength despite recent volatility across the broader crypto market. Since early May, ETH has been trapped in a consolidation range between $2,400 and $2,700, struggling to establish a clear trend as both bulls and bears wait for confirmation. However, recent price action suggests growing momentum, with bulls maintaining control above key support zones. Related Reading: Altcoins Set A Higher Low \u2013 Bulls Target 2024 High To Trigger Altseason Top analyst Carl Runefelt shared a technical analysis pointing to a decisive moment ahead for Ethereum. According to Runefelt, a breakout above the $2,700 resistance level is essential to ignite an impulsive move toward higher levels. Without that breakout, ETH risks remaining range-bound or revisiting lower demand zones. The current market structure, combined with positive sentiment surrounding altcoins and growing institutional interest in Ethereum, contributes to the optimism. Still, the coming days will be critical. A sustained move above $2,700 could open the door for a rally toward $3,000 and beyond, while failure to break out may delay Ethereum\u2019s next major leg up. As Bitcoin trades just below its all-time highs, Ethereum\u2019s next move could also determine the short-term trajectory for the altcoin market at large. Ethereum Leads Altcoin Recovery Altcoins have been stuck in a prolonged bear market since 2022, with many tokens still trading well below their all-time highs. Amid this challenging backdrop, Ethereum has emerged as the leader of a potential recovery. Since its April lows, ETH has more than doubled in price, surging over 100% and reclaiming key support levels above $2,500. This sharp rebound suggests that a new bullish phase for Ethereum\u2014and potentially the broader altcoin market\u2014could be in the early stages. However, the optimism is tempered by growing macroeconomic risks. Recent U.S. data has raised concerns about systemic fragility, with rising Treasury yields and persistent inflation fueling uncertainty across risk assets. Investors remain cautious as higher yields could limit liquidity flows into crypto, particularly into speculative altcoins. According to Carl Runefelt, Ethereum\u2019s price structure is approaching a critical point. He highlights that ETH is currently trading within a rising wedge pattern\u2014a bearish formation that often precedes a sharp pullback. Runefelt warns that if Ethereum fails to break decisively above the $2,700 resistance level soon, the price may reject and fall toward lower support, potentially leading to a drastic correction. For now, Ethereum remains range-bound between $2,400 and $2,700. A confirmed breakout above the upper boundary could fuel continued bullish momentum and trigger a broader altcoin rally. But failure to hold current levels, especially with bearish macro pressure building, could signal that the recent gains were a temporary relief rally. Ethereum\u2019s next move will likely define the near-term direction for the entire altcoin sector. Related Reading: Ethereum Wyckoff Accumulation Hints At Explosive Q3 \u2013 $4K Level In Sight ETH Faces Key Resistance Amid Rising Momentum Ethereum is showing strength as it trades at $2,574.70, gaining over 2.2% in the last session. As shown in the 3-day chart, ETH has remained range-bound since early May, fluctuating between the $2,400 support and the $2,700 resistance. The latest move above the 50-day and 100-day simple moving averages (SMAs), currently at $2,226 and $2,644, respectively, signals growing bullish momentum. However, Ethereum still faces a significant challenge near the 200-day SMA, currently sitting at $2,791, right below the critical $2,800 liquidity level. The price has tested this resistance zone multiple times without success, suggesting that a strong breakout above $2,700\u2013$2,800 is needed to initiate an impulsive move higher. Volume remains stable, and ETH\u2019s ability to hold recent gains hints at continued accumulation, but a lack of decisive follow-through could signal buyer exhaustion. Related Reading: No Room For Bears: Bitcoin Bullish MACD, Monthly Close Fuel Bullish Outlook If bulls manage to reclaim $2,800, it would open the door toward $3,000 and confirm a breakout from the multi-month range. On the downside, a failure to hold $2,500 could trigger a drop back toward $2,400 or even $2,200 if broader market conditions deteriorate. For now, ETH remains in a pivotal zone, and its next major move will likely determine broader altcoin momentum. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Chartist Slams Misleading Dogecoin Analysis: \u2018Focus On This Instead\u2019",
       "link": "https://www.newsbtc.com/news/dogecoin/chartist-slams-misleading-dogecoin-analysis/",
@@ -100,11 +105,6 @@
       "title": "XRP Price Strengthens \u2014 Eyes Set on Key Resistance Levels",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-strengthens-2-32/",
       "summary": "XRP price started a decent upward move from the $2.20 zone. The price is now showing positive signs and might aim for a move above the $2.285 resistance. XRP price started a fresh increase above the $2.2320 zone. The price is now trading above $2.2320 and the 100-hourly Simple Moving Average. There is a short-term contracting triangle forming with resistance at $2.280 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could start another increase if it clears the $2.280 zone. XRP Price Faces Resistance XRP price started a fresh increase after it settled above the $2.220 level, like Bitcoin and Ethereum. The price was able to climb above the $2.2320 resistance level. The bulls were able to push the price above the $2.250 level. Moreover, there was a clear move above the 61.8% Fib retracement level of the downward move from the $2.3111 swing high to the $2.197 low. The price is now trading above $2.250 and the 100-hourly Simple Moving Average. On the upside, the price might face resistance near the $2.280 level. There is also a short-term contracting triangle forming with resistance at $2.280 on the hourly chart of the XRP/USD pair. The first major resistance is near the $2.2850 level. It is close to the 76.4% Fib retracement level of the downward move from the $2.3111 swing high to the $2.197 low. The next resistance is $2.320. A clear move above the $2.320 resistance might send the price toward the $2.350 resistance. Any more gains might send the price toward the $2.40 resistance or even $2.420 in the near term. The next major hurdle for the bulls might be $2.50. Another Decline? If XRP fails to clear the $2.2850 resistance zone, it could start another decline. Initial support on the downside is near the $2.260 level. The next major support is near the $2.2320 level. If there is a downside break and a close below the $2.2320 level, the price might continue to decline toward the $2.20 support. The next major support sits near the $2.150 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now above the 50 level. Major Support Levels \u2013 $2.2320 and $2.20. Major Resistance Levels \u2013 $2.2850 and $2.320."
-    },
-    {
-      "title": "Ethereum Price Pushes Higher \u2014 Eyes Set on Next Major Barrier",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-pushes-higher-2600/",
-      "summary": "Ethereum price started a fresh increase above the $2,520 zone. ETH is now back above $2,550 and might soon aim for more gains. Ethereum started a fresh increase above the $2,550 level. The price is trading above $2,565 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2,520 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains supported above the $2,520 zone in the near term. Ethereum Price Eyes More Gains Ethereum price started a fresh increase above the $2,520 zone, like Bitcoin. ETH price gained pace for a move above the $2,550 resistance zone and entered a positive zone. The bulls were able to push the price above the 50% Fib retracement level of the downward move from the $2,636 swing high to the $2,475 low. Besides, there was a break above a key bearish trend line with resistance at $2,520 on the hourly chart of ETH/USD. Ethereum price is now trading above $2,565 and the 100-hourly Simple Moving Average. On the upside, the price could face resistance near the $2,600 level. It is close to the 76.4% Fib retracement level of the downward move from the $2,636 swing high to the $2,475 low. The next key resistance is near the $2,620 level. The first major resistance is near the $2,650 level. A clear move above the $2,650 resistance might send the price toward the $2,720 resistance. An upside break above the $2,720 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,750 resistance zone or even $2,800 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,600 resistance, it could start a fresh decline. Initial support on the downside is near the $2,550 level. The first major support sits near the $2,520 zone. A clear move below the $2,520 support might push the price toward the $2,500 support. Any more losses might send the price toward the $2,420 support level in the near term. The next key support sits at $2,350. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,520 Major Resistance Level \u2013 $2,600"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "$113 mln XRP on the move \u2013 Everything says Ripple may break $2.35, except\u2026",
+      "link": "https://ambcrypto.com/113-mln-xrp-on-the-move-everything-says-ripple-may-break-2-35-except/",
+      "summary": "<img alt=\"$113 mln XRP on the move - Everything says Ripple may break $2.35, except...\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-07T113928.514-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will XRP finally break above its long-standing price resistance?"
+    },
+    {
       "title": "Vitalik backs Ethereum\u2019s gas cap rule \u2013 Right as $4.3B bets pile in from Wall Street!",
       "link": "https://ambcrypto.com/vitalik-backs-ethereums-gas-cap-rule-right-as-4-3b-bets-pile-in-from-wall-street/",
       "summary": "<img alt=\"Vitalik backs Ethereum&#039;s gas cap rule - Right as $4.3B bets pile in from Wall Street!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-12.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A gas cap may sound boring - but it could be Ethereum\u2019s smartest move yet."
@@ -208,11 +213,6 @@
       "title": "Analyzing FLOKI\u2019s momentum shift \u2013 Could a 20% price rally be next?",
       "link": "https://ambcrypto.com/analyzing-flokis-momentum-shift-could-a-20-price-rally-be-next/",
       "summary": "<img alt=\"Analyzing FLOKI&#039;s momentum shift - Could a 20% price rally be next?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/FLOKI-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish structure and momentum on both the 1-day and 4-hour timeframes had some interesting insights for traders."
-    },
-    {
-      "title": "Here\u2019s how Bitcoin is rewriting the rules of money, despite questions over \u2018true adoption\u2019",
-      "link": "https://ambcrypto.com/heres-how-bitcoin-is-rewriting-the-rules-of-money-despite-questions-over-true-adoption/",
-      "summary": "<img alt=\"Here&#039;s how Bitcoin is rewriting the rules of money, despite questions over &#039;true adoption&#039;\" class=\"attachment-full size-full wp-post-image\" height=\"939\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/BTC-still-struggling-to-go-mainstream.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1670\" />What if Bitcoin\u2019s biggest growth driver isn\u2019t crypto, but fiat collapse?"
     }
   ]
 }
