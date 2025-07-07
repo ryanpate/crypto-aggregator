@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Real Estate Firm Murano to Build Bitcoin Treasury With $500M Equity Deal",
+      "link": "https://www.coindesk.com/business/2025/07/07/real-estate-firm-murano-to-build-bitcoin-treasury-with-500m-equity-deal",
+      "summary": ""
+    },
+    {
+      "title": "Solana Matches All Other Chains Combined in Monthly Active Users, Artemis Data Shows",
+      "link": "https://www.coindesk.com/markets/2025/07/07/solana-matches-all-other-chains-combined-in-monthly-active-users-artemis-data-shows",
+      "summary": ""
+    },
+    {
       "title": "Nigerian Scammer Posing as Trump Ally Steve Witkoff Stole 250K in Crypto From One Political Donor",
       "link": "https://www.coindesk.com/policy/2025/07/07/nigerian-scammer-posing-as-trump-ally-steve-witkoff-stole-250k-in-crypto-from-one-political-donor",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "BitFuFu Hits 36.2 EH/s Hashrate, 728 MW Capacity in June",
       "link": "https://www.coindesk.com/markets/2025/07/07/bitfufu-hits-36-2-eh-s-hashrate-728-mw-capacity-in-june",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin Miner CleanSpark Produced 685 BTC in June, Hit 16.15 J/TH in Efficiency",
-      "link": "https://www.coindesk.com/markets/2025/07/07/bitcoin-miner-cleanspark-produced-685-btc-in-june-hit-1615-jth-in-efficiency",
-      "summary": ""
-    },
-    {
-      "title": "TORN Spikes 5% After U.S. Appeals Court Okays End of Another Tornado Cash Lawsuit",
-      "link": "https://www.coindesk.com/policy/2025/07/07/torn-spikes-5-after-u-s-appeals-court-okays-end-of-another-tornado-cash-lawsuit",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Two Ethereum Genesis wallets wake, move $2.9M ETH",
+      "link": "https://cointelegraph.com/news/ethereum-genesis-wallets-wake-move-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U2YjUtNTUyZC03NDNkLWI2NjItZmQ5YWRiODVlYmM4.jpg\" /></p><p>Ether has appreciated nearly 90,000% in the 10 years since the two Ethereum wallets received their coins.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "Casascius bar owner gets less physical, moves BTC to wallet after 13 years",
+      "link": "https://cointelegraph.com/news/casascius-bar-hodling-100-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U1NWEtOWFhMy03ZjlhLTg2ODAtOGFkZjEzOGY4OGEx.jpg\" /></p><p>\"This was more about staying safe than suddenly getting rich,\" said a crypto user who converted a 100-BTC Casascius bar they bought in 2012.</p>"
+    },
     {
       "title": "Bitcoin data points to rally to $120K after pro BTC traders abandon their bearish bets",
       "link": "https://cointelegraph.com/news/bitcoin-data-points-to-rally-to-120k-after-pro-btc-traders-abandon-their-bearish-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "Robinhood\u2019s OpenAI, SpaceX private equity tokens face EU scrutiny",
       "link": "https://cointelegraph.com/news/robinhood-openai-spacex-tokens-eu-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U2NTUtZDFkMi03Nzc1LThkZGItMGRjNTdmZjNiZmM5.jpg\" /></p><p>Robinhood\u2019s OpenAI and SpaceX tokens are controversial, but the fine print indicates that they offer indirect exposure to these companies through derivatives.</p>"
-    },
-    {
-      "title": "CleanSpark mines 685 BTC in June, scales hashrate 145% YoY",
-      "link": "https://cointelegraph.com/news/cleanspark-mines-685-btc-june-scales-hashrate-145-yoy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDJjZTctZDFjNi03MTBhLTg0YmYtNjg5ZDBkNzk1NjQw.jpg\" /></p><p>CleanSpark reached 50 EH/s in operational hashrate in June, increasing its total Bitcoin holdings to 12,608 BTC even with significant monthly sales.</p>"
-    },
-    {
-      "title": "Court ends Coin Center-US Treasury appeal over Tornado Cash",
-      "link": "https://cointelegraph.com/news/coin-center-us-treasury-appeal-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U1ZmItZDM3NC03ODMzLTgwMzEtYTUzNjhiMjY5OGVh.jpg\" /></p><p>The dismissal came days before Tornado Cash developer Roman Storm was scheduled to face charges in US federal court.</p>"
-    },
-    {
-      "title": "Bitcoin futures pivot to long positions: Is $112K the next stop?",
-      "link": "https://cointelegraph.com/news/bitcoin-futures-pivot-to-long-positions-is-dollar112k-the-next-stop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U1YWYtYTMyNS03YTNkLTgxYzYtYzEyMTE3Zjk1MDQz.jpg\" /></p><p>Bitcoin futures show rising long-side buy pressure as open interest surges.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin remains stuck in $100k-$110k band as retail and whales enter potential standoff",
+      "link": "https://cryptoslate.com/bitcoin-remains-stuck-in-100k-110k-band-as-retail-and-whales-enter-potential-standoff/",
+      "summary": "<p>Bitcoin (BTC) continued to trade between $100,000 and $110,500 for a second consecutive week as smaller investors replaced whales on the buy side, Bitfinex Alpha reported on July 7. The report noted that BTC spent most of July so far within a 10% channel, capped by the January high of $109,590 and floored near the [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Ethereum co-founder Vitalik Buterin advocates copyleft to counter tech monopolies",
+      "link": "https://cryptoslate.com/ethereum-co-founder-vitalik-buterin-advocates-copyleft-to-counter-tech-monopolies/",
+      "summary": "<p>Ethereum co-founder Vitalik Buterin said he is rethinking his long-held preference for permissive software licenses, advocating for broader use of &#8220;copyleft&#8221; frameworks as open source enters what he described as a more competitive and concentrated era. In a blog post published on July 7, Buterin explained that permissive licenses such as MIT or CC0 have [&#8230;]</p> <p>"
+    },
     {
       "title": "Bit Digital converts entire 280 BTC reserve to $172M worth of Ethereum",
       "link": "https://cryptoslate.com/bit-digital-converts-entire-280-btc-reserve-to-172m-worth-of-ethereum/",
@@ -68,19 +78,14 @@
       "title": "Ton Foundation clarifies misleading announcement regarding UAE golden visa",
       "link": "https://cryptoslate.com/ton-foundation-clarifies-misleading-announcement-regarding-uae-golden-visa/",
       "summary": "<p>The TON Foundation has denied claims that it has launched an official UAE Golden Visa initiative, clarifying that no formal partnership exists between the blockchain project and the UAE government. The clarification follows widespread social media reports suggesting that digital asset investors could gain UAE residency through staking TON tokens. Over the weekend, TON promotions [&#8230;]</p> <p>"
-    },
-    {
-      "title": "US Court vacates Tornado Cash sanctions ruling, orders Florida case dismissal",
-      "link": "https://cryptoslate.com/us-court-vacates-tornado-cash-sanctions-ruling-orders-florida-case-dismissal/",
-      "summary": "<p>The Eleventh Circuit Court of Appeals on July 3 vacated the Northern District of Florida\u2019s 2023 order upholding the Treasury\u2019s sanctions against Tornado Cash and instructed the lower court to dismiss the case. The one-page mandate ends the Coin Center v. Yellen appeal, the only remaining case over OFAC\u2019s August 2022 designation of the Ethereum-based [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Strategy adds $21B in Bitcoin value during Q2 but faces $4B tax hit",
-      "link": "https://cryptoslate.com/strategy-adds-21b-in-bitcoin-value-during-q2-but-faces-4b-tax-hit/",
-      "summary": "<p>Strategy, the largest corporate holder of Bitcoin, expanded its digital asset portfolio by $21 billion in the second quarter of 2025, driven largely by BTC&#8217;s sharp price increase. According to the Michael Saylor-led firm, Bitcoin surged from $82,445 to $107,752 between April and June, pushing its unrealized gains on its BTC holdings to $14.05 billion. [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Shiba Inu Price Could See 180% Explosion As This Indicator Flashes Bullish Divergence",
+      "link": "https://www.newsbtc.com/shiba-inu/shiba-inu-could-see-180-explosion/",
+      "summary": "Crypto analyst Javon Marks has provided a bullish outlook for the Shiba Inu price, predicting a potential rally of 180%. The analyst alluded to an indicator that suggests that SHIB can record this explosive rally, reclaiming the psychological $0.00002 level in the process. Shiba Inu Price Eyes 180% Rally As MACD Forms Bullish Divergence In an X post, Javon Marks stated that the Shiba Inu price has formed a clear Bullish Divergence with its Moving Average Convergence Divergence (MACD). He further remarked that this points to a nearly 180% upside for SHIB to rally to $0.000032. Marks added that this may only be the start of a much larger positive reversal for the meme coin. Related Reading: 65% Of Shiba Inu Holders Suffer Massive Losses As Curse Of June Takes Hold His accompanying chart showed that the Shiba Inu price could hit this target between now and year-end. This provides a bullish outlook for the meme coin, which has greatly underperformed this year. SHIB has recorded a 45% loss year-to-date (YTD). Meanwhile, the coin is also down over 8% in the last 30 days. This represents a change of fortune for the meme coin, which recorded a gain of around 150% in 2024. However, based on Javon Marks\u2019 analysis, the Shiba Inu price could still end this year in the green if it records this projected 180% rally. SHIB could also reclaim one of the top 10 spots in the ranking of cryptocurrencies by market cap. Fundamentals like the SHIB burns and network activity could spark this momentum for the Shiba Inu price. In an X post, a SHIB community member revealed that the meme coin has just shattered another record. Over 1.5 million on-chain wallets now hold the meme coin, with the number still rising. However, the SHIB burns will need to pick up as they remain unstable. Shibburn data shows that the daily burns have crashed by over 82%, with 1.5 million SHIB burned in the last 24 hours. The burn rate is also down around 11% in the last seven days, with 48 million SHIB burned during this period. SHIB Can Rally As Much As 600% Javon Marks is still confident that the Shiba Inu price can rally as much as 600% in the long term. He recently stated that the $0.000081 target for SHIB remains unchanged and that sights are still on an over 609% uphill run to reach it in response to a massive holding breakout of the displayed resisting trend. Related Reading: Can The Shiba Inu Developer Push SHIB Price To $0.01? Expert Responds The analyst remarked that due to"
+    },
     {
       "title": "Bitcoin\u2019s Liquidity Lifeline Just Got Cut\u2014What You Need To Know",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-liquidity-lifeline-just-got-cut/",
@@ -100,14 +105,14 @@
       "title": "Ethereum Breaks Higher With Conviction: No Signs Of A Breakdown Yet",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-breaks-higher/",
       "summary": "Bankr, in a recent update, pointed out that Ethereum is maintaining its upward momentum, backed by solid volume and a more favorable news environment. Although brief spikes in volatility may arise from macroeconomic events, Bankr believes the broader trend remains intact, as long as $2,510 holds. Ethereum Three-Day Price Trend Action Analyzing price action over the last 72 hours, Bankr noted a gently rising three-day trend. ETH started near $2,535, spiked to $2,598, and is now holding around $2,571 \u2014 a gain of roughly +1.5% for the period. The strongest push came Sunday night when ETH jumped $50 in one hour on the heaviest volume of the week. Related Reading: Ethereum Price Gathers Strength \u2014 Bulls Prepare for Upside Extension Since then, the price has been consolidating in a tight $2,565\u2013$2,585 range. On the candle side, higher lows are visible at $2,506, $2,512, $2,540, and $2,560, which shows buyers are stepping in a little earlier on each dip. Examining simple indicators, Bankr noted that the 20-hour moving average is approximately $2,565, with the price sitting just above it \u2014 a mildly positive sign. The 50-hour moving average is around $2,538 and still shows a sloping upward trend bias, while candles stay above $2,540. For momentum, a quick RSI-style check shows ETH touched overbought during the $2,598 spike, then cooled to neutral (50\u201355), which leaves room for another leg higher. As for key levels, Bankr outlined support at $2,550 (recent pivot), $2,510 (volume shelf), and $2,480 (weekly floor). On the resistance side, levels to watch include $2,590\u2013$2,600 (last high) and $2,625 (March swing high). News Impact And Game Plan While Ethereum surges, a stronger-than-expected US jobs report typically acts as a headwind, since it implies the Fed will likely stay on hold. However, Bankr noted that crypto appears to be shrugging it off, thanks to a solid risk appetite that&#8217;s keeping momentum intact despite the macro pressure. Related Reading: Ethereum Indecision Masks A Bullish Setup \u2013 Here\u2019s Why BTC Holds The Key On the political front, Bankr highlighted that next week\u2019s US \u201cCrypto Week\u201d in Congress, combined with the administration\u2019s pro-crypto stance, is lifting sentiment. Traders are now positioning ahead of potential developments, including clearer regulatory direction and ETH-related ETF chatter, both of which are helping boost confidence. In terms of sector dynamics, Bankr pointed to ongoing institutional accumulation from players like Metaplanet. Additionally, Bankr mentioned the recent USDC burn, which reflects responsible supply management and supports a more constructive backdrop for Ethereum. Outlining a flexible approach, Bankr points to the accumulation of dips, placing laddered limit buys at $2,555, $2,535, and $2,505 in case of a sharp shakeout. For a breakout trade, if ETH closes an hourly candle above $2,600, look to enter or add with a short-term target at $2,625\u2013$2,650, and place a stop just under $2,580. As a protective exit, if ETH drifts below $2,510 on rising volume, momentum likely shifts, cutting exposure or using a stop around $2,495 can help limit drawdowns. For profit-taking, Bankr suggests trimming partial positions at $2,590 and again near $2,625, while leaving a runner in case a summer rally extends toward $2,700. Featured image from iStock, chart from Tradingview.com"
-    },
-    {
-      "title": "$400M Crypto Seizure by Secret Service Highlights Why Cold Storage and Best Wallet Are Essential",
-      "link": "https://www.newsbtc.com/news/400m-crypto-seizure-by-secret-service-highlights-why-cold-storage-and-best-wallet-are-essential/",
-      "summary": "The U.S. Secret Service has now seized over $400M in digital assets, all of which are stored in a single cold wallet, making it one of the largest cold wallet crypto stashes around. It\u2019s worth noting that these assets have been recovered over a period of 10 years by tracking and neutralizing online cryptocurrency scams. Global crypto scams totaled around $16.6B in 2024 alone, with Americans losing a chunky $9.3B. Out of this, older adults were hit the hardest, losing nearly $2.8B. Read on as we dig into how these scams are executed and how the Secret Service works to neutralize them. We\u2019ll also explain why using a secure, non-custodial crypto wallet like Best Wallet (powered by $BEST) is absolutely critical to keeping your crypto safe. How Are Cryptocurrency Scams Neutralized? Jamie Lam, an investigative analyst with the U.S. Secret Service, shed light on how these scams operate and how they neutralize them. In one instance, scammers used photos of attractive individuals to lure unsuspecting investors into seemingly legitimate cryptocurrency websites, often complete with sleek design and dedicated support teams to build trust. Initial deposits would yield small profits, which encouraged the victims to keep investing. Eventually, the platform would stop working, and the account balance would disappear into thin air. Jamie\u2019s team traced the fake investment site\u2019s domain using open source tools to uncover details like registration time and ownership. When they tracked the domain purchase, it led them to a crypto wallet, and a brief VPN failure finally helped expose the scammer\u2019s IP address. A large part of these takedowns also depends on cooperation from industry players like Tether and Coinbase. In fact, Tether helped the Secret Service recover $225M worth of $USDT in what was one of the largest crypto scam busts to date. All of this underscores the importance of using a secure crypto storage solution like Best Wallet. By giving you total control of your assets and keeping them safe from phishing and fraud, Best Wallet ensures you don\u2019t fall prey to a crypto hack. What is Best Wallet? As mentioned above, Best Wallet is a free crypto wallet that&#8217;s completely self-custodial. This simply means that you and only you will have access to your wallet\u2019s private keys, ensuring that no third party, not even Best Wallet&#8217;s employees, can access your wallet or the funds therein. Along with this, Best Wallet also comes with excellent 2FA/MFA options, allowing you to set up a second one-time password for access to your account. Here, you have the option to use biometric authentication, which is one of the safest and most sought-after 2FA measures. What&#8217;s more, Best Wallet leverages advanced cryptographic technology to protect you and your stored crypto against theft, hacks, and other malicious crypto attacks, including scams and phishing attempts. Even better, Best Wallet employees verify every token before making it available on their platform, safeguarding you from investing your hard-earned money into scam tokens. That&#8217;s not all, though, as Best Wallet has some exciting upgrades in store. It&#8217;ll soon roll out advanced anti-fraud protection and defenses against sophisticated MEV (Miner Extractable Value) attacks. More Than Just Security: Best Wallet Supercharges Meme Coin Access and Trading One of the most unique features of Best Wallet is that it allows you to buy new meme coins on presale directly from within the app. Usually, even the best crypto wallets will require you to connect to a presale&#8217;s website and complete your purchase from there. However, Best Wallet&#8217;s \u2018Upcoming\u2019 section redefines what simplicity means in the meme coin space by allowing users to buy new meme coins without ever having to leave the app. Furthermore, Best Wallet also plans on offering a full-fledged crypto trading terminal, with limit buy/sell orders, stop-losses, and even dollar cost averaging (DCA). Buy $BEST and Join Best Wallet&#8217;s Success Story With a streamlined approach to meme coin purchases, intuitive mobile-first design, and top-notch security, Best Wallet has everything it needs to achieve its goal of capturing over 40% of the non-custodial crypto wallet market by 2027. You can ride this success story by buying Best Wallet Token ($BEST), the project&#8217;s native cryptocurrency. It&#8217;s currently in presale, with over $13.7M already raised, and each token available at a low price of $0.025295. According to our $BEST price prediction, the token can surge around 180% and reach $0.07 by 2030, offering early buyers a chunky return on their investment. Most importantly, $BEST holders get to unlock a slew of ecosystem benefits. These include reduced trading and gas fees, governance rights, staking rewards (currently yielding 100%), and early access to new meme coin launches. To learn more about Best Wallet, check out its official whitepaper. And for all of the latest updates, follow it on X and join its Telegram channel. Disclaimer: The crypto market is highly volatile and guarantees no returns. This article is not financial advice, and we strongly recommend that you do your own research before investing."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "CleanSpark Announces Mining 685 Bitcoin Worth Over $74 Million In June",
+      "link": "https://bitcoinmagazine.com/news/cleanspark-announces-mining-685-bitcoin-worth-over-74-million-in-june",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/CleanSpark-Announces-Bitcoin-Mining-Results-From-June-2025.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/cleanspark-announces-mining-685-bitcoin-worth-over-74-million-in-june\" rel=\"nofollow\"> </a></p> <p>CleanSpark mined 685 bitcoin in June, sold 578 BTC for over $61 million, and became the first miner to reach 50 EH/s using fully self-operated infrastructure.</p> <p>"
+    },
     {
       "title": "Nakiki SE to Become First German Public Company With \u2018Pure\u2019 Bitcoin Treasury Strategy",
       "link": "https://bitcoinmagazine.com/news/nakiki-se-to-become-first-german-public-company-with-pure-bitcoin-treasury-strategy",
@@ -127,14 +132,24 @@
       "title": "Canadian Company LQWD Technologies Acquires More Bitcoin to Its Treasury",
       "link": "https://bitcoinmagazine.com/news/canadian-company-lqwd-technologies-acquires-more-bitcoin-to-its-treasury",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Canadian-Company-LQWD-Technologies-Acquires-More-Bitcoin-to-Its-Treasury.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/canadian-company-lqwd-technologies-acquires-more-bitcoin-to-its-treasury\" rel=\"nofollow\"> </a></p> <p>The Canadian Bitcoin firm now holds 181 Bitcoin with a 10 Bitcoin purchase.</p> <p>"
-    },
-    {
-      "title": "Strategy Announces $4.2 Billion STRD Stock Offering To Buy More Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/strategy-announces-4-2-billion-strd-stock-offering-to-buy-more-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/02/Michael-Saylor-Signals-Strategys-Next-Bitcoin-Buy.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/strategy-announces-4-2-billion-strd-stock-offering-to-buy-more-bitcoin\" rel=\"nofollow\"> </a></p> <p>Strategy has announced plans to raise up to $4.2 billion through sales of its 10.00% Series A Perpetual Stride Preferred Stock (STRD) to fund additional Bitcoin purchases, marking another major capital raise as institutional Bitcoin adoption accelerates. According to a company filing on July 7, the at-the-market (ATM) program will allow Strategy to sell STRD [&#8230;]</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Rescue Drones Deployed Amid Texas, North Carolina Floods\u2014But Hobbyists Are Grounded",
+      "link": "https://decrypt.co/328977/rescue-drones-deployed-texas-nc-flood-chaos-hobbyists-grounded",
+      "summary": "With emergency crews relying on drones to save lives in flooded areas of Texas and the Carolinas, authorities are imposing no-fly zones to keep out amateur pilots."
+    },
+    {
+      "title": "Solana Meme Coin Launchpad Pump.Fun's $600 Million Token Sale Teased, Then Pulled",
+      "link": "https://decrypt.co/328988/solana-meme-coin-launchpad-pump-funs-600-million-token-sale-teased-then-pulled",
+      "summary": "Is Pump.fun finally launching its own token? Crypto exchange Gate said yes on Monday, but then apparently removed the page."
+    },
+    {
+      "title": "Ethereum OG Moves $2.2 Million in 'Genesis Coins' After 10 Years HODLing",
+      "link": "https://decrypt.co/328983/ethereum-og-moves-2-2-million-in-genesis-coins-after-10-years-hodling",
+      "summary": "The address received the coins when ETH was worth less than 50 cents."
+    },
     {
       "title": "Trump Is Making Bank on Crypto: Do Voters Care?",
       "link": "https://decrypt.co/328946/trump-making-bank-crypto-do-voters-care",
@@ -144,21 +159,6 @@
       "title": "Moon or Doom: Will Bitcoin Stay Above $100K in July?",
       "link": "https://decrypt.co/328917/bitcoin-price-100k-july-myriad-predictions",
       "summary": "Can Bitcoin hold $100K? Prediction market users on Myriad are bullish on the odds, but the charts suggest it might be a close call."
-    },
-    {
-      "title": "'Off the Grid' GUN Token Expanding From Avalanche to Solana\u2014Here's Why",
-      "link": "https://decrypt.co/328907/off-grid-gun-token-expanding-avalanche-solana",
-      "summary": "After first launching on Avalanche, the GUN token from shooter game Off the Grid is now coming to Solana\u2014and maybe more chains ahead."
-    },
-    {
-      "title": "Bitcoin Buying Sprees Accelerate as Metaplanet, Semler Stack More BTC",
-      "link": "https://decrypt.co/328908/bitcoin-buying-sprees-accelerate-metaplanet-semler-stack-more-btc",
-      "summary": "A pair of Bitcoin treasury firms added to their stash on Monday."
-    },
-    {
-      "title": "Treasury Department Drops Case Over Ethereum Mixer Tornado Cash",
-      "link": "https://decrypt.co/328898/treasury-dept-drops-case-ethereum-mixer-tornado-cash",
-      "summary": "Months after dropping sanctions against Ethereum coin mixer Tornado Cash, the U.S. Treasury has agreed to end a related legal battle."
     }
   ],
   "CryptoBriefing": [
