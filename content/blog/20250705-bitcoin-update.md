@@ -1,5 +1,5 @@
 ---
-title: "Midweek Market Pulse: Crypto Vibes and Global Ripples"
+title: "Understanding Bitcoin: The Future of Digital Currency"
 date: 2025-07-06T09:00:00-05:00
 draft: false
 author: "Ryan Pate"
