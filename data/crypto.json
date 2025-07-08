@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "FLOKI Explodes 12% on Massive Volume, Potentially Signalling Bullish Momentum",
+      "link": "https://www.coindesk.com/markets/2025/07/08/floki-explodes-12-on-massive-volume-potentially-signalling-bullish-momentum",
+      "summary": ""
+    },
+    {
+      "title": "ICP Maintains Bullish Structure Setting $4.72 as a Foundation for Next Move Higher",
+      "link": "https://www.coindesk.com/markets/2025/07/08/icp-maintains-bullish-structure-setting-472-as-a-foundation-for-next-move-higher",
+      "summary": ""
+    },
+    {
       "title": "BioSig, Streamex to Raise $1.1B for Gold Tokenization Initiative on Solana",
       "link": "https://www.coindesk.com/business/2025/07/08/biosig-streamex-to-raise-11b-for-gold-tokenization-initiative-on-solana",
       "summary": ""
@@ -14,46 +24,41 @@
       "title": "BTC-Only VC Ego Death Capital Closes $100M Fund for Projects Building on Bitcoin",
       "link": "https://www.coindesk.com/business/2025/07/08/btc-only-vc-ego-death-capital-closes-100m-fund-for-projects-building-on-bitcoin",
       "summary": ""
-    },
-    {
-      "title": "NEAR Surges 3% After Testing Key Support at $2.13",
-      "link": "https://www.coindesk.com/markets/2025/07/08/near-surges-3-after-testing-key-support-at-usd2-13",
-      "summary": ""
-    },
-    {
-      "title": "Sequans Shares Jump 35% After $384M Debt-Equity Raise to Fund Bitcoin Treasury",
-      "link": "https://www.coindesk.com/business/2025/07/08/sequans-shares-jump-35-after-384m-debt-equity-raise-to-fund-bitcoin-treasury",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Digital asset company ReserveOne to go public via merger, create crypto reserve",
+      "link": "https://cointelegraph.com/news/reserveone-go-public-merger-crypto-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhZjQtYjlmNy03YWQ4LTljY2EtMWM4OTk5MzdiOWI3.jpg\" /></p><p>RerserveOne is headed by Jaime Leverton, who has been involved with Bitcoin mining companies Hut 8 and Riot Platforms.</p>"
+    },
+    {
+      "title": "Bitcoin news update: BTC range tightening hints at price break to new highs",
+      "link": "https://cointelegraph.com/news/bitcoin-news-update-btc-range-tightening-hints-at-price-break-to-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBiMWQtYjNjMC03ZTc4LTkzZmYtMzZlZmVlZTY4MmFk.jpg\" /></p><p>Bitcoin\u2019s trading range tightens as bulls buy minor corrections while pushing BTC\u2019s average daily trading price higher.</p>"
+    },
+    {
+      "title": "Japanese company moves to align CEO with Bitcoin strategy, full salary goes to BTC",
+      "link": "https://cointelegraph.com/news/japan-remixpoint-ceo-salary-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhNjctYWI4NS03NTAzLWI1M2YtM2QzNWRjNTQ1YmU3.jpg\" /></p><p>The CEO, who was just appointed in June, is also listed among the management of Japan-based crypto exchange BITPoint.</p>"
+    },
+    {
+      "title": "CoreWeave\u2019s Core Scientific acquisition sparks analyst doubts as stock dips",
+      "link": "https://cointelegraph.com/news/coreweave-core-scientific-9b-acquisition-analyst-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjEwNWYtMWZkMS03YWFmLTlkMDQtYjRhYTY0YTcwNWMw.jpg\" /></p><p>CoreWeave agreed to purchase Core Scientific in an all-stock deal valued at $9 billion.</p>"
+    },
+    {
       "title": "Bitcoin price gained 72% and 84% the last two times BTC holders did this",
       "link": "https://cointelegraph.com/news/bitcoin-price-rallied-72-84-the-last-two-times-btc-hodlers-did-this?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhODYtNWFkYy03NmJkLTg2NWQtZjY2OWQ5MjU1N2Nm.jpg\" /></p><p>Bitcoin's long-term investors now hold 80% of all BTC in circulation, which could trigger the next leg higher into price discovery, if history repeats.</p>"
-    },
-    {
-      "title": "Ego Death Capital raises $100M to finance Bitcoin-focused startups",
-      "link": "https://cointelegraph.com/news/ego-death-capital-raises-100m-to-finance-bitcoin-focused-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZDgtNDUyYS03NTcwLThlMzItZDQ3OTg4YWNjZDE2.jpg\" /></p><p>The venture fund has already invested in Bitcoin-focused exchanges, savings platforms and payment solutions.</p>"
-    },
-    {
-      "title": "Which countries secretly own the most Bitcoin \u2014 beyond the US and China",
-      "link": "https://cointelegraph.com/explained/which-countries-secretly-own-the-most-bitcoin-beyond-the-us-and-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTg5OTU5OTY3YWJjNWIzNzBmZTQ4ZGZiNGEzNzU2OS5qcGc=.jpg\" /></p><p>In 2025, governments hold over 463,000 BTC, with the US and China leading, while countries like Bhutan, Iran and the UK quietly build strategic reserves.</p>"
-    },
-    {
-      "title": "Ethereum &#039;mega whales&#039; are stacking harder than pre-95% rally in 2002",
-      "link": "https://cointelegraph.com/news/ethereum-mega-whales-stacking-harder-than-pre-95-percent-rally-2002?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg\" /></p><p>Ethereum is eyeing a breakout toward $3,400 as it consolidates within a bull pennant, echoing classic continuation patterns from past rallies.</p>"
-    },
-    {
-      "title": "Blockchain restores women\u2019s power in AI",
-      "link": "https://cointelegraph.com/news/blockchain-women-s-power-in-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhjYWUtZGI0OS03YjNmLTk3M2UtNmM0MzFmMzQ3YTBl.jpg\" /></p><p>As AI threatens to deepen gender disparities in the workforce, blockchain technology can be a powerful tool to empower women to reclaim their rightful place in the digital future.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Tether holds $8 billion worth of gold in Swiss vault, matching UBS exposure",
+      "link": "https://cryptoslate.com/tether-holds-8-billion-worth-of-gold-in-swiss-vault-matching-ubs-exposure/",
+      "summary": "<p>Tether CEO Paolo Ardoino revealed that the firm holds roughly $8 billion in gold in a Swiss vault during an interview with Bloomberg News on July 7. Ardoino called the site &#8220;the most secure vault in the world&#8221; and said the company owns almost the entire 80-ton stockpile outright, placing the El Salvador-based issuer among [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin ETFs now drive over 30% of spot BTC volume as overall trading slumps",
       "link": "https://cryptoslate.com/insights/bitcoin-etfs-now-drive-over-30-of-spot-btc-volume-as-overall-trading-slumps/",
@@ -73,11 +78,6 @@
       "title": "BlackRock\u2019s IBIT Bitcoin ETF could surpass Satoshi Nakamoto\u2019s holdings by May 2026",
       "link": "https://cryptoslate.com/insights/blackrocks-ibit-bitcoin-etf-could-surpass-satoshi-nakamotos-holdings-by-may-2026/",
       "summary": "<p>BlackRock&#8217;s IBIT Spot Bitcoin ETF has officially crossed 700,000 BTC in assets under management, valued at approximately $76 billion as of July 17. The milestone comes just 18 months after the fund&#8217;s launch in January 2024, marking a rapid accumulation pace that has drawn industry-wide attention. Bloomberg Senior ETF Analyst Eric Balchunas highlighted the achievement [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Truth Social files for ETF holding BTC, ETH, SOL, XRP and CRO",
-      "link": "https://cryptoslate.com/truth-social-files-for-etf-holding-btc-eth-sol-xrp-cro/",
-      "summary": "<p>Truth Social, the media platform affiliated with US President Donald Trump, has submitted a new application to the US Securities and Exchange Commission (SEC) for a spot crypto exchange-traded fund (ETF). The proposed vehicle, titled the Truth Social Crypto Blue Chip ETF, aims to provide direct exposure to a basket of leading digital assets, including [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -107,34 +107,13 @@
       "summary": "XRP is showing mixed signals across timeframes, leaving traders on edge as the price approaches the key $2.35 level. While a recent breakout from a falling wedge on the 3-day chart suggests a bullish reversal, the 4-hour chart reveals signs of slowing momentum and a possible rising wedge. With buyers and sellers locked in a battle, $2.35 could be the tipping point that decides whether XRP surges higher or slips into a near-term correction. XRP Breaks Out Of Falling Wedge On 3-Day Chart In an X post, LSplayQ highlighted a key technical development on the XRP 3-day price chart, pointing to a breakout from a falling wedge pattern. This type of pattern is commonly associated with bullish reversals, signaling that market sentiment may be shifting in favor of the bulls. Related Reading: XRP Silent Accumulation: A Falling Wedge On The Verge Of Explosion Following the breakout, XRP is currently trading around $2.26, and according to LSplayQ, the move suggests that buyers are stepping back in to reclaim control. The price action marks a significant shift after an extended period of downward compression within the wedge. If the bullish momentum continues, LSplayQ notes that XRP could target a breakout level near $2.72, which represents an upside potential of roughly 20% from the current price. That said, LSplayQ also warns of the risk of a pullback if XRP fails to hold above the wedge breakout level. In such a scenario, the price could retest the $2.10 zone as a potential support. Overall, the technical outlook leans bullish, as long as XRP maintains its position above the breakout level. Rising Wedge Pattern Signals Caution Ahead In a post on X, The Crypto Bushman pointed out that XRP is pushing higher on the 4-hour chart, but warned that seasoned traders are keeping a close eye on what lies beneath the surface. Related Reading: XRP Price Pops and Drops \u2014 Can Bulls Regain Control? According to the analyst, the price is currently trading above both the 20- and 50-day EMAs, which typically signals short-term strength. However, the overall structure appears to be forming a rising wedge, a pattern often linked to potential reversals. At the same time, momentum is beginning to fade, with the MACD flattening and volume tapering off, which Bushman describes as classic signs of a potential trap move. The Crypto Bushman emphasized that a failure to break cleanly above $2.35 could lead to the setup rolling over. In that case, the $2.25 zone becomes a critical level to watch for a possible breakdown and shift in sentiment. On the flip side, a strong breakout backed by volume could fuel another leg up toward $2.50 if buying pressure returns decisively. Featured image from Getty Images, chart from Tradingview.com"
     }
   ],
-  "Bitcoin Magazine": [
-    {
-      "title": "Bow Valley Credit Union in Canada turns on Bitcoin purchases for Albertans",
-      "link": "https://bitcoinmagazine.com/news/bow-valley-credit-union-in-canada-turns-on-bitcoin-purchases-for-albertans",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Leonardo_Phoenix_10_an_orange_bull_running_through_an_Alberta_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bow-valley-credit-union-in-canada-turns-on-bitcoin-purchases-for-albertans\" rel=\"nofollow\"> </a></p> <p>BVCU\u2019s Bitcoin Gateway, with Balance Custody and Bull Bitcoin API, simplifies buying bitcoin. \u201cFacilitates institutional adoption,\u201d says Francis Pouliot. </p> <p>"
-    },
-    {
-      "title": "KULR Secures $20M Bitcoin-Backed Credit Facility from Coinbase Credit",
-      "link": "https://bitcoinmagazine.com/news/kulr-secures-20m-bitcoin-backed-credit-facility-from-coinbase-credit",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/KULR-Secures-20M-Bitcoin-Backed-Credit-Facility-from-Coinbase-Credit.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-secures-20m-bitcoin-backed-credit-facility-from-coinbase-credit\" rel=\"nofollow\"> </a></p> <p>The deal sets up a multi-draw loan facility worth up to $20 million to expand its Bitcoin holdings.</p> <p>"
-    },
-    {
-      "title": "Sequans Closes $384 Million Investment To Launch Bitcoin Treasury Initiative",
-      "link": "https://bitcoinmagazine.com/news/sequans-closes-384-million-investment-to-launch-bitcoin-treasury-initiative",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Sequans-Closes-384-Million-Investment-To-Launch-Bitcoin-Treasury-Initiative.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/sequans-closes-384-million-investment-to-launch-bitcoin-treasury-initiative\" rel=\"nofollow\"> </a></p> <p>Sequans Communications, a fabless semiconductor company focusing on 5G/4G IoT semiconductor technology, has officially closed a $384 million strategic investment to kick off its Bitcoin treasury initiative. The deal combines $195 million in equity financing and $189 million in secured convertible debentures, reflecting growing institutional appetite for Bitcoin. The Offering included the sale of over [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Metaplanet Enters \u2018Bitcoin Gold Rush\u2019 with Plans to Buy 210,000 BTC by 2027",
-      "link": "https://bitcoinmagazine.com/news/metaplanet-enters-bitcoin-gold-rush-with-plans-to-buy-210000-btc-by-2027",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Metaplanet-Enters-Bitcoin-Gold-Rush-with-Plans-to-Buy-210000-BTC-by-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/metaplanet-enters-bitcoin-gold-rush-with-plans-to-buy-210000-btc-by-2027\" rel=\"nofollow\">Metaplanet Enters &#8216;Bitcoin Gold Rush&#8217; with Plans to Buy 210,000 BTC by 2027</a></p> <p>Japan\u2019s top bitcoin treasury firm aims to grow its holdings to 210,000 BTC by 2027 and wants to use its growing reserves to buy cash-generating businesses.</p> <p>"
-    },
-    {
-      "title": "Ego Death Capital Closes $100 Million Raise to Scale Bitcoin Companies",
-      "link": "https://bitcoinmagazine.com/news/ego-death-capital-closes-100-million-raise-to-scale-bitcoin-companies",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/EGO-DEATH-CAPITAL.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/ego-death-capital-closes-100-million-raise-to-scale-bitcoin-companies\" rel=\"nofollow\"> </a></p> <p>Ego Death Capital has closed its second fund, totaling $100 million, to invest exclusively in software companies building businesses on the Bitcoin protocol. The firm is positioning itself as a lead Series A investor in an ecosystem where scalable, Bitcoin-native firms are beginning to achieve positive cash flow. &#8220;We&#8217;re in Bitcoin, investing in true companies [&#8230;]</p> <p>"
-    }
-  ],
+  "Bitcoin Magazine": [],
   "Decrypt": [
+    {
+      "title": "AMERICA INVEST ACT, CORP TREASURY STOCKS & PUMP FUN",
+      "link": "https://decrypt.co/videos/interviews/cM75emeO/america-invest-act-corp-treasury-stocks-pump-fun",
+      "summary": "Crypto dips on tariff letters, then recovers. ETH outperforms, altcoins weak after PumpFun news. PumpFun plans $600m token sale, $4b valuation. Trump admin to publish crypto report on July 22. US government deposits $218k ETH to Coinbase. Robinhood speaking to US on tokenised shares. Truth Social files for Blue Chip crypto ETF. US drops appeal in Tornado Cash lawsuit. Strategy to raise $4.2b equity to buy BTC. Semler Scientific buys $20m BTC. Bit Digital pivots to ETH treasury, stock pumps. Tokenized assets on ETH hit $5b. Metaplanet to use BTC as collateral for M&amp;A. XRP CEO to testify before senate on legislation. SEC asks firms to amend SOL ETF applications. HK crypto stocks soar on stablecoin momentum. BBVA opens BTC, ETH trading for Spanish retail. El Salvador bought $800k BTC last week"
+    },
     {
       "title": "Trump Media Files for 'Crypto Blue Chip' ETF Holding Bitcoin, Ethereum, Solana and XRP",
       "link": "https://decrypt.co/329081/trump-media-files-blue-chip-etf-bitcoin-ethereum-solana-xrp",
@@ -154,14 +133,14 @@
       "title": "Bitcoin Volatility Hovers Near Historical Low, but 'Beware the Quiet,' Analysts Warn",
       "link": "https://decrypt.co/329046/bitcoin-volatility-hovers-near-historical-low-but-beware-the-quiet-analysts-warn",
       "summary": "The QCP Capital analysts warned that Q3-Q4 could bring \"fireworks\" as ETF inflows create a supply squeeze."
-    },
-    {
-      "title": "Robinhood CEO Wants 'Thousands' of Private Companies Tokenized on Platform",
-      "link": "https://decrypt.co/329075/robinhood-ceo-thousands-private-companies-tokenized",
-      "summary": "OpenAI denounced Robinhood\u2019s offering of its private stock as a crypto token, but the trading app wants to add thousands more to its roster."
     }
   ],
   "CryptoBriefing": [
+    {
+      "title": "Phantom introduces in-wallet perps trading powered by Hyperliquid",
+      "link": "https://cryptobriefing.com/in-wallet-perps-trading-phantom/",
+      "summary": "<p>Phantom's integration of perpetual futures trading could significantly enhance user engagement and broaden crypto market accessibility.</p> <p>"
+    },
     {
       "title": "ProShares\u2019 XRP futures ETF listed on DTCC under ticker UXRP",
       "link": "https://cryptobriefing.com/proshares-xrp-etf-dtcc-listing/",
@@ -181,11 +160,6 @@
       "title": "Trump\u2019s Truth Social files S-1 for Crypto Blue Chip ETF holding BTC, ETH, XRP, SOL, and CRO",
       "link": "https://cryptobriefing.com/crypto-blue-chip-etf-launch/",
       "summary": "<p>The launch of a crypto ETF by Truth Social could significantly influence mainstream adoption and regulatory perspectives on digital assets.</p> <p>"
-    },
-    {
-      "title": "Government-backed Sequans secures $384M to kick off Bitcoin treasury initiative, stock jumps 60% pre-market",
-      "link": "https://cryptobriefing.com/sequans-bitcoin-treasury-initiative/",
-      "summary": "<p>Sequans' Bitcoin initiative may boost its financial resilience and shareholder value, potentially influencing other tech firms to explore crypto.</p> <p>"
     }
   ],
   "AMBcrypto": [
