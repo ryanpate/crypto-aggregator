@@ -1,32 +1,47 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Gains 3.8% as Index Inches Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/07/08/coindesk-20-performance-update-uniswap-uni-gains-3-8-as-index-inches-higher",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Treasury Firm ReserveOne Going Public in $1B SPAC Deal",
+      "link": "https://www.coindesk.com/business/2025/07/08/crypto-treasury-firm-reserveone-going-public-in-1b-spac-deal",
+      "summary": ""
+    },
+    {
+      "title": "Japan's Surging 30-Year Yield Is Flashing Warning Sign for Risk Assets: Macro Markets",
+      "link": "https://www.coindesk.com/markets/2025/07/08/japan-s-30-year-yield-has-gained-30bps-in-3-days-warning-of-rates-volatility-macro-markets",
+      "summary": ""
+    },
+    {
+      "title": "BNB Holds Steady as Traders Watch U.S. Tariff Moves",
+      "link": "https://www.coindesk.com/markets/2025/07/08/bnb-holds-steady-as-traders-watch-us-tariff-moves",
+      "summary": ""
+    },
+    {
       "title": "Semler Scientific Gets Buy Rating From Benchmark, $101 Price Target on Bitcoin Treasury Pivot",
       "link": "https://www.coindesk.com/markets/2025/07/08/semler-scientific-gets-buy-rating-from-benchmark-101-price-target-on-bitcoin-treasury-pivot",
-      "summary": ""
-    },
-    {
-      "title": "Tether Invests in Blockchain Forensics Firm  Crystal Intelligence to Fight Crypto Crime",
-      "link": "https://www.coindesk.com/business/2025/07/08/tether-invests-in-blockchain-forensics-firm-crystal-intelligence-to-fight-crypto-crime",
-      "summary": ""
-    },
-    {
-      "title": "BONK Reclaims Momentum with 11% Rally as Community and Volume Fuel Breakout",
-      "link": "https://www.coindesk.com/markets/2025/07/08/bonk-reclaims-momentum-with-11-rally-as-community-and-volume-fuel-breakout",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Bulls Bank on Fed's 'Stealth' Rate Cuts: Crypto Daybook Americas",
-      "link": "https://www.coindesk.com/daybook-us/2025/07/08/bitcoin-bulls-bank-on-feds-stealth-rate-cuts-crypto-daybook-americas",
-      "summary": ""
-    },
-    {
-      "title": "Over 40 Firms Prepping for Hong Kong Stablecoin License Applications: Report",
-      "link": "https://www.coindesk.com/policy/2025/07/08/over-40-firms-prepping-for-hong-kong-stablecoin-license-applications-report",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Huione wallets moved $1B to crypto exchanges since FinCEN action",
+      "link": "https://cointelegraph.com/news/huione-wallets-moved-crypto-exchanges-fincen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U5ZmEtZDMwMy03NjRlLWEwMmQtNzhjNDI1OGZkMzdk.jpg\" /></p><p>Huione-linked wallets moved nearly $1 billion in USDT to CEXs since FinCEN imposed restrictions on US financial institutions interacting with the group.</p>"
+    },
+    {
+      "title": "How to use a crypto hardware wallet: A  step-by-step guide",
+      "link": "https://cointelegraph.com/news/how-to-use-a-crypto-hardware-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ3ZDUtZDcxZi03NDhmLTkxY2MtYmU0ZjQxNTViNTIy.jpg\" /></p><p>You can set up and use a crypto hardware wallet in just a few steps. Learn how to get started, secure your keys and safely manage your assets.</p>"
+    },
+    {
+      "title": "Private companies line up to join Robinhood\u2019s tokenized equity platform: CEO",
+      "link": "https://cointelegraph.com/news/robinhood-private-tokenization-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U5ZmEtNGMwNy03ODk2LTkzMmUtNmMzOTkxZDhlMmMx.jpg\" /></p><p>Robinhood\u2019s EU tokenized equity launch draws a wave of private company interest and regulatory scrutiny.</p>"
+    },
     {
       "title": "Pakistan launches crypto regulatory body for digital asset sector",
       "link": "https://cointelegraph.com/news/pakistan-launches-crypto-regulator-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "South Korean bank stocks surge on stablecoin trademark filings",
       "link": "https://cointelegraph.com/news/south-korean-bank-stocks-stablecoin-trademarks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0NmQtZDJkOC03M2Y4LWE2NTYtZjU4NzdiMjMyZjM4.jpg\" /></p><p>Shares of Kakao Bank, Kookmin Bank and the Industrial Bank of Korea rose by 10% to 19% following stablecoin trademark applications.</p>"
-    },
-    {
-      "title": "TON\u2019s UAE \u2018golden visa\u2019 mishap shows why legal reviews matter",
-      "link": "https://cointelegraph.com/news/ton-golden-visa-glitch-why-legal-reviews-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UzYTEtNjZkYS03NmMxLTg3N2EtMTYzMWZkOTM2ZjIx.jpg\" /></p><p>The TON Foundation could have avoided its golden visa controversy in the UAE with a brief legal review, a local lawyer told .</p>"
-    },
-    {
-      "title": "XRP price must break this key level to reclaim $3",
-      "link": "https://cointelegraph.com/news/xrp-price-must-break-this-key-level-to-reclaim-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBiYTAtMDQxMS03YzZlLWJiZWYtYmQ1ODZjMjFlOGRh.jpg\" /></p><p>XRP price flips key breakout zone into support, but significant overhead resistance from the 200-day SMA at $2.36 remains the most important barrier for the bulls.</p>"
-    },
-    {
-      "title": "Crypto fundraising surges to $10B in Q2, highest since early 2022",
-      "link": "https://cointelegraph.com/news/crypto-vc-funding-q2-2025-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWI1MTgtZGRhMS03MGFmLWFiOGQtYjZhNDk1NjkyNmU1.jpg\" /></p><p>Crypto venture funding hit $10.03 billion in Q2 2025, its strongest quarter since early 2022, with June alone pulling in $5.14 billion.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Metaplanet wants to use Bitcoin as collateral to access bank financing",
+      "link": "https://cryptoslate.com/metaplanet-wants-to-use-bitcoin-as-collateral-to-access-bank-financing/",
+      "summary": "<p>Metaplanet, the Japanese Bitcoin treasury firm, has revealed a bold strategy to convert its growing Bitcoin reserves into capital for acquiring profitable businesses. According to a July 8 Financial Times report, Metaplanet CEO Simon Gerovich said the company is preparing for a second phase where it can use Bitcoin as collateral to access bank financing. [&#8230;]</p> <p>"
+    },
     {
       "title": "Pump.fun eyes EVM expansion amid Bonk.fun rivalry",
       "link": "https://cryptoslate.com/pump-fun-eyes-evm-expansion-amid-bonk-fun-rivalry/",
@@ -73,11 +78,6 @@
       "title": "Solana\u2019s tokenized stock market more than triples in two weeks to hit $48M",
       "link": "https://cryptoslate.com/solanas-tokenized-stock-market-more-than-triples-in-two-weeks-to-hit-48m/",
       "summary": "<p>Solana\u2019s tokenized stock market hit $48.53 million on July 4, up more than threefold from $15.28 million on June 20, according to on-chain data tracked by rwa.xyz. Solana\u2019s tokenized stocks capitalization expanded more than threefold in two weeks, outpacing every other tracked network during the period. Furthermore, the tokenized stock market on Solana represented 11.4% [&#8230;]</p> <p>"
-    },
-    {
-      "title": "EU regulators probing Robinhood\u2019s tokenized equity plans after OpenAI raises concerns",
-      "link": "https://cryptoslate.com/eu-regulators-probing-robinhoods-tokenized-equity-plans-after-openai-raises-concerns/",
-      "summary": "<p>Robinhood\u2019s private equity tokens, offering exposure to tech stocks like SpaceX and OpenAI, have triggered regulatory scrutiny in Europe after OpenAI raised concerns and said that the digital assets do not represent equity ownership in the company, CNBC reported on July 7. The Bank of Lithuania, which serves as Robinhood\u2019s primary regulator in the European [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Trump\u2019s Truth Social files S-1 for Crypto Blue Chip ETF holding BTC, ETH, XRP, SOL, and CRO",
+      "link": "https://cryptobriefing.com/crypto-blue-chip-etf-launch/",
+      "summary": "<p>The launch of a crypto ETF by Truth Social could significantly influence mainstream adoption and regulatory perspectives on digital assets.</p> <p>"
+    },
+    {
       "title": "Government-backed Sequans secures $384M to kick off Bitcoin treasury initiative, stock jumps 60% pre-market",
       "link": "https://cryptobriefing.com/sequans-bitcoin-treasury-initiative/",
       "summary": "<p>Sequans' Bitcoin initiative may boost its financial resilience and shareholder value, potentially influencing other tech firms to explore crypto.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "US govt moves $200K in Ethereum to Coinbase after test transaction",
       "link": "https://cryptobriefing.com/us-government-ethereum-wallet-test-deposit-coinbase-prime/",
       "summary": "<p>The US government's Ethereum transaction hints at potential future asset management strategies, impacting market perceptions and crypto policies.</p> <p>"
-    },
-    {
-      "title": "US government abandons Tornado Cash appeal after policy reversal",
-      "link": "https://cryptobriefing.com/tornado-cash-sanctions-reversal/",
-      "summary": "<p>The US government's policy reversal on Tornado Cash may influence future regulatory approaches to crypto technologies and international software.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "1,140 ETH moved after 10 years \u2013 Will Ethereum prices react?",
+      "link": "https://ambcrypto.com/1140-eth-moved-after-10-years-will-ethereum-prices-react/",
+      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-08T114601.648-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite headline moves, Ethereum\u2019s on-chain data reflects bullish signals and rising community engagement."
+    },
     {
       "title": "Bitcoin miners stock up, BTC slows: History points to what\u2019s coming next",
       "link": "https://ambcrypto.com/bitcoin-miners-stock-up-btc-slows-history-points-to-whats-coming-next/",
@@ -208,11 +213,6 @@
       "title": "Binance stablecoin reserves hit ATH \u2013 Is altseason just ONE move away?",
       "link": "https://ambcrypto.com/binance-stablecoin-reserves-hit-ath-is-altseason-just-one-move-away/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-15.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin exits exchanges, altcoins hit depression lows, and whales quietly reload for what\u2019s next."
-    },
-    {
-      "title": "Shiba Inu\u2019s burn rate explodes 65,141% \u2013 Is a SHIB breakout finally coming?",
-      "link": "https://ambcrypto.com/shiba-inus-burn-rate-explodes-65141-is-a-shib-breakout-finally-coming/",
-      "summary": "<img alt=\"Shiba Inu Burn Rate Explodes 65,141% - Is a SHIB Breakout Finally Coming?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Shiba-Inu-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The 65,141% hike meant 1.007 billion Shiba Inu tokens were burnt in just 24 hours."
     }
   ]
 }
