@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Strategy Holds 11th Largest U.S. Corporate Treasury, Bitcoin Rivals Big Cash Reserves",
+      "link": "https://www.coindesk.com/markets/2025/07/08/strategy-holds-11th-largest-us-corporate-treasury-bitcoin-rivals-big-cash-reserves",
+      "summary": ""
+    },
+    {
       "title": "BlackRock iShares Bitcoin ETF Surges Past 700K BTC in Record-Breaking Run",
       "link": "https://www.coindesk.com/markets/2025/07/08/blackrock-ishares-bitcoin-etf-surges-past-700k-btc-in-record-breaking-run",
       "summary": ""
@@ -19,14 +24,19 @@
       "title": "Bonk.fun Grabs 55% of Solana Token Issuance Share, Pushes BONK Demand",
       "link": "https://www.coindesk.com/markets/2025/07/08/bonkfun-grabs-55-of-solana-token-issuance-share-pushes-bonk-demand",
       "summary": ""
-    },
-    {
-      "title": "Coinbase Recovers to Listing Day Valuation. What Next for COIN?",
-      "link": "https://www.coindesk.com/markets/2025/07/08/coinbase-recovers-to-listing-day-valuation-what-next-for-coin",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "TON\u2019s UAE \u2018golden visa\u2019 mishap shows why legal reviews matter",
+      "link": "https://cointelegraph.com/news/ton-golden-visa-glitch-why-legal-reviews-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UzYTEtNjZkYS03NmMxLTg3N2EtMTYzMWZkOTM2ZjIx.jpg\" /></p><p>The TON Foundation could have avoided its golden visa controversy in the UAE with a brief legal review, a local lawyer told .</p>"
+    },
+    {
+      "title": "XRP price must break this key level to reclaim $3",
+      "link": "https://cointelegraph.com/news/xrp-price-must-break-this-key-level-to-reclaim-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBiYTAtMDQxMS03YzZlLWJiZWYtYmQ1ODZjMjFlOGRh.jpg\" /></p><p>XRP price flips key breakout zone into support, but significant overhead resistance from the 200-day SMA at $2.36 remains the most important barrier for the bulls.</p>"
+    },
     {
       "title": "Crypto fundraising surges to $10B in Q2, highest since early 2022",
       "link": "https://cointelegraph.com/news/crypto-vc-funding-q2-2025-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Metaplanet eyes digital bank acquisition in phase 2 of Bitcoin strategy",
       "link": "https://cointelegraph.com/news/metaplanet-bitcoin-digital-bank-acquisition-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njg1NzctMjY4NS03ZjA2LWI5NmItNDBkYTQ4ZTFkNmUz.jpg\" /></p><p>Metaplanet aims to leverage its growing Bitcoin treasury to acquire cash-generating businesses, with a digital bank in Japan among its possible targets.</p>"
-    },
-    {
-      "title": "How Vietnam is using crypto to fix its FATF reputation",
-      "link": "https://cointelegraph.com/news/how-vietnam-is-using-crypto-to-fix-its-fatf-reputation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UzZTQtMjdlZC03NWYwLTg1MmQtM2VhNzk3NzRmZGJk.jpg\" /></p><p>Vietnam is leveraging crypto regulation to meet FATF standards, combat digital asset fraud and rebuild its international financial reputation.</p>"
-    },
-    {
-      "title": "Bitcoin miner BitFuFu mines 445 BTC for its biggest production month",
-      "link": "https://cointelegraph.com/news/bitfufu-record-bitcoin-mining-june-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYzMzYtMWNlZi03ZDI2LTllNTItNzY3YjhjNTA0ODJi.jpg\" /></p><p>Bitcoin miners had a mixed bag in June, with Australian-based miner IREN reporting a record-breaking month for revenues, but lower Bitcoin production.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Over 500 Chinese creditors challenge FTX over $470M payout freeze",
+      "link": "https://cryptoslate.com/over-500-chinese-creditors-challenge-ftx-over-470m-payout-freeze/",
+      "summary": "<p>Chinese creditors affected by FTX&#8217;s latest legal maneuver are ramping up efforts to challenge the bankrupt exchange&#8217;s request to delay payouts to users in 49 jurisdictions with restrictive or uncertain crypto laws. The group is turning to US courts and regulators, raising concerns about fairness, transparency, and procedural integrity. Speaking with , a Chinese creditor [&#8230;]</p> <p>"
+    },
     {
       "title": "Polymarket faces backlash over disputed $200M Zelensky \u2018suit\u2019 market",
       "link": "https://cryptoslate.com/polymarket-faces-backlash-over-disputed-200m-zelensky-suit-market/",
@@ -73,14 +78,14 @@
       "title": "Cloudflare\u2019s bot paywall could ignite a tokenized content gold rush",
       "link": "https://cryptoslate.com/cloudflares-bot-paywall-could-ignite-a-tokenized-content-gold-rush/",
       "summary": "<p>The following is a guest post and opinion from Ahmad Shadid, CEO at O.XYZ. For years, a broken value exchange has defined the web. AI companies, racing to build powerful models, deployed bots to scrape a vast internet of content without permission or compensation. This practice of harvesting news, art, and data undermined the creators [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin remains stuck in $100k-$110k band as retail and whales enter potential standoff",
-      "link": "https://cryptoslate.com/bitcoin-remains-stuck-in-100k-110k-band-as-retail-and-whales-enter-potential-standoff/",
-      "summary": "<p>Bitcoin (BTC) continued to trade between $100,000 and $110,500 for a second consecutive week as smaller investors replaced whales on the buy side, Bitfinex Alpha reported on July 7. The report noted that BTC spent most of July so far within a 10% channel, capped by the January high of $109,590 and floored near the [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "2025\u2019s Biggest Bitcoin Bull Trigger Is Still Hidden, Expert Reveals",
+      "link": "https://www.newsbtc.com/bitcoin-news/2025-biggest-bitcoin-bull-trigger-still-hidden/",
+      "summary": "In a conversation with The Bitcoin Economy podcast, Bloomberg Intelligence ETF analyst James Seyffart argued that the next, and potentially largest, leg of institutional demand for spot-Bitcoin exchange-traded funds will not come from pension funds, endowments, or sovereign wealth managers. Instead, it will arise when the country\u2019s fragmented network of registered investment advisers (RIAs) finally gains full discretionary clearance to recommend Bitcoin ETFs to ordinary clients. \u201cThe biggest bull case for the ETFs has been the unlocking of RIAs in 2025,\u201d Seyffart said. \u201cRight now the vast majority of the assets are stuck in that middle ground where, if a client specifically asks to buy a Bitcoin ETF, the adviser can act\u2014but the adviser cannot initiate the recommendation.\u201d The Biggest Bull Case For Bitcoin In 2025 Seyffart broke the compliance bottleneck into a traffic-light schema that most financial advisers will recognise. A red-light firm bars Bitcoin entirely; a yellow-light firm permits unsolicited purchases (\u201cIf you come to me and ask for it, I can do it\u201d); and a green-light firm allows the adviser to solicit an allocation (\u201cI can recommend that you put two percent of your portfolio in Bitcoin\u201d). Related Reading: Bitcoin\u2019s Liquidity Lifeline Just Got Cut\u2014What You Need To Know Wire-house broker\u2013dealers\u2014which still custody trillions of dollars\u2014largely remain in the red or yellow camps, paralysed by multi-year due-diligence committees. Independent RIAs, by contrast, \u201cwere the early adopters,\u201d Seyffart noted, because they \u201cdon\u2019t have to wait for a due-diligence team of a bunch of people sitting in New York.\u201d Yet even among independents, most advisers outsource portfolio construction to centralised model portfolios; until those models flag Bitcoin ETFs as eligible holdings, discretionary uptake will stay muted. Seyffart\u2019s focus on 2025 is calendrical, not calendrical: the first full-calendar year after launch gives compliance teams twelve months of daily NAV history\u2014often a hard requirement before a new ETF can graduate from yellow to green status. \u201cUsually it can take two to three years before an ETF gets approved,\u201d he said, but the extraordinary size and liquidity of the spot-Bitcoin cohort is already accelerating that cycle. Crucially, the next Form 13F reporting deadline on 15 August 2025 will reveal second-quarter holdings as of 30 June. Seyffart expects the data to confirm that \u201ca lot more RIAs have come online and [are] buying this for their clients,\u201d providing the first concrete measure of green-light conversions. Related Reading: Bitcoin In For Another 460% Run? This Rare Fiat Signal Just Returned If the gatekeeping retreats, model-portfolio architects can incorporate Bitcoin\u2019s historically uncorrelated returns into strategic-allocation frameworks. That in turn would grant advisers legal cover to solicit Bitcoin exposure, unleashing a flywheel of inflows. Seyffart cautioned that the same compliance teams will demand iron-clad fiduciary justifications\u2014volatility, custody and tax treatment remain live concerns\u2014but he argued that the ETFs now provide a wrapper familiar to any wealth platform. Seyffart\u2019s thesis is that the moment a critical mass of compliance committees flips from yellow to green\u2014allowing advisers to recommend Bitcoin rather than merely transact it\u2014flows could dwarf everything seen to date. Whether that inflection arrives in the next 12 months will determine, in his view, \u201cthe biggest bull case for Bitcoin.\u201d At press time, BTC traded at $108,250. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "50% Bitcoin Price Crash On The Horizon? Analyst Reveals $60,000 Target",
       "link": "https://www.newsbtc.com/news/bitcoin/50-bitcoin-price-crash-60000/",
@@ -100,11 +105,6 @@
       "title": "Dogecoin Resistance Walls Ahead: Analyst Flags 3 Key Levels",
       "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-resistance-walls-analyst-flags-3-key/",
       "summary": "An analyst has pointed out three key resistance levels for Dogecoin that could be to keep an eye on, based on on-chain data. Dogecoin URPD Shows These Price Levels Stand Out In a new post on X, analyst Ali Martinez has shared DOGE levels that could be important resistance boundaries. The levels in question correspond to major supply walls on the Dogecoin UTXO Realized Price Distribution (URPD). The URPD is an on-chain indicator from the analytics firm Glassnode that tells us about the total amount of the memecoin&#8217;s supply that was last purchased at the different price levels that it has visited over history. Related Reading: Bitcoin In For Another 460% Run? This Rare Fiat Signal Just Returned Now, here is the chart posted by Martinez that shows how the URPD looks for Dogecoin right now: As displayed in the above graph, the level closest to the latest Dogecoin spot price that stands out in terms of the URPD is $0.18. The investors last purchased around 8.94% of the asset&#8217;s supply around this mark. Naturally, as the level is above the spot price, all of these holders would be in the red at the moment. Generally, investors in loss look forward to retests of their break-even mark so that they can get their money &#8216;back.&#8217; Often, these holders push for the exit as soon as this happens, fearing that the price would go back down again in the near future. As such, whenever the price retests the cost basis of a notable part of the supply from below, a significant selling reaction can sometimes appear in the market. This can provide resistance to the cryptocurrency. Considering that the $0.18 level is particularly large, it can act as a point of notable resistance. Similarly, the analyst has also flagged two other levels: $0.21 (7.24% of supply) and $0.36 (3.82% of supply). Interestingly, between these two, there aren&#8217;t any significant supply walls, meaning that if Dogecoin can get into this zone, it may, at least in theory, have an easier time climbing up. In the scenario that DOGE gets rejected at the resistance, however, it may have to find support at the in-profit supply zones. Holders belonging to these levels can react to declines to their cost basis by buying more, as they may believe the drawdown to be just a dip-buying opportunity. Related Reading: Shiba Inu Supply Most Centralized Among Top Coins\u201462% Held By Just 10 Whales The only level below the current Dogecoin spot price that stands out in terms of supply is all the way down at $0.07. It hosts the acquisition mark of 20.03% of the memecoin&#8217;s supply, which means that it&#8217;s massive in size, and so, could be a strong support center. DOGE Price At the time of writing, Dogecoin is floating around $0.168, up 1.6% in the last seven days. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
-    },
-    {
-      "title": "BNB Price Gears Up for Upside Break \u2014 Will Bulls Deliver?",
-      "link": "https://www.newsbtc.com/analysis/bnb/bnb-price-gears-up-665/",
-      "summary": "BNB price is gaining pace above the $650 support zone. The price is now showing positive signs and might aim for more gains in the near term. BNB price is attempting to recover from the $620 support zone. The price is now trading above $655 and the 100-hourly simple moving average. There is a key contracting triangle forming with resistance at $662 on the hourly chart of the BNB/USD pair (data source from Binance). The pair must stay above the $655 level to start another increase in the near term. BNB Price Eyes More Gains After forming a base above the $620 level, BNB price started a fresh increase. There was a move above the $645 and $650 resistance levels, like Ethereum and Bitcoin. The price even surged above the $660 level. A high was formed at $666 before there was a downside correction. The price dipped below the 50% Fib retracement level of the upward move from the $650 swing low to the $666 swing high. The price is now trading above $655 and the 100-hourly simple moving average. On the upside, the price could face resistance near the $662 level. There is also a key contracting triangle forming with resistance at $662 on the hourly chart of the BNB/USD pair. The next resistance sits near the $665 level. A clear move above the $665 zone could send the price higher. In the stated case, BNB price could test $672. A close above the $672 resistance might set the pace for a larger move toward the $680 resistance. Any more gains might call for a test of the $700 level in the near term. Another Decline? If BNB fails to clear the $662 resistance, it could start another decline. Initial support on the downside is near the $655 level and the 61.8% Fib retracement level of the upward move from the $650 swing low to the $666 swing high. The next major support is near the $650 level. The main support sits at $644. If there is a downside break below the $644 support, the price could drop toward the $632 support. Any more losses could initiate a larger decline toward the $620 level. Technical Indicators Hourly MACD \u2013 The MACD for BNB/USD is gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BNB/USD is currently above the 50 level. Major Support Levels \u2013 $655 and $650. Major Resistance Levels \u2013 $662 and $665."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Fidelity\u2019s Solana ETF delay raises concerns \u2013 \u2018No approvals until fall\u2019",
+      "link": "https://ambcrypto.com/fidelitys-solana-etf-delay-raises-concerns-no-approvals-until-fall/",
+      "summary": "<img alt=\"SOL ETF\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/SolanaSOLETFFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Analysts expect temporary pause on crypto ETF summer - Details."
+    },
+    {
       "title": "VIC crypto soars 60% in 24 hours \u2013 Is the rally just beginning?",
       "link": "https://ambcrypto.com/vic-crypto-soars-60-in-24-hours-is-the-rally-just-beginning/",
       "summary": "<img alt=\"VIC crypto soars 60% in 24 hours - Is the rally just beginning?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250708_094041_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />VIC could extend its gains in the coming days."
@@ -208,11 +213,6 @@
       "title": "Cup & Handle Breakout? Bitcoin targets $230K, Solana could skyrocket to $4,390!",
       "link": "https://ambcrypto.com/cup-handle-breakout-bitcoin-targets-230k-solana-could-skyrocket-to-4390/",
       "summary": "<img alt=\"Cup &amp; Handle Breakout? Bitcoin targets $230K, Solana could skyrocket to $4,390!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Solana-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Dwindling weekly trading volume since May highlighted the bearish bias of Solana in recent months."
-    },
-    {
-      "title": "Hong Kong to launch stablecoin licensing in August 2025 \u2013 Details",
-      "link": "https://ambcrypto.com/hong-kong-to-launch-stablecoin-licensing-in-august-2025-details/",
-      "summary": "<img alt=\"Hong Kong stablecoins\" class=\"attachment-full size-full wp-post-image\" height=\"561\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Hong-Kong-stablecoins.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"998\" />With the U.S. racing ahead, can Hong Kong\u2019s cautious stablecoin rollout really compete on a global stage?"
     }
   ]
 }
