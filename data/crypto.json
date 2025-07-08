@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Hedera\u2019s HBAR Rises After Inclusion in Grayscale Fund",
+      "link": "https://www.coindesk.com/markets/2025/07/08/hedera-s-hbar-ends-day-higher-after-inclusion-in-grayscale-fund",
+      "summary": ""
+    },
+    {
+      "title": "Risk, Reward, and Resilience: Building Insurance Primitives in DeFi",
+      "link": "https://www.coindesk.com/opinion/2025/07/08/risk-reward-and-resilience-building-insurance-primitives-in-defi",
+      "summary": ""
+    },
+    {
       "title": "FLOKI Explodes 12% on Massive Volume, Potentially Signalling Bullish Momentum",
       "link": "https://www.coindesk.com/markets/2025/07/08/floki-explodes-12-on-massive-volume-potentially-signalling-bullish-momentum",
       "summary": ""
@@ -14,21 +24,16 @@
       "title": "BioSig, Streamex to Raise $1.1B for Gold Tokenization Initiative on Solana",
       "link": "https://www.coindesk.com/business/2025/07/08/biosig-streamex-to-raise-11b-for-gold-tokenization-initiative-on-solana",
       "summary": ""
-    },
-    {
-      "title": "Are Jerome Powell\u2019s Days as Federal Reserve Chair Numbered?",
-      "link": "https://www.coindesk.com/markets/2025/07/06/are-jerome-powell-s-days-as-federal-reserve-chair-numbered",
-      "summary": ""
-    },
-    {
-      "title": "BTC-Only VC Ego Death Capital Closes $100M Fund for Projects Building on Bitcoin",
-      "link": "https://www.coindesk.com/business/2025/07/08/btc-only-vc-ego-death-capital-closes-100m-fund-for-projects-building-on-bitcoin",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Digital asset company ReserveOne to go public via merger, create crypto reserve",
+      "title": "ETH news update: Will Ether ETF buying help bulls secure close above $2.7K?",
+      "link": "https://cointelegraph.com/news/eth-news-update-will-ether-etf-buying-help-bulls-secure-close-above-dollar2-7k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhOWYtMThiMS03NzNhLTg4MjEtYmU5OTc0OThkNThk.jpg\" /></p><p>Positive newsflow, a change in investor sentiment, and steady ETH ETF buying could help Ether rally above $2,700.</p>"
+    },
+    {
+      "title": "ReserveOne to go public via merger, create crypto reserve",
       "link": "https://cointelegraph.com/news/reserveone-go-public-merger-crypto-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhZjQtYjlmNy03YWQ4LTljY2EtMWM4OTk5MzdiOWI3.jpg\" /></p><p>RerserveOne is headed by Jaime Leverton, who has been involved with Bitcoin mining companies Hut 8 and Riot Platforms.</p>"
     },
@@ -46,11 +51,6 @@
       "title": "CoreWeave\u2019s Core Scientific acquisition sparks analyst doubts as stock dips",
       "link": "https://cointelegraph.com/news/coreweave-core-scientific-9b-acquisition-analyst-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjEwNWYtMWZkMS03YWFmLTlkMDQtYjRhYTY0YTcwNWMw.jpg\" /></p><p>CoreWeave agreed to purchase Core Scientific in an all-stock deal valued at $9 billion.</p>"
-    },
-    {
-      "title": "Bitcoin price gained 72% and 84% the last two times BTC holders did this",
-      "link": "https://cointelegraph.com/news/bitcoin-price-rallied-72-84-the-last-two-times-btc-hodlers-did-this?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhODYtNWFkYy03NmJkLTg2NWQtZjY2OWQ5MjU1N2Nm.jpg\" /></p><p>Bitcoin's long-term investors now hold 80% of all BTC in circulation, which could trigger the next leg higher into price discovery, if history repeats.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "PEPE Traders Spot Breakout Echo\u2014Explosive Surge Back On The Table?",
+      "link": "https://www.newsbtc.com/altcoin/pepe-traders-spot-breakout-echo-20x-surge-back-on-the-table/",
+      "summary": "Based on reports from the trading account Bitcoinensus on X, PEPE has formed a pattern that led to a 10x rally in the past. Now, some chart watchers believe a similar move could push prices even higher\u2014possibly up to 20X the current level. Related Reading: XRP Could Hit $35 If It Captures A Quarter Of Remittance Market By 2029 Flag And Breakout Signals Drive Hope Traders spot a \u201cflag\u201d shape when price moves sideways after a drop and rise. Bitcoinensus pointed out that PEPE first formed one flag, then shot up from about $0.0000015 to $0.000015\u2014a roughly 10x gain. The chart showed a second flag forming recently, and if PEPE breaks out again, it could mirror that earlier surge. Based on reports, a fresh breakout might send PEPE toward a 20X move from today\u2019s prices. $PEPE Macro Outlook \ud83d\udd25\ud83d\ude80 PEPE has been repeating the same explosive pattern: \ud83d\udcc9 Flag \u2192 \ud83d\udcc8 Breakout \u2192 \ud83d\udcc9 Flag \u2192 \ud83d\udcc8 Breakout So far: Accumulation 1 \u2192 10x Accumulation 2 \u2192 Breakout in progress The next big move up will probably lead to the cycle top. History doesn\u2019t\u2026 pic.twitter.com/Rqc6KBfWgn \u2014 Bitcoinsensus (@Bitcoinsensus) July 7, 2025 Price Targets And Support Levels Tested In a follow\u2011up post, Solberg Invest on X laid out a bullish short\u2011term view. Their target sits at $0.000015 if PEPE holds above the key support line at $0.0000102. That level has been tested multiple times in recent weeks, demonstrating some buying interest each time prices approached it. Traders warn that slipping below $0.0000102 could derail hopes for the next big leg up. Triangle Formation Signals Tension A recent chart indicates that PEPE is trading within a triangle pattern. Traders track triangles closely because they can lead to rapid moves following a breakout. Currently, PEPE is wedged at the top of this triangle. When trading volume picks up and the token closes over the old resistance line (indicated in red), it could ignite a new wave of buyers. Community Buzz Keeps Meme Coins Alive Meme tokens survive by social fervor, and PEPE has developed a devoted fan base on sites like X. Meme posts and community-led memes have powered previous rallies, prompting new investors to jump aboard. According to reports, continued buzz might be sufficient to initiate another run at least in the near term. Related Reading: Bitcoin Meets Heartbreak In Drake\u2019s Latest Track\u2014Details Risks And Rewards In Focus Even if history does rhyme, it doesn&#8217;t often repeat itself. Previous runs had PEPE tank just as severely, losing as much as 95% of profits in one session. Gambling on a 20X spike involves taking wild swings and sudden plunges. Anyone considering coming in at $0.0000102 should have in mind exit points and only risk capital that can be safely lost. Featured image from Meta, chart from TradingView"
+    },
+    {
       "title": "Pundit Explains Why XRP Stands To Gain Big From Ripple\u2019s RLUSD",
       "link": "https://www.newsbtc.com/xrp-news/why-xrp-stands-to-gain-big-from-ripple-rlusd/",
       "summary": "Ripple\u2019s dollar-pegged stablecoin, Ripple USD (RLUSD), has spent the past six months quietly becoming one of the fastest-growing assets in the $160 billion stable-value sector, even though almost all of its issuance still sits on a rival network, not the XRP Ledger. That dichotomy\u201495 percent of the $455 million supply now lives on Ethereum\u2014was the starting point for a lively weekend exchange on X between XRP pundit \u201cCrypto Eri\u201d and sceptics who questioned whether Ripple\u2019s plans would ever benefit the XRP Ledger (XRPL) itself. XRP\u2019s Hidden Advantage? \u201cRipple is a long-game player,\u201d Eri wrote. \u201cIts public statements to integrate smart contracts on the mainnet will eventually position RLUSD on XRPL as a more competitive stablecoin, with faster and cheaper settlements than Ethereum.\u201d The remark landed just days after Ripple switched on its EVM-compatible sidechain, bringing full Ethereum-style smart-contract functionality to XRPL on 30 June 2025. More than 1,400 contracts were deployed in the first week, according to developer telemetry, and the bridge is already live to 80 other chains through Axelar. Related Reading: XRP Set To Shock The Crypto Market With 30% Share, Analyst Predicts On-chain data underscore the stakes. RLUSD\u2019s circulating supply rose by 47 percent in June alone to $455 million, the fastest pace among major stablecoins, with roughly $390 million now native to Ethereum after a four-fold expansion since January. Only about $65 million remains on XRPL. That imbalance prompted one user to tell Eri that RLUSD\u2019s utility \u201cimpacts ETH more than XRP.\u201d She conceded the point\u2014\u201ccorrect, for now\u201d\u2014but argued demand would migrate once XRPL\u2019s programmability and liquidity deepen. Ripple\u2019s strategy hinges on more than code. On 2 June the company applied to the US Office of the Comptroller of the Currency for a national trust-bank charter. A parallel filing by its subsidiary, Standard Custody &#38; Trust, seeks a Federal Reserve master account so that RLUSD reserves can eventually sit at the central bank rather than a correspondent institution. The timing aligns with the pending GENIUS Act, bipartisan legislation that for the first time would impose a single federal regime on payment-stablecoin issuers. While the bill\u2019s $10 billion-asset threshold means RLUSD could remain under New York oversight for now, the application positions Ripple to graduate into federal supervision voluntarily\u2014a move CEO Brad Garlinghouse has called a \u201cnew (and unique!) benchmark for trust in the stablecoin market.\u201d Eri underscored the charter angle in her post: \u201cThe national banking license application, aligned with the GENIUS Act, secures a Federal Reserve master account \u2026 enhancing trust, expanding crypto financial and payment services, and removing the patchwork of state licenses, enabling continued scalability at lower cost.\u201d Related Reading: XRP Price Risks Breakdown To Next Support Level, Why $2.28 Is Important If the charter is granted and RLUSD begins to migrate on-demand to XRPL, two flywheels favor the native token, analysts say. First, RLUSD remittances on XRPL would pay transaction fees in XRP, turning every dollar of stablecoin volume into incremental demand for the asset Ripple still holds in large quantities. Second, the EVM sidechain lets decentralized-finance builders tap RLUSD liquidity without leaving XRP\u2019s low-cost consensus layer, potentially reversing the flow of users and liquidity that has so far moved toward Ethereum. \u201cThese calculated steps in the $$$$$-dollar stablecoin market give the digital asset XRP enormous potential, but require more time to unfold,\u201d Eri argues. For now, RLUSD\u2019s growth is still driven by Ethereum\u2019s DeFi economy, and sceptics like user \u201csammie\u201d insist \u201cit\u2019s always going to be like this.\u201d Eri\u2019s final reply was succinct: \u201cLet\u2019s see. I know we\u2019ll be touching base often!\u201d That brevity captures both the promise and the uncertainty ahead. Technical rails are in place; regulatory applications are filed. Whether capital, compliance, and market demand will converge quickly enough to shift billions of RLUSD onto XRPL\u2014and in turn lift XRP\u2019s utility\u2014remains the multi-billion-dollar question. At press time, XRP traded at $2.27. Featured image created with DALL.E, chart from TradingView.com"
@@ -100,15 +105,41 @@
       "title": "TRUMP Meme Coin Plants Flag On TRON Network\u2014Details",
       "link": "https://www.newsbtc.com/altcoin/trump-meme-coin-plants-flag-on-tron-network-details/",
       "summary": "Meme coin TRUMP made waves when it launched on Solana on January 17, 2025, issuing 200 million tokens out of a planned supply of 1 billion. Related Reading: Bitcoin Meets Heartbreak In Drake\u2019s Latest Track\u2014Details According to trading data, its price shot from under $10 to a whopping $80 within hours, pushing its fully diluted valuation to nearly $75 billion. But by July 2025, TRUMP had tumbled back to $8.60, a 90% drop from its peak. Its circulating market cap now sits around $1.70 billion, with a fully diluted value of about $8.60 billion. Cross Chain Push Into Tron Based on reports from the project\u2019s official X account, TRUMP plans its first expansion beyond Solana by launching on the Tron blockchain. This move is designed to tap Tron\u2019s large user base and faster transaction speeds. Tron boasts over 100 million accounts and sub\u2011second confirmations, which the TRUMP team believes could fuel a fresh wave of buyers and traders. $TRUMP on #TRON is coming. Stay tuned! pic.twitter.com/S5WfV8APvU \u2014 TrumpMeme (@GetTrumpMemes) July 7, 2025 Volatile Price Swings Define TRUMP TRUMP\u2019s rollercoaster debut underlines extreme volatility. After the initial frenzy in January, the coin\u2019s price plummeted by 88% from $80 to $8.60. That slide erased roughly $65 billion in valuation. Today\u2019s price reflects speculative trading rather than any long\u2011term adoption. Investors who rode the peak saw massive gains briefly, then steep losses just as quickly. Justin Sun\u2019s Big Stake On May 20, 2025, Tron founder Justin Sun tweeted that he is TRUMP\u2019s largest holder. He reportedly owns nearly $19 million worth of tokens after a $75 million investment in Trump\u2019s World Liberty Financial platform. Sun\u2019s position comes with perks. He won a \u201cprivate dinner\u201d alongside the top 220 token holders, securing a seat at US President Donald Trump\u2019s Virginia golf club. Critics say that kind of setup blurs the line between crypto hype and pay\u2011to\u2011play politics. Related Reading: XRP Could Hit $35 If It Captures A Quarter Of Remittance Market By 2029 Central Control Raises Warnings Two Trump\u2011affiliated companies, CIC Digital LLC and Fight Fight Fight LLC, control 80% of TRUMP\u2019s token supply. Those tokens are locked under a three\u2011year vesting schedule. Analysts warn that when insiders hold such large shares, they can sway prices at will. That level of centralization runs counter to crypto\u2019s promise of open and fair systems. Senators Richard Blumenthal, Elizabeth Warren, and Jeff Merkley have called for new rules to curb how politicians and their allies can launch or endorse digital coins. They argue that projects like TRUMP could be used for personal gain or campaign boosts, creating a need for clearer boundaries. Traders And Regulators Brace For Tron Launch As TRUMP eyes a Tron debut, traders and regulators alike will watch closely. The move could spark a fresh surge in trading volume. Yet the same factors that drove its initial spike\u2014viral hype, insider perks, and a heavy token concentration\u2014could just as easily lead to another steep plunge. Featured image from Bankless Times, chart from TradingView"
-    },
-    {
-      "title": "Breakout or Breakdown? XRP $2.35 Test Could Decide Its Next Move",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-next-move-hinges-on-2-35/",
-      "summary": "XRP is showing mixed signals across timeframes, leaving traders on edge as the price approaches the key $2.35 level. While a recent breakout from a falling wedge on the 3-day chart suggests a bullish reversal, the 4-hour chart reveals signs of slowing momentum and a possible rising wedge. With buyers and sellers locked in a battle, $2.35 could be the tipping point that decides whether XRP surges higher or slips into a near-term correction. XRP Breaks Out Of Falling Wedge On 3-Day Chart In an X post, LSplayQ highlighted a key technical development on the XRP 3-day price chart, pointing to a breakout from a falling wedge pattern. This type of pattern is commonly associated with bullish reversals, signaling that market sentiment may be shifting in favor of the bulls. Related Reading: XRP Silent Accumulation: A Falling Wedge On The Verge Of Explosion Following the breakout, XRP is currently trading around $2.26, and according to LSplayQ, the move suggests that buyers are stepping back in to reclaim control. The price action marks a significant shift after an extended period of downward compression within the wedge. If the bullish momentum continues, LSplayQ notes that XRP could target a breakout level near $2.72, which represents an upside potential of roughly 20% from the current price. That said, LSplayQ also warns of the risk of a pullback if XRP fails to hold above the wedge breakout level. In such a scenario, the price could retest the $2.10 zone as a potential support. Overall, the technical outlook leans bullish, as long as XRP maintains its position above the breakout level. Rising Wedge Pattern Signals Caution Ahead In a post on X, The Crypto Bushman pointed out that XRP is pushing higher on the 4-hour chart, but warned that seasoned traders are keeping a close eye on what lies beneath the surface. Related Reading: XRP Price Pops and Drops \u2014 Can Bulls Regain Control? According to the analyst, the price is currently trading above both the 20- and 50-day EMAs, which typically signals short-term strength. However, the overall structure appears to be forming a rising wedge, a pattern often linked to potential reversals. At the same time, momentum is beginning to fade, with the MACD flattening and volume tapering off, which Bushman describes as classic signs of a potential trap move. The Crypto Bushman emphasized that a failure to break cleanly above $2.35 could lead to the setup rolling over. In that case, the $2.25 zone becomes a critical level to watch for a possible breakdown and shift in sentiment. On the flip side, a strong breakout backed by volume could fuel another leg up toward $2.50 if buying pressure returns decisively. Featured image from Getty Images, chart from Tradingview.com"
     }
   ],
-  "Bitcoin Magazine": [],
+  "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin Showed Up in DC \u2014 And Washington Took Notice",
+      "link": "https://bitcoinmagazine.com/politics/bitcoin-showed-up-in-dc-and-washington-took-notice",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitcoin-Showed-Up-in-DC-\u2014-And-Washington-Took-Notice-fotor-2025070812361.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/politics/bitcoin-showed-up-in-dc-and-washington-took-notice\" rel=\"nofollow\"> </a></p> <p>Reflections on the Bitcoin Policy Summit in Washington DC during May 2025. </p> <p>"
+    },
+    {
+      "title": "Bow Valley Credit Union in Canada turns on Bitcoin purchases for Albertans",
+      "link": "https://bitcoinmagazine.com/news/bow-valley-credit-union-in-canada-turns-on-bitcoin-purchases-for-albertans",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Leonardo_Phoenix_10_an_orange_bull_running_through_an_Alberta_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bow-valley-credit-union-in-canada-turns-on-bitcoin-purchases-for-albertans\" rel=\"nofollow\"> </a></p> <p>BVCU\u2019s Bitcoin Gateway, with Balance Custody and Bull Bitcoin API, simplifies buying bitcoin. \u201cFacilitates institutional adoption,\u201d says Francis Pouliot. </p> <p>"
+    },
+    {
+      "title": "KULR Secures $20M Bitcoin-Backed Credit Facility from Coinbase Credit",
+      "link": "https://bitcoinmagazine.com/news/kulr-secures-20m-bitcoin-backed-credit-facility-from-coinbase-credit",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/KULR-Secures-20M-Bitcoin-Backed-Credit-Facility-from-Coinbase-Credit.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-secures-20m-bitcoin-backed-credit-facility-from-coinbase-credit\" rel=\"nofollow\"> </a></p> <p>The deal sets up a multi-draw loan facility worth up to $20 million to expand its Bitcoin holdings.</p> <p>"
+    },
+    {
+      "title": "Sequans Closes $384 Million Investment To Launch Bitcoin Treasury Initiative",
+      "link": "https://bitcoinmagazine.com/news/sequans-closes-384-million-investment-to-launch-bitcoin-treasury-initiative",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Sequans-Closes-384-Million-Investment-To-Launch-Bitcoin-Treasury-Initiative.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/sequans-closes-384-million-investment-to-launch-bitcoin-treasury-initiative\" rel=\"nofollow\"> </a></p> <p>Sequans Communications, a fabless semiconductor company focusing on 5G/4G IoT semiconductor technology, has officially closed a $384 million strategic investment to kick off its Bitcoin treasury initiative. The deal combines $195 million in equity financing and $189 million in secured convertible debentures, reflecting growing institutional appetite for Bitcoin. The Offering included the sale of over [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Metaplanet Enters \u2018Bitcoin Gold Rush\u2019 with Plans to Buy 210,000 BTC by 2027",
+      "link": "https://bitcoinmagazine.com/news/metaplanet-enters-bitcoin-gold-rush-with-plans-to-buy-210000-btc-by-2027",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Metaplanet-Enters-Bitcoin-Gold-Rush-with-Plans-to-Buy-210000-BTC-by-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/metaplanet-enters-bitcoin-gold-rush-with-plans-to-buy-210000-btc-by-2027\" rel=\"nofollow\">Metaplanet Enters &#8216;Bitcoin Gold Rush&#8217; with Plans to Buy 210,000 BTC by 2027</a></p> <p>Japan\u2019s top bitcoin treasury firm aims to grow its holdings to 210,000 BTC by 2027 and wants to use its growing reserves to buy cash-generating businesses.</p> <p>"
+    }
+  ],
   "Decrypt": [
+    {
+      "title": "SharpLink Gaming Stock Soars as Ethereum Treasury Firm Boosts Stash to $527 Million",
+      "link": "https://decrypt.co/329101/sharplink-gaming-soars-ethereum-treasury-boosts-stash-527-million",
+      "summary": "The \"Ethereum treasury firm\" is buying the second biggest digital coin to help shareholders get better value for money."
+    },
     {
       "title": "AMERICA INVEST ACT, CORP TREASURY STOCKS & PUMP FUN",
       "link": "https://decrypt.co/videos/interviews/cM75emeO/america-invest-act-corp-treasury-stocks-pump-fun",
@@ -128,11 +159,6 @@
       "title": "CRYPTO DIPS THEN RECOVERS, PUMPFUN PLANS TOKEN SALE, TARIFF HEADLINES RETURN",
       "link": "https://decrypt.co/videos/interviews/fklwKOPc/crypto-dips-then-recovers-pumpfun-plans-token-sale-tariff-headlines-return",
       "summary": "Crypto dips on tariff letters, then recovers. ETH outperforms, altcoins weak after PumpFun news. PumpFun plans $600m token sale, $4b valuation. Trump admin to publish crypto report on July 22. US government deposits $218k ETH to Coinbase. Robinhood speaking to US on tokenised shares. Truth Social files for Blue Chip crypto ETF. US drops appeal in Tornado Cash lawsuit. Strategy to raise $4.2b equity to buy BTC. Semler Scientific buys $20m BTC. Bit Digital pivots to ETH treasury, stock pumps. Tokenized assets on ETH hit $5b. Metaplanet to use BTC as collateral for M&amp;A. XRP CEO to testify before senate on legislation. SEC asks firms to amend SOL ETF applications. HK crypto stocks soar on stablecoin momentum. BBVA opens BTC, ETH trading for Spanish retail. El Salvador bought $800k BTC last week"
-    },
-    {
-      "title": "Bitcoin Volatility Hovers Near Historical Low, but 'Beware the Quiet,' Analysts Warn",
-      "link": "https://decrypt.co/329046/bitcoin-volatility-hovers-near-historical-low-but-beware-the-quiet-analysts-warn",
-      "summary": "The QCP Capital analysts warned that Q3-Q4 could bring \"fireworks\" as ETF inflows create a supply squeeze."
     }
   ],
   "CryptoBriefing": [
@@ -164,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin: Breaking down BTC\u2019s mid-cycle signals before it\u2019s too late",
+      "link": "https://ambcrypto.com/bitcoin-breaking-down-btcs-mid-cycle-signals-before-its-too-late/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-08T131652.371-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin metrics suggest mid-cycle strength, but volatility could rise as historical patterns repeat."
+    },
+    {
       "title": "Solana\u2019s DeFi milestone: TVL soars to $17.5B with new protocol leaders",
       "link": "https://ambcrypto.com/solanas-defi-milestone-tvl-soars-to-17-5b-with-new-protocol-leaders/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />JTO, KMNO, and Jupiter drive the surge as retail and yield farmers fuel the flywheel."
@@ -182,11 +213,6 @@
       "title": "1,140 ETH moved after 10 years \u2013 Will Ethereum prices react?",
       "link": "https://ambcrypto.com/1140-eth-moved-after-10-years-will-ethereum-prices-react/",
       "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-08T114601.648-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Despite headline moves, Ethereum\u2019s on-chain data reflects bullish signals and rising community engagement."
-    },
-    {
-      "title": "Bitcoin miners stock up, BTC slows: History points to what\u2019s coming next",
-      "link": "https://ambcrypto.com/bitcoin-miners-stock-up-btc-slows-history-points-to-whats-coming-next/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Gladys-32.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />What will miners do next? Hold or sell?"
     }
   ]
 }
