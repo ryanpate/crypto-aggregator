@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "AAVE Surges to 3-Week High, Dominating Soaring $56B DeFi Lending Market",
+      "link": "https://www.coindesk.com/markets/2025/07/08/aave-surges-to-3-week-high-dominating-soaring-56b-defi-lending-market",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Bull Mulls Different Kind of Corporate Treasury Strategy as Prices Continue on Hold",
+      "link": "https://www.coindesk.com/markets/2025/07/08/bitcoin-bull-mulls-different-kind-of-corporate-treasury-strategy-as-prices-continue-on-hold",
+      "summary": ""
+    },
+    {
       "title": "Polygon\u2019s Token Gains 3% After Seeing \u2018Exceptional\u2019 Trading Volume",
       "link": "https://www.coindesk.com/markets/2025/07/08/polygon-s-matic-gains-3-after-seeing-exceptional-trading-volume",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Tornado Cash Judge Will Not Permit Van Loon Verdict to Be Discussed During Upcoming Trial",
       "link": "https://www.coindesk.com/policy/2025/07/08/tornado-cash-judge-will-not-permit-van-loon-verdict-to-be-discussed-during-upcoming-trial",
       "summary": ""
-    },
-    {
-      "title": "U.S. Sanctions North Korean IT Workers Over 'Cyber Espionage,' Crypto Thefts",
-      "link": "https://www.coindesk.com/policy/2025/07/08/us-sanctions-north-korean-it-workers-over-cyber-espionage-crypto-thefts",
-      "summary": ""
-    },
-    {
-      "title": "Hedera\u2019s HBAR Rises After Inclusion in Grayscale Fund",
-      "link": "https://www.coindesk.com/markets/2025/07/08/hedera-s-hbar-ends-day-higher-after-inclusion-in-grayscale-fund",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "SOL futures funding rate turns negative: Is $180 the next stop?",
+      "link": "https://cointelegraph.com/news/sol-futures-funding-rate-turns-negative-is-180-the-next-stop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ViYTgtMjlkNi03MTI1LWI5ZGUtYmJiZDk3NWIyODNh.jpg\" /></p><p>Blockchain competitors and recent decisions by institutional investors chip away at Solana\u2019s market share. Will this impact SOL price?</p>"
+    },
+    {
+      "title": "Judge signals Tornado Cash sanctions may be barred from Roman Storm trial",
+      "link": "https://cointelegraph.com/news/roman-storm-judge-tornado-cash-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhZDUtMjgzNS03OTIyLWEzNjQtOWNlNTFmMjhkMjVj.jpg\" /></p><p>The judge reportedly said she would not be inclined to have attorneys bring up the US Treasury\u2019s 2022 sanctions against Tornado Cash after they were withdrawn in March.</p>"
+    },
+    {
+      "title": "Projective Finance opens $7M onchain lending pool for Illinois solar projects",
+      "link": "https://cointelegraph.com/news/projective-finance-illinois-solar-school-lending-pool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhZjUtNzc2NS03MDQyLWIxOWItNDMwMTUzYjAyNDg0.jpg\" /></p><p>The sustainability-focused platform uses Avalanche to tokenize municipal loans, giving DeFi investors direct exposure to government-backed renewable energy infrastructure.</p>"
+    },
     {
       "title": "SOL news update: Bullish chart setup trumps Solana ETF delay",
       "link": "https://cointelegraph.com/news/sol-news-update-bullish-chart-setup-trumps-solana-etf-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "Ripple CEO, ex-US regulators to address market structure at Senate hearing",
       "link": "https://cointelegraph.com/news/ripple-ceo-cftc-members-crypto-market-structure-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFlMWQtMzY4OS03ZTQ1LThmZjMtZDlhM2M5MjUzZmQ1.jpg\" /></p><p>The hearing will come after the US Senate passed legislation to address stablecoin regulation and Republican House leadership said they would handle three bills starting on Monday.</p>"
-    },
-    {
-      "title": "ETH news update: Will Ether ETF buying help bulls secure close above $2.7K?",
-      "link": "https://cointelegraph.com/news/eth-news-update-will-ether-etf-buying-help-bulls-secure-close-above-dollar2-7k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhOWYtMThiMS03NzNhLTg4MjEtYmU5OTc0OThkNThk.jpg\" /></p><p>Positive newsflow, a change in investor sentiment, and steady ETH ETF buying could help Ether rally above $2,700.</p>"
-    },
-    {
-      "title": "ReserveOne to go public via merger, create crypto reserve",
-      "link": "https://cointelegraph.com/news/reserveone-go-public-merger-crypto-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhZjQtYjlmNy03YWQ4LTljY2EtMWM4OTk5MzdiOWI3.jpg\" /></p><p>RerserveOne is headed by Jaime Leverton, who has been involved with Bitcoin mining companies Hut 8 and Riot Platforms.</p>"
-    },
-    {
-      "title": "Bitcoin news update: BTC range tightening hints at price break to new highs",
-      "link": "https://cointelegraph.com/news/bitcoin-news-update-btc-range-tightening-hints-at-price-break-to-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBiMWQtYjNjMC03ZTc4LTkzZmYtMzZlZmVlZTY4MmFk.jpg\" /></p><p>Bitcoin\u2019s trading range tightens as bulls buy minor corrections while pushing BTC\u2019s average daily trading price higher.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Stablecoin issuers\u2019 $182 billion US Treasury hoard ranks 17th among countries, beating UAE and South Korea",
+      "link": "https://cryptoslate.com/stablecoin-issuers-182-billion-us-treasury-hoard-ranks-17th-among-countries-beating-uae-and-south-korea/",
+      "summary": "<p>Four US-dollar stablecoin issuers hold roughly $182 billion in US Treasury bills, an amount that would slot them 17th on the Treasury Department\u2019s country-by-country league table. The amount in overnight Treasury-collateralized repos and Treasury-heavy money market funds would put the group between Norway\u2019s $195.9 billion and Saudi Arabia\u2019s $133.8 billion. Tether&#8217;s USDT tops the cohort. [&#8230;]</p> <p>"
+    },
     {
       "title": "Volkswagen ADMT chooses Solana-based Hivemapper to power Robotaxi test fleet",
       "link": "https://cryptoslate.com/volkswagen-admt-chooses-solana-based-hivemapper-to-power-robotaxi-test-fleet/",
@@ -73,14 +78,14 @@
       "title": "Tether holds $8 billion worth of gold in Swiss vault, matching UBS exposure",
       "link": "https://cryptoslate.com/tether-holds-8-billion-worth-of-gold-in-swiss-vault-matching-ubs-exposure/",
       "summary": "<p>Tether CEO Paolo Ardoino revealed that the firm holds roughly $8 billion in gold in a Swiss vault during an interview with Bloomberg News on July 7. Ardoino called the site &#8220;the most secure vault in the world&#8221; and said the company owns almost the entire 80-ton stockpile outright, placing the El Salvador-based issuer among [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin ETFs now drive over 30% of spot BTC volume as overall trading slumps",
-      "link": "https://cryptoslate.com/insights/bitcoin-etfs-now-drive-over-30-of-spot-btc-volume-as-overall-trading-slumps/",
-      "summary": "<p>Spot Bitcoin exchange-traded funds (ETFs) have rapidly established themselves as a dominant force in the market, now representing more than 30% of the total BTC spot trading volume. This shift highlights how traditional financial products have swiftly captured the market as institutional and retail investors increasingly turn to regulated avenues for Bitcoin exposure. However, this [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Last Time This Happened, Bitcoin Jumped $50,000\u2014Is History Repeating?",
+      "link": "https://www.newsbtc.com/bitcoin-news/last-time-this-happened-bitcoin-jumped-50000/",
+      "summary": "The Bitcoin market appears to be coiling for a major move, according to prominent crypto analyst CrediBull Crypto (@CredibleCrypto), who highlighted today via X that over 80% of all Bitcoin in existence is currently being held by long-term investors\u2014levels of supply constraint previously seen only at major inflection points in Bitcoin\u2019s price history. Why No One\u2019s Selling Bitcoin In his post, CrediBull noted, \u201cThe only 2 times in Bitcoin&#8217;s 15 year history that this % was higher was at 43k before a $30,000 impulse to 73k and at 58k before a $50,000 impulse to 105k+.\u201d Drawing on this historical precedent, he concluded that the market is poised for another massive leg up: \u201cWhen the majority of $BTC total circulating supply is cornered by \u2018diamond hands\u2019, price moves up aggressively at the hint of any \u2018new\u2019 demand.\u201d With &#8220;excess&#8221; supply now redistributed to long-term holders and institutional entities such as Bitcoin treasury companies increasingly taking the lead, the analyst sees a clear signal: \u201cThe next impulse IS IMMINENT. This next one will also likely be even bigger than the last two ($50,000+). Who&#8217;s ready for 150k+ Bitcoin?\u201d Related Reading: 2025\u2019s Biggest Bitcoin Bull Trigger Is Still Hidden, Expert Reveals The optimism is not without a technical underpinning. In a previous post, CrediBull addressed the current market structure and his own Elliott Wave-based scenario planning: \u201cMy original count/idea shared a few days ago had us rejecting at range highs above 110k and seeing a pullback down to the BLUE zone at 102k-ish before moving sideways for a few more weeks before the next impulse begins.\u201dHowever, the analyst acknowledged a significant alternative possibility: \u201cI do still think this scenario is probable, I also recognize that there is a non-zero chance that the next impulse up has already begun (most bullish scenario depicted).\u201d Given the price action and structure, CrediBull argued that the risk-reward profile no longer favors bearish positioning. \u201cIn either case, downside is relatively limited on Bitcoin from current levels imo and so focus should be on identifying potential long opps on Bitcoin rather than looking to short clear strength.\u201d Related Reading: Bitcoin\u2019s Liquidity Lifeline Just Got Cut\u2014What You Need To Know He punctuated the point with a rhetorical jab: \u201cWhy is it now illegal to short Bitcoin? Because there is a non-zero chance that the next impulse up has already begun.\u201d Adding a layer of technical confirmation, analyst Axel Adler Jr provided a concurrent signal from volatility metrics. Adler pointed to a significant Bollinger Bands squeeze underway, writing: \u201cThe range between the upper and lower boundaries has fallen to 7.7%\u2014one of the lowest values throughout the entire bull cycle.\u201d Such compressions in volatility historically precede large directional moves. Adler explained, \u201cThe decrease in volatility indicates energy accumulation in the market; the price is ready for a rally, and in an upward trend environment, the chances of an upward breakout are significantly higher.\u201d In the current cycle, Adler has identified six episodes of such squeezes. Four were immediately followed by strong price appreciation, while the remaining two saw brief corrections before continuing upward. The takeaway: \u201cBased on this experience, the current squeeze most likely foreshadows another upward impulse, although a small consolidation before the move is also not ruled out.\u201d With long-term holders now controlling an overwhelming share of supply, bullish technical compression in play, and institutional adoption continuing to absorb circulating coins, the environment CrediBull describes echoes past moments of explosive upside. While nothing is guaranteed, the combination of on-chain metrics and technical indicators suggest Bitcoin\u2019s next chapter may already be beginning\u2014quietly, beneath the surface. At press time, BTC traded at $108,738. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Bitcoin Price Crash To $92,000 Or New ATHs? Analyst Explains The 2 Options",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-crash-to-92000/",
@@ -100,11 +105,6 @@
       "title": "Snaky Way Presale Live: AI Meme Coin $AKE Gears Up for Bull Run",
       "link": "https://www.newsbtc.com/news/snaky-way-presale-live-ai-meme-coin-ake-gears-up-for-bull-run/",
       "summary": "If you\u2019ve been around crypto long enough, you know the signs. Bitcoin wakes up. Ethereum starts stretching. Suddenly, the air feels different. Whispers of the next bull run are back. And as always, the early birds are hunting for that next moonshot. While most eyes are glued to the usual suspects, a slithery new player is wriggling into the spotlight \u2013 and no, it\u2019s not another dog coin. Snaky Way ($AKE), a meme coin with actual utility, is now in the presale phase and turning heads. Packed with AI-powered buybacks, multichain access, and a play-to-earn game, Snaky Way is shaping up to be a meme coin with real staying power. The crypto presale is now live, and early buyers are already scooping up $AKE at just $0.0000942. Let&#8217;s dive in \u2013 but watch your step, there might be a snake lurking nearby. What Is Snaky Way ($AKE) and Why Is It Different? Snaky Way ($AKE) is part meme coin, part AI bot, and part arcade. That\u2019s already three more things than most of the best meme coins offer. The token at the center of it all is $AKE \u2013 yes, like \u2018snake\u2019 without the \u2018sn.\u2019 It\u2019s crawling onto seven blockchains, including Ethereum, Polygon, and Arbitrum, so you can dodge gas fees like a ninja. But here\u2019s the real twist: they\u2019ve embedded an AI agent into the smart contract that automatically buys back tokens when the price starts to dip. Think of it like a tiny, caffeinated trader living in your token. It watches the price 24/7. When panic sellers show up, it steps in and buys the dip \u2013 automatically. That helps smooth out those gut-wrenching price dumps that meme coins are famous for. Oh, and there&#8217;s a snake-themed game coming too. Win matches, earn $AKE, and spend tokens on in-game gear and tournaments. So instead of just hoping the token moons, you\u2019re actually doing something with it. Imagine if Flappy Bird paid your rent \u2013 it\u2019s a bit like that, just less flapping and more slithering. Why Buy $AKE Right Now? Right now, you can snag $AKE for just $0.0000942. That\u2019s couch-cushion money. But we&#8217;ve all seen what happens when a meme coin catches fire. Just ask early $DOGE or $SHIB holders, who are looking at returns of over 30,000% and 800,000%, respectively, since listing. The presale is already gaining momentum with $164K raised and climbing. This isn\u2019t just a hobby project with vibes and a dream. The team\u2019s got a roadmap, audits, and tokenomics that actually make sense. Only 3% of tokens go to the team, and they\u2019re vesting. That\u2019s a far cry from the usual 20%+ cash grabs you see all over new crypto launches. They\u2019re setting aside 30% of the supply for early buyers and using 29% for marketing, which, let\u2019s be real, is the lifeblood of meme coins. Even the best altcoins need eyeballs to grow. The rest goes to liquidity, staking rewards, and community goodies. Speaking of staking, early $AKE holders are seeing annual returns north of 10,000% right now. That number will shrink as more people join, but hey, it\u2019s not every day that your meme coin offers rewards that look like lottery numbers. With strong tokenomics, multichain support, and a game that gives the coin purpose beyond \u2018number go up,\u2019 Snaky Way is sliding into some serious potential. Don\u2019t Sleep on the Snake The Snaky Way ($AKE) presale is live, and the stars are lining up. You\u2019ve got meme appeal, gaming utility, and a smart AI system keeping price dips in check. It\u2019s weirdly serious for a meme coin, and that\u2019s exactly why it might surprise everyone when the market starts heating up again. Meme coins usually come down to hype and timing. Snaky Way brings something new to the table: a reason to stay. And if history repeats itself, the next bull run might just crown a new reptilian king. As always, remember this is not financial advice, and do your own research (DYOR) before investing in crypto."
-    },
-    {
-      "title": "Solana\u2019s Pump.Fun Loses Steam With Exit Scam Rumors, LetsBonk.Fun Claims 54% Of Total Market Share",
-      "link": "https://www.newsbtc.com/news/solana/solanas-pump-fun-loses-steam/",
-      "summary": "Solana meme coin launchpad Pump.fun has lost a significant chunk of its market share to LetsBonk.fun. This comes just ahead of the former\u2019s token generation event, in which the launchpad could raise up to $4 billion. Solana\u2019s Pump.fun Loses Dominance To LetsBonk.fun In an X post, Solana News revealed that Pump.fun has hit a new all-time low with just a 36% market share, while LetsBonk.fun\u2019s market share has surged to 54%. Jup data also confirms this development. At press time, LetsBonk boasts a market share of 48.90%, with a 24-hour trading volume of $539 million. On the other hand, Pump boasts a market share of 39.80%, with a 24-hour trading volume of $438 million. Related Reading: Analyst Says Buying This Meme Coin Is A 3X Leveraged Play If Solana ETFs Go Live This development comes amid Pump.fun\u2019s proposed public token sale, scheduled for July 12. Well-known Solana influencer Lynk has described this token sale as the \u201cfinal scam\u201d for the meme coin launchpad. The platform has been under heavy criticism for the amount of money that it has extracted from the Solana ecosystem, without incentivizing community members in any way. Some community members had expected Pump.fun to airdrop its token to rewards platform users instead of conducting a public token sale. Lynk shared details of the public sale, with the meme coin launchpad planning to sell the \u2018PUMP\u2019 tokens $0.004 each. The token boasts a total supply of 1 trillion, meaning a fully diluted value (FDV) of $4 billion. However, Pump.fun plans to raise around $600 million from the public token sale, as only $150 billion tokens will be available. The meme coin launchpad is expected to also conduct a private sale in order to complete its $1 billion capital raise effort, as earlier reported. LetsBonk.fun To Keep Dominating Pump.fun In an X post, crypto influencer Unipcs, also known as \u2018Bonk Guy,\u2019 opined that Pump.fun isn\u2019t done, but that LetsBonk.fun will likely continue to be the industry leader. He predicts that this will be the case for the foreseeable future. He outlined several reasons why he believes this would be the case. Related Reading: Solana Picture Bigger Than $420: Analyst Predicts 140% Surge To New ATHs Firstly, he stated that LetsBonk\u2019s pro-creator, pro-people, pro-Solana ecosystem alignment is a massive strength over Pump.fun. Secondly, Bonk Guy remarked that the strong culture of support within the BONK ecosystem is incredibly hard to replicate by any other platform in a short period. Furthermore, the crypto influencer remarked that Pump.fun had a lot of momentum as a tokenless protocol, especially with a token generation event (TGE). However, LetsBonk.fun was able to flip the platform during this period. As such, Bonk Guy believes that it is hard to see Pump.fun sustainably recover the kind of market share it once had after the TGE event. He also suggested that a \u201cnon-negligible amount of activity on Pump.fun is inorganic with a lot os users farming on the platform, hoping that there was going to be an airdrop. As such, the influencer believes that the traffic will dry up once the TGE is over. Featured image from Adobe Stock, chart from Tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "'OpenSeason' Crypto Game Goes Offline as Devs Pivot to Gambling on Nudity",
+      "link": "https://decrypt.co/328937/openseason-crypto-game-goes-offline-devs-pivot-gambling-nudity",
+      "summary": "Fractional Uprising's team has shifted gears after its token plummeted, hoping to draw in degens with AI-generated nudity and crypto gambling."
+    },
+    {
       "title": "SharpLink Gaming Stock Soars as Ethereum Treasury Firm Boosts Stash to $527 Million",
       "link": "https://decrypt.co/329101/sharplink-gaming-soars-ethereum-treasury-boosts-stash-527-million",
       "summary": "The \"Ethereum treasury firm\" is buying the second biggest digital coin to help shareholders get better value for money."
@@ -154,11 +159,6 @@
       "title": "Crypto Treasury ReserveOne Eyes Nasdaq Listing Via $1 Billion SPAC Deal",
       "link": "https://decrypt.co/329083/reserveone-eyes-nasdaq-listing-1-billion-spac-deal",
       "summary": "The company\u2019s board of directors includes names from Coinbase, Binance, and Trump\u2019s first administration."
-    },
-    {
-      "title": "CRYPTO DIPS THEN RECOVERS, PUMPFUN PLANS TOKEN SALE, TARIFF HEADLINES RETURN",
-      "link": "https://decrypt.co/videos/interviews/fklwKOPc/crypto-dips-then-recovers-pumpfun-plans-token-sale-tariff-headlines-return",
-      "summary": "Crypto dips on tariff letters, then recovers. ETH outperforms, altcoins weak after PumpFun news. PumpFun plans $600m token sale, $4b valuation. Trump admin to publish crypto report on July 22. US government deposits $218k ETH to Coinbase. Robinhood speaking to US on tokenised shares. Truth Social files for Blue Chip crypto ETF. US drops appeal in Tornado Cash lawsuit. Strategy to raise $4.2b equity to buy BTC. Semler Scientific buys $20m BTC. Bit Digital pivots to ETH treasury, stock pumps. Tokenized assets on ETH hit $5b. Metaplanet to use BTC as collateral for M&amp;A. XRP CEO to testify before senate on legislation. SEC asks firms to amend SOL ETF applications. HK crypto stocks soar on stablecoin momentum. BBVA opens BTC, ETH trading for Spanish retail. El Salvador bought $800k BTC last week"
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin crash narrative returns as geopolitical tensions mount",
+      "link": "https://ambcrypto.com/bitcoin-crash-narrative-returns-as-geopolitical-tensions-mount/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As U.S. allies face new duties, Bitcoin acts less like gold and more like tech."
+    },
+    {
       "title": "\u2018Altcoins are back to following Bitcoin\u2019s lead:\u2019 Is an altseason brewing?",
       "link": "https://ambcrypto.com/altcoins-are-back-to-following-bitcoins-lead-is-an-altseason-brewing/",
       "summary": "<img alt=\"&#039;Altcoins are back to following Bitcoin&#039;s lead:&#039; Is an altseason brewing?\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Altcoin-season-incoming.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1267\" />The Altcoin Index says \u201cnot yet,\u201d but the charts suggest something bigger is brewing."
@@ -208,11 +213,6 @@
       "title": "Solana active addresses hit new high \u2013 So why is SOL still falling?",
       "link": "https://ambcrypto.com/solana-active-addresses-hit-new-high-so-why-is-sol-still-falling/",
       "summary": "<img alt=\"Solana active addresses hit new high - So why is SOL still falling?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250708_123742_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL active addresses surge, but price slips despite on-chain spike."
-    },
-    {
-      "title": "MSTR stock dips 2% \u2013 Is Strategy\u2019s Bitcoin bet still paying off?",
-      "link": "https://ambcrypto.com/mstr-stock-dips-2-is-strategys-bitcoin-bet-under-pressure/",
-      "summary": "<img alt=\"MSTR stock slides\" class=\"attachment-full size-full wp-post-image\" height=\"734\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/MSTR-stock-slides.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1305\" />Everyone\u2019s watching MSTR\u2019s next move, will $14B in Bitcoin gains be enough to silence critics?"
     }
   ]
 }
