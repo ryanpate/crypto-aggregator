@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "OFAC\u2019s Dropped Sanctions Against Tornado Cash Can\u2019t Come Up at Trial, Judge Says",
+      "link": "https://www.coindesk.com/policy/2025/07/08/ofacs-dropped-sanctions-against-tornado-cash-cant-come-up-at-trial-judge-says",
+      "summary": ""
+    },
+    {
       "title": "AAVE Surges to 3-Week High, Dominating Soaring $56B DeFi Lending Market",
       "link": "https://www.coindesk.com/markets/2025/07/08/aave-surges-to-3-week-high-dominating-soaring-56b-defi-lending-market",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Ether Treasury Firm BTCS Surges 100% on $100M ETH Buying Plan",
       "link": "https://www.coindesk.com/markets/2025/07/08/ether-treasury-firm-btcs-surges-100-on-100m-eth-buying-plan",
       "summary": ""
-    },
-    {
-      "title": "Tornado Cash Judge Will Not Permit Van Loon Verdict to Be Discussed During Upcoming Trial",
-      "link": "https://www.coindesk.com/policy/2025/07/08/tornado-cash-judge-will-not-permit-van-loon-verdict-to-be-discussed-during-upcoming-trial",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin metric says $100K BTC was the bottom: When will a rally to new highs start?",
+      "link": "https://cointelegraph.com/news/bitcoin-metric-says-100k-btc-was-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ViNzQtNGRlOS03MGMzLTlkOWUtNTM5NmM5NGVkMmUy.jpg\" /></p><p>Bitcoin\u2019s inflow/outflow ratio fell to 2022 lows, and the cumulative volume delta shows short-selling pressure failing to push prices lower. Time for a rally?</p>"
+    },
     {
       "title": "$31B stablecoin surge at Binance revives traders\u2019 altseason hopes",
       "link": "https://cointelegraph.com/news/dollar31b-stablecoin-surge-at-binance-revives-traders-altseason-hopes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "SOL futures funding rate turns negative: Is $180 the next stop?",
       "link": "https://cointelegraph.com/news/sol-futures-funding-rate-turns-negative-is-180-the-next-stop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ViYTgtMjlkNi03MTI1LWI5ZGUtYmJiZDk3NWIyODNh.jpg\" /></p><p>Blockchain competitors and recent decisions by institutional investors chip away at Solana\u2019s market share. Will this impact SOL price?</p>"
-    },
-    {
-      "title": "Judge signals Tornado Cash sanctions may be barred from Roman Storm trial",
-      "link": "https://cointelegraph.com/news/roman-storm-judge-tornado-cash-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhZDUtMjgzNS03OTIyLWEzNjQtOWNlNTFmMjhkMjVj.jpg\" /></p><p>The judge reportedly said she would not be inclined to have attorneys bring up the US Treasury\u2019s 2022 sanctions against Tornado Cash after they were withdrawn in March.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Survey finds gaps in mainstream Bitcoin coverage, leaving institutional investors exposed",
+      "link": "https://cryptoslate.com/survey-finds-gaps-in-mainstream-bitcoin-coverage-leaving-institutional-investors-exposed/",
+      "summary": "<p>A second-quarter survey of 18 mainstream news outlets logged 1,116 Bitcoin (BTC) stories and measured sentiment at 31% positive, 41% neutral, and 28% negative, according to Bitcoin analysis firm Perception. The data reveal a significant gap between finance-focused media that cover the market extensively and legacy publications that rarely address it. Sparse coverage Perception counted [&#8230;]</p> <p>"
+    },
     {
       "title": "Joe Lubin forecasts Ethereum treasury strategies will reshape Wall Street perception",
       "link": "https://cryptoslate.com/joe-lubin-forecasts-ethereum-treasury-strategies-will-reshape-wall-street-perception/",
@@ -73,14 +78,14 @@
       "title": "SharpLink stock continues surging as treasury tops 200k Ethereum",
       "link": "https://cryptoslate.com/sharplink-stock-continues-surging-as-treasury-tops-200k-ethereum/",
       "summary": "<p>SharpLink Gaming shares surged nearly 26% on July 8 after the Minneapolis-based online gaming company revealed a major expansion of its crypto treasury, bringing its total Ethereum (ETH) holdings to over 200,000 coins. The company announced it had purchased an additional 7,689 ETH for approximately $19.2 million at an average price of $2,501 per coin. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "The capital migration that could reshape finance",
-      "link": "https://cryptoslate.com/the-capital-migration-that-could-reshape-finance/",
-      "summary": "<p>The following is a guest post and opinion from Patrick Heusser, Head of Lending &#38; TradFi at Sentora. Capital is undergoing a structural reallocation. What once sat securely in fractional-reserve bank accounts is now increasingly flowing into fully funded, blockchain-based financial systems. From stablecoins like USDC and USDT to tokenized T-bills, institutional and retail capital [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Turns Key Resistance Into Support \u2013 Momentum Builds For Range Breakout",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-turns-key-resistance-into-support-momentum-builds-for-range-breakout/",
+      "summary": "Ethereum is consolidating above the $2,500 mark, showing resilience amid broader market uncertainty. While bulls have successfully flipped $2,500 from resistance into support, the price still faces significant pressure below the $2,700 zone. This range-bound behavior has persisted since early May, and the coming days are likely to define the next major move, not only for ETH but also for the broader altcoin market. Related Reading: Ethereum Range Tightens \u2013 Liquidity Looms At $2,800 And $2,350 Top analyst Ted Pillows shared technical insights, highlighting Ethereum\u2019s current structure, particularly after the $2,500 level was reclaimed. However, the next challenge lies in reclaiming the range high. A breakout above this key resistance could trigger a strong bullish continuation and potentially ignite an altseason, as capital often rotates into altcoins once ETH gains momentum. On the flip side, failure to sustain current support may open the door for a pullback toward lower demand levels. For now, bulls appear to be in control, but the market remains on edge, awaiting a decisive move. Whether ETH can build enough strength to break through resistance or slips into another leg of consolidation will likely shape sentiment and positioning for the weeks ahead. Ethereum Builds Strength As It Eyes Range High Ethereum continues to trade within a well-defined consolidation zone, oscillating between $2,400 and $2,700 since early May. After reclaiming the $2,500 level and flipping it into support, ETH now looks poised for a potential breakout. Ted Pillows highlighted this shift in momentum, stating that Ethereum is \u201clooking good\u201d and could soon revisit the upper boundary of the range. However, despite Ethereum\u2019s strength, broader market conditions remain mixed. Bitcoin\u2019s failure to break above its all-time high adds pressure to the crypto market, and altcoins continue to struggle to find solid footing. While macroeconomic uncertainty has eased following encouraging job reports and legislative developments in the US, headwinds persist. Rising US Treasury yields and the Federal Reserve\u2019s ongoing delay in cutting interest rates contribute to a cautious environment. Still, Ethereum\u2019s ability to hold above $2,500 suggests bullish intent. If price pushes toward and ultimately breaks above $2,700, it could trigger a broader move across altcoins, reawakening market momentum. But without a breakout in the short term, another leg of consolidation\u2014or even a pullback\u2014remains possible. This week may prove pivotal in setting the tone for Ethereum and the altcoin market\u2019s next phase. Related Reading: Ethereum Risks Downside If Resistance Holds: $2,700 Level Is Critical ETH Tests Resistance As Consolidation Tightens Ethereum is trading at $2,550, holding above its key moving averages and continuing to consolidate in a tight range. The daily chart shows that ETH is attempting to break above the 200-day moving average (red), currently sitting near $2,488, while managing to stay above both the 50-day (blue) and 100-day (green) moving averages. This convergence of key technical levels highlights the current equilibrium between bulls and bears. Despite multiple attempts since early May, Ethereum has not been able to sustain a breakout above the $2,700 mark. Each push higher has faced selling pressure, suggesting that this zone remains a major area of resistance. However, recent price action shows higher lows and strong defense of the $2,500 level, signaling building momentum. Related Reading: Altcoins Set A Higher Low \u2013 Bulls Target 2024 High To Trigger Altseason Trading volume remains relatively flat, which aligns with the ongoing consolidation, but could also foreshadow a volatility spike once direction is confirmed. A successful daily close above the $2,600\u2013$2,700 zone could trigger an impulsive move toward $3,000 and beyond. Conversely, a breakdown below the $2,480 level would invalidate the bullish structure and shift sentiment. Featured image from Dall-E, chart from TradingView"
+    },
     {
       "title": "Ethereum ETF Inflows Hit 8-Week Streak\u2014Institutions Still Buying",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-etf-inflows-8-streak-institutions-buying/",
@@ -100,11 +105,6 @@
       "title": "PEPE Traders Spot Breakout Echo\u2014Explosive Surge Back On The Table?",
       "link": "https://www.newsbtc.com/altcoin/pepe-traders-spot-breakout-echo-20x-surge-back-on-the-table/",
       "summary": "Based on reports from the trading account Bitcoinensus on X, PEPE has formed a pattern that led to a 10x rally in the past. Now, some chart watchers believe a similar move could push prices even higher\u2014possibly up to 20X the current level. Related Reading: XRP Could Hit $35 If It Captures A Quarter Of Remittance Market By 2029 Flag And Breakout Signals Drive Hope Traders spot a \u201cflag\u201d shape when price moves sideways after a drop and rise. Bitcoinensus pointed out that PEPE first formed one flag, then shot up from about $0.0000015 to $0.000015\u2014a roughly 10x gain. The chart showed a second flag forming recently, and if PEPE breaks out again, it could mirror that earlier surge. Based on reports, a fresh breakout might send PEPE toward a 20X move from today\u2019s prices. $PEPE Macro Outlook \ud83d\udd25\ud83d\ude80 PEPE has been repeating the same explosive pattern: \ud83d\udcc9 Flag \u2192 \ud83d\udcc8 Breakout \u2192 \ud83d\udcc9 Flag \u2192 \ud83d\udcc8 Breakout So far: Accumulation 1 \u2192 10x Accumulation 2 \u2192 Breakout in progress The next big move up will probably lead to the cycle top. History doesn\u2019t\u2026 pic.twitter.com/Rqc6KBfWgn \u2014 Bitcoinsensus (@Bitcoinsensus) July 7, 2025 Price Targets And Support Levels Tested In a follow\u2011up post, Solberg Invest on X laid out a bullish short\u2011term view. Their target sits at $0.000015 if PEPE holds above the key support line at $0.0000102. That level has been tested multiple times in recent weeks, demonstrating some buying interest each time prices approached it. Traders warn that slipping below $0.0000102 could derail hopes for the next big leg up. Triangle Formation Signals Tension A recent chart indicates that PEPE is trading within a triangle pattern. Traders track triangles closely because they can lead to rapid moves following a breakout. Currently, PEPE is wedged at the top of this triangle. When trading volume picks up and the token closes over the old resistance line (indicated in red), it could ignite a new wave of buyers. Community Buzz Keeps Meme Coins Alive Meme tokens survive by social fervor, and PEPE has developed a devoted fan base on sites like X. Meme posts and community-led memes have powered previous rallies, prompting new investors to jump aboard. According to reports, continued buzz might be sufficient to initiate another run at least in the near term. Related Reading: Bitcoin Meets Heartbreak In Drake\u2019s Latest Track\u2014Details Risks And Rewards In Focus Even if history does rhyme, it doesn&#8217;t often repeat itself. Previous runs had PEPE tank just as severely, losing as much as 95% of profits in one session. Gambling on a 20X spike involves taking wild swings and sudden plunges. Anyone considering coming in at $0.0000102 should have in mind exit points and only risk capital that can be safely lost. Featured image from Meta, chart from TradingView"
-    },
-    {
-      "title": "Pundit Explains Why XRP Stands To Gain Big From Ripple\u2019s RLUSD",
-      "link": "https://www.newsbtc.com/xrp-news/why-xrp-stands-to-gain-big-from-ripple-rlusd/",
-      "summary": "Ripple\u2019s dollar-pegged stablecoin, Ripple USD (RLUSD), has spent the past six months quietly becoming one of the fastest-growing assets in the $160 billion stable-value sector, even though almost all of its issuance still sits on a rival network, not the XRP Ledger. That dichotomy\u201495 percent of the $455 million supply now lives on Ethereum\u2014was the starting point for a lively weekend exchange on X between XRP pundit \u201cCrypto Eri\u201d and sceptics who questioned whether Ripple\u2019s plans would ever benefit the XRP Ledger (XRPL) itself. XRP\u2019s Hidden Advantage? \u201cRipple is a long-game player,\u201d Eri wrote. \u201cIts public statements to integrate smart contracts on the mainnet will eventually position RLUSD on XRPL as a more competitive stablecoin, with faster and cheaper settlements than Ethereum.\u201d The remark landed just days after Ripple switched on its EVM-compatible sidechain, bringing full Ethereum-style smart-contract functionality to XRPL on 30 June 2025. More than 1,400 contracts were deployed in the first week, according to developer telemetry, and the bridge is already live to 80 other chains through Axelar. Related Reading: XRP Set To Shock The Crypto Market With 30% Share, Analyst Predicts On-chain data underscore the stakes. RLUSD\u2019s circulating supply rose by 47 percent in June alone to $455 million, the fastest pace among major stablecoins, with roughly $390 million now native to Ethereum after a four-fold expansion since January. Only about $65 million remains on XRPL. That imbalance prompted one user to tell Eri that RLUSD\u2019s utility \u201cimpacts ETH more than XRP.\u201d She conceded the point\u2014\u201ccorrect, for now\u201d\u2014but argued demand would migrate once XRPL\u2019s programmability and liquidity deepen. Ripple\u2019s strategy hinges on more than code. On 2 June the company applied to the US Office of the Comptroller of the Currency for a national trust-bank charter. A parallel filing by its subsidiary, Standard Custody &#38; Trust, seeks a Federal Reserve master account so that RLUSD reserves can eventually sit at the central bank rather than a correspondent institution. The timing aligns with the pending GENIUS Act, bipartisan legislation that for the first time would impose a single federal regime on payment-stablecoin issuers. While the bill\u2019s $10 billion-asset threshold means RLUSD could remain under New York oversight for now, the application positions Ripple to graduate into federal supervision voluntarily\u2014a move CEO Brad Garlinghouse has called a \u201cnew (and unique!) benchmark for trust in the stablecoin market.\u201d Eri underscored the charter angle in her post: \u201cThe national banking license application, aligned with the GENIUS Act, secures a Federal Reserve master account \u2026 enhancing trust, expanding crypto financial and payment services, and removing the patchwork of state licenses, enabling continued scalability at lower cost.\u201d Related Reading: XRP Price Risks Breakdown To Next Support Level, Why $2.28 Is Important If the charter is granted and RLUSD begins to migrate on-demand to XRPL, two flywheels favor the native token, analysts say. First, RLUSD remittances on XRPL would pay transaction fees in XRP, turning every dollar of stablecoin volume into incremental demand for the asset Ripple still holds in large quantities. Second, the EVM sidechain lets decentralized-finance builders tap RLUSD liquidity without leaving XRP\u2019s low-cost consensus layer, potentially reversing the flow of users and liquidity that has so far moved toward Ethereum. \u201cThese calculated steps in the $$$$$-dollar stablecoin market give the digital asset XRP enormous potential, but require more time to unfold,\u201d Eri argues. For now, RLUSD\u2019s growth is still driven by Ethereum\u2019s DeFi economy, and sceptics like user \u201csammie\u201d insist \u201cit\u2019s always going to be like this.\u201d Eri\u2019s final reply was succinct: \u201cLet\u2019s see. I know we\u2019ll be touching base often!\u201d That brevity captures both the promise and the uncertainty ahead. Technical rails are in place; regulatory applications are filed. Whether capital, compliance, and market demand will converge quickly enough to shift billions of RLUSD onto XRPL\u2014and in turn lift XRP\u2019s utility\u2014remains the multi-billion-dollar question. At press time, XRP traded at $2.27. Featured image created with DALL.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "Why Ethereum Layer-2 Arbitrum Is Built to Power AAA Games: Offchain Labs CEO",
+      "link": "https://decrypt.co/329153/why-ethereum-layer2-arbitrum-built-power-aaa-games-offchain-labs-ceo",
+      "summary": "The flexibility of Arbitrum\u2019s tech stack should make the layer-2 network a go-to for game developers, Offchain Labs CEO Steven Goldfeder said."
+    },
+    {
+      "title": "Hackers Target Bitcoin Wallet Holding Billions Swiped From Mt. Gox",
+      "link": "https://decrypt.co/329146/hackers-target-bitcoin-wallet-holding-billions-swiped-mt-gox",
+      "summary": "Scammers appear to be targeting a Bitcoin address holding $8.7 billion in BTC\u2014stolen from the Mt. Gox exchange\u2014with a phishing attempt."
+    },
+    {
+      "title": "ChatGPT Sent Users to a Website for a Feature It Didn't Have\u2014So the Founder Built It",
+      "link": "https://decrypt.co/329139/chatgpt-sent-users-website-feature-didnt-have-founder-built",
+      "summary": "After ChatGPT falsely claimed that a feature existed at a music tabs website, Soundslice built it to meet user demand."
+    },
+    {
       "title": "Will Bitcoin Breakout This Week? Price Charts Flash Mixed Signals",
       "link": "https://decrypt.co/329110/bitcoin-price-breakout-myriad-predictions",
       "summary": "With a prediction market deadline fast approaching, traders on Myriad are split as momentum wanes and resistance looms just above the $109K price mark for Bitcoin."
@@ -144,21 +159,6 @@
       "title": "'OpenSeason' Crypto Game Goes Offline as Devs Pivot to Gambling on Nudity",
       "link": "https://decrypt.co/328937/openseason-crypto-game-goes-offline-devs-pivot-gambling-nudity",
       "summary": "Fractional Uprising's team has shifted gears after its token plummeted, hoping to draw in degens with AI-generated nudity and crypto gambling."
-    },
-    {
-      "title": "SharpLink Gaming Stock Soars as Ethereum Treasury Firm Boosts Stash to $527 Million",
-      "link": "https://decrypt.co/329101/sharplink-gaming-soars-ethereum-treasury-boosts-stash-527-million",
-      "summary": "The \"Ethereum treasury firm\" is buying the second biggest digital coin to help shareholders get better value for money."
-    },
-    {
-      "title": "AMERICA INVEST ACT, CORP TREASURY STOCKS & PUMP FUN",
-      "link": "https://decrypt.co/videos/interviews/cM75emeO/america-invest-act-corp-treasury-stocks-pump-fun",
-      "summary": "Crypto dips on tariff letters, then recovers. ETH outperforms, altcoins weak after PumpFun news. PumpFun plans $600m token sale, $4b valuation. Trump admin to publish crypto report on July 22. US government deposits $218k ETH to Coinbase. Robinhood speaking to US on tokenised shares. Truth Social files for Blue Chip crypto ETF. US drops appeal in Tornado Cash lawsuit. Strategy to raise $4.2b equity to buy BTC. Semler Scientific buys $20m BTC. Bit Digital pivots to ETH treasury, stock pumps. Tokenized assets on ETH hit $5b. Metaplanet to use BTC as collateral for M&amp;A. XRP CEO to testify before senate on legislation. SEC asks firms to amend SOL ETF applications. HK crypto stocks soar on stablecoin momentum. BBVA opens BTC, ETH trading for Spanish retail. El Salvador bought $800k BTC last week"
-    },
-    {
-      "title": "Trump Media Files for 'Crypto Blue Chip' ETF Holding Bitcoin, Ethereum, Solana and XRP",
-      "link": "https://decrypt.co/329081/trump-media-files-blue-chip-etf-bitcoin-ethereum-solana-xrp",
-      "summary": "Trump Media and Technology Group is looking to launch another Truth Social-branded crypto ETF for Bitcoin, Ethereum, XRP, and more."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "XRP breaks out! \u2013 But will $2.33 hold, if so, what next?",
+      "link": "https://ambcrypto.com/xrp-breaks-out-but-will-2-33-hold-if-so-what-next/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-08T142007.587-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP broke out, but its pullback and sentiment metrics raise questions about sustainability."
+    },
+    {
       "title": "Bitcoin crash narrative returns as geopolitical tensions mount",
       "link": "https://ambcrypto.com/bitcoin-crash-narrative-returns-as-geopolitical-tensions-mount/",
       "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-17.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />As U.S. allies face new duties, Bitcoin acts less like gold and more like tech."
@@ -208,11 +213,6 @@
       "title": "Solana\u2019s DeFi milestone: TVL soars to $17.5B with new protocol leaders",
       "link": "https://ambcrypto.com/solanas-defi-milestone-tvl-soars-to-17-5b-with-new-protocol-leaders/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />JTO, KMNO, and Jupiter drive the surge as retail and yield farmers fuel the flywheel."
-    },
-    {
-      "title": "Solana active addresses hit new high \u2013 So why is SOL still falling?",
-      "link": "https://ambcrypto.com/solana-active-addresses-hit-new-high-so-why-is-sol-still-falling/",
-      "summary": "<img alt=\"Solana active addresses hit new high - So why is SOL still falling?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250708_123742_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL active addresses surge, but price slips despite on-chain spike."
     }
   ]
 }
