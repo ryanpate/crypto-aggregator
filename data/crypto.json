@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Eric Trump to Headline BTC Asia in August",
+      "link": "https://www.coindesk.com/markets/2025/07/08/eric-trump-to-headline-btc-asia-in-august",
+      "summary": ""
+    },
+    {
+      "title": "Crypto Traders Shrug Off Dormant Bitcoin Whale Moves, With Profit-Taking on XRP, DOGE, SOL",
+      "link": "https://www.coindesk.com/markets/2025/07/08/crypto-traders-shrug-off-dormant-bitcoin-whale-moves-with-profit-taking-on-xrp-doge-sol",
+      "summary": ""
+    },
+    {
+      "title": "XRP Builds Strength Above $2.26 With $2.38 in Sight. Next Leg Incoming?",
+      "link": "https://www.coindesk.com/markets/2025/07/08/xrp-builds-strength-above-226-with-238-in-sight-next-leg-incoming",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin Traders Chase $130K Bets in Anticipation of Renewed Bullish Volatility",
       "link": "https://www.coindesk.com/markets/2025/07/08/bitcoin-traders-chase-usd130k-bets-in-anticipation-of-renewed-bullish-volatility",
       "summary": ""
@@ -9,48 +24,33 @@
       "title": "Dubai Sets RWA Milestone With First Approval of Tokenized Money Market Fund",
       "link": "https://www.coindesk.com/policy/2025/07/08/dubai-sets-rwa-milestone-with-first-approval-of-tokenized-money-market-fund",
       "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: BTC\u2019s Institutional Waves Are Building, Not Breaking",
-      "link": "https://www.coindesk.com/markets/2025/07/08/asia-morning-briefing-btcs-institutional-waves-are-building-not-breaking",
-      "summary": ""
-    },
-    {
-      "title": "Real Estate Firm Murano to Build Bitcoin Treasury With $500M Equity Deal",
-      "link": "https://www.coindesk.com/business/2025/07/07/real-estate-firm-murano-to-build-bitcoin-treasury-with-500m-equity-deal",
-      "summary": ""
-    },
-    {
-      "title": "Solana Matches All Other Chains Combined in Monthly Active Users, Artemis Data Shows",
-      "link": "https://www.coindesk.com/markets/2025/07/07/solana-matches-all-other-chains-combined-in-monthly-active-users-artemis-data-shows",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Bitcoin miner BitFuFu mines 445 BTC for its biggest production month",
+      "link": "https://cointelegraph.com/news/bitfufu-record-bitcoin-mining-june-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYzMzYtMWNlZi03ZDI2LTllNTItNzY3YjhjNTA0ODJi.jpg\" /></p><p>Bitcoin miners had a mixed bag in June, with Australian-based miner IREN reporting a record-breaking month for revenues, but lower Bitcoin production.</p>"
+    },
+    {
+      "title": "Bots behind most tokens on Pump.fun and LetsBonk: Coinbase exec",
+      "link": "https://cointelegraph.com/news/pumpfun-letsbonk-top-creators-are-bots-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjVjZGQtYmI1OC03ZDI2LThmZmUtNGY2NTZiYTYwZjE3.jpg\" /></p><p>Bots are likely behind most of the memecoins launched on Pump.fun and LetsBonk, according to Coinbase's head of product, Conor Grogan.</p>"
+    },
+    {
+      "title": "BlackRock iShares Bitcoin ETF surpasses 700K Bitcoin",
+      "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-etf-surpasses-700k-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzI0YmEtMDM0Ny03MTAzLWFjY2EtYjY2M2M1NWQ3ZjM3.jpg\" /></p><p>BlackRock\u2019s iShares Bitcoin ETF now holds 55% of the total Bitcoin held across all US spot Bitcoin ETFs.</p>"
+    },
+    {
+      "title": "Vitalik Buterin advocates \u2018copyleft\u2019 licensing in crypto",
+      "link": "https://cointelegraph.com/news/vitalik-buterin-advocates-copyleft-licenses-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIzNWEtMDEyYi03MmZiLWE5ZTQtODg1ZTJhYjNkOTMz.jpg\" /></p><p>Ethereum co-founder Vitalik Buterin now backs open-source licenses, arguing they better promote open innovation as crypto becomes more \u201ccompetitive and mercenary.\u201d</p>"
+    },
+    {
       "title": "SEC acknowledges Trump\u2019s Truth Social Bitcoin and Ethereum ETF",
       "link": "https://cointelegraph.com/news/truth-social-dual-crypto-etf-filing-acknowledged-by-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDAwNDUtMjg4Yy03MGYzLWE3NjAtZTRkM2M5ZTVkZjI2.jpg\" /></p><p>The acknowledgment officially starts the clock for the US securities regulator to decide on the proposed Bitcoin and Ether combined ETF.</p>"
-    },
-    {
-      "title": "Coinbase crypto lobby urges Congress to back major crypto bill",
-      "link": "https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2M2EtMDY2My03NDQwLWJjNmYtYTBiNjczNjAzZjhh.jpg\" /></p><p>US House lawmakers have been urged by 65 crypto organizations to pass the CLARITY Act, which would hand most policing of crypto to the CFTC.</p>"
-    },
-    {
-      "title": "Gate.io deletes page showing a $600M Pump.fun token sale",
-      "link": "https://cointelegraph.com/news/gate-io-deletes-countdown-page-pump-fun-official-token-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U3YzItNTU0OC03NGYyLWFlZDctNzEyMzFlNzkyOGJj.jpg\" /></p><p>Crypto exchange Gate.io removed the webpage showing an upcoming Pump.fun token sale on Saturday, while its support account on X gave a confusing explanation.</p>"
-    },
-    {
-      "title": "Two Ethereum Genesis wallets wake, move $2.9M ETH",
-      "link": "https://cointelegraph.com/news/ethereum-genesis-wallets-wake-move-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U2YjUtNTUyZC03NDNkLWI2NjItZmQ5YWRiODVlYmM4.jpg\" /></p><p>Ether has appreciated nearly 90,000% in the 10 years since the two Ethereum wallets received their coins.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "Dogecoin Resistance Walls Ahead: Analyst Flags 3 Key Levels",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-resistance-walls-analyst-flags-3-key/",
+      "summary": "An analyst has pointed out three key resistance levels for Dogecoin that could be to keep an eye on, based on on-chain data. Dogecoin URPD Shows These Price Levels Stand Out In a new post on X, analyst Ali Martinez has shared DOGE levels that could be important resistance boundaries. The levels in question correspond to major supply walls on the Dogecoin UTXO Realized Price Distribution (URPD). The URPD is an on-chain indicator from the analytics firm Glassnode that tells us about the total amount of the memecoin&#8217;s supply that was last purchased at the different price levels that it has visited over history. Related Reading: Bitcoin In For Another 460% Run? This Rare Fiat Signal Just Returned Now, here is the chart posted by Martinez that shows how the URPD looks for Dogecoin right now: As displayed in the above graph, the level closest to the latest Dogecoin spot price that stands out in terms of the URPD is $0.18. The investors last purchased around 8.94% of the asset&#8217;s supply around this mark. Naturally, as the level is above the spot price, all of these holders would be in the red at the moment. Generally, investors in loss look forward to retests of their break-even mark so that they can get their money &#8216;back.&#8217; Often, these holders push for the exit as soon as this happens, fearing that the price would go back down again in the near future. As such, whenever the price retests the cost basis of a notable part of the supply from below, a significant selling reaction can sometimes appear in the market. This can provide resistance to the cryptocurrency. Considering that the $0.18 level is particularly large, it can act as a point of notable resistance. Similarly, the analyst has also flagged two other levels: $0.21 (7.24% of supply) and $0.36 (3.82% of supply). Interestingly, between these two, there aren&#8217;t any significant supply walls, meaning that if Dogecoin can get into this zone, it may, at least in theory, have an easier time climbing up. In the scenario that DOGE gets rejected at the resistance, however, it may have to find support at the in-profit supply zones. Holders belonging to these levels can react to declines to their cost basis by buying more, as they may believe the drawdown to be just a dip-buying opportunity. Related Reading: Shiba Inu Supply Most Centralized Among Top Coins\u201462% Held By Just 10 Whales The only level below the current Dogecoin spot price that stands out in terms of supply is all the way down at $0.07. It hosts the acquisition mark of 20.03% of the memecoin&#8217;s supply, which means that it&#8217;s massive in size, and so, could be a strong support center. DOGE Price At the time of writing, Dogecoin is floating around $0.168, up 1.6% in the last seven days. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
+    },
+    {
       "title": "BNB Price Gears Up for Upside Break \u2014 Will Bulls Deliver?",
       "link": "https://www.newsbtc.com/analysis/bnb/bnb-price-gears-up-665/",
       "summary": "BNB price is gaining pace above the $650 support zone. The price is now showing positive signs and might aim for more gains in the near term. BNB price is attempting to recover from the $620 support zone. The price is now trading above $655 and the 100-hourly simple moving average. There is a key contracting triangle forming with resistance at $662 on the hourly chart of the BNB/USD pair (data source from Binance). The pair must stay above the $655 level to start another increase in the near term. BNB Price Eyes More Gains After forming a base above the $620 level, BNB price started a fresh increase. There was a move above the $645 and $650 resistance levels, like Ethereum and Bitcoin. The price even surged above the $660 level. A high was formed at $666 before there was a downside correction. The price dipped below the 50% Fib retracement level of the upward move from the $650 swing low to the $666 swing high. The price is now trading above $655 and the 100-hourly simple moving average. On the upside, the price could face resistance near the $662 level. There is also a key contracting triangle forming with resistance at $662 on the hourly chart of the BNB/USD pair. The next resistance sits near the $665 level. A clear move above the $665 zone could send the price higher. In the stated case, BNB price could test $672. A close above the $672 resistance might set the pace for a larger move toward the $680 resistance. Any more gains might call for a test of the $700 level in the near term. Another Decline? If BNB fails to clear the $662 resistance, it could start another decline. Initial support on the downside is near the $655 level and the 61.8% Fib retracement level of the upward move from the $650 swing low to the $666 swing high. The next major support is near the $650 level. The main support sits at $644. If there is a downside break below the $644 support, the price could drop toward the $632 support. Any more losses could initiate a larger decline toward the $620 level. Technical Indicators Hourly MACD \u2013 The MACD for BNB/USD is gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for BNB/USD is currently above the 50 level. Major Support Levels \u2013 $655 and $650. Major Resistance Levels \u2013 $662 and $665."
@@ -100,11 +105,6 @@
       "title": "Ethereum Price Hits Support \u2013 Can It Launch a Fresh Move Higher?",
       "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-hits-support-2520/",
       "summary": "Ethereum price started a fresh increase above the $2,520 zone. ETH is now correcting some gains and might aim for a fresh move above $2,580. Ethereum started a fresh increase above the $2,520 level. The price is trading below $2,550 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2,530 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains supported above the $2,520 zone in the near term. Ethereum Price Revisits Support Ethereum price started a fresh increase above the $2,550 zone, like Bitcoin. ETH price gained pace for a move above the $2,565 resistance zone and entered a positive zone. The bulls were able to push the price above the 61.8% Fib retracement level of the downward move from the $2,636 swing high to the $2,475 low. However, the bears remained active near the $2,600 resistance zone and protected more gains. The price faced rejection near the 76.4% Fib retracement level of the downward move from the $2,636 swing high to the $2,475 low. Ethereum price is now trading below $2,550 and the 100-hourly Simple Moving Average. ETH is now testing the $2,520 support. There is also a key bullish trend line forming with support at $2,530 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,550 level. The next key resistance is near the $2,580 level. The first major resistance is near the $2,600 level. A clear move above the $2,600 resistance might send the price toward the $2,650 resistance. An upside break above the $2,650 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,720 resistance zone or even $2,800 in the near term. More Losses In ETH? If Ethereum fails to clear the $2,580 resistance, it could start a fresh decline. Initial support on the downside is near the $2,520 level. The first major support sits near the $2,500 zone. A clear move below the $2,500 support might push the price toward the $2,450 support. Any more losses might send the price toward the $2,350 support level in the near term. The next key support sits at $2,320. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI &#8211; The RSI for ETH/USD is now below the 50 zone. Major Support Level \u2013 $2,520 Major Resistance Level \u2013 $2,600"
-    },
-    {
-      "title": "XRP Price Brewing A Monster Rally? This Patter Might Hold The Key",
-      "link": "https://www.newsbtc.com/news/xrp-price-brewing-a-monster-rally-this-patter-might-hold-the-key/",
-      "summary": "As the crypto market moves sideways with low volatility on low timeframes, the XRP price trends to the upside. According to several analysts, the cryptocurrency is set to re-test previous highs as it completes a key bullish price pattern. Related Reading: Analyst Predicts XRP Price Will Reach $20-$30 \u2014 Elliott Wave Theory Holds The Key At the time of writing, the XRP price trades at $2.33. Over the past 24 hours, the digital asset gained 2.5% on its price, and over the past seven days almost 7%, per data provided by CoinGecko. XRP price trends to the upside on low timeframes. Source: XRPUSD on Tradingview XRP Price Poised For Further Gains Analyst Ali Martinez has been following the XRP price performance. As seen on the chart below, the cryptocurrency is close to completing an inverse head and shoulders pattern. If the cryptocurrency successfully completes this pattern, the analyst believes that it can achieve a breakout to the $2.6 area. In that sense, traders should closely monitor any bullish price action close to the $2.35 area, and an hourly close above this level as potential confirmation. XRP Price close to completing an inverted head and shoulders pattern hinting at further gains. Source: Ali Martinez via X Last week, Martinez pointed at a similar breakout as the XRP price trended around the $2.2 level. However, at that time, the cryptocurrency failed to achieve the $2.35 breakout and continued trading in a tight channel between this level and $2.13. A separate analyst believes that XRP is close to a rally and placed the target above Martinez\u2019s claiming that the cryptocurrency could hit $2.69 on short timeframes. For this analyst, a breakout above $2.4 holds the key to future gains. The analyst stated: $XRP strength is telling. Something is brewing What\u2019s Behind the Momentum? The XRP price positive performance could be attributed to the massive inflow of capital coming into its ecosystem. A report from CoinShares claims that the total Asset under Management for cryptocurrencies hit a high of $188 billion, and $1 billion just over the past week. XRP has seen $335 million in year-to-date inflows, and a $10.6 million inflow over the past week. Several analysts believe these inflows represent bullish expectations for the cryptocurrency as Ripple is close to securing a banking license from the US Office of the Comptroller of the Currency. Related Reading: XRP Set To Shock The Crypto Market With 30% Share, Analyst Predicts If the company can secure this permit, the XRP Ledger ecosystem is bound to see massive levels of adoption of more users, especially from the US, turned to its native stablecoin RLUSD. Crypto AuM see massive inflows over the past week, fuel by bullish expectations. Source: CoinShares Cover image from ChatGPT, chart from Ali Martinez, CoinShares; XRPUSD chart from Tradingview"
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin\u2019s first $109K weekly close stirs breakout talk \u2013 Here\u2019s what happens now!",
+      "link": "https://ambcrypto.com/bitcoins-first-109k-weekly-close-stirs-breakout-talk-heres-what-happens-now/",
+      "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250707_142701_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can BTC flip $110K resistance after soaking up $107K liquidity?"
+    },
+    {
       "title": "WazirX faces legal battle after users accuse exchange of freezing crypto, fiat balances",
       "link": "https://ambcrypto.com/wazirx-faces-legal-battle-after-users-accuse-exchange-of-freezing-crypto-fiat-balances/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"939\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Users-sue-WazirX.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1670\" />The next key hearing is set for 15 July 2025 - Here's what to expect..."
@@ -208,11 +213,6 @@
       "title": "Bitcoin holds above $100K despite low volume: 2 signs point to more upside",
       "link": "https://ambcrypto.com/bitcoin-holds-above-100k-despite-low-volume-2-signs-point-to-more-upside/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-2.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The volume of BTC on Spot and Futures dropped as retail stayed quiet."
-    },
-    {
-      "title": "Celestia\u2019s 26% weekly rally can continue: Will TIA surge toward $2.26?",
-      "link": "https://ambcrypto.com/celestias-26-weekly-rally-can-continue-will-tia-surge-toward-2-26/",
-      "summary": "<img alt=\"Celestia&#039;s 26% weekly rally can continue: Will TIA surge toward $2.26?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Chandan-2025-07-07T143229.902_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Celestia jumps 26% in a week and 12% in the past 24 hours, ending its prolonged bearish trend."
     }
   ]
 }
