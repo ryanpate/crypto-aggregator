@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "BioSig, Streamex to Raise $1.1B for Gold Tokenization Initiative on Solana",
+      "link": "https://www.coindesk.com/business/2025/07/08/biosig-streamex-to-raise-11b-for-gold-tokenization-initiative-on-solana",
+      "summary": ""
+    },
+    {
+      "title": "Are Jerome Powell\u2019s Days as Federal Reserve Chair Numbered?",
+      "link": "https://www.coindesk.com/markets/2025/07/06/are-jerome-powell-s-days-as-federal-reserve-chair-numbered",
+      "summary": ""
+    },
+    {
+      "title": "BTC-Only VC Ego Death Capital Closes $100M Fund for Projects Building on Bitcoin",
+      "link": "https://www.coindesk.com/business/2025/07/08/btc-only-vc-ego-death-capital-closes-100m-fund-for-projects-building-on-bitcoin",
+      "summary": ""
+    },
+    {
       "title": "NEAR Surges 3% After Testing Key Support at $2.13",
       "link": "https://www.coindesk.com/markets/2025/07/08/near-surges-3-after-testing-key-support-at-usd2-13",
       "summary": ""
@@ -9,24 +24,14 @@
       "title": "Sequans Shares Jump 35% After $384M Debt-Equity Raise to Fund Bitcoin Treasury",
       "link": "https://www.coindesk.com/business/2025/07/08/sequans-shares-jump-35-after-384m-debt-equity-raise-to-fund-bitcoin-treasury",
       "summary": ""
-    },
-    {
-      "title": "Jack Dorsey Unveils Bitchat: Offline, Encrypted Messaging Inspired by Bitcoin",
-      "link": "https://www.coindesk.com/tech/2025/07/08/jack-dorsey-unveils-bitchat-offline-encrypted-messaging-inspired-by-bitcoin",
-      "summary": ""
-    },
-    {
-      "title": "OpenSea Acquires Rally as It Continues to Pivot to Token Trading",
-      "link": "https://www.coindesk.com/business/2025/07/01/opensea-acquires-rally-as-it-continues-to-pivot-to-token-trading",
-      "summary": ""
-    },
-    {
-      "title": "ATOM Demonstrates Market Resilience as Crypto Market Heats up",
-      "link": "https://www.coindesk.com/markets/2025/07/08/atom-demonstrates-market-resilience-as-crypto-market-heats-up",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin price gained 72% and 84% the last two times BTC holders did this",
+      "link": "https://cointelegraph.com/news/bitcoin-price-rallied-72-84-the-last-two-times-btc-hodlers-did-this?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhODYtNWFkYy03NmJkLTg2NWQtZjY2OWQ5MjU1N2Nm.jpg\" /></p><p>Bitcoin's long-term investors now hold 80% of all BTC in circulation, which could trigger the next leg higher into price discovery, if history repeats.</p>"
+    },
     {
       "title": "Ego Death Capital raises $100M to finance Bitcoin-focused startups",
       "link": "https://cointelegraph.com/news/ego-death-capital-raises-100m-to-finance-bitcoin-focused-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,14 +51,14 @@
       "title": "Blockchain restores women\u2019s power in AI",
       "link": "https://cointelegraph.com/news/blockchain-women-s-power-in-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhjYWUtZGI0OS03YjNmLTk3M2UtNmM0MzFmMzQ3YTBl.jpg\" /></p><p>As AI threatens to deepen gender disparities in the workforce, blockchain technology can be a powerful tool to empower women to reclaim their rightful place in the digital future.</p>"
-    },
-    {
-      "title": "Thailand\u2019s 5-year crypto tax break: What they\u2019re not telling you",
-      "link": "https://cointelegraph.com/explained/thailands-5-year-crypto-tax-break-what-theyre-not-telling-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZGEwMWY1NmI2YzI2MGI5MzhmNzg1NTVlM2M0OGMwMC5qcGc=.jpg\" /></p><p>Thailand\u2019s five-year tax break on crypto capital gains looks like a dream for investors, but the fine print reveals a strategic push for surveillance, platform control and regulatory dominance.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin ETFs now drive over 30% of spot BTC volume as overall trading slumps",
+      "link": "https://cryptoslate.com/insights/bitcoin-etfs-now-drive-over-30-of-spot-btc-volume-as-overall-trading-slumps/",
+      "summary": "<p>Spot Bitcoin exchange-traded funds (ETFs) have rapidly established themselves as a dominant force in the market, now representing more than 30% of the total BTC spot trading volume. This shift highlights how traditional financial products have swiftly captured the market as institutional and retail investors increasingly turn to regulated avenues for Bitcoin exposure. However, this [&#8230;]</p> <p>"
+    },
     {
       "title": "XRP Ledger\u2019s EVM sidechain sees 1,400 smart contracts in first week",
       "link": "https://cryptoslate.com/xrp-ledger-evm-sidechain-sees-1400-smart-contracts-in-first-week/",
@@ -73,14 +78,19 @@
       "title": "Truth Social files for ETF holding BTC, ETH, SOL, XRP and CRO",
       "link": "https://cryptoslate.com/truth-social-files-for-etf-holding-btc-eth-sol-xrp-cro/",
       "summary": "<p>Truth Social, the media platform affiliated with US President Donald Trump, has submitted a new application to the US Securities and Exchange Commission (SEC) for a spot crypto exchange-traded fund (ETF). The proposed vehicle, titled the Truth Social Crypto Blue Chip ETF, aims to provide direct exposure to a basket of leading digital assets, including [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Metaplanet wants to use Bitcoin as collateral to access bank financing",
-      "link": "https://cryptoslate.com/metaplanet-wants-to-use-bitcoin-as-collateral-to-access-bank-financing/",
-      "summary": "<p>Metaplanet, the Japanese Bitcoin treasury firm, has revealed a bold strategy to convert its growing Bitcoin reserves into capital for acquiring profitable businesses. According to a July 8 Financial Times report, Metaplanet CEO Simon Gerovich said the company is preparing for a second phase where it can use Bitcoin as collateral to access bank financing. [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Pundit Explains Why XRP Stands To Gain Big From Ripple\u2019s RLUSD",
+      "link": "https://www.newsbtc.com/xrp-news/why-xrp-stands-to-gain-big-from-ripple-rlusd/",
+      "summary": "Ripple\u2019s dollar-pegged stablecoin, Ripple USD (RLUSD), has spent the past six months quietly becoming one of the fastest-growing assets in the $160 billion stable-value sector, even though almost all of its issuance still sits on a rival network, not the XRP Ledger. That dichotomy\u201495 percent of the $455 million supply now lives on Ethereum\u2014was the starting point for a lively weekend exchange on X between XRP pundit \u201cCrypto Eri\u201d and sceptics who questioned whether Ripple\u2019s plans would ever benefit the XRP Ledger (XRPL) itself. XRP\u2019s Hidden Advantage? \u201cRipple is a long-game player,\u201d Eri wrote. \u201cIts public statements to integrate smart contracts on the mainnet will eventually position RLUSD on XRPL as a more competitive stablecoin, with faster and cheaper settlements than Ethereum.\u201d The remark landed just days after Ripple switched on its EVM-compatible sidechain, bringing full Ethereum-style smart-contract functionality to XRPL on 30 June 2025. More than 1,400 contracts were deployed in the first week, according to developer telemetry, and the bridge is already live to 80 other chains through Axelar. Related Reading: XRP Set To Shock The Crypto Market With 30% Share, Analyst Predicts On-chain data underscore the stakes. RLUSD\u2019s circulating supply rose by 47 percent in June alone to $455 million, the fastest pace among major stablecoins, with roughly $390 million now native to Ethereum after a four-fold expansion since January. Only about $65 million remains on XRPL. That imbalance prompted one user to tell Eri that RLUSD\u2019s utility \u201cimpacts ETH more than XRP.\u201d She conceded the point\u2014\u201ccorrect, for now\u201d\u2014but argued demand would migrate once XRPL\u2019s programmability and liquidity deepen. Ripple\u2019s strategy hinges on more than code. On 2 June the company applied to the US Office of the Comptroller of the Currency for a national trust-bank charter. A parallel filing by its subsidiary, Standard Custody &#38; Trust, seeks a Federal Reserve master account so that RLUSD reserves can eventually sit at the central bank rather than a correspondent institution. The timing aligns with the pending GENIUS Act, bipartisan legislation that for the first time would impose a single federal regime on payment-stablecoin issuers. While the bill\u2019s $10 billion-asset threshold means RLUSD could remain under New York oversight for now, the application positions Ripple to graduate into federal supervision voluntarily\u2014a move CEO Brad Garlinghouse has called a \u201cnew (and unique!) benchmark for trust in the stablecoin market.\u201d Eri underscored the charter angle in her post: \u201cThe national banking license application, aligned with the GENIUS Act, secures a Federal Reserve master account \u2026 enhancing trust, expanding crypto financial and payment services, and removing the patchwork of state licenses, enabling continued scalability at lower cost.\u201d Related Reading: XRP Price Risks Breakdown To Next Support Level, Why $2.28 Is Important If the charter is granted and RLUSD begins to migrate on-demand to XRPL, two flywheels favor the native token, analysts say. First, RLUSD remittances on XRPL would pay transaction fees in XRP, turning every dollar of stablecoin volume into incremental demand for the asset Ripple still holds in large quantities. Second, the EVM sidechain lets decentralized-finance builders tap RLUSD liquidity without leaving XRP\u2019s low-cost consensus layer, potentially reversing the flow of users and liquidity that has so far moved toward Ethereum. \u201cThese calculated steps in the $$$$$-dollar stablecoin market give the digital asset XRP enormous potential, but require more time to unfold,\u201d Eri argues. For now, RLUSD\u2019s growth is still driven by Ethereum\u2019s DeFi economy, and sceptics like user \u201csammie\u201d insist \u201cit\u2019s always going to be like this.\u201d Eri\u2019s final reply was succinct: \u201cLet\u2019s see. I know we\u2019ll be touching base often!\u201d That brevity captures both the promise and the uncertainty ahead. Technical rails are in place; regulatory applications are filed. Whether capital, compliance, and market demand will converge quickly enough to shift billions of RLUSD onto XRPL\u2014and in turn lift XRP\u2019s utility\u2014remains the multi-billion-dollar question. At press time, XRP traded at $2.27. Featured image created with DALL.E, chart from TradingView.com"
+    },
+    {
+      "title": "Snaky Way Presale Live: AI Meme Coin $AKE Gears Up for Bull Run",
+      "link": "https://www.newsbtc.com/news/snaky-way-presale-live-ai-meme-coin-ake-gears-up-for-bull-run/",
+      "summary": "If you\u2019ve been around crypto long enough, you know the signs. Bitcoin wakes up. Ethereum starts stretching. Suddenly, the air feels different. Whispers of the next bull run are back. And as always, the early birds are hunting for that next moonshot. While most eyes are glued to the usual suspects, a slithery new player is wriggling into the spotlight \u2013 and no, it\u2019s not another dog coin. Snaky Way ($AKE), a meme coin with actual utility, is now in the presale phase and turning heads. Packed with AI-powered buybacks, multichain access, and a play-to-earn game, Snaky Way is shaping up to be a meme coin with real staying power. The crypto presale is now live, and early buyers are already scooping up $AKE at just $0.0000942. Let&#8217;s dive in \u2013 but watch your step, there might be a snake lurking nearby. What Is Snaky Way ($AKE) and Why Is It Different? Snaky Way ($AKE) is part meme coin, part AI bot, and part arcade. That\u2019s already three more things than most of the best meme coins offer. The token at the center of it all is $AKE \u2013 yes, like \u2018snake\u2019 without the \u2018sn.\u2019 It\u2019s crawling onto seven blockchains, including Ethereum, Polygon, and Arbitrum, so you can dodge gas fees like a ninja. But here\u2019s the real twist: they\u2019ve embedded an AI agent into the smart contract that automatically buys back tokens when the price starts to dip. Think of it like a tiny, caffeinated trader living in your token. It watches the price 24/7. When panic sellers show up, it steps in and buys the dip \u2013 automatically. That helps smooth out those gut-wrenching price dumps that meme coins are famous for. Oh, and there&#8217;s a snake-themed game coming too. Win matches, earn $AKE, and spend tokens on in-game gear and tournaments. So instead of just hoping the token moons, you\u2019re actually doing something with it. Imagine if Flappy Bird paid your rent \u2013 it\u2019s a bit like that, just less flapping and more slithering. Why Buy $AKE Right Now? Right now, you can snag $AKE for just $0.0000942. That\u2019s couch-cushion money. But we&#8217;ve all seen what happens when a meme coin catches fire. Just ask early $DOGE or $SHIB holders, who are looking at returns of over 30,000% and 800,000%, respectively, since listing. The presale is already gaining momentum with $164K raised and climbing. This isn\u2019t just a hobby project with vibes and a dream. The team\u2019s got a roadmap, audits, and tokenomics that actually make sense. Only 3% of tokens go to the team, and they\u2019re vesting. That\u2019s a far cry from the usual 20%+ cash grabs you see all over new crypto launches. They\u2019re setting aside 30% of the supply for early buyers and using 29% for marketing, which, let\u2019s be real, is the lifeblood of meme coins. Even the best altcoins need eyeballs to grow. The rest goes to liquidity, staking rewards, and community goodies. Speaking of staking, early $AKE holders are seeing annual returns north of 10,000% right now. That number will shrink as more people join, but hey, it\u2019s not every day that your meme coin offers rewards that look like lottery numbers. With strong tokenomics, multichain support, and a game that gives the coin purpose beyond \u2018number go up,\u2019 Snaky Way is sliding into some serious potential. Don\u2019t Sleep on the Snake The Snaky Way ($AKE) presale is live, and the stars are lining up. You\u2019ve got meme appeal, gaming utility, and a smart AI system keeping price dips in check. It\u2019s weirdly serious for a meme coin, and that\u2019s exactly why it might surprise everyone when the market starts heating up again. Meme coins usually come down to hype and timing. Snaky Way brings something new to the table: a reason to stay. And if history repeats itself, the next bull run might just crown a new reptilian king. As always, remember this is not financial advice, and do your own research (DYOR) before investing in crypto."
+    },
     {
       "title": "Solana\u2019s Pump.Fun Loses Steam With Exit Scam Rumors, LetsBonk.Fun Claims 54% Of Total Market Share",
       "link": "https://www.newsbtc.com/news/solana/solanas-pump-fun-loses-steam/",
@@ -95,19 +105,14 @@
       "title": "Breakout or Breakdown? XRP $2.35 Test Could Decide Its Next Move",
       "link": "https://www.newsbtc.com/analysis/xrp/xrp-next-move-hinges-on-2-35/",
       "summary": "XRP is showing mixed signals across timeframes, leaving traders on edge as the price approaches the key $2.35 level. While a recent breakout from a falling wedge on the 3-day chart suggests a bullish reversal, the 4-hour chart reveals signs of slowing momentum and a possible rising wedge. With buyers and sellers locked in a battle, $2.35 could be the tipping point that decides whether XRP surges higher or slips into a near-term correction. XRP Breaks Out Of Falling Wedge On 3-Day Chart In an X post, LSplayQ highlighted a key technical development on the XRP 3-day price chart, pointing to a breakout from a falling wedge pattern. This type of pattern is commonly associated with bullish reversals, signaling that market sentiment may be shifting in favor of the bulls. Related Reading: XRP Silent Accumulation: A Falling Wedge On The Verge Of Explosion Following the breakout, XRP is currently trading around $2.26, and according to LSplayQ, the move suggests that buyers are stepping back in to reclaim control. The price action marks a significant shift after an extended period of downward compression within the wedge. If the bullish momentum continues, LSplayQ notes that XRP could target a breakout level near $2.72, which represents an upside potential of roughly 20% from the current price. That said, LSplayQ also warns of the risk of a pullback if XRP fails to hold above the wedge breakout level. In such a scenario, the price could retest the $2.10 zone as a potential support. Overall, the technical outlook leans bullish, as long as XRP maintains its position above the breakout level. Rising Wedge Pattern Signals Caution Ahead In a post on X, The Crypto Bushman pointed out that XRP is pushing higher on the 4-hour chart, but warned that seasoned traders are keeping a close eye on what lies beneath the surface. Related Reading: XRP Price Pops and Drops \u2014 Can Bulls Regain Control? According to the analyst, the price is currently trading above both the 20- and 50-day EMAs, which typically signals short-term strength. However, the overall structure appears to be forming a rising wedge, a pattern often linked to potential reversals. At the same time, momentum is beginning to fade, with the MACD flattening and volume tapering off, which Bushman describes as classic signs of a potential trap move. The Crypto Bushman emphasized that a failure to break cleanly above $2.35 could lead to the setup rolling over. In that case, the $2.25 zone becomes a critical level to watch for a possible breakdown and shift in sentiment. On the flip side, a strong breakout backed by volume could fuel another leg up toward $2.50 if buying pressure returns decisively. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Ethereum Sees $6 Billion In Tokenized Funds As Big Players Jump In",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-sees-6-billion-in-tokenized-funds-as-big-players-jump-in/",
-      "summary": "Ethereum\u2019s smart-contract platform has crossed a major line. According to data shared by Token Terminal on X, the total value of tokenized assets on Ethereum now tops $6 billion. That figure covers products from asset managers, fund houses and blockchain firms. It proves institutions are treating on\u2011chain finance as more than a tech demo. Related Reading: XRP Could Hit $35 If It Captures A Quarter Of Remittance Market By 2029 Top Firms Drive Token Growth BlackRock leads the pack. The world\u2019s largest asset manager holds the biggest share of tokenized AUM on Ethereum. Close behind are Franklin Templeton, WisdomTree, Superstate, Apollo and Ondo Finance. Franklin Templeton focused on parts of its US Government Money Fund. WisdomTree launched funds you can buy through a mobile app. Superstate and Apollo each add smaller but steady sums. Based on reports, these six names together make up most of the $6 billion milestone. Tokenized AUM on @ethereum is at an all-time high World&#8217;s biggest financial services firms &#38; asset managers are tokenizing assets on Ethereum pic.twitter.com/5Xl4XXYQ3O \u2014 Token Terminal \ud83d\udcca (@tokenterminal) July 6, 2025 Adoption Speed Since Mid-2023 The climb didn\u2019t happen in a day. Adoption started slowly around mid\u20112023. It rose further in early 2024. Then by January 2025, the line on the stacked chart shot straight up. That jump comes as BlackRock and Franklin Templeton pour in fresh tokens. Faster trades and fewer middlemen are big draws. Trades that once took days can now settle in minutes or seconds. That kind of speed appeals to big investors, who want clarity and a clear audit trail. This push into tokenized finance shows a shift in how big firms manage money. Ethereum still faces questions about scaling. If gas fees jump again, trading costs could rise sharply. Related Reading: Bitcoin Meets Heartbreak In Drake\u2019s Latest Track\u2014Details On Rules &#38; New Fund Types Regulators in the US, Europe and Asia have yet to set clear rules. A clampdown in one region might push firms toward other chains or private blockchains. Competition from Solana, Avalanche and new networks is already heating up. With $6 billion on\u2011chain, tokenized assets are past the trial stage. More firms will likely join once rules firm up and scaling solutions roll out. Markets could see new fund types, cross\u2011border trades and on\u2011chain yield tools. For now, Ethereum holds the lead. Yet the next hurdles\u2014fee pressure, rule making and rival chains\u2014will test whether it can keep growing. Featured image from Meta, chart from TradingView"
-    },
-    {
-      "title": "2025\u2019s Biggest Bitcoin Bull Trigger Is Still Hidden, Expert Reveals",
-      "link": "https://www.newsbtc.com/bitcoin-news/2025-biggest-bitcoin-bull-trigger-still-hidden/",
-      "summary": "In a conversation with The Bitcoin Economy podcast, Bloomberg Intelligence ETF analyst James Seyffart argued that the next, and potentially largest, leg of institutional demand for spot-Bitcoin exchange-traded funds will not come from pension funds, endowments, or sovereign wealth managers. Instead, it will arise when the country\u2019s fragmented network of registered investment advisers (RIAs) finally gains full discretionary clearance to recommend Bitcoin ETFs to ordinary clients. \u201cThe biggest bull case for the ETFs has been the unlocking of RIAs in 2025,\u201d Seyffart said. \u201cRight now the vast majority of the assets are stuck in that middle ground where, if a client specifically asks to buy a Bitcoin ETF, the adviser can act\u2014but the adviser cannot initiate the recommendation.\u201d The Biggest Bull Case For Bitcoin In 2025 Seyffart broke the compliance bottleneck into a traffic-light schema that most financial advisers will recognise. A red-light firm bars Bitcoin entirely; a yellow-light firm permits unsolicited purchases (\u201cIf you come to me and ask for it, I can do it\u201d); and a green-light firm allows the adviser to solicit an allocation (\u201cI can recommend that you put two percent of your portfolio in Bitcoin\u201d). Related Reading: Bitcoin\u2019s Liquidity Lifeline Just Got Cut\u2014What You Need To Know Wire-house broker\u2013dealers\u2014which still custody trillions of dollars\u2014largely remain in the red or yellow camps, paralysed by multi-year due-diligence committees. Independent RIAs, by contrast, \u201cwere the early adopters,\u201d Seyffart noted, because they \u201cdon\u2019t have to wait for a due-diligence team of a bunch of people sitting in New York.\u201d Yet even among independents, most advisers outsource portfolio construction to centralised model portfolios; until those models flag Bitcoin ETFs as eligible holdings, discretionary uptake will stay muted. Seyffart\u2019s focus on 2025 is calendrical, not calendrical: the first full-calendar year after launch gives compliance teams twelve months of daily NAV history\u2014often a hard requirement before a new ETF can graduate from yellow to green status. \u201cUsually it can take two to three years before an ETF gets approved,\u201d he said, but the extraordinary size and liquidity of the spot-Bitcoin cohort is already accelerating that cycle. Crucially, the next Form 13F reporting deadline on 15 August 2025 will reveal second-quarter holdings as of 30 June. Seyffart expects the data to confirm that \u201ca lot more RIAs have come online and [are] buying this for their clients,\u201d providing the first concrete measure of green-light conversions. Related Reading: Bitcoin In For Another 460% Run? This Rare Fiat Signal Just Returned If the gatekeeping retreats, model-portfolio architects can incorporate Bitcoin\u2019s historically uncorrelated returns into strategic-allocation frameworks. That in turn would grant advisers legal cover to solicit Bitcoin exposure, unleashing a flywheel of inflows. Seyffart cautioned that the same compliance teams will demand iron-clad fiduciary justifications\u2014volatility, custody and tax treatment remain live concerns\u2014but he argued that the ETFs now provide a wrapper familiar to any wealth platform. Seyffart\u2019s thesis is that the moment a critical mass of compliance committees flips from yellow to green\u2014allowing advisers to recommend Bitcoin rather than merely transact it\u2014flows could dwarf everything seen to date. Whether that inflection arrives in the next 12 months will determine, in his view, \u201cthe biggest bull case for Bitcoin.\u201d At press time, BTC traded at $108,250. Featured image created with DALL.E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bow Valley Credit Union in Canada turns on Bitcoin purchases for Albertans",
+      "link": "https://bitcoinmagazine.com/news/bow-valley-credit-union-in-canada-turns-on-bitcoin-purchases-for-albertans",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Leonardo_Phoenix_10_an_orange_bull_running_through_an_Alberta_3.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bow-valley-credit-union-in-canada-turns-on-bitcoin-purchases-for-albertans\" rel=\"nofollow\"> </a></p> <p>BVCU\u2019s Bitcoin Gateway, with Balance Custody and Bull Bitcoin API, simplifies buying bitcoin. \u201cFacilitates institutional adoption,\u201d says Francis Pouliot. </p> <p>"
+    },
     {
       "title": "KULR Secures $20M Bitcoin-Backed Credit Facility from Coinbase Credit",
       "link": "https://bitcoinmagazine.com/news/kulr-secures-20m-bitcoin-backed-credit-facility-from-coinbase-credit",
@@ -127,14 +132,14 @@
       "title": "Ego Death Capital Closes $100 Million Raise to Scale Bitcoin Companies",
       "link": "https://bitcoinmagazine.com/news/ego-death-capital-closes-100-million-raise-to-scale-bitcoin-companies",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/EGO-DEATH-CAPITAL.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/ego-death-capital-closes-100-million-raise-to-scale-bitcoin-companies\" rel=\"nofollow\"> </a></p> <p>Ego Death Capital has closed its second fund, totaling $100 million, to invest exclusively in software companies building businesses on the Bitcoin protocol. The firm is positioning itself as a lead Series A investor in an ecosystem where scalable, Bitcoin-native firms are beginning to achieve positive cash flow. &#8220;We&#8217;re in Bitcoin, investing in true companies [&#8230;]</p> <p>"
-    },
-    {
-      "title": "U.S. Court Brings Coin Center\u2019s Tornado Cash Appeal To A Close",
-      "link": "https://bitcoinmagazine.com/news/u-s-court-brings-coin-centers-tornado-cash-appeal-to-a-close",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Tornado-Cash-Trial.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/u-s-court-brings-coin-centers-tornado-cash-appeal-to-a-close\" rel=\"nofollow\"> </a></p> <p>Coin Center\u2019s appeal to the U.S. Treasury Department\u2019s Office of Foreign Asset Control (OFAC) regarding Tornado Cash is now over.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Trump Media Files for 'Crypto Blue Chip' ETF Holding Bitcoin, Ethereum, Solana and XRP",
+      "link": "https://decrypt.co/329081/trump-media-files-blue-chip-etf-bitcoin-ethereum-solana-xrp",
+      "summary": "Trump Media and Technology Group is looking to launch another Truth Social-branded crypto ETF for Bitcoin, Ethereum, XRP, and more."
+    },
     {
       "title": "Crypto Treasury ReserveOne Eyes Nasdaq Listing Via $1 Billion SPAC Deal",
       "link": "https://decrypt.co/329083/reserveone-eyes-nasdaq-listing-1-billion-spac-deal",
@@ -154,11 +159,6 @@
       "title": "Robinhood CEO Wants 'Thousands' of Private Companies Tokenized on Platform",
       "link": "https://decrypt.co/329075/robinhood-ceo-thousands-private-companies-tokenized",
       "summary": "OpenAI denounced Robinhood\u2019s offering of its private stock as a crypto token, but the trading app wants to add thousands more to its roster."
-    },
-    {
-      "title": "UK Jails Duo for $2M Fake Crypto Consultancy Scam",
-      "link": "https://decrypt.co/329067/uk-jails-duo-for-2m-fake-crypto-consultancy-scam",
-      "summary": "The scheme involved the pair cold-calling 65 victims and convincing them to invest in a fake crypto consultancy firm."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Solana\u2019s DeFi milestone: TVL soars to $17.5B with new protocol leaders",
+      "link": "https://ambcrypto.com/solanas-defi-milestone-tvl-soars-to-17-5b-with-new-protocol-leaders/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-16.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />JTO, KMNO, and Jupiter drive the surge as retail and yield farmers fuel the flywheel."
+    },
+    {
       "title": "Solana active addresses hit new high \u2013 So why is SOL still falling?",
       "link": "https://ambcrypto.com/solana-active-addresses-hit-new-high-so-why-is-sol-still-falling/",
       "summary": "<img alt=\"Solana active addresses hit new high - So why is SOL still falling?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250708_123742_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SOL active addresses surge, but price slips despite on-chain spike."
@@ -208,11 +213,6 @@
       "title": "Bitcoin miners stock up, BTC slows: History points to what\u2019s coming next",
       "link": "https://ambcrypto.com/bitcoin-miners-stock-up-btc-slows-history-points-to-whats-coming-next/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Gladys-32.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />What will miners do next? Hold or sell?"
-    },
-    {
-      "title": "Fidelity\u2019s Solana ETF delay raises concerns \u2013 \u2018No approvals until fall\u2019",
-      "link": "https://ambcrypto.com/fidelitys-solana-etf-delay-raises-concerns-no-approvals-until-fall/",
-      "summary": "<img alt=\"SOL ETF\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/SolanaSOLETFFI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Analysts expect temporary pause on crypto ETF summer - Details."
     }
   ]
 }
