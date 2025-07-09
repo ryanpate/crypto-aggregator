@@ -1,32 +1,37 @@
 {
   "CoinDesk": [
     {
+      "title": "Circle Has USDC Revenue Sharing Deal With Second-Largest Crypto Exchange ByBit: Sources",
+      "link": "https://www.coindesk.com/business/2025/07/09/circle-has-usdc-revenue-sharing-deal-with-second-largest-crypto-exchange-bybit-sources",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Starts Surging Toward $110K After Trump Says 'Fed Rate' Is 300 Basis Points Too High",
+      "link": "https://www.coindesk.com/markets/2025/07/09/bitcoin-starts-surging-toward-usd110k-after-trump-says-fed-rate-is-300-basis-points-too-high",
+      "summary": ""
+    },
+    {
+      "title": "Filecoin Rises 4%, Heavy Volume Suggests Institutional Investors Buying",
+      "link": "https://www.coindesk.com/markets/2025/07/09/filecoin-rises-4-heavy-volume-suggests-institutional-investors-buying",
+      "summary": ""
+    },
+    {
       "title": "Cronos Jumps 18% After Trump Media ETF Proposal Lists Token Among Holdings",
       "link": "https://www.coindesk.com/markets/2025/07/09/cronos-jumps-18-after-trump-media-etf-proposal-lists-token-among-holdings",
       "summary": ""
     },
     {
       "title": "The Protocol: Vitalik Buterin's Latest Proposal \u2013 Transaction Gas Cap",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/07/09/the-protocol-vitalik-buterin-s-latest-proposal-transaction-gas-cap",
-      "summary": ""
-    },
-    {
-      "title": "BNB Climbs as Faster Blocks and Tokenized Stocks Spark Investor Interest",
-      "link": "https://www.coindesk.com/markets/2025/07/09/bnb-climbs-as-faster-blocks-and-tokenized-stocks-spark-investor-interest",
-      "summary": ""
-    },
-    {
-      "title": "Crypto Industry Pitches Market Structure Ideas to U.S. Senators in Hearing",
-      "link": "https://www.coindesk.com/policy/2025/07/09/crypto-industry-pitches-market-structure-ideas-to-u-s-senators-in-hearing",
-      "summary": ""
-    },
-    {
-      "title": "NEAR Surges 5% Despite Volatile Trading as Grayscale Adds Token",
-      "link": "https://www.coindesk.com/markets/2025/07/09/near-surges-5-despite-volatile-trading-as-grayscale-adds-token",
+      "link": "https://www.coindesk.com/tech/2025/07/09/the-protocol-vitalik-buterin-s-latest-proposal-transaction-gas-cap",
       "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "GMX halts trading, token minting following $40 million exploit",
+      "link": "https://cointelegraph.com/news/gmx-v1-exchange-exploited-40-million-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VmZjgtZmRhYy03MjI0LTk0YzMtOWIxMzgyMmM4ZWI4.jpg\" /></p><p>The exploit of the GMX V1 decentralized exchange is the latest in a string of attacks targeting crypto firms and users in 2025.</p>"
+    },
     {
       "title": "US CLARITY bill could allow Tesla and Meta to evade SEC rules \u2014 Senator Warren",
       "link": "https://cointelegraph.com/news/elizabeth-warren-clarity-bill-tech-companies-evade-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "LetsBonk overtakes Pump.fun: Are Solana memecoins back for good?",
       "link": "https://cointelegraph.com/news/letsbonk-overtakes-pumpfun-solana-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzExNDUtNzZjZS03YjZjLWFjNGYtNTJjMjU3YmY1MDg0.jpg\" /></p><p>Key metrics on Solana remain flat despite LetsBonk\u2019s recent surge, but supporting data suggests memecoins may be staging a comeback.</p>"
-    },
-    {
-      "title": "Bitcoin rich list 2025: Who holds the most BTC this year?",
-      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VmYzQtOTE2MS03ODQ2LWEyNTgtNWZiZDAzOTNhZWNm.jpg\" /></p><p>From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin\u2019s ownership map in 2025 reveals a mix of concentration and quiet decentralization.</p>"
     }
   ],
   "CryptoSlate": [
@@ -109,6 +109,16 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "KULR Expands Bitcoin Mining Operations to 750 PH/s, Targets 1.25 EH/s by Late Summer",
+      "link": "https://bitcoinmagazine.com/news/kulr-expands-bitcoin-mining-operations-to-750-ph-s-targets-1-25-eh-s-by-late-summer",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/KULR-Expands-Bitcoin-Mining-Operations-to-750-PHs-Targets-1.25-EHs-by-Late-Summer.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-expands-bitcoin-mining-operations-to-750-ph-s-targets-1-25-eh-s-by-late-summer\" rel=\"nofollow\"> </a></p> <p>KULR Technology Group, Inc., a Bitcoin-first company focused on sustainable energy solutions, announced today the successful deployment of 3,570 Bitmain S19 XP 140T mining machines in Asuncion, Paraguay. This new infrastructure brings KULR\u2019s total Bitcoin mining capacity to 750 petahash per second (PH/s), with a goal of reaching 1.25 exahash per second (EH/s) by late [&#8230;]</p> <p>"
+    },
+    {
+      "title": "White Noise: Anonymous Nostr DMs and Encrypted Group Chat",
+      "link": "https://bitcoinmagazine.com/news/white-noise-anonymous-nostr-dms-and-encrypted-group-chat",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Privacy-by-Design-Not-by-Policy-Horizontal.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/white-noise-anonymous-nostr-dms-and-encrypted-group-chat\" rel=\"nofollow\"> </a></p> <p>White Noise launches public alpha, integrating top of the line privacy encryption with Bitcoin powered messaging tech.</p> <p>"
+    },
+    {
       "title": "Bitdeer Boosts Hashrate and Prepares New SEALMINER as Global Expansion Continues",
       "link": "https://bitcoinmagazine.com/news/bitdeer-boosts-hashrate-and-prepares-new-sealminer-as-global-expansion-continues",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitdeer-Boosts-Hashrate-and-Prepares-New-SEALMINER-as-Global-Expansion-Continues.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitdeer-boosts-hashrate-and-prepares-new-sealminer-as-global-expansion-continues\" rel=\"nofollow\"> </a></p> <p>Bitdeer Technologies Group has released its unaudited operations update for June 2025, showing continued momentum in its self-mining expansion, hardware manufacturing, and infrastructure development.&#160; In June, Bitdeer mined 203 BTC, a 4% increase from May, driven by higher self-mining hashrate, which rose 21% to 16.5 EH/s. \u201cIn June, we increased our self-mining hashrate by 21% [&#8230;]</p> <p>"
@@ -122,43 +132,33 @@
       "title": "Apple Approves First-Ever iOS Game Integrating Bitcoin Microtransactions, Powered by ZBD",
       "link": "https://bitcoinmagazine.com/news/apple-approves-first-ever-ios-game-integrating-bitcoin-microtransactions-powered-by-zbd",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Apple-Approves-First-Ever-iOS-Game-Integrating-Bitcoin-Microtransactions-Powered-by-ZBD.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/apple-approves-first-ever-ios-game-integrating-bitcoin-microtransactions-powered-by-zbd\" rel=\"nofollow\"> </a></p> <p>Apple has approved the first iOS game to feature native Bitcoin microtransactions, according to a press release sent to . The game, SaruTobi, now enables real-money in-app payments using ZBD\u2019s Bitcoin Lightning technology\u2014marking a shift in Apple\u2019s historically closed approach to alternative payment systems.&#160; This approval follows regulatory pressure from the EU\u2019s Digital Markets [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Unchained Surpasses $1 Billion in Bitcoin-Backed Loan Originations",
-      "link": "https://bitcoinmagazine.com/news/unchained-surpasses-1-billion-in-bitcoin-backed-loan-originations",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Unchained-Surpasses-1-Billion-in-Bitcoin-Backed-Loans.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/unchained-surpasses-1-billion-in-bitcoin-backed-loan-originations\" rel=\"nofollow\"> </a></p> <p>Unchained lowers APRs, and reinforces its long standing commitment to transparency with a non-rehypothecation model and client-controlled multisig vaults.</p> <p>"
-    },
-    {
-      "title": "Bitcoin Showed Up in DC \u2014 And Washington Took Notice",
-      "link": "https://bitcoinmagazine.com/politics/bitcoin-showed-up-in-dc-and-washington-took-notice",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitcoin-Showed-Up-in-DC-\u2014-And-Washington-Took-Notice-fotor-2025070812361.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/politics/bitcoin-showed-up-in-dc-and-washington-took-notice\" rel=\"nofollow\"> </a></p> <p>Reflections on the Bitcoin Policy Summit in Washington DC during May 2025. </p> <p>"
     }
   ],
   "Decrypt": [
     {
-      "title": "Detroit Man Admits Sending Crypto Intended for ISIS",
-      "link": "https://decrypt.co/329332/detroit-man-admits-sending-crypto-intended-for-isis",
-      "summary": "Jibreel Pratt used encrypted tools to send Bitcoin he thought would support ISIS, but undercover agents were already tracking his moves."
+      "title": "Crypto Exchange GMX Drained of Bitcoin, Ethereum in $40 Million Exploit",
+      "link": "https://decrypt.co/329363/crypto-exchange-gmx-drained-bitcoin-ethereum-40-million-exploit",
+      "summary": "GMX has offered the attacker a 10% \"white-hat\" bounty after some $40 million worth of assets were swiped from the crypto protocol."
     },
     {
-      "title": "Tornado Cash Judge Won\u2019t Let One Case Be Mentioned in Roman Storm\u2019s Trial: Here\u2019s Why",
-      "link": "https://decrypt.co/329304/tornado-cash-judge-wont-let-one-case-be-mentioned-in-roman-storms-trial-heres-why",
-      "summary": "Judge Failla said mentioning the Van Loon ruling would confuse jurors, outweighing its limited value in Roman Storm\u2019s upcoming trial."
+      "title": "Bye-Bye 'MechaHitler': Elon Musk's xAI Quietly Fixed Grok by Deleting a Line of Code",
+      "link": "https://decrypt.co/329365/bye-bye-mechahitler-elon-musk-xai-quietly-fixed-grok-deleting-line-code",
+      "summary": "Grok's Nazi-sympathizing responses sparked backlash this week, but the fix reveals how a single prompt instruction can shape an AI's entire political worldview."
     },
     {
-      "title": "ETH CONTINUES TO RISE, PHANTOM LAUNCHES PERPS, TRUMP SHELVES TARIFFS",
-      "link": "https://decrypt.co/videos/interviews/hyrmNhGC/eth-continues-to-rise-phantom-launches-perps-trump-shelves-tariffs",
+      "title": "PUMP.FUN TOKENOMICS, $HYPE, BONKGUY META",
+      "link": "https://decrypt.co/videos/interviews/7FsiPiBQ/pumpfun-tokenomics-hype-bonkguy-meta",
       "summary": "ETH leads crypto majors higher, BTC dominance falls. US House taking steps for US to be crypto capital. Sharplink to buy $20m ETH, stock pops 12%. GameSquare raises $8m to buy ETH, stock +60%. Bit Digital stock keeps pumping on ETH pivot. BioSig, StreamEx to tokenise commodities on SOL. Phantom intros perps powered by Hyperliquid. GMX faces $40m exploit. Tether reveals $8b gold stock pile in Swiss vault. Expect us to be largest BTC miner this year: Tether. OpenAI stock tokens backed by SPV: Robinhood. Aevo offers 1000x lev on tokenised stocks. DoJ charges OmegaPro founders with $650m fraud. Tether is a money launderer\u2019s dream: The Economist. EIGEN announces 25% reduction in staff"
     },
     {
-      "title": "Solana Meme Coin Launchpad Pump.fun Confirms PUMP Token\u2014With Airdrop 'Coming Soon'",
-      "link": "https://decrypt.co/329281/pump-fun-token-sale-july-12-bybit",
-      "summary": "Pump.fun launches massive PUMP token ICO July 12 across major exchanges, but US and UK users banned from the potentially record-breaking sale."
+      "title": "Why Are Bitcoin, Ethereum and Solana Prices Still Rangebound? Experts Weigh In",
+      "link": "https://decrypt.co/329328/bitcoin-ethereum-xrp-solana-price-rangebound-experts",
+      "summary": "The crypto market remains rangebound as President Trump again revisits tariff negotiations with U.S. trading partners."
     },
     {
-      "title": "Ripple Chooses BNY for Stablecoin Custodian as RLUSD Reaches $500 Million",
-      "link": "https://decrypt.co/329297/ripple-mellon-stablecoin-custodian",
-      "summary": "Ripple\u2019s CEO said the tie-up with BNY Mellon represents how regulatory headwinds are no longer a reality for the firm."
+      "title": "Detroit Man Admits Sending Crypto Intended for ISIS",
+      "link": "https://decrypt.co/329332/detroit-man-admits-sending-crypto-intended-for-isis",
+      "summary": "Jibreel Pratt used encrypted tools to send Bitcoin he thought would support ISIS, but undercover agents were already tracking his moves."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum projections shift bullish: Is $3K in Q3 possible?",
+      "link": "https://ambcrypto.com/ethereum-projections-shift-bullish-is-3k-in-q3-possible/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-8.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bull trap or breakout? Ethereum's about to pick a side."
+    },
+    {
       "title": "Compound: ai16Z moves $34.59M in COMP \u2013 Will prices dip below $40?",
       "link": "https://ambcrypto.com/compound-ai16z-moves-34-59m-in-comp-will-prices-dip-below-40/",
       "summary": "<img alt=\"COMP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-09T103518.492-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whale activity, rising inflows, and limited network engagement suggest continued downside risk for COMP."
@@ -208,11 +213,6 @@
       "title": "Cardano whales move 120M tokens \u2013 But ADA could rally ONLY IF\u2026",
       "link": "https://ambcrypto.com/cardano-whales-move-120m-tokens-but-ada-could-rally-only-if/",
       "summary": "<img alt=\"ADA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will ADA break past $0.6566 and trigger a sustained rally or stall just short of liftoff?"
-    },
-    {
-      "title": "Bonk.fun flips Pump.fun \u2013 What does this mean for the Solana-based meme\u2019s demand?",
-      "link": "https://ambcrypto.com/bonk-fun-flips-pump-fun-what-does-this-mean-for-the-solana-based-memes-demand/",
-      "summary": "<img alt=\"Bonk.fun flips Pump.fun - What does this mean for the Solana-based meme&#039;s demand?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-1-2.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The dominance of Bonk.fun against Pump.fun could kickstart Solana-based meme demand."
     }
   ]
 }
