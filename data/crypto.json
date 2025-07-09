@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Robinhood Says OpenAI Stock Tokens Backed by Special Purpose Vehicle",
+      "link": "https://www.coindesk.com/markets/2025/07/09/robinhood-says-openai-stock-tokens-backed-by-special-purpose-vehicle",
+      "summary": ""
+    },
+    {
+      "title": "OmegaPro Founder and Co-Conspirator Charged by U.S. DOJ in $650M Ponzi Scheme",
+      "link": "https://www.coindesk.com/policy/2025/07/09/omegapro-founder-and-co-conspirator-charged-by-us-doj-in-650m-ponzi-scheme",
+      "summary": ""
+    },
+    {
       "title": "XRP Clears $2.28 on Breakout Volume, Eyes $2.30 on Ripple's Banking Charter Push",
       "link": "https://www.coindesk.com/markets/2025/07/09/xrp-clears-228-on-breakout-volume-eyes-230-on-ripples-banking-charter-push",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "Bitcoin, Ether, Solana, XRP ETFs See Record AUM as Traders Warn of \u2018Summer Lull\u2019",
       "link": "https://www.coindesk.com/markets/2025/07/09/bitcoin-ether-solana-xrp-etfs-see-record-aum-as-traders-warn-of-summer-lull",
       "summary": ""
-    },
-    {
-      "title": "Asia Morning Briefing: Bitcoin Stalls Near $109K as Market Waits for a Catalyst",
-      "link": "https://www.coindesk.com/markets/2025/07/09/asia-morning-briefing-bitcoin-stalls-near-109k-as-market-waits-for-a-catalyst",
-      "summary": ""
-    },
-    {
-      "title": "OFAC\u2019s Dropped Sanctions Against Tornado Cash Can\u2019t Come Up at Trial, Judge Says",
-      "link": "https://www.coindesk.com/policy/2025/07/08/ofacs-dropped-sanctions-against-tornado-cash-cant-come-up-at-trial-judge-says",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Bitcoin lacks \u2018sustained momentum\u2019 for new high as traders are hesitant",
+      "link": "https://cointelegraph.com/news/bitcoin-traders-momentum-all-time-highs-hesitant-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzY2QtNzZiZS03YTY1LTkwNDQtZDlhODI5NWIyNDUw.jpg\" /></p><p>Bitcoin traders are showing a \u201clack of follow-through strength\u201d as BTC struggles to break its current all-time high level, says Bitfinex.</p>"
+    },
+    {
+      "title": "SharpLink Gaming pops 28% as Ethereum holdings surpass $533M",
+      "link": "https://cointelegraph.com/news/sharplink-gaming-stock-surges-ether-treasury-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2Q1NDUtNjhjMi03YzI5LWIyMjMtZTBlNGI4YmIwOThi.jpg\" /></p><p>SharpLink Gaming\u2019s total Ether holdings hit 205,634 ETH after its latest round of buys, which it will commit to staking.</p>"
+    },
+    {
+      "title": "US charges 2 men over $650M OmegaPro crypto scam",
+      "link": "https://cointelegraph.com/news/us-charges-two-over-650m-omegapro-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1NTctNDk3Yi03NzBjLWE3MWMtYmI3NjQ4MTE1OWFm.jpg\" /></p><p>US prosecutors charged two men for allegedly running the crypto fraud scheme OmegaPro, which promised 300% returns to investors.</p>"
+    },
     {
       "title": "Bitcoin lacked mass media coverage in Q2: Report",
       "link": "https://cointelegraph.com/news/bitcoin-lacked-coverage-mass-media-q2-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,21 +51,6 @@
       "title": "Crypto traders \u2018starting to salivate\u2019 as Bitcoin inches back toward $110K",
       "link": "https://cointelegraph.com/news/crypto-traders-bitcoin-bullish-comments-surge-hopes-110k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VjN2UtMDYyOC03ZDcwLWE2NWItYTdjOWJiYWFlYzUx.jpg\" /></p><p>Santiment says the ratio of bullish to bearish Bitcoin comments on social media has hit a three-week high as traders grow more optimistic about Bitcoin breaking above $110,000.</p>"
-    },
-    {
-      "title": "US sanctions North Korean tech worker crew over crypto thefts",
-      "link": "https://cointelegraph.com/news/us-treasury-sanctions-north-korea-it-worker-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBjYmEtMWU0Mi03NmRmLWI5YTktZWNiNmI1ZmNiYjhi.jpg\" /></p><p>TRM Labs said North Korea is moving away from hacks to focus more on deception-based revenue generation, such as planting IT workers in US companies.</p>"
-    },
-    {
-      "title": "Bitcoin metric says $100K BTC was the bottom: When will a rally to new highs start?",
-      "link": "https://cointelegraph.com/news/bitcoin-metric-says-100k-btc-was-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ViNzQtNGRlOS03MGMzLTlkOWUtNTM5NmM5NGVkMmUy.jpg\" /></p><p>Bitcoin\u2019s inflow/outflow ratio fell to 2022 lows, and the cumulative volume delta shows short-selling pressure failing to push prices lower. Time for a rally?</p>"
-    },
-    {
-      "title": "$31B stablecoin surge at Binance revives traders\u2019 altseason hopes",
-      "link": "https://cointelegraph.com/news/dollar31b-stablecoin-surge-at-binance-revives-traders-altseason-hopes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhNDYtY2Q1NC03NjQxLWE1YmQtM2FiODAxMjI4MmYz.jpg\" /></p><p>Soaring stablecoin reserves at Binance, falling Bitcoin dominance and a bullish chart pattern point to a possible altseason starting in the bottom half of 2025.</p>"
     }
   ],
   "CryptoSlate": [
@@ -82,6 +82,11 @@
   ],
   "NewsBTC": [
     {
+      "title": "2% Of All XRP Is In His Hands \u2014 But Who Is He?",
+      "link": "https://www.newsbtc.com/altcoin/2-of-all-xrp-is-in-his-hands-but-who-is-he/",
+      "summary": "A long\u2011time figure in the world of digital money and a noted XRP advocate stepped out of the shadows this week, sparking fresh chatter among investors and developers alike. Related Reading: XRP Could Hit $35 If It Captures A Quarter Of Remittance Market By 2029 Arthur Britto, who co\u2011founded Ripple Labs in 2012, broke a 14\u2011year silence with a single emoji on X. That tiny message carried big weight. His name rarely surfaces in headlines, but his work helped build XRP into one of the top assets by market value. Impact Of A Secretive Founder According to reports, Britto kept a low profile while helping craft the XRP Ledger\u2019s code. He holds a 2% stake in XRP under a deal made when the company launched. That slice of holdings could be worth billions if the token\u2019s price ever climbed high enough. Some in the market worry that if Britto ever sold even part of that stake, it might send prices tumbling. \ud83d\udea8\u26a0\ufe0f HE CO-CREATED THE XRP LEDGER. HE HOLDS 2% OF ALL XRP. HE\u2019S NEVER BEEN SEEN IN PUBLIC. Arthur Britto might be the most important figure in crypto you\u2019ve never heard of. Let\u2019s dive into the mystery.\ud83e\uddf5\ud83d\udc47 pic.twitter.com/xKyiYXIpGY \u2014 All Things XRP (@XRP_investing) July 5, 2025 The Satoshi Connection Based on reports, comparisons to Bitcoin\u2019s creator have swirled around Britto for years. Some fans point to the fact that Satoshi Nakamoto\u2019s last known post came just as the XRP Ledger went live. That timing alone has led people to whisper that Britto could be Satoshi under a different name. No proof supports that idea. Experts say it\u2019s more likely just a coincidence. Britto\u2019s lone emoji on X was verified by Ripple CTO David Schwartz. That confirmation set off a wave of theories about what might come next. Some speculated a new protocol update. Others thought it hinted at a partnership or a fresh product launch. So far, nothing public has followed"
+    },
+    {
       "title": "Dogecoin (DOGE) Eyes Breakout \u2014 Can Bulls Unleash the Next Surge?",
       "link": "https://www.newsbtc.com/analysis/doge/dogecoin-doge-eyes-breakout-0-1650-2/",
       "summary": "Dogecoin started a fresh increase above the $0.1680 zone against the US Dollar. DOGE is now consolidating and might aim for a move above $0.1720. DOGE price started a fresh increase above the $0.1650 and $0.1680 levels. The price is trading above the $0.1680 level and the 100-hourly simple moving average. There is a bullish trend line forming with support at $0.1680 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could start a fresh rally if it clears the $0.1720 and $0.1750 resistance levels. Dogecoin Price Eyes More Gains Dogecoin price started a fresh increase from the $0.1650 zone, like Bitcoin and Ethereum. DOGE was able to climb above the $0.1665 and $0.1680 resistance levels. The bulls even pushed the price above the $0.170 resistance. There was a steady increase and the price even spiked above the 50% Fib retracement level of the downward move from the $0.1722 swing high to the $0.1657 low. Dogecoin price is now trading above the $0.1680 level and the 100-hourly simple moving average. Besides, there is a bullish trend line forming with support at $0.1680 on the hourly chart of the DOGE/USD pair. Immediate resistance on the upside is near the $0.1720 level. The first major resistance for the bulls could be near the $0.1730 level or the 61.8% Fib retracement level of the downward move from the $0.1722 swing high to the $0.1657 low. The next major resistance is near the $0.1750 level. A close above the $0.1750 resistance might send the price toward the $0.180 resistance. Any more gains might send the price toward the $0.200 level. The next major stop for the bulls might be $0.2120. Another Decline In DOGE? If DOGE\u2019s price fails to climb above the $0.1750 level, it could start another decline. Initial support on the downside is near the $0.1680 level or the trend line zone. The next major support is near the $0.1650 level. The main support sits at $0.1610. If there is a downside break below the $0.1610 support, the price could decline further. In the stated case, the price might decline toward the $0.1550 level or even $0.1520 in the near term. Technical Indicators Hourly MACD \u2013 The MACD for DOGE/USD is now gaining momentum in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for DOGE/USD is now above the 50 level. Major Support Levels \u2013 $0.1680 and $0.1650. Major Resistance Levels \u2013 $0.1720 and $0.1750."
@@ -100,11 +105,6 @@
       "title": "Ethereum Price Turns Positive \u2014 More Upside Likely if Momentum Holds",
       "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-turns-positive-2620/",
       "summary": "Ethereum price started a fresh increase above the $2,550 zone. ETH is now consolidating gains and might aim for a fresh move above $2,620. Ethereum started a fresh increase above the $2,550 level. The price is trading above $2,580 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2,550 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it remains supported above the $2,550 zone in the near term. Ethereum Price Gains Pace Ethereum price started a fresh increase above the $2,560 zone, beating Bitcoin. ETH price gained pace for a move above the $2,600 resistance zone and entered a positive zone. The price even tested the $2,620 resistance. A high was formed at $2,627 and the price is now consolidating gains. It is stable above the 23.6% Fib retracement level of the upward move from the $2,515 swing low to the $2,627 high. Ethereum price is now trading above $2,580 and the 100-hourly Simple Moving Average. Besides, there is a key bullish trend line forming with support at $2,550 on the hourly chart of ETH/USD. On the upside, the price could face resistance near the $2,620 level. The next key resistance is near the $2,650 level. The first major resistance is near the $2,680 level. A clear move above the $2,680 resistance might send the price toward the $2,780 resistance. An upside break above the $2,780 resistance might call for more gains in the coming sessions. In the stated case, Ether could rise toward the $2,880 resistance zone or even $2,920 in the near term. Are Downsides Limited In ETH? If Ethereum fails to clear the $2,620 resistance, it could start a fresh decline. Initial support on the downside is near the $2,570 level. The first major support sits near the $2,520 zone and the trend line. A clear move below the $2,520 support might push the price toward the $2,450 support. Any more losses might send the price toward the $2,350 support level in the near term. The next key support sits at $2,320. Technical Indicators Hourly MACD \u2013 The MACD for ETH/USD is losing momentum in the bullish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 zone. Major Support Level \u2013 $2,520 Major Resistance Level \u2013 $2,620"
-    },
-    {
-      "title": "Bitcoin Bull Flag Breakout Confirmed \u2014 What Happens Next?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-bull-flag-breakout-confirmed-what-happens-next/",
-      "summary": "Bitcoin has broken out of the orange bull flag on the 1-hour chart. After consolidating within a tight range, the breakout suggests that momentum is shifting back in favor of the bulls, and potentially setting the stage for a rapid push toward higher resistance levels. Pullback Or Launchpad? What Bitcoin&#8217;s Next Move Could Look Like According to MaxFINEancial&#8217;s latest analysis on X, he highlighted that a large green double bottom is forming within an orange bull flag on the 1-hour chart, which is a bullish continuation setup. Related Reading: Bitcoin Heating Up? NVT Golden Cross Hints At Potential Local Top The local high was a test of the trigger line of the double bottom, which signaled intent from the bulls. BTC is retesting the upper edge of the bull flag, aligning with the 1-hour 200-day MA, a critical dynamic support level that often dictates short-term momentum. MaxFINEancial projects a small pink bullish pennant forming and setting up for a continuation move higher. However, a rare diamond top pattern could also be taking shape, a bearish reversal formation that, if validated, may trigger a sharp downside move. If BTC loses the 1-hour 200-day MA, he advises shifting focus to the 4-hour 200-day MA, which is the line of defense. The important bullish area targets are $113,700, $115,867, $117,030, and $122,143, while the bearish diamond top target is $103,079. Market analyst A_y has also highlighted that Bitcoin is consolidating below the $110,000 resistance on the 4-hour chart, with the structure forming a textbook ascending triangle. This setup is the rising higher lows against horizontal resistance that precedes a strong breakout. If BTC manages to break above $110,000, the move could accelerate toward the $112,000 to $114,000 range, marking a bullish trend. However, failure to breach this ceiling may lead to a pullback toward $104,000, where previous demand has stepped in. The Relative Strength Index (RSI) is neutral, suggesting that there is room for momentum to build, while the Moving Average Convergence Divergence (MACD) shows a bullish crossover, that is hinting at potential upward momentum, BTC is still trading below the EMA, which means bulls need to prove strength for a confirmed breakout. Bitcoin Stable At $108,000 \u2014 Market Cooling, Not Crashing In an update on X, Chad_TattoosMD also emphasized that Bitcoin is showing resilience and holding strong around the $108,000 level despite the recent dip. BTC is maintaining its structure and refusing to break lower, which is a sign of underlying buyer confidence. Related Reading: Bitcoin Traders Are Betting Against the Rally, Will It Backfire? The Relative Strength Index (RSI) sits at neutral 54, indicating no extreme momentum in either direction. Meanwhile, the Stochastic (RSI) has entered overbought territory and is now cooling off, hinting at a potential short-term pullback. However, nothing on the chart suggests a breakdown is imminent. Chad_TattoosMD also points to $106,000 as the key support, and $112,000 as the resistance, which remains in a tight zone on the chart. Featured image from iStock images, chart from tradingview.com"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "New Zealand to Ban Crypto ATMs, Cap Transfers in AML Regime Shake-Up",
+      "link": "https://decrypt.co/329228/new-zealand-bans-crypto-atms-caps-transfers",
+      "summary": "With 221 machines nationwide, New Zealand joins countries reining in crypto kiosks over rising financial crime concerns."
+    },
+    {
       "title": "Inside North Korea's Hiring Scams Targeting Crypto Firms",
       "link": "https://decrypt.co/329225/inside-north-korea-hiring-scams-crypto-firms",
       "summary": "Companies and recruiters are warning that North Korea is hiring Europeans as fronts for job interviews, and the problem is only getting worse."
@@ -154,11 +159,6 @@
       "title": "Polymarket Rules 'No' on $237M Controversial Bet Over Zelenskyy's Suit",
       "link": "https://decrypt.co/329210/polymarket-rules-no-237m-bet-zelenskyys",
       "summary": "Discontent over the market\u2019s resolution has reignited scrutiny of UMA\u2019s dispute system and the influence of large Polymarket stakeholders."
-    },
-    {
-      "title": "Meet 'MechaHitler:' Grok\u2019s New Disturbing Persona",
-      "link": "https://decrypt.co/329182/mechahitler-grok-disturbing-persona",
-      "summary": "Grok maker xAI quietly updated its chatbot to assume all media is biased, relying on X, a platform known for misinformation."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "SEC reveals new Crypto ETF guidelines \u2013 Will Solana, Dogecoin be the first in line?",
+      "link": "https://ambcrypto.com/sec-reveals-new-crypto-etf-guidelines-will-solana-dogecoin-be-the-first-in-line/",
+      "summary": "<img alt=\"SEC reveals new Crypto ETF guidelines - Will Solana, Dogecoin be the first in line?\" class=\"attachment-full size-full wp-post-image\" height=\"756\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Crypto-ETFs-in-limbo.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1344\" />A new directive might go a long way towards crypto's development and evolution."
+    },
+    {
       "title": "Circle\u2019s CRCL bounces back by 14% \u2013 What\u2019s driving the recovery?",
       "link": "https://ambcrypto.com/circles-crcl-bounces-back-by-14-whats-driving-the-recovery/",
       "summary": "<img alt=\"Circle\u2019s CRCL bounces back by 14% - What\u2019s driving the recovery? \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/CRCL-stock-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Wall Street analysts may be bullish on CRCL, but JP Morgan has other ideas."
@@ -208,11 +213,6 @@
       "title": "Will Chainlink drop 17% amid tariff tensions? Mapping the road ahead",
       "link": "https://ambcrypto.com/chainlink-may-drop-17-amid-tariff-tensions-mapping-the-road-ahead/",
       "summary": "<img alt=\"Chainlink may drop 17% amid tariff tensions: Mapping the road ahead\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Chandan-2025-07-08T172643.819_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The recent tariff tension coincided with Chainlink's price struggles, further weakening investor sentiment."
-    },
-    {
-      "title": "XRP breaks out! \u2013 But will $2.33 hold, if so, what next?",
-      "link": "https://ambcrypto.com/xrp-breaks-out-but-will-2-33-hold-if-so-what-next/",
-      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-08T142007.587-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP broke out, but its pullback and sentiment metrics raise questions about sustainability."
     }
   ]
 }
