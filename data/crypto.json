@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin Tops $111K, on Brink of Breaking Record High; Ether's 6% Jump Leads Major Cryptos",
+      "link": "https://www.coindesk.com/markets/2025/07/09/bitcoin-tops-111k-on-brink-of-breaking-record-high-ethers-6-jump-leads-major-cryptos",
+      "summary": ""
+    },
+    {
+      "title": "Revolut Seeks $1B in New Funding at $65B Valuation: FT",
+      "link": "https://www.coindesk.com/business/2025/07/09/revolut-seeks-1b-in-new-funding-at-65b-valuation-ft",
+      "summary": ""
+    },
+    {
       "title": "Cathie Wood's ARK: Bitcoin's Bullish Momentum Slows as Long-Term Holder Stacks Hit Record",
       "link": "https://www.coindesk.com/markets/2025/07/09/cathie-woods-ark-bitcoins-bullish-momentum-slows-as-long-term-holder-stacks-hit-record",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Greece Makes First Crypto Seizure Tied to North Korea's $1.5B Bybit Hack",
       "link": "https://www.coindesk.com/business/2025/07/09/greece-makes-first-crypto-seizure-tied-to-north-koreas-15b-bybit-hack",
       "summary": ""
-    },
-    {
-      "title": "Solana  ETFs See $78M Inflows as Interest in Altcoin Investment Products Grows",
-      "link": "https://www.coindesk.com/markets/2025/07/09/solana-etfs-see-usd78m-inflows-as-interest-in-altcoin-investment-products-grows",
-      "summary": ""
-    },
-    {
-      "title": "Monad Acquires Portal Labs to Expand Stablecoin Payments on High-Speed Blockchain",
-      "link": "https://www.coindesk.com/business/2025/07/09/monad-acquires-portal-labs-to-expand-stablecoin-payments-on-high-speed-blockchain",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "US debt rises to $36.6T: Will recession signals send Bitcoin back to $95K?",
+      "link": "https://cointelegraph.com/news/us-debt-rises-to-36-6t-will-recession-signals-send-bitcoin-back-to-95k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2YwZmMtNGRkYy03NGFiLWIzODQtNzhiNWE5MzNmMjYx.jpg\" /></p><p>Bitcoin price hit new highs today, but surging US debt and concerning housing data raise fears of a recession-led Bitcoin drop toward $95,000.</p>"
+    },
+    {
+      "title": "Trump family-backed business votes on making governance token tradable",
+      "link": "https://cointelegraph.com/news/world-liberty-financial-voting-governance-token-tradable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzExNTMtM2MxMy03YWMxLWEyYzAtNDEwYWFlNjg3ZTYy.jpg\" /></p><p>The proposal, which launched voting on Wednesday, had more than 99% support from roughly five billion tokens at the time of publication.</p>"
+    },
     {
       "title": "Bitcoin soars to new all-time high above $112K as traders liquidate shorts",
       "link": "https://cointelegraph.com/news/bitcoin-hits-new-high-above-dollar112k-as-traders-liquidate-shorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "US SEC \u2018Crypto Mom\u2019 clarifies: \u2018Tokenized securities are still securities\u2019",
       "link": "https://cointelegraph.com/news/hester-peirce-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2YwNGEtZjVlNi03YTNkLTkwNzYtOGU4ODQ1NDllZDAw.jpg\" /></p><p>SEC commissioner Hester Peirce echoed former chair Gary Gensler in calling for market participants to \u201cconsider meeting with the Commission and its staff.\u201d</p>"
-    },
-    {
-      "title": "Will XRP hit new highs as Ripple participates in US Senate Web3 summit?",
-      "link": "https://cointelegraph.com/news/will-xrp-hit-new-highs-as-ripple-participates-in-us-senate-web3-summit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FiZjItYzhmOC03ZDhkLTgzMTUtZmNkYjE4OTFkODQ4.jpg\" /></p><p>XRP charts point to new highs. Will Ripple\u2019s attendance in next week\u2019s \u201cFrom Wall Street to Web3\u201d summit boost the altcoin\u2019s price?</p>"
-    },
-    {
-      "title": "GMX halts trading, token minting following $40 million exploit",
-      "link": "https://cointelegraph.com/news/gmx-v1-exchange-exploited-40-million-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VmZjgtZmRhYy03MjI0LTk0YzMtOWIxMzgyMmM4ZWI4.jpg\" /></p><p>The exploit of the GMX V1 decentralized exchange is the latest in a string of attacks targeting crypto firms and users in 2025.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "SEC Crypto Task Force head warns assets remain securities regardless of tokenization",
+      "link": "https://cryptoslate.com/sec-crypto-task-force-head-warns-assets-remain-securities-regardless-of-tokenization/",
+      "summary": "<p>Hester Peirce, head of the US Securities and Exchange Commission&#8217;s (SEC) Crypto Task Force, said that putting securities on a blockchain &#8220;does not have magical abilities to transform the nature of the underlying asset.&#8221; In a July 9 statement, Peirce emphasized that tokenized shares, notes, or entitlements &#8220;are still securities,&#8221; requiring issuers, intermediaries, and traders [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin hits fresh all-time high above $112k as traders parse new US tariff shock",
       "link": "https://cryptoslate.com/bitcoin-hits-fresh-all-time-high-above-112k-as-traders-parse-new-us-tariff-shock/",
@@ -73,11 +78,6 @@
       "title": "Pump.fun faces scrutiny over PUMP token distribution in upcoming ICO",
       "link": "https://cryptoslate.com/pump-fun-faces-scrutiny-over-pump-token-distribution-in-upcoming-ico/",
       "summary": "<p>Solana-based memecoin launchpad Pump.fun has confirmed that its native PUMP token will debut through an Initial Coin Offering (ICO) on July 12. The token will have a total supply of 1 trillion and a structured allocation designed to serve institutional, community, and internal stakeholders. PUMP&#8217;s ICO details About 33% of the total PUMP token supply [&#8230;]</p> <p>"
-    },
-    {
-      "title": "The Graph Brings Real Time Data Streaming to TRON, Providing Builders with Advanced Blockchain Insights",
-      "link": "https://cryptoslate.com/the-graph-brings-real-time-data-streaming-to-tron-providing-builders-with-advanced-blockchain-insights/",
-      "summary": "<p>SAN FRANCISCO, July 9, 2025 \u2013 The Graph, the open, universal data layer for web3, announced today a strategic integration with the TRON blockchain network. This integration leverages Substreams, a powerful streaming product developed by StreamingFast, a core developer team for The Graph, and marks a significant expansion in blockchain data accessibility by offering developers [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -107,12 +107,38 @@
       "summary": "A sudden social media jab sent Solana\u2019s Peanut the Squirrel token soaring this week. In a Tuesday post, billionaire Elon Musk criticized US authorities for ignoring names on the Jeffrey Epstein &#8220;client list&#8221;, quipping that \u201cmore squirrels and raccoons have been arrested\u201d than any Epstein affiliates. Related Reading: XRP Could Hit $35 If It Captures A Quarter Of Remittance Market By 2029 A nod to a squirrel named Peanut\u2014said to have been \u201carrested (and killed)\u201d\u2014coincided with a sharp pop in the PNUT token\u2019s value. According to on\u2011chain data, PNUT climbed over 10% in 24 hours, touching $0.23 at one point. Elon Musk Highlights Justice Concerns Based on reports, Musk\u2019s post racked up more than 13.7 million views within hours. Traders quickly linked \u201cPeanut\u201d to the PNUT ticker. Almost immediately, PNUT price rose from about $0.22 to $0.23. Peanut price up in the last 24 hours. Source: Coingecko The token\u2019s 24\u2011hour trading volume jumped roughly 80%, crossing $215 million. Market watchers estimate PNUT\u2019s market cap now sits near $224 million, out of a total supply approaching 1 billion tokens. Market Reaction Follows Viral Meme Meme tokens often depend on hype, and PNUT was no exception. After Musk\u2019s message spread, order books filled fast. Buy orders outnumbered sells, driving price momentum. Crypto bots and retail traders piled in, hoping to catch the wave. Some investors told reporters they moved funds into PNUT within minutes of seeing Musk\u2019s post. They arrested (and killed) Peanut, but have not even tried to file charges against anyone on the Epstein client list. Government is deeply broken. pic.twitter.com/YndRadQUBE \u2014 Elon Musk (@elonmusk) July 8, 2025 Token Jump Drives Trading Frenzy Solana\u2019s speedy network helped too. Transactions cleared in seconds, letting traders react without delay. That low\u2011fee environment amplifies meme coin rallies: when hype hits, people can buy or sell without worrying about high gas costs. In this case, volume spiked from around $120 million to $214 million in under a day. Related Reading: 2% Of All XRP Is In His Hands \u2014 But Who Is He? Looking Ahead, Caution Advised Despite the rush, crypto veterans warn that PNUT\u2019s gains could reverse just as fast. Meme tokens lack fundamentals, and hype fades quickly. Traders could face losses if views shift or if Musk moves on to the next joke. For now, Musk\u2019s satirical jab has put Peanut the Squirrel on center stage. Whether PNUT can hold its gains may depend on more viral moments\u2014and on whether investors remember to take profits before the next twist. No &#8216;Client List&#8217; Meanwhile, according to a memo obtained by Axios, the Justice Department and FBI under US President Donald Trump found no evidence that convicted sex offender Jeffrey Epstein blackmailed powerful individuals, kept a \u201cclient list,\u201d or was murdered. Featured image from Meta, chart from TradingView"
     }
   ],
-  "Bitcoin Magazine": [],
+  "Bitcoin Magazine": [
+    {
+      "title": "Donald Trump Jr. Invests $4 Million in Bitcoin Treasury Company Thumzup Media",
+      "link": "https://bitcoinmagazine.com/news/donald-trump-jr-invests-4-million-in-bitcoin-treasury-company-thumzup-media",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Donald-Trump-Jr.-Invests-4-Million-in-Bitcoin-Treasury-Company-Thumzup-Media.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/donald-trump-jr-invests-4-million-in-bitcoin-treasury-company-thumzup-media\" rel=\"nofollow\"> </a></p> <p>The social media firm, which reported just $151 in revenue last quarter, has drawn Trump Jr.\u2019s interest after adopting a Bitcoin treasury strategy.</p> <p>"
+    },
+    {
+      "title": "Myths Busted And Conflicts of Interest Noted at Senate Banking Crypto Market Structure Hearing",
+      "link": "https://bitcoinmagazine.com/news/myths-busted-and-conflicts-of-interest-noted-at-senate-banking-crypto-market-structure-hearing",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Crypto-Market-Structure-Hearing-July-9-2025.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/myths-busted-and-conflicts-of-interest-noted-at-senate-banking-crypto-market-structure-hearing\" rel=\"nofollow\"> </a></p> <p>U.S. Senators and crypto specialists proposed stipulations for digital asset market structure legislation, while highlighting the reality of illicit financing as it pertains to Bitcoin and other public blockchains as well as noting the Trump family\u2019s crypto dealings.</p> <p>"
+    },
+    {
+      "title": "Emirates Signs A Deal To Integrate Bitcoin And Crypto Payments",
+      "link": "https://bitcoinmagazine.com/news/emirates-signs-a-deal-to-integrate-bitcoin-and-crypto-payments",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Dubai-just-became-the-first-government-in-the-world-to-allow-people-to-pay-for-public-services-using-cryptocurrency-thanks-to-a-new-partnership-with-Crypto.com_.-.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/emirates-signs-a-deal-to-integrate-bitcoin-and-crypto-payments\" rel=\"nofollow\"> </a></p> <p>Emirates has signed a memorandum of understanding with Crypto.com to integrate Bitcoin and crypto payments into its booking systems, marking a significant step toward mainstream adoption of Bitcoin in the travel industry. The agreement, signed in the presence of Emirates Chairman Sheikh Ahmed bin Saeed Al Maktoum, will enable customers to pay for flights using [&#8230;]</p> <p>"
+    },
+    {
+      "title": "KULR Expands Bitcoin Mining Operations to 750 PH/s, Targets 1.25 EH/s by Late Summer",
+      "link": "https://bitcoinmagazine.com/news/kulr-expands-bitcoin-mining-operations-to-750-ph-s-targets-1-25-eh-s-by-late-summer",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/KULR-Expands-Bitcoin-Mining-Operations-to-750-PHs-Targets-1.25-EHs-by-Late-Summer.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kulr-expands-bitcoin-mining-operations-to-750-ph-s-targets-1-25-eh-s-by-late-summer\" rel=\"nofollow\"> </a></p> <p>KULR Technology Group, Inc., a Bitcoin-first company focused on sustainable energy solutions, announced today the successful deployment of 3,570 Bitmain S19 XP 140T mining machines in Asuncion, Paraguay. This new infrastructure brings KULR\u2019s total Bitcoin mining capacity to 750 petahash per second (PH/s), with a goal of reaching 1.25 exahash per second (EH/s) by late [&#8230;]</p> <p>"
+    },
+    {
+      "title": "White Noise: Anonymous Nostr DMs and Encrypted Group Chat",
+      "link": "https://bitcoinmagazine.com/news/white-noise-anonymous-nostr-dms-and-encrypted-group-chat",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Privacy-by-Design-Not-by-Policy-Horizontal.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/white-noise-anonymous-nostr-dms-and-encrypted-group-chat\" rel=\"nofollow\"> </a></p> <p>White Noise launches public alpha, integrating top of the line privacy encryption with Bitcoin powered messaging tech.</p> <p>"
+    }
+  ],
   "Decrypt": [
     {
       "title": "Bitcoin Surges to New All-Time High Price Above $112K",
       "link": "https://decrypt.co/329416/bitcoin-surges-all-time-high-price-above-112k",
-      "summary": "The price of Bitcoin just spiked to a new record price above $112,000 on Coinbase, continuing this year's trend of fresh peaks."
+      "summary": "The price of Bitcoin spiked to a new record price above $112,000 on Coinbase, continuing this year's trend of fresh peaks."
     },
     {
       "title": "Why a 'Mobile-First' Mentality Drove OpenSea's Latest Acquisition",
@@ -137,6 +163,16 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "SEC pushes back decision on in-kind creations and redemptions for BlackRock Ethereum ETF",
+      "link": "https://cryptobriefing.com/sec-ethereum-etf-decision-delay/",
+      "summary": "<p>The SEC's delay in approving in-kind processes for crypto ETFs may slow innovation and market efficiency in the digital asset space.</p> <p>"
+    },
+    {
+      "title": "Bitcoin hits $112K new ATH after breaking past key resistance",
+      "link": "https://cryptobriefing.com/bitcoin-hits-new-all-time-high-at-112k/",
+      "summary": "<p>The surge in Bitcoin's value highlights increased institutional interest and regulatory optimism, but also underscores heightened market volatility.</p> <p>"
+    },
+    {
       "title": "Donald Trump Jr.-backed Thumzup to acquire Ether, XRP, Solana following board approval",
       "link": "https://cryptobriefing.com/bitcoin-treasury-strategy-trump-investment/",
       "summary": "<p>Thumzup's crypto expansion, despite financial losses, highlights a growing trend of Trump-affiliated ventures embracing digital assets.</p> <p>"
@@ -150,19 +186,19 @@
       "title": "The Graph brings real time data streaming to TRON, providing builders with advanced blockchain insights",
       "link": "https://cryptobriefing.com/real-time-data-streaming-tron/",
       "summary": "<p>The Graph and TRON integration introduces real-time data streaming, enabling developers access to live blockchain insights and analytics.</p> <p>"
-    },
-    {
-      "title": "Top perps DEX GMX hacked for over $40m, $GMX token plunges",
-      "link": "https://cryptobriefing.com/gmx-exchange-exploit-incident/",
-      "summary": "<p>The exploit highlights vulnerabilities in DeFi platforms, potentially undermining trust and prompting stricter security measures industry-wide.</p> <p>"
-    },
-    {
-      "title": "Ripple taps BNY to secure RLUSD stablecoin with institutional-grade custody",
-      "link": "https://cryptobriefing.com/enterprise-stablecoin-custody-rlusd/",
-      "summary": "<p>Ripple's partnership with BNY Mellon could accelerate institutional crypto adoption, enhancing trust and bridging traditional finance with digital assets.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "AAVE flips Lido across ALL metrics \u2013 But is this just round one?",
+      "link": "https://ambcrypto.com/aave-flips-lido-across-all-metrics-but-is-this-just-round-one/",
+      "summary": "<img alt=\"AAVE\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-4.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can Lido recover its lost dominance amid shrinking TVL and weakening structure?"
+    },
+    {
+      "title": "How a new merger will support ReserveOne\u2019s growing crypto reserves",
+      "link": "https://ambcrypto.com/how-a-new-merger-will-support-reserveones-growing-crypto-reserves/",
+      "summary": "<img alt=\"How a new merger will support ReserveOne&#039;s growing crypto reserves\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Benjamin-2025-07-09T172938.764.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Institutions continue to pile on crypto - Is yield the reason for the gold rush?"
+    },
     {
       "title": "ICP coin price prediction: What rising commits and token accumulation reveal",
       "link": "https://ambcrypto.com/icp-coin-price-prediction-what-rising-commits-and-token-accumulation-reveal/",
@@ -177,16 +213,6 @@
       "title": "Ethereum projections shift bullish: Is $3K in Q3 possible?",
       "link": "https://ambcrypto.com/ethereum-projections-shift-bullish-is-3k-in-q3-possible/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-8.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bull trap or breakout? Ethereum's about to pick a side."
-    },
-    {
-      "title": "Compound: ai16Z moves $34.59M in COMP \u2013 Will prices dip below $40?",
-      "link": "https://ambcrypto.com/compound-ai16z-moves-34-59m-in-comp-will-prices-dip-below-40/",
-      "summary": "<img alt=\"COMP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-09T103518.492-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whale activity, rising inflows, and limited network engagement suggest continued downside risk for COMP."
-    },
-    {
-      "title": "Top 7 VPNs of July 2025",
-      "link": "https://ambcrypto.com/top-7-vpns-of-july-2025/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1248\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/hazel-z-FocSgUZ10JM-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Virtual Private Networks, or VPNs, have become an essential part of the online experience. They [&#8230;]"
     }
   ]
 }
