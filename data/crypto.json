@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "CoinDesk 20 Performance Update: SUI Gains 6.4% as Index Trades Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/07/10/coindesk-20-performance-update-sui-gains-6-4-as-index-trades-higher",
+      "summary": ""
+    },
+    {
+      "title": "Cardano Foundation Increased Spending on Core Areas by 15% Last Year",
+      "link": "https://www.coindesk.com/business/2025/07/10/cardano-foundation-increased-spending-on-core-areas-by-15-last-year",
+      "summary": ""
+    },
+    {
+      "title": "Sequans Communications Kicks Off Bitcoin Treasury with 370 BTC Purchase",
+      "link": "https://www.coindesk.com/markets/2025/07/10/sequans-communications-kicks-off-bitcoin-treasury-with-370-btc-purchase",
+      "summary": ""
+    },
+    {
       "title": "Polkadot's DOT Gains as Much as 5% as Bitcoin Nears All-Time Highs",
       "link": "https://www.coindesk.com/markets/2025/07/10/polkadots-dot-gains-as-much-as-5-as-bitcoin-nears-all-time-highs",
       "summary": ""
@@ -9,28 +24,18 @@
       "title": "BIT Mining Surges 250% on Solana Pivot",
       "link": "https://www.coindesk.com/business/2025/07/10/bit-mining-surges-250-on-solana-pivot",
       "summary": ""
-    },
-    {
-      "title": "Ether, AI Coins Steal Bitcoin\u2019s Spotlight: Crypto Daybook Americas",
-      "link": "https://www.coindesk.com/daybook-us/2025/07/10/ether-ai-coins-steal-bitcoins-spotlight-crypto-daybook-americas",
-      "summary": ""
-    },
-    {
-      "title": "Europe\u2019s Financial Watchdog Probes Malta Over Fast-Track MiCA Authorizations",
-      "link": "https://www.coindesk.com/policy/2025/07/10/europe-s-financial-watchdog-probes-malta-over-mica-and-fast-track-authorizations",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin's Q2 Boom Being Fueled by Corporates: Bitwise",
-      "link": "https://www.coindesk.com/markets/2025/07/10/bitcoins-q2-boom-being-fueled-by-corporates-bitwise",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
+      "title": "Malta\u2019s MiCA licensing comes under scrutiny from EU regulator",
+      "link": "https://cointelegraph.com/news/mica-regulator-alarm-malta-crypto-licensing-process?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2YzZjYtY2ZkMy03OGRhLTgxMGUtMGY0NGZjYTc2OWNh.jpg\" /></p><p>Malta\u2019s MFSA only \u201cpartially met expectations\u201d in the MiCA authorization process for a specific CASP, according to the EU securities regulator.</p>"
+    },
+    {
       "title": "Researchers foil $10M DeFi backdoor in thousands of smart contracts",
       "link": "https://cointelegraph.com/news/venn-network-defi-backdoor-rescue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZkOTQtNWEyYy03NGQxLTgyYzAtZGI1NjUxNTc3ZjNj.jpg\" /></p><p>The Venn Network team suspects the attack was linked to the North Korean Lazarus Group, citing its complexity and widespread deployment.</p>"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZkOTQtNWEyYy03NGQxLTgyYzAtZGI1NjUxNTc3ZjNj.jpg\" /></p><p>The Venn Network team suspects the threat was linked to the North Korean Lazarus Group, citing its complexity and widespread deployment.</p>"
     },
     {
       "title": "Coinbase unlocks off-exchange settlement for institutions amid \u2018high\u2019 demand",
@@ -46,14 +51,14 @@
       "title": "Linqto bankruptcy no threat to pre-IPO markets, says EquityZen",
       "link": "https://cointelegraph.com/news/linqto-bankruptcy-no-threat-pre-ipo-markets-equityzen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2YzMzEtOTJhZS03YTUzLWIxMjMtYjA0Y2U4M2RhNWM4.jpg\" /></p><p>Ripple ranks as one of the top 10 pre-IPO companies on EquityZen, while major crypto firms like Tether and Gemini saw the largest spike in popularity in Q2 2025.</p>"
-    },
-    {
-      "title": "NFT sales hit $2.8B in first half of 2025 as trading volumes tank",
-      "link": "https://cointelegraph.com/news/nft-sales-volume-h1-2025-dappradar-cryptoslam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2YzMWItNWNkNS03NmI5LWE4OTEtNjYwZGNjOTgwNDA2.jpg\" /></p><p>CryptoSlam data shows that NFT sales volumes reached $2.82 billion in the first half of 2025, while DappRadar data shows a continued drop in trading volumes.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Memecoins rebound surging 30%+ as Bitcoin ATH fuels gains amid DeFi rebound",
+      "link": "https://cryptoslate.com/memecoins-rebound-surging-30-as-bitcoin-ath-fuels-gains-amid-defi-rebound/",
+      "summary": "<p>A rally in the crypto market, pushing Bitcoin to a new all-time high above $121,000 on July 9, has ignited substantial gains across a range of altcoins, with memecoins and select DeFi tokens posting daily increases exceeding 30%. The broad market uplift comes as Ethereum also shows strength, crossing the $2,780 mark with a 6% [&#8230;]</p> <p>"
+    },
     {
       "title": "Coinbase Bitcoin premium indicates US demand led surge to $112,000",
       "link": "https://cryptoslate.com/insights/bitcoin-hits-record-112k-amid-intensified-us-investor-interest/",
@@ -73,11 +78,6 @@
       "title": "Ethereum regains $2,700 amid lowest long/short ratio in two years and ETF cash floods",
       "link": "https://cryptoslate.com/ethereum-regains-2700-amid-lowest-long-short-ratio-in-two-years-and-etf-cash-floods/",
       "summary": "<p>Ethereum (ETH) reclaimed the $2,700 threshold one day after spot exchange-traded funds (ETFs) listed in the US tracking the asset surpassed $4.5 billion in cumulative net inflows on July 8, according to Farside Investors&#8217; data. As of press time, Ethereum is priced at $2,723.98, up by 4.1% in the past 24 hours. ETH lost the [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Rex-Osprey Solana staking ETF doubles cumulative inflows to $41M on July 8",
-      "link": "https://cryptoslate.com/rex-osprey-spot-solana-etf-doubles-cumulative-inflows-to-41m-on-july-8/",
-      "summary": "<p>The first US-listed spot Solana exchange-traded fund (ETF) received $21 million of net inflows on July 8, lifting its running total to $41.2 million, based on Farside Investors\u2019 data. The one-day addition to the Rex-Osprey\u2019s Solana + Staking ETF (SSK) 104% of the $20.2 million raised over the previous three trading sessions, effectively doubling net [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Jack Ma-backed Ant Group to adopt USDC for its blockchain platform to power cross-border payments, crypto transactions",
+      "link": "https://cryptobriefing.com/usdc-blockchain-adoption-ant-group/",
+      "summary": "<p>Ant Group's USDC integration may enhance stablecoin adoption globally, influencing cross-border payments and regulatory frameworks in Asia and Europe.</p> <p>"
+    },
+    {
       "title": "xAI introduces Grok 4; Musk predicts Grok will start inventing new technologies by 2026",
       "link": "https://cryptobriefing.com/grok-4-ai-model-xai/",
       "summary": "<p>Grok 4's advancements could revolutionize technology and physics, potentially reshaping industries and scientific understanding by 2026.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "Bitcoin hits $112K new ATH after breaking past key resistance",
       "link": "https://cryptobriefing.com/bitcoin-hits-new-all-time-high-at-112k/",
       "summary": "<p>The surge in Bitcoin's value highlights increased institutional interest and regulatory optimism, but also underscores heightened market volatility.</p> <p>"
-    },
-    {
-      "title": "Donald Trump Jr.-backed Thumzup to acquire Ether, XRP, Solana following board approval",
-      "link": "https://cryptobriefing.com/bitcoin-treasury-strategy-trump-investment/",
-      "summary": "<p>Thumzup's crypto expansion, despite financial losses, highlights a growing trend of Trump-affiliated ventures embracing digital assets.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Mapping XRP\u2019s road ahead \u2013 Bulls target $2.6, but THIS calls for caution!",
+      "link": "https://ambcrypto.com/mapping-xrps-road-ahead-bulls-target-2-6-but-this-calls-for-caution/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250710_100602_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP\u2019s potential market surge is approaching a critical point."
+    },
     {
       "title": "POPCAT soars 16%, hits 3-week high \u2013 Is $0.40 within reach?",
       "link": "https://ambcrypto.com/popcat-soars-16-hits-3-week-high-is-0-40-within-reach/",
@@ -208,11 +213,6 @@
       "title": "Top 7 Telegram trading bots of July 2025",
       "link": "https://ambcrypto.com/top-7-telegram-trading-bots-of-july-2025/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/dima-solomin-4_BbIPL8KOI-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Trading bots are automated software tools that are used to execute trades depending on predefined [&#8230;]"
-    },
-    {
-      "title": "Top 8 DEXs to watch out for in July 2025",
-      "link": "https://ambcrypto.com/top-8-dexs-to-watch-out-for-in-july-2025/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1277\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/traxer-kM6QNrgo0YE-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />DEX or Decentralized exchanges are essentially blockchain-based peer-to-peer marketplaces that allow users to conduct transactions [&#8230;]"
     }
   ]
 }
