@@ -1,59 +1,43 @@
 {
-  "CoinDesk": [
-    {
-      "title": "BTC All-Time High Liveblog: Is This Run Different?",
-      "link": "https://www.coindesk.com/markets/2025/07/10/btc-all-time-high-liveblog-is-this-run-different",
-      "summary": ""
-    },
-    {
-      "title": "Former Bitfury Exec Gould Confirmed to Take Over U.S. Banking Agency OCC",
-      "link": "https://www.coindesk.com/policy/2025/07/10/former-bitfury-exec-gould-confirmed-to-take-over-u-s-banking-agency-occ",
-      "summary": ""
-    },
-    {
-      "title": "MARA Holdings Names Ex-Blue River Exec as CPO to Lead Productization of Energy Tech",
-      "link": "https://www.coindesk.com/markets/2025/07/10/mara-holdings-names-ex-blue-river-exec-as-cpo-to-lead-productization-of-energy-tech",
-      "summary": ""
-    },
-    {
-      "title": "NEAR Protocol Gains 5% Amid Surge in Trading Volume",
-      "link": "https://www.coindesk.com/markets/2025/07/10/near-protocol-gains-5-amid-surge-in-trading-volume",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin Breaks Fresh Record Topping $113,000",
-      "link": "https://www.coindesk.com/markets/2025/07/10/bitcoin-breaks-fresh-record-of-112700",
-      "summary": ""
-    }
-  ],
+  "CoinDesk": [],
   "Cointelegraph": [
+    {
+      "title": "Threat actors using &#039;elaborate social engineering scheme&#039; to target crypto users \u2014 Report",
+      "link": "https://cointelegraph.com/news/threat-actors-using-elaborate-social-engineering-scheme-to-target-crypto-users-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y1ZDMtNmEyMi03MjM4LTk1NWUtM2U1NmNmZmQ4OGJj.jpg\" /></p><p>Social engineering scams, from the Meeten campaign to fake crypto support scams, have become a troubling occurrence in crypto.</p>"
+    },
+    {
+      "title": "Coinbase partners with Perplexity AI for real-time crypto prices",
+      "link": "https://cointelegraph.com/news/coinbase-perplexity-ai-partnership-crypto-market-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y1YTktNzcwOS03NzYzLWE1MGUtMzNlMzNmNGE4ZjFi.jpg\" /></p><p>Coinbase market data will power the AI \u201canswer engine\u201d in a two-phase rollout, starting with COIN50 index prices.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "Bitcoin price likely to hit $130K before serious profit taking kicks in",
+      "link": "https://cointelegraph.com/news/bitcoin-price-likely-to-hit-dollar130k-before-serious-profit-taking-kicks-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDgyOWItODg2Zi03MDQ3LWEwNjUtYzI0NWVhZjgwYTFh.jpg\" /></p><p>Soaring capital inflows and an uptick in Bitcoin wallets identified as \u201caccumulators\u201d suggest BTC price is on a path to $130,900.</p>"
+    },
     {
       "title": "ETH news update: Ether treasury purchases could trigger rally to $3K",
       "link": "https://cointelegraph.com/news/eth-news-update-ether-treasury-purchases-could-trigger-rally-to-dollar3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y1NDktMjk4OS03Njg0LThmNWUtZDg4NDkyZjMyNzMy.jpg\" /></p><p>Ether price chases $3,000 as trading sentiment turns bullish amid multiple corporate ETH treasury announcements.</p>"
-    },
-    {
-      "title": "10 public companies that quietly turned their balance sheets into Bitcoin treasuries",
-      "link": "https://cointelegraph.com/news/10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y1YTgtYzdlZi03MjhmLWFkY2YtNmMyZmNmODg0MGUx.jpg\" /></p><p>While headlines focus on giants like Strategy and Tesla, companies like Aker ASA, M\u00e9liuz and Rumble have quietly added BTC to their balance sheets.</p>"
-    },
-    {
-      "title": "Bitcoin rich list 2025: Who holds the most BTC this year?",
-      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VmYzQtOTE2MS03ODQ2LWEyNTgtNWZiZDAzOTNhZWNm.jpg\" /></p><p>From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin\u2019s ownership map in 2025 reveals a mix of concentration and quiet decentralization.</p>"
-    },
-    {
-      "title": "How to legally stake crypto in 2025 under the SEC\u2019s new rules",
-      "link": "https://cointelegraph.com/news/how-to-legally-stake-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY5ZjQtODVhYi03MmU0LThlZDEtN2M4MTU3YWMzNzRj.jpg\" /></p><p>The SEC\u2019s 2025 guideline clarifies the regulatory stance regarding crypto staking. It states what is and isn\u2019t allowed and how you can stake lawfully.</p>"
-    },
-    {
-      "title": "Bitcoin hits $113.8K all-time high as liquidity influx backs BTC price discovery",
-      "link": "https://cointelegraph.com/news/bitcoin-hits-dollar113-8k-all-time-high-as-liquidity-influx-backs-btc-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliYmMtZWRjZi03NjNlLWE5NGYtYmJhODlhODQ2Mzhk.jpg\" /></p><p>Bitcoin price set new highs above $113,800 as stablecoin reserves surged and retail investor-driven selling subsided.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Chinese industry group warns Web3 and DeFi high-return deals hide classic Ponzi engines",
+      "link": "https://cryptoslate.com/chinese-industry-group-warns-web3-and-defi-high-return-deals-hide-classic-ponzi-engines/",
+      "summary": "<p>The Beijing Internet Finance Industry Association (BIFA) issued a notice on July 9 urging retail investors to reject pitchbooks that wrap old-style pyramid sales in crypto terminology. According to local news outlets, BIFA said promoters have begun advertising \u201cstablecoin wealth plans,\u201d \u201cWeb 3.0 dividends,\u201d and similar offers that promise fixed returns. The circular listed five [&#8230;]</p> <p>"
+    },
+    {
+      "title": "BIT Mining\u2019s Solana move sparks stock surge to three-year high",
+      "link": "https://cryptoslate.com/bit-minings-solana-move-sparks-stock-surge-to-three-year-high/",
+      "summary": "<p>Crypto mining company BIT Mining has strategically moved into the Solana ecosystem, sending its stock to a three-year high. On July 10, the company disclosed its strategic expansion, which includes plans to raise between $200 million and $300 million to establish a strategic Solana reserve. As part of the transition, BIT Mining intends to convert [&#8230;]</p> <p>"
+    },
     {
       "title": "Coinbase partners with Perplexity for real-time crypto insights via AI",
       "link": "https://cryptoslate.com/coinbase-partners-with-perplexity-for-real-time-crypto-insights-via-ai/",
@@ -68,19 +52,14 @@
       "title": "HyperLiquid breaks $8 billion daily trading volume pushing HYPE token near all-time highs",
       "link": "https://cryptoslate.com/hyperliquid-breaks-8-billion-daily-trading-volume-pushing-hype-token-near-all-time-highs/",
       "summary": "<p>Hyperliquid&#8217;s native token, HYPE, is approaching its all-time high, fueled by the decentralized derivatives exchange capturing over 80% of the on-chain perpetual futures market. The platform has seen its average daily trading volumes increase to a consistent range of $2-6 billion, a surge that coincides with a new partnership with Phantom wallet and recent network [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Circle eyes China market Alipay integration amid reported Ant Group partnership",
-      "link": "https://cryptoslate.com/circle-eyes-china-market-alipay-integration-amid-reported-ant-group-partnership/",
-      "summary": "<p>Circle, the issuer of the USDC stablecoin, is reportedly exploring a partnership with Ant Group to extend its presence into China, according to a July 10 report by Bloomberg. Sources familiar with the matter reportedly said that Ant Group, parent company of Alipay and one of China\u2019s largest financial technology firms, plans to integrate USDC [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Binance\u2019s Zhao urges governments to simplify laws with AI tools",
-      "link": "https://cryptoslate.com/binances-zhao-urges-governments-to-simplify-laws-with-ai-tools/",
-      "summary": "<p>Binance founder and former CEO Changpeng Zhao has urged national governments to explore the use of artificial intelligence tools, particularly large language models (LLMs), to simplify their legal systems. In a July 10 post on X, Zhao argued that AI could play a key role in making legal codes more understandable and accessible to everyday [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Analyst Mocks Calls For XRP Price At $1,000, Says Take Profits At This Level",
+      "link": "https://www.newsbtc.com/analysis/xrp/calls-for-xrp-price-at-1000/",
+      "summary": "Crypto analyst Jaydee has called out market participants who predict that the XRP price could rally to as high as $1,000. The analyst suggested that the altcoin can\u2019t reach such heights and revealed what price levels he will be taking profits at. Analyst Indicates XRP Price Cannot Reach $1,000 In an X post, Jaydee stated that while the \u201cmoonboys and influencers: are waiting for the XRP price to reach $1,000, he plans to take more profits at his next levels. He declared that he plans to use the same strategy he employed when he called the 12x at $3.37. The analyst admitted that the altcoin is going much higher soon but suggested that those waiting for $1,000 will still get \u201crekt.\u201d Related Reading: Analyst Predicts XRP Price Will Reach $20-$30 \u2014 Elliott Wave Theory Holds The Key Jaydee further remarked that they \u201cdumb money to HODL till $1,000 for us smart money to win big.\u201d His statement comes just a day after crypto pundit BarriC predicted that the XRP price will rally to $1,000 sooner than many expect. He further suggested that the rally will be similar to how XRP recorded an explosive surge in 2017, when it rallied from $0.0006 to $3.80. However, Jaydee doesn\u2019t expect this to happen. Instead, his accompanying chart showed that the XRP price could just rally to a conservative target of around $7 between August and September. This would still mark a new all-time high (ATH) for the altcoin. The crypto analyst also recently predicted a 50% \u201cmoonshot\u201d for the XRP price, which could send it to as high as $3.35 in the short term. A rally to $3.35 will bring the altcoin close to its current ATH of $3.80. It would also mark a new yearly high for the altcoin. XRP Is Bullish On All Timeframes In an X post, crypto analyst Dark Defender declared that the XRP price is bullish on all timeframes for the first time since January 2025, when it reached its yearly high of $3.3. In another X post, the analyst stated that XRP is way ahead, having recorded a breakout above $2.33. With this breakout, he remarked that the altcoin\u2019s journey to its all-time high has begun. Related Reading: XRP Price Closes Highest Quarterly Candle In History Dark Defender\u2019s accompanying chart showed that the XRP price could surpass its current ATH of $3.80 and rally to $4.2. This price surge is expected to happen between now and September, providing a bullish outlook for the altcoin. Crypto analyst CasiTrades also highlighted how bullish the break above $2.30 was for XRP. She claimed that the altcoin could reach as high as $3.04 on this leg up. At the time of writing, the XRP price is trading at around $2.42, up almost 4% in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com"
+    },
     {
       "title": "The Hidden Clue In Bitcoin Hourly Close: A Breakout Brewing?",
       "link": "https://www.newsbtc.com/news/bitcoin/hidden-clue-in-bitcoin-close/",
@@ -100,14 +79,14 @@
       "title": "Ripple CEO Wants To Take Over SWIFT\u2019s Customers \u2014 Centrals Banks Tap In",
       "link": "https://www.newsbtc.com/ripple-2/ripple-take-over-swifts-customers/",
       "summary": "Ripple\u2019s ambitions in the global payments space have grown louder and more direct, as its CEO Brad Garlinghouse, openly stated at APEX 2025 that the company is aiming to take over SWIFT\u2019s customer base. The commentary follows Ripple\u2019s long-term strategy to shift global banking infrastructure away from legacy systems to the blockchain-based XRP Ledger. Meanwhile, central banks are increasingly taking note, with recent reports revealing that the capacity of Ripple&#8217;s network is currently being studied alongside SWIFT\u2019s systems in experiments. Garlinghouse Sets Sights On SWIFT\u2019s Market Share Speaking at the APEX summit, Ripple CEO Brad Garlinghouse declared that Ripple\u2019s goal is not only to compete with SWIFT but to replace its role in moving money on the global scale. According to Garlinghouse, although SWIFT is very dominant in messaging, the most important thing is the liquidity that banks can provide. Related Reading: Ripple To Replace SWIFT? XRP Analyst Breaks Down Recent Developments \u201cI think less about the messaging and more about liquidity,\u201d he said. Ripple is targeting this deeper infrastructure among banks, which is the actual movement of value. Interestingly, Garlinghouse asserted that Ripple plans to capture up to 14% of SWIFT\u2019s current cross-border volume within five years. That\u2019s a bold number, especially considering the scale at which SWIFT currently operates. Recent estimates show that SWIFT currently facilitates more than 45 million financial messages and handles around $5 trillion in money transfers daily. Even a 14% share of that market would represent hundreds of billions of dollars in value flowing through Ripple\u2019s ecosystem, which would create a significant demand for XRP in the process. Central Banks Are Tapping In Garlinghouse\u2019s comments come at a time when institutional momentum appears to be shifting in Ripple\u2019s favor. Interestingly, Ripple\u2019s global push is not limited to private sector partnerships. A crypto enthusiast on the social media platform X known as Finance Bull recently drew attention to growing central bank interest in blockchain-based payment infrastructure. Unsurprisingly, Ripple\u2019s technology is the key focus to this growing interest. Related Reading: Ripple Plans To Take 14% Of SWIFT Volume, USDC Lands On XRPL \u2013 What Does This Mean For XRP Price? Ripple\u2019s xCurrent solution, which is built on the Interledger Protocol (ILP), was recently studied alongside SWIFT\u2019s gpi system as part of Project Stella. Project Stella is a collaborative research initiative by the European Central Bank and the Bank of Japan. Basically, what this means is that central banks are starting to look into Ripple&#8217;s technology, which says a lot about the ecosystem&#8217;s outlook in the coming years. The fact that two of the world&#8217;s most influential central banks reviewed Ripple\u2019s infrastructure alongside SWIFT is a signal that XRP\u2019s utility is now being evaluated at the core of global monetary policy discussions. These developments closely align with what many fervent XRP supporters have long believed. There have been recurring predictions among the community\u2019s most confident voices that XRP\u2019s price is destined to move far beyond its current all-time high of $3.40. Some technical analyses have predicted double-digit prices for XRP. Other predictions for the XRP price are as high as $1,000. Featured image from Getty Images, chart from Tradingview.com"
-    },
-    {
-      "title": "Bitcoin Blasts to $112,017 ATH \u2013 What\u2019s the Best Crypto to Buy Before the Next Surge?",
-      "link": "https://www.newsbtc.com/news/bitcoin-blasts-to-ath/",
-      "summary": "After hovering below the $110K mark over the past few weeks, Bitcoin hit a new all-time high yesterday. Bolstered by growing institutional adoption, $BTC is stronger than ever. And that means now\u2019s the time to buy crypto before the next surge. $BTC finally reached the $100K milestone late last year, before outdoing itself in May, when it reached $111,970. Making it to $112,017 is another first for the crypto OG. Make no mistake, Lady Luck played no hand in Bitcoin\u2019s surge. It\u2019s down to an ever-growing list of financial institutions worldwide that are recognizing the value of $BTC, due in part to supportive government policies. Top Guns Weigh In Bitcoin champion Michael Saylor, Executive Chairman of Strategy, argues that Bitcoin has gotten through its riskiest period. In fact, he told Bloomberg in a June 10 interview that he believes that $BTC will be $1M. \u201cThe President of the United States supports Bitcoin. The Cabinet supports Bitcoin. [Treasury Secretary] Scott Bessent supports Bitcoin. Paul Atkins has shown himself to be enthusiastic about bitcoin and digital assets. Brian Quintenz at CFTC feels that the banks will custody Bitcoin.\u201d Saylor explained that Bitcoin Treasury companies are buying $BTC\u2019s natural supply. In addition, \u201cBlackRock and the ETFs are buying another measure of that, and we&#8217;ve got nation-state actors coming into the space. The writing is on the wall. Bitcoin is moving higher.\u201d Bitcoin\u2019s status as a heavyweight institutional asset is solidifying fast. And while Saylor\u2019s Strategy continues to grab the spotlight, the corporate herd is growing. Take GameStop, for instance. It made waves in May by greenlighting Bitcoin buys at the board level. Soon after, GameStop purchased 4.71K Bitcoin. And for its part, the Trump Media and Technology Group is also eyeing a blended crypto ETF. Dubbed the \u201cCrypto Blue Chip ETF,\u201d it plans to offer exposure to five digital assets. Some 70% of the ETF&#8217;s holdings will be in $BTC, 15% in $ETH, 8% in $SOL, and 5% in $XRP. The remaining 2% of the ETF\u2019s holdings will be in $CRO \u2013 the native token of the ETF\u2019s digital custodian, the exchange Crypto.com. Bitcoin Wins, Crypto Scores With fresh ETF inflows, increased corporate balance sheet exposure, the rise of crypto futures, and a more favorable regulatory environment, $BTC is experiencing a powerful surge in institutional interest. And the momentum shows no signs of slowing down anytime soon. So, if you&#8217;re wondering which crypto to buy before the next big surge, you&#8217;re in the right place. Here are three altcoins with massive potential to explode when $BTC rallies again. If Michael Saylor\u2019s predictions hold true, that surge could be just around the corner. 1. Bitcoin Hyper ($HYPER) \u2013 Scalability for Bitcoin Through an L2 In keeping with all things $BTC, Bitcoin Hyper ($HYPER) brings an exciting proposal to the crypto table. A Bitcoin Layer-2 (L2) platform. The Bitcoin blockchain has a lot going for it, especially in terms of top-level security. It falls short, however, in terms of speed and high transaction fees, especially when compared to the likes of Solana. In short, Bitcoin lacks scalability. That\u2019s where $HYPER steps up to the plate. This upcoming meme coin is set to power an innovative Bitcoin L2 ecosystem that will increase the speed and reduce fees. More importantly, it adds cross-chain compatibility. That means seamless access to the best meme coins, DeFi, and dApps. At the moment, Bitcoin Hyper is on presale. That means you can buy it for $0.0122. You can also stake your $HYPER for 360% APY. If you\u2019re keen to discover more about this L2 and the meme coin behind it, take a look at our guide to buying $HYPER. It explains all you need to know. Keep in mind, though, that as a presale, the price of $HYPER will increase in stages, offering you the chance to secure tokens at a lower cost now. Additionally, the rewards APY is dynamic and will decrease over time, so the earlier you get in, the better the returns. Once $HYPER lists on DEXs after the presale, the price is expected to rise even further, so now is a prime opportunity to get involved before the price climbs. 2. Best Wallet Token ($BEST) \u2013 Driving Global Crypto Wallet Market Domination It\u2019s not only institutions that are taking Bitcoin and other digital assets much more seriously these days. With the growing number of retail, as in individual, investors also entering the scene, it means a bigger demand for crypto wallets. That\u2019s what makes the Best Wallet Token ($BEST) one to watch with a very close eye. It\u2019s the native token of Best Wallet, a non-custodial, no KYC, multi-chain, and multi-currency hot wallet that is gaining serious market traction. So much so that Best Wallet is on a mission to dominate 40% of the global crypto wallet market by the end of next year. And it\u2019s using $BEST to help it achieve that target. Holding $BEST means additional benefits and features of what is already a leading crypto wallet. That includes being able to buy the best presale crypto directly from the mobile wallet (a market first, by the way); lower transaction fees; and higher staking rewards. $BEST also comes with community governance. So you can have a say in the project\u2019s direction \u2013 including the presale tokens available to buy, and other features. $BEST is also on presale. Buy yours today for $0.025305 and stake it for 99% before the upcoming price increase. Our How To Buy $BEST guide explains how to do just that. 3. America Party ($AP) \u2013 On the Heels Of Musk&#8217;s New Party The America Party Token ($AP) is another newcomer to the crypto scene. It was launched mere days after Elon Musk announced he intends to create a new political party. However, unlike $HYPER and $BEST, which are both on presale, $AP is already listed on DEXs. To be clear, though, the $AP token is not affiliated with Musk or the America Party he is launching. That said, $AP does stand to ride on Musk\u2019s coattails. And to sweeten the deal, when Musk mentions a cryptocurrency, meme coins in particular, that token often explodes. And recently, Musk was asked by a follower whether his America Party will embrace Bitcoin. His response was definitive: \u201cFiat is useless, so yes.\u201d Another boost for crypto. Right now, $AP costs $0.01830 \u2013 up 239.38% since it launched on July 7. Get yours today through UniSwap or MEXC. \u201cThe Writing\u2019s On The Wall\u201d As Saylor put it, \u201cBitcoin is moving higher.\u201d And while the market can be unpredictable at best, $BTC\u2019s latest rally to $112K is a definitive indicator that the institutional adoption of digital assets is positively impacting, and with signs of slowing. That means newer cryptos like $HYPER, $BEST, and $AP also have the potential to pump if current conditions continue. And the best part of investing in new tokens is getting in at an early-bird price. That said, nothing is guaranteed, and we\u2019re not financial advisers. Be sure to always DYOR research before making any investment."
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Bitcoin Hits New All Time High of $113,900 as Adoption Accelerates",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-hits-new-all-time-high-of-113900-as-adoption-accelerates",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitcoin-Hits-New-All-Time-High-of-113000-as-Adoption-Accelerates.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitcoin-hits-new-all-time-high-of-113900-as-adoption-accelerates\" rel=\"nofollow\"> </a></p> <p>Bitcoin\u2019s surge to $113,900 signals rising adoption, and Fed rate cut expectations.</p> <p>"
+    },
     {
       "title": "Rumble Partners with MoonPay to Launch Bitcoin Wallet for Creators",
       "link": "https://bitcoinmagazine.com/news/rumble-partners-with-moonpay-to-launch-bitcoin-wallet-for-creators",
@@ -127,38 +106,33 @@
       "title": "Bitcoin Layer 2: Sidechains",
       "link": "https://bitcoinmagazine.com/technical/bitcoin-layer-2-sidechains",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitcoin-Layer-2-Sidechains.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/bitcoin-layer-2-sidechains\" rel=\"nofollow\"> </a></p> <p>The fourth article in the Bitcoin Layer 2 series. This article covers sidechains, a concept originally proposed by the founders of Blockstream.</p> <p>"
-    },
-    {
-      "title": "Bitcoin Hits New All Time High at $112,000 As Corporations Buy Record Amounts of BTC",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-hits-new-all-time-high-at-112000-as-corporations-buy-record-amounts-of-btc",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitcoin-Hits-New-All-Time-High-at-112000-As-Corporations-Buy-Record-Amounts-of-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/bitcoin-hits-new-all-time-high-at-112000-as-corporations-buy-record-amounts-of-btc\" rel=\"nofollow\"> </a></p> <p>Bitcoin's ATH signals a new era of institutional adoption, with major players like BlackRock, Strategy, and Smarter Web Company expanding their commitment to the digital asset.</p> <p>"
     }
   ],
   "Decrypt": [
     {
+      "title": "Myriad Moves: Will Bitcoin Stay Hot? This Week's Buzziest Prediction Markets",
+      "link": "https://decrypt.co/329603/myriad-moves-will-bitcoin-stay-hot-buzziest-predictions",
+      "summary": "This week\u2019s top prediction markets on Myriad cover Bitcoin' recent price surge, PENGU's ETF approval chances, Wimbledon, and more."
+    },
+    {
+      "title": "Securities On-Chain? There's Only One True Way, Says BlackRock-Backed Firm's CEO",
+      "link": "https://decrypt.co/329605/securities-onchain-only-one-true-way-blackrock-backed-ceo",
+      "summary": "There\u2019s only one way to truly represent securities on-chain, said Securitize CEO Carlos Domingo, and that\u2019s through \u201cnative\u201d tokenization."
+    },
+    {
+      "title": "Bitcoin Breaks Into New Price Territory: What Happens Next?",
+      "link": "https://decrypt.co/329582/bitcoin-breaks-price-territory-what-happens-next",
+      "summary": "Bitcoin has broken out. Can it maintain its bullish momentum? Let's take a look at the charts."
+    },
+    {
+      "title": "IRS Formally Removes Anti-DeFi Broker Rule From Tax Code",
+      "link": "https://decrypt.co/329601/irs-formally-removes-anti-defi-broker-rule-tax-code",
+      "summary": "A resolution repealing the rule was signed into law by President Trump in April, after passing both the House and Senate with bipartisan support."
+    },
+    {
       "title": "Coinbase CEO Says Crypto Integration Could Be '10x Unlock' for AI",
       "link": "https://decrypt.co/329579/coinbase-ceo-crypto-integration-10x-unlock-ai",
       "summary": "Coinbase has teamed with Perplexity AI to bring real-time crypto data into AI-powered search\u2014and Brian Armstrong sees major benefits."
-    },
-    {
-      "title": "PENGU, Dogecoin Lead Meme Coin Spike as Bitcoin Sets Another Record",
-      "link": "https://decrypt.co/329575/pengu-dogecoin-lead-meme-coin-spike-bitcoin-record",
-      "summary": "Meme coins are blasting off again after Bitcoin topped $113,000, with heavyweights like Dogecoin, PENGU, and Fartcoin leading the charge."
-    },
-    {
-      "title": "BIT Mining Stock Soars After Bitcoin, Dogecoin Miner Reveals $300 Million Solana Pivot",
-      "link": "https://decrypt.co/329520/bit-mining-soars-bitcoin-dogecoin-miner-reveals-solana-pivot",
-      "summary": "The U.S. miner also wants to convert its current holdings to SOL."
-    },
-    {
-      "title": "Bitcoin Hits Another All-Time High Price After Trump Renews Rate Cut Push",
-      "link": "https://decrypt.co/329539/bitcoin-hits-another-all-time-high-price-after-trump-renews-rate-cut-push",
-      "summary": "Bitcoin is flying again, setting a fresh record above $112,000 after President Trump urged the Fed to again lower interest rates."
-    },
-    {
-      "title": "What Is Tokenization?",
-      "link": "https://decrypt.co/resources/what-is-tokenization",
-      "summary": "We explore what tokenization is, how it works, and how it's revolutionizing the way assets can be issued, managed, and traded."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +164,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Why is crypto up today? BTC short squeeze, ETF inflows & more",
+      "link": "https://ambcrypto.com/why-is-crypto-up-today-btc-short-squeeze-etf-inflows-more/",
+      "summary": "<img alt=\"Why is crypto up today\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/WhyiscryptouptodayFFIII.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whales grabbed over $350M ETH during crypto market surge."
+    },
+    {
       "title": "VeChain hits KEY support! \u2013 Examining odds of VET\u2019s 40% rally",
       "link": "https://ambcrypto.com/vechain-hits-key-support-examining-odds-of-vets-40-rally/",
       "summary": "<img alt=\"VET\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Chandan-2025-07-10T140947.561_11zon.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />With a 7.25% price uptick, VET has ended its prolonged bearish trend now poised for a rally."
@@ -208,11 +187,6 @@
       "title": "Tokenized securities are still securities \u2013 SEC Peirce\u2019s warning!",
       "link": "https://ambcrypto.com/tokenized-securities-are-still-securities-sec-peirces-warning/",
       "summary": "<img alt=\"SEC tokenized securities\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/SECtokenizedsecuritiesPeirce-1.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitwise CIO projects that tokenized market could grow 4000x and can be maximized in these ways..."
-    },
-    {
-      "title": "Top 6 Play-to-Earn NFT games to try in July 2025!",
-      "link": "https://ambcrypto.com/top-6-play-to-earn-nft-games-to-try-in-july-2025/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/javier-martinez-hUD0PUczwJQ-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />NFTs, or Non-fungible tokens, are digital identifiers or cryptographic tokens that cannot be copied. They [&#8230;]"
     }
   ]
 }
