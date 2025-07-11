@@ -28,6 +28,16 @@
   ],
   "Cointelegraph": [
     {
+      "title": "Bitzlato co-founder requests US pardon after guilty plea \u2014 Report",
+      "link": "https://cointelegraph.com/news/bitzlato-founder-anatoly-legkodymov-pardon-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTU3ODItNDJjNS03YTU3LTk4OTAtNjE3OGQzNjhiYWFl.jpg\" /></p><p>US President Donald Trump has issued five pardons for figures in the crypto and blockchain industries, and may have received requests from Changpeng Zhao and Sam Bankman-Fried.</p>"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+    },
+    {
       "title": "France opens criminal investigation into X for alleged algorithmic manipulation",
       "link": "https://cointelegraph.com/news/france-criminal-investigation-x-algorithmic-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZiMDktNGFhYy03MzQ4LTk0ZjUtMzI0YWFiMDhkMDFl.jpg\" /></p><p>French J3 cybercrime unit launches probe into X\u2019s algorithm as EU scrutiny intensifies.</p>"
@@ -41,19 +51,14 @@
       "title": "Crypto Biz: Bitcoin VC surges, Robinhood faces tokenization scrutiny, CZ debunks Golden Visa hype",
       "link": "https://cointelegraph.com/news/bitcoin-venture-fund-robinhood-tokenization-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM5ZTMtOWI3MS03MTYyLWIyMjUtMGU0ZjhkZDNjMWNl.jpg\" /></p><p>Ego Death Capital raises $100 million for Bitcoin startups, while Robinhood face scrutiny over its equity token offerings.</p>"
-    },
-    {
-      "title": "Is the crypto market entering a new supercycle? Here are 5 ways to know",
-      "link": "https://cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhZDktZjliYy03NDBjLWI4NjgtOTJlYTFkMmEyZmMx.jpg\" /></p><p>As Bitcoin price hits new highs and altcoins soar, traders are curious to know if a new super cycle has begun.</p>"
-    },
-    {
-      "title": "Tether to discontinue USDT on five blockchains to &#039;refocus resources&#039;",
-      "link": "https://cointelegraph.com/news/tether-discontinue-usdt-redemptions-five-legacy-blockchains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhYWYtOGIwNS03OTVlLWIxNzYtZTFhNDE2MmRhOTdi.jpg\" /></p><p>The discontinuance of USDt on these blockchains has been in the works for years, as Tether looks to pivot its strategy to other protocols.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Binance allegedly wrote the code for WLFI\u2019s stablecoin USD1",
+      "link": "https://cryptoslate.com/binance-allegedly-wrote-the-code-for-wlfis-stablecoin-usd1/",
+      "summary": "<p>Former Binance CEO Changpeng Zhao allegedly supported crypto projects tied to the Trump family while privately seeking a presidential pardon, according to a July 11 Bloomberg News report. The report claimed that Binance wrote the foundational smart contract code for USD1, a stablecoin issued by World Liberty Financial, a company affiliated with President Donald Trump. [&#8230;]</p> <p>"
+    },
     {
       "title": "BlackRock\u2019s IBIT vaults over $80B in assets, breaks ETF speed record",
       "link": "https://cryptoslate.com/blackrocks-ibit-vaults-over-80b-in-assets-breaks-etf-speed-record/",
@@ -73,14 +78,14 @@
       "title": "Ethereum advances toward censorship-resistant scaling with zkEVM layer-1 shift",
       "link": "https://cryptoslate.com/ethereum-advances-toward-censorship-resistant-scaling-with-zkevm-layer-1-shift/",
       "summary": "<p>Ethereum is advancing its long-term scalability strategy with a substantial technical shift to integrate the zero-knowledge Ethereum Virtual Machine (zkEVM) into the layer-1 blockchain. On July 10, Sophia Gold, an Ethereum Foundation developer, stated that the foundation aims to ship the L1 zkEVM within a year, marking a critical evolution in Ethereum\u2019s pursuit of efficient, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethereum futures volume surpasses Bitcoin for first time amid 5 month high",
-      "link": "https://cryptoslate.com/ethereum-futures-volume-surpasses-bitcoin-for-first-time-amid-5-month-high/",
-      "summary": "<p>Ethereum\u2019s daily futures trading volume exceeded Bitcoin\u2019s for the first time on July 10, a landmark development that coincided with the asset\u2019s price testing the $3,000 level. The technical flip in the derivatives market indicates a potential shift in trader sentiment and capital allocation, lending credence to narratives of a changing market structure. Data from [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Bitcoin Breaks $118,000\u2014But Liquidity Still Thin, Glassnode Warns",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-breaks-118000-liquidity-thin-glassnode/",
+      "summary": "Bitcoin has set a new all-time high (ATH) above $118,000, but on-chain data from Glassnode shows BTC volume remains low despite the breakout. Bitcoin Volume Still At Historically Low Levels Just recently, Glassnode had revealed that volume related to Bitcoin had dropped to yearly lows, potentially hinting at the start of a summer lull. Now, following the breakout to new highs, the on-chain analytics firm has shared updated data in a reply to an X user, showcasing how volume has changed since. From the chart, it&#8217;s visible that both the Spot and Futures Volumes, corresponding to Bitcoin trading activity occurring on the spot and futures platforms, respectively, plummeted at the end of June and remained low into early July. Related Reading: Solana Breaks Out Of Symmetrical Triangle\u2014Next Stop $164? With the latest price breakout, however, both metrics have seen an increase, suggesting activity has noted an uplift across both the spot and futures markets. That said, while there has indeed been an uptick in trading, volumes still remain low when compared to history. Historically, rallies have usually only been sustainable when they have been able to capture mass attention from the traders. This is because the fresh activity is what ends up providing fuel for these runs to keep going. &#8220;The takeaway here is that BTC hit an ATH despite thin liquidity &#8211; worth paying attention to,&#8221; notes the analytics firm. It now remains to be seen whether the activity increase would continue in the coming days or if the lull is here to stay. In some other news, a key Bitcoin indicator still remains outside the euphoria zone, as Glassnode has pointed out in another X post. The metric in question is the Net Unrealized Profit/Loss (NUPL) of the long-term holders. The NUPL measures, as its name suggests, the net amount of unrealized profit or loss that the BTC investors are currently holding. Here, the NUPL of the long-term holders (LTHs) specifically is of interest, who are the investors holding their coins for more than 155 days. Below is a chart that shows the trend in the Bitcoin LTH NUPL over the past year. As displayed in the graph, the Bitcoin LTH NUPL has observed a rise alongside the latest price rally as LTH profits have grown. However, despite this, the indicator stands at 0.69, which is under the 0.75 level that has historically separated euphoric markets. Related Reading: Bitcoin Breakout Not Just Hype\u2014$4.4B Inflows Back The Move &#8220;This cycle has seen just ~30 days above the 0.75 threshold, compared to 228 days in the previous cycle,&#8221; says the analytics firm. The metric was last above this level in February. BTC Price At the time of writing, Bitcoin is floating around $118,000, up over 9% in the last week. Featured image from Dall-E, Glassnode.com, chart from TradingView.com"
+    },
     {
       "title": "Ethereum Targets Liquidity Above $3,000 \u2013 Price Magnet Forming",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-targets-liquidity-above-3000-price-magnet-forming/",
@@ -100,11 +105,6 @@
       "title": "SUI Explodes Higher, Climbing Above 20-Day MA \u2014 But Can The Rally Hold?",
       "link": "https://www.newsbtc.com/sui/sui-explodes-higher-climbing-above-20-day-ma/",
       "summary": "SUI is positioned for further upside, and backed by technical momentum and solid volume support. However, maintaining the price above the key moving averages will be crucial for the continuation of this bullish run. Volume Spikes Confirm Breakout Strength According to Gemxbt&#8217;s post on X, the SUI 1-hour chart is showing a strong uptrend, with the price trading above the 5, 10, and 20-day moving averages, which is a sign of short-term momentum and sustained buyer strength. Related Reading: SUI Prints Classic Reversal Setup With Triple Top Formation The Relative Strength Index (RSI) is approaching overbought territory, which warns of a potential short-term pullback and suggests that traders should be cautious of a temporary pause as the market digests recent gains. Meanwhile, the Moving Average Convergence Divergence (MACD) is bullish with a widening gap between the MACD line and the signal line. This expansion often precedes continuation in trending markets and confirms that momentum is accelerating. Trading volume has increased notably alongside price movement. The rising volume during an uptrend suggests that the move is a genuine market participation. Analyst LORD ATU also stated that SUI is trading at $2.90 on the daily chart, with a solid 9.69% weekly gain, and showing clear signs of bullish momentum. The price action falling wedge pattern is typically a bullish continuation signal with a potential target at $3.20, and if confirmed with volume, a breakout will follow through. However, a bearish head and shoulders formation is also beginning to emerge, which is signaling a potential drop toward the $2.30 support zone, which is a level of prior structure and support. LORD ATU noted that the key levels to watch out for are the support at $2.88, which is a crucial short-term floor that must hold to maintain the uptrend, and resistance at $3.15, where a clear break could trigger momentum higher. The SUI ecosystem growth looks strong, with increasing development activity and solid fundamentals. However, an upcoming token unlock could introduce fresh supply pressure and volatility. Momentum Accelerates After Consolidation Phase Another Analyst, Profit Demon, also mentioned on X that SUI has completed a bullish flag pattern breakout on the 3-day chart, which is signaling a shift in market sentiment after a period of consolidation. This continuation pattern often marks the end of sideways movement and the resumption of an existing uptrend. Related Reading: SUI Prepares For Bullish Flag Breakout Amid $3 Reclaim \u2013 Analyst Doubles The Target The upward momentum is building after the consolidation phase, which supports the increased buying interest and favorable market conditions. SUI trading at $3.51 on the daily chart &#124; Source: SUIUSDT on Tradingview.com Featured image from iStock images, chart from tradingview.com"
-    },
-    {
-      "title": "99Bitcoins Q2 Report Unveils What\u2019s Powering the 2025 Crypto Boom",
-      "link": "https://www.newsbtc.com/news/99bitcoins-q2-report-unveils-whats-powering-2025-crypto-boom/",
-      "summary": "The crypto market has been on a tear in 2025, and the latest 99Bitcoins Q2 State of Crypto Market Report, authored by Manisha Mishra and sponsored by KCEX, lays it all out. The quarter saw institutional demand surge, Bitcoin ($BTC) hit a then-ATH of $111,980, and crypto hiring spike 753%. Despite the rally, the total market cap was still 12% below its $3.7 trillion peak, hinting at room to run. With stablecoin adoption booming and long-term holders stacking, Q2 may have been the real start of this cycle\u2019s breakout. Read the full report here: State of Crypto Q2 2025 \u2013 99Bitcoins A Record-Breaking Quarter for Bitcoin Bitcoin lit up Q2 with a 25.66% gain, smashing past resistance to hit a then-record $111,980 on May 22. That put it well ahead of gold\u2019s 7.21% rise and most equity indices, marking a sharp reversal from Q1\u2019s pullback. According to 99Bitcoins\u2019 Q2 report, the rally was driven by institutional inflows, ETF demand, and growing sovereign interest, with governments now holding 2.5% of Bitcoin\u2019s total supply. Meanwhile, spot ETF flows consistently outpaced miner issuance, tightening supply just as demand surged. Chris Wright of 21Shares summed it up: \u201cWe believe that Bitcoin ETFs will attract 50% more inflows this year compared to last year. This would result in net inflows of approximately $55 billion in 2025, representing an increase of around $20 billion year-over-year.\u201d A golden cross in late May confirmed the uptrend, following a clean breakout from months of consolidation. It\u2019s a textbook bullish structure. With price action and fundamentals in sync, Q2 marked the clearest shift yet: Bitcoin is back, but powered by institutions, not retail. Institutions Took the Wheel, Retail Turned to Altcoins According to the 99Bitcoins report, this bull run has a different driver behind the wheel. And it\u2019s not Reddit. 9 out of 10 experts interviewed in the Q2 report said retail traders have shifted their focus to the best altcoins, chasing faster gains while institutions quietly accumulated Bitcoin. The on-chain data backs it up. Glassnode shows that 30% of $BTC\u2019s supply is now held by centralized entities, with large players dominating inflows. Meanwhile, Google Trends reveals that retail interest in \u201cBitcoin\u201d searches stayed surprisingly low throughout Q2, even as $BTC hit new highs. Confidence among long-term holders also climbed. UTXO activity dropped, and the amount of BTC in long-term storage kept rising. A sign that serious capital isn\u2019t looking to sell anytime soon. Stablecoins and DeFi Picked Up Steam If Q2 proved anything, it\u2019s that stablecoins aren\u2019t just stable, they\u2019re also scaling. The Circle IPO popped 168% on day one, marking the first stablecoin issuer to go public and signaling TradFi\u2019s growing appetite for crypto exposure without the volatility. According to 99Bitcoins, 81% of crypto-aware SMBs now want to use stablecoins for daily ops, and the number of Fortune 500s planning to integrate them has tripled since last year. On the DeFi side, Ethereum ($ETH) held L1 dominance, Chainlink ($LINK) led dev activity, and $HYPE \u2013 the native token of Hyperliquid \u2013 saw serious traction, fueled by the DEX\u2019s rise to 70%+ of all perp DEX volume. While others chased memes, HYPE rallied on actual utility. In short: DeFi\u2019s still cooking, and stablecoins are fueling the fire. Memecoin Mayhem After tanking in Q1, the memecoin market bounced back slightly in Q2, though volatility stayed extreme and price action remained erratic. Q2 saw the meme coins hit new heights, with over 5.9 million new tokens launched and most of them churned out via pump.fun. It was chaotic, noisy, and pure degen energy. While most faded instantly, tokens like $FARTCOIN and $SPX kept riding the wave. That said, the surge in token activity came with a dark side: phishing and wallet-targeted hacks climbed, especially among memecoin holders. Regulatory Wins and Macro Shifts Driving Confidence If Q2 had a theme, it was relief on both the policy and economic fronts. The U.S. pulled back on crypto enforcement, scrapped IRS reporting rules for DeFi, and signaled a more constructive stance overall. Meanwhile, the Fed held rates steady for the fourth straight time, hinting at a possible cut in July. With unemployment flat and growth slowing, capital started flowing into safe-haven assets, and this time, Bitcoin was firmly on that list. The result? Confidence surged. Bitcoin ETF inflows accelerated, volatility dropped, and $BTC\u2019s macro narrative strengthened. It\u2019s no longer just a risk asset; it\u2019s becoming part of the defensive playbook. Elsewhere, $XRP finally closed its long-running legal battle with the SEC, potentially clearing the runway for a new ATH later this year. What\u2019s Next for Q3? Back in Q2, 99Bitcoins forecasted that if BTC could flip $111K\u2013$112K resistance, the path to $120K would open, with $135K as a stretch target. Fast forward to now, and that prediction is aging well: Bitcoin is already trading at above $118K, edging toward that psychological milestone. The report also noted $BTC was holding firm above $103K support, forming a bullish structure backed by rising miner wallet balances, shrinking exchange reserves, and growing illiquid supply \u2013 all signs of confidence from long-term holders. Still, Q3 isn\u2019t without risk. ETF inflows could slow, and macro headwinds, from global conflict to sudden rate hikes, remain on the radar. But if institutional flows stay hot and the Fed delivers a rate cut, $135K no longer feels like a moonshot. It\u2019s just part of the next leg up. Final Thoughts: A Bull Market With Depth The 99Bitcoins Q2 report by Manisha Mishra paints a clear picture: this bull market isn\u2019t built on retail hype. Institutions, regulatory tailwinds, and real product traction are powering it. From ETF inflows to stablecoin adoption and supply-side tightening, the signals all point toward a more mature, resilient crypto cycle. And with Bitcoin already pushing towards $120K, many of the Q2 projections are already playing out. If momentum holds, and macro conditions don\u2019t throw a curveball, Q4 could be the real breakout. Read the full report here: State of Crypto Q2 2025 \u2013 99Bitcoins This article is for informational purposes only and does not constitute financial advice. Please always do your own research (DYOR) before investing in crypto."
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,21 @@
   ],
   "Decrypt": [
     {
+      "title": "House Democrats Struggle to Approach 'Crypto Week' With Unified Front",
+      "link": "https://decrypt.co/329850/house-democrats-struggle-approach-crypto-week-unified-front",
+      "summary": "Some Democrats are pledging to punish other party members who support what they see as \u201cTrump\u2019s crypto corruption.\u201d Leadership has largely stayed out of the fight."
+    },
+    {
+      "title": "Coinbase, Strategy, Other Bitcoin and Crypto Stocks Soar in Record-Setting Week",
+      "link": "https://decrypt.co/329740/coinbase-strategy-bitcoin-and-crypto-stocks-soar-record-week",
+      "summary": "Crypto-focused companies benefited from the surge in crypto markets this week."
+    },
+    {
+      "title": "Tether to End USDT Redemptions on Bitcoin Cash, Algorand and Beyond",
+      "link": "https://decrypt.co/329857/tether-to-end-usdt-redemptions-on-bitcoin-cash-algorand-and-beyond",
+      "summary": "Stablecoin issuer Tether is ending support for USDT on five \"legacy\" blockchains after previously halting minting on those networks."
+    },
+    {
       "title": "Solana Treasury Firm Upexi Raises $200 Million to Boost SOL Stash",
       "link": "https://decrypt.co/329838/solana-treasury-firm-upexi-raises-200-million-boost-sol-stash",
       "summary": "Publicly traded Upexi is poised to boast the largest Solana treasury stash once its latest funding round is completed."
@@ -144,21 +159,6 @@
       "title": "Public Keys: CoreWeave Fusion Dance, $1 Billion Day for Bitcoin ETFs and Strategy's Bye Week",
       "link": "https://decrypt.co/329825/public-keys-coreweave-1-billion-bitcoin-etfs-strategy-week-off",
       "summary": "Core Scientific and CoreWeave announce a massive $9B merger while Bitcoin ETFs see their second-biggest day ever with $1.17B in inflows."
-    },
-    {
-      "title": "Grok 4 Predicts Dodgers for World Series Win\u2014But Other AIs Aren't So Sure",
-      "link": "https://decrypt.co/329698/grok-4-predicts-dodgers-world-series-win-other-ais-not-sure",
-      "summary": "Elon Musk's new model crunched Polymarket odds and picked the Dodgers, but ChatGPT and DeepSeek favor the Tigers as a better value for bettors."
-    },
-    {
-      "title": "GMX Hacker Goes White-Hat, Returns $40 Million\u2014Sends Rest to Tornado Cash",
-      "link": "https://decrypt.co/329821/gmx-hacker-white-hat-returns-40-million-sends-rest-tornado-cash",
-      "summary": "After returning funds to GMX, it appeared a would-be hacker sent $5 million in Ethereum to the coin mixer."
-    },
-    {
-      "title": "SEC's Halt of ETF Holding XRP and Solana Has Investors 'Suffering Harm', Grayscale Says",
-      "link": "https://decrypt.co/329819/secs-halt-etf-xrp-solana-investors-suffering-harm-grayscale",
-      "summary": "Grayscale said in a letter on Tuesday that it may take legal action if the SEC continues to hold up the debut of its multi-token fund on NYSE Arca."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "SUI crosses $3.5 \u2013 Assessing if bulls can regain control",
+      "link": "https://ambcrypto.com/sui-breaks-3-5-assessing-if-bulls-can-regain-control/",
+      "summary": "<img alt=\"SUI\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-11T112528.066-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />SUI nears breakout as traders show confidence and short liquidations surge."
+    },
+    {
       "title": "Optimism \u2013 Is $0.75 in sight for OP after a 17% spike?",
       "link": "https://ambcrypto.com/optimism-is-0-75-in-sight-for-op-after-a-17-spike/",
       "summary": "<img alt=\"OPTIMISM\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-1-3.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can the improving on-chain metrics for Optimism help it sustain the breakout?"
@@ -208,11 +213,6 @@
       "title": "PEPE jumps 30% in 48 hours \u2013 Traders, more gains ahead IF\u2026",
       "link": "https://ambcrypto.com/pepe-jumps-30-in-48-hours-traders-more-gains-ahead-if/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Chandan-2025-07-11T152107.790.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A crypto whale bought 228 billion PEPE worth $2.68 million."
-    },
-    {
-      "title": "Bitcoin \u2013 How $1.18B in ETF inflows could push BTC\u2019s price higher",
-      "link": "https://ambcrypto.com/bitcoin-how-1-18b-in-etf-inflows-could-push-btcs-price-higher/",
-      "summary": "<img alt=\"BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Benjamin-2025-07-11T135431.102.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Selling pressure from miners increased slightly as BTC hit a new ATH."
     }
   ]
 }
