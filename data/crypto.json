@@ -2,6 +2,16 @@
   "CoinDesk": [],
   "Cointelegraph": [
     {
+      "title": "Malta regulator: No MiCA licenses at risk after EU review",
+      "link": "https://cointelegraph.com/news/no-mica-license-malta-at-risk-esma-review-mfsa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4NmItODcwZS03M2UwLTg0MTAtMWQ1ODM4YzM5MDdl.jpg\" /></p><p>Malta has sought to lead the way in EU crypto regulation, though early leadership has not come without its challenges.</p>"
+    },
+    {
+      "title": "Thou shalt not shill: Fake \u2018Vatican Chamber\u2019 token presale exposed",
+      "link": "https://cointelegraph.com/news/fake-vatican-chamber-token-presale-scam-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4NzMtY2I0NC03MzQyLThhY2ItMDM2ZmEwNGQ4Yjgy.jpg\" /></p><p>The Vatican Bank has denied any link to a suspicious crypto project offering fake memberships and token sales through a fraudulent \u201cVatican Chamber of Trade.\u201d</p>"
+    },
+    {
       "title": "Can you earn passive income running a Lightning node?",
       "link": "https://cointelegraph.com/explained/can-you-earn-passive-income-running-a-lightning-node?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MzU3MTJmNmZjYjI3YTNiNTBiNDg1ZGE4MWJlN2Y3MC5qcGc=.jpg\" /></p><p>Running a Lightning Network node in 2025 can generate passive Bitcoin income, but success depends on capital, uptime and dynamic fee strategies.</p>"
@@ -15,19 +25,14 @@
       "title": "Bitcoin, Ether ETFs clock second-biggest day of inflows on record",
       "link": "https://cointelegraph.com/news/bitcoin-ether-etfs-record-second-biggest-day-of-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBlZmYtZmY0Yy03Nzk1LWFhYjQtMGZlNmUzMDdhMGMx.jpg\" /></p><p>BlackRock\u2019s Bitcoin and Ether funds were the biggest beneficiaries of Thursday\u2019s net inflows.</p>"
-    },
-    {
-      "title": "Tasmanian police find top 15 crypto ATM users are scam victims",
-      "link": "https://cointelegraph.com/news/tasmanian-police-find-top-15-crypto-atm-users-are-scam-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzMzMDYtODA1YS03YWI1LWFhNzktNDhiMjE3M2E0MGZi.jpg\" /></p><p>Tasmanian police said they found victims were being directed to crypto ATMs by scammers after regular financial institutions flagged the transactions.</p>"
-    },
-    {
-      "title": "LIBRA token creator fights class suit, citing lack of jurisdiction",
-      "link": "https://cointelegraph.com/news/libra-token-creator-seek-dismiss-class-suit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjljZTYtNzU4MC03Y2YxLWJjOWQtNDM1ZTgzYmQwOTI5.jpg\" /></p><p>Hayden Davis wants a New York lawsuit against him dismissed, arguing the LIBRA token was offered worldwide and didn\u2019t specifically target the state or its residents.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "European watchdog warns of \u2018inadequate\u2019 Malta crypto licensing for MiCA regulations",
+      "link": "https://cryptoslate.com/european-watchdog-warns-of-inadequate-malta-crypto-licensing-for-mica-regulations/",
+      "summary": "<p>The European Securities and Markets Authority (ESMA) has raised red flags over Malta\u2019s handling of license approvals under the EU\u2019s Markets in Crypto-Assets (MiCA) regulation. In a peer review report released on July 10, ESMA highlighted deficiencies in how the Malta Financial Services Authority (MFSA) approved a recent crypto asset service provider (CASP), urging tighter [&#8230;]</p> <p>"
+    },
     {
       "title": "Investors rush into historic PUMP pre-sale while whales quietly prepare for a crash",
       "link": "https://cryptoslate.com/investors-rush-into-historic-pump-pre-sale-while-whales-quietly-prepare-for-a-crash/",
@@ -47,11 +52,6 @@
       "title": "Shareholders push back against high pay for public Bitcoin miner execs after record equity grants",
       "link": "https://cryptoslate.com/shareholders-push-back-against-high-pay-for-public-bitcoin-miner-execs-after-record-equity-grants/",
       "summary": "<p>Shareholders trimmed support for executive pay packages at leading US Bitcoin (BTC) miners to an average of 64% in this year\u2019s proxy season, far below the over 90% approval norm across the S&#38;P 500, according to a July 10 VanEck research note. VanEck reviewed filings from eight listed miners and found average named-executive-officer (NEO) compensation [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Robinhood launches ETH, SOL staking services for US users with $1 minimum",
-      "link": "https://cryptoslate.com/robinhood-launches-eth-sol-staking-services-for-us-users-with-1-minimum/",
-      "summary": "<p>Robinhood launched Ethereum (ETH) and Solana (SOL) staking services for U.S. customers on July 10, enabling users to earn staking rewards on their crypto holdings with as little as $1. The new feature expands Robinhood\u2019s staking offerings beyond Europe, allowing American customers to participate in blockchain validation without directly running validators themselves. For Ethereum, Robinhood [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -110,6 +110,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Malicious Pull Request Inserted Into Ethereum Code Extension: Research",
+      "link": "https://decrypt.co/329667/malicious-pull-request-inserted-into-ethereum-code-extension-research",
+      "summary": "Cybersecurity firm ReversingLabs uncovered two lines of malicious code in an update forETHCode, an open source suite of tools."
+    },
+    {
       "title": "Florida AG Investigates Robinhood Over Crypto Pricing Claims",
       "link": "https://decrypt.co/329664/florida-ag-investigates-robinhood-crypto-pricing",
       "summary": "Florida's AG said Robinhood's payment-for-order-flow model may mislead users by hiding true crypto costs behind marketing claims."
@@ -128,11 +133,6 @@
       "title": "If You Bought Ethereum When Eric Trump Said So, You\u2019re Finally in the Green",
       "link": "https://decrypt.co/329655/ethereum-eric-trump-youre-finally-green",
       "summary": "Ethereum plunged as much as 37% after the president's son called it a buy in February. Five months later, it has slowly clawed its way back."
-    },
-    {
-      "title": "Bitcoin Stablecoin Network Plasma Sets XPL Token Sale After Attracting $1 Billion in Deposits",
-      "link": "https://decrypt.co/329578/bitcoin-stablecoin-network-plasma-token-sale-1-billion",
-      "summary": "Plasma will feature several unreleased stablecoins upon its \"late summer\" mainnet launch, although it wouldn't confirm who would issue them."
     }
   ],
   "CryptoBriefing": [
