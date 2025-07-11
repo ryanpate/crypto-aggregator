@@ -2,6 +2,21 @@
   "CoinDesk": [],
   "Cointelegraph": [
     {
+      "title": "Peter Schiff says sell Bitcoin for silver as BTC smashes new highs",
+      "link": "https://cointelegraph.com/news/bitcoin-hits-new-high-schiff-silver-call?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4YzEtYmU5MC03ZDQ3LTk0MDAtM2NmMjZiOTg5YWI2.jpg\" /></p><p>Bitcoin\u2019s new all-time high near $118,000 has sparked mixed reactions, with gold bug Peter Schiff urging a switch to silver, while others are more bullish than ever.</p>"
+    },
+    {
+      "title": "Ethereum Foundation roadmap targets zkEVM in mainnet within a year",
+      "link": "https://cointelegraph.com/news/ethereum-zkevm-layer1-zero-knowledge-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y5MTktYTAzZS03MjgwLWFmMGItNDA5NTMwNzE2M2I2.jpg\" /></p><p>The Ethereum Foundation is preparing to bring zero-knowledge technology to Ethereum, with plans to launch a zkEVM on the layer-1 network within a year.</p>"
+    },
+    {
+      "title": "Shanghai officials warm to stablecoins despite China crypto ban: Report",
+      "link": "https://cointelegraph.com/news/shanghai-mulls-stablecoin-despite-china-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y5MGEtMDgyZS03ZmVkLWFjMmUtMGZiNmVlZDMwYjU3.jpg\" /></p><p>Local authorities and state-owned publications in mainland China are increasingly calling on the government not to dismiss the increasing global adoption of stablecoins.</p>"
+    },
+    {
       "title": "Hacker returns stolen funds from $40M GMX exploit",
       "link": "https://cointelegraph.com/news/gmx-exploiter-begins-returning-stolen-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4ZDQtM2Q5My03ZmJjLThhYjktZGExMDdiYjI2NmY5.jpg\" /></p><p>The attacker behind the $40 million GMX exploit has begun returning the stolen crypto after accepting a $5 million white hat bounty offered by the GMX team.</p>"
@@ -10,24 +25,14 @@
       "title": "Malta regulator: No MiCA licenses at risk after EU review",
       "link": "https://cointelegraph.com/news/no-mica-license-malta-at-risk-esma-review-mfsa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4NmItODcwZS03M2UwLTg0MTAtMWQ1ODM4YzM5MDdl.jpg\" /></p><p>Malta has sought to lead the way in EU crypto regulation, though early leadership has not come without its challenges.</p>"
-    },
-    {
-      "title": "Thou shalt not shill: Fake \u2018Vatican Chamber\u2019 token presale exposed",
-      "link": "https://cointelegraph.com/news/fake-vatican-chamber-token-presale-scam-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4NzMtY2I0NC03MzQyLThhY2ItMDM2ZmEwNGQ4Yjgy.jpg\" /></p><p>The Vatican Bank has denied any link to a suspicious crypto project offering fake memberships and token sales through a fraudulent \u201cVatican Chamber of Trade.\u201d</p>"
-    },
-    {
-      "title": "Can you earn passive income running a Lightning node?",
-      "link": "https://cointelegraph.com/explained/can-you-earn-passive-income-running-a-lightning-node?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MzU3MTJmNmZjYjI3YTNiNTBiNDg1ZGE4MWJlN2Y3MC5qcGc=.jpg\" /></p><p>Running a Lightning Network node in 2025 can generate passive Bitcoin income, but success depends on capital, uptime and dynamic fee strategies.</p>"
-    },
-    {
-      "title": "Bitcoin supply is shrinking: Will Saylor\u2019s relentless BTC buying cause a supply shock?",
-      "link": "https://cointelegraph.com/explained/bitcoin-supply-is-shrinking-will-saylors-relentless-btc-buying-cause-a-supply-shock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNDc2OTFmYmU3NDZjMTA4NjNiM2NhZTQ4Yjk4NTEyZC5qcGc=.jpg\" /></p><p> As Michael Saylor\u2019s Strategy and other whales keep buying Bitcoin, the stage may be set for a historic supply shock. </p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ethereum Foundation denies selling assets amid ETH\u2019s climb past $3,000",
+      "link": "https://cryptoslate.com/ethereum-foundation-denies-selling-assets-amid-eths-climb-past-3000/",
+      "summary": "<p>Ethereum has surged past the $3,000 mark for the first time since February, riding on the renewed momentum sweeping across the broader crypto market. According to data, ETH&#8217;s price peaked at $3,033 during the last 24 hours amid a 9% increase. However, its value has slightly retraced to $2,991 as of press time. This [&#8230;]</p> <p>"
+    },
     {
       "title": "Bitcoin ETFs see record $1.2B inflow as market hits all-time high in dollars",
       "link": "https://cryptoslate.com/bitcoin-etfs-see-record-1-2b-inflows-as-market-hits-all-time-high-in-dollars/",
@@ -47,14 +52,14 @@
       "title": "Bitcoin has NOT reached a new all-time high in euros and pounds amid $118k breakout",
       "link": "https://cryptoslate.com/bitcoin-has-not-reached-a-new-all-time-high-in-euros-and-pounds-amid-118k-breakout/",
       "summary": "<p>Bitcoin surged to a new all-time high against the US dollar on July 10, hitting $111,683 on Binance before closing the day even higher at $115,244. The breakout marked another milestone for dollar-based investors in Bitcoin&#8217;s 2025 bull cycle. But while the headlines celebrated a fresh record, BTC told a different story when priced in [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ethena rockets to $290 million in revenue, seeks SEC clarity on USDe",
-      "link": "https://cryptoslate.com/ethena-rockets-to-290-million-in-revenue-seeks-sec-clarity-on-usde/",
-      "summary": "<p>Ethena Labs reached $290.2 million in total protocol revenue on July 9, trailing only Tether, Circle, and Sky among stablecoin issuers. Token Terminal data show that the stablecoin issuer reached $100 million in cumulative revenue 251 days after its launch, making it the second-fastest protocol to cross this threshold. Daily fees averaged $3.1 million during [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Dogecoin Chart Is \u2018One Of The Best\u2019 In Crypto\u2014$1 Remains Likely: Analyst",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-chart-one-of-the-best-crypto/",
+      "summary": "Dogecoin hovered near $0.20 on Friday, nursing a weekly gain of about 17 percent and a 24-hour trading volume above $2 billion as traders digested a late-June livestream by technical analyst Kevin, who argued that the meme-coin\u2019s structure \u201chas to be one of the best-looking altcoin charts out there.\u201d Dogecoin Double Bottom Could Trigger $1 During the one-hour session Kevin highlighted a textbook double-bottom that printed on Dogecoin\u2019s weekly chart exactly at the confluence of the 200-week simple and exponential moving averages, the 0.382 Fibonacci retracement of the 2023\u20132025 advance, and a long-term up-trend line dating back to the 2022 bear-market trough. Entering at that zone, he said, \u201cthe risk-reward here is phenomenal,\u201d noting that a tight stop just below the cluster implied limited downside while upside targets stretched toward the previous cycle\u2019s highs. Kevin told viewers the weekly momentum profile supports a larger breakout. Money-flow on Market Cipher is curling higher for the first time in more than a year; the MACD is preparing to cross bullish from a higher low; and the stochastic RSI has turned up from mid-range. On the monthly chart, relative strength continues to print higher highs and higher lows, and the stock-RSI \u201cis hanging on, ready to push back up,\u201d he said, adding that the entire structure \u201clooks freakin\u2019 great\u201d for a sustained move once Bitcoin clears its own resistance band near $116,000. Related Reading: Dogecoin To $3.94 This Cycle? This Chart Says It\u2019s No Meme His price map for the coming months begins with a purple resistance box between $0.94 and $1.31\u2014the 2021 peak plus the 1.618 extension of the 2022\u201324 base. \u201cI\u2019d be pretty shocked if Dogecoin can\u2019t at least tag 94 cents,\u201d Kevin said, stressing that a decisive break of a dollar would likely attract a new wave of retail traders and algorithmic trend-followers. He stopped short of offering an end-of-cycle target, but insisted \u201c$1 remains likely,\u201d conditional on Bitcoin extending toward the $150,000 region and\u2014crucially\u2014on macro tail-winds such as an end to quantitative tightening by the Federal Reserve. Even so, Kevin warned against complacency. Dogecoin\u2019s intraday spike coincided with Bitcoin\u2019s test of a major Fib cluster at $116,000, while USDT dominance hit golden-pocket support\u2014levels that could spark a near-term cooldown. \u201cDon\u2019t be fooled by green candles,\u201d he said, reminding viewers that meme-coins \u201ccan get crushed even in bull markets\u201d and advising strict risk management: take partial profits after big thrusts, move stops to break-even, and \u201crinse and repeat.\u201d Related Reading: Dogecoin Resistance Walls Ahead: Analyst Flags 3 Key Levels Beyond pure chart work, Kevin framed Dogecoin as a perpetual beneficiary of retail psychology. \u201cYou can walk into any gas station and someone owns Doge,\u201d he quipped. \u201cIt\u2019s the retail darling\u2014it always will be\u2014especially when new money shows up with deeper pockets than last time.\u201d For now, price action is validating that thesis. If the double-bottom holds and macro conditions align, the analyst argues, Dogecoin could once again headline the next alt-season\u2014this time with a dollar tag that traders in the last cycle could only meme about. At press time, DOGE traded at $0.1978. Featured image created with DALL.E, chart from TradingView.com"
+    },
     {
       "title": "Research Predicts $160,000 Bitcoin By EOY\u2014If Treasury Firms Hold",
       "link": "https://www.newsbtc.com/bitcoin-news/research-160000-bitcoin-eoy-if-treasury-firms-hold/",
@@ -74,11 +79,6 @@
       "title": "Dogecoin (DOGE) Rockets to $0.20 \u2014 Can It Go Even Higher?",
       "link": "https://www.newsbtc.com/analysis/doge/dogecoin-doge-rockets-to-0-20/",
       "summary": "Dogecoin started a fresh increase above the $0.180 zone against the US Dollar. DOGE is now consolidating and might aim for a move above $0.20. DOGE price started a fresh increase above the $0.1750 and $0.180 levels. The price is trading above the $0.1880 level and the 100-hourly simple moving average. There is a bullish trend line forming with support at $0.1910 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could start a fresh rally if it clears the $0.1980 and $0.20 resistance levels. Dogecoin Price Eyes More Gains Dogecoin price started a fresh increase from the $0.1750 zone, like Bitcoin and Ethereum. DOGE was able to climb above the $0.180 and $0.1880 resistance levels. The bulls even pushed the price above the $0.1920 resistance. Finally, the price traded close to the $0.20 barrier. A high was formed at $0.1992 and the price is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $0.1660 swing low to the $0.1992 high. Dogecoin price is now trading above the $0.1880 level and the 100-hourly simple moving average. Besides, there is a bullish trend line forming with support at $0.1910 on the hourly chart of the DOGE/USD pair. Immediate resistance on the upside is near the $0.1980 level. The first major resistance for the bulls could be near the $0.20 level. The next major resistance is near the $0.2050 level. A close above the $0.2050 resistance might send the price toward the $0.220 resistance. Any more gains might send the price toward the $0.2320 level. The next major stop for the bulls might be $0.250. Downside Correction In DOGE? If DOGE\u2019s price fails to climb above the $0.20 level, it could start a downside correction. Initial support on the downside is near the $0.1910 level or the trend line zone. The next major support is near the $0.1820 level or the 50% Fib retracement level of the upward move from the $0.1660 swing low to the $0.1992 high. The main support sits at $0.1780. If there is a downside break below the $0.1780 support, the price could decline further. In the stated case, the price might decline toward the $0.1750 level or even $0.1720 in the near term. Technical Indicators Hourly MACD \u2013 The MACD for DOGE/USD is now gaining momentum in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for DOGE/USD is now above the 50 level. Major Support Levels \u2013 $0.1910 and $0.1880. Major Resistance Levels \u2013 $0.1980 and $0.2000."
-    },
-    {
-      "title": "Drop NFTs Like It\u2019s Hot: Snoop Dogg\u2019s Telegram Collection Raises $12M In 30 Minutes",
-      "link": "https://www.newsbtc.com/news/drop-nfts-like-its-hot-snoop-doggs-telegram-collection-raises-12m-in-30-minutes/",
-      "summary": "Hip Hop legend Snoop Dogg released a nearly 1 million non-fungible token (NFT) collection on Telegram, which sold out in minutes. The launch created massive interest online and raised over $10 million in sales. Related Reading: Bitcoin Back In \u2018Retesting Phase\u2019 After Key Level Reclaim \u2013 The Calm Before The Storm? Snoop Dogg\u2019s Telegram Drop Raises $12 Million On Wednesday, Snoop Dogg launched digital collectibles on Telegram, igniting an NFT frenzy on the platform. The collection offered unique NFTs inspired by the rapper\u2019s style, including multiple marijuana-themed collectibles, anthropomorphic beagles, and vintage cars. The drop is part of Telegram\u2019s Collectible Gifts, unique works of art on the platform that can be displayed on profiles and have special attributes. As the website explains, the collectibles can be transferred between users or auctioned on NFT marketplaces. Telegram\u2019s founder, Pavel Durov, revealed that the Snoop Dogg drop sold out in 30 minutes, selling 996,000 NFTs for $12 million, adding that \u201cBlockchain minting and the secondary market go live in 21 days. It\u2019s going to be wild.\u201d Last week, Durov shared that the 4th of July-themed Gifts also sold out within minutes, with over 800,000 collectibles selling in 10 minutes. Amid the collectibles\u2019 launch, the rapper promoted it alongside a new track titled \u201cGifts\u201d on his official Telegram Channel. He shared the link to the song\u2019s music video and tagged Durov\u2019s Telegram channel, saying, \u201ctime to drop it like it\u2019s hot.\u201d In the track, Snoop Dogg shouts out Toncoin (TON), the native token of the TON Blockchain, and Telegram. \u201cPlug in my phone, get dressed, and then I plot my play / Critical existence, digital resistance / Shifted, gifted, and lifted / (\u2026) / Stickers and games on Telegram, guess it&#8217;s coming soon / My privacy is not for sale,\u201d some of the lyrics read. Notably, this isn\u2019t the rapper\u2019s first NFT venture, as he entered the space when the sector first gained mainstream popularity in 2021 and dropped collections in 2022 and 2023. NFT Mania Making A Comeback? On X, NFT lead at the TON blockchain, Zenith highlighted the drop\u2019s success, as some of the supply gifts sold out in less than 2 minutes. He explained that Telegram gifts have had a peak market capitalization of over $200 million and a trading volume of $122 million since their launch. According to"
     }
   ],
   "Bitcoin Magazine": [
@@ -110,6 +110,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin ETFs Post Second-Biggest Day Ever: Why It Matters",
+      "link": "https://decrypt.co/329677/bitcoin-etfs-post-second-biggest-day-ever-why-it-matters",
+      "summary": "BlackRock\u2019s IBIT led Thursday\u2019s ETF inflows with $448.5 million, as capital consolidated into top issuers despite outflows from GBTC."
+    },
+    {
       "title": "Bitcoin Price Reaches Pivotal Moment\u2014Is $120K Next?",
       "link": "https://decrypt.co/329674/bitcoin-price-reaches-pivotal-moment-is-120k-next",
       "summary": "Bitcoin hit a new all-time high above $118,000 as institutions drove the rally\u2014while analysts predicted a $120K target by month-end."
@@ -128,11 +133,6 @@
       "title": "Florida AG Investigates Robinhood Over Crypto Pricing Claims",
       "link": "https://decrypt.co/329664/florida-ag-investigates-robinhood-crypto-pricing",
       "summary": "Florida's AG said Robinhood's payment-for-order-flow model may mislead users by hiding true crypto costs behind marketing claims."
-    },
-    {
-      "title": "What Crypto Derivatives Say About Bitcoin's Record Price",
-      "link": "https://decrypt.co/329661/crypto-derivatives-bitcoins-record-price",
-      "summary": "Despite Bitcoin\u2019s push to a new all-time high, the price outlook remains cautiously optimistic, was told."
     }
   ],
   "CryptoBriefing": [
@@ -164,6 +164,21 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Top 9 cloud mining platforms in July 2025",
+      "link": "https://ambcrypto.com/top-9-cloud-mining-platforms-in-july-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1282\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/joshua-sortino-LqKhnDzSF-8-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Cloud mining is an innovative method by which individuals can participate in the process of [&#8230;]"
+    },
+    {
+      "title": "Top 8 presales to look out for in June 2025",
+      "link": "https://ambcrypto.com/top-8-presales-to-look-out-for-in-june-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/parasa-murali-krishna-lq2dB0x_Phs-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A presale refers to an early sale of tokens before they are listed on public [&#8230;]"
+    },
+    {
+      "title": "Top 12 memecoins of July 2025",
+      "link": "https://ambcrypto.com/top-12-memecoins-of-july-2025/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/minh-pham-LTQMgx8tYqM-unsplash.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Memcoins have become an integral part of the crypto ecosystem. While they started out as [&#8230;]"
+    },
+    {
       "title": "VIRTUAL soars 14% \u2013 These TWO levels could define its next move",
       "link": "https://ambcrypto.com/virtual-soars-14-these-two-levels-could-define-its-next-move/",
       "summary": "<img alt=\"VIRTUAL\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250711_090438_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />VIRTUAL is attempting to reclaim its previous high from June."
@@ -172,21 +187,6 @@
       "title": "Moo Deng\u2019s birthday pushes crypto up 15% \u2013 Is $0.3 next?",
       "link": "https://ambcrypto.com/moo-dengs-birthday-pushes-crypto-up-15-is-0-3-next/",
       "summary": "<img alt=\"Viral baby hippo Moo Deng celebrates her first birthday- how is the meme coin doing?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Moo-Deng-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />On the occasion of the baby hippo's birthday, MOODENG saw a 15.57% rally on Thursday, the 10th of July, with a 233% hike in daily trading volume."
-    },
-    {
-      "title": "Stellar [XLM] \u2013 Here\u2019s what traders should look for after $0.30",
-      "link": "https://ambcrypto.com/stellar-xlm-heres-what-traders-should-look-for-after-0-30/",
-      "summary": "<img alt=\"Stellar signals potential for a rally past $0.3- Here&#039;s what traders need to watch out for\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Stellar-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin is expected to lead the rally now that it has set a new all-time high- XLM traders could look to book profits and wait."
-    },
-    {
-      "title": "Bitcoin hits new ATH of $118K \u2013 Can 2025 take BTC\u2019s price to $150K?",
-      "link": "https://ambcrypto.com/bitcoin-hits-new-ath-of-118k-can-2025-take-btc-prices-to-150k/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Bitcoin-ATH-FI.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The latest ATH saw a strong demand from institutions as bears got sidelined after a massive liquidation."
-    },
-    {
-      "title": "Hyperliquid to onboard 10M Phantom users \u2013 Will HYPE hit $120 now?",
-      "link": "https://ambcrypto.com/hyperliquid-to-onboard-10m-phantom-users-will-hype-hit-120-now/",
-      "summary": "<img alt=\"Hyperliquid to onboard 10M Phantom users - Will HYPE hit $120 now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Benjamin-2025-07-10T173707.555.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Analysts expect HYPE to double or triple by mid-2026."
     }
   ]
 }
