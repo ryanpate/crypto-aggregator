@@ -2,6 +2,11 @@
   "CoinDesk": [],
   "Cointelegraph": [
     {
+      "title": "Hacker returns stolen funds from $40M GMX exploit",
+      "link": "https://cointelegraph.com/news/gmx-exploiter-begins-returning-stolen-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4ZDQtM2Q5My03ZmJjLThhYjktZGExMDdiYjI2NmY5.jpg\" /></p><p>The attacker behind the $40 million GMX exploit has begun returning the stolen crypto after accepting a $5 million white hat bounty offered by the GMX team.</p>"
+    },
+    {
       "title": "Malta regulator: No MiCA licenses at risk after EU review",
       "link": "https://cointelegraph.com/news/no-mica-license-malta-at-risk-esma-review-mfsa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4NmItODcwZS03M2UwLTg0MTAtMWQ1ODM4YzM5MDdl.jpg\" /></p><p>Malta has sought to lead the way in EU crypto regulation, though early leadership has not come without its challenges.</p>"
@@ -20,14 +25,14 @@
       "title": "Bitcoin supply is shrinking: Will Saylor\u2019s relentless BTC buying cause a supply shock?",
       "link": "https://cointelegraph.com/explained/bitcoin-supply-is-shrinking-will-saylors-relentless-btc-buying-cause-a-supply-shock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNDc2OTFmYmU3NDZjMTA4NjNiM2NhZTQ4Yjk4NTEyZC5qcGc=.jpg\" /></p><p> As Michael Saylor\u2019s Strategy and other whales keep buying Bitcoin, the stage may be set for a historic supply shock. </p>"
-    },
-    {
-      "title": "Bitcoin, Ether ETFs clock second-biggest day of inflows on record",
-      "link": "https://cointelegraph.com/news/bitcoin-ether-etfs-record-second-biggest-day-of-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBlZmYtZmY0Yy03Nzk1LWFhYjQtMGZlNmUzMDdhMGMx.jpg\" /></p><p>BlackRock\u2019s Bitcoin and Ether funds were the biggest beneficiaries of Thursday\u2019s net inflows.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin ETFs see record $1.2B inflow as market hits all-time high in dollars",
+      "link": "https://cryptoslate.com/bitcoin-etfs-see-record-1-2b-inflows-as-market-hits-all-time-high-in-dollars/",
+      "summary": "<p>US-based spot Bitcoin ETFs saw a dramatic uptick in investor activity as the top crypto price reached a new all-time high of over $118,000, at least in dollars. According to SoSoValue data, the 12 funds saw cumulative inflows of $1.2 billion, the second strongest daily performance since launch in 2024, and the best this year. [&#8230;]</p> <p>"
+    },
     {
       "title": "European watchdog warns of \u2018inadequate\u2019 Malta crypto licensing for MiCA regulations",
       "link": "https://cryptoslate.com/european-watchdog-warns-of-inadequate-malta-crypto-licensing-for-mica-regulations/",
@@ -47,11 +52,6 @@
       "title": "Ethena rockets to $290 million in revenue, seeks SEC clarity on USDe",
       "link": "https://cryptoslate.com/ethena-rockets-to-290-million-in-revenue-seeks-sec-clarity-on-usde/",
       "summary": "<p>Ethena Labs reached $290.2 million in total protocol revenue on July 9, trailing only Tether, Circle, and Sky among stablecoin issuers. Token Terminal data show that the stablecoin issuer reached $100 million in cumulative revenue 251 days after its launch, making it the second-fastest protocol to cross this threshold. Daily fees averaged $3.1 million during [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Shareholders push back against high pay for public Bitcoin miner execs after record equity grants",
-      "link": "https://cryptoslate.com/shareholders-push-back-against-high-pay-for-public-bitcoin-miner-execs-after-record-equity-grants/",
-      "summary": "<p>Shareholders trimmed support for executive pay packages at leading US Bitcoin (BTC) miners to an average of 64% in this year\u2019s proxy season, far below the over 90% approval norm across the S&#38;P 500, according to a July 10 VanEck research note. VanEck reviewed filings from eight listed miners and found average named-executive-officer (NEO) compensation [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -110,6 +110,16 @@
   ],
   "Decrypt": [
     {
+      "title": "Bitcoin Price Reaches Pivotal Moment\u2014Is $120K Next?",
+      "link": "https://decrypt.co/329674/bitcoin-price-reaches-pivotal-moment-is-120k-next",
+      "summary": "Bitcoin hit a new all-time high above $118,000 as institutions drove the rally\u2014while analysts predicted a $120K target by month-end."
+    },
+    {
+      "title": "$1.14B in Crypto Shorts Rekt as Ethereum Tops $3K For First Time Since February",
+      "link": "https://decrypt.co/329673/1-14b-in-crypto-shorts-rekt-as-ethereum-tops-3k-for-first-time-since-february",
+      "summary": "Ethereum topped $3,000 for the first time since February, following the largest single day for ETH exchange-traded fund inflows."
+    },
+    {
       "title": "Malicious Pull Request Inserted Into Ethereum Code Extension: Research",
       "link": "https://decrypt.co/329667/malicious-pull-request-inserted-into-ethereum-code-extension-research",
       "summary": "Cybersecurity firm ReversingLabs uncovered two lines of malicious code in an update forETHCode, an open source suite of tools."
@@ -123,16 +133,6 @@
       "title": "What Crypto Derivatives Say About Bitcoin's Record Price",
       "link": "https://decrypt.co/329661/crypto-derivatives-bitcoins-record-price",
       "summary": "Despite Bitcoin\u2019s push to a new all-time high, the price outlook remains cautiously optimistic, was told."
-    },
-    {
-      "title": "SIM Swapper Who Stole $20 Million in Crypto Resentenced to 12 Years in Prison",
-      "link": "https://decrypt.co/329658/sim-swapper-20-million-crypto-resentenced-12-years-prison",
-      "summary": "Truglia\u2019s original 18-month term was dramatically increased after he failed to pay restitution to crypto investor Michael Terpin."
-    },
-    {
-      "title": "If You Bought Ethereum When Eric Trump Said So, You\u2019re Finally in the Green",
-      "link": "https://decrypt.co/329655/ethereum-eric-trump-youre-finally-green",
-      "summary": "Ethereum plunged as much as 37% after the president's son called it a buy in February. Five months later, it has slowly clawed its way back."
     }
   ],
   "CryptoBriefing": [
@@ -164,6 +164,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "VIRTUAL soars 14% \u2013 These TWO levels could define its next move",
+      "link": "https://ambcrypto.com/virtual-soars-14-these-two-levels-could-define-its-next-move/",
+      "summary": "<img alt=\"VIRTUAL\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250711_090438_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />VIRTUAL is attempting to reclaim its previous high from June."
+    },
+    {
       "title": "Moo Deng\u2019s birthday pushes crypto up 15% \u2013 Is $0.3 next?",
       "link": "https://ambcrypto.com/moo-dengs-birthday-pushes-crypto-up-15-is-0-3-next/",
       "summary": "<img alt=\"Viral baby hippo Moo Deng celebrates her first birthday- how is the meme coin doing?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Moo-Deng-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />On the occasion of the baby hippo's birthday, MOODENG saw a 15.57% rally on Thursday, the 10th of July, with a 233% hike in daily trading volume."
@@ -182,11 +187,6 @@
       "title": "Hyperliquid to onboard 10M Phantom users \u2013 Will HYPE hit $120 now?",
       "link": "https://ambcrypto.com/hyperliquid-to-onboard-10m-phantom-users-will-hype-hit-120-now/",
       "summary": "<img alt=\"Hyperliquid to onboard 10M Phantom users - Will HYPE hit $120 now?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Benjamin-2025-07-10T173707.555.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Analysts expect HYPE to double or triple by mid-2026."
-    },
-    {
-      "title": "Cardano [ADA] price prediction \u2013 8% rally next, but here\u2019s why you should be careful!",
-      "link": "https://ambcrypto.com/cardano-ada-price-prediction-8-rally-next-but-heres-why-you-should-be-careful/",
-      "summary": "<img alt=\"Cardano [ADA] price prediction - 8% rally next, but here&#039;s why you should be careful!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/ADA-price-prediction-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders and investors can expect a Cardano price move to $0.66-$0.68 this month."
     }
   ]
 }
