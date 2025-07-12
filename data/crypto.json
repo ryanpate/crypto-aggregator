@@ -1,6 +1,11 @@
 {
   "CoinDesk": [
     {
+      "title": "Stellar Performance From XLM as It Posts Top 24H Percentage Gain Among Top 20 Cryptos",
+      "link": "https://www.coindesk.com/markets/2025/07/12/stellar-s-xlm-jumps-6-to-lead-top-20-crypto-rankings",
+      "summary": ""
+    },
+    {
       "title": "Another BTC Mining Firm Moves Into Ethereum Reserve, Hailing ETH as \u2018Digital Gold\u2019",
       "link": "https://www.coindesk.com/markets/2025/07/12/another-btc-mining-firm-moves-into-ethereum-reserve-hailing-eth-as-digital-gold",
       "summary": ""
@@ -19,14 +24,14 @@
       "title": "Coinbase\u2019s Pudgy Penguin Avatar Change, ETF Hopes Ignite 60% PENGU Rally",
       "link": "https://www.coindesk.com/markets/2025/07/12/coinbases-pudgy-penguin-avatar-change-etf-hopes-ignite-60-pengu-rally",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin, Ether Tentative, XRP Steady as Trump Announces 30% Tariff on EU and Mexico",
-      "link": "https://www.coindesk.com/markets/2025/07/12/bitcoin-ether-tentative-xrp-steady-as-trump-announces-30-tariff-on-eu-and-mexico",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Animoca Brands partners with DDC Enterprise to put BTC treasury to work",
+      "link": "https://cointelegraph.com/news/animoca-brands-partners-ddc-bitcoin-treasury-work?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjU3NWYtMzk0NS03OWZkLTlhMzItMDk4YmVmNTE3MTU3.jpg\" /></p><p>Animoca Brands joins a growing list of companies adopting a Bitcoin treasury strategy or expanding their existing Bitcoin reserves.</p>"
+    },
     {
       "title": "Pump.fun ICO raises $500M, sells out within minutes",
       "link": "https://cointelegraph.com/news/pump-fun-ico-raises-500m-sells-out-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,11 +51,6 @@
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "Asia\u2019s tokenization boom is shifting capital away from the West: Expert",
-      "link": "https://cointelegraph.com/news/asias-tokenization-leadership-global-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZlYjMtZjFhZS03NjFmLTk1YmItYjAxMmU1YzkyM2Yy.jpg\" /></p><p>Asia\u2019s regulatory frameworks in tokenization are attracting global investors, with Japan and Hong Kong setting the pace for real-world asset adoption.</p>"
     }
   ],
   "CryptoSlate": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Why Are So Many Crypto Games Shutting Down? Experts Weigh In",
+      "link": "https://decrypt.co/329820/why-crypto-games-shutting-down-experts-weigh-in",
+      "summary": "Experts say launching tokens for crypto games applies unnecessary pressure on development\u2014and makes failures even more public."
+    },
+    {
       "title": "As Bitcoin Matures, Volatility Drops\u2014So Expect Slower Climbs, Say Experts",
       "link": "https://decrypt.co/329835/as-bitcoin-matures-volatility-drops-expect-slower-climbs-experts",
       "summary": "Bitcoin to the moon? Not so fast, experts say, as the asset has matured and is now being used by traders for more sophisticated bets."
@@ -154,11 +159,6 @@
       "title": "House Democrats Struggle to Approach 'Crypto Week' With Unified Front",
       "link": "https://decrypt.co/329850/house-democrats-struggle-approach-crypto-week-unified-front",
       "summary": "Some Democrats are pledging to punish other party members who support what they see as \u201cTrump\u2019s crypto corruption.\u201d Leadership has largely stayed out of the fight."
-    },
-    {
-      "title": "Coinbase, Strategy, Other Bitcoin and Crypto Stocks Soar in Record-Setting Week",
-      "link": "https://decrypt.co/329740/coinbase-strategy-bitcoin-and-crypto-stocks-soar-record-week",
-      "summary": "Crypto-focused companies benefited from the surge in crypto markets this week."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Cardano \u2013 Here\u2019s why ADA\u2019s 23% rally could call for caution!",
+      "link": "https://ambcrypto.com/cardano-heres-why-adas-23-rally-could-call-for-caution/",
+      "summary": "<img alt=\"ADA\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250712_095642_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />ADA might drop soon as it enters a new market phase."
+    },
+    {
       "title": "Bitcoin \u2013 Why BTC\u2019s next move hinges on 3 KEY market forces",
       "link": "https://ambcrypto.com/bitcoin-why-btcs-next-move-hinges-on-3-key-market-forces/",
       "summary": "<img alt=\"Bitcoin [BTC]\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-12T121336.730-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bullish momentum builds, but rising miner activity and leverage zones may disrupt the trend."
@@ -208,11 +213,6 @@
       "title": "Bitcoin breaks ATH \u2013 Identifying why BTC\u2019s rally is just getting started!",
       "link": "https://ambcrypto.com/bitcoin-breaks-ath-identifying-why-btcs-rally-is-just-getting-started/",
       "summary": "<img alt=\"Bitcoin\u2019s New Highs Lack Retail Frenzy: A Sign of Healthy Market Growth?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Bitcoin-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The signs of market exhaustion and widespread profit-taking were not here for Bitcoin despite the swift short-term rally."
-    },
-    {
-      "title": "Collect&Exchange brings its proven SaaS solution to the market",
-      "link": "https://ambcrypto.com/collectexchange-brings-its-proven-saas-solution-to-the-market/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"495\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Screenshot-2025-07-12-102418.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"909\" />The fintech platform Collect&#38;Exchange is launching its latest SaaS solution for creating your own crypto [&#8230;]"
     }
   ]
 }
