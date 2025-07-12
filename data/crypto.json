@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Pump.fun Swiftly Raises $500M in Public Sale at $4B Fully Diluted Valuation",
+      "link": "https://www.coindesk.com/markets/2025/07/12/pumpfun-swiftly-raises-500m-in-public-sale-at-4b-fully-diluted-valuation",
+      "summary": ""
+    },
+    {
+      "title": "Tether to Halt USDT on Omni, BCH, Kusama, EOS, Algorand as Focus Shifts to Layer 2s",
+      "link": "https://www.coindesk.com/web3/2025/07/12/tether-to-halt-usdt-on-omni-bch-kusama-eos-algorand-as-focus-shifts-to-layer-2s",
+      "summary": ""
+    },
+    {
       "title": "Coinbase\u2019s Pudgy Penguin Avatar Change, ETF Hopes Ignite 60% PENGU Rally",
       "link": "https://www.coindesk.com/markets/2025/07/12/coinbases-pudgy-penguin-avatar-change-etf-hopes-ignite-60-pengu-rally",
       "summary": ""
@@ -13,16 +23,6 @@
     {
       "title": "\u2018We Expect Bitcoin to Top $200K by the End of Year\u2019, Says Bitwise CIO",
       "link": "https://www.coindesk.com/markets/2025/07/12/we-expect-bitcoin-to-top-usd200k-by-the-end-of-year-says-bitwise-cio",
-      "summary": ""
-    },
-    {
-      "title": "Crypto Traders Eye $130K Bitcoin as Majors Price-Action Shows Market Structure Shift",
-      "link": "https://www.coindesk.com/markets/2025/07/12/crypto-traders-eye-130k-bitcoin-as-majors-price-action-shows-market-structure-shift",
-      "summary": ""
-    },
-    {
-      "title": "DOGE Surges 9% Before Sharp Reversal as $0.213 Resistance Halts Rally",
-      "link": "https://www.coindesk.com/markets/2025/07/12/doge-surges-9-before-sharp-reversal-as-0213-resistance-halts-rally",
       "summary": ""
     }
   ],
@@ -55,6 +55,11 @@
   ],
   "CryptoSlate": [
     {
+      "title": "Democrats declare \u2018Anti-Crypto Corruption Week\u2019 to counter GOP crypto bills",
+      "link": "https://cryptoslate.com/democrats-declare-anti-crypto-corruption-week-to-counter-gop-crypto-bills/",
+      "summary": "<p>US Democratic lawmakers, led by House members Maxine Waters and Stephen Lynch, announced on July 11 that next week will be designated &#8220;Anti-Crypto Corruption Week.&#8221; The initiative aims to unite Democrats in opposing several pro-crypto bills that are currently under consideration in Congress, including the GENIUS Act, the CLARITY Act, and a proposed law aimed [&#8230;]</p> <p>"
+    },
+    {
       "title": "Fortune Magazine owner to lead Thai firm\u2019s pivot into Bitcoin and DeFi banking",
       "link": "https://cryptoslate.com/fortune-magazine-owner-to-lead-thai-firms-pivot-into-bitcoin-and-defi-banking/",
       "summary": "<p>DV8 Public Company Limited, a publicly listed firm in Thailand looking to reinvent itself as a Bitcoin Treasury firm, has appointed Thai business magnate Chatchaval Jiaravanon as its new Chairman, according to a July 11 statement shared with . Jiaravanon, best known internationally for acquiring Fortune Magazine in 2018, is part of Thailand\u2019s influential Charoen [&#8230;]</p> <p>"
@@ -73,11 +78,6 @@
       "title": "Tether to sunset USDT redemptions on 5 \u2018legacy\u2019 networks including Bitcoin Cash, Algorand",
       "link": "https://cryptoslate.com/tether-to-sunset-usdt-redemptions-on-5-legacy-networks-including-bitcoin-cash-algorand/",
       "summary": "<p>Tether announced it will discontinue support for its USDT stablecoin on five &#8220;legacy&#8221; blockchains, including Omni Layer, Bitcoin Cash SLP, Kusama, EOS, and Algorand. According to the July 11 announcement, the move will become effective Sept. 1, ending redemptions and freezing remaining tokens on those networks. The decision comes as part of what the company [&#8230;]</p> <p>"
-    },
-    {
-      "title": "NFT-related tokens soar in Q2, with PENGU leading despite decline in trading volumes",
-      "link": "https://cryptoslate.com/nft-related-tokens-soar-in-q2-with-pengu-leading-despite-decline-in-trading-volumes/",
-      "summary": "<p>NFT-related tokens delivered the strongest sector performance in the second quarter, gaining an average of 55.4% even as dollar-denominated NFT trading volume fell to multi-year lows. Artemis data shows that the average gains from NFT-related tokens surpassed the second-best performance, which was Ethereum\u2019s (ETH) 37.2%, by nearly 50%. Pudgy Penguins\u2019 PENGU token accounted for much [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
