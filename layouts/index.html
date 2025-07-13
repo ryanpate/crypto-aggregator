@@ -1,32 +1,35 @@
+{{ define "main" }}
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BlockwireNews - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
+    <title>{{ .Title }} - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
 
     <!-- SEO Meta Tags -->
-    <meta name="description"
-        content="Get real-time cryptocurrency news, market analysis, and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi, NFT updates 24/7.">
+    <meta name="description" content="{{ .Description | default " Get real-time cryptocurrency news, market analysis,
+        and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi,
+        NFT updates 24/7." }}">
     <meta name="keywords"
         content="cryptocurrency news, bitcoin news, ethereum updates, crypto market analysis, blockchain news, defi news, nft news, crypto price predictions, digital currency, altcoin news">
     <meta name="author" content="BlockwireNews">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.blockwirenews.com/">
+    <link rel="canonical" href="{{ .Permalink }}">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="BlockwireNews - Real-Time Cryptocurrency News Aggregator">
-    <meta property="og:description"
-        content="Stay updated with the latest cryptocurrency news, market analysis, and price predictions from top crypto sources.">
+    <meta property="og:title" content="{{ .Title }} - Real-Time Cryptocurrency News Aggregator">
+    <meta property="og:description" content="{{ .Description | default " Stay updated with the latest cryptocurrency
+        news, market analysis, and price predictions from top crypto sources." }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.blockwirenews.com/">
-    <meta property="og:image" content="https://www.blockwirenews.com/og-image.jpg">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/og-image.jpg">
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="BlockwireNews - Crypto News Aggregator">
-    <meta name="twitter:description" content="Real-time cryptocurrency news and market analysis">
+    <meta name="twitter:title" content="{{ .Title }} - Crypto News Aggregator">
+    <meta name="twitter:description" content="{{ .Description | default " Real-time cryptocurrency news and market
+        analysis" }}">
 
     <!-- Schema.org Markup -->
     <script type="application/ld+json">
@@ -34,8 +37,8 @@
         "@context": "https://schema.org",
         "@type": "NewsMediaOrganization",
         "name": "BlockwireNews",
-        "url": "https://www.blockwirenews.com",
-        "logo": "https://www.blockwirenews.com/logo.png",
+        "url": "{{ .Site.BaseURL }}",
+        "logo": "{{ .Site.BaseURL }}images/logo.png",
         "description": "Real-time cryptocurrency news aggregator providing market analysis and insights"
     }
     </script>
@@ -694,17 +697,17 @@
     <!-- Header -->
     <header>
         <nav>
-            <a href="/" class="logo">
+            <a href="{{ .Site.BaseURL }}" class="logo">
                 <div class="logo-icon"></div>
                 <span class="logo-text">BlockwireNews</span>
             </a>
             <ul class="nav-links">
-                <li><a href="/bitcoin">Bitcoin</a></li>
-                <li><a href="/ethereum">Ethereum</a></li>
-                <li><a href="/defi">DeFi</a></li>
-                <li><a href="/nft">NFTs</a></li>
-                <li><a href="/analysis">Analysis</a></li>
-                <li><a href="/learn">Learn</a></li>
+                <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin</a></li>
+                <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum</a></li>
+                <li><a href="{{ .Site.BaseURL }}defi">DeFi</a></li>
+                <li><a href="{{ .Site.BaseURL }}nft">NFTs</a></li>
+                <li><a href="{{ .Site.BaseURL }}analysis">Analysis</a></li>
+                <li><a href="{{ .Site.BaseURL }}learn">Learn</a></li>
             </ul>
         </nav>
     </header>
@@ -783,7 +786,7 @@
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">Latest News</h2>
-            <a href="/all-news" class="view-all">View All →</a>
+            <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
         </div>
 
         <div class="news-grid" id="latest-news">
@@ -803,7 +806,7 @@
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">More Stories</h2>
-            <a href="/all-news" class="view-all">View All →</a>
+            <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
         </div>
 
         <div class="news-grid" id="more-news">
@@ -846,36 +849,36 @@
             <div class="footer-section">
                 <h3>Categories</h3>
                 <ul>
-                    <li><a href="/bitcoin">Bitcoin News</a></li>
-                    <li><a href="/ethereum">Ethereum Updates</a></li>
-                    <li><a href="/altcoins">Altcoin Analysis</a></li>
-                    <li><a href="/defi">DeFi Insights</a></li>
-                    <li><a href="/nft">NFT Market</a></li>
-                    <li><a href="/regulation">Regulation</a></li>
+                    <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin News</a></li>
+                    <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum Updates</a></li>
+                    <li><a href="{{ .Site.BaseURL }}altcoins">Altcoin Analysis</a></li>
+                    <li><a href="{{ .Site.BaseURL }}defi">DeFi Insights</a></li>
+                    <li><a href="{{ .Site.BaseURL }}nft">NFT Market</a></li>
+                    <li><a href="{{ .Site.BaseURL }}regulation">Regulation</a></li>
                 </ul>
             </div>
 
             <div class="footer-section">
                 <h3>Resources</h3>
                 <ul>
-                    <li><a href="/price-tracker">Price Tracker</a></li>
-                    <li><a href="/market-analysis">Market Analysis</a></li>
-                    <li><a href="/crypto-guides">Crypto Guides</a></li>
-                    <li><a href="/glossary">Glossary</a></li>
-                    <li><a href="/tools">Trading Tools</a></li>
-                    <li><a href="/api">Developer API</a></li>
+                    <li><a href="{{ .Site.BaseURL }}price-tracker">Price Tracker</a></li>
+                    <li><a href="{{ .Site.BaseURL }}market-analysis">Market Analysis</a></li>
+                    <li><a href="{{ .Site.BaseURL }}crypto-guides">Crypto Guides</a></li>
+                    <li><a href="{{ .Site.BaseURL }}glossary">Glossary</a></li>
+                    <li><a href="{{ .Site.BaseURL }}tools">Trading Tools</a></li>
+                    <li><a href="{{ .Site.BaseURL }}api">Developer API</a></li>
                 </ul>
             </div>
 
             <div class="footer-section">
                 <h3>Company</h3>
                 <ul>
-                    <li><a href="/about">About Us</a></li>
-                    <li><a href="/advertise">Advertise</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                    <li><a href="/privacy">Privacy Policy</a></li>
-                    <li><a href="/terms">Terms of Service</a></li>
-                    <li><a href="/sitemap.xml">Sitemap</a></li>
+                    <li><a href="{{ .Site.BaseURL }}about">About Us</a></li>
+                    <li><a href="{{ .Site.BaseURL }}advertise">Advertise</a></li>
+                    <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
+                    <li><a href="{{ .Site.BaseURL }}privacy">Privacy Policy</a></li>
+                    <li><a href="{{ .Site.BaseURL }}terms">Terms of Service</a></li>
+                    <li><a href="{{ .Site.BaseURL }}sitemap.xml">Sitemap</a></li>
                 </ul>
             </div>
         </div>
@@ -923,31 +926,9 @@
             return date.toLocaleDateString();
         }
 
-        // Function to extract source name from URL
-        function getSourceName(url) {
-            const sources = {
-                'bitcoinmagazine.com': 'BitcoinMagazine',
-                'cointelegraph.com': 'Cointelegraph',
-                'cryptoslate.com': 'CryptoSlate',
-                'newsbtc.com': 'NewsBTC',
-                'decrypt.co': 'Decrypt',
-                'ambcrypto.com': 'AMBCrypto',
-                'cryptobriefing.com': 'CryptoBriefing',
-                'coindesk.com': 'CoinDesk',
-                'theblock.co': 'TheBlock'
-            };
-
-            try {
-                const hostname = new URL(url).hostname.replace('www.', '');
-                return sources[hostname] || hostname.split('.')[0];
-            } catch {
-                return 'Crypto News';
-            }
-        }
-
         // Function to generate tags from title
-        function generateTags(title, description = '') {
-            const content = (title + ' ' + description).toLowerCase();
+        function generateTags(title, summary = '') {
+            const content = (title + ' ' + summary).toLowerCase();
             const tags = [];
 
             // Common crypto terms to look for
@@ -1009,9 +990,16 @@
 
         // Function to create news card HTML
         function createNewsCard(article) {
-            const sourceName = getSourceName(article.link || '');
-            const relativeTime = getRelativeTime(article.published || article.date || new Date());
-            const tags = generateTags(article.title, article.description || article.summary || '');
+            const sourceName = article.source || 'Crypto News';
+            const relativeTime = getRelativeTime(new Date()); // Since crypto.json doesn't have dates, we'll use current time
+            const tags = generateTags(article.title, article.summary || '');
+
+            // Clean up summary HTML if present
+            let summary = article.summary || '';
+            if (summary.includes('<')) {
+                // Strip HTML tags
+                summary = summary.replace(/<[^>]*>/g, '');
+            }
 
             return `
                 <article class="news-card">
@@ -1025,8 +1013,8 @@
                                 ${article.title}
                             </a>
                         </h3>
-                        ${article.description || article.summary ?
-                    `<p class="card-excerpt">${(article.description || article.summary).substring(0, 150)}...</p>` :
+                        ${summary ?
+                    `<p class="card-excerpt">${summary.substring(0, 150)}${summary.length > 150 ? '...' : ''}</p>` :
                     ''
                 }
                         <div class="card-tags">
@@ -1037,64 +1025,57 @@
             `;
         }
 
-        // Function to load news from crypto.json
-        async function loadNews() {
-            try {
-                const response = await fetch('/crypto.json');
-                const articles = await response.json();
+        // Get news data from Hugo's data files
+        const newsData = {{ .Site.Data.crypto | jsonify | safeJS }};
 
-                // Sort articles by date (newest first)
-                articles.sort((a, b) => {
-                    const dateA = new Date(a.published || a.date || 0);
-                    const dateB = new Date(b.published || b.date || 0);
-                    return dateB - dateA;
+        // Function to display news
+        function displayNews() {
+            // Flatten all news sources into one array
+            let allArticles = [];
+            for (const [source, articles] of Object.entries(newsData)) {
+                // Add source name to each article
+                articles.forEach(article => {
+                    article.source = source;
+                    allArticles.push(article);
                 });
+            }
 
-                // Display featured news (first 2 articles)
-                const featuredContainer = document.getElementById('featured-news');
-                if (featuredContainer && articles.length > 0) {
-                    featuredContainer.innerHTML = articles
-                        .slice(0, 2)
-                        .map(article => createNewsCard(article))
-                        .join('');
-                }
+            // Shuffle articles to mix sources
+            allArticles.sort(() => Math.random() - 0.5);
 
-                // Display latest news (next 6 articles)
-                const latestContainer = document.getElementById('latest-news');
-                if (latestContainer && articles.length > 2) {
-                    latestContainer.innerHTML = articles
-                        .slice(2, 8)
-                        .map(article => createNewsCard(article))
-                        .join('');
-                }
+            // Display featured news (first 4 articles)
+            const featuredContainer = document.getElementById('featured-news');
+            if (featuredContainer && allArticles.length > 0) {
+                featuredContainer.innerHTML = allArticles
+                    .slice(0, 4)
+                    .map(article => createNewsCard(article))
+                    .join('');
+            }
 
-                // Display more news (remaining articles)
-                const moreContainer = document.getElementById('more-news');
-                if (moreContainer && articles.length > 8) {
-                    moreContainer.innerHTML = articles
-                        .slice(8, 14)
-                        .map(article => createNewsCard(article))
-                        .join('');
-                }
+            // Display latest news (next 9 articles)
+            const latestContainer = document.getElementById('latest-news');
+            if (latestContainer && allArticles.length > 4) {
+                latestContainer.innerHTML = allArticles
+                    .slice(4, 13)
+                    .map(article => createNewsCard(article))
+                    .join('');
+            }
 
-            } catch (error) {
-                console.error('Error loading news:', error);
-                // Show error message to users
-                const containers = ['featured-news', 'latest-news', 'more-news'];
-                containers.forEach(id => {
-                    const container = document.getElementById(id);
-                    if (container) {
-                        container.innerHTML = '<p style="text-align: center; color: var(--text-secondary);">Unable to load news. Please try again later.</p>';
-                    }
-                });
+            // Display more news (remaining articles)
+            const moreContainer = document.getElementById('more-news');
+            if (moreContainer && allArticles.length > 13) {
+                moreContainer.innerHTML = allArticles
+                    .slice(13, 22)
+                    .map(article => createNewsCard(article))
+                    .join('');
             }
         }
 
-        // Load news on page load
-        document.addEventListener('DOMContentLoaded', loadNews);
+        // Display news on page load
+        document.addEventListener('DOMContentLoaded', displayNews);
 
-        // Refresh news every 5 minutes
-        setInterval(loadNews, 5 * 60 * 1000);
+        // Note: Since the data is rendered server-side, it won't auto-refresh
+        // To get fresh data, the page needs to be reloaded or you'll need an API endpoint
 
         // Smooth scroll for anchor links
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -1114,7 +1095,7 @@
         searchBtn.addEventListener('click', () => {
             const query = searchBar.value.trim();
             if (query) {
-                window.location.href = `/search?q=${encodeURIComponent(query)}`;
+                window.location.href = `{{ .Site.BaseURL }}search?q=${encodeURIComponent(query)}`;
             }
         });
 
@@ -1127,3 +1108,4 @@
 </body>
 
 </html>
+{{ end }}
