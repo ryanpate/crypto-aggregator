@@ -1,70 +1,1210 @@
-{{ define "title" }}Blog | BlockWireNews{{ end }}
-
 {{ define "main" }}
-  <!-- Responsive Styles -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{ partial "head.html" . }}
   <style>
-    /* Container centered with responsive padding */
-    .container {
-      max-width: 1200px;
+    /* Use the same styles from homepage */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #FF6B35;
+      --secondary-color: #4ECDC4;
+      --dark-bg: #0A0E27;
+      --card-bg: #1A1F3A;
+      --text-primary: #FFFFFF;
+      --text-secondary: #B8BCC8;
+      --accent-gold: #FFD700;
+      --accent-green: #00FF88;
+      --accent-red: #FF3B3B;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--dark-bg);
+      color: var(--text-primary);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* Animated Background */
+    .bg-animation {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(45deg, #0A0E27 0%, #1A1F3A 50%, #0A0E27 100%);
+      z-index: -2;
+    }
+
+    .bg-animation::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image:
+        radial-gradient(circle at 20% 50%, rgba(78, 205, 196, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(255, 107, 53, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 40% 20%, rgba(255, 215, 0, 0.05) 0%, transparent 50%);
+      animation: pulse 20s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    /* Floating Coins Animation */
+    .floating-coins {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      z-index: -1;
+    }
+
+    .coin {
+      position: absolute;
+      font-size: 20px;
+      opacity: 0.1;
+      animation: float 20s infinite linear;
+    }
+
+    @keyframes float {
+      from {
+        transform: translateY(100vh) rotate(0deg);
+      }
+
+      to {
+        transform: translateY(-100px) rotate(360deg);
+      }
+    }
+
+    /* Header */
+    header {
+      background: rgba(26, 31, 58, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 2px solid var(--primary-color);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 4px 30px rgba(255, 107, 53, 0.1);
+    }
+
+    nav {
+      max-width: 1400px;
       margin: 0 auto;
-      padding: 0 1rem;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
-    /* Title styling */
-    .title {
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      text-decoration: none;
+      transition: transform 0.3s;
+    }
+
+    .logo:hover {
+      transform: scale(1.05);
+    }
+
+    .logo-icon {
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
       font-weight: bold;
-      font-size: 2.5rem;
-      text-align: left;
+      position: relative;
+      overflow: hidden;
     }
-    /* Subtitle styling */
-    .subtitle {
-      text-align: left;
+
+    .logo-icon::before {
+      content: '₿';
+      position: absolute;
+      font-size: 30px;
+      animation: coinSpin 3s linear infinite;
+    }
+
+    @keyframes coinSpin {
+      from {
+        transform: rotateY(0deg);
+      }
+
+      to {
+        transform: rotateY(360deg);
+      }
+    }
+
+    .logo-text {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: var(--text-primary);
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      transition: all 0.3s;
+      position: relative;
+      font-weight: 500;
+    }
+
+    .nav-links a::after {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: var(--accent-green);
+      transition: width 0.3s;
+    }
+
+    .nav-links a:hover,
+    .nav-links a.active {
+      color: var(--accent-green);
+    }
+
+    .nav-links a:hover::after,
+    .nav-links a.active::after {
+      width: 100%;
+    }
+
+    /* Price Ticker */
+    .price-ticker {
+      background: rgba(0, 0, 0, 0.5);
+      padding: 0.5rem 0;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+
+    .ticker-content {
+      display: inline-block;
+      padding-left: 100%;
+      animation: ticker 30s linear infinite;
+    }
+
+    @keyframes ticker {
+      0% {
+        transform: translate(0, 0);
+      }
+
+      100% {
+        transform: translate(-100%, 0);
+      }
+    }
+
+    .ticker-item {
+      display: inline-flex;
+      align-items: center;
+      margin-right: 3rem;
+      font-size: 0.9rem;
+    }
+
+    .ticker-item.positive {
+      color: var(--accent-green);
+    }
+
+    .ticker-item.negative {
+      color: var(--accent-red);
+    }
+
+    /* Hero Section */
+    .hero {
+      max-width: 1400px;
+      margin: 3rem auto;
+      padding: 0 2rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 3.5rem;
+      margin-bottom: 1rem;
+      background: linear-gradient(45deg, var(--primary-color), var(--secondary-color), var(--accent-gold));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradientShift 5s ease infinite;
+    }
+
+    @keyframes gradientShift {
+
+      0%,
+      100% {
+        background-position: 0% 50%;
+      }
+
+      50% {
+        background-position: 100% 50%;
+      }
+    }
+
+    .hero p {
+      font-size: 1.25rem;
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+    }
+
+    /* Search Bar */
+    .search-container {
+      max-width: 600px;
+      margin: 0 auto 3rem;
+      position: relative;
+    }
+
+    .search-bar {
+      width: 100%;
+      padding: 1rem 3rem 1rem 1.5rem;
+      background: var(--card-bg);
+      border: 2px solid transparent;
+      border-radius: 50px;
+      color: var(--text-primary);
+      font-size: 1rem;
+      transition: all 0.3s;
+    }
+
+    .search-bar:focus {
+      outline: none;
+      border-color: var(--secondary-color);
+      box-shadow: 0 0 20px rgba(78, 205, 196, 0.3);
+    }
+
+    .search-btn {
+      position: absolute;
+      right: 5px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+      border: none;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+
+    .search-btn:hover {
+      transform: translateY(-50%) scale(1.1);
+    }
+
+    /* Blog Section */
+    .blog-section {
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(78, 205, 196, 0.1));
+      padding: 3rem 0;
+      margin-bottom: 3rem;
+    }
+
+    .blog-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .section-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2rem;
+    }
+
+    .section-title {
+      font-size: 2rem;
+      color: var(--text-primary);
+      position: relative;
+      padding-left: 1rem;
+    }
+
+    .section-title::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 4px;
+      height: 80%;
+      background: linear-gradient(to bottom, var(--primary-color), var(--secondary-color));
+    }
+
+    .view-all {
+      color: var(--secondary-color);
+      text-decoration: none;
+      font-weight: 500;
+      transition: all 0.3s;
+    }
+
+    .view-all:hover {
+      color: var(--accent-green);
+      transform: translateX(5px);
+    }
+
+    .blog-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 2rem;
+    }
+
+    .blog-card {
+      background: var(--card-bg);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: all 0.3s;
+      position: relative;
+      border: 1px solid transparent;
+    }
+
+    .blog-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--secondary-color);
+      box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
+    }
+
+    .blog-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--primary-color), var(--accent-gold));
+      opacity: 1;
+    }
+
+    .blog-card-content {
+      padding: 1.5rem;
+    }
+
+    .blog-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .author-badge {
+      background: rgba(255, 215, 0, 0.1);
+      color: var(--accent-gold);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+
+    .blog-title {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      color: var(--text-primary);
+      line-height: 1.4;
+      transition: color 0.3s;
+    }
+
+    .blog-card:hover .blog-title {
+      color: var(--accent-gold);
+    }
+
+    .blog-excerpt {
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+      line-height: 1.6;
       margin-bottom: 1rem;
     }
-    /* Other shared styles as in main page... */
-    /* Include any CSS you need for blog page responsiveness */
-  </style>
 
-  <div class="container mt-6">
-    <!-- Small Blog Banner -->
-    <div class="blog-banner" style="text-align:left; margin-top: 2rem; margin-bottom:1rem;">
-      <div style="height:80px; width:100%; display:flex; align-items:center; justify-content:flex-start; background-color:#f5f5f5; padding-left:1rem;">
-        <span style="font-size:2rem; font-weight:bold; color:#333;">BLOCKWIRENEWS BLOG</span>
+    .read-more {
+      color: var(--secondary-color);
+      text-decoration: none;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.3s;
+    }
+
+    .read-more:hover {
+      color: var(--accent-green);
+      transform: translateX(5px);
+    }
+
+    /* News Grid */
+    .news-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 2rem;
+      margin-bottom: 4rem;
+    }
+
+    .news-card {
+      background: var(--card-bg);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: all 0.3s;
+      position: relative;
+      border: 1px solid transparent;
+    }
+
+    .news-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--secondary-color);
+      box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
+    }
+
+    .news-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .news-card:hover::before {
+      opacity: 1;
+    }
+
+    .card-content {
+      padding: 1.5rem;
+    }
+
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .source-badge {
+      background: rgba(78, 205, 196, 0.1);
+      color: var(--secondary-color);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+
+    .card-title {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      color: var(--text-primary);
+      line-height: 1.4;
+      transition: color 0.3s;
+    }
+
+    .news-card:hover .card-title {
+      color: var(--secondary-color);
+    }
+
+    .card-excerpt {
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+
+    .card-tags {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .tag {
+      background: rgba(255, 107, 53, 0.1);
+      color: var(--primary-color);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      transition: all 0.3s;
+    }
+
+    .tag:hover {
+      background: var(--primary-color);
+      color: var(--dark-bg);
+      transform: scale(1.05);
+    }
+
+    /* Featured Section */
+    .featured-section {
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(78, 205, 196, 0.1));
+      border-radius: 20px;
+      padding: 3rem;
+      margin-bottom: 4rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .featured-section::before {
+      content: '🔥';
+      position: absolute;
+      top: -20px;
+      right: 20px;
+      font-size: 100px;
+      opacity: 0.1;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    @keyframes float {
+
+      0%,
+      100% {
+        transform: translateY(0);
+      }
+
+      50% {
+        transform: translateY(-20px);
+      }
+    }
+
+    /* Market Overview */
+    .market-overview {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+    }
+
+    .market-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 1.5rem;
+      text-align: center;
+      transition: all 0.3s;
+      border: 1px solid transparent;
+    }
+
+    .market-card:hover {
+      border-color: var(--accent-gold);
+      transform: scale(1.02);
+    }
+
+    .market-card h3 {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .market-value {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .market-change {
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+
+    .market-change.positive {
+      color: var(--accent-green);
+    }
+
+    .market-change.negative {
+      color: var(--accent-red);
+    }
+
+    /* Ad Container */
+    .ad-container {
+      max-width: 1400px;
+      margin: 2rem auto;
+      padding: 0 2rem;
+      text-align: center;
+    }
+
+    /* Footer */
+    footer {
+      background: var(--card-bg);
+      margin-top: 4rem;
+      padding: 3rem 0 2rem;
+      border-top: 2px solid var(--primary-color);
+    }
+
+    .footer-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 3rem;
+    }
+
+    .footer-section h3 {
+      color: var(--text-primary);
+      margin-bottom: 1rem;
+      font-size: 1.25rem;
+    }
+
+    .footer-section ul {
+      list-style: none;
+    }
+
+    .footer-section a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      transition: color 0.3s;
+      display: inline-block;
+      margin-bottom: 0.5rem;
+    }
+
+    .footer-section a:hover {
+      color: var(--secondary-color);
+      transform: translateX(5px);
+    }
+
+    .social-links {
+      display: flex;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .social-link {
+      width: 40px;
+      height: 40px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+    }
+
+    .social-link:hover {
+      background: var(--secondary-color);
+      transform: scale(1.1);
+    }
+
+    .footer-bottom {
+      text-align: center;
+      margin-top: 2rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--text-secondary);
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+      }
+
+      .hero h1 {
+        font-size: 2.5rem;
+      }
+
+      .news-grid,
+      .blog-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .market-overview {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Animated Background -->
+  <div class="bg-animation"></div>
+
+  <!-- Floating Coins -->
+  <div class="floating-coins" id="floatingCoins"></div>
+
+  <!-- Header -->
+  <header>
+    <nav>
+      <a href="{{ .Site.BaseURL }}" class="logo">
+        <div class="logo-icon"></div>
+        <span class="logo-text">BlockwireNews</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="{{ .Site.BaseURL }}blog" class="active">Blog</a></li>
+        <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin</a></li>
+        <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum</a></li>
+        <li><a href="{{ .Site.BaseURL }}defi">DeFi</a></li>
+        <li><a href="{{ .Site.BaseURL }}nft">NFTs</a></li>
+        <li><a href="{{ .Site.BaseURL }}analysis">Analysis</a></li>
+        <li><a href="{{ .Site.BaseURL }}all-news">All News</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Price Ticker -->
+  <div class="price-ticker">
+    <div class="ticker-content">
+      <span class="ticker-item positive">BTC $117,953 ↑ 2.4%</span>
+      <span class="ticker-item positive">ETH $3,000 ↑ 5.2%</span>
+      <span class="ticker-item negative">SOL $160 ↓ 0.58%</span>
+      <span class="ticker-item positive">AVAX $42 ↑ 8.3%</span>
+      <span class="ticker-item positive">LINK $28 ↑ 3.7%</span>
+      <span class="ticker-item negative">DOT $12 ↓ 1.2%</span>
+      <span class="ticker-item positive">BTC $117,953 ↑ 2.4%</span>
+      <span class="ticker-item positive">ETH $3,000 ↑ 5.2%</span>
+    </div>
+  </div>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Crypto Insights & Analysis</h1>
+    <p>Expert analysis, market insights, and in-depth cryptocurrency guides</p>
+
+    <!-- Search Bar -->
+    <div class="search-container">
+      <input type="search" class="search-bar" placeholder="Search blog posts...">
+      <button class="search-btn">🔍</button>
+    </div>
+  </section>
+
+  <!-- Blog Posts Section -->
+  <section class="blog-section">
+    <div class="blog-container">
+      <div class="section-header">
+        <h2 class="section-title">📝 Latest Blog Posts</h2>
+        <a href="{{ .Site.BaseURL }}blog/archive" class="view-all">View Archive →</a>
+      </div>
+
+      <div class="blog-grid">
+        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "blog") 6 }}
+        {{ range $paginator.Pages }}
+        <article class="blog-card">
+          <div class="blog-card-content">
+            <div class="blog-meta">
+              <span class="author-badge">{{ .Params.author | default "BlockWireNews Team" }}</span>
+              <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+            </div>
+            <h3 class="blog-title">
+              <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">
+                {{ .Title }}
+              </a>
+            </h3>
+            <p class="blog-excerpt">
+              {{ .Summary | truncate 150 }}
+            </p>
+            <a href="{{ .Permalink }}" class="read-more">
+              Read Full Article →
+            </a>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+
+      <!-- Pagination for blog posts -->
+      {{ if gt $paginator.TotalPages 1 }}
+      <div class="pagination" style="margin-top: 3rem;">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="pagination-btn">← Previous</a>
+        {{ else }}
+        <span class="pagination-btn disabled">← Previous</span>
+        {{ end }}
+
+        <div class="page-numbers">
+          {{ range $paginator.Pagers }}
+          <a href="{{ .URL }}" class="page-number {{ if eq . $paginator }}active{{ end }}">
+            {{ .PageNumber }}
+          </a>
+          {{ end }}
+        </div>
+
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="pagination-btn">Next →</a>
+        {{ else }}
+        <span class="pagination-btn disabled">Next →</span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- AdSense - Above aggregated news -->
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
+      data-ad-slot="YOUR-AD-SLOT-ID-BLOG-1" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+
+  <!-- Market Overview -->
+  <section class="news-container">
+    <div class="market-overview">
+      <div class="market-card">
+        <h3>Market Cap</h3>
+        <div class="market-value">$4.2T</div>
+        <div class="market-change positive">↑ 3.2%</div>
+      </div>
+      <div class="market-card">
+        <h3>24h Volume</h3>
+        <div class="market-value">$142B</div>
+        <div class="market-change positive">↑ 12.5%</div>
+      </div>
+      <div class="market-card">
+        <h3>BTC Dominance</h3>
+        <div class="market-value">52.3%</div>
+        <div class="market-change negative">↓ 0.8%</div>
+      </div>
+      <div class="market-card">
+        <h3>Active Cryptos</h3>
+        <div class="market-value">24,352</div>
+        <div class="market-change positive">↑ 142</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Section -->
+  <section class="news-container">
+    <div class="featured-section">
+      <h2 class="section-title">🔥 Trending Crypto News</h2>
+      <div class="news-grid" id="featured-news">
+        <!-- Featured news will be loaded here -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest News -->
+  <section class="news-container">
+    <div class="section-header">
+      <h2 class="section-title">Latest News</h2>
+      <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
+    </div>
+
+    <div class="news-grid" id="latest-news">
+      <!-- Latest news will be loaded here -->
+    </div>
+  </section>
+
+  <!-- AdSense - Mid content -->
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
+      data-ad-slot="YOUR-AD-SLOT-ID-BLOG-2" data-ad-format="rectangle" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+
+  <!-- More News Section -->
+  <section class="news-container">
+    <div class="section-header">
+      <h2 class="section-title">More Stories</h2>
+      <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
+    </div>
+
+    <div class="news-grid" id="more-news">
+      <!-- More news will be loaded here -->
+    </div>
+  </section>
+
+  <!-- Newsletter Signup -->
+  <section class="news-container">
+    <div class="featured-section" style="text-align: center;">
+      <h2 style="margin-bottom: 1rem;">📧 Never Miss a Crypto Update</h2>
+      <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to your
+        inbox</p>
+      <form style="max-width: 500px; margin: 0 auto;">
+        <div style="display: flex; gap: 1rem;">
+          <input type="email" placeholder="Enter your email"
+            style="flex: 1; padding: 1rem; background: var(--dark-bg); border: 2px solid var(--secondary-color); border-radius: 8px; color: var(--text-primary);">
+          <button type="submit"
+            style="padding: 1rem 2rem; background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); border: none; border-radius: 8px; color: white; font-weight: bold; cursor: pointer; transition: transform 0.3s;">Subscribe</button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>About BlockwireNews</h3>
+        <p style="color: var(--text-secondary); line-height: 1.6;">Your trusted source for real-time cryptocurrency
+          news, market analysis, and insights from the blockchain world.</p>
+        <div class="social-links">
+          <a href="#" class="social-link">𝕏</a>
+          <a href="#" class="social-link">📘</a>
+          <a href="#" class="social-link">📧</a>
+          <a href="#" class="social-link">📺</a>
+        </div>
+      </div>
+
+      <div class="footer-section">
+        <h3>Categories</h3>
+        <ul>
+          <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin News</a></li>
+          <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum Updates</a></li>
+          <li><a href="{{ .Site.BaseURL }}altcoins">Altcoin Analysis</a></li>
+          <li><a href="{{ .Site.BaseURL }}defi">DeFi Insights</a></li>
+          <li><a href="{{ .Site.BaseURL }}nft">NFT Market</a></li>
+          <li><a href="{{ .Site.BaseURL }}regulation">Regulation</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h3>Resources</h3>
+        <ul>
+          <li><a href="{{ .Site.BaseURL }}price-tracker">Price Tracker</a></li>
+          <li><a href="{{ .Site.BaseURL }}market-analysis">Market Analysis</a></li>
+          <li><a href="{{ .Site.BaseURL }}crypto-guides">Crypto Guides</a></li>
+          <li><a href="{{ .Site.BaseURL }}glossary">Glossary</a></li>
+          <li><a href="{{ .Site.BaseURL }}tools">Trading Tools</a></li>
+          <li><a href="{{ .Site.BaseURL }}api">Developer API</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h3>Company</h3>
+        <ul>
+          <li><a href="{{ .Site.BaseURL }}about">About Us</a></li>
+          <li><a href="{{ .Site.BaseURL }}advertise">Advertise</a></li>
+          <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
+          <li><a href="{{ .Site.BaseURL }}privacy">Privacy Policy</a></li>
+          <li><a href="{{ .Site.BaseURL }}terms">Terms of Service</a></li>
+          <li><a href="{{ .Site.BaseURL }}sitemap.xml">Sitemap</a></li>
+        </ul>
       </div>
     </div>
 
-      <!-- AdSense Banner Ad -->
-      <div style="text-align:center; margin:2rem 0;">
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
-          data-ad-slot="YOUR_LIST_AD_SLOT" data-ad-format="auto" data-full-width-responsive="true">
-        </ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-      </div>
-      
-    <!-- Blog Index -->
+    <div class="footer-bottom">
+      <p>&copy; 2025 BlockwireNews. All rights reserved. | Real-time cryptocurrency news aggregator</p>
+    </div>
+  </footer>
 
-    {{ range .Pages.ByDate.Reverse }}
-    <article style="margin-bottom:2rem;">
-      <h2 class="subtitle is-size-4">
-        <a href="{{ .RelPermalink }}" class="has-text-black" style="text-decoration:none;">{{ .Title }}</a>
-      </h2>
-      <p class="is-size-7 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</p>
-      <div class="content">
-        {{ .Summary | safeHTML }}
-        <!-- AdSense ad unit -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-5523870768931777"
-             data-ad-slot="1234567890"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <p><a href="{{ .RelPermalink }}">Read More →</a></p>
-      </div>
-    </article>
-    {{ end }}
+  <!-- AdSense - Footer -->
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
+      data-ad-slot="YOUR-AD-SLOT-ID-BLOG-3" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
   </div>
+
+  <script>
+    // Generate floating coins
+    const floatingCoins = document.getElementById('floatingCoins');
+    const coinEmojis = ['₿', 'Ξ', '◈', '🪙', '💎'];
+
+    for (let i = 0; i < 15; i++) {
+      const coin = document.createElement('div');
+      coin.className = 'coin';
+      coin.textContent = coinEmojis[Math.floor(Math.random() * coinEmojis.length)];
+      coin.style.left = Math.random() * 100 + '%';
+      coin.style.animationDelay = Math.random() * 20 + 's';
+      coin.style.animationDuration = (20 + Math.random() * 10) + 's';
+      floatingCoins.appendChild(coin);
+    }
+
+    // Function to calculate relative time
+    function getRelativeTime(dateString) {
+      const date = new Date(dateString);
+      const now = new Date();
+      const diffInSeconds = Math.floor((now - date) / 1000);
+
+      if (diffInSeconds < 60) return 'just now';
+      if (diffInSeconds < 3600) return Math.floor(diffInSeconds / 60) + ' min ago';
+      if (diffInSeconds < 86400) return Math.floor(diffInSeconds / 3600) + ' hours ago';
+      if (diffInSeconds < 604800) return Math.floor(diffInSeconds / 86400) + ' days ago';
+      return date.toLocaleDateString();
+    }
+
+    // Function to generate tags from title
+    function generateTags(title, summary = '') {
+      const content = (title + ' ' + summary).toLowerCase();
+      const tags = [];
+
+      // Common crypto terms to look for
+      const cryptoTerms = {
+        'bitcoin': 'Bitcoin',
+        'btc': 'Bitcoin',
+        'ethereum': 'Ethereum',
+        'eth': 'Ethereum',
+        'defi': 'DeFi',
+        'nft': 'NFT',
+        'altcoin': 'Altcoin',
+        'trading': 'Trading',
+        'analysis': 'Analysis',
+        'market': 'Market',
+        'price': 'Price',
+        'solana': 'Solana',
+        'cardano': 'Cardano',
+        'ada': 'Cardano',
+        'xrp': 'XRP',
+        'ripple': 'Ripple',
+        'doge': 'Dogecoin',
+        'shib': 'Shiba Inu',
+        'avax': 'Avalanche',
+        'matic': 'Polygon',
+        'link': 'Chainlink',
+        'dot': 'Polkadot',
+        'uni': 'Uniswap',
+        'stablecoin': 'Stablecoin',
+        'usdt': 'Tether',
+        'usdc': 'USDC',
+        'blockchain': 'Blockchain',
+        'web3': 'Web3',
+        'metaverse': 'Metaverse',
+        'dao': 'DAO',
+        'yield': 'Yield',
+        'staking': 'Staking',
+        'mining': 'Mining',
+        'wallet': 'Wallet',
+        'exchange': 'Exchange',
+        'regulation': 'Regulation',
+        'sec': 'SEC',
+        'etf': 'ETF'
+      };
+
+      for (const [term, tag] of Object.entries(cryptoTerms)) {
+        if (content.includes(term) && !tags.includes(tag)) {
+          tags.push(tag);
+          if (tags.length >= 3) break; // Limit to 3 tags
+        }
+      }
+
+      // If no tags found, add generic one
+      if (tags.length === 0) {
+        tags.push('Crypto News');
+      }
+
+      return tags;
+    }
+
+    // Function to create news card HTML
+    function createNewsCard(article) {
+      const sourceName = article.source || 'Crypto News';
+      const relativeTime = getRelativeTime(new Date()); // Since crypto.json doesn't have dates, we'll use current time
+      const tags = generateTags(article.title, article.summary || '');
+
+      // Clean up summary HTML if present
+      let summary = article.summary || '';
+      if (summary.includes('<')) {
+        // Strip HTML tags
+        summary = summary.replace(/<[^>]*>/g, '');
+      }
+
+      return `
+                <article class="news-card">
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="source-badge">${sourceName}</span>
+                            <time>${relativeTime}</time>
+                        </div>
+                        <h3 class="card-title">
+                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+                                ${article.title}
+                            </a>
+                        </h3>
+                        ${summary ?
+          `<p class="card-excerpt">${summary.substring(0, 150)}${summary.length > 150 ? '...' : ''}</p>` :
+          ''
+        }
+                        <div class="card-tags">
+                            ${tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                        </div>
+                    </div>
+                </article>
+            `;
+    }
+
+    // Get news data from Hugo's data files
+    const newsData = {{ .Site.Data.crypto | jsonify | safeJS }};
+
+    // Function to display news
+    function displayNews() {
+      // Flatten all news sources into one array
+      let allArticles = [];
+      for (const [source, articles] of Object.entries(newsData)) {
+        // Add source name to each article
+        articles.forEach(article => {
+          article.source = source;
+          allArticles.push(article);
+        });
+      }
+
+      // Shuffle articles to mix sources
+      allArticles.sort(() => Math.random() - 0.5);
+
+      // Display featured news (first 4 articles)
+      const featuredContainer = document.getElementById('featured-news');
+      if (featuredContainer && allArticles.length > 0) {
+        featuredContainer.innerHTML = allArticles
+          .slice(0, 4)
+          .map(article => createNewsCard(article))
+          .join('');
+      }
+
+      // Display latest news (next 9 articles)
+      const latestContainer = document.getElementById('latest-news');
+      if (latestContainer && allArticles.length > 4) {
+        latestContainer.innerHTML = allArticles
+          .slice(4, 13)
+          .map(article => createNewsCard(article))
+          .join('');
+      }
+
+      // Display more news (remaining articles)
+      const moreContainer = document.getElementById('more-news');
+      if (moreContainer && allArticles.length > 13) {
+        moreContainer.innerHTML = allArticles
+          .slice(13, 22)
+          .map(article => createNewsCard(article))
+          .join('');
+      }
+    }
+
+    // Display news on page load
+    document.addEventListener('DOMContentLoaded', displayNews);
+
+    // Search functionality
+    const searchBar = document.querySelector('.search-bar');
+    const searchBtn = document.querySelector('.search-btn');
+
+    searchBtn.addEventListener('click', () => {
+      const query = searchBar.value.trim();
+      if (query) {
+        window.location.href = `{{ .Site.BaseURL }}search?q=${encodeURIComponent(query)}&type=blog`;
+      }
+    });
+
+    searchBar.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        searchBtn.click();
+      }
+    });
+  </script>
+</body>
+
+</html>
 {{ end }}
