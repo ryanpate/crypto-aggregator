@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "It's Crypto Week. Congress Can Future-Proof the U.S. Financial System: Summer Mersinger",
+      "link": "https://www.coindesk.com/opinion/2025/07/14/its-crypto-week-congress-can-future-proof-the-us-financial-system-summer-mersinger",
+      "summary": ""
+    },
+    {
+      "title": "U.S. Banking Regulators Issue Crypto 'Safekeeping' Statement, Not Pushing New Policy",
+      "link": "https://www.coindesk.com/policy/2025/07/14/u-s-banking-regulators-issue-crypto-safekeeping-statement-not-pushing-new-policy",
+      "summary": ""
+    },
+    {
+      "title": "Anti-Bitcoin Vanguard Might Be the Largest Institutional Holder of MSTR Stock",
+      "link": "https://www.coindesk.com/business/2025/07/14/vanguard-accidentally-becomes-largest-holder-of-strategy-stock-despite-anti-bitcoin-stance",
+      "summary": ""
+    },
+    {
       "title": "The Node: GENIUS, Clarity and a CBDC Ban",
       "link": "https://www.coindesk.com/opinion/2025/07/14/the-node-genius-clarity-and-a-cbdc-ban",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Crypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute",
       "link": "https://www.coindesk.com/markets/2025/07/14/crypto-markets-bifurcate-with-institutions-focusing-on-btc-and-eth-while-retail-chases-alts-wintermute",
       "summary": ""
-    },
-    {
-      "title": "ICP Rebounds Toward $5.50 After Early Morning Surge and Midday Volatility",
-      "link": "https://www.coindesk.com/markets/2025/07/14/icp-rebounds-toward-550-after-early-morning-surge-and-midday-volatility",
-      "summary": ""
-    },
-    {
-      "title": "House Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday",
-      "link": "https://www.coindesk.com/policy/2025/07/14/house-gears-up-for-crypto-market-structure-vote-on-wednesday-stablecoins-thursday",
-      "summary": ""
-    },
-    {
-      "title": "Why Bittensor Is AI\u2019s Best Next-Gen Incubator",
-      "link": "https://www.coindesk.com/opinion/2025/07/14/why-bittensor-is-ais-best-next-gen-incubator",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Coinbase seeks public records from Oregon gov\u2019t on crypto \u2018flip-flop\u2019",
+      "link": "https://cointelegraph.com/news/coinbase-public-records-oregon-governor-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBhMTgtMzAyZi03NzVkLTlkNGMtMWE1MDRhNDlhNGNl.jpg\" /></p><p>Known by many in the industry for filing records requests with the US government over crypto policies, Coinbase has filed a lawsuit against Oregon state officials.</p>"
+    },
+    {
+      "title": "Bitcoin charts, market cycle history hint at 15% short-term push to $138K",
+      "link": "https://cointelegraph.com/news/bitcoin-charts-market-cycle-history-hint-at-15percent-short-term-push-to-dollar138k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA5YTgtN2EwNS03NjFkLTlhMWYtYTczNmVhY2UxZGVh.jpg\" /></p><p>Bitcoin looks poised for an extended rally to $138,000 according to market cycle history and the current weekly trend.</p>"
+    },
+    {
+      "title": "Kazakhstan wealth fund, gold, FX reserves to be invested in crypto \u2014 Report",
+      "link": "https://cointelegraph.com/news/kazakhstan-crypto-reserve-strategy-norway-us-model?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzFjNGEtNmY2Zi03ZjZlLWJiNDQtOGY0ODQxYWNiNjYy.jpg\" /></p><p>Kazakhstan\u2019s central bank is drawing on lessons from Norway, the US and Middle East in developing its crypto strategy.</p>"
+    },
     {
       "title": "US Crypto Week kicks off with &#039;Dictator&#039; stablecoin amendment on the table",
       "link": "https://cointelegraph.com/news/genius-act-stablecoins-amendments-crypto-bills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "Redefining global trade infrastructure: TradeOS joins Cointelegraph Accelerator",
       "link": "https://cointelegraph.com/news/redefining-global-trade-infrastructure-tradeos-joins-cointelegraph-accelerator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYzQzOTc3ODQwOWNiYjg3ZTZhNjYyNmI0MTgwMzgwYi5qcGc=.jpg\" /></p><p>Global commerce stack TradeOS becomes the latest participant of Accelerator.</p>"
-    },
-    {
-      "title": "Price predictions 7/14: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
-      "link": "https://cointelegraph.com/news/price-predictions-7-14-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA5ZmEtOWIxYi03NTM0LWJjNTUtNDM1MGZkZWM5YjQw.jpg\" /></p><p>Bitcoin holds above $120,000 as corporate crypto treasury building and robust spot BTC ETF buying continue to support the new price range.</p>"
-    },
-    {
-      "title": "How to day trade crypto using ChatGPT and Grok",
-      "link": "https://cointelegraph.com/news/how-to-day-trade-crypto-using-ai-chatgpt-grok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhYzUtY2NiYS03OWI3LWE3MjItMTQ2ZDY3YjJhZDNk.jpg\" /></p><p>AI tools like Grok and ChatGPT are changing how traders approach crypto day trading, spotting sentiment shifts in real time and turning them into structured trade plans.</p>"
-    },
-    {
-      "title": "OKX joins Paxos\u2019 USDG network as stablecoin push intensifies",
-      "link": "https://cointelegraph.com/news/okx-joins-paxos-usdg-network-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA5YjgtYTVhNi03NDAxLWFmYTktZjQxNDc1Y2I1MjM3.jpg\" /></p><p>Launched in November 2024, the USDG stablecoin has a total circulating supply of around $356 million.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Bitcoin investing consortium including Sora Ventures acquires Seoul-based software firm SGA Co.",
+      "link": "https://cryptoslate.com/bitcoin-investing-consortium-including-sora-ventures-acquires-seoul-based-software-firm-sga-co/",
+      "summary": "<p>A consortium of Bitcoin-native investors is set to acquire SGA Co., Ltd., a KOSDAQ-listed software provider based in Seoul, according to a July 14 statement shared with . The investor group includes Sora Ventures, AsiaStrategy, Metaplanet CEO Simon Gerovich, and KCGI, a prominent Korean private equity firm specializing in governance-led growth. This collective also played [&#8230;]</p> <p>"
+    },
+    {
+      "title": "Vanguard becomes top MSTR holder via passive index fund despite snubbing Bitcoin and crypto",
+      "link": "https://cryptoslate.com/vanguard-becomes-top-mstr-holder-via-passive-index-fund-despite-snubbing-bitcoin-and-crypto/",
+      "summary": "<p>Vanguard, one of the world\u2019s top asset managers, has become the largest institutional shareholder of Strategy, which is widely seen as a proxy for Bitcoin, despite previously labeling the crypto as speculative and lacking inherent value. According to Bloomberg News, Vanguard now owns more than 20 million shares of Strategy, representing nearly 8% of the [&#8230;]</p> <p>"
+    },
     {
       "title": "Strategy acquires 4,225 BTC, pushes Bitcoin treasury toward $73B in recent buying spree",
       "link": "https://cryptoslate.com/strategy-acquires-4225-btc-pushes-bitcoin-treasury-toward-73b-in-recent-buying-spree/",
@@ -68,19 +78,14 @@
       "title": "AI might create your next job",
       "link": "https://cryptoslate.com/ai-might-create-your-next-job/",
       "summary": "<p>The following is a guest post and opinion from Manouk Termaaten, Founder and CEO of Vertical Studio AI. In his debut novel Player Piano, the American author Kurt Vonnegut writes of a dystopia in which automation has taken all of the jobs\u2014even the jobs of barbers. The novel makes clear where the author stands on [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Aave net deposits of $50 billion compares to ranking in top 50 of banks in US",
-      "link": "https://cryptoslate.com/aaves-50-billion-milestone-challenges-traditional-banking-giants/",
-      "summary": "<p>Aave, the DeFi protocol known for its borrowing and lending services, has hit a key milestone, surpassing $50 billion in net deposits. This achievement positions Aave as the largest DeFi protocol, with a total value locked (TVL) nearly double that of its closest competitor, Lido. According to recent data from the Federal Reserve, Aave\u2019s current [&#8230;]</p> <p>"
-    },
-    {
-      "title": "BlackRock\u2019s IBIT becomes top 20 ETF in US, poised to exceed $100 billion in assets this month",
-      "link": "https://cryptoslate.com/insights/blackrocks-ibit-becomes-top-20-etf-in-us-poised-to-exceed-100-billion-in-assets-this-month/",
-      "summary": "<p>BlackRock&#8217;s spot Bitcoin exchange-traded fund (ETF) is on track to surpass $100 billion in assets this month, according to Bloomberg ETF analyst Eric Balchunas. In a June 14 post on X, Balchunas noted that while he previously projected the fund, IBIT, could hit the $100 billion mark this summer, it could happen even sooner. He [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "$122,000 And Climbing: Bitcoin Sets New Record As ETFs Drive Demand",
+      "link": "https://www.newsbtc.com/news/122000-and-climbing-bitcoin-sets-new-record-as-etfs-drive-demand/",
+      "summary": "Bitcoin rose above the $122,000 mark on Monday. According to data from CoinGecko, prices briefly topped that level before pulling back slightly. The jump comes in the face of strong inflows into spot bitcoin ETFs and growing institutional interest. Traders watched as the largest cryptocurrency by market cap set yet another record. Related Reading: Kiyosaki Awaits The Next Bitcoin Sale: \u2018My Fellow Pigs And I Are Feasting\u2019 Bitcoin ETFs Explode Based on reports, Bitcoin ETFs saw $1.20 billion flow in on Thursday alone. That was the biggest single\u2011day haul of 2025. Last week, QCP Capital said institutional flows into spot BTC ETFs topped $2 billion. These numbers suggest big players are betting on more upside. Open interest on futures now exceeds $43 billion. Funding rates on perpetual contracts are climbing too, showing crowded long positions. US President Donald Trump has voiced his support for clearer crypto rules. And on Monday, the US House of Representatives began debating a package of crypto bills aimed at giving firms more certainty. Companies have been adding bitcoin to their treasuries, with some corporate holdings rising by double\u2011digit percentages this year. According to BTSE COO Jeff Mei, longer\u2011term institutional buyers are driving prices higher. He forecasted that bitcoin could hit $125K \u201cin the next month or two.\u201d Mei also warned that trade disputes with the EU, Mexico and other partners might cause dips, but said buyers are holding firm. Rising Demand From Big Players Trading desks and crypto exchanges say they have seen fresh corporate orders. Some firms are buying blocks of 100 BTC or more at a time. Others are using dollar\u2011cost averaging to ease in gradually. Even smaller funds are boosting allocations, pushing aggregate demand higher. With every new all\u2011time high, more headlines appear and more investors pay attention. That creates a feedback loop: rising prices attract inflows, which lift prices further. It the entire price history of Bitcoin was a fruit, what fruit would you say it was? pic.twitter.com/FPEU1bUvnf \u2014 Peter Brandt (@PeterLBrandt) July 13, 2025 Technical Warning Signs Emerge Meanwhile, veteran trader Peter Brandt caught attention over the weekend with his \u201cbanana\u201d chart. He sketched bitcoin\u2019s entire price history as a curved arc. The top of that arc sits near current levels, hinting at a ceiling where past rallies ended in sharp drops. Parabolic moves have a habit of reversing quickly. In just seven days, Bitcoin climbed from about $108K to over $122K\u2014roughly a 14% rise. High funding rates and record open interest signal froth, and that often precedes pullbacks. Related Reading: XRP To Hit $4 This Week? This Crypto Expert Thinks So Watch For Pullbacks And Breakouts Traders now face two scenarios. If institutional buyers keep adding, new highs may follow and $125K could fall within reach. But if ETF purchases slow or leveraged longs get squeezed, a 10\u201320% correction would not be surprising. Featured image from Vecteezy, chart from TradingView"
+    },
     {
       "title": "Ethereum Supply Locked Hits New ATH: Smart Money Bets On Long-Term Growth",
       "link": "https://www.newsbtc.com/news/ethereum-supply-locked-hits-new-ath-smart-money-bets-on-long-term-growth/",
@@ -100,14 +105,14 @@
       "title": "Bitcoin Price Trajectory To $155,000: Why No Major Dips Are Expected From Here",
       "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-trajectory-to-155000/",
       "summary": "The Bitcoin price is once again commanding the spotlight as bullish momentum propels the leading cryptocurrency to new all-time highs. With the price already breaking past the $122,000 mark, analysts are growing increasingly confident in the potential for even higher targets. A recently shared chart analysis by market expert CrediBull Crypto suggests that the current rally is far from\u2014and most importantly, no major dips are expected along the way. As a result, he has forecasted that BTC could see a significant price surge to $155,000 soon. Bitcoin Price Action Clears Path To $155,000 Bitcoin\u2019s momentum continues to gather steam, with technical indicators from CrediBull Crypto\u2019s wave analysis report signals a bullish continuation that could propel the cryptocurrency\u2019s price to $155,000 in the coming weeks. The analyst\u2019s new wave count projection suggests that Bitcoin is firmly in the middle of a powerful upward leg, with minimal signs of a pullback ahead. Related Reading: Bitcoin Price Break Above $118,000 Just The Start, Analyst Unveils \u2018Golden Number\u2019 CrediBull Crypto\u2019s shared price chart highlights a well-formed textbook Elliott Wave structure that suggests that Bitcoin is in the early stages of a strong Wave 3. Notably, BTC\u2019s recent breakout above the $112,000 range shifted market sentiment in a bullish direction. What once served as resistance was quickly flipped to support, and now price action is clearing a path toward even higher ATH targets as momentum continues to build. A critical factor supporting the analyst\u2019s optimistic BTC outlook is the daily demand zone between $98,000 and 101,000. This area served as the launch point for the previous rally above $112,000 and has remained untested ever since. With selling pressure diminishing and strength building, CrediBull Crypto believes that the price of Bitcoin will stay well above the $110,000 level. He also views a retest to $112,000 or a decline to $110,000 or below as highly unlikely under current bullish conditions. According to the analyst, Bitcoin&#8217;s projected path forward places it near $135,000 by the completion of Wave 3, followed by a brief period of consolidation before a final push toward $155,000. Bitcoin Rise Above $120,000 Is Just The Beginning As Bitcoin continues its ride above $120,000, Crypto Fella, a market expert on X, has cited the potential for the cryptocurrency to enter price discovery mode and skyrocket to uncharted levels. The analyst\u2019s chart highlights a well-defined ascending trendline beginning in early 2023, with three distinct rally zones marked by purple rectangles. Each of these phases showcases consolidation followed by an aggressive upward move, suggesting a clear pattern of accumulation and breakout. Related Reading: Market Expert Says It\u2019s Now \u2018Illegal\u2019 To Short Bitcoin, Here\u2019s Why The current leg of Bitcoin\u2019s rally appears to mirror this trend from past bullish cycles but with greater force, hinting that the leading cryptocurrency could be on the verge of a parabolic surge. A key target identified in Crypto Fella\u2019s analysis sits around the $138,206 level, which aligns with the projected continuation along the trendline. This level represents the next major psychological resistance and could mark the entrance into a new phase of price discovery. Featured image from Pixabay, chart from Tradingview.com"
-    },
-    {
-      "title": "Bitcoin Ignites Intraday Optimism With A Step Past $119,000 Threshold",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-move-past-119000-threshold/",
-      "summary": "Shaco AI, in a fresh update, highlighted that Bitcoin is showing off its moves, dancing upwards past both the 25-hour ($119,088.50) and 50-hour ($118,338.56) Simple Moving Averages. With such momentum, it\u2019s clear BTC has decided it&#8217;s not a bear season yet. Momentum And Indicators Shaco AI\u2019s analysis on Bitcoin dives deep into the technical indicators, and there\u2019s no shortage of bullish energy in the air. First off, the Relative Strength Index (RSI) is currently riding high at 86.02. That\u2019s well into overbought territory, and as Shaco colorfully put it, \u201cit might need to hydrate soon.\u201d Such elevated RSI levels often signal a potential cooldown on the horizon, but for now, momentum is favoring the bulls. Related Reading: Bitcoin 30-Day Average Funding Rate Drops \u2013 Bullish Setup Takes Shape Adding fuel to the trend is the Average Directional Index (ADX), which sits at a robust 44 points. According to Shaco AI, this reading confirms that the current uptrend is strong and well-supported. The MACD (Moving Average Convergence Divergence) indicator is also reinforcing this bullish narrative, with a reading of 967.98. Shaco described it as \u201cscreaming positive vibes,\u201d a signal that buying pressure continues to dominate. A rising MACD in conjunction with a strong ADX often paints a picture of confident market participants driving the trend with conviction. One of the most telling signs is volume. Shaco pointed out that Bitcoin\u2019s trading volume has surged to 2704.5, a significant leap above its average of 856.81. He described this as \u201csome serious weight lifting in buying interest,\u201d underscoring that this isn\u2019t a weak or speculative move \u2014 traders are putting real capital behind the rally. Support And Resistance: Bitcoin Make-Or-Break Levels The analyst went further to highlight key levels traders should closely monitor. He noted, &#8220;Key Levels Alert: Keep an eye on the resistance at $122,666.0 and support sitting firm at $116,900.05. It feels like Bitcoin is playing &#8216;The Floor is Lava&#8217; with support levels!&#8221; This colorful analogy points to the importance of holding key support to maintain bullish momentum. Related Reading: Bitcoin Consolidation Continues: 2 Key Support Levels To Watch According to Shaco AI, if Bitcoin can sustain a move above the current resistance zone, traders might want to watch for a potential breakout. However, with the RSI already deep in overbought territory, there&#8217;s also the possibility that BTC may \u201cpeak too soon,\u201d leading to a pullback or brief consolidation phase. He wrapped up"
     }
   ],
   "Bitcoin Magazine": [
+    {
+      "title": "Make Bitcoin Mining Decentralized Again",
+      "link": "https://bitcoinmagazine.com/business/make-bitcoin-mining-decentralized-again",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/BM-TN.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/business/make-bitcoin-mining-decentralized-again\" rel=\"nofollow\"> </a></p> <p>From Bitaxes to Heatbits, small and comfortable home mining equipment are retail\u2019s new entry into Bitcoin.</p> <p>"
+    },
     {
       "title": "Kazakhstan Considers Investing National Reserves in Bitcoin",
       "link": "https://bitcoinmagazine.com/news/kazakhstan-considers-investing-national-reserves-in-bitcoin",
@@ -127,11 +132,6 @@
       "title": "Bitcoin Is Draining The Value Out Of Real Estate",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-is-draining-the-value-out-of-real-estate",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Bitcoin-Is-Draining-The-Value-Out-Of-Real-Estate.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/markets/bitcoin-is-draining-the-value-out-of-real-estate\" rel=\"nofollow\"> </a></p> <p>Why the real estate market, the world's largest asset class, is ripe for disruption by Bitcoin. </p> <p>"
-    },
-    {
-      "title": "The Blockspace Market: A Darwinian Forge",
-      "link": "https://bitcoinmagazine.com/technical/the-blockspace-market-a-darwinian-forge",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Blockspace-Market-Darwin.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/technical/the-blockspace-market-a-darwinian-forge\" rel=\"nofollow\"> </a></p> <p>A look at the dynamics of multiple use cases competing among each other for blockspace. </p> <p>"
     }
   ],
   "Decrypt": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "Federal Reserve clears US banks to custody crypto assets including Bitcoin",
+      "link": "https://cryptobriefing.com/federal-reserve-approves-us-banks-custody-bitcoin-crypto/",
+      "summary": "<p>US banks can now offer crypto custody services following new Federal Reserve guidance, opening doors for institutional adoption.</p> <p>"
+    },
+    {
       "title": "Pump.fun\u2019s $PUMP token launches at $5.6B valuation",
       "link": "https://cryptobriefing.com/pump-token-launch-valuation/",
       "summary": "<p>PUMP went live today with listings across top exchanges including Bybit, KuCoin, MEXC, and Hyperliquid, marking pumpfuns official debut.</p> <p>"
@@ -181,11 +186,6 @@
       "title": "Satoshi-era Bitcoin whale behind 80K BTC move transfers $2.4B",
       "link": "https://cryptobriefing.com/bitcoin-whale-moves-1-2b/",
       "summary": "<p>The whale's activity could signal market volatility, impacting Bitcoin's price stability and investor sentiment amid speculation of profit-taking.</p> <p>"
-    },
-    {
-      "title": "Digital asset manager Grayscale confidentially files for IPO in the US",
-      "link": "https://cryptobriefing.com/grayscale-ipo-filing-sec/",
-      "summary": "<p>Grayscale's IPO move signals increasing mainstream acceptance and potential growth for digital asset firms in traditional financial markets.</p> <p>"
     }
   ],
   "AMBcrypto": [
