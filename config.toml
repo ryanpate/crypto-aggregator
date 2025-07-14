@@ -21,3 +21,8 @@ canonifyURLs = true
     name = "Crypto News"
     url  = "/"
     weight = 3
+  
+  [taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"

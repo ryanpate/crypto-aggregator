@@ -585,8 +585,10 @@
                 <label class="filter-label">Category:</label>
                 <select class="filter-select" id="categoryFilter">
                     <option value="all">All Categories</option>
+                    {{ if .Site.Taxonomies.categories }}
                     {{ range .Site.Taxonomies.categories }}
                     <option value="{{ .Page.Title | urlize }}">{{ .Page.Title }}</option>
+                    {{ end }}
                     {{ end }}
                 </select>
             </div>
@@ -620,11 +622,13 @@
             <div class="stat-label">Total Posts</div>
         </div>
         <div class="stat-card">
-            <div class="stat-number" id="totalAuthors">{{ len .Site.Taxonomies.authors }}</div>
+            <div class="stat-number" id="totalAuthors">{{ if .Site.Taxonomies.authors }}{{ len .Site.Taxonomies.authors
+                }}{{ else }}1{{ end }}</div>
             <div class="stat-label">Contributing Authors</div>
         </div>
         <div class="stat-card">
-            <div class="stat-number" id="totalCategories">{{ len .Site.Taxonomies.categories }}</div>
+            <div class="stat-number" id="totalCategories">{{ if .Site.Taxonomies.categories }}{{ len
+                .Site.Taxonomies.categories }}{{ else }}0{{ end }}</div>
             <div class="stat-label">Categories</div>
         </div>
         <div class="stat-card">
