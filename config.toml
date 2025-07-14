@@ -56,73 +56,71 @@ enableRobotsTXT = true
   google_adsense_id = "ca-pub-5523870768931777"
 
 # Main Menu
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 2
 
-  [[menu.main]]
-    name = "Bitcoin"
-    url = "/bitcoin-news/"
-    weight = 3
+[[menu.main]]
+  name = "Bitcoin"
+  url = "/bitcoin-news/"
+  weight = 3
 
-  [[menu.main]]
-    name = "Ethereum"
-    url = "/ethereum-news/"
-    weight = 4
+[[menu.main]]
+  name = "Ethereum"
+  url = "/ethereum-news/"
+  weight = 4
 
-  [[menu.main]]
-    name = "DeFi"
-    url = "/defi-news/"
-    weight = 5
+[[menu.main]]
+  name = "DeFi"
+  url = "/defi-news/"
+  weight = 5
 
-  [[menu.main]]
-    name = "NFTs"
-    url = "/nft-news/"
-    weight = 6
+[[menu.main]]
+  name = "NFTs"
+  url = "/nft-news/"
+  weight = 6
 
-  [[menu.main]]
-    name = "Analysis"
-    url = "/market-analysis/"
-    weight = 7
+[[menu.main]]
+  name = "Analysis"
+  url = "/market-analysis/"
+  weight = 7
 
-  [[menu.main]]
-    name = "All News"
-    url = "/all-news/"
-    weight = 8
+[[menu.main]]
+  name = "All News"
+  url = "/all-news/"
+  weight = 8
 
 # Footer Menu
-[menu.footer]
-  [[menu.footer]]
-    name = "About Us"
-    url = "/about/"
-    weight = 1
+[[menu.footer]]
+  name = "About Us"
+  url = "/about/"
+  weight = 1
 
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 2
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
 
-  [[menu.footer]]
-    name = "Privacy Policy"
-    url = "/privacy-policy/"
-    weight = 3
+[[menu.footer]]
+  name = "Privacy Policy"
+  url = "/privacy-policy/"
+  weight = 3
 
-  [[menu.footer]]
-    name = "Terms of Service"
-    url = "/terms-of-service/"
-    weight = 4
+[[menu.footer]]
+  name = "Terms of Service"
+  url = "/terms-of-service/"
+  weight = 4
 
-  [[menu.footer]]
-    name = "Advertise"
-    url = "/advertise/"
-    weight = 5
+[[menu.footer]]
+  name = "Advertise"
+  url = "/advertise/"
+  weight = 5
 
 # Output formats for different content types
 [outputs]
