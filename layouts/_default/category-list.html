@@ -1,0 +1,194 @@
+{{ define "main" }}
+<!-- This is a reusable template for all category pages -->
+<main class="category-page">
+    <!-- Hero Section with dynamic content -->
+    <section class="category-hero {{ .Section }}-hero">
+        <div class="container">
+            <!-- Breadcrumbs -->
+            <nav aria-label="Breadcrumb" class="breadcrumb">
+                <ol>
+                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                    <li class="active">{{ .Title }}</li>
+                </ol>
+            </nav>
+            
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.description }}
+            <p class="hero-description">{{ . }}</p>
+            {{ end }}
+            
+            <!-- Dynamic Price Widget based on section -->
+            {{ if eq .Section "bitcoin-news" }}
+                {{ partial "bitcoin-price-widget.html" . }}
+            {{ else if eq .Section "ethereum-news" }}
+                {{ partial "ethereum-price-widget.html" . }}
+            {{ else if eq .Section "defi-news" }}
+                {{ partial "defi-stats-widget.html" . }}
+            {{ else if eq .Section "market-analysis" }}
+                {{ partial "market-overview-widget.html" . }}
+            {{ end }}
+        </div>
+    </section>
+    
+    <!-- Category-specific navigation -->
+    {{ if .Params.subcategories }}
+    <section class="category-nav">
+        <div class="container">
+            <div class="nav-pills">
+                <a href="{{ .Permalink }}" class="active">All {{ .Title }}</a>
+                {{ range .Params.subcategories }}
+                <a href="{{ $.Permalink }}{{ .slug }}/">{{ .name }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+    
+    <!-- AdSense - Top -->
+    <div class="ad-container">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5523870768931777"
+             data-ad-slot="{{ upper .Section }}-TOP"
+             data-ad-format="horizontal"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- News Grid -->
+    <section class="news-section">
+        <div class="container">
+            <!-- Filter and Sort Options -->
+            <div class="filter-bar">
+                <div class="filter-options">
+                    <label for="sort">Sort by:</label>
+                    <select id="sort" onchange="sortNews(this.value)">
+                        <option value="newest">Newest First</option>
+                        <option value="oldest">Oldest First</option>
+                        <option value="popular">Most Popular</option>
+                    </select>
+                </div>
+                <div class="view-options">
+                    <button class="view-grid active" onclick="setView('grid')">⊞</button>
+                    <button class="view-list" onclick="setView('list')">☰</button>
+                </div>
+            </div>
+            
+            <!-- Articles -->
+            <div class="news-grid" id="newsGrid">
+                {{ $paginator := .Paginate (where .Site.RegularPages "Section" .Section) 12 }}
+                {{ range $paginator.Pages }}
+                <article class="news-card" data-date="{{ .Date.Unix }}">
+                    {{ if .Params.featured_image }}
+                    <div class="card-image">
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" loading="lazy">
+                    </div>
+                    {{ end }}
+                    
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="source-badge">{{ .Params.source | default .Section }}</span>
+                            <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                                {{ .Date.Format "Jan 2, 2006" }}
+                            </time>
+                        </div>
+                        
+                        <h2 class="card-title">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h2>
+                        
+                        <p class="card-excerpt">
+                            {{ .Summary | truncate 150 }}
+                        </p>
+                        
+                        <div class="card-footer">
+                            <div class="card-tags">
+                                {{ range first 3 .Params.tags }}
+                                <a href="{{ $.Site.BaseURL }}topics/{{ . | urlize }}/" class="tag">{{ . }}</a>
+                                {{ end }}
+                            </div>
+                            <a href="{{ .Permalink }}" class="read-more" aria-label="Read more about {{ .Title }}">
+                                Read More →
+                            </a>
+                        </div>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+            
+            <!-- No content message -->
+            {{ if eq (len $paginator.Pages) 0 }}
+            <div class="no-content">
+                <p>No articles found in this category yet. Check back soon for updates!</p>
+                <a href="{{ .Site.BaseURL }}" class="btn-primary">Return to Homepage</a>
+            </div>
+            {{ end }}
+            
+            <!-- Pagination -->
+            {{ partial "pagination.html" $paginator }}
+        </div>
+    </section>
+    
+    <!-- Newsletter Signup -->
+    {{ partial "newsletter-signup.html" . }}
+    
+    <!-- Related Categories -->
+    <section class="related-categories">
+        <div class="container">
+            <h2>Explore More Crypto News</h2>
+            {{ partial "category-cards.html" . }}
+        </div>
+    </section>
+    
+    <!-- AdSense - Bottom -->
+    <div class="ad-container">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5523870768931777"
+             data-ad-slot="{{ upper .Section }}-BOTTOM"
+             data-ad-format="rectangle"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</main>
+
+<!-- Category-specific scripts -->
+<script>
+function sortNews(sortBy) {
+    const newsGrid = document.getElementById('newsGrid');
+    const articles = Array.from(newsGrid.getElementsByClassName('news-card'));
+    
+    articles.sort((a, b) => {
+        if (sortBy === 'newest') {
+            return b.dataset.date - a.dataset.date;
+        } else if (sortBy === 'oldest') {
+            return a.dataset.date - b.dataset.date;
+        }
+        // Add more sorting options as needed
+    });
+    
+    newsGrid.innerHTML = '';
+    articles.forEach(article => newsGrid.appendChild(article));
+}
+
+function setView(view) {
+    const newsGrid = document.getElementById('newsGrid');
+    const gridBtn = document.querySelector('.view-grid');
+    const listBtn = document.querySelector('.view-list');
+    
+    if (view === 'list') {
+        newsGrid.classList.add('list-view');
+        listBtn.classList.add('active');
+        gridBtn.classList.remove('active');
+    } else {
+        newsGrid.classList.remove('list-view');
+        gridBtn.classList.add('active');
+        listBtn.classList.remove('active');
+    }
+}
+</script>
+{{ end }}

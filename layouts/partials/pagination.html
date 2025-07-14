@@ -1,0 +1,79 @@
+{{ if gt .TotalPages 1 }}
+<nav class="pagination" aria-label="Pagination">
+    <!-- Previous Page -->
+    {{ if .HasPrev }}
+    <a href="{{ .Prev.URL }}" class="pagination-prev" rel="prev">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"/>
+        </svg>
+        Previous
+    </a>
+    {{ else }}
+    <span class="pagination-prev disabled">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"/>
+        </svg>
+        Previous
+    </span>
+    {{ end }}
+    
+    <!-- Page Numbers -->
+    <div class="pagination-numbers">
+        {{ $paginator := . }}
+        
+        <!-- Always show first page -->
+        {{ if gt .PageNumber 3 }}
+        <a href="{{ .First.URL }}" class="page-number">1</a>
+        {{ if gt .PageNumber 4 }}
+        <span class="pagination-ellipsis">...</span>
+        {{ end }}
+        {{ end }}
+        
+        <!-- Show pages around current page -->
+        {{ range .Pagers }}
+            {{ if and (ge .PageNumber (sub $paginator.PageNumber 2)) (le .PageNumber (add $paginator.PageNumber 2)) }}
+            <a href="{{ .URL }}" class="page-number {{ if eq . $paginator }}active{{ end }}" 
+               {{ if eq . $paginator }}aria-current="page"{{ end }}>
+                {{ .PageNumber }}
+            </a>
+            {{ end }}
+        {{ end }}
+        
+        <!-- Always show last page -->
+        {{ if lt .PageNumber (sub .TotalPages 2) }}
+        {{ if lt .PageNumber (sub .TotalPages 3) }}
+        <span class="pagination-ellipsis">...</span>
+        {{ end }}
+        <a href="{{ .Last.URL }}" class="page-number">{{ .TotalPages }}</a>
+        {{ end }}
+    </div>
+    
+    <!-- Next Page -->
+    {{ if .HasNext }}
+    <a href="{{ .Next.URL }}" class="pagination-next" rel="next">
+        Next
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"/>
+        </svg>
+    </a>
+    {{ else }}
+    <span class="pagination-next disabled">
+        Next
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"/>
+        </svg>
+    </span>
+    {{ end }}
+</nav>
+
+<!-- Pagination Info -->
+<div class="pagination-info">
+    Showing {{ add (mul (sub .PageNumber 1) .PageSize) 1 }} to 
+    {{ if lt (mul .PageNumber .PageSize) .TotalPages }}
+        {{ mul .PageNumber .PageSize }}
+    {{ else }}
+        {{ len .Pages }}
+    {{ end }}
+    of {{ .TotalPages }} articles
+</div>
+{{ end }}

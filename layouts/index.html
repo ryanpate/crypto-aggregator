@@ -753,13 +753,13 @@
                 <span class="logo-text">BlockwireNews</span>
             </a>
             <ul class="nav-links">
-                <li><a href="{{ .Site.BaseURL }}blog" class="active">Blog</a></li>
-                <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin</a></li>
-                <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum</a></li>
-                <li><a href="{{ .Site.BaseURL }}defi">DeFi</a></li>
-                <li><a href="{{ .Site.BaseURL }}nft">NFTs</a></li>
-                <li><a href="{{ .Site.BaseURL }}analysis">Analysis</a></li>
-                <li><a href="{{ .Site.BaseURL }}all-news">All News</a></li>
+                <li><a href="{{ .Site.BaseURL }}blog/" class="active">Blog</a></li>
+                <li><a href="{{ .Site.BaseURL }}bitcoin-news/">Bitcoin</a></li>
+                <li><a href="{{ .Site.BaseURL }}ethereum-news/">Ethereum</a></li>
+                <li><a href="{{ .Site.BaseURL }}defi-news/">DeFi</a></li>
+                <li><a href="{{ .Site.BaseURL }}nft-news/">NFTs</a></li>
+                <li><a href="{{ .Site.BaseURL }}market-analysis/">Analysis</a></li>
+                <li><a href="{{ .Site.BaseURL }}all-news/">All News</a></li>
             </ul>
         </nav>
     </header>
@@ -795,7 +795,7 @@
         <div class="blog-container">
             <div class="section-header">
                 <h2 class="section-title">📝 Latest Blog Posts</h2>
-                <a href="{{ .Site.BaseURL }}blog/archive" class="view-all">View Archive →</a>
+                <a href="{{ .Site.BaseURL }}blog/archive/" class="view-all">View Archive →</a>
             </div>
 
             <div class="blog-grid">
@@ -899,7 +899,7 @@
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">Latest News</h2>
-            <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
+            <a href="{{ .Site.BaseURL }}all-news/" class="view-all">View All →</a>
         </div>
 
         <div class="news-grid" id="latest-news">
@@ -920,7 +920,7 @@
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">More Stories</h2>
-            <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
+            <a href="{{ .Site.BaseURL }}all-news/" class="view-all">View All →</a>
         </div>
 
         <div class="news-grid" id="more-news">
@@ -963,35 +963,35 @@
             <div class="footer-section">
                 <h3>Categories</h3>
                 <ul>
-                    <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin News</a></li>
-                    <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum Updates</a></li>
-                    <li><a href="{{ .Site.BaseURL }}altcoins">Altcoin Analysis</a></li>
-                    <li><a href="{{ .Site.BaseURL }}defi">DeFi Insights</a></li>
-                    <li><a href="{{ .Site.BaseURL }}nft">NFT Market</a></li>
-                    <li><a href="{{ .Site.BaseURL }}regulation">Regulation</a></li>
+                    <li><a href="{{ .Site.BaseURL }}bitcoin-news/">Bitcoin News</a></li>
+                    <li><a href="{{ .Site.BaseURL }}ethereum-news/">Ethereum Updates</a></li>
+                    <li><a href="{{ .Site.BaseURL }}altcoin-news/">Altcoin Analysis</a></li>
+                    <li><a href="{{ .Site.BaseURL }}defi-news/">DeFi Insights</a></li>
+                    <li><a href="{{ .Site.BaseURL }}nft-news/">NFT Market</a></li>
+                    <li><a href="{{ .Site.BaseURL }}crypto-regulation/">Regulation</a></li>
                 </ul>
             </div>
 
             <div class="footer-section">
                 <h3>Resources</h3>
                 <ul>
-                    <li><a href="{{ .Site.BaseURL }}price-tracker">Price Tracker</a></li>
-                    <li><a href="{{ .Site.BaseURL }}market-analysis">Market Analysis</a></li>
-                    <li><a href="{{ .Site.BaseURL }}crypto-guides">Crypto Guides</a></li>
-                    <li><a href="{{ .Site.BaseURL }}glossary">Glossary</a></li>
-                    <li><a href="{{ .Site.BaseURL }}tools">Trading Tools</a></li>
-                    <li><a href="{{ .Site.BaseURL }}api">Developer API</a></li>
+                    <li><a href="{{ .Site.BaseURL }}price-tracker/">Price Tracker</a></li>
+                    <li><a href="{{ .Site.BaseURL }}market-analysis/">Market Analysis</a></li>
+                    <li><a href="{{ .Site.BaseURL }}crypto-guides/">Crypto Guides</a></li>
+                    <li><a href="{{ .Site.BaseURL }}glossary/">Glossary</a></li>
+                    <li><a href="{{ .Site.BaseURL }}tools/">Trading Tools</a></li>
+                    <li><a href="{{ .Site.BaseURL }}api/">Developer API</a></li>
                 </ul>
             </div>
 
             <div class="footer-section">
                 <h3>Company</h3>
                 <ul>
-                    <li><a href="{{ .Site.BaseURL }}about">About Us</a></li>
-                    <li><a href="{{ .Site.BaseURL }}advertise">Advertise</a></li>
-                    <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
-                    <li><a href="{{ .Site.BaseURL }}privacy">Privacy Policy</a></li>
-                    <li><a href="{{ .Site.BaseURL }}terms">Terms of Service</a></li>
+                    <li><a href="{{ .Site.BaseURL }}about/">About Us</a></li>
+                    <li><a href="{{ .Site.BaseURL }}advertise/">Advertise</a></li>
+                    <li><a href="{{ .Site.BaseURL }}contact/">Contact</a></li>
+                    <li><a href="{{ .Site.BaseURL }}privacy-policy/">Privacy Policy</a></li>
+                    <li><a href="{{ .Site.BaseURL }}terms-of-service/">Terms of Service</a></li>
                     <li><a href="{{ .Site.BaseURL }}sitemap.xml">Sitemap</a></li>
                 </ul>
             </div>
@@ -1037,6 +1037,16 @@
             if (diffInSeconds < 86400) return Math.floor(diffInSeconds / 3600) + ' hours ago';
             if (diffInSeconds < 604800) return Math.floor(diffInSeconds / 86400) + ' days ago';
             return date.toLocaleDateString();
+        }
+
+        // Function to generate SEO-friendly slug
+        function generateSlug(title) {
+            return title
+                .toLowerCase()
+                .replace(/[^\w\s-]/g, '') // Remove special chars
+                .replace(/\s+/g, '-')     // Replace spaces with hyphens
+                .replace(/-+/g, '-')      // Replace multiple hyphens with single
+                .trim();                  // Trim whitespace
         }
 
         // Function to generate tags from title
@@ -1101,11 +1111,13 @@
             return tags;
         }
 
-        // Function to create news card HTML
+        // Function to create news card HTML with SEO-friendly URLs
         function createNewsCard(article) {
             const sourceName = article.source || 'Crypto News';
             const relativeTime = getRelativeTime(new Date()); // Since crypto.json doesn't have dates, we'll use current time
             const tags = generateTags(article.title, article.summary || '');
+            const slug = generateSlug(article.title);
+            const currentDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD format
 
             // Clean up summary HTML if present
             let summary = article.summary || '';
@@ -1113,6 +1125,9 @@
                 // Strip HTML tags
                 summary = summary.replace(/<[^>]*>/g, '');
             }
+
+            // Create internal link structure (for future implementation)
+            const internalLink = `{{ .Site.BaseURL }}news/${slug}-${currentDate}/`;
 
             return `
                 <article class="news-card">
@@ -1131,7 +1146,7 @@
                     ''
                 }
                         <div class="card-tags">
-                            ${tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                            ${tags.map(tag => `<a href="{{ .Site.BaseURL }}topics/${tag.toLowerCase().replace(/\s+/g, '-')}/" class="tag">${tag}</a>`).join('')}
                         </div>
                     </div>
                 </article>
@@ -1187,14 +1202,14 @@
         // Display news on page load
         document.addEventListener('DOMContentLoaded', displayNews);
 
-        // Search functionality
+        // Search functionality with SEO-friendly search URL
         const searchBar = document.querySelector('.search-bar');
         const searchBtn = document.querySelector('.search-btn');
 
         searchBtn.addEventListener('click', () => {
             const query = searchBar.value.trim();
             if (query) {
-                window.location.href = `{{ .Site.BaseURL }}search?q=${encodeURIComponent(query)}&type=blog`;
+                window.location.href = `{{ .Site.BaseURL }}search/?q=${encodeURIComponent(query)}&type=blog`;
             }
         });
 
