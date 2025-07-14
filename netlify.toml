@@ -1,11 +1,61 @@
 [build]
-  command   = "hugo"
-  publish   = "public"
-  # Tell Netlify not to run npm install
-  ignore = "false"
+  publish = "public"
+  command = "hugo --gc --minify"
 
-[context.production.environment]
-  HUGO_VERSION = "0.147.7"    # or whatever Hugo version you’re using
-  HUGO_ENV     = "production"
-  # Prevent Netlify from running 'npm install' by pointing at an empty install
-  NPM_FLAGS    = "--ignore-scripts"
+[build.environment]
+  HUGO_VERSION = "0.121.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[redirects]]
+  from = "/tags/*"
+  to = "/topics/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/bitcoin"
+  to = "/bitcoin-news/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ethereum"
+  to = "/ethereum-news/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/defi"
+  to = "/defi-news/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/nft"
+  to = "/nft-news/"
+  status = 301
+  force = true
