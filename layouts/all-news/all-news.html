@@ -1,0 +1,735 @@
+{{ define "main" }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "head.html" . }}
+    <style>
+        /* Use the same styles from homepage */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary-color: #FF6B35;
+            --secondary-color: #4ECDC4;
+            --dark-bg: #0A0E27;
+            --card-bg: #1A1F3A;
+            --text-primary: #FFFFFF;
+            --text-secondary: #B8BCC8;
+            --accent-gold: #FFD700;
+            --accent-green: #00FF88;
+            --accent-red: #FF3B3B;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        
+        /* Animated Background */
+        .bg-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, #0A0E27 0%, #1A1F3A 50%, #0A0E27 100%);
+            z-index: -2;
+        }
+        
+        /* Header styles (same as homepage) */
+        header {
+            background: rgba(26, 31, 58, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 2px solid var(--primary-color);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 4px 30px rgba(255, 107, 53, 0.1);
+        }
+        
+        nav {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            text-decoration: none;
+            transition: transform 0.3s;
+        }
+        
+        .logo:hover {
+            transform: scale(1.05);
+        }
+        
+        .logo-icon {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: bold;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .logo-icon::before {
+            content: '₿';
+            position: absolute;
+            font-size: 30px;
+            animation: coinSpin 3s linear infinite;
+        }
+        
+        @keyframes coinSpin {
+            from { transform: rotateY(0deg); }
+            to { transform: rotateY(360deg); }
+        }
+        
+        .logo-text {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--text-primary);
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+        
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: all 0.3s;
+            position: relative;
+            font-weight: 500;
+        }
+        
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--accent-green);
+            transition: width 0.3s;
+        }
+        
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: var(--accent-green);
+        }
+        
+        .nav-links a:hover::after,
+        .nav-links a.active::after {
+            width: 100%;
+        }
+        
+        /* Page Header */
+        .page-header {
+            max-width: 1400px;
+            margin: 3rem auto 2rem;
+            padding: 0 2rem;
+            text-align: center;
+        }
+        
+        .page-header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color), var(--accent-gold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .page-header p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+        }
+        
+        /* Filter Section */
+        .filter-section {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .filter-buttons {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 0.5rem 1.5rem;
+            background: var(--card-bg);
+            border: 2px solid transparent;
+            border-radius: 25px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.9rem;
+        }
+        
+        .filter-btn:hover {
+            border-color: var(--secondary-color);
+            color: var(--secondary-color);
+        }
+        
+        .filter-btn.active {
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+            color: var(--dark-bg);
+            border-color: transparent;
+        }
+        
+        .sort-dropdown {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .sort-dropdown select {
+            padding: 0.5rem 1rem;
+            background: var(--card-bg);
+            border: 2px solid var(--secondary-color);
+            border-radius: 8px;
+            color: var(--text-primary);
+            cursor: pointer;
+        }
+        
+        /* News Grid */
+        .news-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+        
+        .news-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+            position: relative;
+            border: 1px solid transparent;
+        }
+        
+        .news-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--secondary-color);
+            box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
+        }
+        
+        .news-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .news-card:hover::before {
+            opacity: 1;
+        }
+        
+        .card-content {
+            padding: 1.5rem;
+        }
+        
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+        
+        .source-badge {
+            background: rgba(78, 205, 196, 0.1);
+            color: var(--secondary-color);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+        
+        .card-title {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+            line-height: 1.4;
+            transition: color 0.3s;
+        }
+        
+        .news-card:hover .card-title {
+            color: var(--secondary-color);
+        }
+        
+        .card-excerpt {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+        
+        .card-tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            background: rgba(255, 107, 53, 0.1);
+            color: var(--primary-color);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            transition: all 0.3s;
+        }
+        
+        .tag:hover {
+            background: var(--primary-color);
+            color: var(--dark-bg);
+            transform: scale(1.05);
+        }
+        
+        /* Pagination */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            margin: 4rem 0;
+        }
+        
+        .pagination-btn {
+            padding: 0.75rem 1.5rem;
+            background: var(--card-bg);
+            border: 2px solid var(--secondary-color);
+            border-radius: 8px;
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+        
+        .pagination-btn:hover {
+            background: var(--secondary-color);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+        }
+        
+        .pagination-btn.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+        
+        .page-numbers {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .page-number {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--card-bg);
+            border: 1px solid transparent;
+            border-radius: 8px;
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        
+        .page-number:hover {
+            border-color: var(--secondary-color);
+        }
+        
+        .page-number.active {
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+            color: var(--dark-bg);
+        }
+        
+        /* Ad Container */
+        .ad-container {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+            text-align: center;
+        }
+        
+        /* Footer (same as homepage) */
+        footer {
+            background: var(--card-bg);
+            margin-top: 4rem;
+            padding: 3rem 0 2rem;
+            border-top: 2px solid var(--primary-color);
+        }
+        
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+            
+            .page-header h1 {
+                font-size: 2rem;
+            }
+            
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .filter-section {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .filter-buttons {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="bg-animation"></div>
+    
+    <!-- Header -->
+    <header>
+        <nav>
+            <a href="{{ .Site.BaseURL }}" class="logo">
+                <div class="logo-icon"></div>
+                <span class="logo-text">BlockwireNews</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin</a></li>
+                <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum</a></li>
+                <li><a href="{{ .Site.BaseURL }}defi">DeFi</a></li>
+                <li><a href="{{ .Site.BaseURL }}nft">NFTs</a></li>
+                <li><a href="{{ .Site.BaseURL }}analysis">Analysis</a></li>
+                <li><a href="{{ .Site.BaseURL }}all-news" class="active">All News</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <!-- Page Header -->
+    <section class="page-header">
+        <h1>All Cryptocurrency News</h1>
+        <p>Browse the complete archive of aggregated crypto news from all major sources</p>
+    </section>
+    
+    <!-- Filter Section -->
+    <section class="filter-section">
+        <div class="filter-buttons">
+            <button class="filter-btn active" data-filter="all">All Sources</button>
+            <button class="filter-btn" data-filter="CoinDesk">CoinDesk</button>
+            <button class="filter-btn" data-filter="Cointelegraph">Cointelegraph</button>
+            <button class="filter-btn" data-filter="CryptoSlate">CryptoSlate</button>
+            <button class="filter-btn" data-filter="NewsBTC">NewsBTC</button>
+            <button class="filter-btn" data-filter="Decrypt">Decrypt</button>
+            <button class="filter-btn" data-filter="Bitcoin Magazine">Bitcoin Magazine</button>
+        </div>
+        <div class="sort-dropdown">
+            <label for="sort">Sort by:</label>
+            <select id="sort">
+                <option value="newest">Newest First</option>
+                <option value="oldest">Oldest First</option>
+                <option value="source">By Source</option>
+            </select>
+        </div>
+    </section>
+    
+    <!-- AdSense - Top -->
+    <div class="ad-container">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5523870768931777"
+             data-ad-slot="YOUR-AD-SLOT-ID-4"
+             data-ad-format="horizontal"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- News Grid -->
+    <section class="news-container">
+        <div class="news-grid" id="all-news-grid">
+            <!-- News will be loaded here -->
+        </div>
+    </section>
+    
+    <!-- Pagination -->
+    <div class="pagination">
+        <a href="#" class="pagination-btn" id="prev-btn">← Previous</a>
+        <div class="page-numbers" id="page-numbers">
+            <!-- Page numbers will be generated here -->
+        </div>
+        <a href="#" class="pagination-btn" id="next-btn">Next →</a>
+    </div>
+    
+    <!-- AdSense - Bottom -->
+    <div class="ad-container">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5523870768931777"
+             data-ad-slot="YOUR-AD-SLOT-ID-5"
+             data-ad-format="rectangle"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+    
+    <script>
+        // Get news data from Hugo
+        const newsData = {{ .Site.Data.crypto | jsonify | safeJS }};
+        let allArticles = [];
+        let filteredArticles = [];
+        let currentPage = 1;
+        const articlesPerPage = 18;
+        let currentFilter = 'all';
+        let currentSort = 'newest';
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            // Flatten all news sources
+            for (const [source, articles] of Object.entries(newsData)) {
+                articles.forEach(article => {
+                    article.source = source;
+                    allArticles.push(article);
+                });
+            }
+            
+            // Initial display
+            applyFilters();
+            
+            // Set up event listeners
+            setupEventListeners();
+        });
+        
+        function setupEventListeners() {
+            // Filter buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    currentFilter = this.dataset.filter;
+                    currentPage = 1;
+                    applyFilters();
+                });
+            });
+            
+            // Sort dropdown
+            document.getElementById('sort').addEventListener('change', function() {
+                currentSort = this.value;
+                applyFilters();
+            });
+            
+            // Pagination
+            document.getElementById('prev-btn').addEventListener('click', function(e) {
+                e.preventDefault();
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayNews();
+                }
+            });
+            
+            document.getElementById('next-btn').addEventListener('click', function(e) {
+                e.preventDefault();
+                const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayNews();
+                }
+            });
+        }
+        
+        function applyFilters() {
+            // Filter articles
+            if (currentFilter === 'all') {
+                filteredArticles = [...allArticles];
+            } else {
+                filteredArticles = allArticles.filter(article => article.source === currentFilter);
+            }
+            
+            // Sort articles
+            filteredArticles.sort((a, b) => {
+                switch(currentSort) {
+                    case 'oldest':
+                        return 1; // Reverse order
+                    case 'source':
+                        return a.source.localeCompare(b.source);
+                    default: // newest
+                        return -1; // Normal order
+                }
+            });
+            
+            currentPage = 1;
+            displayNews();
+        }
+        
+        function displayNews() {
+            const startIndex = (currentPage - 1) * articlesPerPage;
+            const endIndex = startIndex + articlesPerPage;
+            const pageArticles = filteredArticles.slice(startIndex, endIndex);
+            
+            const newsGrid = document.getElementById('all-news-grid');
+            newsGrid.innerHTML = pageArticles.map(article => createNewsCard(article)).join('');
+            
+            updatePagination();
+            
+            // Scroll to top of news section
+            newsGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+        
+        function createNewsCard(article) {
+            const tags = generateTags(article.title, article.summary || '');
+            let summary = article.summary || '';
+            if (summary.includes('<')) {
+                summary = summary.replace(/<[^>]*>/g, '');
+            }
+            
+            return `
+                <article class="news-card">
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="source-badge">${article.source}</span>
+                            <time>${getRelativeTime(new Date())}</time>
+                        </div>
+                        <h3 class="card-title">
+                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+                                ${article.title}
+                            </a>
+                        </h3>
+                        ${summary ? 
+                            `<p class="card-excerpt">${summary.substring(0, 150)}${summary.length > 150 ? '...' : ''}</p>` : 
+                            ''
+                        }
+                        <div class="card-tags">
+                            ${tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                        </div>
+                    </div>
+                </article>
+            `;
+        }
+        
+        function updatePagination() {
+            const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
+            const pageNumbersContainer = document.getElementById('page-numbers');
+            
+            // Update prev/next buttons
+            document.getElementById('prev-btn').classList.toggle('disabled', currentPage === 1);
+            document.getElementById('next-btn').classList.toggle('disabled', currentPage === totalPages);
+            
+            // Generate page numbers
+            let html = '';
+            const maxVisiblePages = 5;
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+            
+            if (endPage - startPage < maxVisiblePages - 1) {
+                startPage = Math.max(1, endPage - maxVisiblePages + 1);
+            }
+            
+            for (let i = startPage; i <= endPage; i++) {
+                html += `<a href="#" class="page-number ${i === currentPage ? 'active' : ''}" data-page="${i}">${i}</a>`;
+            }
+            
+            pageNumbersContainer.innerHTML = html;
+            
+            // Add click events to page numbers
+            pageNumbersContainer.querySelectorAll('.page-number').forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    currentPage = parseInt(this.dataset.page);
+                    displayNews();
+                });
+            });
+        }
+        
+        function getRelativeTime(date) {
+            const now = new Date();
+            const diffInSeconds = Math.floor((now - date) / 1000);
+            
+            if (diffInSeconds < 60) return 'just now';
+            if (diffInSeconds < 3600) return Math.floor(diffInSeconds / 60) + ' min ago';
+            if (diffInSeconds < 86400) return Math.floor(diffInSeconds / 3600) + ' hours ago';
+            if (diffInSeconds < 604800) return Math.floor(diffInSeconds / 86400) + ' days ago';
+            return date.toLocaleDateString();
+        }
+        
+        function generateTags(title, summary = '') {
+            const content = (title + ' ' + summary).toLowerCase();
+            const tags = [];
+            
+            const cryptoTerms = {
+                'bitcoin': 'Bitcoin',
+                'btc': 'Bitcoin',
+                'ethereum': 'Ethereum',
+                'eth': 'Ethereum',
+                'defi': 'DeFi',
+                'nft': 'NFT',
+                'solana': 'Solana',
+                'cardano': 'Cardano',
+                'xrp': 'XRP',
+                'market': 'Market',
+                'trading': 'Trading',
+                'analysis': 'Analysis'
+            };
+            
+            for (const [term, tag] of Object.entries(cryptoTerms)) {
+                if (content.includes(term) && !tags.includes(tag)) {
+                    tags.push(tag);
+                    if (tags.length >= 3) break;
+                }
+            }
+            
+            if (tags.length === 0) {
+                tags.push('Crypto News');
+            }
+            
+            return tags;
+        }
+    </script>
+</body>
+</html>
+{{ end }}
