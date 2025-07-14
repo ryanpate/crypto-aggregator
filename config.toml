@@ -22,7 +22,7 @@ canonifyURLs = true
     url  = "/"
     weight = 3
   
-  [taxonomies]
-  category = "categories"
-  tag = "tags"
-  author = "authors"
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
