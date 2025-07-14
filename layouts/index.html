@@ -3,50 +3,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
-
-    <!-- SEO Meta Tags -->
-    <meta name="description"
-        content="{{ .Description | default `Get real-time cryptocurrency news, market analysis, and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi, NFT updates 24/7.` }}">
-    <meta name="keywords"
-        content="cryptocurrency news, bitcoin news, ethereum updates, crypto market analysis, blockchain news, defi news, nft news, crypto price predictions, digital currency, altcoin news">
-    <meta name="author" content="BlockwireNews">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="{{ .Permalink }}">
-
-    <!-- Open Graph Tags -->
-    <meta property="og:title" content="{{ .Title }} - Real-Time Cryptocurrency News Aggregator">
-    <meta property="og:description"
-        content="{{ .Description | default `Stay updated with the latest cryptocurrency news, market analysis, and price predictions from top crypto sources.` }}">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:image" content="{{ .Site.BaseURL }}images/og-image.jpg">
-
-    <!-- Twitter Card Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ .Title }} - Crypto News Aggregator">
-    <meta name="twitter:description"
-        content="{{ .Description | default `Real-time cryptocurrency news and market analysis` }}">
-
-    <!-- Schema.org Markup -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "NewsMediaOrganization",
-        "name": "BlockwireNews",
-        "url": "{{ .Site.BaseURL }}",
-        "logo": "{{ .Site.BaseURL }}images/logo.png",
-        "description": "Real-time cryptocurrency news aggregator providing market analysis and insights"
-    }
-    </script>
-
-    <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5523870768931777"
-        crossorigin="anonymous"></script>
-
+    {{ partial "head.html" . }}
     <style>
+        /* Use the same styles from homepage */
         * {
             margin: 0;
             padding: 0;
@@ -231,11 +190,13 @@
             transition: width 0.3s;
         }
 
-        .nav-links a:hover {
+        .nav-links a:hover,
+        .nav-links a.active {
             color: var(--accent-green);
         }
 
-        .nav-links a:hover::after {
+        .nav-links a:hover::after,
+        .nav-links a.active::after {
             width: 100%;
         }
 
@@ -355,30 +316,14 @@
             transform: translateY(-50%) scale(1.1);
         }
 
-        /* Google AdSense Placeholder */
-        .ad-container {
-            max-width: 1400px;
-            margin: 2rem auto;
-            padding: 0 2rem;
-            text-align: center;
+        /* Blog Section */
+        .blog-section {
+            background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(78, 205, 196, 0.1));
+            padding: 3rem 0;
+            margin-bottom: 3rem;
         }
 
-        .ad-placeholder {
-            background: rgba(255, 255, 255, 0.05);
-            border: 2px dashed rgba(255, 255, 255, 0.2);
-            border-radius: 12px;
-            padding: 2rem;
-            margin: 2rem 0;
-            min-height: 100px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-        }
-
-        /* News Grid */
-        .news-container {
+        .blog-container {
             max-width: 1400px;
             margin: 0 auto;
             padding: 0 2rem;
@@ -419,6 +364,100 @@
         .view-all:hover {
             color: var(--accent-green);
             transform: translateX(5px);
+        }
+
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+
+        .blog-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+            position: relative;
+            border: 1px solid transparent;
+        }
+
+        .blog-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--secondary-color);
+            box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
+        }
+
+        .blog-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary-color), var(--accent-gold));
+            opacity: 1;
+        }
+
+        .blog-card-content {
+            padding: 1.5rem;
+        }
+
+        .blog-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        .author-badge {
+            background: rgba(255, 215, 0, 0.1);
+            color: var(--accent-gold);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+
+        .blog-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+            line-height: 1.4;
+            transition: color 0.3s;
+        }
+
+        .blog-card:hover .blog-title {
+            color: var(--accent-gold);
+        }
+
+        .blog-excerpt {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+
+        .read-more {
+            color: var(--secondary-color);
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s;
+        }
+
+        .read-more:hover {
+            color: var(--accent-green);
+            transform: translateX(5px);
+        }
+
+        /* News Grid */
+        .news-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
         }
 
         .news-grid {
@@ -599,6 +638,14 @@
             color: var(--accent-red);
         }
 
+        /* Ad Container */
+        .ad-container {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+            text-align: center;
+        }
+
         /* Footer */
         footer {
             background: var(--card-bg);
@@ -679,7 +726,8 @@
                 font-size: 2.5rem;
             }
 
-            .news-grid {
+            .news-grid,
+            .blog-grid {
                 grid-template-columns: 1fr;
             }
 
@@ -705,12 +753,13 @@
                 <span class="logo-text">BlockwireNews</span>
             </a>
             <ul class="nav-links">
+                <li><a href="{{ .Site.BaseURL }}blog" class="active">Blog</a></li>
                 <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin</a></li>
                 <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum</a></li>
                 <li><a href="{{ .Site.BaseURL }}defi">DeFi</a></li>
                 <li><a href="{{ .Site.BaseURL }}nft">NFTs</a></li>
                 <li><a href="{{ .Site.BaseURL }}analysis">Analysis</a></li>
-                <li><a href="{{ .Site.BaseURL }}learn">Learn</a></li>
+                <li><a href="{{ .Site.BaseURL }}all-news">All News</a></li>
             </ul>
         </nav>
     </header>
@@ -731,20 +780,80 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <h1>Real-Time Crypto News Aggregator</h1>
-        <p>Stay ahead with curated cryptocurrency news from top sources worldwide</p>
+        <h1>Crypto Insights & Analysis</h1>
+        <p>Expert analysis, market insights, and in-depth cryptocurrency guides</p>
 
         <!-- Search Bar -->
         <div class="search-container">
-            <input type="search" class="search-bar" placeholder="Search for Bitcoin, Ethereum, DeFi news...">
+            <input type="search" class="search-bar" placeholder="Search blog posts...">
             <button class="search-btn">🔍</button>
         </div>
     </section>
 
-    <!-- AdSense - Above the fold -->
+    <!-- Blog Posts Section -->
+    <section class="blog-section">
+        <div class="blog-container">
+            <div class="section-header">
+                <h2 class="section-title">📝 Latest Blog Posts</h2>
+                <a href="{{ .Site.BaseURL }}blog/archive" class="view-all">View Archive →</a>
+            </div>
+
+            <div class="blog-grid">
+                {{ $paginator := .Paginate (where .Site.RegularPages "Type" "blog") 6 }}
+                {{ range $paginator.Pages }}
+                <article class="blog-card">
+                    <div class="blog-card-content">
+                        <div class="blog-meta">
+                            <span class="author-badge">{{ .Params.author | default "BlockWireNews Team" }}</span>
+                            <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                        </div>
+                        <h3 class="blog-title">
+                            <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">
+                                {{ .Title }}
+                            </a>
+                        </h3>
+                        <p class="blog-excerpt">
+                            {{ .Summary | truncate 150 }}
+                        </p>
+                        <a href="{{ .Permalink }}" class="read-more">
+                            Read Full Article →
+                        </a>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+
+            <!-- Pagination for blog posts -->
+            {{ if gt $paginator.TotalPages 1 }}
+            <div class="pagination" style="margin-top: 3rem;">
+                {{ if $paginator.HasPrev }}
+                <a href="{{ $paginator.Prev.URL }}" class="pagination-btn">← Previous</a>
+                {{ else }}
+                <span class="pagination-btn disabled">← Previous</span>
+                {{ end }}
+
+                <div class="page-numbers">
+                    {{ range $paginator.Pagers }}
+                    <a href="{{ .URL }}" class="page-number {{ if eq . $paginator }}active{{ end }}">
+                        {{ .PageNumber }}
+                    </a>
+                    {{ end }}
+                </div>
+
+                {{ if $paginator.HasNext }}
+                <a href="{{ $paginator.Next.URL }}" class="pagination-btn">Next →</a>
+                {{ else }}
+                <span class="pagination-btn disabled">Next →</span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <!-- AdSense - Above aggregated news -->
     <div class="ad-container">
         <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
-            data-ad-slot="YOUR-AD-SLOT-ID-1" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+            data-ad-slot="YOUR-AD-SLOT-ID-BLOG-1" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
@@ -779,7 +888,7 @@
     <!-- Featured Section -->
     <section class="news-container">
         <div class="featured-section">
-            <h2 class="section-title">🔥 Trending Now</h2>
+            <h2 class="section-title">🔥 Trending Crypto News</h2>
             <div class="news-grid" id="featured-news">
                 <!-- Featured news will be loaded here -->
             </div>
@@ -801,7 +910,7 @@
     <!-- AdSense - Mid content -->
     <div class="ad-container">
         <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
-            data-ad-slot="YOUR-AD-SLOT-ID-2" data-ad-format="rectangle" data-full-width-responsive="true"></ins>
+            data-ad-slot="YOUR-AD-SLOT-ID-BLOG-2" data-ad-format="rectangle" data-full-width-responsive="true"></ins>
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
@@ -896,7 +1005,7 @@
     <!-- AdSense - Footer -->
     <div class="ad-container">
         <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
-            data-ad-slot="YOUR-AD-SLOT-ID-3" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+            data-ad-slot="YOUR-AD-SLOT-ID-BLOG-3" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
@@ -1078,20 +1187,6 @@
         // Display news on page load
         document.addEventListener('DOMContentLoaded', displayNews);
 
-        // Note: Since the data is rendered server-side, it won't auto-refresh
-        // To get fresh data, the page needs to be reloaded or you'll need an API endpoint
-
-        // Smooth scroll for anchor links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({ behavior: 'smooth' });
-                }
-            });
-        });
-
         // Search functionality
         const searchBar = document.querySelector('.search-bar');
         const searchBtn = document.querySelector('.search-btn');
@@ -1099,7 +1194,7 @@
         searchBtn.addEventListener('click', () => {
             const query = searchBar.value.trim();
             if (query) {
-                window.location.href = `{{ .Site.BaseURL }}search?q=${encodeURIComponent(query)}`;
+                window.location.href = `{{ .Site.BaseURL }}search?q=${encodeURIComponent(query)}&type=blog`;
             }
         });
 
