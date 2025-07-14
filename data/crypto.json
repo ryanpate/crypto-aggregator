@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin\u2019s Mysterious Creator Is (Almost) the World\u2019s 10th Richest Person",
+      "link": "https://www.coindesk.com/markets/2025/07/14/bitcoins-mysterious-creator-is-almost-the-worlds-10th-richest-person",
+      "summary": ""
+    },
+    {
+      "title": "Aptos' APT Gains 4.5% After High Volume Bullish Breakout",
+      "link": "https://www.coindesk.com/markets/2025/07/14/aptos-apt-gains-45-after-high-volume-bullish-breakout",
+      "summary": ""
+    },
+    {
       "title": "DOGE Advances 5% on Late-Session Rally as Whale Activity Returns",
       "link": "https://www.coindesk.com/markets/2025/07/14/doge-advances-5-on-late-session-rally-as-whale-activity-returns",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Bearish Bitcoin Trader Loses $92M as Surge Wipes Out $426M in Short Liquidations",
       "link": "https://www.coindesk.com/markets/2025/07/14/bearish-bitcoin-trader-loses-92m-as-surge-wipes-out-426m-in-short-liquidations",
       "summary": ""
-    },
-    {
-      "title": "XRP Rallies 8% on Rising Institutional Bid, Eyes $3.40 After 'Triangle Breakout'",
-      "link": "https://www.coindesk.com/markets/2025/07/14/xrp-rallies-8-on-rising-institutional-bid-eyes-340-after-triangle-breakout",
-      "summary": ""
-    },
-    {
-      "title": "Trump Collaborator, Bill Zanker, Downplays Wallet Kerfuffle",
-      "link": "https://www.coindesk.com/policy/2025/07/14/trump-collaborator-bill-zanker-downplays-wallet-kerfuffle",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "BTC price in &#039;crisis mode&#039; at $123K: 5 things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/news/btc-price-in-crisis-mode-at-123k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY4MDItNmJkOC03Zjk1LTk2OTUtOGMxMDU3N2Q1NmRh.jpg\" /></p><p>Bitcoin price tailwinds are accelerating as new all-time highs start the week \u2014 a major US debt crisis is being priced in.</p>"
+    },
+    {
+      "title": "Tax season vs tax year: What\u2019s the difference?",
+      "link": "https://cointelegraph.com/explained/tax-season-vs-tax-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mZmQ3ZGI3ODMxOGI2NmZjY2ExMmMyOTUyYjNhOTAzMS5qcGc=.jpg\" /></p><p> Understanding the distinction between tax season and tax year is crucial for managing deadlines and avoiding penalties. </p>"
+    },
     {
       "title": "Tornado Cash\u2019s Roman Storm makes urgent plea for $500K as trial looms",
       "link": "https://cointelegraph.com/news/tornado-cash-roman-storm-urgent-plea-500k-ahead-trial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +51,6 @@
       "title": "\u2018100-bagger\u2019 \u2014 Ethereum could hit $1.5M over time: EMJ Capital",
       "link": "https://cointelegraph.com/news/ethereum-could-gain-100-fold-hitting-over-1-million-emj-capital-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUzOGQtMWE5OS03MzlhLTg2MDUtNmQ4ZTYyN2VhYjZh.jpg\" /></p><p>EMJ Capital founder Eric Jackson says approved Ether staking ETFs could kick off a rally that could see it rise by more than 100-fold and eventually hit $1.5 million per token.</p>"
-    },
-    {
-      "title": "Jack Dorsey\u2019s new app tracks how much grass you\u2019re touching",
-      "link": "https://cointelegraph.com/news/jack-dorsey-new-app-tracks-how-much-grass-touching?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA3MzQtNzA0MC03MzI1LTliMTctOWZlYjM2MjdiYTc3.jpg\" /></p><p>Sun Day is the second app that the Twitter co-founder has launched in the last week, and it was built using Block\u2019s artificial intelligence assistant, Goose.</p>"
-    },
-    {
-      "title": "Controversial Bitcoin upgrade BIP-119 may be decided by end of year",
-      "link": "https://cointelegraph.com/news/bitcoin-upgrade-bip119-decided-end-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y5MmUtYzgwOS03NTE0LWFhZjUtYzMzYmUzMzg0OGVi.jpg\" /></p><p>If activated, BIP-119 could boost Bitcoin layer 2s like the Lightning Network and Ark while offering end-users safer and easier self-custody solutions.</p>"
     }
   ],
   "CryptoSlate": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Bitcoin hits fresh all-time high past $122K, eyes $125K liquidity sweep already",
+      "link": "https://ambcrypto.com/bitcoin-hits-fresh-all-time-high-past-122k-eyes-125k-liquidity-sweep-already/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-14.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />BTC smashes $122k without overheating. Here\u2019s why the rally has legs."
+    },
+    {
       "title": "XRP\u2019s price surges past $2.6, but should you look out for THESE strong inflows?",
       "link": "https://ambcrypto.com/xrps-price-surges-past-2-6-but-should-you-look-out-for-these-strong-inflows/",
       "summary": "<img alt=\"XRP&#039;s price surges past $2.6, but should you look out for THESE strong inflows?\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/XRP-Featured-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />XRP saw a high timeframe breakout from a symmetrical triangle."
@@ -208,11 +213,6 @@
       "title": "Bitcoin\u2019s current rally is fueled by stablecoins, but reserves are drying up",
       "link": "https://ambcrypto.com/bitcoins-current-rally-is-fueled-by-stablecoins-but-reserves-are-drying-up/",
       "summary": "<img alt=\"Bitcoin&#039;s current rally is fueled by stablecoins, but reserves are drying up\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Erastus-2025-07-13T144919.778-1.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Bitcoin\u2019s breakout faces mixed signals as volume cools and valuation ratios flash overbought warnings."
-    },
-    {
-      "title": "Ethereum\u2019s Wall Street moment: Why ETH traders are clued into $2.8K",
-      "link": "https://ambcrypto.com/ethereums-wall-street-moment-why-eth-traders-are-clued-into-2-8k/",
-      "summary": "<img alt=\"Ethereum\u2019s Wall Street moment: Why traders are clued into $2.8K\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ethereum-Featured-2.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders could look to bet on further gains for Ethereum!"
     }
   ]
 }
