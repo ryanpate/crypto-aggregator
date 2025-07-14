@@ -6,7 +6,8 @@ theme = 'ananke'
 # URL Settings
 canonifyURLs = true
 relativeURLs = false
-paginate = 12
+[pagination]
+  paginate = 12
 
 # Enable robots.txt
 enableRobotsTXT = true
