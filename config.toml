@@ -1,13 +1,12 @@
 baseURL = 'https://www.blockwirenews.com/'
 languageCode = 'en-us'
 title = 'BlockWireNews - Real-Time Cryptocurrency News & Market Analysis'
-theme = 'ananke'
+# theme = 'ananke'  # Removed theme to use custom templates
 
 # URL Settings
 canonifyURLs = true
 relativeURLs = false
-[pagination]
-  paginate = 12
+paginate = 12
 
 # Enable robots.txt
 enableRobotsTXT = true
@@ -43,6 +42,11 @@ enableRobotsTXT = true
   favicon = "/favicon.ico"
   site_logo = "/logo.png"
   twitter_cards = true
+  
+  # Ananke theme specific - disable custom CSS compilation
+  ananke_socials = []
+  custom_css = []
+  disable_theme_css = false
   
   # Social Media
   twitter = "https://twitter.com/blockwirenews"

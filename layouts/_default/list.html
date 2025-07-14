@@ -1,31 +1,47 @@
 {{ define "main" }}
-<div class="container mt-6">
-    <h1 class="title has-text-centered">Crypto News Aggregator</h1>
-
-    {{ $all := .Site.Data.crypto }}
-    {{ if not $all }}
-    <div class="notification is-warning has-text-centered" style="margin-top: 1rem;">
-        ⚠️ No data found in .Site.Data.crypto
-    </div>
-    {{ else }}
-    {{ range $source, $articles := $all }}
-    <section class="section">
-        <h2 class="subtitle">{{ $source }}</h2>
-        {{ if not (len $articles) }}
-        <p><em>No articles for {{ $source }}</em></p>
-        {{ end }}
-        <ul>
-            {{ range $articles }}
-            <li style="margin-bottom: 1rem;">
-                <a href="{{ .link }}" target="_blank">{{ .title }}</a>
-                {{ if .summary }}
-                <p class="is-size-7">{{ .summary | safeHTML }}</p>
-                {{ end }}
-            </li>
+<section class="list-page">
+    <div class="container">
+        <header class="page-header">
+            <h1>{{ .Title }}</h1>
+            {{ with .Content }}
+                <div class="page-description">{{ . }}</div>
             {{ end }}
-        </ul>
-    </section>
-    {{ end }}
-    {{ end }}
-</div>
+        </header>
+        
+        <div class="articles-list">
+            {{ $paginator := .Paginate .Pages 12 }}
+            {{ range $paginator.Pages }}
+            <article class="list-item">
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <div class="item-meta">
+                    <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                        {{ .Date.Format "Jan 2, 2006" }}
+                    </time>
+                </div>
+                {{ with .Summary }}
+                    <p>{{ . }}</p>
+                {{ end }}
+                <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+            </article>
+            {{ end }}
+        </div>
+        
+        <!-- Pagination -->
+        {{ if gt $paginator.TotalPages 1 }}
+        <nav class="pagination">
+            {{ if $paginator.HasPrev }}
+                <a href="{{ $paginator.Prev.URL }}" class="prev">← Previous</a>
+            {{ end }}
+            
+            <span class="page-info">
+                Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+            </span>
+            
+            {{ if $paginator.HasNext }}
+                <a href="{{ $paginator.Next.URL }}" class="next">Next →</a>
+            {{ end }}
+        </nav>
+        {{ end }}
+    </div>
+</section>
 {{ end }}

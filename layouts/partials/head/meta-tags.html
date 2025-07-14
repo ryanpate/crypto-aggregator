@@ -1,0 +1,4 @@
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="keywords" content="{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}{{ else }}cryptocurrency news, bitcoin, ethereum, blockchain{{ end }}">
+<meta name="author" content="{{ .Site.Title }}">
+<meta name="robots" content="index, follow">

@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="post-list">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        
+        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+        <div class="posts">
+            {{ range $paginator.Pages }}
+            <article class="post-summary">
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <time>{{ .Date.Format "January 2, 2006" }}</time>
+                {{ with .Summary }}
+                <p>{{ . }}</p>
+                {{ end }}
+                <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+            </article>
+            {{ end }}
+        </div>
+        
+        {{ if gt $paginator.TotalPages 1 }}
+        <nav class="pagination">
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}">← Previous</a>
+            {{ end }}
+            
+            <span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+            
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}">Next →</a>
+            {{ end }}
+        </nav>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
