@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    {{- partial "head/meta-tags.html" . -}}
+    
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
+    
+    {{- partial "head/schema.html" . -}}
+    {{- partial "head/opengraph.html" . -}}
+    {{- partial "head/twitter-cards.html" . -}}
+    
+    {{ block "head" . }}{{ end }}
+    
+    <!-- Google Analytics -->
+    {{ if .Site.Params.google_analytics_id }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.google_analytics_id }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.google_analytics_id }}');
+    </script>
+    {{ end }}
+    
+    <!-- AdSense -->
+    {{ if .Site.Params.google_adsense_id }}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.google_adsense_id }}"
+         crossorigin="anonymous"></script>
+    {{ end }}
+</head>
+<body>
+    <!-- Skip to content -->
+    <a href="#main" class="skip-to-content">Skip to main content</a>
+    
+    <!-- Animated Background -->
+    <div class="bg-animation"></div>
+    
+    <!-- Floating Coins -->
+    <div class="floating-coins" id="floatingCoins"></div>
+    
+    {{- partial "header.html" . -}}
+    
+    <main id="main">
+        {{- block "main" . }}{{- end }}
+    </main>
+    
+    {{- partial "footer.html" . -}}
+    
+    <!-- Scripts -->
+    <script src="{{ "js/main.js" | relURL }}"></script>
+    
+    <!-- Floating coins script -->
+    <script>
+        const floatingCoins = document.getElementById('floatingCoins');
+        const coinEmojis = ['₿', 'Ξ', '◈', '🪙', '💎'];
+        
+        for (let i = 0; i < 15; i++) {
+            const coin = document.createElement('div');
+            coin.className = 'coin';
+            coin.textContent = coinEmojis[Math.floor(Math.random() * coinEmojis.length)];
+            coin.style.left = Math.random() * 100 + '%';
+            coin.style.animationDelay = Math.random() * 20 + 's';
+            coin.style.animationDuration = (20 + Math.random() * 10) + 's';
+            floatingCoins.appendChild(coin);
+        }
+    </script>
+    
+    {{ block "scripts" . }}{{ end }}
+</body>
+</html>
