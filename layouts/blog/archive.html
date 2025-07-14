@@ -650,8 +650,8 @@
     <!-- Blog Archive Grid -->
     <section class="archive-container">
         <div class="archive-grid" id="archiveGrid">
-            {{ $paginator := .Paginate (where .Site.RegularPages "Type" "blog") 12 }}
-            {{ range $paginator.Pages }}
+            {{ $blogPosts := where .Site.RegularPages "Type" "blog" }}
+            {{ range $blogPosts }}
             <article class="archive-card" data-category="{{ with .Params.categories }}{{ index . 0 | urlize }}{{ end }}"
                 data-author="{{ .Params.author | urlize }}" data-year="{{ .Date.Format " 2006" }}"
                 data-title="{{ .Title | lower }}" data-date="{{ .Date.Unix }}">
@@ -687,39 +687,12 @@
         </div>
     </section>
 
-    <!-- Pagination -->
-    {{ if gt $paginator.TotalPages 1 }}
-    <div class="pagination">
-        {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="pagination-btn">← Previous</a>
-        {{ else }}
-        <span class="pagination-btn disabled">← Previous</span>
-        {{ end }}
-
-        <div class="page-numbers">
-            {{ range $paginator.Pagers }}
-            {{ if le .PageNumber 5 }}
-            <a href="{{ .URL }}" class="page-number {{ if eq . $paginator }}active{{ end }}">
-                {{ .PageNumber }}
-            </a>
-            {{ end }}
-            {{ end }}
-
-            {{ if gt $paginator.TotalPages 5 }}
-            <span style="color: var(--text-secondary);">...</span>
-            <a href="{{ $paginator.Last.URL }}" class="page-number">
-                {{ $paginator.TotalPages }}
-            </a>
-            {{ end }}
-        </div>
-
-        {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}" class="pagination-btn">Next →</a>
-        {{ else }}
-        <span class="pagination-btn disabled">Next →</span>
-        {{ end }}
+    <!-- Client-side Pagination -->
+    <div class="pagination" id="paginationContainer" style="display: none;">
+        <button class="pagination-btn" id="prevBtn">← Previous</button>
+        <div class="page-numbers" id="pageNumbers"></div>
+        <button class="pagination-btn" id="nextBtn">Next →</button>
     </div>
-    {{ end }}
 
     <!-- AdSense - Bottom -->
     <div class="ad-container">
@@ -742,8 +715,15 @@
             const categoryFilter = document.getElementById('categoryFilter');
             const sortFilter = document.getElementById('sortFilter');
             const yearFilter = document.getElementById('yearFilter');
+            const paginationContainer = document.getElementById('paginationContainer');
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const pageNumbers = document.getElementById('pageNumbers');
 
             const allCards = Array.from(archiveGrid.querySelectorAll('.archive-card'));
+            const itemsPerPage = 12;
+            let currentPage = 1;
+            let filteredCards = [...allCards];
 
             // Filter and sort function
             function filterAndSort() {
@@ -753,7 +733,7 @@
                 const selectedYear = yearFilter.value;
 
                 // Filter cards
-                let filteredCards = allCards.filter(card => {
+                filteredCards = allCards.filter(card => {
                     const matchesSearch = !searchTerm ||
                         card.dataset.title.includes(searchTerm) ||
                         card.dataset.author.includes(searchTerm) ||
@@ -782,17 +762,64 @@
                     }
                 });
 
-                // Update display
-                archiveGrid.innerHTML = '';
-                if (filteredCards.length > 0) {
-                    filteredCards.forEach(card => archiveGrid.appendChild(card));
-                    noResults.style.display = 'none';
-                } else {
-                    noResults.style.display = 'block';
-                }
+                // Reset to first page
+                currentPage = 1;
+                displayPage();
 
                 // Update stats
                 document.getElementById('totalPosts').textContent = filteredCards.length;
+            }
+
+            // Display current page
+            function displayPage() {
+                const totalPages = Math.ceil(filteredCards.length / itemsPerPage);
+                const startIndex = (currentPage - 1) * itemsPerPage;
+                const endIndex = startIndex + itemsPerPage;
+                const pageCards = filteredCards.slice(startIndex, endIndex);
+
+                // Update display
+                archiveGrid.innerHTML = '';
+                if (pageCards.length > 0) {
+                    pageCards.forEach(card => archiveGrid.appendChild(card.cloneNode(true)));
+                    noResults.style.display = 'none';
+                    paginationContainer.style.display = totalPages > 1 ? 'flex' : 'none';
+                    updatePagination(totalPages);
+                } else {
+                    noResults.style.display = 'block';
+                    paginationContainer.style.display = 'none';
+                }
+            }
+
+            // Update pagination controls
+            function updatePagination(totalPages) {
+                // Update buttons
+                prevBtn.disabled = currentPage === 1;
+                prevBtn.classList.toggle('disabled', currentPage === 1);
+                nextBtn.disabled = currentPage === totalPages;
+                nextBtn.classList.toggle('disabled', currentPage === totalPages);
+
+                // Update page numbers
+                pageNumbers.innerHTML = '';
+                const maxVisible = 5;
+                let start = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+                let end = Math.min(totalPages, start + maxVisible - 1);
+
+                if (end - start < maxVisible - 1) {
+                    start = Math.max(1, end - maxVisible + 1);
+                }
+
+                // Add page buttons
+                for (let i = start; i <= end; i++) {
+                    const pageBtn = document.createElement('button');
+                    pageBtn.className = `page-number ${i === currentPage ? 'active' : ''}`;
+                    pageBtn.textContent = i;
+                    pageBtn.onclick = () => {
+                        currentPage = i;
+                        displayPage();
+                        archiveGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    };
+                    pageNumbers.appendChild(pageBtn);
+                }
             }
 
             // Event listeners
@@ -806,12 +833,33 @@
             sortFilter.addEventListener('change', filterAndSort);
             yearFilter.addEventListener('change', filterAndSort);
 
+            // Pagination buttons
+            prevBtn.addEventListener('click', () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayPage();
+                    archiveGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
+
+            nextBtn.addEventListener('click', () => {
+                const totalPages = Math.ceil(filteredCards.length / itemsPerPage);
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayPage();
+                    archiveGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
+
             // Clear search
             searchInput.addEventListener('input', function () {
                 if (this.value === '') {
                     filterAndSort();
                 }
             });
+
+            // Initial display
+            filterAndSort();
         });
     </script>
 </body>
