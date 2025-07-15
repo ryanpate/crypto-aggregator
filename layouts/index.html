@@ -8,9 +8,8 @@
     <title>{{ .Title }} - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
 
     <!-- SEO Meta Tags -->
-    <meta name="description" content="{{ .Description | default " Get real-time cryptocurrency news, market analysis,
-        and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi,
-        NFT updates 24/7." }}">
+    <meta name="description"
+        content="{{ .Description | default `Get real-time cryptocurrency news, market analysis, and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi, NFT updates 24/7.` }}">
     <meta name="keywords"
         content="cryptocurrency news, bitcoin news, ethereum updates, crypto market analysis, blockchain news, defi news, nft news, crypto price predictions, digital currency, altcoin news">
     <meta name="author" content="BlockwireNews">
@@ -19,8 +18,8 @@
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="{{ .Title }} - Real-Time Cryptocurrency News Aggregator">
-    <meta property="og:description" content="{{ .Description | default " Stay updated with the latest cryptocurrency
-        news, market analysis, and price predictions from top crypto sources." }}">
+    <meta property="og:description"
+        content="{{ .Description | default `Stay updated with the latest cryptocurrency news, market analysis, and price predictions from top crypto sources.` }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:image" content="{{ .Site.BaseURL }}images/og-image.jpg">
@@ -28,8 +27,8 @@
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ .Title }} - Crypto News Aggregator">
-    <meta name="twitter:description" content="{{ .Description | default " Real-time cryptocurrency news and market
-        analysis" }}">
+    <meta name="twitter:description"
+        content="{{ .Description | default `Real-time cryptocurrency news and market analysis` }}">
 
     <!-- Schema.org Markup -->
     <script type="application/ld+json">
