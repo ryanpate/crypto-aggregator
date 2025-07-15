@@ -178,4 +178,146 @@
                 <div class="card-tags">
                     <span class="tag">Tether</span>
                     <span class="tag">DeFi</span>
-                    <span class="tag">Scalability</sp
+                    <span class="tag">Scalability</span>
+                </div>
+            </div>
+        </article>
+
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">AMBCrypto</span>
+                    <time>5 hours ago</time>
+                </div>
+                <h3 class="card-title">AVAX Bulls Target $20 Resistance as DeFi TVL Reaches New Heights</h3>
+                <p class="card-excerpt">AVAX bulls mean business! But if $20 cracks, this rally might unravel faster
+                    than expected.</p>
+                <div class="card-tags">
+                    <span class="tag">Avalanche</span>
+                    <span class="tag">DeFi</span>
+                    <span class="tag">TVL</span>
+                </div>
+            </div>
+        </article>
+
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">CryptoSlate</span>
+                    <time>6 hours ago</time>
+                </div>
+                <h3 class="card-title">Pump.fun Raises $600M in 12 Minutes for Memecoin Platform Token</h3>
+                <p class="card-excerpt">The rapid sell-out and price surge of PUMP tokens highlight strong investor
+                    interest in meme coin markets.</p>
+                <div class="card-tags">
+                    <span class="tag">Memecoins</span>
+                    <span class="tag">ICO</span>
+                    <span class="tag">Funding</span>
+                </div>
+            </div>
+        </article>
+    </div>
+</section>
+
+<!-- Blog Posts Section -->
+<section class="blog-section">
+    <div class="blog-container">
+        <div class="section-header">
+            <h2 class="section-title">📝 Latest Analysis & Insights</h2>
+            <a href="{{ .Site.BaseURL }}blog/" class="view-all">View All Posts →</a>
+        </div>
+
+        <div class="blog-grid">
+            {{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+            <article class="blog-card">
+                <div class="blog-card-content">
+                    <div class="blog-meta">
+                        <span class="author-badge">{{ .Params.author | default "BlockWireNews Team" }}</span>
+                        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                    </div>
+                    <h3 class="blog-title">
+                        <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">
+                            {{ .Title }}
+                        </a>
+                    </h3>
+                    <p class="blog-excerpt">
+                        {{ .Summary | truncate 150 }}
+                    </p>
+                    <a href="{{ .Permalink }}" class="read-more">
+                        Read Full Article →
+                    </a>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Newsletter Signup -->
+<section class="news-container">
+    <div class="featured-section" style="text-align: center;">
+        <h2 style="margin-bottom: 1rem;">📧 Never Miss a Crypto Update</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to your
+            inbox</p>
+        <form style="max-width: 500px; margin: 0 auto;" id="newsletter-form">
+            <div style="display: flex; gap: 1rem;">
+                <input type="email" placeholder="Enter your email" required
+                    style="flex: 1; padding: 1rem; background: var(--dark-bg); border: 2px solid var(--secondary-color); border-radius: 8px; color: var(--text-primary);">
+                <button type="submit"
+                    style="padding: 1rem 2rem; background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); border: none; border-radius: 8px; color: white; font-weight: bold; cursor: pointer; transition: transform 0.3s;">Subscribe</button>
+            </div>
+        </form>
+    </div>
+</section>
+
+<!-- AdSense - Footer -->
+<div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
+        data-ad-slot="YOUR-AD-SLOT-ID-HOME-3" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+<script>
+    // Search functionality
+    document.addEventListener('DOMContentLoaded', function () {
+        const searchBar = document.querySelector('.search-bar');
+        const searchBtn = document.querySelector('.search-btn');
+
+        if (searchBtn && searchBar) {
+            searchBtn.addEventListener('click', () => {
+                const query = searchBar.value.trim();
+                if (query) {
+                    window.location.href = `{{ .Site.BaseURL }}search/?q=${encodeURIComponent(query)}`;
+                }
+            });
+
+            searchBar.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    searchBtn.click();
+                }
+            });
+        }
+
+        // Newsletter form
+        const newsletterForm = document.getElementById('newsletter-form');
+        if (newsletterForm) {
+            newsletterForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                alert('Thank you for subscribing! You will receive our daily crypto updates.');
+                newsletterForm.reset();
+            });
+        }
+    });
+
+    // Dynamic time updates
+    function updateRelativeTimes() {
+        const timeElements = document.querySelectorAll('time');
+        // This is a placeholder - in production, calculate actual relative times
+    }
+
+    // Update times every minute
+    setInterval(updateRelativeTimes, 60000);
+</script>
+{{ end }}
