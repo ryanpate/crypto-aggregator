@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify --verbose"
+  command = "hugo --verbose"
 
 [build.environment]
   HUGO_VERSION = "0.121.1"
@@ -9,10 +9,6 @@
 [context.production.environment]
   HUGO_VERSION = "0.121.1"
   
-# IMPORTANT: Tell Netlify to use Hugo Extended
-[[plugins]]
-  package = "netlify-plugin-hugo-cache"
-
 [build.processing]
   skip_processing = false
   
