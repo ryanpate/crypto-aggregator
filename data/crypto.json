@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "Filecoin Plunges 6% as Selling Pressure Increases, Crypto Market Retracts",
+      "link": "https://www.coindesk.com/markets/2025/07/15/filecoin-plunges-6-as-selling-pressure-increases-crypto-markets-retracts",
+      "summary": ""
+    },
+    {
+      "title": "Function Raises $10M to Bring Yield to Bitcoin; Gets Backing From Galaxy Digital, Antalpha, and Mantle",
+      "link": "https://www.coindesk.com/business/2025/07/15/function-raises-10m-to-bring-yield-to-bitcoin-gets-backing-from-galaxy-digital-antalpha-and-mantle",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin's Volatility Will Continue to Decline as Adoption Grows: Deutsche Bank",
       "link": "https://www.coindesk.com/markets/2025/07/15/bitcoins-volatility-will-continue-to-decline-as-adoption-grows-deutsche-bank",
       "summary": ""
@@ -14,19 +24,19 @@
       "title": "Bitcoin Rally Stalls as Long-Term Holders Cash Out",
       "link": "https://www.coindesk.com/markets/2025/07/15/bitcoin-rally-stalls-as-long-term-holders-cash-out",
       "summary": ""
-    },
-    {
-      "title": "Standard Chartered Says It\u2019s the First Global Bank to Offer Spot Bitcoin, Ether Trading",
-      "link": "https://www.coindesk.com/business/2025/07/15/standard-chartered-says-it-s-the-first-global-bank-to-offer-spot-bitcoin-and-ether-trading",
-      "summary": ""
-    },
-    {
-      "title": "Strategy Bears Cave In as Anti-MSTR Leveraged ETF Hits Rock Bottom",
-      "link": "https://www.coindesk.com/markets/2025/07/15/strategy-bears-cave-in-as-anti-mstr-leveraged-etf-hits-rock-bottom",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "MARA follows Saylor\u2019s playbook with Two Prime deal, BTC allocation grows",
+      "link": "https://cointelegraph.com/news/mara-holdings-acquires-stake-two-prime-expands-bitcoin-yield-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDUxZjMtNDU0ZS03ZWJkLTkwYzEtMWU3N2Y5MTQwNzRm.jpg\" /></p><p>MARA Holdings has acquired an equity stake in Two Prime, which includes an allocation of 2,000 BTC for its yield strategy.</p>"
+    },
+    {
+      "title": "Debunked: Pump.fun\u2019s $500M presale funds are not locked",
+      "link": "https://cointelegraph.com/news/pump-fun-500m-presale-tokens-not-locked-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2YWUtYzRmYy03NmQzLWI2NWItMmIzZThhNDM4ZmEw.jpg\" /></p><p>Spreading claims that Pump.fun\u2019s $500 million presale tokens are locked due to a missing withdrawal function are false.</p>"
+    },
     {
       "title": "Ethereum DeFi connects to TON and Telegram with Tac mainnet launch",
       "link": "https://cointelegraph.com/news/tac-mainnet-launch-evm-dapps-ton-telegram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,19 +51,14 @@
       "title": "Bitcoin speculators\u2019 record cost basis boosts $100K support as BTC dives",
       "link": "https://cointelegraph.com/news/bitcoin-speculators-record-cost-basis-boosts-100k-support-btc-dives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNmZjAtOWVjNC03MDJmLWI0YmMtYzFjNTc3MmQxY2Iy.jpg\" /></p><p>Bitcoin now has added support at the $100,000 mark as a mass profit-taking takes over speculators, whales and \"diamond hands\" alike.</p>"
-    },
-    {
-      "title": "Bitcoin price drop to $114K possible as BTC whales take profits",
-      "link": "https://cointelegraph.com/news/bitcoin-price-drop-114k-possible-whales-take-profits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmYTYtOWZiMC03ZWI1LTgzYWItMDcxNzk3ZDc4OWE1.jpg\" /></p><p>Bitcoin is at risk of a deeper correction to fill the CME futures gap down to $114,000, fueled by profit-taking from whales.</p>"
-    },
-    {
-      "title": "South Korean court clears Wemade ex-CEO in Wemix manipulation case",
-      "link": "https://cointelegraph.com/news/wemade-wemix-jang-hyun-guk-acquitted-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZmYtMGQ2YS03NDQyLWI0ODItMmY2YTllMGExOTVk.jpg\" /></p><p>After nearly a year of legal proceedings, a South Korean court acquitted former Wemade CEO Jang Hyun-guk of market manipulation charges.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Coinbase\u2019s $100 billion milestone sparks trillion-dollar company speculation",
+      "link": "https://cryptoslate.com/coinbases-100-billion-milestone-sparks-trillion-dollar-company-speculation/",
+      "summary": "<p>Coinbase has crossed a significant milestone, reaching a market capitalization of over $100 billion amid renewed momentum across the crypto sector. According to Google Finance data, shares of Coinbase (COIN) reached a new all-time high of $398.50 during trading hours on July 14. However, the stock&#8217;s value ended the day at around $394, reflecting a [&#8230;]</p> <p>"
+    },
     {
       "title": "Ripple expands RLUSD globally as US Fedwire shift and EU MiCA compliance align",
       "link": "https://cryptoslate.com/ripple-expands-rlusd-globally-as-us-fedwire-shift-and-eu-mica-compliance-align/",
@@ -73,14 +78,14 @@
       "title": "PUMP debuts at $5.6B FDV, logs $34M volume within first 3 hours",
       "link": "https://cryptoslate.com/pump-debuts-at-5-6b-fdv-logs-34m-volume-within-first-3-hours/",
       "summary": "<p>Pump.fun\u2019s PUMP token opened at a fully diluted valuation (FDV) of roughly $5.6 billion on July 14 and fell 7.3% within the first three hours of trading, according to DEX Screener data. The Solana-based coin changed hands at approximately $0.005128 at 20:30 UTC, implying a current FDV of nearly $5.12 billion, liquidity of $19.3 million, [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Retail accumulation absorbs fresh supply, propels Bitcoin to record highs",
-      "link": "https://cryptoslate.com/retail-accumulation-absorbs-fresh-supply-propels-bitcoin-to-record-highs/",
-      "summary": "<p>Retail investors buying long-term drove Bitcoin (BTC) out of its four-month channel between $100,000 and $110,000 to a new all-time high of $123,120, a 65% rebound from April\u2019s tariff-panic low. According to the latest Bitfinex Alpha report, the move to heavy bidding from wallets holding fewer than 100 BTC, while long-term holder selling slowed. Grassroots [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Coinbase: A Surprising Champion Of The Trump Trade, Eyes New Stock Records",
+      "link": "https://www.newsbtc.com/news/coinbase/coinbase-a-surprising-champion-of-the-trump-trade-eyes-new-stock-records/",
+      "summary": "Coinbase (COIN) is experiencing significant momentum, with its stock poised to reach a record closing high as the cryptocurrency sector enters what the White House has dubbed \u201cCrypto Week.\u201d The positive trend for the crypto industry has been notable since President Donald Trump took office, culminating in Bitcoin (BTC) hitting record highs beyond the $123,000 level on Monday. This surge is attributed to favorable legislative developments, the resolution of ongoing lawsuits with the US Securities and Exchange Commission (SEC), and the appointment of regulators who are seen as supportive of the crypto space. COIN Poised For $100 Billion Market Cap Coinbase has had an impressive start to 2025. Analysts at Ned Davis Research emphasized in a recent note that no other company seems to be benefiting as much from the current political climate as Coinbase. In Monday trading, shares of Coinbase rose by 2% to $394.79, following a record closing high of $388.96 just days earlier. The stock has jumped an impressive 63% this year and is on track to achieve a market capitalization exceeding $100 billion for the first time. Related Reading: Prepare For ATHs: \u2018XRP Train Has Left The Station \u2013 Analyst A significant turning point for Coinbase came in February when the SEC dropped a lawsuit that had been pending for two years, which accused the company of operating as an unregistered securities exchange. This victory was followed by Coinbase becoming the first cryptocurrency firm to join the S&#38;P 500, further solidifying its status in the market. Investors are particularly optimistic as Congress prepares to discuss three bills aimed at clarifying the regulatory framework surrounding the cryptocurrency sector. The legislation has garnered broad support among crypto advocates. Additionally, the SEC&#8217;s decision to move crypto oversight to its more favorable Cyber &#38; Technology unit and repeal a rule requiring financial institutions to treat crypto custody holdings as liabilities has further boosted market confidence. Positive Long-Term Outlook For Coinbase Looking ahead, analysts from Benchmark Equity Research anticipate that Coinbase will successfully petition the SEC to offer tokenized equities on its platform. CEO Brian Armstrong\u2019s \u201cclose ties to Trump\u201d are expected to play a role in this endeavor. Moreover, Coinbase is well-positioned to benefit from the Clarity Act, one of the bills under consideration, which aims to enhance institutional confidence in digital asset trading and holding. Benchmark has maintained a Buy rating for Coinbase, setting a price target of $421. However, some analysts caution that the positive developments may already be reflected in the stock\u2019s current price. Related Reading: Avalanche Shatters Record With 20M Transactions\u2014Is Real-World Use Finally Here? Owen Lau of Oppenheimer recently assessed the likelihood of the Clarity Act passing at 70% and slightly adjusted his estimates for Coinbase\u2019s trading volume ahead of the company&#8217;s earnings report scheduled for July 31. Even if the upcoming earnings release disappoints, experts believe that the underlying momentum of Coinbase will not be significantly affected. Oppenheimer has reiterated an Outperform rating, raising its price target to $417 from a previous $395. Featured image from DALL-E, chart from TradingView.com"
+    },
     {
       "title": "Ethereum Shorts Reach Record Levels, How To Stay Positioned For A Breakout",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-shorts-record/",
@@ -100,11 +105,6 @@
       "title": "Solana (SOL) Pulls Back \u2014 Can Buyers Defend The $155 Line?",
       "link": "https://www.newsbtc.com/analysis/solana-sol-pulls-back-168/",
       "summary": "Solana started a fresh increase above the $160 zone. SOL price is now correcting gains and might find bids near the $155 support zone SOL price started a fresh upward move above the $155 and $160 levels against the US Dollar. The price is now trading below $162 and the 100-hourly simple moving average. There was a break below a key bullish trend line with support at $162 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could start a fresh increase if it clears the $162 resistance zone. Solana Price Corrects Gains Solana price started a decent increase after it cleared the $160 resistance, like Bitcoin and Ethereum. SOL climbed above the $162 level to enter a short-term positive zone. However, the price is facing a major hurdle at $168 and $169. A high is formed at $168.60 and the price is now correcting gains. There was a move below the 50% Fib retracement level of the upward move from the $158 swing low to the $168 high. Besides, there was a break below a key bullish trend line with support at $162 on the hourly chart of the SOL/USD pair. Solana is now trading below $162 and the 100-hourly simple moving average. It is also trading below the 76.4% Fib retracement level of the upward move from the $158 swing low to the $168 high. The price is now approaching the $158 support. On the upside, the price is facing resistance near the $160 level. The next major resistance is near the $162 level. The main resistance could be $1685. A successful close above the $168 resistance zone could set the pace for another steady increase. The next key resistance is $178. Any more gains might send the price toward the $185 level. More Losses in SOL? If SOL fails to rise above the $162 resistance, it could start another decline. Initial support on the downside is near the $158 zone. The first major support is near the $155 level. A break below the $155 level might send the price toward the $150 zone. If there is a close below the $150 support, the price could decline toward the $145 support in the near term. Technical Indicators Hourly MACD \u2013 The MACD for SOL/USD is gaining pace in the bearish zone. Hourly Hours RSI (Relative Strength Index) \u2013 The RSI for SOL/USD is below the 50 level. Major Support Levels \u2013 $158 and $155. Major Resistance Levels \u2013 $162 and $168."
-    },
-    {
-      "title": "Spot Volume Drop on Binance Preceded Bitcoin\u2019s Price Surge, Data Shows",
-      "link": "https://www.newsbtc.com/bitcoin-news/spot-volume-drop-on-binance-preceded-bitcoins-price-surge-data-shows/",
-      "summary": "Bitcoin surged to a new all-time high above $123,000 earlier today after crossing the $120,000 threshold late Sunday night. The move has added more than 10% to its value over the past week, pushing the global cryptocurrency market valuation above $3.87 trillion, inching toward the $4 trillion mark. The current rally has reignited discussions around volume dynamics and accumulation patterns, as analysts monitor potential early signals that may influence near-term market behavior. Related Reading: Bitcoin To Reach $135,000 By September\u2019s Close, Standard Chartered Forecasts Two contributors to CryptoQuant\u2019s QuickTake platform, BorisVest and Darkfost, have highlighted technical patterns that emerged before and during Bitcoin\u2019s latest breakout. Their analyses suggest a combination of shrinking spot volume and surging accumulation activity may have played a role in driving prices higher. These insights provide a more nuanced view of the forces behind Bitcoin\u2019s recent surge, particularly at a time when market participants weigh upside potential against the possibility of volatility in uncharted price zones. Volume Drop on Binance Preceded Breakout, Analyst Says According to BorisVest, a notable collapse in spot trading volume on Binance preceded Bitcoin\u2019s move out of the $100,000 to $110,000 consolidation range. In his post titled \u201cBinance Spot Volume Collapsed Before Bitcoin\u2019s Breakout: Was It a Hidden Squeeze Signal?\u201d, he explained that declining spot volumes often represent quiet periods of either accumulation or distribution. Binance, due to its liquidity depth and user base, is seen as a reliable proxy for broader crypto market behavior. BorisVest noted that once the breakout began, trading volume spiked sharply. While such spikes can indicate local tops or bottoms, in this case, the surge in volume did not trigger a reversal but instead accelerated the rally. \u201cThat\u2019s a strong signal. If the move had no real backing, we would have seen a fast pullback. Instead, Bitcoin kept pushing higher,\u201d he wrote. He emphasized that volume acts as a roadmap for identifying zones of trade concentration and potential shifts in sentiment, cautioning that while Bitcoin\u2019s recent move appears structurally strong, market participants should be aware of the risks tied to high volatility zones. Accumulator Addresses Hit 2025 High Amid Price Surge In a separate update, CryptoQuant analyst Darkfost observed that Bitcoin \u201caccumulator addresses,\u201d wallets with a history of only buying and not selling BTC, have collectively acquired roughly 248,000 BTC in 2025 so far. This is well above the monthly average of 164,000 BTC, pointing to intensified buying activity in recent weeks. \u201cThese addresses have no history of distribution and their continued activity at current price levels indicates long-term positioning,\u201d he said. Darkfost also cautioned that if Bitcoin enters a correction or consolidation phase, some of these wallets could begin selling, which would disqualify them as accumulators and potentially introduce significant selling pressure. Related Reading: Who Flipped The Switch? Bitcoin STHs Accumulate While LTHs Take Profit At today\u2019s prices, the accumulated 248,000 BTC are worth about $30 billion. For now, however, this cohort\u2019s behavior reflects strong confidence in Bitcoin\u2019s long-term trajectory, even as the asset trades at record highs. Featured image created with DALL-E, Chart from TradingView"
     }
   ],
   "Bitcoin Magazine": [
@@ -136,6 +136,11 @@
   ],
   "Decrypt": [
     {
+      "title": "Pudgy Penguins' PENGU Token Doubles in a Week Amid ETF Hype",
+      "link": "https://decrypt.co/330150/pudgy-penguins-pengu-token-doubles-in-a-week-amid-etf-hype",
+      "summary": "The PENGU meme coin has posted one of the week\u2019s biggest gains, but questions remain over its long-term viability in the current market."
+    },
+    {
       "title": "Bitcoin Trading at Centre of High-Profile New Zealand Homicide Case",
       "link": "https://decrypt.co/330147/bitcoin-trading-high-profile-new-zealand-homicide-case",
       "summary": "Records show the New Zealand woman used fake crypto screenshots to convince her mother the investment had generated $160,000 profit."
@@ -154,11 +159,6 @@
       "title": "Rep. Maxine Waters Opines on Upcoming US Crypto Bills: 'I Told You So'",
       "link": "https://decrypt.co/330133/maxine-waters-upcoming-us-crypto-bills",
       "summary": "Rep. Maxine Waters has warned two pending crypto bills could gut consumer protections and hand more power to politically connected players."
-    },
-    {
-      "title": "Grok Went MechaHitler and Elmo Said Hold My Beer",
-      "link": "https://decrypt.co/330121/grok-mechahitler-elmo-hold-my-beer",
-      "summary": "The incident follows a previous issue with Grok last week, which began responding with hate-filled speech to users on X."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Ethereum still 39% below ATH \u2013 But 3 reasons why ETH could rally",
+      "link": "https://ambcrypto.com/ethereum-struggles-39-below-ath-3-reasons-why-eth-could-rally/",
+      "summary": "<img alt=\"Ethereum\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Gladys-45.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Could Ethereum reclaim $4,000 if institutional demand catches up with Bitcoin?"
+    },
+    {
       "title": "Institutional money floods Bitcoin \u2013 $2.7B inflows lead the charge!",
       "link": "https://ambcrypto.com/institutional-money-floods-bitcoin-2-7b-inflows-lead-the-charge/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-4-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />$3.7B in inflows, Grayscale goes IPO, and Vanguard bets on BTC-backed stocks... all while China tightens liquidity and Germany fumbles billions."
@@ -208,11 +213,6 @@
       "title": "Bitcoin missing peak euphoria DESPITE new ATH past $122K \u2013 Reasons and details!",
       "link": "https://ambcrypto.com/bitcoin-missing-peak-euphoria-despite-new-ath-past-122k-reasons-and-details/",
       "summary": "<img alt=\"Bitcoin missing peak euphoria DESPITE new ATH past $122K - Reasons and details!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Bitcoin-Featured-3.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />A few warning signs on Bitcoin's charts may be worth looking at."
-    },
-    {
-      "title": "Is altcoin season here again after Bitcoin Dominance falls by 2%?",
-      "link": "https://ambcrypto.com/is-altcoin-season-here-again-after-bitcoin-dominance-falls-by-2/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Altcoin-Season-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The altcoin market cap's breakout past the key resistance at $1.25 trillion hinted at bullish intent."
     }
   ]
 }
