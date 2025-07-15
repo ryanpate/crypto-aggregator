@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Bitcoin's Volatility Will Continue to Decline as Adoption Grows: Deutsche Bank",
+      "link": "https://www.coindesk.com/markets/2025/07/15/bitcoins-volatility-will-continue-to-decline-as-adoption-grows-deutsche-bank",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin, XRP Open Interest Nears Record High as Bull Market Pullback Unfolds",
+      "link": "https://www.coindesk.com/markets/2025/07/15/bitcoin-xrp-open-interest-nears-record-high-as-bull-market-pullback-unfolds",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin Rally Stalls as Long-Term Holders Cash Out",
+      "link": "https://www.coindesk.com/markets/2025/07/15/bitcoin-rally-stalls-as-long-term-holders-cash-out",
+      "summary": ""
+    },
+    {
       "title": "Standard Chartered Says It\u2019s the First Global Bank to Offer Spot Bitcoin, Ether Trading",
       "link": "https://www.coindesk.com/business/2025/07/15/standard-chartered-says-it-s-the-first-global-bank-to-offer-spot-bitcoin-and-ether-trading",
       "summary": ""
@@ -9,24 +24,24 @@
       "title": "Strategy Bears Cave In as Anti-MSTR Leveraged ETF Hits Rock Bottom",
       "link": "https://www.coindesk.com/markets/2025/07/15/strategy-bears-cave-in-as-anti-mstr-leveraged-etf-hits-rock-bottom",
       "summary": ""
-    },
-    {
-      "title": "XRP Tumbles 8% as Token Sees Resistance at $3 Ahead of ProShares ETF Launch",
-      "link": "https://www.coindesk.com/markets/2025/07/15/xrp-tumbles-8-as-token-sees-resistance-at-3-ahead-of-proshares-etf-launch",
-      "summary": ""
-    },
-    {
-      "title": "DOGE Plunges 10% Before Quick Recovery Rally on Institutional Volume Spike",
-      "link": "https://www.coindesk.com/markets/2025/07/15/doge-plunges-10-before-quick-recovery-rally-on-institutional-volume-spike",
-      "summary": ""
-    },
-    {
-      "title": "Dogecoin Leads Losses Among Majors as Profit-Taking Grips Crypto Market",
-      "link": "https://www.coindesk.com/markets/2025/07/15/dogecoin-leads-losses-among-majors-as-profit-taking-grips-crypto-market",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Ethereum DeFi connects to TON and Telegram with Tac mainnet launch",
+      "link": "https://cointelegraph.com/news/tac-mainnet-launch-evm-dapps-ton-telegram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBkM2YtZmQ4Ni03NjA5LTk2ZTQtMDNkNjYyN2Q2NjMz.jpg\" /></p><p>Telegram is opening up to Ethereum DeFi with the mainnet launch of Tac, a layer-1 network designed to connect EVM DApps to TON and Telegram ecosystems.</p>"
+    },
+    {
+      "title": "Satoshi-era whale moves $4.6B in Bitcoin after 14-year HODL",
+      "link": "https://cointelegraph.com/news/satoshi-era-whale-4-6b-transfer-14-year-hodl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ4MWQtYTYyYi03YzhjLTllNmYtYjI3MGQ2Y2QwNDIy.jpg\" /></p><p>The mysterious whale may be looking to cash out the transferred Bitcoin.</p>"
+    },
+    {
+      "title": "Bitcoin speculators\u2019 record cost basis boosts $100K support as BTC dives",
+      "link": "https://cointelegraph.com/news/bitcoin-speculators-record-cost-basis-boosts-100k-support-btc-dives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNmZjAtOWVjNC03MDJmLWI0YmMtYzFjNTc3MmQxY2Iy.jpg\" /></p><p>Bitcoin now has added support at the $100,000 mark as a mass profit-taking takes over speculators, whales and \"diamond hands\" alike.</p>"
+    },
     {
       "title": "Bitcoin price drop to $114K possible as BTC whales take profits",
       "link": "https://cointelegraph.com/news/bitcoin-price-drop-114k-possible-whales-take-profits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,14 @@
       "title": "South Korean court clears Wemade ex-CEO in Wemix manipulation case",
       "link": "https://cointelegraph.com/news/wemade-wemix-jang-hyun-guk-acquitted-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZmYtMGQ2YS03NDQyLWI0ODItMmY2YTllMGExOTVk.jpg\" /></p><p>After nearly a year of legal proceedings, a South Korean court acquitted former Wemade CEO Jang Hyun-guk of market manipulation charges.</p>"
-    },
-    {
-      "title": "Standard Chartered launches Bitcoin and Ether trading for institutions",
-      "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZjYtNmUzMi03ZDFhLWE0YjAtYjFiZjM5MTZmNzdm.jpg\" /></p><p>After rolling out Bitcoin and Ether spot trading, Standard Chartered plans to soon introduce crypto derivatives for institutional investors.</p>"
-    },
-    {
-      "title": "Arcadia Finance exploited, $2.5M stolen and converted to WETH",
-      "link": "https://cointelegraph.com/news/arcadia-finance-exploit-2-5m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQ5MjctMmUxZS03NTM0LWE4OTEtYzg4ZWFjYzdmMzAy.jpg\" /></p><p>Arcadia Finance\u2019s Rebalancer contract was exploited for $2.5 million in USDC and USDS on the Base blockchain, with stolen assets swapped to WETH.</p>"
-    },
-    {
-      "title": "Can AI bots steal your crypto? The rise of digital thieves",
-      "link": "https://cointelegraph.com/explained/can-ai-bots-steal-your-crypto-the-rise-of-digital-thieves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZjE4MDdhOWI3MzUwY2ViZTc2ODc0MWVjNTc5ZGQ5MC5qcGc=.jpg\" /></p><p> Discover how AI bots exploit vulnerabilities, why traditional security measures are no longer enough, and what steps can keep your crypto safe. </p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Ripple expands RLUSD globally as US Fedwire shift and EU MiCA compliance align",
+      "link": "https://cryptoslate.com/ripple-expands-rlusd-globally-as-us-fedwire-shift-and-eu-mica-compliance-align/",
+      "summary": "<p>Ripple is executing a sophisticated, multi-front global strategy yielding significant results and positioning the company for major infrastructure and market-share gains. Two critical developments across both sides of the Atlantic have powerfully demonstrated long-term strategic planning. In the United States, the Federal Reserve&#8217;s official adoption of the ISO 20022 messaging standard has validated Ripple&#8217;s multi-year [&#8230;]</p> <p>"
+    },
     {
       "title": "The future of crypto payments: Why infrastructure, not hype, will define the next wave of the industry",
       "link": "https://cryptoslate.com/the-future-of-crypto-payments-why-infrastructure-not-hype-will-define-the-next-wave-of-the-industry/",
@@ -73,14 +78,14 @@
       "title": "Retail accumulation absorbs fresh supply, propels Bitcoin to record highs",
       "link": "https://cryptoslate.com/retail-accumulation-absorbs-fresh-supply-propels-bitcoin-to-record-highs/",
       "summary": "<p>Retail investors buying long-term drove Bitcoin (BTC) out of its four-month channel between $100,000 and $110,000 to a new all-time high of $123,120, a 65% rebound from April\u2019s tariff-panic low. According to the latest Bitfinex Alpha report, the move to heavy bidding from wallets holding fewer than 100 BTC, while long-term holder selling slowed. Grassroots [&#8230;]</p> <p>"
-    },
-    {
-      "title": "OCC, Fed, FDIC publish joint guidance for banks offering crypto custody",
-      "link": "https://cryptoslate.com/occ-fed-fdic-publish-joint-guidance-for-banks-offering-crypto-custody/",
-      "summary": "<p>The Office of the Comptroller of the Currency (OCC), the Federal Reserve Board (Fed), and the Federal Deposit Insurance Corporation (FDIC) released a joint statement explaining how existing banking rules apply when institutions custody crypto for customers. The guidance describes \u201csafekeeping\u201d as the act of holding a digital asset on a client\u2019s behalf and stresses [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Ethereum Shorts Reach Record Levels, How To Stay Positioned For A Breakout",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-shorts-record/",
+      "summary": "As the Ethereum price has broken out above $3,000, the shorts have piled on with expectations that this rally will end up like the others before it: in a crash. Not only have the shorts been dominating the market recently, but the exponential growth has seen the short positions rise to levels never before seen in the history of the digital asset. While this might look bearish at a glance as it means traders expect the price to decline, it could actually end up being ultra-bullish for the altcoin. Ethereum Leverage Positions Reach Record Short Levels In a post on X, market expert Zerohedge revealed an interesting development for Ethereum, and that is the fact that Ethereum shorts have now reached new records. The chart showed the Ether leveraged net totals, and it came out to a -13291, beating the previous high that was set back in May at -12000. Related Reading: Bitcoin Is Not Stopping At $123,000 \u2014 Technical Indicators Point To $140,000 Top This rise in Ethereum shorts proves that there is still a lot of disbelief in the current market rally, and many traders expect the Ethereum price to fall again. However, looking at the historical performance when it comes to shorts reaching record levels, it shows a trend that this could mean the rally could be sustained. For example, back in May 2025, when it set its previous peak of -12000, the Ethereum price had rallied from below $1,800 to above $2,600 before the month was over. This trend is also playing out now as the Ethereum price has crossed $3,000, as the Ether shorts have reached a new peak. How To Stay Positioned For ETH Given that the Ethereum price seems to be headed into what might be a parabolic rally after clearing $3,000, crypto analyst Luca on X has outlined how they intend to position for the surge. Luca explains that with the new week, the Ethereum price is at a key point. This is because it is approaching the 0.618 Fibonacci Retracement level, and this level is important because it has been a point of consolidation for the altcoin in the past. Related Reading: Prepare For ATHs: \u2018XRP Train Has Left The Station \u2013 Analyst As such, the analyst explains that he intends to keep holding his positions on Ethereum. So far, Luca revealed that he has only de-risked Bitcoin positions as the pioneer cryptocurrency has hit all-time highs, but as the end of the cycle draws closer, the focus remains on altcoins. He maintains that the Ethereum price, alongside altcoins, will end up outperforming Bitcoin once the dominance drops. When this dominance drop happens, the analyst says that is when to begin de-risking altcoin positions. For now, though, the analyst expects Ethereum and altcoins to keep trailing Bitcoin as the dominance still remains high above 64% and BTC is yet to enter its distribution phase. Featured image from Dall.E, chart from TradingView.com"
+    },
     {
       "title": "Strategy Grabs Another $472M In Bitcoin\u2014Even With Price At ATH",
       "link": "https://www.newsbtc.com/bitcoin-news/strategy-grabs-472m-in-bitcoin-even-with-price-ath/",
@@ -100,11 +105,6 @@
       "title": "Spot Volume Drop on Binance Preceded Bitcoin\u2019s Price Surge, Data Shows",
       "link": "https://www.newsbtc.com/bitcoin-news/spot-volume-drop-on-binance-preceded-bitcoins-price-surge-data-shows/",
       "summary": "Bitcoin surged to a new all-time high above $123,000 earlier today after crossing the $120,000 threshold late Sunday night. The move has added more than 10% to its value over the past week, pushing the global cryptocurrency market valuation above $3.87 trillion, inching toward the $4 trillion mark. The current rally has reignited discussions around volume dynamics and accumulation patterns, as analysts monitor potential early signals that may influence near-term market behavior. Related Reading: Bitcoin To Reach $135,000 By September\u2019s Close, Standard Chartered Forecasts Two contributors to CryptoQuant\u2019s QuickTake platform, BorisVest and Darkfost, have highlighted technical patterns that emerged before and during Bitcoin\u2019s latest breakout. Their analyses suggest a combination of shrinking spot volume and surging accumulation activity may have played a role in driving prices higher. These insights provide a more nuanced view of the forces behind Bitcoin\u2019s recent surge, particularly at a time when market participants weigh upside potential against the possibility of volatility in uncharted price zones. Volume Drop on Binance Preceded Breakout, Analyst Says According to BorisVest, a notable collapse in spot trading volume on Binance preceded Bitcoin\u2019s move out of the $100,000 to $110,000 consolidation range. In his post titled \u201cBinance Spot Volume Collapsed Before Bitcoin\u2019s Breakout: Was It a Hidden Squeeze Signal?\u201d, he explained that declining spot volumes often represent quiet periods of either accumulation or distribution. Binance, due to its liquidity depth and user base, is seen as a reliable proxy for broader crypto market behavior. BorisVest noted that once the breakout began, trading volume spiked sharply. While such spikes can indicate local tops or bottoms, in this case, the surge in volume did not trigger a reversal but instead accelerated the rally. \u201cThat\u2019s a strong signal. If the move had no real backing, we would have seen a fast pullback. Instead, Bitcoin kept pushing higher,\u201d he wrote. He emphasized that volume acts as a roadmap for identifying zones of trade concentration and potential shifts in sentiment, cautioning that while Bitcoin\u2019s recent move appears structurally strong, market participants should be aware of the risks tied to high volatility zones. Accumulator Addresses Hit 2025 High Amid Price Surge In a separate update, CryptoQuant analyst Darkfost observed that Bitcoin \u201caccumulator addresses,\u201d wallets with a history of only buying and not selling BTC, have collectively acquired roughly 248,000 BTC in 2025 so far. This is well above the monthly average of 164,000 BTC, pointing to intensified buying activity in recent weeks. \u201cThese addresses have no history of distribution and their continued activity at current price levels indicates long-term positioning,\u201d he said. Darkfost also cautioned that if Bitcoin enters a correction or consolidation phase, some of these wallets could begin selling, which would disqualify them as accumulators and potentially introduce significant selling pressure. Related Reading: Who Flipped The Switch? Bitcoin STHs Accumulate While LTHs Take Profit At today\u2019s prices, the accumulated 248,000 BTC are worth about $30 billion. For now, however, this cohort\u2019s behavior reflects strong confidence in Bitcoin\u2019s long-term trajectory, even as the asset trades at record highs. Featured image created with DALL-E, Chart from TradingView"
-    },
-    {
-      "title": "XRP Price Corrects After Strong Rally \u2014 Support Levels in Focus",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-corrects-after-rally-3-00/",
-      "summary": "XRP price started a fresh increase and traded above the $3.00 zone. The price is now correcting gains and might test the $2.75 support zone. XRP price started a fresh increase above the $2.850 zone. The price is now trading above $2.80 and the 100-hourly Simple Moving Average. There is a key bullish trend line forming with support at $2.820 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could start another increase if it stays above the $2.750 zone. XRP Price Rallies Over 5% XRP price started a fresh increase after it settled above the $2.650 level, like Bitcoin and Ethereum. The price was able to climb above the $2.80 resistance level. The recent move was positive and the bulls pushed the price above the $3.00 level. A high was formed at $3.0324 and the price is now correcting gains. There was a move below the 50% Fib retracement level of the upward move from the $2.660 swing low to the $3.0324 high. The price is now trading above $2.80 and the 100-hourly Simple Moving Average. Besides, there is a key bullish trend line forming with support at $2.820 on the hourly chart of the XRP/USD pair. On the upside, the price might face resistance near the $2.920 level. The first major resistance is near the $2.950 level. A clear move above the $2.950 resistance might send the price toward the $3.020 resistance. Any more gains might send the price toward the $3.080 resistance or even $3.120 in the near term. The next major hurdle for the bulls might be near the $3.20 zone. More Downsides? If XRP fails to clear the $2.950 resistance zone, it could start another decline. Initial support on the downside is near the $2.820 level and the trend line zone. The next major support is near the $2.80 level and the 76.4% Fib retracement level of the upward move from the $2.660 swing low to the $3.0324 high. If there is a downside break and a close below the $2.80 level, the price might continue to decline toward the $2.750 support. The next major support sits near the $2.650 zone. Technical Indicators Hourly MACD \u2013 The MACD for XRP/USD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) \u2013 The RSI for XRP/USD is now below the 50 level. Major Support Levels \u2013 $2.820 and $2.750. Major Resistance Levels \u2013 $2.950 and $3.020."
     }
   ],
   "Bitcoin Magazine": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "Institutional money floods Bitcoin \u2013 $2.7B inflows lead the charge!",
+      "link": "https://ambcrypto.com/institutional-money-floods-bitcoin-2-7b-inflows-lead-the-charge/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-4-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />$3.7B in inflows, Grayscale goes IPO, and Vanguard bets on BTC-backed stocks... all while China tightens liquidity and Germany fumbles billions."
+    },
+    {
       "title": "$500M in XRP moved! \u2013 How whales could drive its next rally",
       "link": "https://ambcrypto.com/500m-in-xrp-moved-how-whales-could-drive-its-next-rally/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-14T163502.958-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whales vanish off-exchange, traders chase XRP on Coinbase. What's this split signal saying?"
@@ -208,11 +213,6 @@
       "title": "Is altcoin season here again after Bitcoin Dominance falls by 2%?",
       "link": "https://ambcrypto.com/is-altcoin-season-here-again-after-bitcoin-dominance-falls-by-2/",
       "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Altcoin-Season-Featured.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />The altcoin market cap's breakout past the key resistance at $1.25 trillion hinted at bullish intent."
-    },
-    {
-      "title": "Thanks to THIS macro signal, Bitcoin\u2019s ATH case just got stronger!",
-      "link": "https://ambcrypto.com/thanks-to-this-macro-signal-bitcoins-ath-case-just-got-stronger/",
-      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1069\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika1-1-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1900\" />Why Bitcoin\u2019s rally is a macro signal, not a micro one."
     }
   ]
 }
