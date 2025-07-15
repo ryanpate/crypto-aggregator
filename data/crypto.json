@@ -1,6 +1,21 @@
 {
   "CoinDesk": [
     {
+      "title": "Roxom Looks to Capture Bitcoin Treasury Boom With BTC-Denominated Stock Exchange",
+      "link": "https://www.coindesk.com/business/2025/07/15/roxom-looks-to-capture-bitcoin-treasury-boom-with-btc-denominated-stock-exchange",
+      "summary": ""
+    },
+    {
+      "title": "Decentralized Infrastructure Allows America to Compete on AI\u2014Greg Osuri",
+      "link": "https://www.coindesk.com/opinion/2025/07/15/decentralized-infrastructure-allows-america-to-compete-on-ai",
+      "summary": ""
+    },
+    {
+      "title": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Drops 3.1% as Index Trades Lower",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/07/15/coindesk-20-performance-update-bitcoin-cash-bch-drops-3-1-as-index-trades-lower",
+      "summary": ""
+    },
+    {
       "title": "Crypto Banking Startup Dakota Raises $12.5M for Global Stablecoin Push",
       "link": "https://www.coindesk.com/business/2025/07/15/crypto-banking-startup-dakota-raises-125m-for-global-stablecoin-push",
       "summary": ""
@@ -9,51 +24,41 @@
       "title": "Risc Zero\u2019s 'Boundless' Incentivized Testnet Goes Live",
       "link": "https://www.coindesk.com/tech/2025/07/08/risc-zeros-boundless-incentivized-testnet-goes-live",
       "summary": ""
-    },
-    {
-      "title": "USDC Holders Can Now Earn Yield on Crypto Options Exchange Deribit",
-      "link": "https://www.coindesk.com/markets/2025/07/15/usdc-holders-can-now-earn-yield-on-the-world-s-largest-crypto-options-exchange",
-      "summary": ""
-    },
-    {
-      "title": "U.S. June CPI Rose an In Line 0.3%; Core Rate Slightly Better Than Hoped at 0.2%",
-      "link": "https://www.coindesk.com/markets/2025/07/15/us-june-inflation-rose-an-in-line-03-core-rate-slightly-better-than-hoped-at-02",
-      "summary": ""
-    },
-    {
-      "title": "PEPE Falls 3% as Heavy Selling Overwhelms Bounce Attempts Despite Whale Accumulation",
-      "link": "https://www.coindesk.com/markets/2025/07/15/pepe-falls-3-as-heavy-selling-overwhelms-bounce-attempts-despite-whale-accumulation",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
     {
-      "title": "Ethereum becomes preferred treasury asset for tech-savvy firms: Ray Youssef",
-      "link": "https://cointelegraph.com/news/ethereum-key-treasury-asset-corporations-ray-youssef?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NlODItMTc5NS03YmVjLWI1MGItNGM1YTkyOGVhYjQz.jpg\" /></p><p>The NoOnes CEO told that corporations are increasingly adding Ethereum to their treasuries, drawn by its utility, staking yield and dominance in tokenized assets protocols.</p>"
+      "title": "MiCA a blessing in disguise for EU crypto investors and exchanges",
+      "link": "https://cointelegraph.com/news/mica-becoming-blessing-disguise-eu-crypto-investors-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDNiNWItNTAwOS03MzM1LWI1OGItYWVhMDJjMTk1YzQ1.jpg\" /></p><p>The EU\u2019s MiCA regulation surprised some doubters as major crypto exchanges lined up to get licenses.</p>"
     },
     {
-      "title": "Core introduces first revenue-sharing model for stablecoin issuers, devs",
-      "link": "https://cointelegraph.com/news/core-revenue-sharing-model-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JmZGItYjQ4Mi03MWQ0LWI1ZjQtZDgyMjUwNDI5MDRi.jpg\" /></p><p>The new solution aims to create a sustainable revenue stream for builders, which may enable them to move away from fundraising via cryptocurrency launches.</p>"
+      "title": "4 countries that let you buy citizenship or a golden visa with crypto",
+      "link": "https://cointelegraph.com/news/4-countries-that-let-you-buy-citizenship-or-a-golden-visa-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBlNjMtNGJmOC03MGEzLTgzMzYtNGNiZDhiYTY2OWRj.jpg\" /></p><p>Citizenship and residency via crypto are now possible in countries like Vanuatu, El Salvador and Portugal, with investment requirements ranging from $100,000 to $1 million.</p>"
     },
     {
-      "title": "BlackRock\u2019s crypto inflows jump 370% in Q2 while net flows slump",
-      "link": "https://cointelegraph.com/news/blackrock-crypto-inflows-q2-total-flows-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljNGItYzY0Yy03ODc4LTlmNmMtMTNkOTU4ZDcyMzA5.jpg\" /></p><p>BlackRock\u2019s Q2 inflows into crypto funds accounted for 16.5% of all the total ETF inflows, marking a massive increase from just 2.8% in Q1 2025.</p>"
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
     },
     {
-      "title": "Why crypto millionaires are moving to the UAE (these 5 reasons explain everything)",
-      "link": "https://cointelegraph.com/news/why-crypto-millionaires-are-moving-to-the-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA5NDAtN2RlOS03ZTVkLWI0YTItZGI5OWIwYWI2Zjhk.jpg\" /></p><p>The UAE is attracting a global wave of crypto millionaires with zero-tax profits, regulatory clarity and elite residency perks.</p>"
+      "title": "James Wynn returns with $19M leveraged Bitcoin long, $100K PEPE bet",
+      "link": "https://cointelegraph.com/news/james-wynn-19m-bitcoin-100k-pepe-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBlMjctZDhkNi03ZWFmLWJiNzItNzEwMzUzZmQzMjhj.jpg\" /></p><p>Wynn previously claimed that his leveraged positions were deliberately \u201chunted\u201d by crypto market makers looking to sink Bitcoin\u2019s price below his liquidation threshold.</p>"
     },
     {
-      "title": "OpenSea CTO outlines token trading vision for moving beyond NFTs",
-      "link": "https://cointelegraph.com/news/opensea-cto-token-trading-nft-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmNzgtNGE4Ni03NWI0LTgwNTktOTYwMzkxNjIyNTU1.jpg\" /></p><p>OpenSea\u2019s strategic pivot comes as NFT volumes have declined in five straight quarters.</p>"
+      "title": "Ripple confirms intention to pursue MiCA license for EU expansion",
+      "link": "https://cointelegraph.com/news/ripple-confirms-mica-license-intention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkwZTQtMmQwZS03OWExLWJlODYtNTY1NmM4YzhmMjUx.jpg\" /></p><p>Ripple told it will apply for a MiCA license to expand its crypto and stablecoin operations across the European Economic Area.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Solana RWAs surge 217% hitting $553 million in real world assets as memecoins lose focus",
+      "link": "https://cryptoslate.com/solana-rwas-surge-217-to-hit-553-million-in-real-world-assets-as-memecoins-lose-focus/",
+      "summary": "<p>Solana&#8217;s tokenized Real-World Asset (RWA) market surpassed $550 million and rocketed up 217% year-to-date in 2025. The explosive growth, more than double the pace of the broader market, positions the high-speed blockchain as a serious challenger to Ethereum&#8217;s long-held dominance in one of crypto&#8217;s most promising sectors. As of press time, Solana has reached $558 [&#8230;]</p> <p>"
+    },
     {
       "title": "OpenEden and Ceffu Introduce First Yield-Bearing Collateral for Institutional Clients on Binance",
       "link": "https://cryptoslate.com/openeden-and-ceffu-introduce-first-yield-bearing-collateral-for-institutional-clients-on-binance/",
@@ -73,11 +78,6 @@
       "title": "Coinbase\u2019s $100 billion milestone sparks trillion-dollar company speculation",
       "link": "https://cryptoslate.com/coinbases-100-billion-milestone-sparks-trillion-dollar-company-speculation/",
       "summary": "<p>Coinbase has crossed a significant milestone, reaching a market capitalization of over $100 billion amid renewed momentum across the crypto sector. According to Google Finance data, shares of Coinbase (COIN) reached a new all-time high of $398.50 during trading hours on July 14. However, the stock&#8217;s value ended the day at around $394, reflecting a [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Ripple expands RLUSD globally as US Fedwire shift and EU MiCA compliance align",
-      "link": "https://cryptoslate.com/ripple-expands-rlusd-globally-as-us-fedwire-shift-and-eu-mica-compliance-align/",
-      "summary": "<p>Ripple is executing a sophisticated, multi-front global strategy yielding significant results and positioning the company for major infrastructure and market-share gains. Two critical developments across both sides of the Atlantic have powerfully demonstrated long-term strategic planning. In the United States, the Federal Reserve&#8217;s official adoption of the ISO 20022 messaging standard has validated Ripple&#8217;s multi-year [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
@@ -109,6 +109,11 @@
   ],
   "Bitcoin Magazine": [
     {
+      "title": "Roxom Announces Launch of Bitcoin Denominated Capital Market Platform in September",
+      "link": "https://bitcoinmagazine.com/news/roxom-announces-launch-of-bitcoin-denominated-capital-market-platform-in-september",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Roxom-Announces-Launch-of-Bitcoin-Denominated-Capital-Market-Platform-in-September.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/roxom-announces-launch-of-bitcoin-denominated-capital-market-platform-in-september\" rel=\"nofollow\"> </a></p> <p>The platform introduces a system where global assets, including equities and futures, can be traded, priced, and settled entirely in Bitcoin.</p> <p>"
+    },
+    {
       "title": "Tornado Cash Trial Begins with Discussions around Motions In Limine and Data Custodians",
       "link": "https://bitcoinmagazine.com/news/tornado-cash-trial-begins-with-discussions-around-motions-in-limine-and-data-custodians",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Tornado-Cash-Trial-SDNY.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/tornado-cash-trial-begins-with-discussions-around-motions-in-limine-and-data-custodians\" rel=\"nofollow\"> </a></p> <p>The judge addressed questions and requests from the defense regarding updated motions and the legitimacy of certain data that will be used as evidence in the case.</p> <p>"
@@ -127,14 +132,14 @@
       "title": "Make Bitcoin Mining Decentralized Again",
       "link": "https://bitcoinmagazine.com/business/make-bitcoin-mining-decentralized-again",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/BM-TN.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/business/make-bitcoin-mining-decentralized-again\" rel=\"nofollow\"> </a></p> <p>From Bitaxes to Heatbits, small and comfortable home mining equipment are retail\u2019s new entry into Bitcoin.</p> <p>"
-    },
-    {
-      "title": "Kazakhstan Considers Investing National Reserves in Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/kazakhstan-considers-investing-national-reserves-in-bitcoin",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Kazakhstan-Considers-Investing-National-Reserves-in-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/kazakhstan-considers-investing-national-reserves-in-bitcoin\" rel=\"nofollow\"> </a></p> <p>The country\u2019s central bank is exploring Bitcoin and crypto exposure for its sovereign wealth portfolios and advancing plans to create a Bitcoin reserve.</p> <p>"
     }
   ],
   "Decrypt": [
+    {
+      "title": "Dormant Satoshi-Era Bitcoin Whale Moves $4 Billion\u2014But It May Not Be a Sell-Off Indicator",
+      "link": "https://decrypt.co/330197/satoshi-era-bitcoin-whale-4-billion",
+      "summary": "Dormant Bitcoin whale from 2011 awakens, moving $4.7 billion to exchanges amid speculation of potential massive sell-off."
+    },
     {
       "title": "Standard Chartered Now Offers Institutional Bitcoin, Ethereum Trading\u2014Here's What It Means",
       "link": "https://decrypt.co/330178/standard-chartered-now-offers-institutional-bitcoin-ethereum-trading-heres-what-it-means",
@@ -154,11 +159,6 @@
       "title": "Pudgy Penguins' PENGU Token Doubles in a Week Amid ETF Hype",
       "link": "https://decrypt.co/330150/pudgy-penguins-pengu-token-doubles-in-a-week-amid-etf-hype",
       "summary": "The PENGU meme coin has posted one of the week\u2019s biggest gains, but questions remain over its long-term viability in the current market."
-    },
-    {
-      "title": "Bitcoin Trading at Centre of High-Profile New Zealand Homicide Case",
-      "link": "https://decrypt.co/330147/bitcoin-trading-high-profile-new-zealand-homicide-case",
-      "summary": "Records show the New Zealand woman used fake crypto screenshots to convince her mother the investment had generated $160,000 profit."
     }
   ],
   "CryptoBriefing": [
@@ -190,6 +190,11 @@
   ],
   "AMBcrypto": [
     {
+      "title": "MicroStrategy\u2019s Bitcoin blueprint goes mainstream: Wall Street now holds 6% BTC",
+      "link": "https://ambcrypto.com/microstrategys-bitcoin-blueprint-goes-mainstream-wall-street-now-holds-6-btc/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-1-6.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />From MSTR\u2019s first bet to global rotation, is Bitcoin\u2019s institutional era just warming up?"
+    },
+    {
       "title": "VIRTUAL sees $10M in outflows, falls 10% \u2013 More losses ahead IF\u2026",
       "link": "https://ambcrypto.com/virtual-sees-10m-in-outflows-falls-10-more-losses-ahead-if/",
       "summary": "<img alt=\"$10.8mln flushed out of VIRTUAL \u2013 Both traders and users are screaming THIS signal!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250715_092407_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Traders just dumped $10M in VIRTUAL - here's what's happening and why!"
@@ -208,11 +213,6 @@
       "title": "$500M in XRP moved! \u2013 How whales could drive its next rally",
       "link": "https://ambcrypto.com/500m-in-xrp-moved-how-whales-could-drive-its-next-rally/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-14T163502.958-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whales vanish off-exchange, traders chase XRP on Coinbase. What's this split signal saying?"
-    },
-    {
-      "title": "Satoshi Nakamoto\u2019s $133B Bitcoin fortune makes him 11th richest person!",
-      "link": "https://ambcrypto.com/satoshi-nakamotos-133b-bitcoin-fortune-makes-him-11th-richest-person/",
-      "summary": "<img alt=\"Satoshi Nakamoto\u2019s rise to #11 in the &#039;rich list&#039; - And, BTC might just be getting started!\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Abdul_20250714_160142_0000.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Can Bitcoin sustain its rally beyond $121K with current institutional backing?"
     }
   ]
 }
