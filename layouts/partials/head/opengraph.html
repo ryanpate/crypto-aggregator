@@ -1,7 +1,0 @@
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
-{{ with .Site.Params.images }}
-<meta property="og:image" content="{{ index . 0 | absURL }}">
-{{ end }}
