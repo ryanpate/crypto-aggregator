@@ -1,33 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BlockwireNews - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
-
+    
     <!-- SEO Meta Tags -->
-    <meta name="description"
-        content="Get real-time cryptocurrency news, market analysis, and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi, NFT updates 24/7.">
-    <meta name="keywords"
-        content="cryptocurrency news, bitcoin news, ethereum updates, crypto market analysis, blockchain news, defi news, nft news, crypto price predictions, digital currency, altcoin news">
+    <meta name="description" content="Get real-time cryptocurrency news, market analysis, and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi, NFT updates 24/7.">
+    <meta name="keywords" content="cryptocurrency news, bitcoin news, ethereum updates, crypto market analysis, blockchain news, defi news, nft news, crypto price predictions, digital currency, altcoin news">
     <meta name="author" content="BlockwireNews">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.blockwirenews.com/">
-
+    
     <!-- Open Graph Tags -->
     <meta property="og:title" content="BlockwireNews - Real-Time Cryptocurrency News Aggregator">
-    <meta property="og:description"
-        content="Stay updated with the latest cryptocurrency news, market analysis, and price predictions from top crypto sources.">
+    <meta property="og:description" content="Stay updated with the latest cryptocurrency news, market analysis, and price predictions from top crypto sources.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.blockwirenews.com/">
     <meta property="og:image" content="https://www.blockwirenews.com/og-image.jpg">
-
+    
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="BlockwireNews - Crypto News Aggregator">
     <meta name="twitter:description" content="Real-time cryptocurrency news and market analysis">
-
+    
     <!-- Schema.org Markup -->
     <script type="application/ld+json">
     {
@@ -39,14 +35,14 @@
         "description": "Real-time cryptocurrency news aggregator providing market analysis and insights"
     }
     </script>
-
+    
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-
+        
         :root {
             --primary-color: #FF6B35;
             --secondary-color: #4ECDC4;
@@ -58,7 +54,7 @@
             --accent-green: #00FF88;
             --accent-red: #FF3B3B;
         }
-
+        
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             background-color: var(--dark-bg);
@@ -66,7 +62,7 @@
             line-height: 1.6;
             overflow-x: hidden;
         }
-
+        
         /* Animated Background */
         .bg-animation {
             position: fixed;
@@ -77,7 +73,7 @@
             background: linear-gradient(45deg, #0A0E27 0%, #1A1F3A 50%, #0A0E27 100%);
             z-index: -2;
         }
-
+        
         .bg-animation::before {
             content: '';
             position: absolute;
@@ -85,25 +81,18 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-image:
+            background-image: 
                 radial-gradient(circle at 20% 50%, rgba(78, 205, 196, 0.1) 0%, transparent 50%),
                 radial-gradient(circle at 80% 80%, rgba(255, 107, 53, 0.1) 0%, transparent 50%),
                 radial-gradient(circle at 40% 20%, rgba(255, 215, 0, 0.05) 0%, transparent 50%);
             animation: pulse 20s ease-in-out infinite;
         }
-
+        
         @keyframes pulse {
-
-            0%,
-            100% {
-                opacity: 1;
-            }
-
-            50% {
-                opacity: 0.5;
-            }
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
         }
-
+        
         /* Floating Coins Animation */
         .floating-coins {
             position: fixed;
@@ -112,24 +101,23 @@
             overflow: hidden;
             z-index: -1;
         }
-
+        
         .coin {
             position: absolute;
             font-size: 20px;
             opacity: 0.1;
             animation: float 20s infinite linear;
         }
-
+        
         @keyframes float {
             from {
                 transform: translateY(100vh) rotate(0deg);
             }
-
             to {
                 transform: translateY(-100px) rotate(360deg);
             }
         }
-
+        
         /* Header */
         header {
             background: rgba(26, 31, 58, 0.95);
@@ -140,7 +128,7 @@
             z-index: 1000;
             box-shadow: 0 4px 30px rgba(255, 107, 53, 0.1);
         }
-
+        
         nav {
             max-width: 1400px;
             margin: 0 auto;
@@ -149,7 +137,7 @@
             justify-content: space-between;
             align-items: center;
         }
-
+        
         .logo {
             display: flex;
             align-items: center;
@@ -157,11 +145,11 @@
             text-decoration: none;
             transition: transform 0.3s;
         }
-
+        
         .logo:hover {
             transform: scale(1.05);
         }
-
+        
         .logo-icon {
             width: 50px;
             height: 50px;
@@ -175,37 +163,32 @@
             position: relative;
             overflow: hidden;
         }
-
+        
         .logo-icon::before {
             content: '₿';
             position: absolute;
             font-size: 30px;
             animation: coinSpin 3s linear infinite;
         }
-
+        
         @keyframes coinSpin {
-            from {
-                transform: rotateY(0deg);
-            }
-
-            to {
-                transform: rotateY(360deg);
-            }
+            from { transform: rotateY(0deg); }
+            to { transform: rotateY(360deg); }
         }
-
+        
         .logo-text {
             font-size: 1.5rem;
             font-weight: bold;
             color: var(--text-primary);
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
-
+        
         .nav-links {
             display: flex;
             gap: 2rem;
             list-style: none;
         }
-
+        
         .nav-links a {
             color: var(--text-secondary);
             text-decoration: none;
@@ -213,7 +196,7 @@
             position: relative;
             font-weight: 500;
         }
-
+        
         .nav-links a::after {
             content: '';
             position: absolute;
@@ -224,15 +207,15 @@
             background: var(--accent-green);
             transition: width 0.3s;
         }
-
+        
         .nav-links a:hover {
             color: var(--accent-green);
         }
-
+        
         .nav-links a:hover::after {
             width: 100%;
         }
-
+        
         /* Price Ticker */
         .price-ticker {
             background: rgba(0, 0, 0, 0.5);
@@ -240,38 +223,28 @@
             overflow: hidden;
             white-space: nowrap;
         }
-
+        
         .ticker-content {
             display: inline-block;
             padding-left: 100%;
             animation: ticker 30s linear infinite;
         }
-
+        
         @keyframes ticker {
-            0% {
-                transform: translate(0, 0);
-            }
-
-            100% {
-                transform: translate(-100%, 0);
-            }
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(-100%, 0); }
         }
-
+        
         .ticker-item {
             display: inline-flex;
             align-items: center;
             margin-right: 3rem;
             font-size: 0.9rem;
         }
-
-        .ticker-item.positive {
-            color: var(--accent-green);
-        }
-
-        .ticker-item.negative {
-            color: var(--accent-red);
-        }
-
+        
+        .ticker-item.positive { color: var(--accent-green); }
+        .ticker-item.negative { color: var(--accent-red); }
+        
         /* Hero Section */
         .hero {
             max-width: 1400px;
@@ -279,7 +252,7 @@
             padding: 0 2rem;
             text-align: center;
         }
-
+        
         .hero h1 {
             font-size: 3.5rem;
             margin-bottom: 1rem;
@@ -288,32 +261,25 @@
             -webkit-text-fill-color: transparent;
             animation: gradientShift 5s ease infinite;
         }
-
+        
         @keyframes gradientShift {
-
-            0%,
-            100% {
-                background-position: 0% 50%;
-            }
-
-            50% {
-                background-position: 100% 50%;
-            }
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
         }
-
+        
         .hero p {
             font-size: 1.25rem;
             color: var(--text-secondary);
             margin-bottom: 2rem;
         }
-
+        
         /* Search Bar */
         .search-container {
             max-width: 600px;
             margin: 0 auto 3rem;
             position: relative;
         }
-
+        
         .search-bar {
             width: 100%;
             padding: 1rem 3rem 1rem 1.5rem;
@@ -324,13 +290,13 @@
             font-size: 1rem;
             transition: all 0.3s;
         }
-
+        
         .search-bar:focus {
             outline: none;
             border-color: var(--secondary-color);
             box-shadow: 0 0 20px rgba(78, 205, 196, 0.3);
         }
-
+        
         .search-btn {
             position: absolute;
             right: 5px;
@@ -344,11 +310,11 @@
             cursor: pointer;
             transition: transform 0.3s;
         }
-
+        
         .search-btn:hover {
             transform: translateY(-50%) scale(1.1);
         }
-
+        
         /* Google AdSense Placeholder */
         .ad-container {
             max-width: 1400px;
@@ -356,7 +322,7 @@
             padding: 0 2rem;
             text-align: center;
         }
-
+        
         .ad-placeholder {
             background: rgba(255, 255, 255, 0.05);
             border: 2px dashed rgba(255, 255, 255, 0.2);
@@ -370,28 +336,28 @@
             color: var(--text-secondary);
             font-size: 0.9rem;
         }
-
+        
         /* News Grid */
         .news-container {
             max-width: 1400px;
             margin: 0 auto;
             padding: 0 2rem;
         }
-
+        
         .section-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
             margin-bottom: 2rem;
         }
-
+        
         .section-title {
             font-size: 2rem;
             color: var(--text-primary);
             position: relative;
             padding-left: 1rem;
         }
-
+        
         .section-title::before {
             content: '';
             position: absolute;
@@ -402,26 +368,26 @@
             height: 80%;
             background: linear-gradient(to bottom, var(--primary-color), var(--secondary-color));
         }
-
+        
         .view-all {
             color: var(--secondary-color);
             text-decoration: none;
             font-weight: 500;
             transition: all 0.3s;
         }
-
+        
         .view-all:hover {
             color: var(--accent-green);
             transform: translateX(5px);
         }
-
+        
         .news-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
             gap: 2rem;
             margin-bottom: 4rem;
         }
-
+        
         .news-card {
             background: var(--card-bg);
             border-radius: 16px;
@@ -430,13 +396,13 @@
             position: relative;
             border: 1px solid transparent;
         }
-
+        
         .news-card:hover {
             transform: translateY(-5px);
             border-color: var(--secondary-color);
             box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
         }
-
+        
         .news-card::before {
             content: '';
             position: absolute;
@@ -448,15 +414,15 @@
             opacity: 0;
             transition: opacity 0.3s;
         }
-
+        
         .news-card:hover::before {
             opacity: 1;
         }
-
+        
         .card-content {
             padding: 1.5rem;
         }
-
+        
         .card-meta {
             display: flex;
             justify-content: space-between;
@@ -465,7 +431,7 @@
             font-size: 0.875rem;
             color: var(--text-secondary);
         }
-
+        
         .source-badge {
             background: rgba(78, 205, 196, 0.1);
             color: var(--secondary-color);
@@ -473,7 +439,7 @@
             border-radius: 20px;
             font-weight: 500;
         }
-
+        
         .card-title {
             font-size: 1.25rem;
             margin-bottom: 1rem;
@@ -481,24 +447,24 @@
             line-height: 1.4;
             transition: color 0.3s;
         }
-
+        
         .news-card:hover .card-title {
             color: var(--secondary-color);
         }
-
+        
         .card-excerpt {
             color: var(--text-secondary);
             font-size: 0.95rem;
             line-height: 1.6;
             margin-bottom: 1rem;
         }
-
+        
         .card-tags {
             display: flex;
             gap: 0.5rem;
             flex-wrap: wrap;
         }
-
+        
         .tag {
             background: rgba(255, 107, 53, 0.1);
             color: var(--primary-color);
@@ -507,13 +473,13 @@
             font-size: 0.8rem;
             transition: all 0.3s;
         }
-
+        
         .tag:hover {
             background: var(--primary-color);
             color: var(--dark-bg);
             transform: scale(1.05);
         }
-
+        
         /* Featured Section */
         .featured-section {
             background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(78, 205, 196, 0.1));
@@ -523,7 +489,7 @@
             position: relative;
             overflow: hidden;
         }
-
+        
         .featured-section::before {
             content: '🔥';
             position: absolute;
@@ -533,19 +499,12 @@
             opacity: 0.1;
             animation: float 3s ease-in-out infinite;
         }
-
+        
         @keyframes float {
-
-            0%,
-            100% {
-                transform: translateY(0);
-            }
-
-            50% {
-                transform: translateY(-20px);
-            }
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
         }
-
+        
         /* Market Overview */
         .market-overview {
             display: grid;
@@ -553,7 +512,7 @@
             gap: 1.5rem;
             margin-bottom: 3rem;
         }
-
+        
         .market-card {
             background: var(--card-bg);
             border-radius: 12px;
@@ -562,37 +521,37 @@
             transition: all 0.3s;
             border: 1px solid transparent;
         }
-
+        
         .market-card:hover {
             border-color: var(--accent-gold);
             transform: scale(1.02);
         }
-
+        
         .market-card h3 {
             color: var(--text-secondary);
             font-size: 0.9rem;
             margin-bottom: 0.5rem;
         }
-
+        
         .market-value {
             font-size: 1.5rem;
             font-weight: bold;
             margin-bottom: 0.5rem;
         }
-
+        
         .market-change {
             font-size: 0.9rem;
             font-weight: 500;
         }
-
+        
         .market-change.positive {
             color: var(--accent-green);
         }
-
+        
         .market-change.negative {
             color: var(--accent-red);
         }
-
+        
         /* Footer */
         footer {
             background: var(--card-bg);
@@ -600,7 +559,7 @@
             padding: 3rem 0 2rem;
             border-top: 2px solid var(--primary-color);
         }
-
+        
         .footer-content {
             max-width: 1400px;
             margin: 0 auto;
@@ -609,17 +568,17 @@
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 3rem;
         }
-
+        
         .footer-section h3 {
             color: var(--text-primary);
             margin-bottom: 1rem;
             font-size: 1.25rem;
         }
-
+        
         .footer-section ul {
             list-style: none;
         }
-
+        
         .footer-section a {
             color: var(--text-secondary);
             text-decoration: none;
@@ -627,18 +586,18 @@
             display: inline-block;
             margin-bottom: 0.5rem;
         }
-
+        
         .footer-section a:hover {
             color: var(--secondary-color);
             transform: translateX(5px);
         }
-
+        
         .social-links {
             display: flex;
             gap: 1rem;
             margin-top: 1rem;
         }
-
+        
         .social-link {
             width: 40px;
             height: 40px;
@@ -649,12 +608,12 @@
             justify-content: center;
             transition: all 0.3s;
         }
-
+        
         .social-link:hover {
             background: var(--secondary-color);
             transform: scale(1.1);
         }
-
+        
         .footer-bottom {
             text-align: center;
             margin-top: 2rem;
@@ -662,35 +621,34 @@
             border-top: 1px solid rgba(255, 255, 255, 0.1);
             color: var(--text-secondary);
         }
-
+        
         /* Mobile Responsive */
         @media (max-width: 768px) {
             .nav-links {
                 display: none;
             }
-
+            
             .hero h1 {
                 font-size: 2.5rem;
             }
-
+            
             .news-grid {
                 grid-template-columns: 1fr;
             }
-
+            
             .market-overview {
                 grid-template-columns: 1fr 1fr;
             }
         }
     </style>
 </head>
-
 <body>
     <!-- Animated Background -->
     <div class="bg-animation"></div>
-
+    
     <!-- Floating Coins -->
     <div class="floating-coins" id="floatingCoins"></div>
-
+    
     <!-- Header -->
     <header>
         <nav>
@@ -708,7 +666,7 @@
             </ul>
         </nav>
     </header>
-
+    
     <!-- Price Ticker -->
     <div class="price-ticker">
         <div class="ticker-content">
@@ -722,19 +680,19 @@
             <span class="ticker-item positive">ETH $3,000 ↑ 5.2%</span>
         </div>
     </div>
-
+    
     <!-- Hero Section -->
     <section class="hero">
         <h1>Real-Time Crypto News Aggregator</h1>
         <p>Stay ahead with curated cryptocurrency news from top sources worldwide</p>
-
+        
         <!-- Search Bar -->
         <div class="search-container">
             <input type="search" class="search-bar" placeholder="Search for Bitcoin, Ethereum, DeFi news...">
             <button class="search-btn">🔍</button>
         </div>
     </section>
-
+    
     <!-- AdSense Placeholder - Above the fold -->
     <div class="ad-container">
         <div class="ad-placeholder">
@@ -742,7 +700,7 @@
             Google AdSense - Leaderboard (728x90)
         </div>
     </div>
-
+    
     <!-- Market Overview -->
     <section class="news-container">
         <div class="market-overview">
@@ -768,7 +726,7 @@
             </div>
         </div>
     </section>
-
+    
     <!-- Featured Section -->
     <section class="news-container">
         <div class="featured-section">
@@ -780,10 +738,8 @@
                             <span class="source-badge">BitcoinMagazine</span>
                             <time>2 hours ago</time>
                         </div>
-                        <h3 class="card-title">Bitcoin Hits New All-Time High of $118,667 as Institutional Adoption
-                            Accelerates</h3>
-                        <p class="card-excerpt">Bitcoin's explosive growth continues to outshine gold, stocks, and the
-                            dollar, with 100% of trading days profitable resulting in unmatched long term returns.</p>
+                        <h3 class="card-title">Bitcoin Hits New All-Time High of $118,667 as Institutional Adoption Accelerates</h3>
+                        <p class="card-excerpt">Bitcoin's explosive growth continues to outshine gold, stocks, and the dollar, with 100% of trading days profitable resulting in unmatched long term returns.</p>
                         <div class="card-tags">
                             <span class="tag">Bitcoin</span>
                             <span class="tag">Analysis</span>
@@ -791,7 +747,7 @@
                         </div>
                     </div>
                 </article>
-
+                
                 <article class="news-card">
                     <div class="card-content">
                         <div class="card-meta">
@@ -799,8 +755,7 @@
                             <time>4 hours ago</time>
                         </div>
                         <h3 class="card-title">Ethereum Touches $3,000 Again as ETF Inflows Hit Record $907M Weekly</h3>
-                        <p class="card-excerpt">Ethereum ETFs recorded their best week since launch with combined
-                            inflows of $907.99 million, signaling strong institutional interest.</p>
+                        <p class="card-excerpt">Ethereum ETFs recorded their best week since launch with combined inflows of $907.99 million, signaling strong institutional interest.</p>
                         <div class="card-tags">
                             <span class="tag">Ethereum</span>
                             <span class="tag">ETF</span>
@@ -811,14 +766,14 @@
             </div>
         </div>
     </section>
-
+    
     <!-- Latest News -->
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">Latest News</h2>
             <a href="/all-news" class="view-all">View All →</a>
         </div>
-
+        
         <div class="news-grid">
             <article class="news-card">
                 <div class="card-content">
@@ -826,17 +781,15 @@
                         <span class="source-badge">NewsBTC</span>
                         <time>30 min ago</time>
                     </div>
-                    <h3 class="card-title">Solana Shows Renewed Strength as Network Activity Surges Above Key Levels
-                    </h3>
-                    <p class="card-excerpt">Chainlink and Solana show renewed strength as buyers dominate and network
-                        activity surges above key resistance levels.</p>
+                    <h3 class="card-title">Solana Shows Renewed Strength as Network Activity Surges Above Key Levels</h3>
+                    <p class="card-excerpt">Chainlink and Solana show renewed strength as buyers dominate and network activity surges above key resistance levels.</p>
                     <div class="card-tags">
                         <span class="tag">Solana</span>
                         <span class="tag">Technical Analysis</span>
                     </div>
                 </div>
             </article>
-
+            
             <article class="news-card">
                 <div class="card-content">
                     <div class="card-meta">
@@ -844,8 +797,7 @@
                         <time>1 hour ago</time>
                     </div>
                     <h3 class="card-title">AI Tools Transform Crypto Day Trading with Real-Time Sentiment Analysis</h3>
-                    <p class="card-excerpt">AI tools like Grok and ChatGPT are changing how traders approach crypto day
-                        trading, spotting sentiment shifts in real time.</p>
+                    <p class="card-excerpt">AI tools like Grok and ChatGPT are changing how traders approach crypto day trading, spotting sentiment shifts in real time.</p>
                     <div class="card-tags">
                         <span class="tag">AI</span>
                         <span class="tag">Trading</span>
@@ -853,7 +805,7 @@
                     </div>
                 </div>
             </article>
-
+            
             <article class="news-card">
                 <div class="card-content">
                     <div class="card-meta">
@@ -861,8 +813,7 @@
                         <time>2 hours ago</time>
                     </div>
                     <h3 class="card-title">Gaming Tokens Expand Cross-Chain as Off the Grid Launches on Solana</h3>
-                    <p class="card-excerpt">Off the Grid's GUN token has expanded from Avalanche to Solana, marking a
-                        new era in cross-chain gaming assets.</p>
+                    <p class="card-excerpt">Off the Grid's GUN token has expanded from Avalanche to Solana, marking a new era in cross-chain gaming assets.</p>
                     <div class="card-tags">
                         <span class="tag">Gaming</span>
                         <span class="tag">Solana</span>
@@ -872,7 +823,7 @@
             </article>
         </div>
     </section>
-
+    
     <!-- AdSense Placeholder - Mid content -->
     <div class="ad-container">
         <div class="ad-placeholder">
@@ -880,14 +831,14 @@
             Google AdSense - Large Rectangle (336x280)
         </div>
     </div>
-
+    
     <!-- DeFi News Section -->
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">DeFi & Web3</h2>
             <a href="/defi" class="view-all">View All →</a>
         </div>
-
+        
         <div class="news-grid">
             <article class="news-card">
                 <div class="card-content">
@@ -896,8 +847,7 @@
                         <time>3 hours ago</time>
                     </div>
                     <h3 class="card-title">Tether Shifts Focus to Scalable Networks, Driving Innovation in DeFi</h3>
-                    <p class="card-excerpt">Tether's strategic shift to focus on scalable, high-utility networks may
-                        drive innovation and efficiency in blockchain adoption.</p>
+                    <p class="card-excerpt">Tether's strategic shift to focus on scalable, high-utility networks may drive innovation and efficiency in blockchain adoption.</p>
                     <div class="card-tags">
                         <span class="tag">Tether</span>
                         <span class="tag">DeFi</span>
@@ -905,7 +855,7 @@
                     </div>
                 </div>
             </article>
-
+            
             <article class="news-card">
                 <div class="card-content">
                     <div class="card-meta">
@@ -913,8 +863,7 @@
                         <time>5 hours ago</time>
                     </div>
                     <h3 class="card-title">AVAX Bulls Target $20 Resistance as DeFi TVL Reaches New Heights</h3>
-                    <p class="card-excerpt">AVAX bulls mean business! But if $20 cracks, this rally might unravel faster
-                        than expected.</p>
+                    <p class="card-excerpt">AVAX bulls mean business! But if $20 cracks, this rally might unravel faster than expected.</p>
                     <div class="card-tags">
                         <span class="tag">Avalanche</span>
                         <span class="tag">DeFi</span>
@@ -922,7 +871,7 @@
                     </div>
                 </div>
             </article>
-
+            
             <article class="news-card">
                 <div class="card-content">
                     <div class="card-meta">
@@ -930,8 +879,7 @@
                         <time>6 hours ago</time>
                     </div>
                     <h3 class="card-title">Pump.fun Raises $600M in 12 Minutes for Memecoin Platform Token</h3>
-                    <p class="card-excerpt">The rapid sell-out and price surge of PUMP tokens highlight strong investor
-                        interest in meme coin markets.</p>
+                    <p class="card-excerpt">The rapid sell-out and price surge of PUMP tokens highlight strong investor interest in meme coin markets.</p>
                     <div class="card-tags">
                         <span class="tag">Memecoins</span>
                         <span class="tag">ICO</span>
@@ -941,31 +889,27 @@
             </article>
         </div>
     </section>
-
+    
     <!-- Newsletter Signup -->
     <section class="news-container">
         <div class="featured-section" style="text-align: center;">
             <h2 style="margin-bottom: 1rem;">📧 Never Miss a Crypto Update</h2>
-            <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to
-                your inbox</p>
+            <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to your inbox</p>
             <form style="max-width: 500px; margin: 0 auto;">
                 <div style="display: flex; gap: 1rem;">
-                    <input type="email" placeholder="Enter your email"
-                        style="flex: 1; padding: 1rem; background: var(--dark-bg); border: 2px solid var(--secondary-color); border-radius: 8px; color: var(--text-primary);">
-                    <button type="submit"
-                        style="padding: 1rem 2rem; background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); border: none; border-radius: 8px; color: white; font-weight: bold; cursor: pointer; transition: transform 0.3s;">Subscribe</button>
+                    <input type="email" placeholder="Enter your email" style="flex: 1; padding: 1rem; background: var(--dark-bg); border: 2px solid var(--secondary-color); border-radius: 8px; color: var(--text-primary);">
+                    <button type="submit" style="padding: 1rem 2rem; background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); border: none; border-radius: 8px; color: white; font-weight: bold; cursor: pointer; transition: transform 0.3s;">Subscribe</button>
                 </div>
             </form>
         </div>
     </section>
-
+    
     <!-- Footer -->
     <footer>
         <div class="footer-content">
             <div class="footer-section">
                 <h3>About BlockwireNews</h3>
-                <p style="color: var(--text-secondary); line-height: 1.6;">Your trusted source for real-time
-                    cryptocurrency news, market analysis, and insights from the blockchain world.</p>
+                <p style="color: var(--text-secondary); line-height: 1.6;">Your trusted source for real-time cryptocurrency news, market analysis, and insights from the blockchain world.</p>
                 <div class="social-links">
                     <a href="#" class="social-link">𝕏</a>
                     <a href="#" class="social-link">📘</a>
@@ -973,7 +917,7 @@
                     <a href="#" class="social-link">📺</a>
                 </div>
             </div>
-
+            
             <div class="footer-section">
                 <h3>Categories</h3>
                 <ul>
@@ -985,7 +929,7 @@
                     <li><a href="/regulation">Regulation</a></li>
                 </ul>
             </div>
-
+            
             <div class="footer-section">
                 <h3>Resources</h3>
                 <ul>
@@ -997,7 +941,7 @@
                     <li><a href="/api">Developer API</a></li>
                 </ul>
             </div>
-
+            
             <div class="footer-section">
                 <h3>Company</h3>
                 <ul>
@@ -1010,12 +954,12 @@
                 </ul>
             </div>
         </div>
-
+        
         <div class="footer-bottom">
             <p>&copy; 2025 BlockwireNews. All rights reserved. | Real-time cryptocurrency news aggregator</p>
         </div>
     </footer>
-
+    
     <!-- AdSense Placeholder - Footer -->
     <div class="ad-container">
         <div class="ad-placeholder">
@@ -1023,12 +967,12 @@
             Google AdSense - Footer (728x90)
         </div>
     </div>
-
+    
     <script>
         // Generate floating coins
         const floatingCoins = document.getElementById('floatingCoins');
         const coinEmojis = ['₿', 'Ξ', '◈', '🪙', '💎'];
-
+        
         for (let i = 0; i < 15; i++) {
             const coin = document.createElement('div');
             coin.className = 'coin';
@@ -1038,7 +982,7 @@
             coin.style.animationDuration = (20 + Math.random() * 10) + 's';
             floatingCoins.appendChild(coin);
         }
-
+        
         // Smooth scroll for anchor links
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
@@ -1049,33 +993,32 @@
                 }
             });
         });
-
+        
         // Search functionality
         const searchBar = document.querySelector('.search-bar');
         const searchBtn = document.querySelector('.search-btn');
-
+        
         searchBtn.addEventListener('click', () => {
             const query = searchBar.value.trim();
             if (query) {
                 window.location.href = `/search?q=${encodeURIComponent(query)}`;
             }
         });
-
+        
         searchBar.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
                 searchBtn.click();
             }
         });
-
+        
         // Dynamic time updates
         function updateTimes() {
             const timeElements = document.querySelectorAll('time');
             // In production, calculate actual time differences
         }
-
+        
         // Update times every minute
         setInterval(updateTimes, 60000);
     </script>
 </body>
-
 </html>
