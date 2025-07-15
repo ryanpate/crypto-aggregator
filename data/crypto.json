@@ -1,6 +1,16 @@
 {
   "CoinDesk": [
     {
+      "title": "ATOM Consolidates After Precipitous Decline, Critical Support Levels Tested",
+      "link": "https://www.coindesk.com/markets/2025/07/15/atom-consolidates-after-precipitous-decline-critical-support-levels-tested",
+      "summary": ""
+    },
+    {
+      "title": "Kraken Debuts Derivatives Trading in U.S., Plans Expansion to Commodity, Stock Futures",
+      "link": "https://www.coindesk.com/markets/2025/07/15/kraken-debuts-derivatives-trading-in-us-plans-expansion-to-commodity-stock-futures",
+      "summary": ""
+    },
+    {
       "title": "Roxom Looks to Capture Bitcoin Treasury Boom With BTC-Denominated Stock Exchange",
       "link": "https://www.coindesk.com/business/2025/07/15/roxom-looks-to-capture-bitcoin-treasury-boom-with-btc-denominated-stock-exchange",
       "summary": ""
@@ -14,19 +24,24 @@
       "title": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Drops 3.1% as Index Trades Lower",
       "link": "https://www.coindesk.com/coindesk-indices/2025/07/15/coindesk-20-performance-update-bitcoin-cash-bch-drops-3-1-as-index-trades-lower",
       "summary": ""
-    },
-    {
-      "title": "Crypto Banking Startup Dakota Raises $12.5M for Global Stablecoin Push",
-      "link": "https://www.coindesk.com/business/2025/07/15/crypto-banking-startup-dakota-raises-125m-for-global-stablecoin-push",
-      "summary": ""
-    },
-    {
-      "title": "Risc Zero\u2019s 'Boundless' Incentivized Testnet Goes Live",
-      "link": "https://www.coindesk.com/tech/2025/07/08/risc-zeros-boundless-incentivized-testnet-goes-live",
-      "summary": ""
     }
   ],
   "Cointelegraph": [
+    {
+      "title": "Programmable regulation is the missing key to DeFi\u2019s legal future",
+      "link": "https://cointelegraph.com/news/programmable-regulation-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmE2ZjEtM2JmZi03ODcxLWIwOWYtNzVhODI5NTYzYjdk.jpg\" /></p><p>Programmable regulation could be the solution to legacy regulatory frameworks struggling to keep pace with DeFi\u2019s rapidly evolving ecosystems. Embedding compliance in code can bring legal clarity, reduce risk and foster innovation in DeFi.</p>"
+    },
+    {
+      "title": "BBVA expands crypto access in Spain: Here\u2019s what changed",
+      "link": "https://cointelegraph.com/explained/bbva-expands-crypto-access-in-spain-heres-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNmEyYWI1NmM2NjkzZGJkYzRlOTc4OTdiZDU2Yjg4NC5qcGc=.jpg\" /></p><p>Spain\u2019s BBVA opens retail access to Bitcoin and Ether through its mobile app, offering bank-grade custody and MiCA-backed compliance without the complexity of crypto exchanges.</p>"
+    },
+    {
+      "title": "XRP price can see &#039;quick&#039; run to new all-time highs if price breaks $3",
+      "link": "https://cointelegraph.com/news/xrp-price-see-quick-run-to-new-all-time-highs-price-breaks-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg\" /></p><p>XRP price retreats from multimonth highs as overhead resistance from the $3 psychological level remains the most important barrier for the bulls.</p>"
+    },
     {
       "title": "MiCA a blessing in disguise for EU crypto investors and exchanges",
       "link": "https://cointelegraph.com/news/mica-becoming-blessing-disguise-eu-crypto-investors-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -36,24 +51,19 @@
       "title": "4 countries that let you buy citizenship or a golden visa with crypto",
       "link": "https://cointelegraph.com/news/4-countries-that-let-you-buy-citizenship-or-a-golden-visa-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBlNjMtNGJmOC03MGEzLTgzMzYtNGNiZDhiYTY2OWRj.jpg\" /></p><p>Citizenship and residency via crypto are now possible in countries like Vanuatu, El Salvador and Portugal, with investment requirements ranging from $100,000 to $1 million.</p>"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "James Wynn returns with $19M leveraged Bitcoin long, $100K PEPE bet",
-      "link": "https://cointelegraph.com/news/james-wynn-19m-bitcoin-100k-pepe-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBlMjctZDhkNi03ZWFmLWJiNzItNzEwMzUzZmQzMjhj.jpg\" /></p><p>Wynn previously claimed that his leveraged positions were deliberately \u201chunted\u201d by crypto market makers looking to sink Bitcoin\u2019s price below his liquidation threshold.</p>"
-    },
-    {
-      "title": "Ripple confirms intention to pursue MiCA license for EU expansion",
-      "link": "https://cointelegraph.com/news/ripple-confirms-mica-license-intention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" \" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkwZTQtMmQwZS03OWExLWJlODYtNTY1NmM4YzhmMjUx.jpg\" /></p><p>Ripple told it will apply for a MiCA license to expand its crypto and stablecoin operations across the European Economic Area.</p>"
     }
   ],
   "CryptoSlate": [
+    {
+      "title": "Fidelity subsidiary becomes largest Metaplanet shareholder with $816M stake",
+      "link": "https://cryptoslate.com/fidelity-subsidiary-becomes-largest-metaplanet-shareholder-with-816m-stake/",
+      "summary": "<p>Metaplanet has announced that National Financial Services LLC (NFS), a subsidiary of Fidelity Investments, is now its largest shareholder. In a July 15 disclosure, the firm revealed that NFS holds 84.4 million shares, equivalent to 12.9% of its total equity. Based on current valuations, this stake is worth approximately \u00a5121 billion or around $816 million. [&#8230;]</p> <p>"
+    },
+    {
+      "title": "$100M investor in Trump\u2019s World Liberty Financial denies links to banned Chinese market maker",
+      "link": "https://cryptoslate.com/100m-investor-in-trumps-world-liberty-financial-denies-links-to-banned-chinese-market-maker/",
+      "summary": "<p>Aqua1 Foundation, a UAE-based investor in the World Liberty Financial (WLFI) DeFi project, has publicly denied affiliation with Chinese market-making firm Web3Port. The clarification comes in response to growing speculation surrounding the fund&#8217;s recent $100 million investment in World Liberty Financial, a blockchain project with ties to US President Donald Trump. Relationship with Web3Port? On [&#8230;]</p> <p>"
+    },
     {
       "title": "Solana RWAs surge 217% hitting $553 million in real world assets as memecoins lose focus",
       "link": "https://cryptoslate.com/solana-rwas-surge-217-to-hit-553-million-in-real-world-assets-as-memecoins-lose-focus/",
@@ -68,19 +78,14 @@
       "title": "Bitcoin\u2019s new all-time high triggers $3.5 billion profit-taking spree in 24 hours",
       "link": "https://cryptoslate.com/insights/bitcoins-new-all-time-high-triggers-3-5-billion-profit-taking-spree-in-24-hours/",
       "summary": "<p>Profit-taking activity surged across the Bitcoin network during the last 24 hours after the leading crypto asset reached a new all-time high of over $123,000. Data from blockchain analytics firm Glassnode shows that total realized profits in the market jumped to $3.5 billion, marking one of the largest single-day profit realizations for Bitcoin this year. [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Bitcoin slips below $120k amid US inflation concerns and $461 million liquidation storm",
-      "link": "https://cryptoslate.com/bitcoin-slips-below-120k-amid-us-inflation-concerns-and-461-million-liquidation-storm/",
-      "summary": "<p>Bitcoin has slipped below the $120,000 mark after hitting a fresh all-time high near $123,000 on July 14 amid fears of US economic inflation. According to data from , the top crypto is trading around $116,894, representing a drop of over 5% in just 24 hours. Nicolai Sondergaard, a research analyst at Nansen, told [&#8230;]</p> <p>"
-    },
-    {
-      "title": "Coinbase\u2019s $100 billion milestone sparks trillion-dollar company speculation",
-      "link": "https://cryptoslate.com/coinbases-100-billion-milestone-sparks-trillion-dollar-company-speculation/",
-      "summary": "<p>Coinbase has crossed a significant milestone, reaching a market capitalization of over $100 billion amid renewed momentum across the crypto sector. According to Google Finance data, shares of Coinbase (COIN) reached a new all-time high of $398.50 during trading hours on July 14. However, the stock&#8217;s value ended the day at around $394, reflecting a [&#8230;]</p> <p>"
     }
   ],
   "NewsBTC": [
+    {
+      "title": "Unraveling The Bitcoin Boom: Experts Decode Record $123,000 Surge",
+      "link": "https://www.newsbtc.com/bitcoin-news/unraveling-the-bitcoin-boom-experts-decode-record-123000-surge/",
+      "summary": "In a major display of bullish momentum, the market\u2019s leading cryptocurrency, Bitcoin (BTC), surged to a new record high on Monday, surpassing $123,000 for the first time. US House Kicks Off &#8216;Crypto Week The Bitcoin price climbed more than 90% year-to-date with Monday\u2019s rally, reaching $123,200, and reflecting a nearly 15% increase over the past month. This upward momentum coincides with the US House of Representatives&#8217; \u201ccrypto week,\u201d which will feature debates on legislation aimed at reducing regulatory hurdles that have long been viewed as obstacles for the cryptocurrency sector. Related Reading: Fibonacci Maps Dogecoin Path To $23\u2014Is It Too Far-Fetched? One of the key pieces of legislation set for discussion in the House is the GENIUS Act, which aims to establish regulatory frameworks for stablecoins. Proponents of the GENIUS Act argue that it is a groundbreaking initiative that formalizes a critical aspect of the cryptocurrency industry. They believe it will enhance consumer protections, facilitate the entry of traditional financial institutions, and contribute to the growth of the digital currency market. Conversely, critics assert that the bill represents a \u201cweak set of regulations\u201d that may not adequately safeguard consumers or prevent illicit trading activities involving stablecoins. Growing Support For Crypto Regulation In addition to the GENIUS Act, the House will also debate measures to clarify the federal government&#8217;s regulatory approach to cryptocurrencies and proposals that could prevent the Federal Reserve from issuing its own digital currency. Bryan Armour, director of passive strategies research at Morningstar, remarked that this legislative push reflects a series of favorable developments for the crypto industry since President Donald Trump&#8217;s election in November. Since then, Bitcoin&#8217;s price has surged nearly 80%. As \u201ccrypto week\u201d unfolds, Armour suggests it signals a continuation of supportive policies under the Trump administration. However, Trump\u2019s involvement in the cryptocurrency space has raised concerns about potential conflicts of interest. For instance, his backing of World Liberty Financial&#8217;s stablecoin, USD1, has led to significant investments in major exchanges like Binance, which critics say creates opportunities for Trump\u2019s business to profit. Despite these concerns, Trump has denied any wrongdoing, and a White House spokesperson has stated that his financial assets are managed in a trust to avoid conflicts. Bitcoin ETFs Propel Price Surge The recent surge in Bitcoin prices has also been fueled by the US approval of Bitcoin exchange-traded funds (ETFs) last year. These investment vehicles have proven to be successful, with record-breaking amounts of capital moving into them. Related Reading: Prepare For ATHs: \u2018XRP Train Has Left The Station \u2013 Analyst The overall asset value of Bitcoin ETFs has reached a record high of over $158 billion, driven by a wave of investments that included over a billion dollars flowing into these funds on consecutive days last week. Nikhil Bhatia, a finance professor at the University of Southern California, noted that the approval of Bitcoin ETFs has contributed significantly to institutional adoption of Bitcoin, signaling a return to a bullish market sentiment. As of this writing, BTC\u2019s price has retraced back to the $117,000 level, 4.3% below its recently achieved all-time high. Featured image from DALL-E, chart from TradingView.com"
+    },
     {
       "title": "Dogecoin Poised For A Monster Rally Amid Brewing Altcoin Season",
       "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-monster-rally-amid-brewing-altcoin-season/",
@@ -100,18 +105,18 @@
       "title": "XRP Countdown Begins\u2014Analyst Predicts Explosive Run To $11",
       "link": "https://www.newsbtc.com/xrp-news/xrp-countdown-explosive-run-to-11/",
       "summary": "In his June 14 video analysis, the market commentator CryptoInsightUK argued that XRP is on the verge of a \u201cparabolic expansion\u201d reminiscent of its performance in late 2017, contending that a price of $11 per token is attainable this cycle once Bitcoin finishes its latest impulse leg. The analyst built his case on a blend of historical fractals, liquidity-mapping, and derivatives-market data, concluding that \u201cpeople are under-estimating where XRP is going to go this cycle.\u201d Is $11 XRP Inevitable? CryptoInsightUK opened the session by noting that Bitcoin had just logged the highest weekly close in its history and that the total crypto-asset market capitalisation had set a record: \u201cWe got the highest ever close for total market cap as well now, and I\u2019m looking to see this expansionary period.\u201d With Bitcoin pushing into a \u201cdeep area of liquidity\u201d on the daily chart but not yet reaching the next concentration of sell-side orders, he believes the set-up mirrors the early-November 2024 breakout that preceded a six-day, 31 percent surge. \u201cBitcoin\u2019s done most of its move in the six days following the breakout,\u201d he recalled, overlaying that sequence on today\u2019s structure to infer that a similar window could open imminently. Related Reading: XRP Flashes Signal That Last Time Preceded A 464% Rally, Analyst Says For XRP, the key inflection lies a few cents above the psychological $3 mark. On the 15-minute chart, he observed that \u201cXRP is starting to build some strong liquidity above us\u2026 up to about 3.10,\u201d describing that overhead cluster as potential fuel for a decisive push. Although the token briefly touched $3.03 in intraday trading, repeated attempts have stalled just below resistance. The analyst juxtaposed this behaviour with the way XRP lagged Bitcoin during the 2024 breakout: the coin \u201cstalls out a little bit\u201d while Bitcoin rips, then \u201creally catches up,\u201d moving from roughly $0.70 to $2.70 in nineteen days, before extending to $3.30. Translating that fractal forward, he warned: \u201cIt\u2019s not going to be exactly the same, but if it\u2019s six to ten days [for Bitcoin]\u2026 what happens next? Altcoins take over.\u201d He bolstered the thesis with derivatives metrics. During the last XRP rally, a flip from negative to positive contract premium coincided with a sharp rise in open interest. That pattern is repeating: \u201cPremium actually went green\u2026 on an increase in open interest and that is happening again now.\u201d Funding rates remain subdued, implying that shorts still constitute a meaningful share of outstanding positions; as price pressure builds, those shorts could be \u201csqueezed to the downside,\u201d providing what he called \u201creally aggressive price action to the upside\u2026 pretty soon probably for XRP.\u201d In his base case, an explosive move would coincide with Bitcoin reaching roughly $125,000, at which point capital rotation would funnel into XRP and other large-capitalisation altcoins. Related Reading: Pundit Reveals The Two Things That Will Drive XRP Price To All-Time Highs On higher-time-frame charts, the weekly close in the XRP/BTC pair reclaimed levels not seen since early March and printed what the analyst dubbed a \u201clovely green weekly candle,\u201d propelling the pair through the resistance band tracked by trader CredibleCrypto\u2019s so-called \u201cGandalf line.\u201d XRP dominance, he argued, has completed a Wyckoff-style accumulation: the \u201csign of strength\u201d and \u201clast point of support\u201d suggest a new up-leg is underway. Technical momentum is corroborated by a bullish cross forming in the XRP/ETH ratio on the weekly relative-strength index. The analyst conceded that timing remains uncertain and that elevated contract premiums can foreshadow long-side liquidation cascades, yet he maintained that the interplay between resurgent spot buying, rising open interest, and building liquidity clouds above $3 creates a self-reinforcing backdrop for a squeeze higher. \u201cThat is what I expect will come at some point,\u201d he said, framing a breach of the all-time high as a trigger for acceleration toward his $11 objective. At press time, XRP traded at $2.8671. Featured image created with DALL.E, chart from TradingView.com"
-    },
-    {
-      "title": "Coinbase: A Surprising Champion Of The Trump Trade, Eyes New Stock Records",
-      "link": "https://www.newsbtc.com/news/coinbase/coinbase-a-surprising-champion-of-the-trump-trade-eyes-new-stock-records/",
-      "summary": "Coinbase (COIN) is experiencing significant momentum, with its stock poised to reach a record closing high as the cryptocurrency sector enters what the White House has dubbed \u201cCrypto Week.\u201d The positive trend for the crypto industry has been notable since President Donald Trump took office, culminating in Bitcoin (BTC) hitting record highs beyond the $123,000 level on Monday. This surge is attributed to favorable legislative developments, the resolution of ongoing lawsuits with the US Securities and Exchange Commission (SEC), and the appointment of regulators who are seen as supportive of the crypto space. COIN Poised For $100 Billion Market Cap Coinbase has had an impressive start to 2025. Analysts at Ned Davis Research emphasized in a recent note that no other company seems to be benefiting as much from the current political climate as Coinbase. In Monday trading, shares of Coinbase rose by 2% to $394.79, following a record closing high of $388.96 just days earlier. The stock has jumped an impressive 63% this year and is on track to achieve a market capitalization exceeding $100 billion for the first time. Related Reading: Prepare For ATHs: \u2018XRP Train Has Left The Station \u2013 Analyst A significant turning point for Coinbase came in February when the SEC dropped a lawsuit that had been pending for two years, which accused the company of operating as an unregistered securities exchange. This victory was followed by Coinbase becoming the first cryptocurrency firm to join the S&#38;P 500, further solidifying its status in the market. Investors are particularly optimistic as Congress prepares to discuss three bills aimed at clarifying the regulatory framework surrounding the cryptocurrency sector. The legislation has garnered broad support among crypto advocates. Additionally, the SEC&#8217;s decision to move crypto oversight to its more favorable Cyber &#38; Technology unit and repeal a rule requiring financial institutions to treat crypto custody holdings as liabilities has further boosted market confidence. Positive Long-Term Outlook For Coinbase Looking ahead, analysts from Benchmark Equity Research anticipate that Coinbase will successfully petition the SEC to offer tokenized equities on its platform. CEO Brian Armstrong\u2019s \u201cclose ties to Trump\u201d are expected to play a role in this endeavor. Moreover, Coinbase is well-positioned to benefit from the Clarity Act, one of the bills under consideration, which aims to enhance institutional confidence in digital asset trading and holding. Benchmark has maintained a Buy rating for Coinbase, setting a price target of $421. However, some analysts caution that the positive developments may already be reflected in the stock\u2019s current price. Related Reading: Avalanche Shatters Record With 20M Transactions\u2014Is Real-World Use Finally Here? Owen Lau of Oppenheimer recently assessed the likelihood of the Clarity Act passing at 70% and slightly adjusted his estimates for Coinbase\u2019s trading volume ahead of the company&#8217;s earnings report scheduled for July 31. Even if the upcoming earnings release disappoints, experts believe that the underlying momentum of Coinbase will not be significantly affected. Oppenheimer has reiterated an Outperform rating, raising its price target to $417 from a previous $395. Featured image from DALL-E, chart from TradingView.com"
     }
   ],
   "Bitcoin Magazine": [
     {
+      "title": "The Blockchain Group Raises \u20ac6 Million For Bitcoin Strategy, Purchases More Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/the-blockchain-group-raises-e6-million-for-bitcoin-strategy-purchases-more-bitcoin",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/The-Blockchain-Group-Raises-E6-Million-For-Bitcoin-Strategy-Purchases-More-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/the-blockchain-group-raises-e6-million-for-bitcoin-strategy-purchases-more-bitcoin\" rel=\"nofollow\"> </a></p> <p>The company secures \u20ac5M from Adam Back and adds 29 BTC to its reserve, bringing its total holdings to 1,933 BTC.</p> <p>"
+    },
+    {
       "title": "Roxom Announces Launch of Bitcoin Denominated Capital Market Platform in September",
       "link": "https://bitcoinmagazine.com/news/roxom-announces-launch-of-bitcoin-denominated-capital-market-platform-in-september",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Roxom-Announces-Launch-of-Bitcoin-Denominated-Capital-Market-Platform-in-September.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/roxom-announces-launch-of-bitcoin-denominated-capital-market-platform-in-september\" rel=\"nofollow\"> </a></p> <p>The platform introduces a system where global assets, including equities and futures, can be traded, priced, and settled entirely in Bitcoin.</p> <p>"
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Roxom-Announces-Launch-of-Bitcoin-Denominated-Capital-Market-Platform-in-September-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/roxom-announces-launch-of-bitcoin-denominated-capital-market-platform-in-september\" rel=\"nofollow\"> </a></p> <p>The platform introduces a system where global assets, including equities and futures, can be traded, priced, and settled entirely in Bitcoin.</p> <p>"
     },
     {
       "title": "Tornado Cash Trial Begins with Discussions around Motions In Limine and Data Custodians",
@@ -127,11 +132,6 @@
       "title": "US Regulators Allow Banks Custody Over Bitcoin And Crypto",
       "link": "https://bitcoinmagazine.com/news/us-regulators-allow-banks-custody-over-bitcoin-and-crypto",
       "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/US-Regulators-Allow-Banks-Custody-Over-Bitcoin-And-Crypto-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/news/us-regulators-allow-banks-custody-over-bitcoin-and-crypto\" rel=\"nofollow\"> </a></p> <p>The Federal Reserve, OCC, and FDIC warn banks that safekeeping bitcoin and other crypto-assets demands strong cybersecurity, operational expertise, and full legal compliance.</p> <p>"
-    },
-    {
-      "title": "Make Bitcoin Mining Decentralized Again",
-      "link": "https://bitcoinmagazine.com/business/make-bitcoin-mining-decentralized-again",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\"> </a><br /> <img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/BM-TN.webp\" style=\"display: block; margin: 1em auto;\" /><br /> <a href=\"https://bitcoinmagazine.com/business/make-bitcoin-mining-decentralized-again\" rel=\"nofollow\"> </a></p> <p>From Bitaxes to Heatbits, small and comfortable home mining equipment are retail\u2019s new entry into Bitcoin.</p> <p>"
     }
   ],
   "Decrypt": [
@@ -163,6 +163,11 @@
   ],
   "CryptoBriefing": [
     {
+      "title": "ProShares debuts 2x leveraged XRP, Solana ETFs following NYSE Arca clearance",
+      "link": "https://cryptobriefing.com/leveraged-crypto-etfs-solana-xrp/",
+      "summary": "<p>The launch of leveraged ETFs for Solana and XRP by ProShares could increase investor interest and volatility in these digital assets.</p> <p>"
+    },
+    {
       "title": "GameStop will invest in Bitcoin when upside beats downside, may accept crypto for trading cards: CEO Ryan Cohen",
       "link": "https://cryptobriefing.com/gamestop-bitcoin-investment-trading-cards/",
       "summary": "<p>GameStop's cautious crypto strategy could influence broader retail adoption, highlighting the potential of digital assets in mainstream commerce.</p> <p>"
@@ -181,14 +186,14 @@
       "title": "ProShares leveraged XRP ETF gets NYSE Arca clearance, prepares for trading debut",
       "link": "https://cryptobriefing.com/proshares-ultra-xrp-etf-listing/",
       "summary": "<p>The approval of ProShares' leveraged XRP ETF could boost investor interest in crypto derivatives, potentially increasing market volatility.</p> <p>"
-    },
-    {
-      "title": "Wallet linked to Satoshi-era Bitcoin whale moves 9,000 BTC to Galaxy Digital",
-      "link": "https://cryptobriefing.com/galaxy-digital-receives-4500-btc-from-dormant-80k-btc-whale/",
-      "summary": "<p>The movement of dormant Bitcoin by a whale could impact market stability and spark renewed interest in cryptocurrency security and ownership.</p> <p>"
     }
   ],
   "AMBcrypto": [
+    {
+      "title": "Bitcoin under pressure as Satoshi-era whale sells: Will BTC drop to $108K?",
+      "link": "https://ambcrypto.com/bitcoin-under-pressure-as-satoshi-era-whale-sells-will-btc-drop-to-108k/",
+      "summary": "<img alt=\" \" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Lennox-6.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Will Bitcoin drop to $108K before resuming trend continuation?"
+    },
     {
       "title": "MicroStrategy\u2019s Bitcoin blueprint goes mainstream: Wall Street now holds 6% BTC",
       "link": "https://ambcrypto.com/microstrategys-bitcoin-blueprint-goes-mainstream-wall-street-now-holds-6-btc/",
@@ -208,11 +213,6 @@
       "title": "Institutional money floods Bitcoin \u2013 $2.7B inflows lead the charge!",
       "link": "https://ambcrypto.com/institutional-money-floods-bitcoin-2-7b-inflows-lead-the-charge/",
       "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Samyukhtha-4-1.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />$3.7B in inflows, Grayscale goes IPO, and Vanguard bets on BTC-backed stocks... all while China tightens liquidity and Germany fumbles billions."
-    },
-    {
-      "title": "$500M in XRP moved! \u2013 How whales could drive its next rally",
-      "link": "https://ambcrypto.com/500m-in-xrp-moved-how-whales-could-drive-its-next-rally/",
-      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://ambcrypto.com/wp-content/uploads/2025/07/Evans-2025-07-14T163502.958-min.png\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"1920\" />Whales vanish off-exchange, traders chase XRP on Coinbase. What's this split signal saying?"
     }
   ]
 }
