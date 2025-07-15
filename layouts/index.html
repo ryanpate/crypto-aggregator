@@ -1,32 +1,35 @@
+{{ define "main" }}
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BlockwireNews - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
+    <title>{{ .Title }} - Real-Time Cryptocurrency News & Market Analysis | Bitcoin, Ethereum, DeFi Updates</title>
 
     <!-- SEO Meta Tags -->
-    <meta name="description"
-        content="Get real-time cryptocurrency news, market analysis, and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi, NFT updates 24/7.">
+    <meta name="description" content="{{ .Description | default " Get real-time cryptocurrency news, market analysis,
+        and price predictions. BlockwireNews aggregates top crypto news from leading sources. Bitcoin, Ethereum, DeFi,
+        NFT updates 24/7." }}">
     <meta name="keywords"
         content="cryptocurrency news, bitcoin news, ethereum updates, crypto market analysis, blockchain news, defi news, nft news, crypto price predictions, digital currency, altcoin news">
     <meta name="author" content="BlockwireNews">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.blockwirenews.com/">
+    <link rel="canonical" href="{{ .Permalink }}">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="BlockwireNews - Real-Time Cryptocurrency News Aggregator">
-    <meta property="og:description"
-        content="Stay updated with the latest cryptocurrency news, market analysis, and price predictions from top crypto sources.">
+    <meta property="og:title" content="{{ .Title }} - Real-Time Cryptocurrency News Aggregator">
+    <meta property="og:description" content="{{ .Description | default " Stay updated with the latest cryptocurrency
+        news, market analysis, and price predictions from top crypto sources." }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.blockwirenews.com/">
-    <meta property="og:image" content="https://www.blockwirenews.com/og-image.jpg">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/og-image.jpg">
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="BlockwireNews - Crypto News Aggregator">
-    <meta name="twitter:description" content="Real-time cryptocurrency news and market analysis">
+    <meta name="twitter:title" content="{{ .Title }} - Crypto News Aggregator">
+    <meta name="twitter:description" content="{{ .Description | default " Real-time cryptocurrency news and market
+        analysis" }}">
 
     <!-- Schema.org Markup -->
     <script type="application/ld+json">
@@ -34,8 +37,8 @@
         "@context": "https://schema.org",
         "@type": "NewsMediaOrganization",
         "name": "BlockwireNews",
-        "url": "https://www.blockwirenews.com",
-        "logo": "https://www.blockwirenews.com/logo.png",
+        "url": "{{ .Site.BaseURL }}",
+        "logo": "{{ .Site.BaseURL }}images/logo.png",
         "description": "Real-time cryptocurrency news aggregator providing market analysis and insights"
     }
     </script>
@@ -694,17 +697,17 @@
     <!-- Header -->
     <header>
         <nav>
-            <a href="/" class="logo">
+            <a href="{{ .Site.BaseURL }}" class="logo">
                 <div class="logo-icon"></div>
                 <span class="logo-text">BlockwireNews</span>
             </a>
             <ul class="nav-links">
-                <li><a href="/bitcoin">Bitcoin</a></li>
-                <li><a href="/ethereum">Ethereum</a></li>
-                <li><a href="/defi">DeFi</a></li>
-                <li><a href="/nft">NFTs</a></li>
-                <li><a href="/analysis">Analysis</a></li>
-                <li><a href="/learn">Learn</a></li>
+                <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin</a></li>
+                <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum</a></li>
+                <li><a href="{{ .Site.BaseURL }}defi">DeFi</a></li>
+                <li><a href="{{ .Site.BaseURL }}nft">NFTs</a></li>
+                <li><a href="{{ .Site.BaseURL }}analysis">Analysis</a></li>
+                <li><a href="{{ .Site.BaseURL }}learn">Learn</a></li>
             </ul>
         </nav>
     </header>
@@ -773,41 +776,8 @@
     <section class="news-container">
         <div class="featured-section">
             <h2 class="section-title">🔥 Trending Now</h2>
-            <div class="news-grid">
-                <article class="news-card">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="source-badge">BitcoinMagazine</span>
-                            <time>2 hours ago</time>
-                        </div>
-                        <h3 class="card-title">Bitcoin Hits New All-Time High of $118,667 as Institutional Adoption
-                            Accelerates</h3>
-                        <p class="card-excerpt">Bitcoin's explosive growth continues to outshine gold, stocks, and the
-                            dollar, with 100% of trading days profitable resulting in unmatched long term returns.</p>
-                        <div class="card-tags">
-                            <span class="tag">Bitcoin</span>
-                            <span class="tag">Analysis</span>
-                            <span class="tag">ATH</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="news-card">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="source-badge">CryptoSlate</span>
-                            <time>4 hours ago</time>
-                        </div>
-                        <h3 class="card-title">Ethereum Touches $3,000 Again as ETF Inflows Hit Record $907M Weekly</h3>
-                        <p class="card-excerpt">Ethereum ETFs recorded their best week since launch with combined
-                            inflows of $907.99 million, signaling strong institutional interest.</p>
-                        <div class="card-tags">
-                            <span class="tag">Ethereum</span>
-                            <span class="tag">ETF</span>
-                            <span class="tag">Institutional</span>
-                        </div>
-                    </div>
-                </article>
+            <div class="news-grid" id="featured-news">
+                <!-- Featured news will be loaded here -->
             </div>
         </div>
     </section>
@@ -816,60 +786,11 @@
     <section class="news-container">
         <div class="section-header">
             <h2 class="section-title">Latest News</h2>
-            <a href="/all-news" class="view-all">View All →</a>
+            <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
         </div>
 
-        <div class="news-grid">
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">NewsBTC</span>
-                        <time>30 min ago</time>
-                    </div>
-                    <h3 class="card-title">Solana Shows Renewed Strength as Network Activity Surges Above Key Levels
-                    </h3>
-                    <p class="card-excerpt">Chainlink and Solana show renewed strength as buyers dominate and network
-                        activity surges above key resistance levels.</p>
-                    <div class="card-tags">
-                        <span class="tag">Solana</span>
-                        <span class="tag">Technical Analysis</span>
-                    </div>
-                </div>
-            </article>
-
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">Cointelegraph</span>
-                        <time>1 hour ago</time>
-                    </div>
-                    <h3 class="card-title">AI Tools Transform Crypto Day Trading with Real-Time Sentiment Analysis</h3>
-                    <p class="card-excerpt">AI tools like Grok and ChatGPT are changing how traders approach crypto day
-                        trading, spotting sentiment shifts in real time.</p>
-                    <div class="card-tags">
-                        <span class="tag">AI</span>
-                        <span class="tag">Trading</span>
-                        <span class="tag">Tools</span>
-                    </div>
-                </div>
-            </article>
-
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">Decrypt</span>
-                        <time>2 hours ago</time>
-                    </div>
-                    <h3 class="card-title">Gaming Tokens Expand Cross-Chain as Off the Grid Launches on Solana</h3>
-                    <p class="card-excerpt">Off the Grid's GUN token has expanded from Avalanche to Solana, marking a
-                        new era in cross-chain gaming assets.</p>
-                    <div class="card-tags">
-                        <span class="tag">Gaming</span>
-                        <span class="tag">Solana</span>
-                        <span class="tag">Cross-chain</span>
-                    </div>
-                </div>
-            </article>
+        <div class="news-grid" id="latest-news">
+            <!-- Latest news will be loaded here -->
         </div>
     </section>
 
@@ -881,64 +802,15 @@
         </div>
     </div>
 
-    <!-- DeFi News Section -->
+    <!-- More News Section -->
     <section class="news-container">
         <div class="section-header">
-            <h2 class="section-title">DeFi & Web3</h2>
-            <a href="/defi" class="view-all">View All →</a>
+            <h2 class="section-title">More Stories</h2>
+            <a href="{{ .Site.BaseURL }}all-news" class="view-all">View All →</a>
         </div>
 
-        <div class="news-grid">
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">CryptoBriefing</span>
-                        <time>3 hours ago</time>
-                    </div>
-                    <h3 class="card-title">Tether Shifts Focus to Scalable Networks, Driving Innovation in DeFi</h3>
-                    <p class="card-excerpt">Tether's strategic shift to focus on scalable, high-utility networks may
-                        drive innovation and efficiency in blockchain adoption.</p>
-                    <div class="card-tags">
-                        <span class="tag">Tether</span>
-                        <span class="tag">DeFi</span>
-                        <span class="tag">Scalability</span>
-                    </div>
-                </div>
-            </article>
-
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">AMBCrypto</span>
-                        <time>5 hours ago</time>
-                    </div>
-                    <h3 class="card-title">AVAX Bulls Target $20 Resistance as DeFi TVL Reaches New Heights</h3>
-                    <p class="card-excerpt">AVAX bulls mean business! But if $20 cracks, this rally might unravel faster
-                        than expected.</p>
-                    <div class="card-tags">
-                        <span class="tag">Avalanche</span>
-                        <span class="tag">DeFi</span>
-                        <span class="tag">TVL</span>
-                    </div>
-                </div>
-            </article>
-
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">CryptoSlate</span>
-                        <time>6 hours ago</time>
-                    </div>
-                    <h3 class="card-title">Pump.fun Raises $600M in 12 Minutes for Memecoin Platform Token</h3>
-                    <p class="card-excerpt">The rapid sell-out and price surge of PUMP tokens highlight strong investor
-                        interest in meme coin markets.</p>
-                    <div class="card-tags">
-                        <span class="tag">Memecoins</span>
-                        <span class="tag">ICO</span>
-                        <span class="tag">Funding</span>
-                    </div>
-                </div>
-            </article>
+        <div class="news-grid" id="more-news">
+            <!-- More news will be loaded here -->
         </div>
     </section>
 
@@ -977,36 +849,36 @@
             <div class="footer-section">
                 <h3>Categories</h3>
                 <ul>
-                    <li><a href="/bitcoin">Bitcoin News</a></li>
-                    <li><a href="/ethereum">Ethereum Updates</a></li>
-                    <li><a href="/altcoins">Altcoin Analysis</a></li>
-                    <li><a href="/defi">DeFi Insights</a></li>
-                    <li><a href="/nft">NFT Market</a></li>
-                    <li><a href="/regulation">Regulation</a></li>
+                    <li><a href="{{ .Site.BaseURL }}bitcoin">Bitcoin News</a></li>
+                    <li><a href="{{ .Site.BaseURL }}ethereum">Ethereum Updates</a></li>
+                    <li><a href="{{ .Site.BaseURL }}altcoins">Altcoin Analysis</a></li>
+                    <li><a href="{{ .Site.BaseURL }}defi">DeFi Insights</a></li>
+                    <li><a href="{{ .Site.BaseURL }}nft">NFT Market</a></li>
+                    <li><a href="{{ .Site.BaseURL }}regulation">Regulation</a></li>
                 </ul>
             </div>
 
             <div class="footer-section">
                 <h3>Resources</h3>
                 <ul>
-                    <li><a href="/price-tracker">Price Tracker</a></li>
-                    <li><a href="/market-analysis">Market Analysis</a></li>
-                    <li><a href="/crypto-guides">Crypto Guides</a></li>
-                    <li><a href="/glossary">Glossary</a></li>
-                    <li><a href="/tools">Trading Tools</a></li>
-                    <li><a href="/api">Developer API</a></li>
+                    <li><a href="{{ .Site.BaseURL }}price-tracker">Price Tracker</a></li>
+                    <li><a href="{{ .Site.BaseURL }}market-analysis">Market Analysis</a></li>
+                    <li><a href="{{ .Site.BaseURL }}crypto-guides">Crypto Guides</a></li>
+                    <li><a href="{{ .Site.BaseURL }}glossary">Glossary</a></li>
+                    <li><a href="{{ .Site.BaseURL }}tools">Trading Tools</a></li>
+                    <li><a href="{{ .Site.BaseURL }}api">Developer API</a></li>
                 </ul>
             </div>
 
             <div class="footer-section">
                 <h3>Company</h3>
                 <ul>
-                    <li><a href="/about">About Us</a></li>
-                    <li><a href="/advertise">Advertise</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                    <li><a href="/privacy">Privacy Policy</a></li>
-                    <li><a href="/terms">Terms of Service</a></li>
-                    <li><a href="/sitemap.xml">Sitemap</a></li>
+                    <li><a href="{{ .Site.BaseURL }}about">About Us</a></li>
+                    <li><a href="{{ .Site.BaseURL }}advertise">Advertise</a></li>
+                    <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
+                    <li><a href="{{ .Site.BaseURL }}privacy">Privacy Policy</a></li>
+                    <li><a href="{{ .Site.BaseURL }}terms">Terms of Service</a></li>
+                    <li><a href="{{ .Site.BaseURL }}sitemap.xml">Sitemap</a></li>
                 </ul>
             </div>
         </div>
@@ -1039,6 +911,170 @@
             floatingCoins.appendChild(coin);
         }
 
+        // Function to calculate relative time
+        function getRelativeTime(dateString) {
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffInSeconds = Math.floor((now - date) / 1000);
+
+            if (diffInSeconds < 60) return 'just now';
+            if (diffInSeconds < 3600) return Math.floor(diffInSeconds / 60) + ' min ago';
+            if (diffInSeconds < 86400) return Math.floor(diffInSeconds / 3600) + ' hours ago';
+            if (diffInSeconds < 604800) return Math.floor(diffInSeconds / 86400) + ' days ago';
+            return date.toLocaleDateString();
+        }
+
+        // Function to generate tags from title
+        function generateTags(title, summary = '') {
+            const content = (title + ' ' + summary).toLowerCase();
+            const tags = [];
+
+            // Common crypto terms to look for
+            const cryptoTerms = {
+                'bitcoin': 'Bitcoin',
+                'btc': 'Bitcoin',
+                'ethereum': 'Ethereum',
+                'eth': 'Ethereum',
+                'defi': 'DeFi',
+                'nft': 'NFT',
+                'altcoin': 'Altcoin',
+                'trading': 'Trading',
+                'analysis': 'Analysis',
+                'market': 'Market',
+                'price': 'Price',
+                'solana': 'Solana',
+                'cardano': 'Cardano',
+                'ada': 'Cardano',
+                'xrp': 'XRP',
+                'ripple': 'Ripple',
+                'doge': 'Dogecoin',
+                'shib': 'Shiba Inu',
+                'avax': 'Avalanche',
+                'matic': 'Polygon',
+                'link': 'Chainlink',
+                'dot': 'Polkadot',
+                'uni': 'Uniswap',
+                'stablecoin': 'Stablecoin',
+                'usdt': 'Tether',
+                'usdc': 'USDC',
+                'blockchain': 'Blockchain',
+                'web3': 'Web3',
+                'metaverse': 'Metaverse',
+                'dao': 'DAO',
+                'yield': 'Yield',
+                'staking': 'Staking',
+                'mining': 'Mining',
+                'wallet': 'Wallet',
+                'exchange': 'Exchange',
+                'regulation': 'Regulation',
+                'sec': 'SEC',
+                'etf': 'ETF'
+            };
+
+            for (const [term, tag] of Object.entries(cryptoTerms)) {
+                if (content.includes(term) && !tags.includes(tag)) {
+                    tags.push(tag);
+                    if (tags.length >= 3) break; // Limit to 3 tags
+                }
+            }
+
+            // If no tags found, add generic one
+            if (tags.length === 0) {
+                tags.push('Crypto News');
+            }
+
+            return tags;
+        }
+
+        // Function to create news card HTML
+        function createNewsCard(article) {
+            const sourceName = article.source || 'Crypto News';
+            const relativeTime = getRelativeTime(new Date()); // Since crypto.json doesn't have dates, we'll use current time
+            const tags = generateTags(article.title, article.summary || '');
+
+            // Clean up summary HTML if present
+            let summary = article.summary || '';
+            if (summary.includes('<')) {
+                // Strip HTML tags
+                summary = summary.replace(/<[^>]*>/g, '');
+            }
+
+            return `
+                <article class="news-card">
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="source-badge">${sourceName}</span>
+                            <time>${relativeTime}</time>
+                        </div>
+                        <h3 class="card-title">
+                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+                                ${article.title}
+                            </a>
+                        </h3>
+                        ${summary ?
+                    `<p class="card-excerpt">${summary.substring(0, 150)}${summary.length > 150 ? '...' : ''}</p>` :
+                    ''
+                }
+                        <div class="card-tags">
+                            ${tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                        </div>
+                    </div>
+                </article>
+            `;
+        }
+
+        // Get news data from Hugo's data files
+        const newsData = {{ .Site.Data.crypto | jsonify | safeJS }};
+
+        // Function to display news
+        function displayNews() {
+            // Flatten all news sources into one array
+            let allArticles = [];
+            for (const [source, articles] of Object.entries(newsData)) {
+                // Add source name to each article
+                articles.forEach(article => {
+                    article.source = source;
+                    allArticles.push(article);
+                });
+            }
+
+            // Shuffle articles to mix sources
+            allArticles.sort(() => Math.random() - 0.5);
+
+            // Display featured news (first 4 articles)
+            const featuredContainer = document.getElementById('featured-news');
+            if (featuredContainer && allArticles.length > 0) {
+                featuredContainer.innerHTML = allArticles
+                    .slice(0, 4)
+                    .map(article => createNewsCard(article))
+                    .join('');
+            }
+
+            // Display latest news (next 9 articles)
+            const latestContainer = document.getElementById('latest-news');
+            if (latestContainer && allArticles.length > 4) {
+                latestContainer.innerHTML = allArticles
+                    .slice(4, 13)
+                    .map(article => createNewsCard(article))
+                    .join('');
+            }
+
+            // Display more news (remaining articles)
+            const moreContainer = document.getElementById('more-news');
+            if (moreContainer && allArticles.length > 13) {
+                moreContainer.innerHTML = allArticles
+                    .slice(13, 22)
+                    .map(article => createNewsCard(article))
+                    .join('');
+            }
+        }
+
+        // Display news on page load
+        document.addEventListener('DOMContentLoaded', displayNews);
+
+        // Note: Since the data is rendered server-side, it won't auto-refresh
+        // To get fresh data, the page needs to be reloaded or you'll need an API endpoint
+
         // Smooth scroll for anchor links
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
@@ -1057,7 +1093,7 @@
         searchBtn.addEventListener('click', () => {
             const query = searchBar.value.trim();
             if (query) {
-                window.location.href = `/search?q=${encodeURIComponent(query)}`;
+                window.location.href = `{{ .Site.BaseURL }}search?q=${encodeURIComponent(query)}`;
             }
         });
 
@@ -1066,16 +1102,8 @@
                 searchBtn.click();
             }
         });
-
-        // Dynamic time updates
-        function updateTimes() {
-            const timeElements = document.querySelectorAll('time');
-            // In production, calculate actual time differences
-        }
-
-        // Update times every minute
-        setInterval(updateTimes, 60000);
     </script>
 </body>
 
 </html>
+{{ end }}
