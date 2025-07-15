@@ -1,29 +1,181 @@
 {{ define "main" }}
+<!-- Hero Section -->
 <section class="hero">
-    <div class="container">
-        <h1>Real-Time Crypto News Aggregator</h1>
-        <p>Stay ahead with curated cryptocurrency news from top sources worldwide</p>
+    <h1>Real-Time Crypto News Aggregator</h1>
+    <p>Stay ahead with curated cryptocurrency news from top sources worldwide</p>
+
+    <!-- Search Bar -->
+    <div class="search-container">
+        <input type="search" class="search-bar" placeholder="Search for Bitcoin, Ethereum, DeFi news...">
+        <button class="search-btn">🔍</button>
     </div>
 </section>
 
+<!-- AdSense - Above the fold -->
+<div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
+        data-ad-slot="YOUR-AD-SLOT-ID-HOME-1" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+<!-- Market Overview -->
 <section class="news-container">
-    <div class="container">
-        <h2>Latest News</h2>
-        <div class="news-grid">
-            {{ range first 12 .Site.RegularPages }}
-            <article class="news-card">
-                <div class="card-content">
-                    <h3 class="card-title">
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    </h3>
-                    <time>{{ .Date.Format "Jan 2, 2006" }}</time>
-                    {{ with .Summary }}
-                    <p class="card-excerpt">{{ . | truncate 150 }}</p>
-                    {{ end }}
-                </div>
-            </article>
-            {{ end }}
+    <div class="market-overview">
+        <div class="market-card">
+            <h3>Market Cap</h3>
+            <div class="market-value">$4.2T</div>
+            <div class="market-change positive">↑ 3.2%</div>
+        </div>
+        <div class="market-card">
+            <h3>24h Volume</h3>
+            <div class="market-value">$142B</div>
+            <div class="market-change positive">↑ 12.5%</div>
+        </div>
+        <div class="market-card">
+            <h3>BTC Dominance</h3>
+            <div class="market-value">52.3%</div>
+            <div class="market-change negative">↓ 0.8%</div>
+        </div>
+        <div class="market-card">
+            <h3>Active Cryptos</h3>
+            <div class="market-value">24,352</div>
+            <div class="market-change positive">↑ 142</div>
         </div>
     </div>
 </section>
-{{ end }}
+
+<!-- Featured Section -->
+<section class="news-container">
+    <div class="featured-section">
+        <h2 class="section-title">🔥 Trending Now</h2>
+        <div class="news-grid">
+            <article class="news-card">
+                <div class="card-content">
+                    <div class="card-meta">
+                        <span class="source-badge">BitcoinMagazine</span>
+                        <time>2 hours ago</time>
+                    </div>
+                    <h3 class="card-title">Bitcoin Hits New All-Time High of $118,667 as Institutional Adoption
+                        Accelerates</h3>
+                    <p class="card-excerpt">Bitcoin's explosive growth continues to outshine gold, stocks, and the
+                        dollar, with 100% of trading days profitable resulting in unmatched long term returns.</p>
+                    <div class="card-tags">
+                        <span class="tag">Bitcoin</span>
+                        <span class="tag">Analysis</span>
+                        <span class="tag">ATH</span>
+                    </div>
+                </div>
+            </article>
+
+            <article class="news-card">
+                <div class="card-content">
+                    <div class="card-meta">
+                        <span class="source-badge">CryptoSlate</span>
+                        <time>4 hours ago</time>
+                    </div>
+                    <h3 class="card-title">Ethereum Touches $3,000 Again as ETF Inflows Hit Record $907M Weekly</h3>
+                    <p class="card-excerpt">Ethereum ETFs recorded their best week since launch with combined inflows of
+                        $907.99 million, signaling strong institutional interest.</p>
+                    <div class="card-tags">
+                        <span class="tag">Ethereum</span>
+                        <span class="tag">ETF</span>
+                        <span class="tag">Institutional</span>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+
+<!-- Latest News -->
+<section class="news-container">
+    <div class="section-header">
+        <h2 class="section-title">Latest News</h2>
+        <a href="{{ .Site.BaseURL }}all-news/" class="view-all">View All →</a>
+    </div>
+
+    <div class="news-grid">
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">NewsBTC</span>
+                    <time>30 min ago</time>
+                </div>
+                <h3 class="card-title">Solana Shows Renewed Strength as Network Activity Surges Above Key Levels</h3>
+                <p class="card-excerpt">Chainlink and Solana show renewed strength as buyers dominate and network
+                    activity surges above key resistance levels.</p>
+                <div class="card-tags">
+                    <span class="tag">Solana</span>
+                    <span class="tag">Technical Analysis</span>
+                </div>
+            </div>
+        </article>
+
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">Cointelegraph</span>
+                    <time>1 hour ago</time>
+                </div>
+                <h3 class="card-title">AI Tools Transform Crypto Day Trading with Real-Time Sentiment Analysis</h3>
+                <p class="card-excerpt">AI tools like Grok and ChatGPT are changing how traders approach crypto day
+                    trading, spotting sentiment shifts in real time.</p>
+                <div class="card-tags">
+                    <span class="tag">AI</span>
+                    <span class="tag">Trading</span>
+                    <span class="tag">Tools</span>
+                </div>
+            </div>
+        </article>
+
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">Decrypt</span>
+                    <time>2 hours ago</time>
+                </div>
+                <h3 class="card-title">Gaming Tokens Expand Cross-Chain as Off the Grid Launches on Solana</h3>
+                <p class="card-excerpt">Off the Grid's GUN token has expanded from Avalanche to Solana, marking a new
+                    era in cross-chain gaming assets.</p>
+                <div class="card-tags">
+                    <span class="tag">Gaming</span>
+                    <span class="tag">Solana</span>
+                    <span class="tag">Cross-chain</span>
+                </div>
+            </div>
+        </article>
+    </div>
+</section>
+
+<!-- AdSense - Mid content -->
+<div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5523870768931777"
+        data-ad-slot="YOUR-AD-SLOT-ID-HOME-2" data-ad-format="rectangle" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+<!-- DeFi News Section -->
+<section class="news-container">
+    <div class="section-header">
+        <h2 class="section-title">DeFi & Web3</h2>
+        <a href="{{ .Site.BaseURL }}defi-news/" class="view-all">View All →</a>
+    </div>
+
+    <div class="news-grid">
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">CryptoBriefing</span>
+                    <time>3 hours ago</time>
+                </div>
+                <h3 class="card-title">Tether Shifts Focus to Scalable Networks, Driving Innovation in DeFi</h3>
+                <p class="card-excerpt">Tether's strategic shift to focus on scalable, high-utility networks may drive
+                    innovation and efficiency in blockchain adoption.</p>
+                <div class="card-tags">
+                    <span class="tag">Tether</span>
+                    <span class="tag">DeFi</span>
+                    <span class="tag">Scalability</sp
